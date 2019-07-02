@@ -980,7 +980,7 @@ ul.castList {
 }
 
 /* numbering */
-.cb, .pb, .ed, small.l, small.l-n {
+a.cb, a.pb, a.ed, small.l, small.l-n {
   font-weight: normal;
   font-style: normal;
   margin-top: 0;
@@ -995,7 +995,7 @@ ul.castList {
   user-select: none;
 }
 
-.cb, .pb, .ed {
+a.cb, a.pb, .ed {
   padding: 1px 2px 1px 2px;
   position: absolute;
   left: -1rem;
@@ -1004,7 +1004,7 @@ ul.castList {
   /* float: right; problèmes dans les tableaux */
 }
 
-.lb, .l-n {
+a.lb, small.l-n {
   position: absolute;
   left: 0.7rem;
   font-size: 0.7rem;

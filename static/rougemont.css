@@ -21,6 +21,16 @@ body {
 }
 
 /** Global disposition */
+#header {
+  position: relative;
+  z-index: 2;
+  margin-top: 1.5em;
+}
+#top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 #footer {
   margin-top: auto;
   height: 100px;
@@ -32,6 +42,7 @@ body {
   margin-right: auto;
 }
 #toc {
+  padding-top: 2em;
   max-width: 30ex;
   position: fixed;
   top: 0;
@@ -41,10 +52,6 @@ body {
 #content {
   margin-left: 30ex;
   max-width: 100ex;
-}
-#header {
-  position: relative;
-  z-index: 2;
 }
 #footer {
   position: relative;

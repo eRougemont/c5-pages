@@ -24,7 +24,9 @@
     <script>
 clientSideInclude("content", "inc/ddr1939ao.html");
 clientSideInclude("toc", "inc/ddr1939ao_toc.html");
-Tree.load("toc");
+setTimeout(function(){
+  Tree.load("toc");
+}, 1000);
     </script>
   </body>
 </html>
