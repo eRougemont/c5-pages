@@ -1,75 +1,132 @@
 @charset "UTF-8";
+
 /**
  * Global
  */
-html, body {
+html {
   height: 100%;
+}
+
+body {
+  min-height: 100%;
+  position: relative;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 * {
   box-sizing: border-box;
 }
 
+/** Global disposition */
+#footer {
+  margin-top: auto;
+  height: 100px;
+  padding: 1ex;
+}
+
+#main {
+  margin-left: auto;
+  margin-right: auto;
+}
+#toc {
+  max-width: 30ex;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+#content {
+  margin-left: 30ex;
+  max-width: 100ex;
+}
+#header {
+  position: relative;
+  z-index: 2;
+}
+#footer {
+  position: relative;
+  z-index: 2;
+}
 /** Global colors and fonts */
-.menu {
+.menu, #header, #footer {
   font: 16px/24px sans-serif;
-  background: #888;
 }
-.menu a {
-  background: #888;
-	color: #FFFFFF;
+
+#header, #footer {
+  background: #CCC;
 }
+
+#content {
+  padding: 2em;
+}
+
+.menu, .menu a {
+  background: #888;
+  color: #FFFFFF;
+}
+
 .menu a:hover {
-	background: #333;
+  background: #333;
 }
+
 
 /** Dropdown menu : colors and functions */
 .menu {
   width: 100%;
 }
+
 .menu ul {
-  cursor: pointer;
+  cursor: default;
 }
+
 .menu #qform {
   text-align: right;
 }
+
 .menu ul, .menu li {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
+
 .menu ul {
-	list-style: none;
-	width: 100%;
+  list-style: none;
+  width: 100%;
 }
+
 .menu li {
-	float: left;
-	position: relative;
-	width:auto;
+  float: left;
+  position: relative;
+  width: auto;
 }
+
 .menu a {
   text-decoration: none;
-	display: block;
-	padding: 2px 1ex;
+  display: block;
+  padding: 2px 1ex;
 }
+
 .menu ul ul {
   width: auto;
-	left: 0;
-	opacity: 0;
-	position: absolute;
-	visibility: hidden;
-	z-index: 1;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  visibility: hidden;
+  z-index: 1;
 }
+
 .menu ul ul li {
   width: auto;
-	float: none;
+  float: none;
 }
+
 .menu li:hover ul {
-	opacity: 1;
-	visibility: visible;
+  opacity: 1;
+  visibility: visible;
 }
-.menu ul ul a:hover {
-}
-.menu ul ul a {
-}
+
+.menu ul ul a:hover {}
+
+.menu ul ul a {}
