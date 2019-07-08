@@ -26,11 +26,13 @@ body {
   z-index: 2;
   margin-top: 1.5em;
 }
+
 #top {
   position: fixed;
   top: 0;
   width: 100%;
 }
+
 #footer {
   margin-top: auto;
   height: 100px;
@@ -41,6 +43,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 #toc {
   padding-top: 2em;
   max-width: 30ex;
@@ -49,14 +52,12 @@ body {
   bottom: 0;
   overflow-y: auto;
 }
-#content {
-  margin-left: 30ex;
-  max-width: 100ex;
-}
+
 #footer {
   position: relative;
   z-index: 2;
 }
+
 /** Global colors and fonts */
 .menu, #header, #footer {
   font: 16px/24px sans-serif;
@@ -79,8 +80,7 @@ body {
   background: #333;
 }
 
-
-/** Dropdown menu : colors and functions */
+/** Top menu : colors and functions */
 .menu {
   width: 100%;
 }
@@ -137,3 +137,81 @@ body {
 .menu ul ul a:hover {}
 
 .menu ul ul a {}
+
+/** List of books */
+
+table.sortable caption {
+  text-align: left;
+}
+
+table.thumbs {
+  width: 100%;
+}
+
+td.cover {
+  text-align: center;
+  vertical-align: middle;
+}
+
+td.cover img {
+  height: 300px;
+}
+
+table.thumbs thead, table.thumbs tfoot {
+  display: none;
+}
+
+table.thumbs tbody {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  border: none;
+}
+
+/* Sotables has automatic classes */
+table.thumbs tr.even, table.thumbs tr.odd, table.thumbs tr.odd td, table.thumbs tr.even td, table.thumbs tr.mod3 td, table.thumbs tr.mod5 td, table.thumbs tr.mod10 td {}
+
+table.thumbs tbody tr {
+  position: relative;
+  display: block;
+  width: 300px;
+  text-align: center;
+  background: #EEEEEE;
+  border: 1px #CCCCCC solid;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+table.sortable td.cover, table.sortable th.cover {
+  display: none;
+}
+
+table.thumbs td.cover {
+  display: block;
+}
+
+table.thumbs th.cover {
+  display: table-cell;
+}
+
+table.thumbs tbody td {
+  display: block;
+  border: none !important;
+  box-shadow: unset !important;
+}
+
+table.thumbs td.year {
+  position: absolute;
+  color: #000;
+  top: 4px;
+  width: 4rem;
+  left: 50%;
+  margin-left: -2rem;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.7) !important;
+}
+
+table.thumbs td.title, table.thumbs td.title a {}
+
+table.thumbs td.publisher {}

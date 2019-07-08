@@ -74,29 +74,29 @@ var Sortable = {
     var css = document.createElementNS("http://www.w3.org/1999/xhtml", "style");
     css.type = "text/css";
     css.innerHTML = "\
-table.sortable { font-family: sans-serif; font-size: 12px; line-height: 105%; border: 1px solid; border-color: #CCCCCC; margin-top: 1rem; margin-bottom: 2em; border-collapse: collapse; } \
-table.sortable caption { background-color: #F5F3EB; padding: 7px 1ex 5px 1ex; font-size: 16px; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; border-right: #FFFFFF 1px solid; color: #666; font-weight: bold; line-height: 1.2em; } \
-table.sortable td { vertical-align: top; border-left: #BBD 1px solid; border-right: #BBD 1px solid; padding: 2px 1ex; color: #333; } \
-table.sortable b { color: black; }\
-table.sortable td.string { text-align: left; } \
-tr.even { background-color: #FFFFFF; } \
-tr.odd { background: -moz-linear-gradient( left, #EEE, #FFF 30%, #F5F3EB ); background: -webkit-linear-gradient( left, #EEE, #FFF 30%, #F5F3EB ); background: -ms-linear-gradient( left, #EEE, #FFF 30%, #F5F3EB ); background: -o-linear-gradient( left, #EEE, #FFF 30%, #F5F3EB ); background: linear-gradient( to right, #EEE, #FFF 30%, #F5F3EB ); } /* #F5F3EB; */ \
-tr.odd td { border-bottom: 1px solid #EEF; border-top: 1px solid #EEF } \
-table.sortable th { text-align: center; vertical-align: middle; text-align: left; padding: 5px 1ex 5px 1ex; background-color: #FFFFFF; border-top: 2px solid #CCCCCC; border-bottom: 1px solid #666; box-shadow: 0 4px 2px -2px #99C; } \
-table.sortable thead th { border-left: #BBD 1px solid; } \
-table.sortable th.head, table.sortable td.head { vertical-align: bottom; } \
-tr.even th, tr.odd th { text-align: right; } \
-table.sortable tr.mod5 td { border-bottom: solid 1px rgba( 171, 170, 164, 0.8); } \
-table.sortable tr.mod10 td { border-bottom: solid 2px rgba( 171, 170, 164, 0.5); box-shadow: 0 4px 2px -2px rgba( 171, 170, 164, 0.8); } \
-table.sortable tr:hover { background: #FFFFEE; color: black; } \
-table.sortable tr:hover a { color: black; } \
-table.sortable a { text-decoration: none; } \
-table.sortable th a { display:block; } \
-table.sortable a:hover { background: #FFFFFF; box-shadow: 0px 0px 20px #AAAAAA; } \
-table.sortable th a:hover { background-color: #FFFFFF; border: none} \
-th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 85%; padding: 0 1px; } \
-.sortheader { cursor: pointer; } \
-/* .sortheader b { -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; } */ \
+table.sortable {font-family: sans-serif; font-size: 12px; line-height: 105%; border: 1px solid; border-color: #CCCCCC; margin-top: 1rem; margin-bottom: 2em; border-collapse: collapse; } \
+table.sortable caption {background-color: #F5F3EB; padding: 7px 1ex 5px 1ex; font-size: 16px; border-top: #FFFFFF 1px solid; border-left: #FFFFFF 1px solid; border-right: #FFFFFF 1px solid; color: #666; font-weight: bold; line-height: 1.2em; } \
+table.sortable td {vertical-align: top; border-left: #BBD 1px solid; border-right: #BBD 1px solid; padding: 2px 1ex; color: #333; } \
+table.sortable b {color: black; }\
+table.sortable td.string {text-align: left; } \
+tr.even {background-color: #FFFFFF; } \
+tr.odd {background: -moz-linear-gradient(left, #EEE, #FFF 30%, #F5F3EB); background: -webkit-linear-gradient(left, #EEE, #FFF 30%, #F5F3EB); background: -ms-linear-gradient(left, #EEE, #FFF 30%, #F5F3EB); background: -o-linear-gradient(left, #EEE, #FFF 30%, #F5F3EB); background: linear-gradient(to right, #EEE, #FFF 30%, #F5F3EB); } /* #F5F3EB; */ \
+tr.odd td {border-bottom: 1px solid #EEF; border-top: 1px solid #EEF } \
+table.sortable th {text-align: center; vertical-align: middle; text-align: left; padding: 5px 1ex 5px 1ex; background-color: #FFFFFF; border-top: 2px solid #CCCCCC; border-bottom: 1px solid #666; box-shadow: 0 4px 2px -2px #99C; } \
+table.sortable thead th {border-left: #BBD 1px solid; } \
+table.sortable th.head, table.sortable td.head {vertical-align: bottom; } \
+tr.even th, tr.odd th {text-align: right; } \
+table.sortable tr.mod5 td {border-bottom: solid 1px rgba(171, 170, 164, 0.8); } \
+table.sortable tr.mod10 td {border-bottom: solid 2px rgba(171, 170, 164, 0.5); box-shadow: 0 4px 2px -2px rgba(171, 170, 164, 0.8); } \
+table.sortable tr:hover {background: #FFFFEE; color: black; } \
+table.sortable tr:hover a {color: black; } \
+table.sortable a {text-decoration: none; } \
+table.sortable th a {display:block; } \
+table.sortable a:hover {background: #FFFFFF; box-shadow: 0px 0px 20px #AAAAAA; } \
+table.sortable th a:hover {background-color: #FFFFFF; border: none} \
+th.num, table.sortable th.num {text-align: right; font-weight: 100; font-size: 85%; padding: 0 1px; } \
+.sortheader {cursor: pointer; } \
+/* .sortheader b {-webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; } */ \
 ";
     var head = document.getElementsByTagName('head')[0];
     head.insertBefore(css, head.firstChild);
@@ -132,50 +132,43 @@ th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 
   /**
    * Sort a prepared table. For string values, the trick is to modify the String.toString() method
    * so that we can give what we want for table row <tr>, especially a prepared sort key
-   * for the requested row. row[key] is a 10 chars string prepared with this.key().
+   * for the requested row.
    */
-  sort: function( table, key, reverse ) {
+  sort: function(table, key, reverse) {
     // waited object not found, go out
     if (!table.lines) return;
     // get the first non empty value of the column
+    /*
     var i=0;
     var max = table.lines.length;
-    while ( !table.lines[i][key] && i < max ) i++;
-    console.log(i+" "+table.lines[i][key]);
-    // seems numerical key
-    if (table.lines[i][key] === 0+table.lines[i][key]) {
-      var comparator=function(a, b) {
-        return b[key] - a[key]; // for numeric keys, default, bigger first
-      }
-      if (reverse) table.lines.reverse(comparator);
-      else table.lines.sort(comparator);
-    }
-    else {
-      // This hack is said to be
-
-      /* Too much hacky
-      // special case, a second sort, return 2 keys to sort on 2 columns
-      if (Sortable.lastKey && Sortable.lastKey != key) {
-        // if last key is numerical, normalize it with some 0000
-        if (table.lines[0][Sortable.lastKey] === +table.lines[0][Sortable.lastKey]) {
-          String.prototype.toString = function () { return this[key]+"0000000000".substr((''+this[Sortable.lastKey]).length)+this[Sortable.lastKey];};
-        }
-        else {
-          String.prototype.toString = function () { return this[key]+this[Sortable.lastKey];};
-        }
-      }
-      */
-      // save native String.toString()
-      var save = String.prototype.toString;
-      // localeCompare() is to slow, our ADCII key approach is better
-      // set the method
-      String.prototype.toString = function () { return this[key];};
-      // do the sort
-      if (reverse) table.lines.reverse();
-      else table.lines.sort();
-      // restore native String.toString()
-      String.prototype.toString = save;
-    }
+    while (!table.lines[i][key] && i < max) i++;
+    */
+    // seems numerical key, do something ?
+    // if (table.lines[i][key] === 0+table.lines[i][key])
+    // table.reverse() does not seem to accept a sort function
+    if (reverse) table.lines.sort(function(a, b) {
+      if (a[key] > b[key]) return -1;
+      else if (a[key] == b[key]) return 0;
+      else return 1;
+    });
+    else table.lines.sort(function(a, b) {
+      if (a[key] > b[key]) return 1;
+      else if (a[key] == b[key]) return 0;
+      else return -1;
+    });
+    /*
+    // This hack was a quite efficient sort
+    // save native String.toString()
+    var save = String.prototype.toString;
+    // localeCompare() is to slow, our ADCII key approach is better
+    // set the method
+    String.prototype.toString = function () {return this[key];};
+    // do the sort
+    if (reverse) table.lines.reverse();
+    else table.lines.sort();
+    // restore native String.toString()
+    String.prototype.toString = save;
+    */
     // affect the sorted <tr> to the table as a innerHTML
     // var tbody = table.getElementsByTagName('tbody')[0];
     table.tBodies[0].innerHTML= table.lines.join("\n");
@@ -185,13 +178,13 @@ th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 
   /**
    * normalize table, add events to top cells, take a copy of the table as an array of string
    */
-  create: function( table ) {
+  create: function(table) {
     // already done
     if (table.sortable) return false;
     // not enough rows, go away
-    if ( table.rows.length < 2 ) return false;
+    if (table.rows.length < 2) return false;
     // if no tHead, create it with first row
-    if ( !table.tHead ) {
+    if (!table.tHead) {
       table.createTHead().appendChild(table.rows[0]);
     }
     firstRow = table.tHead.rows[0];
@@ -207,18 +200,20 @@ th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 
     }
     if (!table.tBodies) {
       tbody = table.createTBody();
-      for (i=1; i < table.rows.length; i++) tbody.appendChild(table.rows[i]);
+      var length = table.rows.length;
+      for (i=1; i < len; i++) tbody.appendChild(table.rows[i]);
     }
     else tbody = table.tBodies[0];
 
-
+    // to paint fast the sorted table, keep rows as an array of strings
     var row, s;
     table.lines=new Array();
-    for ( i = tbody.rows.length-1; i >=0; i-- ) {
+    for (i = tbody.rows.length-1; i >=0; i--) {
       row = tbody.rows[i];
       Sortable.paint(row, i+1);
       // get the <tr> html as a String object
-      s=new String( row.outerHTML || new XMLSerializer().serializeToString(row).replace( ' xmlns="http://www.w3.org/1999/xhtml"', '' ) );
+      s=new String(row.outerHTML || new XMLSerializer().serializeToString(row).replace(' xmlns="http://www.w3.org/1999/xhtml"', ''));
+      // prepare the key
       for (k=row.cells.length -1; k>-1; k--) s['key'+k]=Sortable.key(row.cells[k]);
       table.lines[i]=s;
     }
@@ -235,17 +230,15 @@ th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 
     else if (text.hasAttribute("data-sort")) text=text.getAttribute("data-sort");
     else if (text.textContent) text=text.textContent;
     else text = text.innerHTML.replace(/<.+>/g, '');
-    // incredibly slow in chrome
-    // else if (text.innerText) text=text.innerText;
-    // return text.substring(0, 10) ;
+    // innerText could be very slow (infers CSS visibility)
     text=Sortable.trim(text);
     // num
     n=parseFloat(text.replace(/,/g, '.').replace(/[  x×/]/g, ''));
     // text
     if (isNaN(n)) {
-      text=text.toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/ç/g, 'c').replace(/ñ/g, 'n').replace(/[éèêë]/g, 'e').replace(/[áàâä]/g, 'a').replace(/[íìîï]/g, 'i').replace(/úùûü/, 'u').replace(/\W/g, '') ;
+      text=text.toLowerCase().replace(/’/, "'").replace(/^(d'|de |le |les |la |l')/, '').replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/ç/g, 'c').replace(/ñ/g, 'n').replace(/[éèêë]/g, 'e').replace(/[áàâä]/g, 'a').replace(/[íìîï]/g, 'i').replace(/úùûü/, 'u').replace(/\W/g, '') ;
       // +"__________" still usefull ?
-      return text.substring(0, 10) ;
+      return text;
     }
     else {
       return n;
@@ -265,22 +258,22 @@ th.num, table.sortable th.num { text-align: right; font-weight: 100; font-size: 
   paint: function(row, i) {
     row.className=" "+row.className+" ";
     row.className=row.className.replace(/ *(odd|even|mod5|mod10) */g, ' ');
-    if ( (i % 2) == 1 ) row.className+=" even";
-    if ( (i % 2) == 0 ) row.className+=" odd";
-    if ( (i % 5) == 3 ) row.className+=" mod3";
-    if ( (i % 5) == 0 ) row.className+=" mod5";
-    if ( (i % 10) == 0 ) row.className+=" mod10";
+    if ((i % 2) == 1) row.className+=" even";
+    if ((i % 2) == 0) row.className+=" odd";
+    if ((i % 5) == 3) row.className+=" mod3";
+    if ((i % 5) == 0) row.className+=" mod5";
+    if ((i % 10) == 0) row.className+=" mod10";
     // row.className=row.className.replace(/^\s\s*|\s(?=\s)|\s\s*$/g, ""); // normalize-space, will bug a bit on \n\t
   },
   /**
    * A clever and fast trim, http://flesler.blogspot.com/2008/11/fast-trim-function-for-javascript.html
    */
-  trim : function ( s ){
+  trim : function (s){
     var start = -1,
     end = s.length;
-    while( s.charCodeAt(--end) < 33 );
-    while( s.charCodeAt(++start) < 33 );
-    return s.slice( start, end + 1 );
+    while(s.charCodeAt(--end) < 33);
+    while(s.charCodeAt(++start) < 33);
+    return s.slice(start, end + 1);
   }
 
 }
