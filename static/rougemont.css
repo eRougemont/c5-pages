@@ -47,10 +47,19 @@ body {
 #toc {
   padding-top: 2em;
   max-width: 30ex;
+  margin-left: -32ex;
   position: fixed;
   top: 0;
   bottom: 0;
   overflow-y: auto;
+  background: #FFFFFF;
+}
+
+#content {
+}
+
+body.text #content {
+  width: 80ex;
 }
 
 #footer {

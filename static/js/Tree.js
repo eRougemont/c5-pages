@@ -146,16 +146,11 @@ li.here mark { background: inherit; }\
         Tree.treeprep(els[j]);
       }
     }
-    // TODO
-    var embed = document.getElementsByTagName('figcaption');
-    for (var i = 0; i < embed.length; i++) Tree.embedprep(embed.item(i));
-
     Tree.main = document.getElementById(Tree.MAIN);
     if (!Tree.main) {
       var nl = document.getElementsByTagName('main');
       if (nl.count) Tree.main = nl[0];
     }
-    Tree.loadFacs();
 
     // we have a scrolling pannel, try to record a scroll state
     if (Tree.aside && sessionStorage) {
@@ -165,129 +160,7 @@ li.here mark { background: inherit; }\
       if (window.addEventListener) window.addEventListener('unload', function(){ sessionStorage.setItem("asidescroll", Tree.aside.scrollTop); }, false);
 
     }
-    // don’t work well on drag with Chrome
-    // window.addEventListener("mousedown", function(){ window.ismousedown = true;  }, false);
-    // window.addEventListener("mouseup", function(){ window.ismousedown = false; }, false);
-    Tree.winresize();
-    window.addEventListener("resize", Tree.winresize, false);
     Tree.loaded=true;
-  },
-
-  /**
-   * Create events on image facs
-   */
-  loadFacs: function() {
-    // links for images
-    if (!Tree.aside) return;
-    var nl = document.querySelectorAll("a.facs");
-    for (var i=0, length = nl.length; i < length; i++) {
-      if (i+1 < length) nl[i].next = nl[i+1];
-      nl[i].innerHTML = '◄' + nl[i].innerHTML;
-      nl[i].onclick = Tree.facs;
-    }
-    if (nl.length) {
-      Tree.facsdiv = document.createElementNS("http://www.w3.org/1999/xhtml", 'div');
-      Tree.facsimg = document.createElementNS("http://www.w3.org/1999/xhtml", 'img');
-      Tree.facsclose = document.createElementNS("http://www.w3.org/1999/xhtml", 'a');
-      Tree.facsdiv.appendChild(Tree.facsimg);
-      Tree.facsdiv.appendChild(Tree.facsclose);
-      Tree.facsclose.className = 'close';
-      Tree.facsclose.innerHTML = '✖';
-      Tree.facsclose.style.position = 'absolute';
-      Tree.facsclose.style.display = 'none';
-      Tree.facsclose.onclick = function() { this.parentNode.style.visibility = "hidden"; Tree.facsimg.src = ''; };
-      document.getElementsByTagName("body")[0].appendChild(Tree.facsdiv);
-      Tree.facsdiv.id = 'facsdiv';
-      Tree.facsdiv.style.resize = 'both';
-      Tree.facsdiv.setAttribute('draggable', 'true');
-      Tree.facsdiv.style.position = 'absolute';
-      Tree.facsdiv.style.visibility = 'hidden';
-      Tree.facsdiv.style.zindex = '10';
-      Tree.facsdiv.style.top = 0 + 'px';
-      Tree.facsdiv.style.width = 300 + 'px';
-      Tree.facsdiv.style.overflow = 'auto'; // Tree.facsclose.style.visibility = "hidden";
-      Tree.facsdiv.closepos = function() {Tree.facsclose.style.top = (this.scrollTop + this.clientHeight - 25 - Tree.facsclose.offsetHeight) + "px"; Tree.facsclose.style.left = (this.scrollLeft + this.clientWidth - 25 - Tree.facsclose.offsetWidth) + "px";}
-      Tree.facsdiv.onscroll = function() { Tree.facsclose.style.display = 'none'; this.closepos(); Tree.facsclose.style.display = 'inline-block';};
-      Tree.facsdiv.onmouseover = function() { this.closepos(); Tree.facsclose.style.display = 'inline-block'; }
-      Tree.facsdiv.onmouseout = function() { Tree.facsclose.style.display = 'none';}
-      // suppress max-width ?
-      // Tree.facsimg.onload = function() {if (this.parentNode.style.width) return; this.parentNode.style.width = this.width + 'px'; this.parentNode.style.height = '100%'; }
-    }
-  },
-  asideresize: function() {
-    if (this.lastWidth == this.offsetWidth) return;
-    var diff = this.offsetWidth - this.lastWidth
-    this.lastWidth = this.offsetWidth;
-    var parent = Tree.aside.parentNode;
-    var width = parent.offsetWidth + diff;
-    while (parent) {
-      if(parent.nodeName.toLowerCase() == 'body') break;
-      parent.style.width = (width) + 'px';
-      parent = parent.parentNode;
-    }
-    sessionStorage.setItem("asidewidth", this.offsetWidth);
-  },
-  /**
-   * Resize left pannel
-   */
-  winresize: function() {
-    if(!Tree.aside) return;
-    var w=window,d=document,e=d.documentElement,b=d.getElementsByTagName('body')[0];
-    w.x=w.innerWidth||e.clientWidth||g.clientWidth;
-    w.y=w.innerHeight||e.clientHeight||g.clientHeight;
-    if (window.x > 1024) {
-      Tree.aside.style.resize = 'horizontal';
-      Tree.aside.addEventListener('mousemove', Tree.asideresize, false);
-      var asidewidth = sessionStorage.getItem("asidewidth");
-      // no memory for short screen, chrome, impossible to reduce
-      if (asidewidth && asidewidth < window.x && Tree.isfirefox) {
-        if (!Tree.aside.offsetWidth) return; // problem in painting
-        diff = asidewidth - Tree.aside.offsetWidth;
-        var parent = Tree.aside.parentNode;
-        var width = parent.offsetWidth + diff;
-        while (parent) {
-          if (parent.nodeName.toLowerCase() == 'body') break;
-          parent.style.width = (width) + 'px';
-          parent = parent.parentNode;
-        }
-        Tree.aside.style.width = asidewidth + 'px';
-      }
-      // Tree.aside.parentNode.style.maxWidth = 'none'; ?
-    }
-    // resize to shorter
-    else {
-      sessionStorage.removeItem("asidewidth");
-      Tree.aside.removeEventListener('mousemove', Tree.asideresize, false);
-      Tree.aside.style.resize = 'none';
-      Tree.aside.style.width = '';
-      var parent = Tree.aside.parentNode;
-      while (parent) {
-        if (parent.nodeName.toLowerCase() == 'body') break;
-        parent.style.width = '';
-        parent = parent.parentNode;
-      }
-    }
-    w.lastx = w.x;
-    w.lasty = w.y;
-  },
-  /**
-   * React on click on page facs
-   */
-  facs: function() {
-    if (!Tree.facsimg) return true;
-    // nouveau click refermer
-    if (Tree.facsimg.src == this.href) {
-      Tree.facsimg.src = '';
-      Tree.facsdiv.style.visibility = 'hidden';
-      return false;
-    }
-    Tree.facsdiv.style.visibility = 'visible';
-    var top = Tree.top(this);
-    Tree.facsdiv.style.top = top + 'px';
-    // next page facs link
-    if (this.next) Tree.facsdiv.style.height = (Tree.top(this.next) + this.next.offsetHeight - top) + 'px';
-    Tree.facsimg.src = this.href;
-    return false;
   },
   /**
    * Get window possition of an element
@@ -300,6 +173,7 @@ li.here mark { background: inherit; }\
     } while(node && node.tagName.toLowerCase() != 'body');
     return top;
   },
+
   /**
    * Autotoc on h1, h2...
    * This recursive function is quite tricky, be careful when change a line
@@ -405,40 +279,6 @@ li.here mark { background: inherit; }\
     }
     // Attach the tree
     nav.appendChild(tree);
-  },
-  /**
-   * Add events to a block with a corresp link to load content inside
-   */
-  embedprep: function(bibl) {
-    if (!bibl) return false;
-    if (bibl.nodeType != 1) bibl = document.getElementById(bibl);
-    if (!bibl) return false;
-    var src = bibl.getAttribute( "xml:base");
-    if (!src) return;
-    if (src.indexOf(".js", src.length - 3) !== -1) {
-      bibl.className = bibl.className + " embedjs";
-      bibl.onclick = function() {
-        var id = 'id' + new Date().getMilliseconds();
-        var div = document.createElementNS("http://www.w3.org/1999/xhtml", 'div');
-        div.className = 'embed';
-        div.id = id;
-        this.parentNode.insertBefore(div, this.nextSibling);
-        var js = document.createElementNS("http://www.w3.org/1999/xhtml", 'script');
-        js.src = src + '?id=' + id;
-        var head = document.getElementsByTagName('head')[0].appendChild(js);
-        this.className = this.className.replace(/ *(more|less) */g, '') + ' less';
-        this.onclick = function() {
-          if (div.style.display == 'none') {
-            this.className = this.className.replace(/ *(more|less) */g, '') + ' less';
-            div.style.display = '';
-          }
-          else {
-            div.style.display = 'none';
-            this.className = this.className.replace(/ *(more|less) */g, '') + ' more';
-          }
-        }
-      };
-    }
   },
   /**
    * Add events to a a recursive list
@@ -635,21 +475,6 @@ li.here mark { background: inherit; }\
     this.window.anchorLast=o;
     // here it's OK, but an event scroll the page to its right place after
     return false;
-  },
- /**
-  * Get an absolute y coordinate for an object
-  * [FG] : buggy with absolute object
-  * <http://www.quirksmode.org/js/findpos.html>
-  *
-  * @param object element
-  */
-  top: function(node) {
-    var top  = 0;
-    do {
-      top += node.offsetTop;
-      node = node.offsetParent;
-    } while(node && node.tagName.toLowerCase() != 'body');
-    return top;
   },
   /**
    * Get viewport height (for example, chek if element is visible)
