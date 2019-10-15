@@ -92,6 +92,7 @@ var Tree = {
    */
   css: function() {
     if (!document) return;
+    if (Tree.cssloaded) return;
     var css = document.createElementNS("http://www.w3.org/1999/xhtml", 'style');
     css.type = "text/css";
     css.innerHTML = "\
@@ -129,17 +130,18 @@ li.here mark { background: inherit; }\
     var head = document.getElementsByTagName('head')[0];
 
     head.insertBefore(css, head.firstChild);
+    this.cssloaded = true;
   },
   /**
    * What can be done for document.onload
    */
-  loaded:false,
   load: function(id, href) {
-    if (Tree.loaded) return;
     Tree.css(); // add css for Tree
     if (!id || id.stopPropagation) id = Tree.ASIDE; // id maybe an Event
     el = document.getElementById(id);
-    if (el) Tree.aside = el;
+    if (el) {
+      Tree.aside = el;
+    }
     if (Tree.aside) {
       els = Tree.aside.getElementsByClassName(Tree.TREE);
       for(var maxj = els.length, j=0; j < maxj ; j++) {
@@ -160,7 +162,6 @@ li.here mark { background: inherit; }\
       if (window.addEventListener) window.addEventListener('unload', function(){ sessionStorage.setItem("asidescroll", Tree.aside.scrollTop); }, false);
 
     }
-    Tree.loaded=true;
   },
   /**
    * Get window possition of an element
@@ -546,7 +547,7 @@ else if (window.addEventListener) {
   window.addEventListener('load', Notes.load, false);
 }
 else if (window.attachEvent) {
-  if (!Tree.loaded) window.attachEvent('onload', Tree.load);
+  if (!Tree.cssloaded) window.attachEvent('onload', Tree.load);
   // window.attachEvent('onload', Tree.autotoc);
    window.attachEvent('onload', Notes.load);
 }
