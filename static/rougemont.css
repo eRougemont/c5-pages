@@ -1,4 +1,37 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+@font-face {
+  font-family: 'Didot';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Didot'),
+       url('/static/fonts/Didot-HTF-M42-Medium.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'Didot';
+  font-style: italic;
+  font-weight: normal;
+  src: local('Didot'),
+       url('/static/fonts/Didot-HTF-M42-Medium-Ital.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'Didot';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Didot'),
+       url('/static/fonts/Didot-HTF-B06-Bold.ttf') format('ttf'),
+}
+
+@font-face {
+  font-family: 'Didot';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Didot'),
+       url('/static/fonts/Didot-HTF-B06-Bold-Ital.ttf') format('ttf'),
+}
 
 /**
  * Global
@@ -14,6 +47,8 @@ body {
   padding: 0;
   display: flex;
   flex-direction: column;
+  background-color: #FEF9F6;
+  font-family: 'Montserrat', sans-serif;
 }
 
 * {
@@ -52,7 +87,7 @@ body {
   top: 0;
   bottom: 0;
   overflow-y: auto;
-  background: #FFFFFF;
+  background-color: #FEF9F6;
 }
 
 #content {
@@ -60,6 +95,13 @@ body {
 
 body.text #content {
   width: 80ex;
+  font-family:
+}
+
+h1, h2, h3, h4, h5, h6, .label {
+  font-family: Didot;
+  font-weight: normal;
+  font-variant: small-caps;
 }
 
 #footer {
@@ -78,6 +120,7 @@ body.text #content {
 
 #content {
   padding: 2em;
+  background-color: #FFF;
 }
 
 .menu, .menu a {

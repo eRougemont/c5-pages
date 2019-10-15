@@ -1405,6 +1405,7 @@ div.note, aside.note {
 
 .note p {
   margin: 0;
+  line-height: inherit;
   text-indent: 1em;
   text-indent: 1rem;
 }
