@@ -6,7 +6,7 @@
   font-style: normal;
   font-weight: normal;
   src: local('Didot'),
-       url('/static/fonts/Didot-HTF-M42-Medium.ttf') format('ttf'),
+    url('/static/fonts/Didot-HTF-M42-Medium.ttf') format('ttf'),
 }
 
 @font-face {
@@ -14,7 +14,7 @@
   font-style: italic;
   font-weight: normal;
   src: local('Didot'),
-       url('/static/fonts/Didot-HTF-M42-Medium-Ital.ttf') format('ttf'),
+    url('/static/fonts/Didot-HTF-M42-Medium-Ital.ttf') format('ttf'),
 }
 
 @font-face {
@@ -22,7 +22,7 @@
   font-style: normal;
   font-weight: bold;
   src: local('Didot'),
-       url('/static/fonts/Didot-HTF-B06-Bold.ttf') format('ttf'),
+    url('/static/fonts/Didot-HTF-B06-Bold.ttf') format('ttf'),
 }
 
 @font-face {
@@ -30,7 +30,7 @@
   font-style: normal;
   font-weight: bold;
   src: local('Didot'),
-       url('/static/fonts/Didot-HTF-B06-Bold-Ital.ttf') format('ttf'),
+    url('/static/fonts/Didot-HTF-B06-Bold-Ital.ttf') format('ttf'),
 }
 
 /**
@@ -90,8 +90,7 @@ body {
   background-color: #FEF9F6;
 }
 
-#content {
-}
+#content {}
 
 body.text #content {
   width: 80ex;
@@ -191,7 +190,6 @@ h1, h2, h3, h4, h5, h6, .label {
 .menu ul ul a {}
 
 /** List of books */
-
 table.sortable caption {
   text-align: left;
 }
