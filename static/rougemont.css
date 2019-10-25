@@ -49,7 +49,7 @@ body {
   display: flex;
   flex-direction: column;
   background-color: #FEF9F6;
-  font-family: 'Anonymous Pro', monospace;
+  font-family: sans-serif;
 }
 
 * {
