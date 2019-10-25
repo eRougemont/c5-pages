@@ -104,7 +104,7 @@ tt, pre {
 }
 
 blockquote, dd, p.p, .argument, .availability, div.bibl, li.bibl, .dialogue li, .justify, .note, div.stage {
-  text-align: justify;
+  /* text-align: justify; */
 }
 
 @media screen {
@@ -198,7 +198,6 @@ b, strong {
 
 blockquote {
   margin: 1.5em 0em 1.5em 3rem;
-  text-align: justify;
   line-height: 130%;
   font-size: 92%;
   padding: 0;
@@ -217,7 +216,6 @@ code {
 }
 
 dd {
-  text-align: justify
 }
 
 details {
@@ -251,7 +249,6 @@ dl.dl dt {
 }
 
 dl.dl dd {
-  text-align: justify;
   color: #333;
   margin-top: 0em;
   margin-bottom: 0.5em;
@@ -593,7 +590,6 @@ optgroup {
 
 p, .dialogue li {
   margin: 0;
-  text-align: justify;
   line-height: 150%;
 }
 
@@ -819,7 +815,6 @@ h1.act, h2.act, h1.castList, h2.castList {
   line-height: 140%;
   text-indent: 0;
   font-size: 85%;
-  text-align: justify
 }
 
 p.argument {
@@ -834,7 +829,6 @@ p.argument {
 
 .availability {
   margin: 2em 0;
-  text-align: justify;
 }
 
 /* .back p, .front p {text-indent: 0;} no indent in paratext */
@@ -1384,7 +1378,6 @@ div.note, aside.note {
   line-height: 115%;
   margin: 1px 0 1em 0;
   clear: both;
-  text-align: justify;
 }
 
 .note:target {
@@ -1564,7 +1557,6 @@ section>div.stage i, section>div.stage em {
 }
 
 div.stage {
-  text-align: justify;
   line-height: 120%;
 }
 
@@ -1824,7 +1816,6 @@ span.center {
 }
 
 .dialogue li {
-  text-align: justify;
   margin-top: 0;
   margin-bottom: 0;
 }
