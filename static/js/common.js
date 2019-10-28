@@ -2,33 +2,25 @@
  * For dev only, so that no technologies assumptions are yet made
  */
 function clientSideInclude(id, url) {
-  var req = false;
-  // W3C browsers
-  if (window.XMLHttpRequest) {
-    try {
-      req = new XMLHttpRequest();
-    } catch (e) {
-      req = false;
-    }
-  } // still old IE around ?
-  else if (window.ActiveXObject) {
-    try {
-      req = new ActiveXObject("Msxml2.XMLHTTP");
-    } catch (e) {
-      try {
-        req = new ActiveXObject("Microsoft.XMLHTTP");
-      } catch (e) {
-        req = false;
-      }
-    }
-  }
   var element = document.getElementById(id);
   if (!element) return; // bad id
-  if (!req) return; // old browser
-  // Synchronous request, wait till we have it all
-  req.open('GET', url, false);
-  req.send(null);
-  element.innerHTML = req.responseText;
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", url);
+  xhr.send(null);
+  xhr.responseType = 'text';
+  xhr.onload = function() {
+    let html = xhr.response;
+    element.innerHTML = html;
+    if (!relup) return;
+    const links = element.getElementsByTagName('a');
+    for (var i = 0, len = links.length; i < len; i++) {
+      let a = links[i];
+      let href = a.getAttribute("href");
+      if (!href) continue;
+      if (href.startsWith('/') || href.startsWith('http')) continue;
+      a.setAttribute("href", relup+href);
+    }
+  };
 }
 
 var url = window.location;

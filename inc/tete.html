@@ -3,22 +3,72 @@ Pour le développment, cette bannière est incluse en javascript
 Le site en production utilisera d'autres technologies.
 Les liens absolus sont provisoires.
 -->
-<div id="headnav">
-  <nav class="toprub">
-    <a href="//erougemont.github.io/site/" class="logo">
-      <img class="logo" src="//erougemont.github.io/site/static/img/ddr_logo.svg"/>
-    </a>
-    <a>Œuvres</a>
-    <a>Correspondances & dossiers</a>
-    <a>Médias</a>
-    <a>CEC</a>
-    <a>Biographie</a>
-    <a class="V2">Labo</a>
-    <a>Actualités</a>
-    <a>À propos</a>
-    <a href="https://www.unige.ch/">
-      <img width="200" src="//erougemont.github.io/site/static/img/UNIGE_noir70.gif"/>
-    </a>
-  </nav>
+<!--
+Dev only.
+This bar is included by client side javascript,
+no assumption are yet made on technologies.
+-->
+<nav id="headnav">
+  <ul class="menubar">
+    <li>
+      <a href="//erougemont.github.io/site/" class="logo">
+        <img class="logo" src="//erougemont.github.io/site/static/img/ddr_logo.svg"/>
+      </a>
+    </li>
+    <li>
+      <a>Œuvres</a>
+      <ul>
+        <li><a href="livres/">Livres</a></li>
+        <li><a href="articles/">Articles</a></li>
+        <li><a href="posthumes/">Posthumes</a></li>
+        <li><a href="bibliographie.html">Bibliographie</a></li>
+        <li><a href="critique/">Critique</a></li>
+      </ul>
+    </li>
+    <li>
+      <a>Correspondances & Dossiers</a>
+      <ul>
+        <li><a>Correspondances</a><li>
+        <li><a>Dossiers</a><li>
+      </ul>
+    </li>
+    <li>
+      <a>Médias</a>
+      <ul>
+        <li><a>Vidéothèque</a></li>
+        <li><a>Audiothèque</a></li>
+        <li><a>Iconothèque</a></li>
+      </ul>
+    </li>
+    <li>
+      <a>CEC</a>
+      <ul>
+        <li><a><i>Bulletins du CEC</i></a></li>
+        <li><a>Journal du CEC</a></li>
+      </ul>
+    </li>
+    <li>
+      <a>Biographie</a>
+      <ul>
+        <li><a>Parcours biographique</a></li>
+        <li><a class="V2">Chronologie</a></li>
+        <li><a class="V2">Galerie thématique</a></li>
+      </ul>
+    </li>
+    <li>
+      <a class="V2">Labo</a>
+    </li>
+    <li>
+      <a>Actualités</a>
+    </li>
+    <li>
+      <a>À propos</a>
+    </li>
+    <li>
+      <a href="https://www.unige.ch/">
+        <img width="200" src="//erougemont.github.io/site/static/img/UNIGE_noir70.gif"/>
+      </a>
+    </li>
+  </ul>
   <div class="motto">L’Intégrale de Denis de Rougemont en libre accès</div>
-<div>
+</nav>

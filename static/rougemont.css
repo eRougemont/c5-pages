@@ -94,11 +94,27 @@ Barre de tête
   margin: 0.5rem 2rem;
 }
 
-nav.toprub a {
+#headnav a {
   color: #000;
 }
 
-nav.toprub {
+
+#headnav .motto {
+  margin-top: -1.5rem;
+}
+
+ul.menubar img.logo {
+  width: 200px;
+}
+
+
+ul.menubar, ul.menubar li, ul.menubar ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+ul.menubar {
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -108,20 +124,28 @@ nav.toprub {
   align-items: center;
 }
 
-nav.toprub a.logo {
-  width: 15%;
+ul.menubar a:hover {
+  background: #EEE;
 }
 
-nav.toprub a {
-  display: inline;
-  vertical-align: bottom;
-  padding: 0 0.5rem;
-  padding: 0 0.5rem;
+ul.menubar a {
+  text-decoration: none;
+  display: block;
+  padding: 2px 0.5rem;
 }
 
-.motto {
-  margin-top: -1.5rem;
+ul.menubar ul {
+  display: none;
+  z-index: 1;
+  background: #FFFFFF;
 }
+
+ul.menubar li:hover ul {
+  opacity: 1;
+  display: block;
+  position: absolute;
+}
+
 
 /*
 Bas de page
@@ -281,9 +305,6 @@ td.cover {
   vertical-align: middle;
 }
 
-td.cover img {
-  height: 300px;
-}
 
 table.thumbs thead, table.thumbs tfoot {
   display: none;
@@ -362,70 +383,3 @@ table.thumbs td.title {
 }
 
 table.thumbs td.publisher {}
-
-/** Menu hiérarchique */
-.menubar {
-  width: 100%;
-}
-
-.menubar, .menubar a {
-  background: #888;
-  color: #FFFFFF;
-}
-
-.menubar a:hover {
-  background: #333;
-}
-
-.menubar ul {
-  cursor: default;
-}
-
-.menubar #qform {
-  text-align: right;
-}
-
-.menubar ul, .menubar li {
-  margin: 0;
-  padding: 0;
-}
-
-.menubar ul {
-  list-style: none;
-  width: 100%;
-}
-
-.menubar li {
-  float: left;
-  position: relative;
-  width: auto;
-}
-
-.menubar a {
-  text-decoration: none;
-  display: block;
-  padding: 2px 1ex;
-}
-
-.menubar ul ul {
-  width: auto;
-  left: 0;
-  opacity: 0;
-  position: absolute;
-  visibility: hidden;
-  z-index: 1;
-}
-
-.menubar ul ul li {
-  width: auto;
-  float: none;
-}
-
-.menubar li:hover ul {
-  opacity: 1;
-  visibility: visible;
-}
-
-.menubar ul ul a:hover {}
-
-.menubar ul ul a {}
