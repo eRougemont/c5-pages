@@ -1,20 +1,200 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8"/>
-    <title>Rougemont 2.0</title>
-    <link rel="stylesheet" type="text/css" href="static/rougemont.css"/>
-  </head>
-  <body>
-    <header id="header">
-      <div id="top"></div>
-      <h1>Denis de Rougemont, l'intégrale en accès libre</h1>
-    </header>
-    <main id="main">
-    </main>
-    <footer id="footer">
-      <div id="bottom"></div>
-    </footer>
-    <script src="static/js/common.js"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Rougemont 2.0</title>
+  <link rel="stylesheet" type="text/css" href="static/rougemont.css" />
+</head>
+
+<body>
+  <header id="header">
+    <div id="top"></div>
+  </header>
+  <main>
+
+    <section class="front">
+      <nav class="news">
+        <h4>Nouveautés janvier 2020</h4>
+        <a class="intern">Correspondance avec Jean Paulhan</a>
+        <a class="intern">Correspondance avec Henry Corbin</a>
+        <a class="intern">Dossier photos sur l’exil aux États-Unis</a>
+        <a class="intern">Articles parus dans la NRF</a>
+        <p/>
+        <input name="email" placeholder="Abonnez-vous"/>
+      </nav>
+      <img src="static/img/welcome-ddr.png"/>
+    </section>
+
+    <section class="banner">
+      <h1>Livres</h1>
+      <nav class="covers">
+        <!-- mis en valeur -->
+        <a title="L’Amour et l’Occident (rééd.) Plon, 1972."><img class="cover" src="static/ddr_s/ddr1972ao_s.jpg" /></a>
+        <a title="Lettres sur la bombe atomique. Brentano's, 1946."><img class="cover" src="static/ddr_s/ddr1946lba_s.jpg" /></a>
+        <a title="Suite neuchâteloise. Ides et Calendes, 1948."><img class="cover" src="static/ddr_s/ddr1948sn_s.jpg" /></a>
+        <a title="La Part du diable (rééd.) Gallimard, 1982."><img class="cover" src="static/ddr_s/ddr1982partdia_s.jpg" /></a>
+        <a title="Lettres aux députés européens. Ides et Calendes, 1950."><img class="cover" src="static/ddr_s/ddr1950lde_s.jpg" /></a>
+        <a title="Les Méfaits de l’instruction publique (1929) aggravés d’une Suite des Méfaits (1972) (rééd.) Eurêka, 1972."><img class="cover" src="static/ddr_s/ddr1972mip_s.jpg" /></a>
+        <a title="L'Avenir est notre affaire. Stock, 1977."><img class="cover" src="static/ddr_s/ddr1977aena_s.jpg" /></a>
+
+        <!-- autres -->
+        <a title="Les Méfaits de l’Instruction publique. Les Petites Lettres de Lausanne, 1929."><img class="cover" src="static/ddr_s/ddr1929mip_s.jpg" /></a>
+        <a title="Le Paysan du Danube. Librairie Payot &amp;Cie, 1932."><img class="cover" src="static/ddr_s/ddr1932paydan_s.jpg" /></a>
+        <a title="Politique de la personne. Éditions « Je sers », 1934."><img class="cover" src="static/ddr_s/ddr1934polpers_s.jpg" /></a>
+        <a title="Penser avec les mains. Albin Michel, 1936."><img class="cover" src="static/ddr_s/ddr1936pm_s.jpg" /></a>
+        <a title="Journal d’un intellectuel en chômage. Albin Michel, 1937."><img class="cover" src="static/ddr_s/ddr1937jic_s.jpg" /></a>
+        <a title="Journal d’Allemagne. Gallimard, 1938."><img class="cover" src="static/ddr_s/ddr1938ja_s.jpg" /></a>
+        <a title="L'Amour et l’Occident. Plon, 1939."><img class="cover" src="static/ddr_s/ddr1939ao_s.jpg" /></a>
+        <a title="Nicolas de Flue, légende dramatique. Institut Neuchâtelois, 1939."><img class="cover" src="static/ddr_s/ddr1939nf_s.jpg" /></a>
+        <a title="Mission ou démission de la Suisse. Éditions de la Baconnière, 1940."><img class="cover" src="static/ddr_s/ddr1940mds_s.jpg" /></a>
+        <a title="La Part du diable. Brentano's, 1942."><img class="cover" src="static/ddr_s/ddr1942partdia_s.jpg" /></a>
+        <a title="La Part du diable (rééd.) Brentano's, 1944."><img class="cover" src="static/ddr_s/ddr1944partdia_s.jpg" /></a>
+        <a title="Les Personnes du drame. Pantheon Books, 1944."><img class="cover" src="static/ddr_s/ddr1944persdram_s.jpg" /></a>
+        <a title="Journal des deux mondes. La Guilde du livre, 1946."><img class="cover" src="static/ddr_s/ddr1946jdm_s.jpg" /></a>
+        <a title="Lettres sur la bombe atomique (rééd.) Gallimard, 1946."><img class="cover" src="static/ddr_s/ddr1946lba2_s.jpg" /></a>
+        <a title="Politique de la personne (rééd.) Éditions « Je sers », 1946."><img class="cover" src="static/ddr_s/ddr1946polpers_s.jpg" /></a>
+        <a title="Vivre en Amérique. Stock, 1947."><img class="cover" src="static/ddr_s/ddr1947va_s.jpg" /></a>
+        <a title="Doctrine fabuleuse. Ides et Calendes, 1947."><img class="cover" src="static/ddr_s/ddr1947df_s.jpg" /></a>
+        <a title="L'Europe en jeu. Éditions de la Baconnière, 1948."><img class="cover" src="static/ddr_s/ddr1948ej_s.jpg" /></a>
+        <a title="La Confédération helvétique. Éditions du Rocher, 1953."><img class="cover" src="static/ddr_s/ddr1953ch_s.jpg" /></a>
+        <a title="L’Amour et l’Occident (rééd.) Plon, 1956."><img class="cover" src="static/ddr_s/ddr1956ao_s.jpg" /></a>
+        <a title="L'Aventure occidentale de l’homme. Albin Michel, 1957."><img class="cover" src="static/ddr_s/ddr1957aoh_s.jpg" /></a>
+        <a title="Vingt-huit siècles d’Europe. Librairie Payot &amp;Cie, 1961."><img class="cover" src="static/ddr_s/ddr1961vhse_s.jpg" /></a>
+        <a title="Comme toi-même. Albin Michel, 1961."><img class="cover" src="static/ddr_s/ddr1961ctm_s.jpg" /></a>
+        <a title="Les Chances de l’Europe. Éditions de la Baconnière, 1962."><img class="cover" src="static/ddr_s/ddr1962ce_s.jpg" /></a>
+        <a title="La Suisse ou L'histoire d’un peuple heureux. Hachette, 1965."><img class="cover" src="static/ddr_s/ddr1965shph_s.jpg" /></a>
+        <a title="Journal d’une époque. Gallimard, 1968."><img class="cover" src="static/ddr_s/ddr1968jde_s.jpg" /></a>
+        <a title="La Suisse ou L'histoire d’un peuple heureux (rééd.) Le Livre du mois, 1970."><img class="cover" src="static/ddr_s/ddr1970shph_s.jpg" /></a>
+        <a title="L'Un et le Divers. Éditions de la Baconnière, 1970."><img class="cover" src="static/ddr_s/ddr1970udce_s.jpg" /></a>
+        <a title="Le Cheminement des esprits. Éditions de la Baconnière, 1970."><img class="cover" src="static/ddr_s/ddr1970cde_s.jpg" /></a>
+        <a title="Lettre ouverte aux Européens. Albin Michel, 1970."><img class="cover" src="static/ddr_s/ddr1970loe_s.jpg" /></a>
+        <a title="Penser avec les mains (rééd.) Gallimard, 1972."><img class="cover" src="static/ddr_s/ddr1972pm_s.jpg" /></a>
+        <a title="Rapport au peuple européen sur l’état de l’union de l’Europe. Stock, 1979."><img class="cover" src="static/ddr_s/ddr1979rpe_s.jpg" /></a>
+        <a title="Le Paysan du Danube et autres textes (rééd.) L’Âge d’homme, 1982."><img class="cover" src="static/ddr_s/ddr1982paysan_s.jpg" /></a>
+        <nav>
+    </section>
+
+    <section class="banner">
+      <h1>Articles</h1>
+      <img class="banner" src="static/img/revues.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Articles</a>
+          <a class="intern" href="todo.html">Entretiens</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Éditions posthumes</h1>
+      <img class="banner" src="static/img/posthumes.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left V2">Livres</a>
+          <a class="intern" href="todo.html">Articles &amp;conférences</a>
+          <a class="intern right V2">Cours &amp;séminaires</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Bibiographie &amp; Critiques</h1>
+      <img class="banner" src="static/img/biblio.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Bibliographie</a>
+          <a class="intern" href="todo.html">Critiques</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Correspondances &amp; Dossiers</h1>
+      <img class="banner" src="static/img/manuscrits.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Correspondances</a>
+          <a class="intern" href="todo.html">Dossiers</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Médias</h1>
+      <img class="banner" src="static/img/medias.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Vidéothèque</a>
+          <a class="intern" href="todo.html">Audiothèque</a>
+          <a class="intern right" href="todo.html">Iconothèque</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>CEC — Centre Européen de la Culture</h1>
+      <img class="banner" src="static/img/cec.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Bulletins du CEC</a>
+          <a class="intern" href="todo.html">Journal du CEC</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Biographie</h1>
+      <img class="banner" style="height: 33%;" src="static/img/bio.jpg" />
+      <footer>
+        <nav>
+          <a class="intern left" href="todo.html">Parcours biographique</a>
+          <a class="intern V2">Chronologie</a>
+          <a class="intern right V2">Galerie thématique</a>
+        </nav>
+      </footer>
+    </section>
+
+    <section class="banner">
+      <h1>Labo</h1>
+      <img class="banner" src="static/img/lab.jpg" />
+    </section>
+
+    <section class="banner">
+      <h1>Actualités</h1>
+      <p>
+        Livres, articles, correspondances, photos, vidéos… : le point sur les derniers documents numérisés, édités et mis en ligne.
+      </p>
+      <p>
+        En libre accès depuis décembre 2019 : l’ensemble des <a class="intern">livres</a> publiés en français ; la correspondance avec <a class="intern">Jean Paulhan</a>, <a class="intern">Henry Corbin</a>, <a class="intern">Max Dominicé</a> ainsi
+        que la <a class="intern">correspondance familiale</a> ; les articles parus dans la <a class="intern"><i>NRF</i></a> et dans bien d’autres revues des années 1920 et 1930, une sélection de <a class="intern">documents audiovisuels</a>, les <a
+          class="intern"><i>Bulletins</i></a> et <a class="intern">le Journal du CEC</a> ; ou encore un hommage à <a class="intern">Jean Starobinski</a>. <a class="util">Lire la suite…</a>
+
+      </p>
+    </section>
+
+    <section class="banner">
+      <h1>À Propos</h1>
+      <div class="biflex">
+        <div class="logomotto">
+          <a href=".">
+            <img width="200" src="static/img/ddr_logo.svg"/>
+          </a>
+          <div class="motto">L’Intégrale de Denis de Rougemont en libre accès</div>
+        </div>
+        <div>
+          <p>
+Réalisé par une équipe multidisciplinaire de chercheurs du Global Studies Institute de l’Université de Genève, le projet Rougemont 2.0 entend tirer partie de l’essor actuel des humanités numériques pour réaliser une édition scientifique des œuvres et manuscrits inédits de Denis de Rougemont (1906-1985), de sa correspondance et des documents (archives professionnelles, cours et séminaires, photographies, interventions radio et télédiffusées) illustrant ses activités de militant fédéraliste et d’écrivain engagé. La mise en ligne de ces données sur un site Internet, en libre accès, s’accompagnera de la publication régulière de travaux de recherche permettant d’éclairer et de renouveler l’histoire politique, littéraire et intellectuelle du xxe siècle, ainsi que les enjeux contemporains sur l’Europe et la construction européenne, l’éducation ou l’écologie.
+<a class="util">Lire la suite…</a>
+          <p>
+        </div>
+      </div>
+    </section>
+  </main>
+  <footer id="footer">
+    <div id="bottom"></div>
+  </footer>
+  <script src="static/js/common.js"></script>
+</body>
+
 </html>

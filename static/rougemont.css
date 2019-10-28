@@ -1,172 +1,276 @@
 @charset "UTF-8";
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+/**
+CSS Rougemont 2.0
 
-@font-face {
-  font-family: 'Didot';
-  font-style: normal;
-  font-weight: normal;
-  src: local('Didot'),
-    url('/static/fonts/Didot-HTF-M42-Medium.ttf') format('ttf'),
+
+La plice de base, notamment pour la lecture des textes, sera sans-serif.
+L'inclusion de polices externes pour les titres est bienvenue, pour le texte,
+il faut s'assurer que cela ne ralentisse jamais l'affichage.
+
+ */
+
+body {
+  font-family: "Open Sans", "Ubuntu", "Calibri", "Segoe UI", Avenir, Helvetica, sans-serif;
+  font-size: 14pt;
 }
 
-@font-face {
-  font-family: 'Didot';
-  font-style: italic;
-  font-weight: normal;
-  src: local('Didot'),
-    url('/static/fonts/Didot-HTF-M42-Medium-Ital.ttf') format('ttf'),
+nav.news,
+section.banner h1 {
+  background: #EEE;
 }
 
-@font-face {
-  font-family: 'Didot';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Didot'),
-    url('/static/fonts/Didot-HTF-B06-Bold.ttf') format('ttf'),
+a {
+  color: #0563C1;
 }
 
-@font-face {
-  font-family: 'Didot';
-  font-style: normal;
-  font-weight: bold;
-  src: local('Didot'),
-    url('/static/fonts/Didot-HTF-B06-Bold-Ital.ttf') format('ttf'),
+nav.news a {
+  color: #666;
+}
+
+
+/* Couleur de contraste */
+.motto,
+.rubric,
+a.intern {
+  color: #C00000;
 }
 
 /**
  * Global
  */
-html {
-  height: 100%;
-}
-
-body {
-  min-height: 100%;
-  position: relative;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
-  background-color: #FEF9F6;
-  font-family: sans-serif;
-}
-
 * {
   box-sizing: border-box;
 }
 
-/** Global disposition */
-#header {
-  position: relative;
-  z-index: 2;
-  margin-top: 1.5em;
+a {
+  text-decoration: none;
 }
 
-#top {
-  position: fixed;
-  top: 0;
+a:hover {
+  color: black;
+}
+
+address {
+  font-style: normal;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;^
+  padding: 0;
+}
+
+main {
+  margin: 0 2rem;
+}
+/*
+Barre de tête
+*/
+
+#headnav {
+  margin: 0.5rem 2rem;
+}
+
+nav.toprub a {
+  color: #000;
+}
+
+nav.toprub {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+  font-size: 1.2rem;
+  font-weight: bold;
+  align-items: center;
+}
+
+nav.toprub a.logo {
+  width: 15%;
+}
+
+nav.toprub a {
+  display: inline;
+  vertical-align: bottom;
+  padding: 0 0.5rem;
+  padding: 0 0.5rem;
+}
+
+.motto {
+  margin-top: -1.5rem;
+}
+
+/*
+Bas de page
+*/
+
+#footer {
+  padding-bottom: 4rem;
+}
+
+div.bottom {
+  margin: 0 2rem 2rem 2rem;
+}
+
+div.bottom::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+div.bottom > nav {
+  width: 25%;
+  float: left;
+}
+
+div.bottom > nav h4 {
+  margin-top: 0;
+}
+
+div.bottom > nav > a {
+  display: block;
+}
+/*
+ Page d'accueil
+*/
+
+section.front {
+  display: flex;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
+  justify-content: center;
+  justify-content: space-between;
+}
+
+section.front img {
+  width: 60%;
+  align-self: flex-end;
+}
+
+section.front nav.news {
+  width: 30%;
+  padding: 0.2rem 1rem;
+  align-self: flex-start;
+}
+
+section.front nav.news a {
+  display: block;
+}
+
+
+section.banner {
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+section.banner img.banner {
   width: 100%;
 }
 
-#footer {
-  margin-top: auto;
-  height: 100px;
-  padding: 1ex;
+section.banner h1 {
+  margin: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.5rem;
 }
 
-#main {
-  margin-left: auto;
-  margin-right: auto;
+section.banner footer {
+  border-bottom: 1px solid #000;
+  display: table;
+  width: 100%;
 }
 
-#toc {
-  padding-top: 2em;
-  max-width: 30ex;
-  margin-left: -32ex;
-  position: fixed;
-  top: 0;
-  bottom: 0;
-  overflow-y: auto;
-  background-color: #FEF9F6;
+section.banner footer nav {
+  display: table-row;
+}
+section.banner footer a {
+  display: table-cell;
+  text-align: center;
+  padding: 0 0.5rem 0.4rem 0.5rem;
 }
 
-#content {}
-
-body.text #content {
-  width: 80ex;
-  font-family:
+section.banner footer a.left {
+  border-right: 1px solid #000;
+}
+section.banner footer a.right {
+  border-left: 1px solid #000;
 }
 
-h1, h2, h3, h4, h5, h6, .label {
-  font-weight: normal;
-  font-variant: small-caps;
+/* cas particulier ? */
+div.biflex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-#footer {
-  position: relative;
-  z-index: 2;
+div.logomotto {
+  margin-right: 2rem;
+  min-width: 20rem;
+}
+/*
+ Liste carroussel de couvertures
+ en page d'accueil
+*/
+
+nav.covers {
+  overflow: auto;
+  white-space: nowrap;
 }
 
-/** Global colors and fonts */
-.menu, #header, #footer {
-  font: 16px/24px sans-serif;
+nav.covers a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
 }
 
-#header, #footer {
-  background: #CCC;
+/** Menu hiérarchique */
+.menubar {
+  width: 100%;
 }
 
-#content {
-  padding: 2em;
-  background-color: #FFF;
-}
-
-.menu, .menu a {
+.menubar, .menubar a {
   background: #888;
   color: #FFFFFF;
 }
 
-.menu a:hover {
+.menubar a:hover {
   background: #333;
 }
 
-/** Top menu : colors and functions */
-.menu {
-  width: 100%;
-}
-
-.menu ul {
+.menubar ul {
   cursor: default;
 }
 
-.menu #qform {
+.menubar #qform {
   text-align: right;
 }
 
-.menu ul, .menu li {
+.menubar ul, .menubar li {
   margin: 0;
   padding: 0;
 }
 
-.menu ul {
+.menubar ul {
   list-style: none;
   width: 100%;
 }
 
-.menu li {
+.menubar li {
   float: left;
   position: relative;
   width: auto;
 }
 
-.menu a {
+.menubar a {
   text-decoration: none;
   display: block;
   padding: 2px 1ex;
 }
 
-.menu ul ul {
+.menubar ul ul {
   width: auto;
   left: 0;
   opacity: 0;
@@ -175,21 +279,24 @@ h1, h2, h3, h4, h5, h6, .label {
   z-index: 1;
 }
 
-.menu ul ul li {
+.menubar ul ul li {
   width: auto;
   float: none;
 }
 
-.menu li:hover ul {
+.menubar li:hover ul {
   opacity: 1;
   visibility: visible;
 }
 
-.menu ul ul a:hover {}
+.menubar ul ul a:hover {}
 
-.menu ul ul a {}
+.menubar ul ul a {}
 
-/** List of books */
+
+
+/** Table des couvertures */
+
 table.sortable caption {
   text-align: left;
 }

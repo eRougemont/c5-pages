@@ -30,5 +30,5 @@ function clientSideInclude(id, url) {
   req.send(null);
   element.innerHTML = req.responseText;
 }
-clientSideInclude("top", "inc/top.html");
-clientSideInclude("bottom", "inc/bottom.html");
+clientSideInclude("top", "inc/tete.html");
+clientSideInclude("bottom", "inc/pied.html");
