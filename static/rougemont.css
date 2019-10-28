@@ -14,6 +14,7 @@ body {
   font-size: 14pt;
 }
 
+section.bimage .desc,
 nav.news,
 section.banner h1 {
   background: #EEE;
@@ -54,6 +55,11 @@ address {
   font-style: normal;
 }
 
+figure {
+  margin: 0;
+  background: #FFF;
+}
+
 html, body {
   height: 100%;
   margin: 0;^
@@ -63,9 +69,26 @@ html, body {
 main {
   margin: 0 2rem;
 }
+
+/* “float fix” pour bien fermer les boîtes qui contiennent des objets flottants */
+section::after,
+.floatfix::after,
+div.bottom::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+small.credit {
+  text-transform: uppercase;
+}
 /*
 Barre de tête
 */
+
+#header h1 {
+  text-align: center;
+}
 
 #headnav {
   margin: 0.5rem 2rem;
@@ -110,12 +133,6 @@ Bas de page
 
 div.bottom {
   margin: 0 2rem 2rem 2rem;
-}
-
-div.bottom::after {
-  content: "";
-  clear: both;
-  display: table;
 }
 
 div.bottom > nav {
@@ -226,6 +243,126 @@ nav.covers a {
   text-decoration: none;
 }
 
+
+
+/*
+Accueil Livres
+ Table des couvertures
+*/
+
+section.bimage {
+  display: flex;
+}
+
+section.bimage .desc {
+  padding: 1rem;
+}
+
+
+section.bimage figure {
+  width: 60%;
+  padding-right: 2rem;
+}
+
+section.bimage figure img {
+  width: 100%;
+}
+
+table.sortable caption {
+  text-align: left;
+}
+
+table.thumbs {
+  width: 100%;
+}
+
+td.cover {
+  text-align: center;
+  vertical-align: middle;
+}
+
+td.cover img {
+  height: 300px;
+}
+
+table.thumbs thead, table.thumbs tfoot {
+  display: none;
+}
+
+table.thumbs tbody {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  border: none;
+}
+
+
+/* La table “sotable” génère automatiquement des classes qui ne sont pas pertinentes en vue vignette */
+table.thumbs tr.even, table.thumbs tr.odd, table.thumbs tr.odd td, table.thumbs tr.even td, table.thumbs tr.mod3 td, table.thumbs tr.mod5 td, table.thumbs tr.mod10 td {
+}
+
+
+table.thumbs tbody tr {
+  position: relative;
+  display: block;
+  width: 300px;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 1px #AAA solid;
+  background: #FFF;
+}
+
+table.thumbs {
+  background: #EEEEEE;
+}
+
+table.thumbs tbody tr.V2 {
+  background: #EEEEEE ;
+  border-color: transparent;
+}
+
+table.thumbs tr.V2 img {
+  opacity: 0.2;
+}
+
+table.sortable td.cover, table.sortable th.cover {
+  display: none;
+}
+
+table.thumbs td.cover {
+  display: block;
+}
+
+table.thumbs th.cover {
+  display: table-cell;
+}
+
+table.thumbs tbody td {
+  display: block;
+  border: none !important;
+  box-shadow: unset !important;
+}
+
+table.thumbs td.year {
+  position: absolute;
+  color: #000;
+  top: 4px;
+  width: 4rem;
+  left: 50%;
+  margin-left: -2rem;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.7) !important;
+}
+
+table.thumbs td.title {
+  height: 1.2rem;
+  overflow: hidden;
+}
+
+table.thumbs td.publisher {}
+
 /** Menu hiérarchique */
 .menubar {
   width: 100%;
@@ -292,83 +429,3 @@ nav.covers a {
 .menubar ul ul a:hover {}
 
 .menubar ul ul a {}
-
-
-
-/** Table des couvertures */
-
-table.sortable caption {
-  text-align: left;
-}
-
-table.thumbs {
-  width: 100%;
-}
-
-td.cover {
-  text-align: center;
-  vertical-align: middle;
-}
-
-td.cover img {
-  height: 300px;
-}
-
-table.thumbs thead, table.thumbs tfoot {
-  display: none;
-}
-
-table.thumbs tbody {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
-  border: none;
-}
-
-/* Sotables has automatic classes */
-table.thumbs tr.even, table.thumbs tr.odd, table.thumbs tr.odd td, table.thumbs tr.even td, table.thumbs tr.mod3 td, table.thumbs tr.mod5 td, table.thumbs tr.mod10 td {}
-
-table.thumbs tbody tr {
-  position: relative;
-  display: block;
-  width: 300px;
-  text-align: center;
-  background: #EEEEEE;
-  border: 1px #CCCCCC solid;
-  margin-top: 5px;
-  margin-bottom: 5px;
-}
-
-table.sortable td.cover, table.sortable th.cover {
-  display: none;
-}
-
-table.thumbs td.cover {
-  display: block;
-}
-
-table.thumbs th.cover {
-  display: table-cell;
-}
-
-table.thumbs tbody td {
-  display: block;
-  border: none !important;
-  box-shadow: unset !important;
-}
-
-table.thumbs td.year {
-  position: absolute;
-  color: #000;
-  top: 4px;
-  width: 4rem;
-  left: 50%;
-  margin-left: -2rem;
-  font-size: 16px;
-  background: rgba(255, 255, 255, 0.7) !important;
-}
-
-table.thumbs td.title, table.thumbs td.title a {}
-
-table.thumbs td.publisher {}

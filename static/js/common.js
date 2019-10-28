@@ -30,5 +30,12 @@ function clientSideInclude(id, url) {
   req.send(null);
   element.innerHTML = req.responseText;
 }
-clientSideInclude("top", "inc/tete.html");
-clientSideInclude("bottom", "inc/pied.html");
+
+var url = window.location;
+var path = window.location.pathname;
+const ancestors = 1;
+let depth = path.split("/").length - 2 - ancestors;
+let up = "../".repeat(depth);
+
+clientSideInclude("top", up+"inc/tete.html");
+clientSideInclude("bottom", up+"inc/pied.html");

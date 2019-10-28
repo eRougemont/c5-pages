@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <title>Rougemont 2.0</title>
+  <link rel="stylesheet" type="text/css" href="../static/rougemont.css" />
+</head>
+
+<body class="livres">
+  <header id="header">
+    <div id="top"></div>
+    <h1>Livres</h1>
+  </header>
+  <main>
+
+    <section class="bimage">
+      <figure>
+        <img src="../static/img/ddr_bib.jpg"/>
+        <figcaption>Denis de Rougemont devant sa bibliothèque, à Ferney-Voltaire, années 1960
+<small class="credit">Photopress / BPUN</small></figcaption>
+      </figure>
+      <div class="desc">
+        <p>On trouvera sous cette rubrique les éditions numériques des livres de Denis de Rougemont publiés en langue française.</p>
+
+        <p>Le corpus rassemble quarante ouvrages si l’on tient compte des rééditions, lesquelles sont également publiées en ligne quand elles comportent des éléments nouveaux (modifications, ajout d’une préface ou d’une postface…) du fait de l’auteur et de lui seul.</p>
+      <div>
+    </section>
+
+    <table class="sortable explorer thumbs" id="livres">
+      <caption>
+        Trier par <select onchange="sort(this)">
+          <option value="key1">Date</option>
+          <option value="key2">Titre</option>
+          <option value="key3">Éditeur</option>
+        </select>
+        Vue <select onchange="view(this)">
+          <option value="thumbs">Vignettes</option>
+          <option value="list">Liste</option>
+        </select>
+      </caption>
+      <thead>
+        <th class="cover"/>
+        <th class="year">Année</th>
+        <th class="title">Titre</th>
+        <th class="publisher">Éditeur</th>
+      </thead>
+      <tbody>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1929mip_s.jpg"/></td>
+          <td class="year">1929</td>
+          <td class="title">Les Méfaits de l’Instruction publique</td>
+          <td class="publisher">Les Petites Lettres de Lausanne</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1932paydan_s.jpg"/></td>
+          <td class="year">1932</td>
+          <td class="title">Le Paysan du Danube</td>
+          <td class="publisher">Librairie Payot & Cie</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1934polpers_s.jpg"/></td>
+          <td class="year">1934</td>
+          <td class="title">Politique de la personne</td>
+          <td class="publisher">Éditions « Je sers »</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1936pm_s.jpg"/></td>
+          <td class="year">1936</td>
+          <td class="title">Penser avec les mains</td>
+          <td class="publisher">Albin Michel</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1937jic_s.jpg"/></td>
+          <td class="year">1937</td>
+          <td class="title">Journal d’un intellectuel en chômage</td>
+          <td class="publisher">Albin Michel</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1938ja_s.jpg"/></td>
+          <td class="year">1938</td>
+          <td class="title">Journal d’Allemagne</td>
+          <td class="publisher">Gallimard</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1939ao/"><img class="cover" src="../static/ddr_s/ddr1939ao_s.jpg"/></a></td>
+          <td class="year">1939</td>
+          <td class="title"><a href="ddr1939ao">L'Amour et l’Occident</a></td>
+          <td class="publisher">Plon</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1939nf_s.jpg"/></td>
+          <td class="year">1939</td>
+          <td class="title">Nicolas de Flue, légende dramatique</td>
+          <td class="publisher">Institut Neuchâtelois</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1940mds_s.jpg"/></td>
+          <td class="year">1940</td>
+          <td class="title">Mission ou démission de la Suisse</td>
+          <td class="publisher">Éditions de la Baconnière</td>
+        </tr>
+
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1942partdia_s.jpg"/></td>
+          <td class="year">1942</td>
+          <td class="title">La Part du diable</td>
+          <td class="publisher">Brentano's</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1944partdia_s.jpg"/></td>
+          <td class="year">1944</td>
+          <td class="title">La Part du diable (rééd.)</td>
+          <td class="publisher">Brentano's</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1944persdram_s.jpg"/></td>
+          <td class="year">1944</td>
+          <td class="title">Les Personnes du drame</td>
+          <td class="publisher">Pantheon Books</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1946jdm_s.jpg"/></td>
+          <td class="year">1946</td>
+          <td class="title">Journal des deux mondes</td>
+          <td class="publisher">La Guilde du livre</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1946lba/"><img class="cover" src="../static/ddr_s/ddr1946lba_s.jpg"/></td>
+          <td class="year">1946</td>
+          <td class="title"><a href="ddr1946lba1">Lettres sur la bombe atomique</td>
+          <td class="publisher">Brentano's</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1946lba2_s.jpg"/></td>
+          <td class="year">1946</td>
+          <td class="title">Lettres sur la bombe atomique (rééd.)</td>
+          <td class="publisher">Gallimard</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1946polpers_s.jpg"/></td>
+          <td class="year">1946</td>
+          <td class="title">Politique de la personne (rééd.)</td>
+          <td class="publisher">Éditions « Je sers »</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1947va_s.jpg"/></td>
+          <td class="year">1947</td>
+          <td class="title">Vivre en Amérique</td>
+          <td class="publisher">Stock</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1947df_s.jpg"/></td>
+          <td class="year">1947</td>
+          <td class="title">Doctrine fabuleuse</td>
+          <td class="publisher">Ides et Calendes</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1948sn/"><img class="cover" src="../static/ddr_s/ddr1948sn_s.jpg"/></a></td>
+          <td class="year">1948</td>
+          <td class="title"><a href="ddr1948sn">Suite neuchâteloise</a></td>
+          <td class="publisher">Ides et Calendes</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1948ej/"><img class="cover" src="../static/ddr_s/ddr1948ej_s.jpg"/></a></td>
+          <td class="year">1948</td>
+          <td class="title"><a href="ddr1948ej">L'Europe en jeu</a></td>
+          <td class="publisher">Éditions de la Baconnière</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1950lde/"><img class="cover" src="../static/ddr_s/ddr1950lde_s.jpg"/></a></td>
+          <td class="year">1950</td>
+          <td class="title"><a href="ddr1950lde">Lettres aux députés européens</a></td>
+          <td class="publisher">Ides et Calendes</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1953ch_s.jpg"/></td>
+          <td class="year">1953</td>
+          <td class="title">La Confédération helvétique</td>
+          <td class="publisher">Éditions du Rocher</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1956ao_s.jpg"/></td>
+          <td class="year">1956</td>
+          <td class="title">L’Amour et l’Occident (rééd.)</td>
+          <td class="publisher">Plon</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1957aoh_s.jpg"/></td>
+          <td class="year">1957</td>
+          <td class="title">L'Aventure occidentale de l’homme</td>
+          <td class="publisher">Albin Michel</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1961vhse_s.jpg"/></td>
+          <td class="year">1961</td>
+          <td class="title">Vingt-huit siècles d’Europe</td>
+          <td class="publisher">Librairie Payot & Cie</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1961ctm_s.jpg"/></td>
+          <td class="year">1961</td>
+          <td class="title">Comme toi-même</td>
+          <td class="publisher">Albin Michel</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1962ce_s.jpg"/></td>
+          <td class="year">1962</td>
+          <td class="title">Les Chances de l’Europe</td>
+          <td class="publisher">Éditions de la Baconnière</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1965shph_s.jpg"/></td>
+          <td class="year">1965</td>
+          <td class="title">La Suisse ou L'histoire d’un peuple heureux</td>
+          <td class="publisher">Hachette</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1968jde/"><img class="cover" src="../static/ddr_s/ddr1968jde_s.jpg"/></a></td>
+          <td class="year">1968</td>
+          <td class="title"><a href="ddr1968jde">Journal d’une époque</a></td>
+          <td class="publisher">Gallimard</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1970shph_s.jpg"/></td>
+          <td class="year">1970</td>
+          <td class="title">La Suisse ou l’histoire d’un peuple heureux (rééd.)</td>
+          <td class="publisher">Le Livre du Mois</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1970udce_s.jpg"/></td>
+          <td class="year">1970</td>
+          <td class="title">L'Un et le Divers</td>
+          <td class="publisher">Éditions de la Baconnière</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1970cde_s.jpg"/></td>
+          <td class="year">1970</td>
+          <td class="title">Le Cheminement des esprits</td>
+          <td class="publisher">Éditions de la Baconnière</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1970loe_s.jpg"/></td>
+          <td class="year">1970</td>
+          <td class="title">Lettre ouverte aux Européens</td>
+          <td class="publisher">Albin Michel</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1972ao_s.jpg"/></td>
+          <td class="year">1972</td>
+          <td class="title">L’Amour et l’Occident (rééd.)</td>
+          <td class="publisher">Plon</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1972pm_s.jpg"/></td>
+          <td class="year">1972</td>
+          <td class="title">Penser avec les mains (rééd.)</td>
+          <td class="publisher">Gallimard</td>
+        </tr>
+
+        <tr>
+          <td class="cover"><a href="ddr1972mip/"><img class="cover" src="../static/ddr_s/ddr1972mip_s.jpg"/></a></td>
+          <td class="year">1972</td>
+          <td class="title"><a href="ddr1972mip">Les Méfaits de l’instruction publique (1929) aggravés d’une Suite des Méfaits (1972)</a> (rééd.)</td>
+          <td class="publisher">Eurêka</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1977aena_s.jpg"/></td>
+          <td class="year">1977</td>
+          <td class="title">L'Avenir est notre affaire</td>
+          <td class="publisher">Stock</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1979rpe_s.jpg"/></td>
+          <td class="year">1979</td>
+          <td class="title">Rapport au peuple européen sur l’état de l’union de l’Europe</td>
+          <td class="publisher">Stock</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1982partdia_s.jpg"/></td>
+          <td class="year">1982</td>
+          <td class="title">La Part du diable (rééd.)</td>
+          <td class="publisher">Gallimard</td>
+        </tr>
+
+        <tr class="V2">
+          <td class="cover"><img class="cover" src="../static/ddr_s/ddr1982paysan_s.jpg"/></td>
+          <td class="year">1982</td>
+          <td class="title">Le Paysan du Danube et autres textes (rééd.)</td>
+          <td class="publisher">L’Âge d’homme</td>
+        </tr>
+
+      </tbody>
+    </table>
+
+  </main>
+  <footer id="footer">
+    <div id="bottom"></div>
+  </footer>
+  <script src="../static/js/common.js"></script>
+  <script src="../static/js/livres.js"></script>
+  <script src="../static/vendors/Sortable.js"></script>
+</body>
+
+</html>
