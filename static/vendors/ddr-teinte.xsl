@@ -26,17 +26,43 @@
     | tei:TEI/tei:text/tei:*/tei:*[self::tei:div or self::tei:div1 or self::tei:group or self::tei:titlePage  or self::tei:castList][normalize-space(.) != '']" 
     use="generate-id(.)"/>
   <xsl:template match="/">
+    <xsl:variable name="titlebranch">
+      <xsl:call-template name="titlebranch"/>
+    </xsl:variable>
+    <xsl:call-template name="document">
+      <xsl:with-param name="href" select="concat($destdir, $bookid, '/index.html')"/>
+      <xsl:with-param name="title" select="$bibl"/>
+      <xsl:with-param name="main">
+        <header title="{normalize-space($bibl)}">
+          <xsl:copy-of select="$bibl"/>
+        </header>
+        <div class="bookfront">
+          <nav class="toclocal">
+            <xsl:call-template name="toclocal"/>
+          </nav>
+          <article>
+            <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
+          </article>
+          <figure>
+            <img src="../couv/{$bookid}_m.jpg"/>
+          </figure>
+        </div>
+      </xsl:with-param>
+    </xsl:call-template>
     <xsl:for-each select="//tei:div[@type='chapter']">
       <xsl:variable name="chapid">
         <xsl:call-template name="id"/>
       </xsl:variable>
-      <xsl:variable name="href" select="concat($destdir, '/', $bookid, '/', $chapid, '.html')"/>
+      <xsl:variable name="href" select="concat($destdir, $bookid, '/', $chapid, '.html')"/>
       <xsl:variable name="title">
         <xsl:call-template name="titlebranch"/>
       </xsl:variable>     
       <xsl:variable name="main">
-        <header>
+        <xsl:variable name="bibl">
           <xsl:call-template name="bibl"/>
+        </xsl:variable>
+        <header title="{normalize-space($bibl)}">
+          <a href="."><xsl:copy-of select="$bibl"/></a>
         </header>
         <div class="textwin">
           <nav class="toclocal">

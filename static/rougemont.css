@@ -3,7 +3,7 @@
 CSS Rougemont 2.0
 
 
-La plice de base, notamment pour la lecture des textes, sera sans-serif.
+La police de base, notamment pour la lecture des textes, sera sans-serif.
 L'inclusion de polices externes pour les titres est bienvenue, pour le texte,
 il faut s'assurer que cela ne ralentisse jamais l'affichage.
 
@@ -14,37 +14,58 @@ body {
   font-size: 14pt;
 }
 
-nav.toclocal .here,
-section.bimage .desc,
-nav.news,
-section.banner h1 {
+/* Fond encadré hors flux, “gris” */
+nav.toclocal .here, /* “vous êtes ici” dans la toc */
+section.bimage .desc, /* encadré accueil */
+nav.news, /* encadré news à l'accueil */
+ul.menubar a:hover, /* lien au survol dans la barre de menu */
+section.banner h1 /* barre de titre dans les encadrés à l'accueil */
+{
   background: #EEE;
 }
 
-a {
-  color: #0563C1;
-}
-
-nav.news a {
+nav.news a /* lien dans les news */
+{
   color: #666;
 }
 
-
-/* Couleur de contraste */
-.motto,
-.rubric,
-a.intern {
-  color: #C00000;
-}
-
-figure,
-#footer,
-#header,
-main > header,
-ul.menubar ul {
+/* Fond clair à forcer */
+figure, /* conteneur d'image */
+#header, /* entête de page qui doit passer par dessus la toc */
+ul.menubar ul, /* plaque de la barre de menu */
+main > header, /* entête de contenu qui doit passer par dessus la toc */
+#footer /* pied de page qui doit passer par dessus la toc */
+{
   background-color: #FFFFFF;
 }
 
+/* Couleur forte, “rouge” */
+.motto, /* le slogan */
+.rubric, /* du latin ruber «rouge» */
+a.intern, /* lien interne au site */
+a.pb /* No d epag et lien à l'image de page */
+ {
+  color: #C00000;
+}
+
+/* Couleur faible, “bleu” */
+main > header, /* titre de contenu */
+a /* lien par défaut */
+{
+  color: #0563C1;
+}
+
+/* filets faible */
+#footer,
+#header,
+main > header,
+ul.menubar ul /* plaque de la barre de menu */
+{
+  border-color: #CCC;
+  border-width: 1px;
+}
+
+/* filets forts */
 ul.menubar ul {
   border: #CCC solid 1px;
 }
@@ -75,7 +96,7 @@ figure {
 
 html, body {
   height: 100%;
-  margin: 0;^
+  margin: 0;
   padding: 0;
 }
 
@@ -96,13 +117,14 @@ div.bottom::after,
 small.credit {
   text-transform: uppercase;
 }
+
 /*
-Barre de tête
-*/
+ *  Barre de tête
+ */
 #footer,
 main > header,
 #header {
-  position: relative;
+  position: relative; /* pour gérer les superpositions */
 }
 
 #header {
@@ -111,6 +133,8 @@ main > header,
 
 main > header {
   z-index: 4;
+  border-bottom-style: solid;
+  padding-bottom: 1rem;
 }
 
 
@@ -131,7 +155,6 @@ header {
   color: #000;
 }
 
-
 #headnav .motto {
   margin-top: -1.5rem;
 }
@@ -139,7 +162,6 @@ header {
 ul.menubar img.logo {
   width: 200px;
 }
-
 
 ul.menubar, ul.menubar li, ul.menubar ul {
   margin: 0;
@@ -157,22 +179,22 @@ ul.menubar {
   align-items: center;
 }
 
-ul.menubar a:hover {
-  background: #EEE;
-}
-
 ul.menubar a {
   text-decoration: none;
   display: block;
   padding: 2px 0.5rem;
 }
 
-ul.menubar ul {
+ul.menubar ul /* plaque de menu */
+{
   display: none;
   z-index: 1;
+  border-style: solid;
+  border-width: 1px;
 }
 
-ul.menubar li:hover ul {
+ul.menubar li:hover ul /* plaque de menu au survol */
+{
   opacity: 1;
   display: block;
   position: absolute;
@@ -184,12 +206,11 @@ Bas de page
 */
 
 #footer {
-  padding-bottom: 4rem;
+  margin: 0;
+  padding: 1rem 2rem 1rem 2rem; /* marges de <main> */
+  border-top-style: solid;
 }
 
-div.bottom {
-  margin: 0 2rem 2rem 2rem;
-}
 
 div.bottom > nav {
   width: 25%;
@@ -355,7 +376,6 @@ table.thumbs tbody {
 table.thumbs tr.even, table.thumbs tr.odd, table.thumbs tr.odd td, table.thumbs tr.even td, table.thumbs tr.mod3 td, table.thumbs tr.mod5 td, table.thumbs tr.mod10 td {
 }
 
-
 table.thumbs tbody tr {
   position: relative;
   display: block;
@@ -375,9 +395,15 @@ table.thumbs tbody tr.V2 {
   background: #EEEEEE ;
   border-color: transparent;
 }
-
 table.thumbs tr.V2 img {
-  opacity: 0.2;
+  opacity: 0.5;
+}
+
+
+table.thumbs tr.V2 td.title,
+table.thumbs tr.V2 td.publisher,
+table.thumbs tr.V2 td.year {
+  display: none;
 }
 
 table.sortable td.cover, table.sortable th.cover {
@@ -416,32 +442,65 @@ table.thumbs td.title {
 
 table.thumbs td.publisher {}
 
+/** Page d'accueil d'un livre */
+
+div.bookfront {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+div.bookfront nav.toclocal {
+  align-self: start;
+  width: 23rem;
+}
+div.bookfront article {
+  min-width: 25%;
+  max-width: 50%;
+}
+div.bookfront figure {
+}
+
+
 /** Lecture d'un chapitre */
+
+main > header {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 100;
+  line-height: 170%;
+  /* forcer la hauteur, sinon bouscule tout en dessous, bull au survol */
+  height: 2em;
+  margin-bottom: 2rem;
+  overflow: hidden;
+}
 
 div.textwin {
   margin-left: auto;
   margin-right: auto;
+  max-width: 75rem;
 }
 
-nav.toclocal {
+div.textwin nav.toclocal {
   position: fixed;
   float: left;
-  width: 20rem;
+  width: 23rem;
   overflow: auto;
   bottom: 0;
   top: 0;
-  padding-top: 8rem;
-  padding-bottom: 10rem;
+  padding-top: 10rem; /* laisser la place au bandeau */
+  /* padding bottom ne marche pas ici */
 }
 
 div.textwin article {
   max-width: 50rem;
-  margin-left: 22rem;
+  margin-left: 25rem;
 }
 
 nav.toclocal > ul {
-  margin: 0;
-
+  margin: 0 0 15rem 0; /* mettre du blanc en bas pour le pied de page */
 }
 
 nav.toclocal li {
@@ -449,10 +508,12 @@ nav.toclocal li {
   line-height: 105%;
   margin-top: 0.7ex;
   margin-bottom: 0.7ex;
-  padding: 1px 0 1px 5px;
+  padding: 1px 0.2rem 1px 5px;
 }
 
-/** Surcharges Teinte */
+/*
+ * Surcharges Teinte pour le texte
+ */
 p.p {
   text-indent: 0;
   margin: 0.7rem 0;
@@ -461,7 +522,4 @@ p.p {
 .pb, .ed {
   padding: 1px 2px 1px 2px;
   position: static;
-  right: 4rem;
-  text-align: left;
-  width: 3.5rem;
 }
