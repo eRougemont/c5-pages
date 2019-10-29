@@ -40,8 +40,13 @@ a.intern {
 figure,
 #footer,
 #header,
-main > header {
+main > header,
+ul.menubar ul {
   background-color: #FFFFFF;
+}
+
+ul.menubar ul {
+  border: #CCC solid 1px;
 }
 
 /**
