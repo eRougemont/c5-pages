@@ -4,7 +4,7 @@ CSS Rougemont 2.0
 
 
 La police de base, notamment pour la lecture des textes, sera sans-serif.
-L'inclusion de polices externes pour les titres est bienvenue, pour le texte,
+L'inclusion de polices externes pour les titres est bienvenue, mais pour le texte,
 il faut s'assurer que cela ne ralentisse jamais l'affichage.
 
  */
@@ -67,9 +67,6 @@ a /* lien par défaut */
 }
 
 /* filets faible */
-#footer,
-#header,
-main > header,
 ul.menubar ul, /* plaque de la barre de menu */
 .border-light
 {
@@ -78,10 +75,13 @@ ul.menubar ul, /* plaque de la barre de menu */
 }
 
 /* filets forts */
-ul.menubar ul,
+#header, /* tête de page */
+main > header, /* titre de contenu */
+#footer, /* pied de page */
 .border-strong
 {
-  border: #CCC solid 1px;
+  border-color: #C00000;
+  border-width: 0.2px;
 }
 
 /**
@@ -533,6 +533,15 @@ nav.toclocal li {
   margin-top: 0.7ex;
   margin-bottom: 0.7ex;
   padding: 1px 0.2rem 1px 5px;
+}
+
+nav.toclocal a {
+  display: block;
+}
+
+nav.toclocal a:hover {
+  outline: #CCCCCC 1px dotted;
+  background: #FFFFFF;
 }
 
 /*
