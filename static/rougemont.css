@@ -98,8 +98,17 @@ Barre de tête
 main > header,
 #header {
   position: relative;
+}
+
+#header {
   z-index: 5;
 }
+
+main > header {
+  z-index: 4;
+}
+
+
 header {
   margin: 0;
 }
