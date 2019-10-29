@@ -14,6 +14,7 @@ body {
   font-size: 14pt;
 }
 
+nav.toclocal .here,
 section.bimage .desc,
 nav.news,
 section.banner h1 {
@@ -34,6 +35,13 @@ nav.news a {
 .rubric,
 a.intern {
   color: #C00000;
+}
+
+figure,
+#footer,
+#header,
+main > header {
+  background-color: #FFFFFF;
 }
 
 /**
@@ -73,7 +81,8 @@ main {
 /* “float fix” pour bien fermer les boîtes qui contiennent des objets flottants */
 section::after,
 .floatfix::after,
-div.bottom::after {
+div.bottom::after,
+.textwin::after {
   content: "";
   clear: both;
   display: table;
@@ -85,13 +94,23 @@ small.credit {
 /*
 Barre de tête
 */
+#footer,
+main > header,
+#header {
+  position: relative;
+  z-index: 5;
+}
+header {
+  margin: 0;
+}
 
 #header h1 {
   text-align: center;
 }
 
 #headnav {
-  margin: 0.5rem 2rem;
+  margin: 0 2rem;
+  padding: 0.5rem 0;
 }
 
 #headnav a {
@@ -137,7 +156,6 @@ ul.menubar a {
 ul.menubar ul {
   display: none;
   z-index: 1;
-  background: #FFFFFF;
 }
 
 ul.menubar li:hover ul {
@@ -383,3 +401,53 @@ table.thumbs td.title {
 }
 
 table.thumbs td.publisher {}
+
+/** Lecture d'un chapitre */
+
+div.textwin {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav.toclocal {
+  position: fixed;
+  float: left;
+  width: 20rem;
+  overflow: auto;
+  bottom: 0;
+  top: 0;
+  padding-top: 8rem;
+  padding-bottom: 10rem;
+}
+
+div.textwin article {
+  max-width: 50rem;
+  margin-left: 22rem;
+}
+
+nav.toclocal > ul {
+  margin: 0;
+
+}
+
+nav.toclocal li {
+  list-style: none;
+  line-height: 105%;
+  margin-top: 0.7ex;
+  margin-bottom: 0.7ex;
+  padding: 1px 0 1px 5px;
+}
+
+/** Surcharges Teinte */
+p.p {
+  text-indent: 0;
+  margin: 0.7rem 0;
+  text-align: left;
+}
+.pb, .ed {
+  padding: 1px 2px 1px 2px;
+  position: static;
+  right: 4rem;
+  text-align: left;
+  width: 3.5rem;
+}
