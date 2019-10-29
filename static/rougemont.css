@@ -14,17 +14,27 @@ body {
   font-size: 14pt;
 }
 
+.epigraph {
+  font-family: Georgia, Palatino, serif;
+
+}
+
 /* Fond encadré hors flux, “gris” */
-nav.toclocal .here, /* “vous êtes ici” dans la toc */
+nav.toclocal .here, /* dans la toc, “vous êtes ici” */
 section.bimage .desc, /* encadré accueil */
 nav.news, /* encadré news à l'accueil */
 ul.menubar a:hover, /* lien au survol dans la barre de menu */
-section.banner h1 /* barre de titre dans les encadrés à l'accueil */
+section.banner h1, /* barre de titre dans les encadrés à l'accueil */
+table.thumbs, /* table des livres, fond gris provisoire */
+table.thumbs tbody tr.V2, /* table des livres, fond gris pour les  */
+div.bookfront article, /* 4e de l'éditeur en couverture de livre */
+.grey
 {
   background: #EEE;
 }
 
-nav.news a /* lien dans les news */
+nav.news a, /* lien dans les news */
+.grey a
 {
   color: #666;
 }
@@ -34,17 +44,18 @@ figure, /* conteneur d'image */
 #header, /* entête de page qui doit passer par dessus la toc */
 ul.menubar ul, /* plaque de la barre de menu */
 main > header, /* entête de contenu qui doit passer par dessus la toc */
-#footer /* pied de page qui doit passer par dessus la toc */
+#footer, /* pied de page qui doit passer par dessus la toc */
+.white
 {
   background-color: #FFFFFF;
 }
 
 /* Couleur forte, “rouge” */
 .motto, /* le slogan */
-.rubric, /* du latin ruber «rouge» */
 a.intern, /* lien interne au site */
-a.pb /* No d epag et lien à l'image de page */
- {
+a.pb, /* No d epag et lien à l'image de page */
+.rubric /* du latin ruber «rouge» */
+{
   color: #C00000;
 }
 
@@ -59,14 +70,17 @@ a /* lien par défaut */
 #footer,
 #header,
 main > header,
-ul.menubar ul /* plaque de la barre de menu */
+ul.menubar ul, /* plaque de la barre de menu */
+.border-light
 {
   border-color: #CCC;
   border-width: 1px;
 }
 
 /* filets forts */
-ul.menubar ul {
+ul.menubar ul,
+.border-strong
+{
   border: #CCC solid 1px;
 }
 
@@ -387,12 +401,8 @@ table.thumbs tbody tr {
   background: #FFF;
 }
 
-table.thumbs {
-  background: #EEEEEE;
-}
 
 table.thumbs tbody tr.V2 {
-  background: #EEEEEE ;
   border-color: transparent;
 }
 table.thumbs tr.V2 img {
@@ -459,10 +469,24 @@ div.bookfront nav.toclocal {
 div.bookfront article {
   min-width: 25%;
   max-width: 50%;
+  padding: 0 2rem;
+  margin: 0 2rem;
 }
 div.bookfront figure {
 }
 
+div.bookfront .epigraph {
+  font-size: 150%;
+  font-style: italic;
+  text-align: center;
+  font-weight: 100;
+}
+
+div.bookfront h1 {
+  font-weight: 600;
+  font-size: 95%;
+  text-align: left;
+}
 
 /** Lecture d'un chapitre */
 
