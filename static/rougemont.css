@@ -26,14 +26,16 @@ nav.news, /* encadré news à l'accueil */
 ul.menubar a:hover, /* lien au survol dans la barre de menu */
 section.banner h1, /* barre de titre dans les encadrés à l'accueil */
 table.thumbs, /* table des livres, fond gris provisoire */
-table.thumbs tbody tr.V2, /* table des livres, fond gris pour les  */
 div.bookfront article, /* 4e de l'éditeur en couverture de livre */
+table.thumbs tbody tr.V2, /* table des livres, pas encore  */
+.menubar .V2, /* barre de menu haut, section V2 */
 .grey
 {
   background: #EEE;
 }
 
 nav.news a, /* lien dans les news */
+.menubar .V2 a,
 .grey a
 {
   color: #666;
@@ -193,6 +195,12 @@ ul.menubar {
   align-items: center;
 }
 
+ul.menubar .V2 a {
+  color: #999;
+  font-style: italic;
+  font-weight: 100;
+}
+
 ul.menubar a {
   text-decoration: none;
   display: block;
@@ -220,7 +228,7 @@ Bas de page
 */
 
 #footer {
-  margin: 0;
+  margin: 2rem 0 0 0;
   padding: 1rem 2rem 1rem 2rem; /* marges de <main> */
   border-top-style: solid;
 }
