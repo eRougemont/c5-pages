@@ -11,6 +11,7 @@ function clientSideInclude(id, url, up) {
   xhr.onload = function() {
     let html = xhr.response;
     cont.innerHTML = html;
+    if (!up) return;
     var els = cont.querySelectorAll('a, img')
     for (var i = 0, len = els.length; i < len; i++) {
       let el = els[i];
@@ -31,7 +32,6 @@ var path = window.location.pathname;
 const ancestors = 1;
 let depth = path.split("/").length - 2 - ancestors;
 let up = "../".repeat(depth);
-console.log(up);
 
 clientSideInclude("top", up+"inc/tete.html", up);
 clientSideInclude("bottom", up+"inc/pied.html", up);

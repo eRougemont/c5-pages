@@ -251,22 +251,21 @@ div.bottom > nav > a {
 */
 
 section.front {
+  height: 500px;
   display: flex;
   margin-top: 2rem;
   margin-bottom: 6rem;
-  justify-content: center;
   justify-content: space-between;
 }
 
-section.front img {
-  width: 60%;
-  align-self: flex-end;
+section.front iframe {
+  width: 65%;
+  overflow: hidden;
 }
 
 section.front nav.news {
   width: 30%;
   padding: 0.2rem 1rem;
-  align-self: flex-start;
 }
 
 section.front nav.news a {
