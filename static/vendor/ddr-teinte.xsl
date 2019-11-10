@@ -106,7 +106,7 @@
           <title>
             <xsl:value-of select="$title"/>
           </title>
-          <link rel="stylesheet" type="text/css" href="../../static/vendors/teinte.css" />
+          <link rel="stylesheet" type="text/css" href="../../static/vendor/teinte.css" />
           <link rel="stylesheet" type="text/css" href="../../static/rougemont.css" />
           <script>const relup = "../../"; </script>
         </head>
