@@ -331,6 +331,7 @@ div.logomotto {
 nav.covers {
   overflow: auto;
   white-space: nowrap;
+  background-color: #EEE;
 }
 
 nav.covers a {
@@ -339,9 +340,20 @@ nav.covers a {
   text-align: center;
   padding: 14px;
   text-decoration: none;
+  margin: 0;
 }
 
+nav.covers a img {
+  opacity: 0.3;
+}
 
+nav.covers a[href] {
+  background-color: #FFF;
+}
+
+nav.covers a[href] img {
+  opacity: 1;
+}
 
 /*
 Accueil Livres

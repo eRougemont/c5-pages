@@ -25,6 +25,9 @@
     | tei:group/tei:text 
     | tei:TEI/tei:text/tei:*/tei:*[self::tei:div or self::tei:div1 or self::tei:group or self::tei:titlePage  or self::tei:castList][normalize-space(.) != '']" 
     use="generate-id(.)"/>
+  <xsl:variable name="bibl">
+    <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/node()"/>
+  </xsl:variable>
   <xsl:template match="/">
     <xsl:variable name="titlebranch">
       <xsl:call-template name="titlebranch"/>
@@ -40,9 +43,11 @@
           <nav class="toclocal">
             <xsl:call-template name="toclocal"/>
           </nav>
+          <!--
           <article>
             <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
           </article>
+          -->
           <figure>
             <img src="../couv/{$bookid}_m.jpg"/>
           </figure>
