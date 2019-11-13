@@ -8,6 +8,8 @@
   <xsl:import href="../../../Teinte/xsl/toc.xsl"/>
   <xsl:import href="../../../Teinte/xsl/flow.xsl"/>
   <xsl:import href="../../../Teinte/xsl/notes.xsl"/>
+  <!-- Produce a good control on indentation -->
+  <xsl:strip-space elements="*" />
   <xsl:output indent="yes" encoding="UTF-8" method="xml" />
   <xsl:param name="destdir">livres/</xsl:param>
   <xsl:variable name="top" select="document('')"/>
@@ -75,9 +77,7 @@
           </nav>
           <article>
             <xsl:apply-templates/>
-            <footer class="footnotes">
-              <xsl:call-template name="footnotes"/>
-            </footer>
+            <xsl:call-template name="footnotes"/>
           </article>
         </div>
       </xsl:variable>
