@@ -83,11 +83,11 @@
             <xsl:call-template name="toclocal"/>
           </nav>
           <article>
-            <header class="bibl">
-              <xsl:copy-of select="$bibl"/>
-            </header>
             <xsl:apply-templates/>
             <xsl:call-template name="footnotes"/>
+            <aside class="bibl">
+              <xsl:copy-of select="$bibl"/>
+            </aside>
           </article>
         </div>
       </xsl:variable>
@@ -132,7 +132,7 @@
           <main>
             <xsl:copy-of select="$main"/>
           </main>
-          <a href="#" id="gotop">⮝</a>
+          <a href="#" id="gotop">▲</a>
           <footer id="footer">
             <div id="bottom"></div>
           </footer>

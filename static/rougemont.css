@@ -71,7 +71,7 @@ a /* lien par défaut */
 /* filets forts */
 #header, /* tête de page */
 main > header, /* titre de contenu */
-header.bibl, /* cadre bibliographique en tête de texte */
+aside.bibl, /* cadre bibliographique en tête de texte */
 #footer, /* pied de page */
 .border-strong
 {
@@ -537,7 +537,7 @@ main > header {
 }
 
 /* Référence bibliographique pour le chapitre */
-article > header.bibl {
+aside.bibl {
   border-style: solid;
   border-width: 1px;
   padding: 0.5rem 0 0.5rem 2rem;
