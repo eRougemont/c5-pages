@@ -69,13 +69,23 @@
           <xsl:call-template name="bibl"/>
         </xsl:variable>
         <header title="{normalize-space($bibl)}">
-          <a href="."><xsl:copy-of select="$bibl"/></a>
+          <a href=".">
+            <i>
+              <xsl:copy-of select="$doctitle"/>
+            </i>
+            <xsl:text> (</xsl:text>
+            <xsl:value-of select="$docdate"/>
+            <xsl:text>)</xsl:text>
+          </a>
         </header>
         <div class="textwin">
           <nav class="toclocal">
             <xsl:call-template name="toclocal"/>
           </nav>
           <article>
+            <header class="bibl">
+              <xsl:copy-of select="$bibl"/>
+            </header>
             <xsl:apply-templates/>
             <xsl:call-template name="footnotes"/>
           </article>
@@ -122,11 +132,12 @@
           <main>
             <xsl:copy-of select="$main"/>
           </main>
+          <a href="#" id="gotop">⮝</a>
           <footer id="footer">
             <div id="bottom"></div>
           </footer>
           <script src="../../static/js/common.js">//</script>
-          <script src="../../static/js/chapter.js">//</script>
+          <script src="../../static/js/text.js">//</script>
         </body>
       </html>
     </xsl:document>

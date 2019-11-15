@@ -52,7 +52,7 @@ main > header, /* entête de contenu qui doit passer par dessus la toc */
   background-color: #FFFFFF;
 }
 
-/* Couleur forte, “rouge” */
+/* Couleur forte, un rouge ? */
 .motto, /* le slogan */
 a.intern, /* lien interne au site */
 a.pb, /* No d epag et lien à l'image de page */
@@ -61,11 +61,22 @@ a.pb, /* No d epag et lien à l'image de page */
   color: #C00000;
 }
 
-/* Couleur faible, “bleu” */
+/* Couleur faible, au choix */
 main > header, /* titre de contenu */
 a /* lien par défaut */
 {
   color: #0563C1;
+}
+
+/* filets forts */
+#header, /* tête de page */
+main > header, /* titre de contenu */
+header.bibl, /* cadre bibliographique en tête de texte */
+#footer, /* pied de page */
+.border-strong
+{
+  border-color: #C00000;
+  border-width: 0.2px;
 }
 
 /* filets faible */
@@ -76,15 +87,6 @@ ul.menubar ul, /* plaque de la barre de menu */
   border-width: 1px;
 }
 
-/* filets forts */
-#header, /* tête de page */
-main > header, /* titre de contenu */
-#footer, /* pied de page */
-.border-strong
-{
-  border-color: #C00000;
-  border-width: 0.2px;
-}
 
 /**
  * Global
@@ -246,6 +248,22 @@ div.bottom > nav h4 {
 div.bottom > nav > a {
   display: block;
 }
+
+#gotop {
+  font-size: 3em;
+  line-height: 55%;
+  border-bottom: none;
+  position: fixed;
+  color: rgba(150, 150, 150, 0.5);
+  bottom: 1rem;
+  right: 1rem;
+  z-index: 10;
+}
+
+#gotop:hover {
+  color: rgba(150, 150, 150, 1);
+}
+
 /*
  Page d'accueil
 */
@@ -477,13 +495,11 @@ div.bookfront {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  justify-content: space-between;
   align-items: flex-start;
 }
 
 div.bookfront nav.toclocal {
   align-self: start;
-  width: 23rem;
 }
 div.bookfront article {
   min-width: 25%;
@@ -520,10 +536,22 @@ main > header {
   overflow: hidden;
 }
 
+/* Référence bibliographique pour le chapitre */
+article > header.bibl {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0.5rem 0 0.5rem 2rem;
+}
+
 div.textwin {
   margin-left: auto;
   margin-right: auto;
   max-width: 75rem;
+}
+
+div.textwin article {
+  max-width: 50rem;
+  margin-left: 25rem;
 }
 
 div.textwin nav.toclocal {
@@ -537,10 +565,6 @@ div.textwin nav.toclocal {
   /* padding bottom ne marche pas ici */
 }
 
-div.textwin article {
-  max-width: 50rem;
-  margin-left: 25rem;
-}
 
 nav.toclocal > ul {
   margin: 0 0 15rem 0; /* mettre du blanc en bas pour le pied de page */
@@ -556,10 +580,15 @@ nav.toclocal li {
 
 nav.toclocal a {
   display: block;
+  padding: 0 0 0 0.5rem;
 }
 
 nav.toclocal a:hover {
-  outline: #CCCCCC 1px dotted;
+  outline: none;
+  background: #FFFFFF;
+}
+
+nav.toclocal a:focus {
   background: #FFFFFF;
 }
 
