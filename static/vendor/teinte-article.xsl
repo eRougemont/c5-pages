@@ -57,7 +57,7 @@
                 <xsl:call-template name="footnotes"/>
               </xsl:for-each>
               <aside class="bibl">
-                <xsl:copy-of select="$bibl"/>
+                <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl"/>
               </aside>
             </article>
           </div>
