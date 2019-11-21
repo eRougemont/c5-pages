@@ -2044,20 +2044,6 @@ nav.breadcrumb {
   color: #000000;
 }
 
-#gotop {
-  font-size: 3em;
-  border-bottom: none;
-  position: fixed;
-  color: rgba(150, 150, 150, 0.5);
-  bottom: 1ex;
-  right: 1ex;
-  z-index: 10;
-}
-
-#gotop:hover {
-  color: rgba(150, 150, 150, 1);
-}
-
 /* list styles  */
 ul.none, ol.none, ul.simple, ol.simple {
   list-style-type: none;
