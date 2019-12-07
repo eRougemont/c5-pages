@@ -500,6 +500,7 @@ div.bookfront {
 
 div.bookfront nav.toclocal {
   align-self: start;
+  width: 40rem;
 }
 div.bookfront article {
   min-width: 25%;

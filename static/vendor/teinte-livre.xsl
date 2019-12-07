@@ -43,7 +43,9 @@
         </header>
         <div class="bookfront">
           <nav class="toclocal">
-            <xsl:call-template name="toclocal"/>
+            <ul>
+              <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
+            </ul>
           </nav>
           <!--
           <article>
