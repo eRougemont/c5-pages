@@ -8,6 +8,7 @@
   <xsl:import href="../../../Teinte/xsl/toc.xsl"/>
   <xsl:import href="../../../Teinte/xsl/flow.xsl"/>
   <xsl:import href="../../../Teinte/xsl/notes.xsl"/>
+  <xsl:param name="srcdir"/>
   <!-- Pour indentation -->
   <xsl:strip-space elements="*" />
   <xsl:output indent="yes" encoding="UTF-8" method="xml" />
@@ -18,9 +19,8 @@
     <html>
       <head>
         <meta charset="UTF-8" />
-        <title>
-          <xsl:copy-of select="$doctitle"/>
-        </title>
+        <title>Articles de Rougemont</title>
+        <link rel="stylesheet" type="text/css" href="../static/vendor/sortable.css" />
         <link rel="stylesheet" type="text/css" href="../static/rougemont.css" />
         <script>const relup = "../../"; </script>
       </head>
@@ -32,22 +32,42 @@
           <header>
             Articles
           </header>
-          <div>
-            <xsl:for-each select="/*/file">
-              <xsl:variable name="name" select="substring-before(., '.')"/>
-              <xsl:for-each select="document(.)">
-                <a href="{$name}.html">
-                  <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl"/>
-                </a>
+          <table class="sortable">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Titre</th>
+                <th>Revue</th>
+              </tr>
+            </thead>
+            <tbody>
+              <xsl:for-each select="/*/file">
+                <xsl:variable name="name" select="substring-before(., '.')"/>
+                <xsl:for-each select="document(concat($srcdir, .))">
+                  <tr>
+                    <td class="date">
+                      <xsl:value-of select="/tei:TEI/tei:teiHeader/tei:profileDesc/tei:creation/tei:date/@when"/>
+                    </td>
+                    <td class="title">
+                      <a href="{$name}.html">
+                        <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title/node()"/>
+                      </a>
+                    </td>
+                    <td class="journal">
+                      <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:bibl/tei:title[@level='j']/node()"/>
+                    </td>
+                  </tr>
+                </xsl:for-each>
               </xsl:for-each>
-            </xsl:for-each>
-          </div>
+            </tbody>
+          </table>
         </main>
         <a href="#" id="gotop">▲</a>
         <footer id="footer">
           <div id="bottom"></div>
         </footer>
         <script src="../static/js/common.js">//</script>
+        <script src="../static/vendor/sortable.js">//</script>
       </body>
     </html>
   </xsl:template>

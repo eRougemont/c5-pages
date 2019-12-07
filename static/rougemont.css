@@ -593,6 +593,19 @@ nav.toclocal a:focus {
   background: #FFFFFF;
 }
 
+/**
+ * Table des articles
+ */
+
+.sortable .date {
+  white-space: nowrap;
+}
+
+.sortable .title a {
+  display: block;
+}
+
+
 /*
  * Surcharges Teinte pour le texte
  */
