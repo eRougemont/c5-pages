@@ -237,7 +237,7 @@ var Sortable = {
    */
   paint: function(row, i) {
     row.className = " "+row.className+" ";
-    row.className = row.className.replace(/ *(odd|even|mod3|mod5|mod10|\d+) */g, ' ');
+    row.className = row.className.replace(/ *(odd|even|mod3|mod5|mod10) */g, ' ');
     if ((i % 2) == 1) row.className+=" even";
     else if ((i % 2) == 0) row.className+=" odd";
     if ((i % 5) == 1) row.className+=" mod1";

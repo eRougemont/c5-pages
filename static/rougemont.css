@@ -469,6 +469,7 @@ table.thumbs tbody td {
   display: block;
   border: none !important;
   box-shadow: unset !important;
+  background-color: transparent !important;
 }
 
 table.thumbs td.year {
@@ -483,7 +484,7 @@ table.thumbs td.year {
 }
 
 table.thumbs td.title {
-  height: 1.2rem;
+  height: 1.5rem;
   overflow: hidden;
 }
 
