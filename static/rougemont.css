@@ -557,6 +557,10 @@ main > header {
   overflow: hidden;
 }
 
+article > a.pb,
+section > a.pb {
+  float: right;
+}
 /* Référence bibliographique pour le chapitre */
 aside.bibl {
   border-style: solid;
