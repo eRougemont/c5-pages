@@ -62,6 +62,7 @@ a.pb, /* No d epag et lien à l'image de page */
 }
 
 /* Couleur faible, au choix */
+div.bookfront nav.toclocal li.chapter > ul a:hover,
 main > header, /* titre de contenu */
 a /* lien par défaut */
 {
@@ -503,6 +504,24 @@ div.bookfront nav.toclocal {
   align-self: start;
   width: 40rem;
 }
+
+div.bookfront nav.toclocal li.chapter > ul {
+  display: none;
+}
+
+div.bookfront nav.toclocal li.chapter > ul a {
+  color: #000;
+}
+
+div.bookfront nav.toclocal li.chapter:hover > ul {
+  display: block;
+}
+
+div.bookfront nav.toclocal.all li.chapter > ul {
+  display: block;
+}
+
+
 div.bookfront article {
   min-width: 25%;
   max-width: 50%;

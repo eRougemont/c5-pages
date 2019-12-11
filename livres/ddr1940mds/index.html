@@ -14,14 +14,15 @@
       <header title="Mission ou démission de la Suisse, Genève, Éditions de la Baconnière, 1940."><cite class="title">Mission ou démission de la Suisse</cite>, Genève, Éditions de la Baconnière, 1940.</header>
       <div class="bookfront">
         <nav class="toclocal">
+          <button onclick="&#10;if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';}&#10;else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;}&#10;              ">Sommaire +</button>
           <ul>
-            <li>
+            <li class="chapter">
               <a href="ch1.html#goch1" id="goch1">Avertissement</a>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch2.html#goch2" id="goch2"> Le protestantisme créateur de personnes</a>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch3.html#goch3" id="goch3"> La bataille de la culture</a>
               <ul>
                 <li>
@@ -50,10 +51,10 @@
                 </li>
               </ul>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch4.html#goch4" id="goch4">Neutralité oblige  –  (1937)</a>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch5.html#goch5" id="goch5">La Suisse que nous devons défendre</a>
               <ul>
                 <li>
@@ -76,7 +77,7 @@
                 </li>
               </ul>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch6.html#goch6" id="goch6">Esquisses d’une politique fédéraliste</a>
               <ul>
                 <li>
@@ -87,11 +88,14 @@
                 </li>
               </ul>
             </li>
-            <li>
+            <li class="chapter">
               <a href="ch7.html#goch7" id="goch7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
             </li>
           </ul>
         </nav>
+        <article>
+          <p xmlns=""/>
+        </article>
         <figure>
           <img src="../couv/ddr1940mds_m.jpg"/>
         </figure>

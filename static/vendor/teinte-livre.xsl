@@ -34,6 +34,10 @@
     <xsl:variable name="titlebranch">
       <xsl:call-template name="titlebranch"/>
     </xsl:variable>
+    <xsl:message terminate="no">
+      <xsl:value-of select="$destdir"/>
+      <xsl:value-of select="$bookid"/>
+    </xsl:message>
     <xsl:call-template name="document">
       <xsl:with-param name="href" select="concat($destdir, $bookid, '/index.html')"/>
       <xsl:with-param name="title" select="$bibl"/>
@@ -43,15 +47,20 @@
         </header>
         <div class="bookfront">
           <nav class="toclocal">
+            <button>
+              <xsl:attribute name="onclick">
+if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';}
+else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;}
+              </xsl:attribute>
+              <xsl:text>Sommaire +</xsl:text>
+            </button>
             <ul>
               <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
             </ul>
           </nav>
-          <!--
           <article>
             <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
           </article>
-          -->
           <figure>
             <img src="../couv/{$bookid}_m.jpg"/>
           </figure>
