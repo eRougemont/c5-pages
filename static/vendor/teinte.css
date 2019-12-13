@@ -158,7 +158,6 @@ address {
 }
 
 article {
-  margin-top: 1em;
   page-break-after: always;
   clear: both;
 }

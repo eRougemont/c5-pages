@@ -19,14 +19,13 @@ body {
 
 }
 
-/* Fond encadré hors flux, “gris” */
-nav.toclocal .here, /* dans la toc, “vous êtes ici” */
+/* Fond “grisé” */
+body.chapter,
 section.bimage .desc, /* encadré accueil */
 nav.news, /* encadré news à l'accueil */
 ul.menubar a:hover, /* lien au survol dans la barre de menu */
 section.banner h1, /* barre de titre dans les encadrés à l'accueil */
 table.thumbs, /* table des livres, fond gris provisoire */
-div.bookfront article, /* 4e de l'éditeur en couverture de livre */
 table.thumbs tbody tr.V2, /* table des livres, pas encore  */
 .menubar .V2, /* barre de menu haut, section V2 */
 .grey
@@ -64,6 +63,7 @@ a.pb, /* No d epag et lien à l'image de page */
 /* Couleur faible, au choix */
 div.bookfront nav.toclocal li.chapter > ul a:hover,
 main > header, /* titre de contenu */
+div.cont > header, /* titre de livre dans un chapitre */
 a /* lien par défaut */
 {
   color: #0563C1;
@@ -120,7 +120,6 @@ html, body {
 }
 
 main {
-  margin: 0 2rem;
 }
 
 /* “float fix” pour bien fermer les boîtes qui contiennent des objets flottants */
@@ -491,8 +490,9 @@ table.thumbs td.title {
 
 table.thumbs td.publisher {}
 
-/** Page d'accueil d'un livre */
+/** Page d'accueil d'un livre et lecture livre */
 
+/* Accueil livre en flex */
 div.bookfront {
   display: flex;
   flex-direction: row;
@@ -500,9 +500,54 @@ div.bookfront {
   align-items: flex-start;
 }
 
-div.bookfront nav.toclocal {
-  align-self: start;
-  width: 40rem;
+/* Chapitre en fixed pour synchroniser la toc */
+div.textwin {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 75rem;
+}
+
+div.bookfront > div.cont,
+div.textwin > div.cont {
+  background-color: #FFFFFF;
+  min-width: 20rem;
+  max-width: 50rem;
+  margin: 0 2rem;
+}
+
+div.textwin > div.cont {
+  margin-left: 25rem;
+}
+
+div.cont {
+  padding: 2rem 2rem 0 2rem;
+}
+
+div.cont > header {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.3rem;
+}
+
+div.textwin > nav.toclocal {
+  position: fixed;
+  float: left;
+  width: 23rem;
+  overflow: auto;
+  bottom: 0;
+  top: 0;
+  padding-top: 6.7rem; /* laisser la place au bandeau */
+  /* padding bottom ne marche pas ici */
+}
+
+div.textwin > nav.toclocal li.here {
+  background-color: #FFFFFF;
+}
+
+div.cont .booktitle {
+  display: block;
+  text-align: center;
+  font-size: 2rem;
 }
 
 div.bookfront nav.toclocal li.chapter > ul {
@@ -513,21 +558,11 @@ div.bookfront nav.toclocal li.chapter > ul a {
   color: #000;
 }
 
-div.bookfront nav.toclocal li.chapter:hover > ul {
-  display: block;
-}
-
 div.bookfront nav.toclocal.all li.chapter > ul {
   display: block;
 }
 
 
-div.bookfront article {
-  min-width: 25%;
-  max-width: 50%;
-  padding: 0 2rem;
-  margin: 0 2rem;
-}
 div.bookfront figure {
 }
 
@@ -546,15 +581,32 @@ div.bookfront h1 {
 
 /** Lecture d'un chapitre */
 
+body.chapter main {
+  margin-top: 2rem;
+}
+
 main > header {
   text-align: center;
-  font-size: 1.8rem;
   font-weight: 100;
   line-height: 170%;
   /* forcer la hauteur, sinon bouscule tout en dessous, bull au survol */
   height: 2em;
   margin-bottom: 2rem;
   overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top:0;
+  padding: 0 2rem;
+}
+
+main > header .logo {
+  width: 200px;
+  float: left;
+}
+
+main > header a.top {
+  float: right;
+  font-size: 2rem;
 }
 
 article > a.pb,
@@ -568,27 +620,8 @@ aside.bibl {
   padding: 0.5rem 0 0.5rem 2rem;
 }
 
-div.textwin {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 75rem;
-}
 
-div.textwin article {
-  max-width: 50rem;
-  margin-left: 25rem;
-}
 
-div.textwin nav.toclocal {
-  position: fixed;
-  float: left;
-  width: 23rem;
-  overflow: auto;
-  bottom: 0;
-  top: 0;
-  padding-top: 10rem; /* laisser la place au bandeau */
-  /* padding bottom ne marche pas ici */
-}
 
 
 nav.toclocal > ul {

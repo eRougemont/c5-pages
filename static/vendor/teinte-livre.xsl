@@ -42,28 +42,38 @@
       <xsl:with-param name="href" select="concat($destdir, $bookid, '/index.html')"/>
       <xsl:with-param name="title" select="$bibl"/>
       <xsl:with-param name="main">
-        <header title="{normalize-space($bibl)}">
-          <xsl:copy-of select="$bibl"/>
-        </header>
         <div class="bookfront">
-          <nav class="toclocal">
-            <button>
-              <xsl:attribute name="onclick">
-if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';}
-else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;}
-              </xsl:attribute>
-              <xsl:text>Sommaire +</xsl:text>
-            </button>
-            <ul>
-              <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
-            </ul>
-          </nav>
-          <article>
-            <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
-          </article>
           <figure>
             <img src="../couv/{$bookid}_m.jpg"/>
           </figure>
+          <div class="cont">
+            <article>
+              <a href="ch1.html" class="booktitle">
+                <i>
+                  <xsl:copy-of select="$doctitle"/>
+                </i>
+                <time>
+                  <xsl:text> (</xsl:text>
+                  <xsl:value-of select="$docdate"/>
+                  <xsl:text>)</xsl:text>
+                </time>
+                <small class="more"> [Lire…]</small>
+              </a>
+              <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
+            </article>
+            <nav class="toclocal">
+              <button>
+                <xsl:attribute name="onclick">
+                  if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';}
+                  else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;}
+                </xsl:attribute>
+                <xsl:text>Sommaire +</xsl:text>
+              </button>
+              <ul>
+                <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
+              </ul>
+            </nav>
+          </div>
         </div>
       </xsl:with-param>
     </xsl:call-template>
@@ -73,33 +83,64 @@ else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.las
       </xsl:variable>
       <xsl:variable name="href" select="concat($destdir, $bookid, '/', $chapid, '.html')"/>
       <xsl:variable name="title">
-        <xsl:call-template name="titlebranch"/>
+        <a href=".">
+          <i>
+            <xsl:copy-of select="$doctitle"/>
+          </i>
+          <xsl:text> (</xsl:text>
+          <xsl:value-of select="$docdate"/>
+          <xsl:text>)</xsl:text>
+        </a>
+        <xsl:text> » </xsl:text>
+        <a href="#">
+          <xsl:for-each select="ancestor-or-self::*">
+            <xsl:sort order="descending" select="position()"/>
+            <xsl:choose>
+              <xsl:when test="self::tei:TEI"/>
+              <xsl:when test="self::tei:text"/>
+              <xsl:when test="self::tei:body"/>
+              <xsl:otherwise>
+                <xsl:if test="position() != 1"> » </xsl:if>
+                <xsl:apply-templates mode="title" select="."/>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:for-each>
+        </a>
       </xsl:variable>     
       <xsl:variable name="main">
-        <xsl:variable name="bibl">
-          <xsl:call-template name="bibl"/>
-        </xsl:variable>
-        <header title="{normalize-space($bibl)}">
-          <a href=".">
-            <i>
-              <xsl:copy-of select="$doctitle"/>
-            </i>
-            <xsl:text> (</xsl:text>
-            <xsl:value-of select="$docdate"/>
-            <xsl:text>)</xsl:text>
+        <header title="{normalize-space($title)}">
+          <a title="Rougemont 2.0, accueil" href="../../." class="logo">
+            <img title="Rougemont 2.0" class="logo" src="../../static/img/logo_ddr2.svg"/>
           </a>
+          <a href="../.">Livres</a>
+          <xsl:text> » </xsl:text>
+          <xsl:copy-of select="$title"/>
+          <a class="top" href="#">↑</a>
         </header>
         <div class="textwin">
           <nav class="toclocal">
+            <figure>
+              <img src="../couv/{$bookid}_m.jpg"/>
+            </figure>
             <xsl:call-template name="toclocal"/>
           </nav>
-          <article>
-            <xsl:apply-templates/>
-            <xsl:call-template name="footnotes"/>
-            <aside class="bibl">
-              <xsl:copy-of select="$bibl"/>
-            </aside>
-          </article>
+          <div class="cont">
+            <a class="booktitle" href=".">
+              <i>
+                <xsl:copy-of select="$doctitle"/>
+              </i>
+              <xsl:text> (</xsl:text>
+              <xsl:value-of select="$docdate"/>
+              <xsl:text>)</xsl:text>
+            </a>
+            <article>
+              <xsl:apply-templates/>
+              <xsl:call-template name="footnotes"/>
+              <aside class="bibl">
+                <xsl:copy-of select="$bibl"/>
+              </aside>
+            </article>
+          </div>
         </div>
       </xsl:variable>
       <xsl:call-template name="document">
@@ -143,7 +184,6 @@ else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.las
           <main>
             <xsl:copy-of select="$main"/>
           </main>
-          <a href="#" id="gotop">▲</a>
           <footer id="footer">
             <div id="bottom"></div>
           </footer>
