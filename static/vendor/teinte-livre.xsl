@@ -133,13 +133,15 @@
               <xsl:value-of select="$docdate"/>
               <xsl:text>)</xsl:text>
             </a>
+            <xsl:call-template name="prevnext"/>
             <article>
               <xsl:apply-templates/>
               <xsl:call-template name="footnotes"/>
-              <aside class="bibl">
-                <xsl:copy-of select="$bibl"/>
-              </aside>
             </article>
+            <aside class="bibl">
+              <xsl:copy-of select="$bibl"/>
+            </aside>
+            <xsl:call-template name="prevnext"/>
           </div>
         </div>
       </xsl:variable>
@@ -150,6 +152,47 @@
       </xsl:call-template>
     </xsl:for-each>
   </xsl:template>
+  
+  <!-- a prev/next navigation -->
+  <xsl:template name="prevnext">
+    <nav class="prevnext">
+      <div class="prev">
+        <xsl:for-each select="preceding::*[@type='chapter'][1]">
+          <xsl:variable name="title">
+            <xsl:call-template name="title"/>
+          </xsl:variable>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:call-template name="href"/>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+              <xsl:value-of select="normalize-space($title)"/>
+            </xsl:attribute>
+            <xsl:copy-of select="$title"/>
+          </a>
+        </xsl:for-each>
+        <xsl:text> </xsl:text>
+      </div>
+      <div class="next">
+        <xsl:text> </xsl:text>
+        <xsl:for-each select="following::*[@type='chapter'][1]">
+          <xsl:variable name="title">
+            <xsl:call-template name="title"/>
+          </xsl:variable>
+          <a>
+            <xsl:attribute name="href">
+              <xsl:call-template name="href"/>
+            </xsl:attribute>
+            <xsl:attribute name="title">
+              <xsl:value-of select="normalize-space($title)"/>
+            </xsl:attribute>
+            <xsl:copy-of select="$title"/>
+          </a>
+        </xsl:for-each>
+      </div>
+     </nav>
+  </xsl:template>
+  
   
   <xsl:template match="tei:div[@type = 'chapter']" mode="id">
     <xsl:text>ch</xsl:text>

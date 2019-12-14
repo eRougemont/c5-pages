@@ -620,7 +620,34 @@ aside.bibl {
   padding: 0.5rem 0 0.5rem 2rem;
 }
 
+nav.prevnext {
+  display: flex;
+  flex-direction: row;
+}
 
+nav.prevnext div {
+  width: 50%;
+  white-space: nowrap;
+  height: 2rem;
+  overflow: hidden;
+  overflow-wrap: anywhere;
+  border: 1px solid;
+}
+
+nav.prevnext div a {
+  display: block;
+}
+
+nav.prevnext div.prev {
+  padding: 0 1rem 0 0.5rem;
+  margin-right: 0.5rem;
+}
+
+nav.prevnext div.next {
+  padding: 0 0.5rem 0 1rem;
+  text-align: right;
+  margin-left: 0.5rem;
+}
 
 
 
@@ -669,7 +696,7 @@ nav.toclocal a:focus {
 p.p {
   text-indent: 0;
   margin: 0.7rem 0;
-  text-align: left;
+  text-align: justify;
 }
 .pb, .ed {
   padding: 1px 2px 1px 2px;
