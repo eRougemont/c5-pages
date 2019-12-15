@@ -61,7 +61,7 @@
               </a>
               <xsl:copy-of select="document(concat('../../', $destdir, $bookid, '.html'))"/>
             </article>
-            <nav class="toclocal">
+            <nav class="toclocal" id="toc">
               <button>
                 <xsl:attribute name="onclick">
                   if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';}
@@ -118,13 +118,13 @@
           <a class="top" href="#">↑</a>
         </header>
         <div class="textwin">
-          <nav class="toclocal">
+          <nav class="toclocal" id="toc">
             <figure>
               <img src="../couv/{$bookid}_m.jpg"/>
             </figure>
             <xsl:call-template name="toclocal"/>
           </nav>
-          <div class="cont">
+          <div class="cont" id="cont">
             <a class="booktitle" href=".">
               <i>
                 <xsl:copy-of select="$doctitle"/>

@@ -41,7 +41,6 @@ nav.news a, /* lien dans les news */
 }
 
 /* Fond clair à forcer */
-figure, /* conteneur d'image */
 #header, /* entête de page qui doit passer par dessus la toc */
 ul.menubar ul, /* plaque de la barre de menu */
 main > header, /* entête de contenu qui doit passer par dessus la toc */
@@ -71,6 +70,7 @@ a /* lien par défaut */
 
 /* filets forts */
 #header, /* tête de page */
+#notebot, /* fenêtre des notes */
 main > header, /* titre de contenu */
 aside.bibl, /* cadre bibliographique en tête de texte */
 #footer, /* pied de page */
@@ -110,7 +110,6 @@ address {
 
 figure {
   margin: 0;
-  background: #FFF;
 }
 
 html, body {
@@ -513,6 +512,7 @@ div.textwin > div.cont {
   min-width: 20rem;
   max-width: 50rem;
   margin: 0 2rem;
+  position: relative;
 }
 
 div.textwin > div.cont {
@@ -649,8 +649,6 @@ nav.prevnext div.next {
   margin-left: 0.5rem;
 }
 
-
-
 nav.toclocal > ul {
   margin: 0 0 15rem 0; /* mettre du blanc en bas pour le pied de page */
 }
@@ -662,6 +660,7 @@ nav.toclocal li {
   margin-bottom: 0.7ex;
   padding: 1px 0.2rem 1px 5px;
 }
+  position: relative;
 
 nav.toclocal a {
   display: block;
@@ -675,6 +674,16 @@ nav.toclocal a:hover {
 
 nav.toclocal a:focus {
   background: #FFFFFF;
+}
+
+#notebot {
+  background: #FFFFFF;
+  position: fixed;
+  bottom: 0;
+  width: 48rem;
+  border-top-style: solid;
+  margin-left: -2rem;
+  padding: 1rem 2rem 1rem 0;
 }
 
 /**

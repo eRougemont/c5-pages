@@ -2461,9 +2461,9 @@ dl.xml dt {
 /** specific wide screen, not for print or phone */
 @media screen {
   div.note, aside.note {
-    margin: 0 0 0 2.5em;
+    margin: 0 0 0 1.7rem;
     border-left: 1px solid #CCCCCC;
-    padding: 0.5ex 0 0.5ex 0.5em;
+    padding: 0.3rem 0 0.5ex 0.5rem;
   }
 
   section>div.note {
@@ -2476,8 +2476,8 @@ dl.xml dt {
     position: absolute;
     display: block;
     text-align: right;
-    width: 5ex;
-    margin: 0.3ex 0 0 -7ex;
+    width: 1.5rem;
+    margin: 0.3ex 0 0 -2.5rem;
   }
 
   aside.marginnote {
