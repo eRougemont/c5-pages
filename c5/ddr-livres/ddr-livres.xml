@@ -1,0 +1,2379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif version="1.0">
+  <pages>
+    <page path="/livres/ddr1929mip" name="Les Méfaits de l’Instruction publique (1929)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Les Méfaits de l’Instruction publique</i> (1929)</h1>
+                  <p>« La question est de savoir si nous serons des hommes de chair et d’esprit, ou des pantins articulés. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Écrit entre le 26 décembre 1928 et le 10 janvier 1929 à Areuse (Neuchâtel), ce texte, premier volume publié par Denis de Rougemont, est une vigoureuse charge contre l’école publique et contre le régime radical dominant en Suisse depuis 1848. Fustigeant les programmes, les examens, les manuels, la discipline, l’auteur dénonce une institution organisée selon lui sur le modèle de la caserne, dont la vérité ne serait pas « d’enseigner » mais de « gaver » les élèves et de soumettre leurs esprits « au contrôle de l’État ». Voyant dans l’école une atteinte profonde à l’épanouissement de l’enfant, Rougemont en appelle à une éducation qui s’adapterait aux rythmes de chacun, manifestant une bienveillance, non exempte de critique, pour les principes et les expérimentations de l’école nouvelle (Bovet, Piaget) : « Je salue ces jeunes gens qui appliquent avec ferveur les principes de l’école libre, qui se moquent des programmes et dont les classes sont de vraies foires ; ils ont toute mon amitié. »</p>
+                  <p>Nous donnons ici l’édition originale de 1929 parue dans la collection « Les Petites Lettres de Lausanne », à l’initiative d’Edmond Gilliard et par les soins de Daniel Simond.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Les Méfaits de l’Instruction publique 1929</i>, aggravés d’une <i>Suite des Méfaits 1972</i></a> (1972)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Frédéric <span class="sc">Mole</span>, « Contextes d’un procès de l’instruction publique », in Nicolas <span class="sc">Stenger</span>, François <span class="sc">Saint-Ouen</span> et Jonathan <span class="sc">Wenger</span> (dir.), <i>Revue historique neuchâteloise : « Union, Étude ». Denis de Rougemont</i>, n°1-2, 2019, p. 63-69.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Les Méfaits de l’Instruction publique</i> (1929) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 116-125.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Aucun manuscrit n’a été conservé dans les archives.</li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Rougemont parle des <i>Méfaits de l’Instruction publique</i></a> (1973)</li>
+                    <li><a href="">Comment résumer une œuvre en trente minutes</a> (1976) (Évocation et lecture d’un extrait des <i>Méfaits</i> de 03:47 à 04:47)</li>
+                  </ul>
+                  <ul class="none">
+                    <li/>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1972mip" name="Les Méfaits de l’instruction publique 1929, aggravés d’une Suite des Méfaits (1972)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Les Méfaits de l’Instruction publique 1929, aggravés d’une Suite des Méfaits</i> (1972)</h1>
+                  <p> « L’enseignement vivant de l’écologie me paraît le plus propre à déclencher le processus de la révolution sociale et scolaire que j’appelle. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Écrit entre le 26 décembre 1928 et le 10 janvier 1929 à Areuse (Neuchâtel), ce texte, premier volume publié par Denis de Rougemont, est une vigoureuse charge contre l’école publique et contre le régime radical dominant en Suisse depuis 1848. Fustigeant les programmes, les examens, les manuels, la discipline, l’auteur dénonce une institution organisée selon lui sur le modèle de la caserne, dont la vérité ne serait pas « d’enseigner » mais de « gaver » les élèves et de soumettre leurs esprits « au contrôle de l’État ». Voyant dans l’école une atteinte profonde à l’épanouissement de l’enfant, Rougemont en appelle à une éducation qui s’adapterait aux rythmes de chacun, manifestant une bienveillance, non exempte de critique, pour les principes et les expérimentations de l’école nouvelle (Bovet, Piaget) : « Je salue ces jeunes gens qui appliquent avec ferveur les principes de l’école libre, qui se moquent des programmes et dont les classes sont de vraies foires ; ils ont toute mon amitié. »</p>
+                  <p>Nous donnons ici l’édition de 1972, publiée par l’Association romande du personnel de librairie et de l’édition (EURÊKA). Denis de Rougemont n’a apporté que peu de modifications au texte original, mais a augmenté son pamphlet d’une postface intitulée la <i>Suite des Méfaits</i>, où il souligne les échos de son écrit de jeunesse chez des auteurs qui, tel Ivan Illich, en appellent à l’avènement d’une « société sans école ». La <i>Suite des Méfaits</i> est aussi l’occasion pour l’auteur d’actualiser ses thèses face aux enjeux environnementaux, au cœur de son engagement dans les années 1970-1980.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Les Méfaits de l’Instruction publique</i></a> (1929)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Frédéric <span class="sc">Mole</span>, « Contextes d’un procès de l’instruction publique », in Nicolas <span class="sc">Stenger</span>, François <span class="sc">Saint-Ouen</span> et Jonathan <span class="sc">Wenger</span> (dir.), <i>Revue historique neuchâteloise : « Union, Étude ». Denis de Rougemont</i>, n°1-2, 2019, p. 63-69.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Les Méfaits de l’Instruction publique</i> (1929) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 116-125.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Aucun manuscrit du texte de 1929 n’a été conservé dans les archives.</li>
+                    <li>
+                      <a href="bpun-ddr1-id0005_mip-preface1972">
+                        <i>Suite des Méfaits</i>
+                      </a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Rougemont parle des <i>Méfaits de l’Instruction publique</i></a> (1973)</li>
+                    <li><a href="">Comment résumer une œuvre en trente minutes</a> (1976) (Évocation et lecture d’un extrait des <i>Méfaits</i> de 03:47 à 04:47)</li>
+                    <li/>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1932paysan" name="Le Paysan du Danube (1932)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Le Paysan du Danube</i> (1932)</h1>
+                  <p> « Il s’agirait, au fond, d’amener la pensée à la plus insistante vénération du réel. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Essai de géographie littéraire, à mi-chemin entre le carnet de voyage et le journal privé, entre prose et poésie,<i> Le Paysan du Danube</i> narre plusieurs séjours effectués entre 1926 et 1929, lors desquels Denis de Rougemont découvre une partie de l’Europe centrale : la Prusse orientale et ses châteaux, Vienne, la Hongrie (Budapest, Esztergom, le Lac Balaton, Debrecen), le Lac de Garde (où il vit quelques émois juvéniles), Tübingen (où il visite la tour de Hölderlin), la Souabe (à travers la petite ville de Calw en Wurtemberg, au sud-ouest de Stuttgart). Un appendice, « Les soirées du Brambilla-Club », évoque les soirées mondaines à Paris, où l’écrivain s’est établi en 1930.</p>
+                  <p>Nous donnons ici l’édition originale parue en 1932 dans la collection « Les Cahiers romands », dirigée par Edmond Gilliard et Sven Stelling-Michaud, chez l’éditeur Payot à Lausanne.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Le Paysan du Danube</i></a>, dans le <a href=""><i>Journal d’une époque</i></a> (1968)</li>
+                    <li><a href=""><i>Le Paysan du Danube et autres textes</i></a> (1982)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Krisztina <span class="sc">Horváth</span>, « La poétique du paysage dans <i>Le Paysan du Danube</i> », in François <span class="sc">Saint-Ouen</span> (éd.), <i>L’Europe de Denis de Rougemont</i>, Louvain-la-Neuve, Academia-L’Harmattan, 2014, p. 27-40.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Le Paysan du Danube</i> (1926-1930) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 135-151.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0013_paydan-notes-ms">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0014_paydan-ms-1">Premiers brouillons manuscrits</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0015_paydan-ms-annote">Manuscrit et tapuscrit avec annotations</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0016_paydan-tdm-ill">Tables des matières et illustration</a>
+                    </li>
+                  </ul>
+                  <ul class="none">
+                    <li/>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1982paysan" name="Le Paysan du Danube et autres textes (1982)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Le Paysan du Danube et autres textes</i> (1982)</h1>
+                  <p> « L’Europe centrale est une de ces réalités qu’on reconnaît d’abord par leur frisson particulier. Mais il n’en faut pas plus pour ébranler le souvenir. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Essai de géographie littéraire, à mi-chemin entre le carnet de voyage et le journal privé, entre prose et poésie,<i> Le Paysan du Danube</i> narre plusieurs séjours effectués entre 1926 et 1929, lors desquels Denis de Rougemont découvre une partie de l’Europe centrale : Vienne, la Hongrie (Budapest, Esztergom, le Lac Balaton, Debrecen), le Lac de Garde (où il vit quelques émois juvéniles), la Prusse orientale et ses châteaux, Tübingen (où il visite la tour de Hölderlin), la Souabe (à travers la petite ville de Calw en Wurtemberg, au sud-ouest de Stuttgart).</p>
+                  <p>Nous donnons ici l’édition de 1982 parue dans la collection « Poche Suisse » aux Éditions L’Âge d’Homme. Outre le <i>Paysan du Danube</i>, dont le texte est repris pour l’essentiel de la version parue dans le <a href=""><i>Journal d’une époque</i></a> (1968), cette édition comprend des fragments du <a href=""><i>Journal des deux mondes</i></a> paru en 1946 (« Quand je me souviens, c’est l’Europe »), ainsi que la <a href=""><i>Suite neuchâteloise</i></a>, parue en 1948. Les fautes d’orthographe et les coquilles, nombreuses (sans doute une erreur lors de la composition de l’ouvrage), ont été corrigées sans signalisation. L’intérêt et la nouveauté de cette édition tiennent essentiellement à la modification de la table des matières et à la réunion de textes parus à différentes époques.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Le Paysan du Danube</i></a> (1932)</li>
+                    <li><a href=""><i>Journal des deux Mondes</i></a> (1946)</li>
+                    <li><a href=""><i>Suite neuchâteloise</i></a>(1948)</li>
+                    <li><a href=""><i>Le Paysan du Danube</i></a>, dans le <a href=""><i>Journal d’une époque</i></a> (1968)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Krisztina <span class="sc">Horváth</span>, « La poétique du paysage dans <i>Le Paysan du Danube</i> », in François <span class="sc">Saint-Ouen</span> (éd.), <i>L’Europe de Denis de Rougemont</i>, Louvain-la-Neuve, Academia-L’Harmattan, 2014, p. 27-40.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Le Paysan du Danube</i> (1926-1930) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 135-151.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1932 du <i>Paysan du Danube</i></a> et l’<a href="">édition de 1948 de la <i>Suite neuchâteloise</i></a>.</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1934polpers" name="Politique de la personne (1934)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Politique de la personne</i> (1934)</h1>
+                  <p> « Là où l’homme veut être total, l’État ne sera jamais totalitaire. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Figurant parmi les ouvrages fondateurs du courant personnaliste, ce recueil d’essais et de conférences postule le primat de la personne, <i>libre</i> par sa vocation qui la rend unique, et <i>responsable</i> car indissolublement liée au destin de sa communauté. Posant le diagnostic d’une crise de civilisation, Denis de Rougemont affirme que l’homme moderne a perdu la mesure de l’humain, et que le devoir des intellectuels est de conduire une critique des mythes et des idéologies individualistes et collectivistes, de rétablir les valeurs de la personne, et de bâtir des institutions qui la respectent, à travers le fédéralisme. Face aux régimes totalitaires, face au capitalisme et à « l’idéologie bourgeoise », il en appelle à retrouver le sens profond d’une politique et d’une société « à hauteur d’homme ».</p>
+                  <p>Nous donnons ici l’édition originale de 1934, parue aux Éditions « Je sers » (Paris) avec le sous-titre « Problèmes, doctrines et tactique de la révolution personnaliste ». Petite maison protestante dont Denis de Rougemont assura le secrétariat d’édition entre 1930 et 1933, « Je sers » a coédité cet ouvrage avec les Éditions Labor (Genève).</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Politique de la personne</i></a> (1946)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Emmanuel <span class="sc">Mounier</span>, « Denis de Rougemont, <i>Politique de la personne</i> », <i>Esprit</i>, n° 30, 1<sup class="sup">er</sup> mars 1935, p. 965-967.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Les manuscrits des textes qui composent ce recueil seront bientôt disponibles.</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1946polpers" name="Politique de la personne (1946)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Politique de la personne</i> (1946)</h1>
+                  <p>« Notre siècle est athée, totalement athée, et consciemment athée. Mais, en même temps, il est polythéiste et superstitieux au dernier degré. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Figurant parmi les ouvrages fondateurs du courant personnaliste, ce recueil d’essais et de conférences postule le primat de la personne, <i>libre</i> par sa vocation qui la rend unique, et <i>responsable</i> car indissolublement liée au destin de sa communauté. Posant le diagnostic d’une crise de civilisation, Denis de Rougemont affirme que l’homme moderne a perdu la mesure de l’humain, et que le devoir des intellectuels est de conduire une critique des mythes et des idéologies individualistes et collectivistes, de rétablir les valeurs de la personne, et de bâtir des institutions qui la respectent, à travers le fédéralisme. Face aux régimes totalitaires, face au capitalisme et à « l’idéologie bourgeoise », il en appelle à retrouver le sens profond d’une politique et d’une société « à hauteur d’homme ».</p>
+                  <p>Nous donnons ici l’édition « revue et augmentée » de 1946, parue aux Éditions « Je sers » (Paris). Cette édition comprend une préface et une cinquième partie inédites, ainsi qu’un appendice en partie modifié.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Politique de la personne</i></a> (1934)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Emmanuel <span class="sc">Mounier</span>, « Denis de Rougemont, <i>Politique de la personne</i> », <i>Esprit</i>, n° 30, 1<sup class="sup">er</sup> mars 1935, p. 965-967.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Les manuscrits des textes qui composent ce recueil seront bientôt disponibles.</li>
+                    <li>
+                      <a href="bpun-ddr1-id0021_polpers-preface-1940-46">Préface</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0022_polpers-corrections-politique-personne">« Corrections à <i>Politique de la personne</i> »</a>
+                    </li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1936pm" name="Penser avec les mains (1936)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Penser avec les mains</i> (1936)</h1>
+                  <p>« Situer en ce centre de l’homme le centre de la société préfigure dès maintenant la conquête et l’effort ultime auxquels pourra jamais prétendre une révolution humaine. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Rédigé en partie à l’île de Ré pendant sa période de chômage (1933-1935), en partie à Francfort où Denis de Rougemont séjourne comme lecteur de littérature française à l’Université (1935-1936), <i>Penser avec les mains</i> développe certains thèmes abordés dans <a href=""><i>Politique de la personne</i></a>, pour proposer un « traité de la pensée engagée » répondant à bien des égards au célèbre ouvrage de Julien Benda sur la <i>Trahison des clercs</i>. L’auteur résume le cœur de son projet dans les premières pages de son livre : « Ce que je veux faire, c’est chercher les moyens d’<i>action</i> dont l’esprit de l’homme dispose ; c’est montrer que l’esprit n’est réel et ne mérite que l’on s’inquiète à son sujet que lorsqu’il s’abaisse au niveau des hommes concrets, des ouvriers au sens premier du mot : ceux qui ont prise sur les choses et qui “étreignent la réalité rugueuse”, comme dit Rimbaud ; ceux qui œuvrent ; et ceux qui ouvrent. L’esprit n’est vrai que lorsqu’il manifeste sa présence, et dans le mot manifester il y a <i>main</i>. »</p>
+                  <p>Nous donnons ici l’édition originale parue chez Albin Michel en 1936.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Penser avec les mains</i></a> (1972)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Doctrine personnaliste : <i>Penser avec les mains</i> (1936) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 497-522.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0023_pm-ms-notes">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0024_pm-ms-partie-1-2">Manuscrit de la première partie</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0025_pm-ms-partie-2-incomp">Manuscrit (incomplet) de la deuxième partie</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>Penser avec les mains</i> est évoqué du début jusqu’à 05:52).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1972pm" name="Penser avec les mains (1972)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Penser avec les mains</i> (1972)</h1>
+                  <p>« Les uns pensent, dit-on, les autres agissent ! Mais la vraie condition de l’homme, c’est de penser avec ses mains. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Rédigé en partie à l’île de Ré pendant sa période de chômage (1933-1935), en partie à Francfort où Denis de Rougemont séjourne comme lecteur de littérature française à l’Université (1935-1936), <i>Penser avec les mains</i> développe certains thèmes abordés dans <a href=""><i>Politique de la personne</i></a>, pour proposer un « traité de la pensée engagée » répondant à bien des égards au célèbre ouvrage de Julien Benda sur la <i>Trahison des clercs</i>. L’auteur résume le cœur de son projet dans les premières pages de son livre : « Ce que je veux faire, c’est chercher les moyens d’<i>action</i> dont l’esprit de l’homme dispose ; c’est montrer que l’esprit n’est réel et ne mérite que l’on s’inquiète à son sujet que lorsqu’il s’abaisse au niveau des hommes concrets, des ouvriers au sens premier du mot : ceux qui ont prise sur les choses et qui “étreignent la réalité rugueuse”, comme dit Rimbaud ; ceux qui œuvrent ; et ceux qui ouvrent. L’esprit n’est vrai que lorsqu’il manifeste sa présence, et dans le mot manifester il y a <i>main</i>. »</p>
+                  <p>Nous donnons ici l’édition de 1972 parue dans la collection « Idées », aux Éditions Gallimard. Outre la révision de quelques chapitres, Denis de Rougemont a augmenté son texte d’une préface.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Penser avec les mains</i></a> (1936)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Doctrine personnaliste : <i>Penser avec les mains</i> (1936) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 497-522.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1936 </a>pour les notes et le manuscrit</li>
+                    <li>
+                      <a href="bpun-ddr1-id0026_pm-preface-1972">Préface</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>Penser avec les mains</i> est évoqué du début jusqu’à 05:52).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1937jic" name="Journal d’un intellectuel en chômage (1937)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Journal d’un intellectuel en chômage</i> (1937)</h1>
+                  <p> « Quand on voit les choses et les êtres de trop près, on perd le peu de foi que l’on pouvait accorder aux idéologies et aux politiciens. Il faut vivre à Paris pour y croire. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>À la suite de la faillite des Éditions « Je sers » en 1933, Denis de Rougemont se retrouve au chômage. Durant cette période, il s’établit dans l’île de Ré près de La Rochelle (novembre 1933-juillet 1934), puis à Anduze dans le département du Gard au sud de la France (septembre 1934-juin 1935) ; enfin, il retourne à Paris durant l’été 1935. L’ouvrage est découpé en trois parties retraçant chacun de ces séjours. Éloigné d’un monde parisien qui lui apparaît artificiel et vain, l’auteur expérimente toutefois les limites de la communication qu’il s’efforce de nouer avec les gens, la difficulté de vivre de sa plume, ainsi que le décalage entre les idéologies dominantes de l’époque et les problèmes réels auxquels le « peuple » est confronté.</p>
+                  <p>Nous donnons ici l’édition originale de ce texte paru la même année aux Éditions Albin Michel (Paris) et aux Éditions de La Baconnière (Neuchâtel), ainsi qu’à la Guilde du Livre, fondée en 1936 par Albert Mermoud.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Journal d’un intellectuel en chômage</i></a>, dans le <a href=""><i>Journal d’une époque</i></a> (1968)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « L’intellectuel en chômage (1933-1935) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 409-443.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>La copie numérisée du manuscrit de ce texte, déposé aux archives de la Bibliothèque cantonale et universitaire de Lausanne, sera prochainement disponible.</li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : Parcours de sa vie — 1 </a>(1982) <br class="lb"/>(La période de chômage est évoquée de 21:40 à la fin)</li>
+                    <li><a href="">Denis de Rougemont : Parcours de sa vie — 2 </a>(1982) <br class="lb"/>(La période de chômage est évoquée du début à 02:25)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1938ja" name="Journal d’Allemagne (1938)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Journal d’Allemagne</i> (1938)</h1>
+                  <p> « Je suis seul et ils sont tous ensemble. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Publié deux ans après son séjour comme lecteur de littérature française à l’Université de Francfort (1935-1936), le <i>Journal d’Allemagne</i> rassemble un certain nombre de portraits, d’anecdotes, de conversations et de réflexions sur le régime hitlérien. L’un des aspects soulignés avec force par Denis de Rougemont est le caractère religieux du national-socialisme. Celui-ci lui saute aux yeux à l’occasion d’un rassemblement organisé en l’honneur du Führer à la Festhalle de Francfort : « Je me croyais à un meeting de masses, à quelque manifestation politique. Mais c’est leur culte qu’ils célèbrent ! Et c’est une liturgie qui se déroule, la grande cérémonie sacrale d’une religion dont je ne suis pas, et qui m’écrase et me repousse avec bien plus de puissance même physique, que tous ces corps horriblement tendus. » Selon l’écrivain, la puissance de mobilisation du nazisme tient entre autres à la réponse qu’il donne à l’angoisse d’individus isolés et à leur besoin d’être ensemble, dans une société sécularisée où tout principe d’union a disparu. Le récit du rassemblement nazi à Francfort a inspiré la pièce <i>Rhinocéros</i> créée par Eugène Ionesco en 1960.</p>
+                  <p>Nous donnons ici l’édition originale parue en 1938 chez Gallimard.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Journal d’Allemagne</i></a>, dans le <a href=""><i>Journal d’une époque</i></a> (1968)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Nicolas <span class="sc">Stenger</span>, « Une religion de substitution : l’analyse du national-socialisme par Denis de Rougemont », in Uwe <span class="sc">Puschner</span>, Olivier <span class="sc">Dard</span>, Michel <span class="sc">Grunewald</span> (dir.), <i>Confrontations au national-socialisme en Europe francophone et germanophone (1919-1949). Vol. 2 : Les libéraux, modérés et européistes</i>, Bruxelles, Peter Lang, 2018, p. 115-129.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Le séjour en Allemagne (1935-1936) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 445-495.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0044_journal-allemagne-ms">Manuscrit et tapuscrit</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0045_journal-allemagne-appendices-2-3">Appendices <span class="num">ii</span> et <span class="num">iii</span></a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0046_journal-allemagne-epreuves">Épreuves avec annotations manuscrites</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 1</a> (1980) <br class="lb"/>(Le séjour en Allemagne est évoqué de 16:55 à la fin)</li>
+                    <li><a href="">Denis de Rougemont : Parcours de sa vie — 2 </a>(1982) <br class="lb"/>(Le séjour en Allemagne est évoqué de 02:28 à 22:00)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1939ao" name="L’Amour et l’Occident (1939)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Amour et l’Occident</i> (1939)</h1>
+                  <p>« Nous avons besoin d’un mythe pour exprimer le fait obscur et inavouable que la passion est liée à la mort. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce livre, le plus connu et le plus traduit de Denis de Rougemont, explore le mythe de l’amour passion. L’auteur en situe la naissance au <span class="num">xiiᵉ</span> siècle, au moment où se développent simultanément les motifs de l’amour courtois chanté par les troubadours provençaux, et la doctrine manichéenne propagée par l’hérésie cathare. Partant d’une analyse de la légende de Tristan et Iseult, considérée comme l’archétype du « grand mythe européen de l’adultère », Rougemont en souligne les manifestations dans les domaines les plus divers : ses représentations successives dans la littérature occidentale ; ses effets sur l’institution du mariage qu’il met en crise ; ou encore le « parallélisme des formes » entre passion et art de la guerre. Sans prétendre condamner la passion en soi, l’auteur en appelle aux vertus de l’Agapè, fondant le couple non dans la fusion mais dans le respect mutuel de deux personnes distinctes, libres et responsables. À « l’amour de l’amour », étroitement lié à l’« amour de la mort » comme l’illustre le destin tragique de Tristan et Iseult, il oppose l’« amour action », une éthique chrétienne du mariage faite d’engagement et de fidélité.</p>
+                  <p>Nous donnons ici l’édition originale parue chez Plon en 1939. Dans l’« Avertissement », l’auteur résume brièvement les circonstances dans lesquelles est né son ouvrage : « J’ai vécu ce livre pendant toute mon adolescence et ma jeunesse ; je l’ai conçu sous forme d’œuvre écrite, et nourri de quelques lectures, depuis deux ans ; enfin je l’ai rédigé en quatre mois. Ceci me rappelle le mot de Vernet, à propos d’un tableau qu’il vendait assez cher : “Il m’a demandé une heure de travail, et toute la vie”. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1956)</li>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1972)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jean <span class="sc">Starobinski</span>, « Un essai au long cours », in<i> Table d’Orientation</i>, Lausanne, L’Âge d’Homme, 1989, p. 63-69.</li>
+                    <li>Luisa <span class="sc">Passerini</span>, « The Heart of Europe : <i>Love in the Western World</i> by Denis de Rougemont », in <i>Love and the Idea of Europe</i>, New York, Berghahn Books, 2009, p. 174-223.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0058_amour-occident-ms-autographe">Manuscrit (incomplet)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0062_amour-occident-notes-autres-ed">Notes manuscrites pour d’autres éditions</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Henri Guillemin parle de <i>L’Amour et l’Occident</i></a> (1968)</li>
+                    <li><a href="">Parcours intellectuel et thèses sur <i>L’Amour et l’Occident</i></a> (1971)</li>
+                    <li><a href="">Denis de Rougemont : une trajectoire</a> (1976) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 15:41 à 32:49)</li>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 06:00 à 17:41).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1956ao" name="L’Amour et l’Occident (1956)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Amour et l’Occident</i> (1956)</h1>
+                  <p>« Ce qui exalte, le lyrisme occidental, ce n’est pas le plaisir des sens, ni la paix féconde du couple. C’est moins l’amour comblé que la passion d’amour. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce livre, le plus connu et le plus traduit de Denis de Rougemont, explore le mythe de l’amour passion. L’auteur en situe la naissance au <span class="num">xiiᵉ</span> siècle, au moment où se développent simultanément les motifs de l’amour courtois chanté par les troubadours provençaux, et la doctrine manichéenne propagée par l’hérésie cathare. Partant d’une analyse de la légende de Tristan et Iseult, considérée comme l’archétype du « grand mythe européen de l’adultère », Rougemont en souligne les manifestations dans les domaines les plus divers : ses représentations successives dans la littérature occidentale ; ses effets sur l’institution du mariage qu’il met en crise ; ou encore le « parallélisme des formes » entre passion et art de la guerre. Sans prétendre condamner la passion en soi, l’auteur en appelle aux vertus de l’Agapè, fondant le couple non dans la fusion mais dans le respect mutuel de deux personnes distinctes, libres et responsables. À « l’amour de l’amour », étroitement lié à l’« amour de la mort » comme l’illustre le destin tragique de Tristan et Iseult, il oppose l’« amour action », une éthique chrétienne du mariage faite d’engagement et de fidélité.</p>
+                  <p>Nous donnons ici l’édition « remaniée et augmentée » parue chez Plon en 1956. Cette édition contient une nouvelle préface ainsi que des corrections et ajouts, principalement dans le livre II traitant du catharisme et des troubadours, où l’auteur tient compte des recherches réalisées depuis la première édition de son ouvrage en 1939.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1939)</li>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1972)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jean <span class="sc">Starobinski</span>, « Un essai au long cours », in<i> Table d’Orientation</i>, Lausanne, L’Âge d’Homme, 1989, p. 63-69.</li>
+                    <li>Luisa <span class="sc">Passerini</span>, « The Heart of Europe : <i>Love in the Western World</i> by Denis de Rougemont », in <i>Love and the Idea of Europe</i>, New York, Berghahn Books, 2009, p. 174-223.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1939 </a>pour le manuscrit</li>
+                    <li>
+                      <a href="bpun-ddr1-id0063_amour-occident-pref-nv-chap">Préface, ajouts et modifications</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Henri Guillemin parle de <i>L’Amour et l’Occident</i></a> (1968)</li>
+                    <li><a href="">Parcours intellectuel et thèses sur <i>L’Amour et l’Occident</i></a> (1971)</li>
+                    <li><a href="">Denis de Rougemont : une trajectoire</a> (1976) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 15:41 à 32:49)</li>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 06:00 à 17:41).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1972ao" name="L’Amour et l’Occident (1972)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Amour et l’Occident</i> (1972)</h1>
+                  <p>« Toute ma morale, et toute mon érotique, et toute ma politique tiennent dans le principe de la composition des opposés et de la mise en tension des pôles contraires. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce livre, le plus connu et le plus traduit de Denis de Rougemont, explore le mythe de l’amour passion. L’auteur en situe la naissance au <span class="num">xiiᵉ</span> siècle, au moment où se développent simultanément les motifs de l’amour courtois chanté par les troubadours provençaux, et la doctrine manichéenne propagée par l’hérésie cathare. Partant d’une analyse de la légende de Tristan et Iseult, considérée comme l’archétype du « grand mythe européen de l’adultère », Rougemont en souligne les manifestations dans les domaines les plus divers : ses représentations successives dans la littérature occidentale ; ses effets sur l’institution du mariage qu’il met en crise ; ou encore le « parallélisme des formes » entre passion et art de la guerre. Sans prétendre condamner la passion en soi, l’auteur en appelle aux vertus de l’Agapè, fondant le couple non dans la fusion mais dans le respect mutuel de deux personnes distinctes, libres et responsables. À « l’amour de l’amour », étroitement lié à l’« amour de la mort » comme l’illustre le destin tragique de Tristan et Iseult, il oppose l’« amour action », une éthique chrétienne du mariage faite d’engagement et de fidélité.</p>
+                  <p>Nous donnons ici « l’édition définitive » parue chez Plon en 1972 et éditée en collection de poche chez 10/18. Cette édition contient en guise de postface un substantiel « Post-scriptum non définitif et scientifico-polémique », où l’auteur répond à quelques-uns de ses critiques et précise certaines thèses de son livre.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1939)</li>
+                    <li><a href=""><i>L’Amour et l’Occident</i></a> (1956)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jean <span class="sc">Starobinski</span>, « Un essai au long cours », in<i> Table d’Orientation</i>, Lausanne, L’Âge d’Homme, 1989, p. 63-69.</li>
+                    <li>Luisa <span class="sc">Passerini</span>, « The Heart of Europe : <i>Love in the Western World</i> by Denis de Rougemont », in <i>Love and the Idea of Europe</i>, New York, Berghahn Books, 2009, p. 174-223.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1939 </a>pour le manuscrit, et l’<a href="">édition de 1956</a> pour la préface</li>
+                    <li>
+                      <a href="bpun-ddr1-id0064_amour-occident-postscriptum-non-def">« Post-scriptum non définitif et scientifico-polémique »</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Henri Guillemin parle de <i>L’Amour et l’Occident</i></a> (1968)</li>
+                    <li><a href="">Parcours intellectuel et thèses sur <i>L’Amour et l’Occident</i></a> (1971)</li>
+                    <li><a href="">Denis de Rougemont : une trajectoire</a> (1976) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 15:41 à 32:49)</li>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>L’Amour et l’Occident</i> est évoqué de 06:00 à 17:41).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1939nf" name="Nicolas de Flue (1939)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Nicolas de Flue</i> (1939)</h1>
+                  <p><i>« Oh ! si mon peuple enfin renonçait aux idoles, <br class="lb"/>À l’or, à la puissance, aux funestes paroles</i>, <br class="lb"/><i>Pour un instant de foi, Dieu le délivrerait, <br class="lb"/>En un instant de joie renaîtrait votre paix ! »</i></p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Légende dramatique en trois actes, mise en musique par Arthur Honegger, <i class="en i" lang="en">Nicolas de Flue</i> fut composé pour l’Exposition nationale de Zurich, où il fut exécuté le 23 septembre 1939. Denis de Rougemont y met en relief la figure du sage qui rappelle ses compatriotes à la raison, et celle du solitaire par qui tous sont réunis. Le premier acte montre Nicolas quitter l’armée et, par un appel de Dieu, abandonner sa famille et se faire ermite. L’acte II, qui se déroule sept ans après, montre que Nicolas est devenu celui que l’on consulte : il a fui le monde et voici qu’à présent, c’est le monde qui vient à lui… Un ange lui annonce qu’une épreuve attend son peuple. Alors que Français et Autrichiens proposent aux Suisses de s’allier à eux pour abattre la riche Bourgogne, Nicolas déclare qu’il faut dédaigner la guerre et les richesses, et que mieux vaut rester indépendants et en paix. Mais les Suisses se divisent entre les villes (favorables à la guerre) et les campagnes. Sept ans encore après, l’acte III s’ouvre sur la Diète de Stans (1481), marquée par une querelle à propos de l’entrée de deux nouvelles villes (Fribourg et Soleure) dans la Confédération, qui romprait l’équilibre villes-campagnes. La guerre civile menace. Dieu délie alors Nicolas de son vœu de solitude : il redescend vers les hommes et leur apporte un message de renonciation à l’or, à la puissance et aux idoles. Les Suisses sont réconciliés.</p>
+                  <p>Nous donnons ici l’édition originale du texte, publiée en 1939 par l’Institut neuchâtelois.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Nicolas de Flue</i> (1939) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 586-601.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0084_nf-notes-ms">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0085_nf-ms-complet-2-versions">Manuscrit et tapuscrits</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0086_nf-corr">Corrections</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0087_nf-plans-indications-sceniques">Plans et indications scéniques</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0093_nf-livrets-allemand-anglais-francais">Livrets en français, allemand, anglais</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Causerie sur <i>Nicolas de Flue</i></a> (1939)</li>
+                    <li><a href="">Denis de Rougemont parle d’Arthur Honegger et de <i>Nicolas de Flue</i></a> (1965)</li>
+                    <li><a href="">Denis de Rougemont parle de <i>Nicolas de Flue</i></a> (1971)</li>
+                    <li><a href="">Marge des mots (3) : À propos de l’œuvre de commande</a> (1972)</li>
+                    <li><a href="">Denis de Rougemont parle de <i>Nicolas de Flue</i> et de son rapport à la musique</a> (1977)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1940mds" name="Mission ou démission de la Suisse (1940)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Mission ou démission de la Suisse</i> (1940)</h1>
+                  <p>« Il est temps que la Suisse comprenne que le souci de son économie ne saurait plus servir d’excuse à l’absence de vues <i>politiques</i>. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Au moment où Hitler plonge l’Europe dans la guerre, l’auteur publie aux Éditions de La Baconnière ce recueil d’articles et de conférences, pour rappeler à ses compatriotes leur « mission », qui est de « défendre et illustrer la vocation fédéraliste » de la Suisse. L’ouvrage s’ouvre sur l’apport du protestantisme à la notion de <i>personne</i> et sur l’idée calviniste de « vocation », qui distingue et réunit les hommes dans la volonté particulière de Dieu, et donne à la personne une dignité supérieure à l’État. Dans « La bataille de la culture », l’auteur déplore que la culture — qui devrait être porteuse d’action au nom d’une certaine idée de l’homme — soit trop facilement considérée comme une activité d’agrément, et y voit le signe d’une crise profonde. Si les Suisses doivent donc se battre, c’est au nom d’une mission spirituelle pour l’Europe, et non pour défendre leurs « lacs d’azur » et leurs « glaciers sublimes ». Loin de l’interdire, la neutralité du reste le requiert (« Neutralité oblige »). Dans « La Suisse que nous devons défendre », l’auteur fustige certains travers de ses compatriotes (culte de la médiocrité, « neutralité » institutionnelle cachant l’absence de vision européenne, etc.). « Esquisses d’une politique fédéraliste » montre enfin le lien que noue l’auteur entre le fédéralisme (formule d’union dans la diversité) et le personnalisme.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Kristina <span class="sc">Schulz</span>, « Neutralité et engagement : Denis de Rougemont et le concept de la “neutralité active” », <i>A contrario</i>, nº 4, volume 2, 2006, p. 57-70.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Mission ou démission de la Suisse</i> (1940) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 665-673.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0114_mds-esquisse-politique">« Esquisses d’une politique fédéraliste » et « Auto-critique de la Suisse »</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Années trente et mobilisation : ses œuvres et son parcours</a> (1940) <br class="lb"/>(<i>Mission ou démission de la Suisse</i> est évoqué au début et à la fin de l’entretien)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1942partdia" name="La Part du Diable (1942)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>La Part du Diable</i> (1942)</h1>
+                  <p>« La preuve que le Diable existe, agit et réussit, c’est justement que nous n’y croyons plus. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Dans le compte rendu qu’elle fit de <i>La Part du diable</i>, Hannah Arendt déclarait que, parmi les récentes publications, elle en connaissait « peu qui approchent de si près les expériences de l’homme moderne. La réalité est que “les nazis sont des hommes comme nous” ; le cauchemar, c’est qu’ils ont démontré, qu’ils ont prouvé sans l’ombre d’un doute ce dont l’homme est capable. En d’autres termes, le problème du mal sera la question fondamentale de l’après-guerre pour la vie intellectuelle en Europe – comme la mort est devenue le problème fondamental après la dernière guerre ». Tel est en effet l’un des enjeux principaux de cet ouvrage, que d’identifier les lieux où se loge le mal — ici personnifié par le Diable — et de montrer son ubiquité, à la fois partout et nulle part, alors même la guerre en cours nourrit une vision manichéenne du monde opposant nettement le camp du bien à celui du mal. Si Hitler incarne par excellence la figure du démon, il ne saurait, affirme Rougemont, servir d’<i>alibi</i> pour ignorer la présence du mal en soi, dans tout ce qui — à l’échelle de l’individu comme de la société entière et de ses cadres — nie la <i>personne</i>, sa liberté et sa responsabilité.</p>
+                  <p>Nous donnons ici l’édition originale publiée en 1942 aux Éditions Brentano’s (New York).</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>La Part du diable</i></a> (1944)</li>
+                    <li><a href=""><i>La Part du diable</i></a> (1982)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jeffrey <span class="sc">Mehlman</span>, « Denis de Rougemont, gnostique de New York », <i>Émigrés à New York : les intellectuels français à Manhattan (1940-1944)</i>, Paris, Albin Michel, 2005, p. 83-110.</li>
+                    <li>Romain <span class="sc">Debluë</span>, « Liberté, responsabilité, vocation. Denis de Rougemont et Jacques Maritain, autour de <i>La Part du diable</i> », in Alain <span class="sc">Corbellari</span> et Nicolas <span class="sc">Stenger</span> (dir.), « <i>Denis de Rougemont. Entre littérature, théologie et politique », Études de lettres</i>, n° 311, 2019, p. 101-121.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 753-755 et 761-778.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0127_partdia-manuscrit">Manuscrit (incomplet)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0125_partdia-passion">« 36. La passion », manuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980) <br class="lb"/>(<i>La Part du Diable</i> est évoquée de 14:04 à 16:52)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1944partdia" name="La Part du Diable (1944)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>La Part du Diable</i> (1944)</h1>
+                  <p>« Hitler, battant l’Europe entière, n’a jamais pu jouir de sa victoire. Gagnant tout, il n’a rien gagné. Car les religions de la terre sont religions de la mort. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Dans le compte rendu qu’elle fit de <i>La Part du diable</i>, Hannah Arendt déclarait que, parmi les récentes publications, elle en connaissait « peu qui approchent de si près les expériences de l’homme moderne. La réalité est que “les nazis sont des hommes comme nous” ; le cauchemar, c’est qu’ils ont démontré, qu’ils ont prouvé sans l’ombre d’un doute ce dont l’homme est capable. En d’autres termes, le problème du mal sera la question fondamentale de l’après-guerre pour la vie intellectuelle en Europe – comme la mort est devenue le problème fondamental après la dernière guerre ». Tel est en effet l’un des enjeux principaux de cet ouvrage, que d’identifier les lieux où se loge le mal — ici personnifié par le Diable — et de montrer son ubiquité, à la fois partout et nulle part, alors même la guerre en cours nourrit une vision manichéenne du monde opposant nettement le camp du bien à celui du mal. Si Hitler incarne par excellence la figure du démon, il ne saurait, affirme Rougemont, servir d’<i>alibi</i> pour ignorer la présence du mal en soi, dans tout ce qui — à l’échelle de l’individu comme de la société entière et de ses cadres — nie la <i>personne</i>, sa liberté et sa responsabilité.</p>
+                  <p>Nous donnons ici la « nouvelle version » publiée en 1944 aux Éditions Brentano’s (New York). Cette version contient seize nouveaux chapitres, tandis qu’un grand nombre de chapitres originaux ont été élargis ou remaniés.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>La Part du diable</i></a> (1942)</li>
+                    <li><a href=""><i>La Part du diable</i></a> (1982)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jeffrey <span class="sc">Mehlman</span>, « Denis de Rougemont, gnostique de New York », <i>Émigrés à New York : les intellectuels français à Manhattan (1940-1944)</i>, Paris, Albin Michel, 2005, p. 83-110.</li>
+                    <li>Romain <span class="sc">Debluë</span>, « Liberté, responsabilité, vocation. Denis de Rougemont et Jacques Maritain, autour de <i>La Part du diable</i> », in Alain <span class="sc">Corbellari</span> et Nicolas <span class="sc">Stenger</span> (dir.), <i>Études de lettres</i> : « <i>Denis de Rougemont. Entre littérature, théologie et politique »</i>, n° 311, 2019, p. 101-121.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 753-755 et 761-778.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1942 </a>pour le manuscrit (incomplet)</li>
+                    <li>
+                      <a href="bpun-ddr1-id0126_partdia-paradoxe-democratie">Ajouts en vue de l’édition de 1944</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980) <br class="lb"/>(<i>La Part du Diable</i> est évoquée de 14:04 à 16:52)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1982partdia" name="La Part du Diable (1982)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>La Part du Diable</i> (1982)</h1>
+                  <p>« Nous choisirons sans doute la folie, au sein du monde le plus rationnellement organisé. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Dans le compte rendu qu’elle fit de <i>La Part du diable</i>, Hannah Arendt déclarait que, parmi les récentes publications, elle en connaissait « peu qui approchent de si près les expériences de l’homme moderne. La réalité est que “les nazis sont des hommes comme nous” ; le cauchemar, c’est qu’ils ont démontré, qu’ils ont prouvé sans l’ombre d’un doute ce dont l’homme est capable. En d’autres termes, le problème du mal sera la question fondamentale de l’après-guerre pour la vie intellectuelle en Europe – comme la mort est devenue le problème fondamental après la dernière guerre ». Tel est en effet l’un des enjeux principaux de cet ouvrage, que d’identifier les lieux où se loge le mal — ici personnifié par le Diable — et de montrer son ubiquité, à la fois partout et nulle part, alors même la guerre en cours nourrit une vision manichéenne du monde opposant nettement le camp du bien à celui du mal. Si Hitler incarne par excellence la figure du démon, il ne saurait, affirme Rougemont, servir d’<i>alibi</i> pour ignorer la présence du mal en soi, dans tout ce qui — à l’échelle de l’individu comme de la société entière et de ses cadres — nie la <i>personne</i>, sa liberté et sa responsabilité.</p>
+                  <p>Nous donnons ici la réédition parue en 1982 chez Gallimard, dans la collection « Idées ». Le texte, repris de l’édition de 1944, est augmenté d’une postface qui décrit les circonstances dans lesquelles l’ouvrage est né, et donne l’occasion à l’auteur d’expliquer ce que le diable signifie encore pour lui.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>La Part du diable</i></a> (1942)</li>
+                    <li><a href=""><i>La Part du diable</i></a> (1944)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jeffrey <span class="sc">Mehlman</span>, « Denis de Rougemont, gnostique de New York », <i>Émigrés à New York : les intellectuels français à Manhattan (1940-1944)</i>, Paris, Albin Michel, 2005, p. 83-110.</li>
+                    <li>Romain <span class="sc">Debluë</span>, « Liberté, responsabilité, vocation. Denis de Rougemont et Jacques Maritain, autour de <i>La Part du diable</i> », in Alain <span class="sc">Corbellari</span> et Nicolas <span class="sc">Stenger</span> (dir.), « <i>Denis de Rougemont. Entre littérature, théologie et politique », Études de lettres</i>, n° 311, 2019, p. 101-121.</li>
+                    <li>Bruno <span class="sc">Ackermann</span>, <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 753-755 et 761-778.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Voir l’<a href="">édition de 1942 </a>pour le manuscrit (incomplet) et <a href="">l’édition de 1944</a> pour les ajouts</li>
+                    <li>
+                      <a href="bpun-ddr1-id0134_partdia-post-scriptum-postface-americaine">Postface</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980) <br class="lb"/>(<i>La Part du Diable</i> est évoquée de 14:04 à 16:52)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1944persdram" name="Les Personnes du drame (1944)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Les Personnes du drame</i> (1944)</h1>
+                  <p>« Toute œuvre est le témoignage d’un drame entre l’homme et lui-même, elle est ce drame, rendu visible, et c’est dans le drame qu’existe la vérité totale d’un être. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ramuz, Claudel, Gide, Luther, Goethe, Kafka, Kierkegaard : tels sont les écrivains auxquels Denis de Rougemont rend hommage, en montrant ce qu’ils lui ont apporté et en cherchant à identifier, chez l’un ou l’autre, une idée qui l’a conduit à se dépasser. Goethe (rapproché et distingué de Rimbaud), c’est une sagesse faite de renoncement et de refus de l’évasion, et une volonté d’agir, dont la victoire est attestée dans <i>Faust</i> (car la personne se crée en actes). Kierkegaard, c’est l’ironie du solitaire que sa vocation oppose au monde (car la personne se crée en tension). Kafka, c’est le négatif de la vocation : la perte de confiance dans la transcendance, le doute devant ce qui paraît relever fondamentalement de l’absurde. Luther, c’est l’idée que la liberté échappe à l’homme naturel, et qu’elle ne peut lui être octroyée que par Dieu. Gide, c’est le triomphe d’une esthétique morale sur une éthique immoraliste. Ramuz, c’est l’attention aux choses authentiques et élémentaires, contre les conventions et leur artificialité. Claudel (dans son <i>Art poétique</i>), c’est la connaissance du spirituel dans l’acte créateur du poète. L’ouvrage se termine sur la « maladie de la personne » que recèle le romantisme allemand : la vocation de la personne s’y perd dans les fêtes du rêve, avant de s’abolir, avec le nazisme (romantisme politique), dans le culte de l’âme collective.</p>
+                  <p>Nous donnons ici la version parue aux Éditions de La Baconnière en 1945. Celle-ci reprend la mise en page de l’édition originale parue chez Pantheon Books à New York en 1944, tout en corrigeant quelques coquilles.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Jonathan <span class="sc">Wenger</span>, « Les fondements littéraires de la personne », in Alain <span class="sc">Corbellari</span> et Nicolas <span class="sc">Stenger</span> (dir.), « <i>Denis de Rougemont. Entre littérature, théologie et politique », Études de lettres</i>, n° 311, 2019, p. 31-45.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0144_pdd-ms-autographe-incomplet">Manuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 3</a> (1980) <br class="lb"/>(<i>Les Personnes du drame</i> sont évoquées de 17:57 à 23:15).</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1946lba1" name="Lettres sur la bombe atomique (Brentano’s, 1946)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Lettres sur la bombe atomique</i> (Brentano’s, 1946)</h1>
+                  <p>«  Il s’agit de faire face à ce qui vient, dans l’incompétence générale . »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Installé près du Lac où James Fenimore Cooper situa l’action du <i>Dernier des Mohicans</i>, Denis de Rougemont commence à rédiger cet ouvrage le jour même où il apprend le bombardement d’Hiroshima. Au-delà du choc psychologique causé par cette nouvelle, que l’auteur manifeste ironiquement en usant d’un ton frivole et badin, plusieurs conclusions sont tirées de cette entrée dramatique dans l’âge atomique. La première, affirme-t-il, c’est que la Bombe vient de tuer la guerre, du moins dans son sens classique et militaire. Mais la Bombe ouvre également des horizons nouveaux, dans la mesure où elle ne laisse plus comme seul choix à l’humanité que de se délivrer des États-nations tournés vers la guerre, en poussant les hommes à se fédérer. Pour accomplir cette « révolution », qui implique la création d’un gouvernement et d’une fédération mondiale, l’auteur ne place aucun espoir dans les dirigeants des grandes puissances d’après-guerre, dont l’existence et l’action, toutes entières tournées vers leurs propres nations, se trouvent de fait dépassées par l’ampleur de la tâche. Quant à l’intellectuel, son rôle est d’aider les hommes à conjurer leur peur de la liberté (ne plus s’en remettre toujours aux États) et à participer au développement d’une véritable « conscience planétaire ».</p>
+                  <p>Nous donnons ici l’édition originale, illustrée par le peinte chilien Matta et parue chez Brentano’s (New York) en 1946.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Lettres sur la bombe atomique</i></a> (Gallimard, 1946)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Les<i> Lettres sur la bombe atomique</i> (1946) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 790-794.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0151_lba-manuscrit-tapuscrit">Manuscrit (complet) et tapuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980) <br class="lb"/>(Les <i>Lettres sur la bombe atomique</i> sont évoquées de 19:30 à 21:49)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr19lba2" name="Lettres sur la bombe atomique (Gallimard, 1946)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Lettres sur la bombe atomique</i> (Gallimard, 1946)</h1>
+                  <p>«  Le monde n’a pas de gouvernement. Je ne suis pas sûr que les nations en aient. Et nous restons les bras ballants, pensant aux achats de Noël…  »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Installé près du Lac où James Fenimore Cooper situa l’action du <i>Dernier des Mohicans</i>, Denis de Rougemont commence à rédiger cet ouvrage le jour même où il apprend le bombardement d’Hiroshima. Au-delà du choc psychologique causé par cette nouvelle, que l’auteur manifeste ironiquement en usant d’un ton frivole et badin, plusieurs conclusions sont tirées de cette entrée dramatique dans l’âge atomique. La première, affirme-t-il, c’est que la Bombe vient de tuer la guerre, du moins dans son sens classique et militaire. Mais la Bombe ouvre également des horizons nouveaux, dans la mesure où elle ne laisse plus comme seul choix à l’humanité que de se délivrer des États-nations tournés vers la guerre, en poussant les hommes à se fédérer. Pour accomplir cette « révolution », qui implique la création d’un gouvernement et d’une fédération mondiale, l’auteur ne place aucun espoir dans les dirigeants des grandes puissances d’après-guerre, dont l’existence et l’action, toutes entières tournées vers leurs propres nations, se trouvent de fait dépassées par l’ampleur de la tâche. Quant à l’intellectuel, son rôle est d’aider les hommes à conjurer leur peur de la liberté (ne plus s’en remettre toujours aux États) et à participer au développement d’une véritable « conscience planétaire ».</p>
+                  <p>Nous donnons ici l’édition publiée chez Gallimard en 1946. De peu postérieure à l’édition originale parue chez Brentano’s (New York), cette version présente de légères modifications dans les chapitres, et l’ajout de trois textes nouveaux en appendice.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Lettres sur la bombe atomique</i></a> (Brentano’s, 1946)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Les<i> Lettres sur la bombe atomique</i> (1946) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 790-794.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0151_lba-manuscrit-tapuscrit">Manuscrit (complet) et tapuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980) <br class="lb"/>(Les <i>Lettres sur la bombe atomique</i> sont évoquées de 19:30 à 21:49)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1946jdm" name="Journal des deux mondes (1946)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Journal des deux mondes</i> (1946)</h1>
+                  <p>« Vous étiez “occupés”, nous étions en exil, et les uns comme les autres dans l’inaccepté, dans la dépossession profonde, dans une mise en question générale au pire moment. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce journal couvre la période 1939-1946. Mobilisé dans l’armée suisse, Denis de Rougemont apprend l’entrée des troupes hitlériennes dans Paris et publie, dans la <i>Gazette de Lausanne</i> du 17 juin 1940, un article qui lui vaut quinze jours d’arrêts pour « injures à chef d’État étranger » (Hitler). Début juillet, il participe à la création de la Ligue du Gothard, qui en appelle à l’union des Confédérés et à la défense de l’indépendance suisse face à l’encerclement du pays par les puissances de l’Axe. Le 20 août, répondant à une offre de « Pro Helvetia », il part pour les États-Unis. Son journal narre ses rencontres dans les milieux culturels d’outre-Atlantique, son séjour en Argentine, ou encore les circonstances qui le poussèrent à rédiger <a href=""><i>La Part du diable</i></a>. En 1942, Rougemont trouve du travail à l’Office of War Information, y rédigeant quelque vingt-cinq pages quotidiennes pour « La voix de l’Amérique ». Il côtoie André Breton, Marcel Duchamp, Antoine de Saint-Exupéry… Les « slums » de New York, l’impossibilité de survivre sans argent aux USA, les rapports des Allemands au mensonge, le sérieux du peuple français (contrastant avec ses élites), la médiocrité des chefs d’États du moment : tels sont quelques-uns des thèmes inspirant à Rougemont des notations incisives, avant qu’il ne conclue son journal par son retour en Europe en 1946.</p>
+                  <p>Nous donnons ici l’édition originale parue à la Guilde du Livre en 1946.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Journal des deux Mondes</i></a> (1946) dans le <a href=""><i>Journal d’un époque</i></a> (1968)</li>
+                    <li>Fragments dans <a href=""><i>Le Paysan du Danube et autres textes</i></a> (1982)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Entre les deux mondes (1939-1946) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 803-834.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0170_jdm-manuscrit">Manuscrit</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 4</a> (1980)</li>
+                    <li><a href="">Denis de Rougemont : Parcours de sa vie — 3</a> (1982)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1947va" name="Vivre en Amérique (1947)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Vivre en Amérique</i> (1947)</h1>
+                  <p>« Ce pays si religieux n’a guère le sens du spirituel. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Recueil d’articles parus dans diverses revues et journaux (<i>Carrefour, le Figaro littéraire, le Journal de Genève, la Gazette de Lausanne, Réforme, Temps présent, Fontaine, Esprit, la Revue de Paris, la Nef), Vivre en Amérique</i> a pour but de présenter l’Amérique aux Français. Denis de Rougemont, qui a vécu aux États-Unis pendant la guerre, répond ici à l’invitation du rédacteur en chef de l’hebdomadaire <i>Carrefour</i>, Gérard Boutelleau, lié aux Éditions Stock qui publieront l’ouvrage. Dans cette œuvre de commande, qui ressemble davantage à un reportage journalistique qu’à un véritable essai, l’écrivain évoque quelques aspects, à ses yeux significatifs, de la vie politique, de la vie culturelle et religieuse, et de la vie privée en Amérique. Dans le dernier chapitre, il donne quelques conseils à ceux qui désireraient s’établir outre-Atlantique. Voici comment l’écrivain résume son projet dans les premières pages du livre : « Je ne prétends pas un instant peindre un tableau complet de l’Amérique. Honnêtement, j’ignore si mon livre est au total plus favorable à l’un des continents qu’à l’autre. La réponse théorique dépend des goûts, et la réponse pratique, des vocations. J’ai choisi pour ma part d’être agent de liaison, Européen quoi qu’il m’arrive, et persuadé que l’amitié des deux nations doit se nouer dans l’échange de leurs vérités, après tant de caricatures. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « <i>Vivre en Amérique</i> (1947) », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 794-801.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0154_va-manuscrit-tapuscrit">Manuscrit et tapuscrit</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">« Ce sont des Vaudois, ces Américains ! »</a> (1946)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1947df" name="Doctrine fabuleuse (1947)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Doctrine fabuleuse</i> (1947)</h1>
+                  <p>« Les mythes racontent le réel comme un événement permanent. Et leurs fables illustrent les drames réguliers de la vie affective et spirituelle. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Recueil de dialogues et de fables écrits à différentes dates, entre les années 1920 et les années 1940, <i>Doctrine fabuleuse</i> trouve son unité dans une réflexion sur les mythes (Don Juan, Tantale, Antée, Narcisse, le nœud gordien…) et dans la volonté de l’auteur de les traduire dans des termes contemporains. Parmi ces essais d’interprétation, on signalera plusieurs dialogues, par lesquels Denis de Rougemont montre combien le monde moderne est prisonnier des images « cartes postales », sortes d’abstractions qui empêchent de connaître et d’aimer une réalité toujours décevante par rapport à l’idéal véhiculé, entre autres, par la publicité ou le cinéma. La fable de « l’homme qui a perdu son ombre » souligne par ailleurs que le culte moderne de la transparence nie le secret et le mystère de l’existence. Et quelle est la signification du mythe du « nœud gordien » (tranché par Alexandre) ? — « Ce coup d’épée a fondé le monde moderne : monde de la simplification hâtive ; de l’expérience qui détruit son objet ; de l’action efficace au détriment du sens ; de la tricherie ; de la rupture des liens. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0159_df-manuscrit-tapuscrit">Manuscrit et tapuscrit (incomplets)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Réinventer les mythes ; <i>Doctrine fabuleuse</i>et « Le nœud gordien renoué »</a> (1974)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1948sn" name="Suite neuchâteloise (1948)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Suite neuchâteloise</i> (1948)</h1>
+                  <p> « Il y a la petite patrie, qu’un regard embrasse et détaille à loisir. Au-delà de ses paysages et de sa proche histoire, il n’y a que l’imaginaire. Les nations n’ont jamais été vues par personne. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce petit ouvrage fut commandé à l’auteur à l’occasion du centenaire de l’entrée du canton de Neuchâtel dans la Confédération suisse. Il s’agit d’un hommage à la « petite patrie », mais aussi à la « terre du père » de Denis de Rougemont, qui venait de mourir l’année précédente, fauché par une voiture. C’est son père qui, par sa vie, écrit Rougemont, lui a appris concrètement ce que voulait dire l’<i>engagement</i>, « l’une des très rares vies d’hommes que j’ai connues de près, qui commandât mon absolu respect ». Ceci amène l’écrivain à évoquer sa lignée familiale (beaucoup de Français et d’Allemands, à côté de Neuchâlelois ; beaucoup d’écrivains et fort peu de militaires) ainsi que les lieux de son enfance. Cette petite patrie, loin de l’éloigner de l’Europe, l’en rapproche concrètement : « Pour moi, comme pour tant de Suisses, passer de la petite patrie à la plus vaste, ce n’est pas infidélité à ma race, à mon clos natal. C’est aimer plus loin dans le même sens. » Le livre se clôt sur des considérations concernant la vie littéraire dans le canton de Neuchâtel, et sur quelques piques contre la propension de ses compatriotes d’alors à chérir une certaine médiocrité dans l’expression en français.</p>
+                  <p>Nous donnons ici l’édition originale parue chez Ides et Calendes en 1948.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autre édition numérique de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Le Paysan du Danube et autres textes</i></a> (1982)</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0164_sn-notes-ms-aut">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0165_sn-ms-aut">Manuscrit</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Expression des Suisses : la langue parlée</a> (1969)</li>
+                    <li><a href="">Margedes mots (5) : À propos de l’engagement politique de l’écrivain</a> (1972) <br class="lb"/>(<i>Suite neuchâteloise</i> est évoquée de 19:39 à 23:05)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1948ej" name="L’Europe en jeu (1948)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Europe en jeu</i> (1948)</h1>
+                  <p>« L’Europe est menacée, l’Europe est divisée, et la plus grave menace vient de ses divisions. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Cet ouvrage rassemble trois discours représentatifs des débuts de l’engagement européen de Denis de Rougemont après la guerre. Dans « Les maladies de l’Europe » (conférence donnée lors des premières Rencontres internationales de Genève en 1946), il montre combien le Vieux Continent, miné par la passion nationaliste, risque de se voir submergé par les États-Unis et l’URSS, et de n’être plus en mesure de défendre une certaine « idée de l’homme », de la <i>personne</i>, dont Rougemont prétend que l’Europe a été le berceau culturel. « L’attitude fédéraliste » (discours prononcé au premier Congrès de l’Union européenne des fédéralistes à Montreux en 1947) énumère ensuite, sur la base d’exemples historiques empruntés essentiellement à la Suisse, ce que l’auteur identifie comme étant les « principes directeurs » du fédéralisme. « L’Aventure du <span class="num">xx<sup class="sup">e</sup></span> siècle » reprend enfin une conférence prononcée à La Sorbonne en 1948, deux semaines avant le Congrès de La Haye (dont le rapport et la résolution culturelle, ainsi que la déclaration finale — le <i>Message aux Européens</i> — figurent en annexe de l’ouvrage) : l’auteur y affirme que seule la Fédération répond à la fois aux besoins de l’Europe et aux conditions du siècle. Il conclut : « Ce n’est qu’en surmontant nos divisions que nous sauverons notre diversité. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Mary Jo <span class="sc">Deering</span>, <i>Denis de Rougemont, l’Européen</i>, Fondation Jean Monnet pour l’Europe, Centre de recherches européennes, Lausanne, 1991.</li>
+                    <li>Nicolas <span class="sc">Stenger</span>, <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, chap. <span class="num">ii</span> à <span class="num">v</span>.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Les manuscrits des différents textes publiés dans ce recueil seront prochainement disponibles.</li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Le congrès des fédéralistes à Montreux</a> (1947)</li>
+                    <li><a href="">Extrait du <i>Message aux Européens</i> lors du Congrès de La Haye</a> (1948)</li>
+                    <li><a href="">À propos de l’Union européenne des fédéralistes</a> (1948)</li>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 5</a> (1980)</li>
+                    <li><a href="">Denis de Rougemont : Parcours de sa vie — 4 </a>(1982)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1950lde" name="Lettres aux députés européens (1950)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Lettres aux députés européens</i> (1950)</h1>
+                  <p> « Messieurs les députés européens, vous êtes ici pour faire l’Europe et non pour faire semblant de la faire. Faire l’Europe signifie la fédérer, ou bien ne signifie pas grand chose. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Rédigées à la fin du mois de juillet 1950, juste avant la deuxième session de l’Assemblée consultative du Conseil de l’Europe (qui venait d’être créé en 1949), les <i>Lettres aux députés européens</i> composent un court pamphlet où Rougemont raille allègrement cette Assemblée alors condamnée à la paralysie, car dépourvue de pouvoir et subordonnée au Conseil des ministres disposant du droit de veto. Distribué à chacun des députés, les <i>Lettres</i> les rappellent à leurs devoirs, montrent que neuf mois suffirent pour réaliser la fédération des cantons suisses au <span class="num">xix<sup class="sup">e</sup></span> siècle, et stigmatisent les attentistes dont le « réalisme » cache selon Rougemont un simple manque de volonté politique. Emporté par son élan, l’écrivain en appelle à une réforme immédiate du Conseil de l’Europe (une Assemblée élue au suffrage universel et dotée de réels pouvoirs législatifs) et à la mise en chantier d’un projet de Constitution fédérale : « Vous êtes acculés à l’audace. Donnez-nous la Constitution ! » Étant donné l’enlisement dans lequel se trouve alors l’Europe politique, c’est d’un électrochoc que l’Assemblée a besoin, estime Rougemont.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Nicolas <span class="sc">Stenger</span>, « Festina lente, ou le Conseil de l’Europe », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 135-145.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0175_lde-notes-ms-aut">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0176_lde-tapuscrit">Tapuscrit</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Textes liés (éditions numériques)</h2>
+                  <ul>
+                    <li><a href="">Sixième lettre aux députés européens</a> (posthume, 2014)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1953ch" name="La Confédération helvétique (1953)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>La Confédération helvétique</i> (1953)</h1>
+                  <p>« La Suisse n’est pas une nation, au sens que le terme a pris pendant le <span class="num">xix<sup class="sup">e</sup></span> siècle. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Cet ouvrage commandé par l’Unesco, publié par les Éditions du Rocher et préfacé par l’historien Lucien Febvre, a pour objet de présenter la Suisse aux lecteurs étrangers. Retraçant l’histoire de l’ancienne Confédération, Denis de Rougemont la voit dominée entre autres par deux caractéristiques : le sens de l’esprit communautaire et la méfiance envers toute forme d’hégémonie (un souci égalitaire qui, note-t-il, dégénéra en goût pour la médiocrité). Toutefois, ce ne fut qu’à partir de 1848 que la Suisse devint une démocratie au sens actuel, en adoptant sa première Constitution fédérale. L’unité de la Suisse est proprement politique : il ne s’agit pas d’une nation, mais d’une fédération. Après ce survol historique, l’auteur présente les institutions politiques : communes (où s’obtient la naturalisation), cantons, autorités fédérales. Sur le plan économique, l’auteur montre comment les Suisses, contraints d’exporter des produits manufacturés en raison de la pauvreté de leur sol, ont développé le souci « de la belle ouvrage », et déployé des trésors d’inventivité technologique (deux qualités d’ordre culturel palliant l’insuffisance des ressources naturelles). Il montre également combien la structure fédérative du pays se reflète dans les organisations professionnelles et syndicales. Ce fédéralisme se retrouve également au niveau de l’éducation, de l’armée, et des diverses confessions religieuses.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0181_ch_notes-ms">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0182_ch-manuscrit-tapuscrit">Manuscrit et tapuscrit</a>
+                    </li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1957aoh" name="L’Aventure occidentale de l’homme (1957)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Aventure occidentale de l’homme</i> (1957)</h1>
+                  <p>« La civilisation occidentale a produit, entre autres, deux réalités bien spécifiques : la personne et la machine. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Partant d’une comparaison entre le Bouddha et le Christ — le Bouddha quitte son palais et le monde, s’isole dans la méditation et la contemplation de l’Absolu ; tandis que le Dieu chrétien entre dans l’immanence, dans l’histoire, il prend le corps d’un homme et accepte la souffrance, puis la mort — Denis de Rougemont souligne le fait selon lui capital de l’Incarnation, qui aurait orienté toute la culture européenne et occidentale « vers la nature », vers un monde que l’homme est appelé non seulement à connaître, mais aussi à transformer par la science, par la technique. L’auteur revient tout d’abord sur les premiers grands conciles de l’ère chrétienne (Nicée, Chalcédoine), quand les dogmes de l’Incarnation et de la Trinité furent établis, inspirant la notion de <i>personne</i>. La personne constitue pour Rougemont l’« axe » principal d’interprétation de la trajectoire européenne et occidentale : elle fixe un but à atteindre — la communauté des hommes libres et responsables—, plus ou moins consciemment recherché par les sociétés successives, mais contrarié en permanence par les aléas de l’histoire. L’évolution du continent serait ainsi riche de ces « phases » — dont l’ouvrage offre une illustration à travers plusieurs tableaux synoptiques — où tour à tour dominent l’individualisme et le social, sans jamais vraiment réussir à créer un équilibre durable. S’ensuivent plusieurs chapitres où Rougemont tente de spécifier le rapport des Occidentaux à la Passion, à la Révolution, à la Nation ; mais aussi plus généralement au temps, à l’espace, à la matière, ou encore à la notion de progrès. L’ouvrage se conclue par un appel au dialogue métaphysique entre l’Orient et l’Occident, entre « l’Aventure » chrétienne occidentale et « la Voie » religieuse orientale.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Nicolas <span class="sc">Stenger</span>, « La Cité européenne, ou l’Europe idéale », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 283-303.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0188_aoh-notes-ms">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0189_aoh-manuscrit-tapuscrit">Manuscrit (complet) et tapuscrit (incomplet)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0190_aoh-dialectique-occident-1">« Dialectique de l’Occident <span class="num">i, ii</span> et <span class="sc">iii »</span> (tableaux synoptiques)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0191_aoh-corrections-ajouts">Corrections et ajouts</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Le Prix Ève-Delacroix pour <i>L’Aventure occidentale de l’homme</i></a> (1957)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1961ctm" name="Comme toi-même (1961)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Comme toi-même</i> (1961)</h1>
+                  <p>« Toute morale qui n’est pas une école — ouverte sur la liberté future — est une prison, si “laxiste” soit-elle. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>« Pourquoi l’Occident seul connaît-il un tragique de l’amour et un problème de l’érotisme, qui dominent nos littératures et tourmentent d’innombrables âmes, mais que l’Orient a toujours ignorés ? N’est-il pas étonnant que seule la religion chrétienne, qui pourtant met l’Amour au-dessus de tout, n’ait pas de livres sacrés sur l’amour humain ? Comment le même mot <i>amour</i> peut-il désigner des phénomènes aussi divers que la sensualité et le mysticisme, l’amour du prochain et la passion ? » Telles sont quelques-unes des questions auxquelles cet ouvrage tente de répondre, en reprenant certains des thèmes essentiels de <a href=""><i>L’Amour et l’Occident</i></a>. S’appuyant dans un premier temps sur deux mythes fondateurs de la psyché amoureuse, Tristan et Don Juan, Denis de Rougemont propose une interprétation renouvelée de quelques grands romans contemporains (<i>Lolita, L’Homme sans qualité</i> et <i>Le Docteur Jivago</i>) et de la trajectoire personnelle de penseurs ou écrivains tels que Kierkegaard, Nietzsche ou Gide. Dans la seconde partie de l’ouvrage, l’auteur oppose les conceptions orientale et occidentale de l’homme et du <i>moi</i>, dont dérivent selon lui les idées de l’amour. Alors qu’en Occident domine le commandement chrétien (« Tu aimeras ton prochain comme toi-même »), qui suppose la relation de deux <i>personnes</i> réelles et distinctes, Rougemont s’interroge sur la nature de l’amour en Orient, où le <i>moi</i> n’est qu’une « illusion », ainsi que l’enseignent les religions hindouistes et bouddhistes.</p>
+                  <p>Nous donnons ici l’édition originale parue chez Albin Michel en 1961, avec le sous-titre : « <i>Essais sur les mythes de l’amour</i> ». L’ouvrage a été réédité chez Gallimard en 1967, en collection de poche (« Idées »), sous le titre <i>Les Mythes de l’amour</i>, et en 1996 chez Albin Michel, également en collection de poche (« Espaces libres »).</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Constantin <span class="sc">Jelenski</span>, « Les fascinations d’un mythanalyste », <i>Preuves</i>, n° 126, août 1961, p. 84-86.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0206_ctm-notes-ms">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0207_ctm-manuscrit">Manuscrit</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0208_ctm-tapuscrit-partielle">Tapuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont parle de <i>Comme toi-même</i></a> (1961)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1961vhse" name="Vingt-Huit Siècles d’Europe (1961)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Vingt-Huit Siècles d’Europe</i> (1961)</h1>
+                  <p>« L’Europe unie n’est pas un expédient moderne, économique ou politique, mais c’est un idéal qu’approuvent depuis mille ans tous ses meilleurs esprits, ceux qui ont vu loin. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>L’ouvrage se présente comme une généalogie de l’idée européenne depuis Hésiode (<span class="num">ix<sup class="sup">e</sup></span> siècle avant J.-C.), à qui l’on doit la première mention du nom d’Europe, au vers 357 de sa <i>Théogonie</i>. L’auteur remonte ensuite les époques, en présentant de larges extraits des divers écrits sur l’Europe, assortis de ses propres commentaires. Après les premières mentions (géographiques, étymologiques et mythologiques) du mot « Europe » sous l’Antiquité, la période qui s’étend du <span class="num">xiv<sup class="sup">e</sup></span> au <span class="num">xviii<sup class="sup">e</sup></span> siècle est jalonnée de prises de conscience européennes, avec Pierre Du Bois, Georges Podiébrad, Dante, Pétrarque, Érasme, Émeric Crucé, Sully, Comenius, William Penn, l’Abbé de Saint-Pierre. Lui succède l’ère des philosophes (Leibniz, Vico, Montesquieu, Rousseau, Condorcet, Wieland), puis l’ère de la Révolution (Cloots, Bentham, von Gentz, Kant, Schiller, Fichte, Herder, Saint-Simon, Goethe, Schlegel, Schelling, Hegel, Comte). De 1848 à 1914, c’est l’ère des nations contre lesquelles s’élèvent Heine, Mazzini, Hugo et ses « États-Unis d’Europe », Nietzsche, Ranke, les projets d’union de Bluntschli et de Frantz, le fédéralisme de Proudhon. La guerre de 1914 suscite une vague de pessimisme, illustrée par Valéry, Spengler, Burckhardt, Ortega y Gasset. Enfin, la redécouverte de l’esprit européen par Madariaga ou Simone Weil, par Croce ou Jaspers, par Eliot ou Keyserling, préfigure selon l’auteur les plans d’union du <span class="num">xx<sup class="sup">e</sup></span> siècle (Coudenhove-Kalergi, Briand, le Congrès de La Haye, le Conseil de l’Europe, les Communautés européennes…).</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Théodore <span class="sc">Ruyssen</span>, « L’aventure européenne », <i>Contrat social</i>, n° 1, 1964, p. 57-61.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0221_vhse-manuscrit-tapuscrit-partiels">Manuscrit et tapuscrit (incomplets)</a>
+                    </li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1962ce" name="Les Chances de l’Europe (1962)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Les Chances de l’Europe</i> (1962)</h1>
+                  <p>« Je voudrais vous parler de l’Europe non pas comme d’une cause à défendre ou d’une patrie plus vaste à glorifier, mais comme d’une aventure décisive pour l’humanité tout entière. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce recueil réunit quatre conférences prononcées à l’Université de Genève. Dans « L’aventure mondiale des Européens », l’auteur montre combien l’Europe est liée au reste du Monde, qu’elle est allée découvrir, puis dominer, en y exportant sa civilisation. La deuxième conférence identifie les « Secrets du dynamisme européen » : d’abord sa densité de peuplement, ensuite ses formes de vie sociale (les mairies et les parlements pour la vie politique, les cafés et la presse où se forme l’opinion, l’école, le marché qui occupe — avec l’église — le centre de la place…) ; enfin une commune culture, riche de diversités facteurs d’innovation. Dans « L’Europe s’unit », l’auteur montre que seule l’union dans la diversité (selon la philosophie fédéraliste) est compatible avec l’Europe ; il énumère les principaux motifs qui, historiquement, apparaissent dans les divers plans d’union depuis le Moyen Âge (paix, valeurs communes, prospérité, défense commune). Dans « Les nouvelles chances de l’Europe », il examine les éléments constitutifs de la vocation de l’Europe à l’égard du reste du monde : animer les échanges mondiaux (spirituels et matériels) ; équilibrer les créations humaines (entre technique et tradition, autorité et liberté, union et diversité, aventure et expérience…) ; défendre et illustrer le fédéralisme, en offrant au monde nouveau l’exemple réussi d’une grande Fédération. En appendice, Rougemont critique la préface de Sartre au livre de Franz Fanon, <i>Les Damnés de la Terre</i>, publié en 1961.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Nicolas <span class="sc">Stenger</span>, « De la décolonisation au dialogue des cultures », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 305-317.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0235_ce-notes-ms-tapuscrit-partiel">Manuscrit et tapuscrit (incomplet)</a>
+                    </li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1965shph" name="La Suisse ou l’histoire d’un peuple heureux (1965)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>La Suisse ou l’histoire d’un peuple heureux</i> (1965)</h1>
+                  <p>« La Suisse est le pays dont je souhaite le plus qu’il communique sa grâce très secrète à l’avenir européen. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Le but de cet ouvrage est de montrer, à travers l’exemple de la Suisse, comment se forme une fédération, comme elle fonctionne, et comment on y vit. La partie historique fait la part du mythe et des réalités (Guillaume Tell et le Pacte de 1291, fondateurs de la Suisse ? Les Suisses, peuple pacifique ? La Suisse, pays traditionnellement neutre ?). La partie consacrée au fonctionnement d’une fédération montre comment, en Suisse, l’union a pour but de sauvegarder les diversités et les autonomies (des communes, des cantons). Sur la manière de vivre dans une fédération, l’auteur donne la Suisse en modèle : celui d’un pays « où le centre est partout » et où la densité culturelle est sans commune mesure avec celle d’un pays centralisé. Plus critique, il déplore la tendance suisse à chérir la médiocrité rassurante, et la propension à l’auto-dénigrement. L’ouvrage se clôt sur un long chapitre dédié aux relations entre la Suisse et l’Europe, où l’auteur exprime son souhait que la Confédération joue pleinement son rôle de laboratoire de l’idée européenne. Citant Victor Hugo en conclusion : « La Suisse, dans l’histoire, aura le dernier mot », Rougemont ajoute : « Encore faut-il qu’elle le dise » !</p>
+                  <p>Nous donnons ici l’édition de 1970 publiée par le Livre du Mois (Lausanne). Celle-ci reprend le texte de l’édition originale parue chez Hachette en 1965, en l’augmentant d’une nouvelle préface.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0245_shph-notes-manuscrites">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0246_shph-manuscrit-tapuscrit-partiel">Manuscrit et tapuscrit (incomplets)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0248_shph-tapuscrit-2e">Tapuscrit avec corrections manuscrites (incomplet)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0249_shph-corrections-complements">Corrections et compléments</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0251_shph-preface-1970">Manuscrit de la Préface 1970</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">La Suisse, un modèle politique pour l’Europe</a> (1963)</li>
+                    <li><a href="">Denis de Rougemont parle de <i>La Suisse ou l’histoire d’un peuple heureux</i> — 1</a> (1965)</li>
+                    <li><a href="">Denis de Rougemont parle de <i>La Suisse ou l’histoire d’un peuple heureux</i> — 2</a> (1965)</li>
+                    <li><a href="">Utopies pour la Suisse</a> (1975)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1968jde" name="Journal d’une époque (1968)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Journal d’une époque</i> (1968)</h1>
+                  <p>« J’écris le temps que j’ai vécu de 1926 à 1946, des premiers tressaillements annonciateurs de l’avènement d’Hitler jusqu’aux lendemains de sa mort dans l’incendie de Berlin. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Couvrant la période 1926-1946, cet ouvrage rassemble <i>Le Paysan du Danube</i>, le <i>Journal d’un intellectuel en chômage</i>, le <i>Journal d’Allemagne</i> et le <i>Journal des deux mondes</i>. Il s’agit d’une édition nouvelle et non d’une simple réédition, fruit d’un partenariat avec les Éditions Gallimard, qui avaient déjà publié ou réédité six ouvrages de Denis de Rougemont depuis l’entre-deux-guerres. Textes inédits, ajouts de textes parus entre-temps en revues, suppressions, modifications… : les changements par rapport aux éditions originales, relativement substantiels, font du <i>Journal d’une époque</i> une œuvre à part entière. Parmi les inédits, on signalera un texte « Sur l’automne 1932 », où l’écrivain fait état de ses activités à Paris au sein des mouvements personnalistes, notamment la rédaction, par divers représentants de ces mouvements, d’un « Cahier de revendications » publié sous la direction de Denis de Rougemont par la <i>NRF</i>. Un autre texte, intitulé « Vers la guerre » (1938-1939), raconte comment l’écrivain termine et publie le <i>Journal d’Allemagne</i>, puis se lance dans le projet d’écrire <i>L’Amour et l’Occident</i>, et accepte de composer pour l’Exposition nationale de Zurich de 1939 un oratorio sur Nicolas de Flue, mis en musique par Arthur Honegger.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Autres éditions numériques de ce livre</h2>
+                  <ul>
+                    <li><a href=""><i>Le Paysan du Danube</i></a> (1932)</li>
+                    <li><a href=""><i>Journal d’un intellectuel en chômage</i></a> (1937)</li>
+                    <li><a href=""><i>Journal d’Allemagne</i></a>(1938)</li>
+                    <li><a href=""><i>Journal des deux Mondes</i></a> (1946)</li>
+                  </ul>
+                  <h2 class="head">Bibliographie indicative</h2>
+                  <ul>
+                    <li>Bruno <span class="sc">Ackermann</span>, « Le Journal non intime », <i>Denis de Rougemont. Une biographie intellectuelle</i>, Genève, Labor et Fides, 1996, p. 867-1112.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0266_jde-notes-manuscrites">Notes manuscrites</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0267_jde-manuscrit-tapuscrit">Manuscrits et tapuscrits de la préface, des inédits, des ajouts…</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0269_jde-epreuves-annotees">Épreuves annotées</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont parle du <i>Journal d’une époque</i></a> (1968)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1970cde" name="Le Cheminement des esprits (1970)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Le Cheminement des esprits</i> (1970)</h1>
+                  <p>« L’homme qui chemine invente son itinéraire, balise l’inconnu, dépose des messages pour ceux qui, peut-être, suivront. Il signale ses échecs aussi, non moins intéressants que ses trouvailles. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p><i>Le Cheminement des esprits</i> réunit un ensemble de textes parus entre 1949 et 1970, marquant le <span class="num">xx<sup class="sup">e</sup></span> anniversaire du Centre européen de la culture (CEC). Le titre du recueil est repris d’une phrase de Robert Schuman, ancien président d’honneur du CEC : « L’unité européenne ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits. » On y trouve notamment le Rapport général soumis à la Conférence européenne de la culture de Lausanne en 1949, qui critique l’idée d’une « organisation des échanges culturels » par les États, et demande au contraire leur libération immédiate et totale. S’y ajoutent divers textes sur la liberté de la culture, sur la naissance du CEC et de la Fondation européenne de la culture. Puis l’ouvrage illustre les réflexions et les différents champs d’activité développés au sein du CEC durant ses vingt premières années : l’éducation européenne (éducation au civisme mais aussi à l’écologie), le rôle des universités et de la recherche, les festivals de musique, le « dialogue des cultures », l’émergence des régions en Europe…</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0276_cde-preface">Préface</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont parle de <i>La Lettre ouverte aux Européens</i>, du <i>Cheminement des Esprits</i> et de <i>L’Un et le Divers</i></a> (1970)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1970udce" name="L’Un et le Divers (1970)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Un et le Divers</i> (1970)</h1>
+                  <p>« Il nous faut décider si notre union aura pour but la <i>Puissance collective</i> ou la <i>Liberté des personnes</i>. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Ce bref ouvrage rassemble les textes de deux conférences : « Pour une définition nouvelle du fédéralisme » (prononcée à l’Académie des sciences morales, Paris, 1969) et « La Cité européenne » (prononcée à l’Université de Bonn, 1970). La première développe l’idée que l’État-nation s’avère « à la fois trop petit et trop grand » face aux enjeux du siècle, alors que le monde connaît simultanément un phénomène de convergence par la création de grands ensembles (organisations régionales et supranationales), et de diversification par l’affirmation des identités et réalités régionales. Mais, selon l’auteur, alors que tout dans ce diagnostic appelle la création d’une fédération, une conception erronée continue en Europe d’en faire un mot tabou. Or Rougemont considère que le fédéralisme n’est réductible ni au centralisme ni au séparatisme : au contraire, il traduit en structures sociales et politiques l’équilibre nécessaire à préserver entre l’Un et le Divers. La deuxième conférence esquisse une généalogie des apports — souvent contradictoires — qui ont fait la culture européenne : grec (l’individu), romain (le sujet de droit), chrétien (la personne), germanique (la communauté), celtique (le thème de la quête aventureuse), arabe (poésie amoureuse), etc. L’héritage européen accumule et assimile ainsi des couples d’antinomies inséparables (autorité-liberté, personne-communauté, tradition-innovation, sécurité-risque, originalité-conformité…), tandis que la perception de leurs différences est telle que les Européens se croient souvent incapables de s’unir. En conclusion, Rougemont en appelle de nouveau à la création d’une fédération européenne — et non d’un État-nation européen — dont la finalité serait la liberté des personnes et non la puissance de l’État.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>François <span class="sc">Saint-Ouen</span>, « Denis de Rougemont, penseur original de la Fédération européenne », in François <span class="sc">Saint-Ouen</span> (éd.), <i>L’Europe de Denis de Rougemont</i>, Louvain-la-Neuve, Academia-L’Harmattan, 2014, p. 113-135.</li>
+                    <li>Jean <span class="sc">Fourastié</span>, « <i>L’Un et le Divers</i> », <i>Le Figaro</i>, Paris, n° 7655, 10 avril 1969, p. 1 et 30.</li>
+                    <li>Nicolas <span class="sc">Stenger</span>, « La Cité européenne, ou l’Europe idéale », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 283-303.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>Aucun manuscrit n’a été conservé dans les archives. Les manuscrits des deux conférences qui composent ce recueil seront bientôt disponibles.</li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont parle de <i>La Lettre ouverte aux Européens</i>, du <i>Cheminement des Esprits</i> et de <i>L’Un et le Divers</i></a> (1970)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1970loe" name="Lettre ouverte aux Européens (1970)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Lettre ouverte aux Européens</i> (1970)</h1>
+                  <p>« L’État n’est pas un dieu, ce n’est qu’un appareil plus ou moins efficace, qui doit être mis au service des citoyens et de leurs cités, et non l’inverse. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Démontrer l’unité culturelle de l’Europe, pour légitimer l’union, telle est la première tâche à laquelle Rougemont s’emploie dans cette <i>Lettre ouverte aux Européens</i>, composée en grande partie d’articles et de réflexions développées au Centre européen de la culture, que l’écrivain dirige à Genève depuis 1950. L’auteur s’attache à montrer que les « cultures nationales » sont des inventions (il n’y a pas de peinture « française » ni de chimie « allemande », pas plus que de mathématique « soviétique » !). Leur préexiste une véritable culture européenne, une et diverse, composée de vingt langues, mais d’une seule littérature, et de valeurs communes, au premier rang desquelles la <i>personne</i>. Nées de tensions permanentes entre différentes sources et influences (chrétienne, grecque, latine, celte, germanique, arabe…), ces valeurs déterminent un rapport spécifique à la matière, au temps, à la vie sociale et politique. C’est sur cette communauté de culture, cette « unité non unitaire », que les Européens doivent bâtir leur union, affirme ensuite l’auteur, qui en appelle au fédéralisme, principe d’organisation assurant dans tous les ordres un équilibre entre des « réalités contradictoires mais également valables ». L’ouvrage se clôt sur un vigoureux plaidoyer en faveur des régions, entités émergentes conçues comme des foyers de rayonnement culturel et comme des espaces de participation civique.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>François <span class="sc">Saint-Ouen</span>, « Denis de Rougemont, penseur original de la Fédération européenne », in François <span class="sc">Saint-Ouen</span> (éd.), <i>L’Europe de Denis de Rougemont</i>, Louvain-la-Neuve, Academia-L’Harmattan, 2014, p. 113-135.</li>
+                    <li>Nicolas <span class="sc">Stenger</span>, « La Cité européenne, ou l’Europe idéale », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 283-303.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0286_loe-manuscrit-tapuscrit">Manuscrit (incomplet)</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0287_loe-tapuscrit">Tapuscrit annoté</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0288_loe-notes-manuscrites">Notes manuscrites</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Denis de Rougemont parle de <i>La Lettre ouverte aux Européens</i> : l’Europe une et diverse</a> (1970)</li>
+                    <li><a href="">Denis de Rougemont parle de <i>La Lettre ouverte aux Européens</i>, du <i>Cheminement des Esprits</i> et de <i>L’Un et le Divers</i></a> (1970)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1977aena" name="L’Avenir est notre affaire (1977)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>L’Avenir est notre affaire</i> (1977)</h1>
+                  <p>« La décadence d’une société commence quand l’homme se demande : “Que va-t-il arriver ?” au lieu de se demander : “Que puis-je faire ?”. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Dans cet ouvrage qui fait date dans l’histoire de la pensée écologique, l’auteur relie la problématique de l’environnement, des régions et du fédéralisme européen. Tout part d’un constat de crise, matérialisée par la croissance aveugle, la course au PNB (que l’auteur traduit par « prestige national brutal »), l’accumulation d’armements atomiques, la pollution dévastatrice du milieu vital, le pillage effréné des ressources naturell<a id="_GoBack">‌</a>es. Ce système de crise a pour clé l’État-nation : né de la guerre et organisé en vue de la guerre, c’est lui qui, selon Denis de Rougemont, s’est rendu coupable de cette gestion catastrophique de la planète. Qu’oppose l’écrivain à cette crise globale ? Avant tout, une meilleure perception des finalités que recouvrent nos actes et nos choix d’êtres humains libres et responsables, et la volonté de mettre en question le fatalisme du « progrès » scientifique et technocratique, ôtant à l’homme sa capacité de décider de son avenir. En somme, réaffirmer la primauté des fins sur les moyens. Comment s’y prendre ? En favorisant l’émergence des régions, « espaces de participation civique » : dans la région autogérée, la personne est libre selon Rougemont, parce que vraiment responsable ; favorisant la redécouverte du sens de la communauté et de l’environnement, la région, conçue comme le module d’une fédération européenne, s’oppose à cette « amicale des misanthropes » que représente aux yeux de l’auteur l’Europe des États.</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Bibliographie indicative</h2>
+                  <ul>
+                    <li>Nicolas <span class="sc">Stenger</span>, « Régions, écologie : remèdes pour une Europe en crise », <i>Denis de Rougemont. Les intellectuels et l’Europe au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Rennes, PUR, 2015, p. 345-357.</li>
+                    <li>Simon <span class="sc">Charbonneau</span>, « Denis de Rougemont, une exigence spirituelle incarnée pour notre avenir », in François <span class="sc">Saint-Ouen</span> (éd.), <i>L’Europe de Denis de Rougemont</i>, Louvain-la-Neuve, Academia-L’Harmattan, 2014, p. 101-111.</li>
+                    <li>Gérard de <span class="sc">Puymège</span> (éd.), <i>Autour de « L’Avenir est notre affaire »</i>, Lausanne, Fondation Charles Veillon, 1984.</li>
+                  </ul>
+                  <h2 class="head">Archives (images)</h2>
+                  <ul>
+                    <li>
+                      <a href="bpun-ddr1-id0299_aena-manuscrit-parties-1-2">Manuscrit autographe</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0300_aena-tapuscrit">Tapuscrit</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0301_aena-ajouts-corrections">Ajouts et corrections</a>
+                    </li>
+                    <li>
+                      <a href="bpun-ddr1-id0302_aena-resume-analytique">Résumé analytique</a>
+                    </li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href=""><i>L’Avenir est notre affaire</i> : l’écologie, nouvelle force politique</a> (1977)</li>
+                    <li><a href=""><i>L’Avenir est notre affaire</i> : les défis à la démocratie</a> (1977)</li>
+                    <li><a href="">Conférence sur <i>L’Avenir est notre affaire</i> à l’Université du 3<sup class="sup">e</sup> âge de Genève</a> (1978)</li>
+                    <li><a href="">Denis de Rougemont : sa vie et son œuvre — 6</a> (1980)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1979rpe" name="Rapport au peuple européen sur l’état de l’union de l’Europe 1979 (1979)" template="livre">
+      <area name="chapo">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h1><i>Rapport au peuple européen sur l’état de l’union de l’Europe 1979</i> (1979)</h1>
+                  <p>« C’est notre modèle de croissance qu’il va falloir changer, notre idéologie de la croissance, et tout de suite les cadres nationaux dans lesquels nous voulions mesurer son “progrès”. »</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="notice">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <p>Préparé par le « groupe Cadmos » (formé d’historiens, de philosophes, d’économistes, d’écologistes…) et mis en forme par Denis de Rougemont, ce rapport vise à éclairer l’opinion européenne au moment des premières élections directes du Parlement européen, sur ce qui constitue l’enjeu de la consultation. Un bilan de la crise de l’économie, de l’énergie, de l’environnement, de l’État-nation centralisé, de la défense commune, des relations Nord-Sud, est dressé. Le Rapport propose de subordonner l’économie à l’homme (et non au profit) ; de donner aux communes et aux régions des compétences dans le domaine de l’énergie ; de rétablir l’équilibre entre l’homme et la nature en créant des agences fédérales spécialisées ; de constituer des régions avec un pouvoir réel ; de cesser de poser la défense de l’Europe en termes nucléaires (armes offensives commandées de toute façon par les Américains) ; de donner au Tiers Monde l’exemple d’une société qui n’a pas pour but la puissance, mais l’épanouissement et la liberté des personnes. Or, tout ceci appelle la fédération de l’Europe, « c’est-à-dire l’union non seulement dans la diversité, mais pour la diversité ».</p>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="biblio">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <h2>Archives (images)</h2>
+                  <ul>
+                    <li><a href="bpun-ddr1-id0329_rpe-presentation-projet">« Présentation du projet »</a> (1975-1976)</li>
+                    <li><a href="bpun-ddr1-id0330_rpe-proposition-dactylographiee">« Proposition de recherche »</a> (1976)</li>
+                    <li><a href="bpun-ddr1-id0331_rpe-proces-verbaux-cadmos">Documents concernant la réunion constitutive du groupe Cadmos</a> (1977)</li>
+                    <li><a href="bpun-ddr1-id0338_rpe-premiere-esquisse-plan">« Première esquisse d’un plan »</a> (1977)</li>
+                    <li><a href="bpun-ddr1-id0339_rpe-manuscrit-tapuscrit">Manuscrit et tapuscrit</a> (1979)</li>
+                    <li><a href="bpun-ddr1-id0340_rpe-tapuscrit-notes">Tapuscrit avec annotations manuscrites </a>(1979)</li>
+                    <li><a href="bpun-ddr1-id0341_rpe-resume-rapport">Résumé du rapport</a> (1979)</li>
+                    <li><a href="bpun-ddr1-id0342_rpe-argumentaire">Argumentaire</a> (1979)</li>
+                  </ul>
+                  <h2 class="head">Médias (sons et vidéos)</h2>
+                  <ul>
+                    <li><a href="">Les premières élections du Parlement européen au suffrage universel</a> (1979)</li>
+                  </ul>
+                </content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+  </pages>
+</concrete5-cif>
