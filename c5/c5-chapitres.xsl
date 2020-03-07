@@ -28,7 +28,6 @@
   <xsl:template match="/" priority="10">
     <concrete5-cif version="1.0">
       <pages>
-        <xsl:call-template name="book"/>
         <xsl:for-each select="//tei:div[@type='chapter']">
           <xsl:call-template name="chapter"/>
         </xsl:for-each>
@@ -68,10 +67,6 @@
               <record>
                 <content>
                   <nav class="toclocal" id="toc">
-                    <button>
-                      <xsl:attribute name="onclick"> if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';} else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;} </xsl:attribute>
-                      <xsl:text>Sommaire +</xsl:text>
-                    </button>
                     <ul>
                       <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
                     </ul>
@@ -84,6 +79,7 @@
       </area>
     </page>
   </xsl:template>
+  
   <xsl:template name="chapter">
     <xsl:variable name="chapid">
       <xsl:call-template name="id"/>
@@ -115,7 +111,7 @@
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>
-    <page path="/livres/{$bookid}/{$chapid}" name="{$name}" package="{$bookid}" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/{$bookid}/{$chapid}" name="{$name}" package="{$bookid}" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -143,30 +139,27 @@
              </data>
            </block>
            </block>
+          <xsl:call-template name="prevnext"/>
+          <a class="booktitle" href=".">
+            <i>
+              <xsl:copy-of select="$doctitle"/>
+            </i>
+            <xsl:text> (</xsl:text>
+            <xsl:value-of select="$docdate"/>
+            <xsl:text>)</xsl:text>
+          </a>
            -->
           <block type="content">
             <data table="btContentLocal">
               <record>
                 <content>
-                  <a class="booktitle" href=".">
-                    <i>
-                      <xsl:copy-of select="$doctitle"/>
-                    </i>
-                    <xsl:text> (</xsl:text>
-                    <xsl:value-of select="$docdate"/>
-                    <xsl:text>)</xsl:text>
-                  </a>
-                  <xsl:call-template name="prevnext"/>
                   <article>
                     <xsl:apply-templates/>
-                    <!--
                     <xsl:call-template name="footnotes"/>
-                    -->
                   </article>
                   <aside class="bibl">
                     <xsl:copy-of select="$bibl"/>
                   </aside>
-                  <xsl:call-template name="prevnext"/>
                 </content>
               </record>
             </data>
@@ -179,9 +172,6 @@
             <data table="btContentLocal">
               <record>
                 <content>
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <xsl:call-template name="toclocal"/>
                 </content>
               </record>

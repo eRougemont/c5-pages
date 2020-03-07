@@ -14,16 +14,16 @@ class C5pack
   {
     array_shift($_SERVER['argv']); // shift first arg, the script filepath
     if (!count($_SERVER['argv'])) exit("
-      php c5pack.php  ../../Rougemont/livres/ddr1956ao_amour-occident.xml\n");
+      php c5pack.php  ../../ddr-livres/ddr1956ao_amour-occident.xml\n");
     foreach ($_SERVER['argv'] as $glob) {
       foreach(glob($glob) as $srcfile) {
         $bookid = pathinfo($srcfile, PATHINFO_FILENAME);
         $bookid = strtok($bookid, '_');
         $dom = self::dom($srcfile);
-        $xml = self::transform(dirname(__FILE__).'/tei2c5.xsl', $dom, null, array('bookid' => $bookid));
+        $xml = self::transform(dirname(__FILE__).'/c5-chapitres.xsl', $dom, null, array('bookid' => $bookid));
         $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
 
-        
+
         $dstdir = dirname(__FILE__).'/'.$bookid;
         if (!is_dir($dstdir)) {
           if (!@mkdir($dstdir, 0775, true)) exit(dirname($dstdir)." impossible à créer.\n");
@@ -31,7 +31,7 @@ class C5pack
         }
         file_put_contents($dstdir.'/content.xml', $xml);
         file_put_contents('/var/www/html/c5/packages/'.$bookid.'/content.xml', $xml);
-        
+
       }
     }
   }

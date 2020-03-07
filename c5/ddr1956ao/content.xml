@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+<concrete5-cif version="1.0">
   <pages>
     <page path="/livres/ddr1956ao/toc" name="L'Amour et l'Occident (1956)" package="ddr1956ao" pagetype="livre" template="left_sidebar">
       <attributes>
@@ -20,7 +20,6 @@
               <record>
                 <content><![CDATA[
                   <nav class="toclocal" id="toc">
-                    <button onclick=" if (!this.last) { this.parentNode.className='toclocal all'; this.last = this.innerHTML; this.innerHTML = 'Sommaire -';} else {this.parentNode.className='toclocal'; this.innerHTML = this.last; this.last = null;} ">Sommaire +</button>
                     <ul>
                       <li>
                         <a href="1#go1" id="go1">Avertissement</a>
@@ -350,7 +349,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/1" name="Avertissement" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/1" name="Avertissement" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -368,11 +367,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"> </div>
-                    <div class="next"> <a href="2" title="Préface à l’édition de 1956">Préface à l’édition de 1956</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Avertissement<a class="bookmark" href="1"> §</a></h2>
                     <p class="p autofirst">J’ai appelé « livres » les différentes parties de cet ouvrage, parce que chacune esquisse le contenu d’un volume de dimensions ordinaires.</p>
@@ -390,10 +384,6 @@
                     <div class="dateline">D. DE R.<br class="lb"/>21 juin 1938.</div>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"> </div>
-                    <div class="next"> <a href="2" title="Préface à l’édition de 1956">Préface à l’édition de 1956</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -406,9 +396,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li class="here">
                       <a href="#" id="go1">Avertissement</a>
@@ -451,7 +438,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/2" name="Préface à l’édition de 1956" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/2" name="Préface à l’édition de 1956" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -469,11 +456,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="1" title="Avertissement">Avertissement</a> </div>
-                    <div class="next"> <a href="3" title="Livre premier – Le mythe de tristan">Livre premier  –   Le mythe de tristan</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Préface à l’édition de 1956<a class="bookmark" href="2"> §</a></h2>
                     <p class="p autofirst">C’est à la suggestion de mon éditeur anglais – qui par une chance dont je m’honore se trouve être T. S. Eliot – que je dois d’avoir entrepris la révision de cet ouvrage.</p>
@@ -484,12 +466,11 @@
                     <p class="p">Quant à l’actualité de ma recherche, après la deuxième guerre mondiale, je ne la crois nullement modifiée. Je mentionnais à la fin du livre <span class="num">V</span>, en particulier, l’éventualité d’un conflit qui mettrait fin aux problèmes que j’étudiais. Cette crainte a bien failli se voir justifiée, et je ne puis que la reporter sur les résultats prévisibles d’une guerre atomique intercontinentale. De plus, un séjour de sept ans en Amérique m’a fait voir que le mythe de la Passion – dégradée en simple romance – n’est pas près d’épuiser ses effets ; le cinéma les propage au monde entier, et les statistiques de divorce permettent d’en mesurer l’ampleur. Si notre civilisation doit subsister, il faudra qu’elle opère une grande révolution : qu’elle reconnaisse que le mariage, dont dépend sa structure sociale, est plus grave que l’amour qu’elle cultive, et veut d’autres fondements qu’une belle fièvre.</p>
                     <p class="p">Les voies de cette révolution nous sont encore imprévisibles ; je m’en explique au livre <span class="num">VI</span>. Mon ambition se borne à sensibiliser l’attention de mes lecteurs à la présence du mythe ; par suite, à les mettre en mesure de détecter ses radiations dans la vie comme dans l’œuvre d’art. Amener quelques esprits à cette prise de conscience ne peut être tout à fait vain. Car s’il est vrai que les mutations du cœur se préparent et s’opèrent dans l’inconscient, elles datent en fait de leur épiphanie dans l’expression écrite, plastique ou picturale – comme un amour de son premier aveu.</p>
                     <div class="byline">D. DE R.</div>
+                    <section class="footnotes">
+                      <aside id="note1" class="note note"><a class="noteback" href="2#note1_">1. </a>Voir en particulier le bel ouvrage du P. M. C. d'Arcy S. J., <em>The Mind and Heart of Love</em>, Londres, 1945, largement consacré à l'exposé critique des points de vue représentés par Anders NYGREN (Éros et Agapè) et par ce livre.</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="1" title="Avertissement">Avertissement</a> </div>
-                    <div class="next"> <a href="3" title="Livre premier – Le mythe de tristan">Livre premier  –   Le mythe de tristan</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -502,9 +483,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -547,7 +525,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/3" name="Livre premier – Le mythe de tristan" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/3" name="Livre premier – Le mythe de tristan" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -565,11 +543,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="2" title="Préface à l’édition de 1956">Préface à l’édition de 1956</a> </div>
-                    <div class="next"> <a href="4" title="Livre II – Les origines religieuses – du mythe">Livre II  –   Les origines religieuses  –   du mythe</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Livre premier <br class="lb"/> Le mythe de tristan<a class="bookmark" href="3"> §</a></h2>
                     <section id="body-1-1" class="div section level3">
@@ -824,12 +797,40 @@
                       <p class="p autofirst">Partant d’un examen « physionomique » des formes et des structures du Roman, nous avons pu saisir le contenu originel du mythe, dans sa pureté fruste et grande. Deux voies nous tentent maintenant : l’une remonte vers les arrière-plans historiques et religieux du mythe, – l’autre descend du mythe jusqu’à nos jours.</p>
                       <p class="p">Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <em>relations</em> que nous venons de dégager.</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note2" class="note note"><a class="noteback" href="3#note2_">2. </a>Il est assez facile d'éliminer, par une comparaison critique, les fantaisies individuelles des cinq auteurs. Dans l'analyse du contenu de la légende qu'on trouvera au chapitre 5, ces variantes seront négligées pour autant qu'elles s'expliquent trop aisément par des circonstances passagères, ou des goûts personnels de l'auteur.</aside>
+                      <aside id="note3" class="note note"><a class="noteback" href="3#note3_">3. </a>Voir Appendice 1.</aside>
+                      <aside id="note4" class="note note"><a class="noteback" href="3#note4_">4. </a>Appendice 2.</aside>
+                      <aside id="note5" class="note note"><a class="noteback" href="3#note5_">5. </a>Ce serait ici le langage du poème : or on sait qu'il est des plus simples.</aside>
+                      <aside id="note6" class="note note"><a class="noteback" href="3#note6_">6. </a>La raison dont je parle ici étant l'activité profanatrice qui s'exerce aux dépens du sacré collectif et qui en libère l'individu. Que le rationalisme soit passé au rang de doctrine officielle ne doit pas nous faire oublier son efficacité proprement <em>sacrilège</em>, antisociale, « dissociatrice ».</aside>
+                      <aside id="note7" class="note note"><a class="noteback" href="3#note7_">7. </a>Je résumerai les principaux événements du Roman en m'appuyant sauf exceptions, sur la <em>concordance</em> établie par M. Joseph Bédier (dans son étude sur le poème de Thomas) entre les cinq versions du douzième siècle : Béroul, Thomas, Eilhart, <em>la Folie Tristan</em> et le Roman en prose. Les versions ultérieures de Gottfried de Strasbourg et de tous les imitateurs allemands, italiens, danois, russes, tchèques, etc., se rapportent à ces cinq versions. Je tiens compte également des travaux critiques plus récents de MM. E. Muret et E. Vinaver.</aside>
+                      <aside id="note8" class="note note">
+                        <p class="noindent"><a class="noteback" href="3#note8_">8. </a>Vers 1412-1415 :</p>
+                        <q class="quote">
+                          <div class="l">À combien fit déterminez</div>
+                          <div class="l">Li lovendrincs, li vin herbez :</div>
+                          <div class="l">La mère Iseut, qui le bollit</div>
+                          <div class="l">À trois anz d'amistié le fist.</div>
+                        </q>
+                      </aside>
+                      <aside id="note9" class="note note"><a class="noteback" href="3#note9_">9. </a>« Pur belté e pur nun d'Isolt » <span class="bibl">(THOMAS)</span>.</aside>
+                      <aside id="note10" class="note note"><a class="noteback" href="3#note10_">10. </a>Toutefois, dans l'édition Bédier du poème de Thomas (t. I, p. 240), nous lisons que le veneur du roi, pénétrant dans la retraite des amants « <em>vit Tristan couché, et de l'autre côté de la grotte, Isolt. Les amants s'étaient couchés pour se reposer à cause de la forte chaleur, et dormaient ainsi séparés l'un de l'autre parce que…</em> » Ici le texte est interrompu ! Et Bédier dit en note : « Passage inintelligible. » Quelle puissance maléfique est donc intervenue pour brouiller le seul texte qui pût éclaircir le mystère ?</aside>
+                      <aside id="note11" class="note note">
+                        <p class="noindent"><a class="noteback" href="3#note11_">11. </a>Gottfried de Strasbourg insiste avec cynisme :</p>
+                        <p class="p">« <em>Ce fut ainsi chose manifeste – Et avérée devant tous – Que le très glorieux Christ – Se plie comme une étoffe dont on s'habille – … Il se prête au gré de tous – Soit à la sincérité soit à la tromperie – II est toujours ce qu'on veut qu'il soit</em>… »</p>
+                      </aside>
+                      <aside id="note12" class="note note"><a class="noteback" href="3#note12_">12. </a>Et qu'il avait conquise de plein droit <em>pour lui-même</em> en la délivrant du dragon – comme ne manque pas de le souligner Thomas.</aside>
+                      <aside id="note13" class="note note"><a class="noteback" href="3#note13_">13. </a>FAURIEL, Histoire de la poésie provençale, I, p. 512.</aside>
+                      <aside id="note14" class="note note"><a class="noteback" href="3#note14_">14. </a>Précisons que : 1° elles sont observées tour à tour, en vertu d'un calcul secret ; car si l'on choisissait l'une d'elles à l'exclusion totale de l'autre, la situation se dénouerait trop vite ; 2° elles ne sont pas toujours observées : ainsi le péché consommé dès que les amants ont bu le philtre est un péché aux yeux de l'amour courtois non moins qu'aux yeux de la morale chrétienne et féodale. Mais sans cette faute initiale, il n'y aurait pas de roman du tout.</aside>
+                      <aside id="note15" class="note note">
+                        <p class="noindent"><a class="noteback" href="3#note15_">15. </a>Rappelons ici ces étapes : Premier séjour de Tristan en Irlande. Ils se séparent sans s'aimer. – Second séjour : elle veut le tuer. – Navigation et philtre, péché consommé ; Iseut livrée. – Tristan banni de la cour. Rendez-vous sous l'arbre. – Tristan revient à la cour. Le « flagrant délit ». Ils sont séparés. – Ils se retrouvent et passent trois ans dans la forêt, puis se séparent. – Rendez-vous chez Orri le forestier ; Tristan s'éloigne. – Tristan revient déguisé en fou ; s'éloigne. – Longue séparation, mariage de Tristan. – Iseut approche et Tristan meurt. Puis mort d'Iseut.</p>
+                        <p class="p">Résumons encore : une seule longue période de réunion (l'aspre vie) à quoi répond la longue période de séparation (le mariage de Tristan). Auparavant : le Philtre ; à la fin : la double Mort ; entre temps, de furtives rencontres.</p>
+                      </aside>
+                      <aside id="note16" class="note note"><a class="noteback" href="3#note16_">16. </a>Thomas, qui cherche à diminuer le rôle de cette « emprise » magique, se verra condamné à rendre la passion moins inhumaine, plus acceptable aux yeux du moraliste. Inférieur en ceci à Béroul il sera le premier responsable de la dégradation du mythe.</aside>
+                      <aside id="note17" class="note note"><a class="noteback" href="3#note17_">17. </a>Dans le drame de Wagner, quand le roi surprend les amants, Tristan répond à ses questions douloureuses : « Ce mystère, <em>je ne puis te le révéler</em>. Jamais tu ne pourras connaître ce que tu demandes. » Et plus tard, quand il meurt : « Je ne suis pas resté au lieu de mon réveil. Mais où ai-je fait séjour ? <em>Je ne saurais le dire…</em> C'était là où je fus toujours, et là où j'irai pour toujours : le vaste empire de l'éternelle nuit. Là-bas, une science unique nous est donnée : le divin, l'éternel, l'originel oubli… Oh ! <em>si je pouvais le dire ! Si tu pouvais me comprendre !</em> »</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="2" title="Préface à l’édition de 1956">Préface à l’édition de 1956</a> </div>
-                    <div class="next"> <a href="4" title="Livre II – Les origines religieuses – du mythe">Livre II  –   Les origines religieuses  –   du mythe</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -842,9 +843,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -925,7 +923,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/4" name="Livre II – Les origines religieuses – du mythe" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/4" name="Livre II – Les origines religieuses – du mythe" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -943,11 +941,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="3" title="Livre premier – Le mythe de tristan">Livre premier  –   Le mythe de tristan</a> </div>
-                    <div class="next"> <a href="5" title="Livre III – Passion et mystique">Livre III  –   Passion et mystique</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Livre II <br class="lb"/> Les origines religieuses <br class="lb"/> du mythe<a class="bookmark" href="4"> §</a></h2>
                     <section id="body-2-1" class="div section level3">
@@ -1462,12 +1455,96 @@
                       <p class="p">Enfin, la <em>guerre</em>, en Occident, et toutes les formes militaires, jusque vers 1914, ont gardé par le fait de leur origine chevaleresque – et pour d’autres raisons peut-être – un parallélisme constant avec l’évolution du mythe.</p>
                       <p class="p">C’est de quoi l’on traitera dans les livres qui viennent.</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note18" class="note note"><a class="noteback" href="4#note18_">18. </a>Traduction d'Amyot.</aside>
+                      <aside id="note19" class="note note"><a class="noteback" href="4#note19_">19. </a>H. HUBERT, <em>les Celtes</em>, II, p. 227, 229, 274. (Le meilleur ouvrage d'ensemble sur la civilisation, l'histoire et l'archéologie celtique.)</aside>
+                      <aside id="note20" class="note note"><a class="noteback" href="4#note20_">20. </a>H. d'ARBOIS DE JUBAINVILLE, <em>Cours de littérature celtique</em>, I, p. 1-65.</aside>
+                      <aside id="note21" class="note note"><a class="noteback" href="4#note21_">21. </a>J. VENDRYES, <em>Mémoires de la société linguistique</em>, XX, 6, 265.</aside>
+                      <aside id="note22" class="note note"><a class="noteback" href="4#note22_">22. </a><em>Op. cit</em>., I, p. 18, et II, p. 328.</aside>
+                      <aside id="note23" class="note note"><a class="noteback" href="4#note23_">23. </a>- HUBERT, <cite class="title">op. cit.</cite>, I, p. 20. Et de même, les dieux gaulois prennent des noms latins sans se transformer autrement.</aside>
+                      <aside id="note24" class="note note"><a class="noteback" href="4#note24_">24. </a>Par E. BENVENISTE, dans <em>Yggdrasil</em>, 25 août 1937.</aside>
+                      <aside id="note25" class="note note"><a class="noteback" href="4#note25_">25. </a>Henry CORBIN, Pour l'hymnologie manichéenne. (<em>Yggdrasil</em>, 25 août 1937.)</aside>
+                      <aside id="note26" class="note note"><a class="noteback" href="4#note26_">26. </a>Voir l'Appendice 4.</aside>
+                      <aside id="note27" class="note note"><a class="noteback" href="4#note27_">27. </a>Droit d'user et d'abuser des esclaves, qui ne sont pas des « personnes » pour le droit romain : <em>persona est sui juris ; servus non est persona.</em></aside>
+                      <aside id="note28" class="note note"><a class="noteback" href="4#note28_">28. </a>J. ORTEGA Y GASSET, <em>Uber die Liebe</em>.</aside>
+                      <aside id="note29" class="note note"><a class="noteback" href="4#note29_">29. </a>Ceci n'est pas une boutade, on le verra bien par la suite. Le premier couple d'amants « passionnés » dont l'histoire soit venue jusqu'à nous, c'est Héloïse et Abélard dont la rencontre se situe en 1118, très précisément.</aside>
+                      <aside id="note30" class="note note"><a class="noteback" href="4#note30_">30. </a>Charles-Albert CINGRIA, <em>Ieu oc tan</em> (dans <em>Mesures</em>, n° 2, 1937). « Provençal » veut dire en réalité : toulousain, en l'occurrence.</aside>
+                      <aside id="note31" class="note note"><a class="noteback" href="4#note31_">31. </a>A. JEANROY, <em>La Poésie lyrique des troubadours</em>, 1934.</aside>
+                      <aside id="note32" class="note note"><a class="noteback" href="4#note32_">32. </a>A. JEANROY, <em>Introduction à une Anthologie des Troubadours,</em> 1927.</aside>
+                      <aside id="note33" class="note note"><a class="noteback" href="4#note33_">33. </a>JEANROY, <em>La Poésie lyrique des troubadours</em>, I, p. 69.</aside>
+                      <aside id="note34" class="note note"><a class="noteback" href="4#note34_">34. </a>E. WECHSSLER, <em>Das Kulturproblem des Minnesangs</em>, Halle 1909.</aside>
+                      <aside id="note35" class="note note"><a class="noteback" href="4#note35_">35. </a>On a tenté quelques explications sociologiques de la courtoisie. Elles se ramènent à des suppositions – souvent contradictoires – sur la condition de la femme en Languedoc. Vernon Lee, par exemple, dans un essai intitulé <em>Médieval Love</em>, remarque que dans les cours médiévales il y avait « une énorme prépondérance numérique d'hommes » dont peu pouvaient se marier. D'où l'idéalisation de l'objet d'un désir aussi difficile à satisfaire. On peut tenir compte du renseignement, mais il n'explique en somme rien de précis quant à la rhétorique courtoise.</aside>
+                      <aside id="note36" class="note note"><a class="noteback" href="4#note36_">36. </a>Cathare vient du grec <em>catharoi</em>, purs.</aside>
+                      <aside id="note37" class="note note"><a class="noteback" href="4#note37_">37. </a><em>Liber de duobus principiis</em>, publié par A. DONDAINE, O. P., Rome 1939. Dondaine et Arno Borst datent ce traité de la seconde moitié du treizième siècle.</aside>
+                      <aside id="note38" class="note note"><a class="noteback" href="4#note38_">38. </a>Cf. <em>La Cène secrète</em>, publiée par Döllinger, à Munich, en 1890.</aside>
+                      <aside id="note39" class="note note"><a class="noteback" href="4#note39_">39. </a>Trois ouvrages importants sur le catharisme ont paru récemment : <em>Études manichéennes et cathares</em>, par Déodat ROCHÉ (1952) ; <em>Le Catharisme</em>, par René NELLI, Charles BRU, chanoine DE LAGGER, D. ROCHE, L. SOMMARIVA (1953) ; <em>Die Katharer</em> par Arno BORST (1953). Le troisième s'oppose par bien des points aux deux premiers, mais leur confrontation jette une lumière très vive sur la nature exacte comme sur l'évolution et les complexités de l'hérésie.</aside>
+                      <aside id="note40" class="note note"><a class="noteback" href="4#note40_">40. </a>Cf. <em>Prière cathare</em>, citée par DÖLLINGER. Notons que la liberté de l'homme, le pouvoir de faire le mal <em>ou</em> le bien, aurait ainsi pour origine non point Dieu, mais le Diable.</aside>
+                      <aside id="note41" class="note note"><a class="noteback" href="4#note41_">41. </a>Ce chiffre est archétypique. Jésus est demeuré quarante jours au Désert. Les Hébreux ont erré pendant quarante ans entre l'Égypte et la Terre Promise. Le Déluge est provoqué par une pluie de quarante jours. Dans le tantrisme bouddhique, le « service » de la Femme est divisé en épreuves de quarante jours, etc., etc. Quarante est le nombre de l'Épreuve.</aside>
+                      <aside id="note42" class="note note"><a class="noteback" href="4#note42_">42. </a>L'expression de « parfaits » ne se trouve d'ailleurs que dans les registres de l'Inquisition. Le terme de <em>bonshommes</em> (ou simplement de <em>chrétiens</em>) paraît avoir été utilisé par les Cathares eux-mêmes, et « parfaits » serait ironique.</aside>
+                      <aside id="note43" class="note note"><a class="noteback" href="4#note43_">43. </a>Voir l'excellent ouvrage de Fernand NIEL, <em>Montségur, la montagne inspirée</em>, 1955. « Si Montségur n'a pas été le château du Graal [comme l'affirmait Rahn] aucun autre en Europe ne s'adapte mieux que lui aux légendes graaliques. » Pour F. Niel, la question tranchée par Rahn reste ouverte. J'ajouterai que les adversaires les plus virulents de cette hypothèse sont ceux qui n'ont pas vu le site de Montségur. Le choc émotif profond provoqué par l'apparition formidable du pic sacré comporte une évidence d'un tout autre ordre que celle que pourraient proposer des « preuves » écrites.</aside>
+                      <aside id="note44" class="note note"><a class="noteback" href="4#note44_">44. </a>On la trouvera formulée page 84, et discutée plus amplement au chapitre 10.</aside>
+                      <aside id="note45" class="note note"><a class="noteback" href="4#note45_">45. </a>Otto Rahn, <em>Croisade contre le Graal</em>, trad. franc. 1934.</aside>
+                      <aside id="note46" class="note note"><a class="noteback" href="4#note46_">46. </a>Le premier troubadour, Guillaume de Poitiers, meurt en 1127. Les premières mentions d'une Église cathare <em>organisée</em> et publique datent de 1160. Mais dès 1145, selon Borst, le catharisme s'est répandu de la Bulgarie à l'Angleterre ! Le nom apparaît cette année-là en Allemagne, deux ans plus tard en Languedoc. Arno Borst en déduit que le catharisme aurait envahi l'Europe en deux ans ! Il s'en étonne. Je n'y crois pas. Sous d'autres noms, ou même sans nom, le catharisme existait dans les âmes depuis bien plus longtemps que dans les textes « historiques ». On condamna ses doctrines en France dès le onzième siècle, à Orléans, dans le Poitou, le Périgord et l'Aquitaine, c'est-à-dire, notons-le déjà, aux lieux mêmes où paraissent les premiers troubadours !</aside>
+                      <aside id="note47" class="note note"><a class="noteback" href="4#note47_">47. </a>Au point que les Parfaits refusaient de s'asseoir sur un banc que venait de quitter une femme. Et cependant, un grand nombre de femmes de la noblesse étaient cathares, et les troubadours leur dédiaient leurs chansons !</aside>
+                      <aside id="note48" class="note note"><a class="noteback" href="4#note48_">48. </a>Déodat Roché, l'un des érudits contemporains les plus vitalement intéressés à l'étude du catharisme (voir ses <em>Études manichéennes et cathares</em>, 1952, et <em>Le Catharisme</em>, 1938), insiste lui aussi sur « le danger d'une envolée trop rapide vers le ciel », selon les Cathares, et oppose le catharisme au bouddhisme sur ce point à vrai dire capital.</aside>
+                      <aside id="note49" class="note note"><a class="noteback" href="4#note49_">49. </a>L'emploi du mot « vraie » devant Dieu, Lumière, Foi, Église, est un indice probable de catharisme chez un troubadour. Les Cathares s'appliquaient à parler le langage orthodoxe, moyennant cette petite correction significative pour l'initié.</aside>
+                      <aside id="note50" class="note note"><a class="noteback" href="4#note50_">50. </a>Les « aubes » étaient un genre régulier. On conçoit sa nécessité dans une vision du monde dominée par l'hostilité du Jour et de la Nuit.</aside>
+                      <aside id="note51" class="note note"><a class="noteback" href="4#note51_">51. </a>Désignée généralement par un nom symbolique ou <em>senhal</em>, exactement comme les mystiques çoufis désignent Dieu dans leurs poèmes !</aside>
+                      <aside id="note52" class="note note"><a class="noteback" href="4#note52_">52. </a>Retrouvés en 1930 au Fayoum (Égypte) et publiés par C. Schmidt, à Stuttgart, en 1935.</aside>
+                      <aside id="note53" class="note note"><a class="noteback" href="4#note53_">53. </a>On sait que l'un des lieux communs de la rhétorique courtoise consiste à se plaindre « d'aimer en lieu trop élevé ». Les érudits commentent : le pauvre troubadour, de basse extraction sociale en général, s'est épris de la femme d'un haut baron, qui le dédaigne. Certes, cela se vérifie dans quelques cas. Mais comment expliquer alors qu'un Alphonse d'Aragon, puissant roi, ait exhalé dans ses poèmes cette même plainte ? Rien n'est trop haut pour lui, c'est évident, s'il ne s'agit que de ce monde. En vérité, la question se ramène à savoir pourquoi le poète <em>choisit</em> d'aimer si haut, choisit l'Inaccessible.</aside>
+                      <aside id="note54" class="note note"><a class="noteback" href="4#note54_">54. </a>On peut aussi penser que dans bien des cas, les correspondances entre doctrine cathare et poétique courtoise sont précises. Lucie Varga, dans une étude sur Peire Cardenal (ou Cardinal), l'un des derniers troubadours (<em>Peire Cardinal était-il hérétique ?</em> Revue d'Histoire des Religions, juin 1938) va jusqu'à proposer que l'on prenne certains poèmes des troubadours comme <em>sources</em> d'études sur l'hérésie. Elle cite, à l'appui, des vers de Peire Cardenal qui reproduisent les termes exacts d'une Prière cathare publiée par Döllinger. Exemple : « <em>Donne-moi de pouvoir aimer ceux que tu aimes</em> » (Cardenal) et « Donne-nous d'aimer ceux que Tu aimes » (Prière). Mais il faut également relever que Peire Cardenal, vrai Cathare, se montre sévère pour la « courtoisie » dans un poème où il dit : « <em>Je ne me livre point à de stupides exploits… j'ai échappé à l'amour</em>. » Je reviendrai sur la situation paradoxale des poètes courtois contraints de louvoyer entre la double condamnation portée contre l'amour sexuel par les Parfaits et contre l'amour idéalisé mais « adultère » par les catholiques.</aside>
+                      <aside id="note55" class="note note"><a class="noteback" href="4#note55_">55. </a><em>Poésie lyrique des troubadours</em>, II, p. 306.</aside>
+                      <aside id="note56" class="note note"><a class="noteback" href="4#note56_">56. </a>Par exemple, le médiéval serait trop « naïf » pour étudier une matière qu'il jugerait absurde, c'est-à-dire qui n'aurait pas de sens religieux et de situation précise dans l'ensemble des valeurs qu'il connaît.</aside>
+                      <aside id="note57" class="note note"><a class="noteback" href="4#note57_">57. </a>J. HUIZINGA, <em>Le Déclin du moyen âge</em>, pp. 181-182.</aside>
+                      <aside id="note58" class="note note"><a class="noteback" href="4#note58_">58. </a>« Consacrées par l'usage ? » Depuis quand ? Rudel utilisait ce procédé, et il est de la première moitié du douzième siècle, c'est-à-dire de la première génération des troubadours ! Donc l'un des <em>inventeurs</em> de ces « formules ». Nous tenons ici un bel exemple d'anachronisme tendancieux. On veut à tout prix que le langage des troubadours soit le langage <em>naturel</em> de l'amour humain, transposé à l'amour divin. Alors qu'historiquement, c'est le contraire qui s'est produit.</aside>
+                      <aside id="note59" class="note note"><a class="noteback" href="4#note59_">59. </a>Un amoureux peu lettré qui écrit à sa fiancée des épîtres copiées dans un manuel : croit-on que ces formules toutes faites ne traduisent pas, à ses yeux, un sentiment sincère et authentique ? Ceci pour répondre au reproche d'insincérité fait aux troubadours par nos érudits – reproche lui-même stéréotypé…</aside>
+                      <aside id="note60" class="note note"><a class="noteback" href="4#note60_">60. </a>Mais catholique d'origine, non hérétique.</aside>
+                      <aside id="note61" class="note note"><a class="noteback" href="4#note61_">61. </a>Faudrait-il rapprocher ceci du fait que le chevalier courtois donnait souvent à sa Dame le titre de seigneur au masculin : <em>mi dons</em> (<em>mi dominas</em>) et en Espagne : <em>senhor</em> (non <em>senhorà</em>) ? Les troubadours andalous et arabes faisaient de même. Je crois qu'ici encore, au moins à l'origine, tout est symbole religieux, autant ou plus que traduction de relations humaines. Toutefois, le narcissisme inhérent à tout amour dit platonique entraîne évidemment, dans le plan sexuel, des déviations dont il serait difficile de nier que certains troubadours n'aient été victimes.</aside>
+                      <aside id="note62" class="note note"><a class="noteback" href="4#note62_">62. </a>Textes traduits et commentés dans Wolfgang SCHULTZ, <em>Dokumente der Gnosis</em>, pp. 158 à 164.</aside>
+                      <aside id="note63" class="note note"><a class="noteback" href="4#note63_">63. </a>R. P. Sandrini, cité par CANTU, <em>Histoire universelle</em>, t. XI, p. 123.</aside>
+                      <aside id="note64" class="note note"><a class="noteback" href="4#note64_">64. </a>Voir aussi l'Appendice 5.</aside>
+                      <aside id="note65" class="note note"><a class="noteback" href="4#note65_">65. </a>Voici le chef principal d'accusation, selon Massignon (<em>Passion de al Hallaj</em>, p. 161) : « Adorer Dieu par amour seulement est le crime des manichéens… (<em>ceux-ci</em>) adorent Dieu par amour <em>physique</em>, par l'attraction magnétique du fer pour le fer, et leurs particules de lumière veulent rejoindre, comme un aimant, le foyer de lumière dont elles sont venues. »</aside>
+                      <aside id="note66" class="note note"><a class="noteback" href="4#note66_">66. </a>H. CORBIN : <em>Introduction au Familier des Amants</em>.</aside>
+                      <aside id="note67" class="note note"><a class="noteback" href="4#note67_">67. </a>« <em>C'est lui l'amour</em>… » trad. Dermenghem, <em>Hermès</em>, décembre 1933.</aside>
+                      <aside id="note68" class="note note"><a class="noteback" href="4#note68_">68. </a>Cf. MASSIGNON et KRAUSS, <cite class="title">Akhbar al Hallaj</cite>, texte relatif à la prédication et au supplice de Al Hallaj.</aside>
+                      <aside id="note69" class="note note"><a class="noteback" href="4#note69_">69. </a>Cf. les travaux d'un auteur américain. A. R. Nykl, sa traduction du <em>Collier de la Colombe</em> d'Ibn HAZM – qui est une théorie de l'amour courtois arabe – et son ouvrage d'ensemble, <em>Hispano-Arabic Poetry and its relations with the old Provençal Troubadours</em>, Baltimore, 1946. Voir aussi les ouvrages de Louis Massignon, d'Henry Pérès, d'Émile Dermenghem, de Menendez Pidal, de Karl Appel, etc., etc.</aside>
+                      <aside id="note70" class="note note"><a class="noteback" href="4#note70_">70. </a>Il faut avouer que les réfutations les plus virulentes qui aient été publiées portaient beaucoup moins sur cette thèse que sur sa réduction à la seule <em>hypothèse</em> que j'avais mentionnée au chapitre 7 de ce Livre, à savoir que les poèmes des troubadours pouvaient être – selon Rahn, Aroux et Péladan – une sorte de langage secret du catharisme. Une relecture des chapitres 8 et 9 suffit à « réduire » à son tour cette simplification tout à fait abusive, dont mes adversaires sont plus responsables que moi – en dépit de certaines imprudences d'expression. (Ce sont elles, par malheur, qui ont le plus fait pour assurer le succès de l'ouvrage dans un large public pressé. Comme il arrive.)</aside>
+                      <aside id="note71" class="note note"><a class="noteback" href="4#note71_">71. </a>Comme Amor s'oppose à Roma. Les hérétiques reprochaient à l'Église catholique d'avoir <em>inverti</em> le nom même du Dieu qui est Amour.</aside>
+                      <aside id="note72" class="note note"><a class="noteback" href="4#note72_">72. </a>Ce qui n'empêchera pas l'Église de Rome, en la personne du pape Innocent III qui rêvait de « l'empire du monde » et ne pouvait tolérer la défection de l'Italie du Nord et du Languedoc, de déclencher en 1209 la Croisade contre les Cathares : le premier génocide ou massacre systématique d'un peuple, enregistré par notre histoire « chrétienne » de l'Occident.</aside>
+                      <aside id="note73" class="note note"><a class="noteback" href="4#note73_">73. </a><em>Consoler</em> vient de <em>consolari</em>, formée de <em>cum</em> et de <em>solus</em> (qui veut dire proprement : entier). Consoler signifie donc étymologiquement : rendre entier.</aside>
+                      <aside id="note74" class="note note"><a class="noteback" href="4#note74_">74. </a>Chap. 7, p. 82.</aside>
+                      <aside id="note75" class="note note"><a class="noteback" href="4#note75_">75. </a>Mircea ELIADE, <em>Technique du Yoga</em>, pp. 176 à 191.</aside>
+                      <aside id="note76" class="note note"><a class="noteback" href="4#note76_">76. </a>ID., <em>ibid</em>., p. 199.</aside>
+                      <aside id="note77" class="note note"><a class="noteback" href="4#note77_">77. </a><em>Çiva Samhitâ</em>, 4, 78 à 102. Cf. Alain DANIÉLOU, <em>Yoga, the Method of Réintégration</em>, 1949, pp. 45 et suiv.</aside>
+                      <aside id="note78" class="note note"><a class="noteback" href="4#note78_">78. </a>Mircea ELIADE, <em>op. cit</em>., pp. 205 et suiv. On trouve parfois « jusqu'à cinq sens équivalents pour un seul terme ».</aside>
+                      <aside id="note79" class="note note"><a class="noteback" href="4#note79_">79. </a>L. DE LA VALLÉE-POUSSIN, <em>Bouddhisme, Études et matériaux</em>, 1898.</aside>
+                      <aside id="note80" class="note note"><a class="noteback" href="4#note80_">80. </a>ELIADE, <em>op. cit</em>., pp. 210 et 212.</aside>
+                      <aside id="note81" class="note note"><a class="noteback" href="4#note81_">81. </a>ID., <em>ibid.</em></aside>
+                      <aside id="note82" class="note note"><a class="noteback" href="4#note82_">82. </a>Je m'excuse de ne pouvoir citer ici que des fragments de chansons – de <em>paroles</em> de chansons ! – souvent très pauvrement traduites, et privées de toute beauté proprement poétique et rythmique par cette double trahison. Qu'il soit bien entendu que je n'épingle ici que des dépouilles de sens…</aside>
+                      <aside id="note83" class="note note"><a class="noteback" href="4#note83_">83. </a>Note du professeur Jeanroy : « C'est-à-dire, si vous parvenez à supprimer ses conséquences ».</aside>
+                      <aside id="note84" class="note note"><a class="noteback" href="4#note84_">84. </a>Cf. plus haut (p. 100) la description du « service » selon l'école Sahajiya. Cette interprétation de Guiraut Riquier est exacte. On peut s'en assurer en lisant cette phrase d’Ælius Donatus (commentaire sur Térence, quatrième siècle) : <em>Quinque lineœ sunt amoris, scilicet, visus, allocutio, tactus, osculum, coitus</em>. (Noter que Désir correspond à <em>visus</em> – le fameux premier regard qui enflamme – et Servir à <em>tactus</em>.) Le thème des Cinq lignes d'amour peut être suivi à travers toute la poésie latine du moyen âge, jusqu'à la Renaissance, où on le retrouve chez Marot et Ronsard. Les variations sont très légères. Mais en 1510, Jean Lemaire de Belges écrit dans ses <em>Illustrations de Gaule :</em> « Les nobles poètes disent que cinq lignes y a en amours… le regard, le parler, l'attouchement, le baiser, et le dernier qui est plus désiré, et auquel tous les autres tendent pour leur finale résolution, c'est celui qu'on nomme par honnêteté le don de mercy. » Le contraste avec l'amour courtois est clair. Et non moins le sens donné à <em>mercy</em>, que plusieurs auteurs assimilent pour leur part à la Grâce, chez les troubadours…</aside>
+                      <aside id="note85" class="note note"><a class="noteback" href="4#note85_">85. </a>Les Cathares condamnaient la guerre et toute forme d'homicide, légal ou non. Et en place de <em>faux</em> juges, <em>faux</em> prêtres, <em>faux</em> reclus, et de maris <em>trompeurs</em>, les Inquisiteurs du siècle suivant n'eussent pas manqué de lire simplement : juges, prêtres, reclus et maris !</aside>
+                      <aside id="note86" class="note note"><a class="noteback" href="4#note86_">86. </a>Aliénor d'Aquitaine eut pour fils Richard Cœur de Lion, ami des troubadours gascons et troubadour lui-même, excommunié par Rome ; et pour fille Marie de Champagne.</aside>
+                      <aside id="note87" class="note note"><a class="noteback" href="4#note87_">87. </a>Le code « exotérique » le plus complet que nous connaissions fut rédigé au commencement du treizième siècle : c'est le <em>De arte honeste amandi</em> d'André LE CHAPELAIN.</aside>
+                      <aside id="note88" class="note note"><a class="noteback" href="4#note88_">88. </a>Chez Chrétien de Troyes en particulier.</aside>
+                      <aside id="note89" class="note note"><a class="noteback" href="4#note89_">89. </a>Miss J. L. Weston en avait proposé une autre en 1907 : elle rattachait le Graal aux rites secrets du culte d'Adonis. Ce qui est certain, c'est qu'un symbole comme celui du roi pécheur (Amfortas chez Wolfram d'Eschenbach « le roi Pescière » chez Chrétien) est commun aux orphiques, aux manichéens, et même aux premiers chrétiens ; la pierre sacrée du Graal joue un rôle dans les religions hindoue et iranienne. La coupe sacrée des Celtes peut se confondre facilement avec la coupe de la Cène. Et la lance elle-même revêt les significations les plus diverses selon les cultes. Je ne pense pas qu'on doive s'en tenir à une seule interprétation. Il s'est produit toute une série de fusions et de confusions de symboles.</aside>
+                      <aside id="note90" class="note note"><a class="noteback" href="4#note90_">90. </a><em>Les Romans de la Table ronde, nouvellement rédigés</em> par J. BOULENGER, IV, p. 238.</aside>
+                      <aside id="note91" class="note note"><a class="noteback" href="4#note91_">91. </a>Dans un autre passage, les chevaliers ayant communié se donnent les uns aux autres le baiser de paix, selon le rite oriental, que les Cathares paraissent avoir repris. – Enfin, M. Anitchkof a montré que le « <em>pont évage</em> » que les chevaliers du Graal doivent traverser n'est autre que le pont de Cinvat de la mythologie manichéenne, pont jeté sur la rivière infernale, et que seuls les élus peuvent franchir. « Il y a lieu d'appeler <em>manichéisant</em> le milieu créateur de la matière de Bretagne » écrit ANITCHKOF (<em>Joachim de Flore</em>, p. 291) après avoir insisté sur les influences cathares dans tous ces romans.</aside>
+                      <aside id="note92" class="note note"><a class="noteback" href="4#note92_">92. </a>Analysant la « magie érotique » du cycle du Graal (dans <em>Lumière du Graal</em>, 1951, recueil d'une vingtaine d'études par des auteurs divers), René Nelli formule quelques observations qui seront utilement rapprochées du chap. 10 de ce livre II : « Cette magie érotique avait sa source d'abord dans la croyance que le corps féminin manifestait par sa seule présence des pouvoirs surnaturels, les mêmes que ceux que Ton prêtait au Graal… (Le Graal <em>rajeunit</em> ceux qui le contemplent)… Ensuite, dans la foi en une force occulte qui naissait de l'élan charnel réprimé… L'amour pur, c'est celui qui reste tel dans des circonstances périlleuses, <em>provoquées</em>, et qui utilise l'énergie de ce Désir pour des fins plus hautes que l'accouplement. Il admettait toutes les manœuvres charnelles, sauf « l'acte »… L'amour contenu est bien le moteur intérieur de cette Quête, qui a bien tous les caractères d'une initiation à la Féminité insaisissable aux sens charnels. » L'auteur semble avoir deviné le caractère « tantrique » que prend l'amour courtois, dans le cycle breton, plus réellement, je crois, que dans la poésie des troubadours.</aside>
+                      <aside id="note93" class="note note"><a class="noteback" href="4#note93_">93. </a>H. HUBERT, <em>les Celtes</em>, II, p. 286.</aside>
+                      <aside id="note94" class="note note"><a class="noteback" href="4#note94_">94. </a>HUBERT, <em>op. cit</em>., Il, p. 298.</aside>
+                      <aside id="note95" class="note note"><a class="noteback" href="4#note95_">95. </a><em>Histoire de Bailé au doux langage</em>, trad. G. Dottin (<em>L'Épopée irlandaise</em>, Paris, 1926).</aside>
+                      <aside id="note96" class="note note"><a class="noteback" href="4#note96_">96. </a>HUBERT, <em>op. cit</em>., II, pp. 243-244.</aside>
+                      <aside id="note97" class="note note"><a class="noteback" href="4#note97_">97. </a>Voir l'intéressante étude de M. Alexandre Haggerty-Krappe sur la <em>Légende de « Tannhäuser »</em> (<em>Mercure de France</em>, juin 1938). Le <em>Tannhäuser</em> du seizième siècle est une tardive adaptation allemande de légendes irlando-écossaises ; il ne doit rien aux influences courtoises. Le Montsalvat des Chastes (ou Cathares) y est remplacé par le Venusberg !</aside>
+                      <aside id="note98" class="note note"><a class="noteback" href="4#note98_">98. </a>Le <em>Tristan et Iseut</em> de THOMAS, traduction française par J Herbomez et R. Beaurieux, 1935.</aside>
+                      <aside id="note99" class="note note"><a class="noteback" href="4#note99_">99. </a>Il faudrait lire à ce sujet les deux gros volumes parus en 1953 de Gottfried WEBER, <em>Tristan und die Krise des Hochmittelalterlichen Weltbildes um 1200</em>. Ce travail infiniment méticuleux (aux répétitions épuisantes) d'un savant philologue allemand, apporte sur chacun des points touchés dans le présent chapitre une abondance de « preuves scientifiques » dont je m'étais fort bien passé en écrivant la première édition de ce livre, mais qui certes ne gâtent rien ! La comparaison poursuivie pendant des centaines de pages entre les conceptions religieuses de Gottfried et les doctrines d'Augustin, de Bernard, d'Hughes de Saint-Victor et d'Abélard, fait éclater le catharisme profond de Gottfried, et son anti-catholicisme (annonciateur de la Renaissance plus que de Luther, à mes yeux).</aside>
+                      <aside id="note100" class="note note"><a class="noteback" href="4#note100_">100. </a>Vers 15.733 à 15.747 du poème de Gottfried.</aside>
+                      <aside id="note101" class="note note"><a class="noteback" href="4#note101_">101. </a>Gnosticisme de Gottfried : comme les Carpocratiens, il semble croire que la « <em>purgatio</em> » de l'instinct tyrannique ne peut être obtenue qu'en cédant d'abord à l'instinct, mais en vue d'arriver à l'extase illuminative, qui conduit à l'union essentielle (non point épithalamique).</aside>
+                      <aside id="note102" class="note note"><a class="noteback" href="4#note102_">102. </a>Et Gottfried n'a-t-il pas imité le <em>sic et non</em> d'Abélard ? L'exemple de l'amour du docteur pour la Nonne n'a cessé de hanter l'auteur de la plus théologique des versions de <em>Tristan</em>.</aside>
+                      <aside id="note103" class="note note"><a class="noteback" href="4#note103_">103. </a>Un seul exemple : Gottfried v. 18352 à 57 « <em>Tristan und Isot, ir und ich</em>… <em>niwan ein Tristan und ein Isot</em> » et Wagner, II, 2, toute la fin de la scène : « <em>nicht mehr Tristan !… nicht mehr Isolde !</em> »</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="3" title="Livre premier – Le mythe de tristan">Livre premier  –   Le mythe de tristan</a> </div>
-                    <div class="next"> <a href="5" title="Livre III – Passion et mystique">Livre III  –   Passion et mystique</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -1480,9 +1557,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -1569,7 +1643,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/5" name="Livre III – Passion et mystique" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/5" name="Livre III – Passion et mystique" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -1587,11 +1661,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="4" title="Livre II – Les origines religieuses – du mythe">Livre II  –   Les origines religieuses  –   du mythe</a> </div>
-                    <div class="next"> <a href="6" title="Livre IV. Le mythe dans la littérature">Livre IV.  Le mythe dans la littérature</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Livre III <br class="lb"/> Passion et mystique<a class="bookmark" href="5"> §</a></h2>
                     <section id="body-3-1" class="div section level3">
@@ -1776,12 +1845,47 @@
                       <p class="p">Le dépassement, dès lors, n’est plus qu’exaltation du narcissisme. Il ne vise plus à la libération des sens, mais à la douloureuse <em>intensité</em> du sentiment. Intoxication par l’esprit.</p>
                       <p class="p">L’histoire de la passion d’amour, dans toutes les grandes littératures, du treizième siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note104" class="note note"><a class="noteback" href="5#note104_">104. </a>Philippe DE FÉLICE, <em>Poisons sacrés, ivresses divines, essai sur quelques formes inférieures de la mystique</em>, Paris, 1936.</aside>
+                      <aside id="note105" class="note note"><a class="noteback" href="5#note105_">105. </a>Il y a bien l'exemple de la <em>formica sanguinea</em>. Cet insecte entretient dans sa fourmilière un parasite à la sueur délicieuse, lequel finit par tout détruire. On a voulu comparer cette tendance morbide à l'alcoolisme. Tant que les fourmis ne parleront pas, toutes les hypothèses sont possibles !</aside>
+                      <aside id="note106" class="note note"><a class="noteback" href="5#note106_">106. </a>Voir Appendice 7.</aside>
+                      <aside id="note107" class="note note"><a class="noteback" href="5#note107_">107. </a>Voir Appendice 8.</aside>
+                      <aside id="note108" class="note note"><a class="noteback" href="5#note108_">108. </a>La Nuit obscure, de saint Jean DE LA CROIX, II, 1, 1<sup class="sup">er</sup> verset. Trad. Hoornaert.</aside>
+                      <aside id="note109" class="note note"><a class="noteback" href="5#note109_">109. </a>Ce n'est pas évident pour Eckhart (voir plus bas, chap. 3) mais bien pour sainte Thérèse qui y insiste en toute occasion. « Pour plaire à Dieu, pour recevoir de lui de grandes grâces, il faut, et telle est sa volonté, que ces grâces passent <em>par les mains</em> de cette humanité sacrée en laquelle il a déclaré lui-même prendre sa complaisance. »</aside>
+                      <aside id="note110" class="note note"><a class="noteback" href="5#note110_">110. </a>Nulle part, en effet, les généralisations ne se révèlent plus décevantes que dans l'étude des mystiques. Comme l'a fort bien noté J. BARUZI (<em>Saint Jean de la Croix</em>, p. 613) si nous tentions de prendre une vue générale des diverses mystiques connues, « l'expérience mystique ne nous semblerait d'un type homogène que dans la mesure où elle serait banale, dans la mesure où nous échouerions à la saisir. »</aside>
+                      <aside id="note111" class="note note"><a class="noteback" href="5#note111_">111. </a>Gotha 1929. Seul le livre célèbre de R. Otto sur le <em>Sacré</em> a paru jusqu'ici en traduction française.</aside>
+                      <aside id="note112" class="note note">
+                        <a class="noteback" href="5#note112_">112. </a>
+                        <span class="foreign EN-GB" lang="EN-GB">- « <em>Minne einiget nicht. Si einigt Wol an einem werke, niht an eine wesen</em>. »</span>
+                      </aside>
+                      <aside id="note113" class="note note"><a class="noteback" href="5#note113_">113. </a>Fin du sermon <em>Nisi granum frumenti</em>… « L'âme échappe à sa nature, à son être et à sa vie, et naît dans la Divinité. C'est là qu'est son devenir. Elle devient si totalement un seul être qu'il ne reste pas d'autre distinction que celle-ci : Lui demeure Dieu et elle demeure âme. » (Trad. Mayrisch Saint-Hubert.) Il faut bien dire que l'on se heurte dans tous les écrits d'Eckhart, à une équivoque sur le sens qu'il attribue à l'union (<em>Einung</em>). Toutefois un tel passage inclinerait à croire, avec Otto, qu'il ne s'agit nullement d'une fusion essentielle.</aside>
+                      <aside id="note114" class="note note">
+                        <a class="noteback" href="5#note114_">114. </a>
+                        <span class="foreign EN-GB" lang="EN-GB">- <em>Und diese Gleichheit aus dem Einen in das Eine mit dem Einen ist Quell und Ursprung der ausblühenden glühenden Liebe</em>.</span>
+                      </aside>
+                      <aside id="note115" class="note note"><a class="noteback" href="5#note115_">115. </a>B. GRŒTHUYSEN, dans <em>Hermès</em>, juillet 1937.</aside>
+                      <aside id="note116" class="note note"><a class="noteback" href="5#note116_">116. </a>Cité par BARUZI, <em>Saint Jean de la Croix</em>, p. 642. L'absence du langage « épithalamique » pourrait-elle être proposée comme un critère lorsqu'il s'agit de savoir si tel mystique croyait ou non à l'union essentielle ? Dans ce cas, la remarque de l'abbé Paquier servirait d'argument contre la thèse d'Otto, et nous induirait à ranger Maître Eckhart parmi les hérétiques.</aside>
+                      <aside id="note117" class="note note"><a class="noteback" href="5#note117_">117. </a>Un troubadour : « Amour ne me quitte ni bien ne peut m'avoir. »</aside>
+                      <aside id="note118" class="note note"><a class="noteback" href="5#note118_">118. </a>Th. LABANDE-JEANROY, <em>Les Mystiques italiens</em> (introduction à une anthologie).</aside>
+                      <aside id="note119" class="note note"><a class="noteback" href="5#note119_">119. </a>ID., <em>ibid</em>., et P. SABATIER, <em>Vie de saint François d'Assise</em>.</aside>
+                      <aside id="note120" class="note note"><a class="noteback" href="5#note120_">120. </a>B. DE LIGT, <em>la Paix créatrice</em>, II, p. 415.</aside>
+                      <aside id="note121" class="note note"><a class="noteback" href="5#note121_">121. </a>Saint François nommait le Frère Gilles « un paladin de sa Table Ronde », et les <em>miracles</em> du saint – comme la conversion du loup de Gubbio – se produisent dans les mêmes circonstances que les <em>prouesses</em> des chevaliers errants. Ils sont d'ailleurs rapportés par les auteurs des <em>Fioretti</em> sous une forme narrative consacrée, qui devait évidemment souligner le parallélisme, avec la chevalerie, aux yeux des lecteurs du treizième siècle.</aside>
+                      <aside id="note122" class="note note"><a class="noteback" href="5#note122_">122. </a><em>Ciascun amante</em>, danse de l'amour mystique. Voir aussi l'Appendice 9.</aside>
+                      <aside id="note123" class="note note"><a class="noteback" href="5#note123_">123. </a>On en trouvera d'ailleurs quelques éléments aux chap. VII du livre II et III-V, livre IV.</aside>
+                      <aside id="note124" class="note note"><a class="noteback" href="5#note124_">124. </a>Ce cri célèbre de sainte Thérèse fait écho à celui de la franciscaine Angèle de Foligno : « Je meurs du désir de mourir. »</aside>
+                      <aside id="note125" class="note note"><a class="noteback" href="5#note125_">125. </a>J. BARUZI, <em>Introduction à des recherches sur le langage mystique.</em> (Recherches philosophiques, I, 19.)</aside>
+                      <aside id="note126" class="note note"><a class="noteback" href="5#note126_">126. </a><em>Saint Jean de la Croix et l'expérience mystique</em>, p. 343.</aside>
+                      <aside id="note127" class="note note"><a class="noteback" href="5#note127_">127. </a>Maxime DE MONTMORAND, <em>Psychologie des mystiques catholiques orthodoxes</em>.</aside>
+                      <aside id="note128" class="note note"><a class="noteback" href="5#note128_">128. </a>Gaston ETCHEGOYEN, <em>L'Amour divin, essai sur les sources de sainte Thérèse</em>, IV<sup class="sup">e</sup> partie : l'Expression de l'amour divin.</aside>
+                      <aside id="note129" class="note note"><a class="noteback" href="5#note129_">129. </a>Travaux de Max Nordau, Krafft-Ebing, Murisier, Leuba, Freud, pour s'en tenir aux plus célèbres.</aside>
+                      <aside id="note130" class="note note"><a class="noteback" href="5#note130_">130. </a>Dans <em>Penser avec les mains</em>, II<sup class="sup">e</sup> partie.</aside>
+                      <aside id="note131" class="note note"><a class="noteback" href="5#note131_">131. </a>D<sup class="sup">r</sup> E. MINKOWSKI, <em>Vers une cosmologie</em>, chapitre sur la métaphore.</aside>
+                      <aside id="note132" class="note note"><a class="noteback" href="5#note132_">132. </a>Comme le font croire des expressions courantes telles que « aveuglé par la passion », « fou d'amour ».</aside>
+                      <aside id="note133" class="note note"><a class="noteback" href="5#note133_">133. </a>Surtout les épigones féminins : une Marguerite-Marie Alacoque au dix-septième siècle en fournit le plus inquiétant exemple (sa description du lit nuptial et de ce qui s'y passe !).</aside>
+                      <aside id="note134" class="note note"><a class="noteback" href="5#note134_">134. </a>Karl JASPERS a magnifiquement exprimé cette assomption finale de la Nuit par le Jour dans sa <em>Philosophie</em>. (Cf. trad. française par H. Corbin dans <em>Hermès</em>, I, 1938.)</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="4" title="Livre II – Les origines religieuses – du mythe">Livre II  –   Les origines religieuses  –   du mythe</a> </div>
-                    <div class="next"> <a href="6" title="Livre IV. Le mythe dans la littérature">Livre IV.  Le mythe dans la littérature</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -1794,9 +1898,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -1865,7 +1966,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/6" name="Livre IV. Le mythe dans la littérature" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/6" name="Livre IV. Le mythe dans la littérature" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -1883,11 +1984,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="5" title="Livre III – Passion et mystique">Livre III  –   Passion et mystique</a> </div>
-                    <div class="next"> <a href="7" title="Livre V – Amour et guerre">Livre V  –  Amour et guerre</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter">Livre IV<br class="lb"/>Le mythe dans la littérature<a class="bookmark" href="6"> §</a></h2>
                     <blockquote class="epigraph">
@@ -2446,12 +2542,74 @@
                       <p class="p">Les dernières formes de l’amour ont été balayées par la guerre. Et j’insisterai sur cet exemple symbolique : nous ne faisons plus de « déclarations d’amour » dans le même temps que nous admettons la guerre sans « déclaration » préalable. Nous revenons au stade du rapt, du viol, mais sans les rites qui accompagnaient ces actes chez les peuplades polynésiennes.</p>
                       <p class="p">Cette progressive profanation du mythe – sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note135" class="note note"><a class="noteback" href="6#note135_">135. </a>Je rappelle que j'emploie toujours ce mot au double sens de <em>sacrilège</em> et de <em>laïcisation</em> (ou « sécularisation »)  – pour ne pas recourir à « profanisation ».</aside>
+                      <aside id="note136" class="note note"><a class="noteback" href="6#note136_">136. </a>Voir Appendice 10.</aside>
+                      <aside id="note137" class="note note"><a class="noteback" href="6#note137_">137. </a>Sur les influences « hérétiques » qu'aurait subies Dante, voir Appendice 6.</aside>
+                      <aside id="note138" class="note note"><a class="noteback" href="6#note138_">138. </a>Béatrice a certainement existé, et Dante l'a certainement aimée. C'est donc d'une <em>sublimation</em> qu'il s'agit ici, à l'inverse de ce qui se passe chez de nombreux troubadours. Béatrice deviendra successivement la Philosophie, la Sagesse et la Science sacrée qui mène au Paradis et en explique les mystères.</aside>
+                      <aside id="note139" class="note note"><a class="noteback" href="6#note139_">139. </a>C. A. CINGRIA. <em>Pétrarque</em>.</aside>
+                      <aside id="note140" class="note note"><a class="noteback" href="6#note140_">140. </a>Sainte Thérèse : « Ces grâces sont accompagnées d'un entier détachement des créatures, quant à l'esprit… On se sent alors beaucoup plus étranger aux choses de la terre » et <em>passim !</em></aside>
+                      <aside id="note141" class="note note"><a class="noteback" href="6#note141_">141. </a>Il connaissait le roman et le cite plusieurs fois. Par exemple dans le <em>Triomphe de l'amour</em> : « Voici ceux qui remplissent de rêverie des livres – Tristan et Lancelot et les autres errants – auxquels il faut que le vulgaire errant se plaise ! »</aside>
+                      <aside id="note142" class="note note"><a class="noteback" href="6#note142_">142. </a>Sainte Thérèse : « C'est un martyre à la fois délicieux et cruel. »</aside>
+                      <aside id="note143" class="note note"><a class="noteback" href="6#note143_">143. </a>Sainte Thérèse : « L'âme… voudrait ne jamais voir finir son tourment » et : « Une fois livrée à ce supplice, elle voudrait y passer ce qui lui reste de vie. »</aside>
+                      <aside id="note144" class="note note"><a class="noteback" href="6#note144_">144. </a>Saint Jean de la Croix : « Ô brûlure suave ! » et tout le commentaire de ce vers dans la <em>Vive flamme d'amour</em> (II, 1).</aside>
+                      <aside id="note145" class="note note"><a class="noteback" href="6#note145_">145. </a>Sainte Thérèse : « De ce désir qui en un instant pénètre l'âme entière naît une douleur qui la transporte au-dessus d'elle-même et de tout le créé. Elle n'aspire qu'à mourir dans cette solitude. Qu'on lui parle et qu'elle-même se fasse toute la violence possible pour répondre : peine inutile, elle a beau faire, elle ne peut s'arracher à cette solitude. »</aside>
+                      <aside id="note146" class="note note"><a class="noteback" href="6#note146_">146. </a>Sainte Thérèse : « Quelle souveraineté que celle d'une âme qui portée à cette hauteur par Dieu lui-même, considère toutes choses sans être enchaînée par aucune. »</aside>
+                      <aside id="note147" class="note note"><a class="noteback" href="6#note147_">147. </a>Le <em>Déclin du moyen âge</em>.</aside>
+                      <aside id="note148" class="note note"><a class="noteback" href="6#note148_">148. </a>Selon A. JEANROY (<em>op. cit</em>., II, p. 130), on ne trouve aucune poésie spécialement consacrée à la Vierge avant le deuxième tiers du treizième siècle.</aside>
+                      <aside id="note149" class="note note"><a class="noteback" href="6#note149_">149. </a>Voir la <em>Croisade du Graal</em>, d'Otto RAHN, pour l'idée ou l'intuition, et <em>Tristan</em> de Gottfried WEBER, pour la démonstration dans le cas précis de Gottfried de Strasbourg.</aside>
+                      <aside id="note150" class="note note"><a class="noteback" href="6#note150_">150. </a>Nous avons déjà relevé l'influence de cette littérature sur sainte Thérèse et les mystiques espagnols en général.</aside>
+                      <aside id="note151" class="note note"><a class="noteback" href="6#note151_">151. </a><em>La Tragédie de Roméo et Juliette</em>, traduction P.-J. Jouve et G. Pitoëff.</aside>
+                      <aside id="note152" class="note note"><a class="noteback" href="6#note152_">152. </a>Floris DELATTRE, <em>Milton</em>, 1937. (Introduction à l'<em>Allegro</em>, au <em>Penseroso</em> et à <em>Samson Agonistes</em>.)</aside>
+                      <aside id="note153" class="note note"><a class="noteback" href="6#note153_">153. </a>Charles SOREL, auteur de <em>Francion</em>, avait écrit l'<em>Anti-Roman ou le Berger extravagant</em>, reprenant dans le registre burlesque, dit « réaliste », toutes les situations conventionnelles de l'<em>Astrée</em>. De même Scarron, etc.</aside>
+                      <aside id="note154" class="note note"><a class="noteback" href="6#note154_">154. </a>« Titus, qui aimait passionnément Bérénice, et qui même, à ce qu'on croyait, lui avait promis de l'épouser, la renvoya de Rome <em>malgré lui</em> et <em>malgré elle</em>, dès les premiers jours de son empire. » (Suétone, traduit par Racine, préface de <em>Bérénice</em>.)</aside>
+                      <aside id="note155" class="note note"><a class="noteback" href="6#note155_">155. </a>Hippolyte parlant d'Aricie, acte I<sup class="sup">er</sup>, scène 1<sup class="sup">re</sup> : « Dois-je épouser ses droits contre un père irrité ? »</aside>
+                      <aside id="note156" class="note note"><a class="noteback" href="6#note156_">156. </a>La confession du premier acte à la nourrice ; celle du deuxième à Hippolyte – « Hé bien ! connais donc Phèdre et toute sa fureur… » et l'aveu de Thésée, au cinquième acte.</aside>
+                      <aside id="note157" class="note note"><a class="noteback" href="6#note157_">157. </a>Nouvelle vérification de ce que nous disions à propos d'Eckhart : la mystique unitive ignore la <em>passion</em> divine.</aside>
+                      <aside id="note158" class="note note"><a class="noteback" href="6#note158_">158. </a><em>Doctrine fabuleuse</em>, publié en 1947.</aside>
+                      <aside id="note159" class="note note"><a class="noteback" href="6#note159_">159. </a>Celui de Mozart plutôt que celui de Molière, beaucoup moins significatif à mon avis, et qui d'ailleurs n'eut aucun succès au dix-septième siècle.</aside>
+                      <aside id="note160" class="note note"><a class="noteback" href="6#note160_">160. </a>L'abbé de Sade, propre oncle du marquis, est l'auteur d'un ouvrage intitulé : <em>Remarques sur les premiers poètes français et les troubadours</em>, et de trois volumes (anonymes) de <em>Mémoires sur Pétrarque</em>.</aside>
+                      <aside id="note161" class="note note"><a class="noteback" href="6#note161_">161. </a>« On a de SADE : <em>Juliette ou les malheurs de la vertu</em> (1791), puis <em>Justine ou les prospérités du vice</em>. C'est le contraire exactement (donc en psychanalyse, le contraire aussi de ce contraire, et ainsi de suite) des <em>Remèdes de l’une et l’autre fortune</em> de Pétrarque. » (C.-A. CINGRIA, <em>Pétrarque</em>.)</aside>
+                      <aside id="note162" class="note note"><a class="noteback" href="6#note162_">162. </a>Voir Appendice 11.</aside>
+                      <aside id="note163" class="note note">
+                        <p class="noindent"><a class="noteback" href="6#note163_">163. </a>Rappelons que l'amour fameux d'Abélard et Héloïse est <em>le premier exemple historique</em> de la passion dont nous parlons ici. Voici le <em>Chant funèbre</em> d'Héloïse composé (par elle-même ?) en vers latins (cité par Rémusat : <em>Abélard</em>, t. I). L'amante supplie :</p>
+                        <q class="quote">
+                          <div class="l">Soulage-moi de ma croix,</div>
+                          <div class="l">Conduis vers la lumière</div>
+                          <div class="l">Mon âme délivrée !</div>
+                        </q>
+                        <p class="p autofirst">Et le chœur des religieuses reprend :</p>
+                        <q class="quote">
+                          <div class="l">Qu'ils se reposent de leur labeur</div>
+                          <div class="l">Et de leur douloureux amour !</div>
+                          <div class="l">Ils demandaient l’union des habitants des cieux :</div>
+                          <div class="l">Déjà ils sont entrés dans le sanctuaire du Sauveur.</div>
+                        </q>
+                        <p class="p autofirst">Abélard répondit assez mal à cette passion. Mais sa théologie, fort hérétique, se rapproche sur des points essentiels de la doctrine spiritualiste des Cathares. Et dans ses <em>Lamentations</em>, il laisse échapper le grand cri du romantisme et de Tristan : « <em>Amoris impulsio, culpœ justificatio</em>. »</p>
+                      </aside>
+                      <aside id="note164" class="note note"><a class="noteback" href="6#note164_">164. </a>Est-ce la faute à Rousseau ? Ou plutôt au symbolisme ? Beaucoup de dames d'aujourd'hui croient que « mystique » signifie sentimental. Vitraux, pénombre bleue, arpèges, somnolence de l'esprit, rêverie des sens…</aside>
+                      <aside id="note165" class="note note"><a class="noteback" href="6#note165_">165. </a>W. Schlegel commença en 1808 une rédaction modernisée de <em>Tristan</em>. Puis Rückert, Immermann, Platen, bien d'autres, esquissèrent des <em>Tristan</em> (poèmes et drames). Le poème de Platen débute ainsi : « Celui dont les yeux ont une fois contemplé la beauté est déjà voué à la mort… »</aside>
+                      <aside id="note166" class="note note"><a class="noteback" href="6#note166_">166. </a>Les italiques sont dans le texte original.</aside>
+                      <aside id="note167" class="note note"><a class="noteback" href="6#note167_">167. </a>Autre vision manichéenne du monde : la grande œuvre du peintre Otto Runge, <em>les Quatre Saisons</em>, devait représenter les quatre saisons de l'esprit : le matin, qui est l'éclairage illimité de l'univers ; le jour, forme illimitée de la créature ; le soir, négation illimitée de l'existence à l'origine de l'univers ; la nuit, profondeur illimitée de la connaissance de Dieu, existence absolue. (Cf. Ricarda HUCH, <em>les Romantiques allemands</em>, p. 285).</aside>
+                      <aside id="note168" class="note note"><a class="noteback" href="6#note168_">168. </a>Tieck raconte l'histoire du troubadour Jauffré Rudel dans <em>Sternbald</em>, et caractérise longuement l'amour courtois dans le <em>Sabbat des sorcières</em> et dans <em>Phantasus</em>.</aside>
+                      <aside id="note169" class="note note"><a class="noteback" href="6#note169_">169. </a>Il faudra attendre un siècle pour en voir un : Bergson, disciple de Schelling.</aside>
+                      <aside id="note170" class="note note"><a class="noteback" href="6#note170_">170. </a>Voir le <em>Journal</em> de Novalis, et le portrait qu'il donne de sa fiancée perdue, Sophie von Kühn, morte à seize ans. Il note « ses plats préférés » et qu’ « elle boit volontiers du vin ». Le Français hausse les épaules devant de tels enfantillages.</aside>
+                      <aside id="note171" class="note note"><a class="noteback" href="6#note171_">171. </a>On lit dans le <em>Cantique des Cantiques</em> : « Levez-vous, aquilons, venez autans ! soufflez sur mon jardin pour que ses parfums se répandent ! » Et saint Jean de la Croix : « Viens, Auster qui réveille les amours, – Aspire à travers mon jardin – Et que s'en répandent les odeurs. » (<em>Cantico</em>, XXVI.)</aside>
+                      <aside id="note172" class="note note"><a class="noteback" href="6#note172_">172. </a>José ORTEGA Y GASSET, <em>Uber die Liebe</em>.</aside>
+                      <aside id="note173" class="note note"><a class="noteback" href="6#note173_">173. </a>Toute la différence entre la cristallisation et l'idéalisation courtoise tient en ceci : Stendhal sait qu'il y aura décristallisation (retour à la lucidité). Le contrepoison du philtre, pour lui, c'est l'infidélité. La tragédie tourne au vaudeville.</aside>
+                      <aside id="note174" class="note note"><a class="noteback" href="6#note174_">174. </a>Mélot le délateur, c'est le personnage constant des poèmes courtois que les troubadours nommaient le <em>lozengier</em>.</aside>
+                      <aside id="note175" class="note note"><a class="noteback" href="6#note175_">175. </a>Cf. chap. 11 livre II. Le roman est un poème qui n'exprime plus l'instant mais la durée.</aside>
+                      <aside id="note176" class="note note">
+                        <p class="noindent"><a class="noteback" href="6#note176_">176. </a>Surtout les décors réalistes que nos metteurs en scène s'obstinent à conserver (la décoration de la tente au premier acte, le lierre peint sur les murailles du burg au deuxième !) Il faudrait un décor simplifié à l'extrême, abstrait, métaphysique, rêvé. Il faudrait des acteurs hiératiques, et non pas cette interminable gesticulation de Tristan essoufflé sur sa couche, d'Isolde entravée par ses voiles…</p>
+                        <p class="p">Note de 1954 : la mise en scène nouvelle de <em>Tristan</em> à Bayreuth, œuvre de Wieland Wagner, comble les vœux que j'exprimais dans la première édition de ce livre ; elle permet d'assister les yeux ouverts au deuxième acte.</p>
+                      </aside>
+                      <aside id="note177" class="note note"><a class="noteback" href="6#note177_">177. </a>Guyon (d'où guyon : guide, en vieux français) c'est le <em>Führer</em> qui détient les secrets d'initiation à la voix divinisante.</aside>
+                      <aside id="note178" class="note note"><a class="noteback" href="6#note178_">178. </a>Héritage, dot, « situation » des conjoints, relations d'affaires, etc.</aside>
+                      <aside id="note179" class="note note"><a class="noteback" href="6#note179_">179. </a>Scène d'un roman de Caldwell intitulé la <em>Route au tabac</em>.</aside>
+                      <aside id="note180" class="note note"><a class="noteback" href="6#note180_">180. </a>On connaît la phrase d'un officier hitlérien : « Chaque fois que j'entends prononcer le mot <em>Geist</em> (esprit), j'arme mon revolver. »</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="5" title="Livre III – Passion et mystique">Livre III  –   Passion et mystique</a> </div>
-                    <div class="next"> <a href="7" title="Livre V – Amour et guerre">Livre V  –  Amour et guerre</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -2464,9 +2622,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -2574,7 +2729,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/7" name="Livre V – Amour et guerre" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/7" name="Livre V – Amour et guerre" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -2592,11 +2747,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="6" title="Livre IV. Le mythe dans la littérature">Livre IV.  Le mythe dans la littérature</a> </div>
-                    <div class="next"> <a href="8" title="Livre VI – Le mythe contre le mariage">Livre VI  –  Le mythe contre le mariage</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter">Livre V <br class="lb"/>Amour et guerre<a class="bookmark" href="7"> §</a></h2>
                     <section id="body-5-1" class="div section level3">
@@ -2738,12 +2888,30 @@
                       <p class="p">Ou bien ce sera la paix, et le problème renaîtra dans les pays totalitaires, comme il ne cesse de nous travailler dans nos sociétés libérales.</p>
                       <p class="p">C’est l’éventualité de la paix que j’envisagerai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <em>la</em> réponse décisive, que pour mon choix particulier.</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note181" class="note note"><a class="noteback" href="7#note181_">181. </a>On en aura un aperçu en lisant les ouvrages de Freud, et <em>L’instinct combatif</em> de Pierre BOVET.</aside>
+                      <aside id="note182" class="note note"><a class="noteback" href="7#note182_">182. </a><em>Défaite</em> se dit en allemand <em>Niederlage</em>, littéralement : position de qui gît à terre, de qui est couché au-dessous. (Cf. l'expression « avoir le dessous ».) Rappelons aussi le symbolisme de la Tour assiégée dans le <em>Roman de la Rose</em>, et l'expression « se faire des alliés dans la place ».</aside>
+                      <aside id="note183" class="note note"><a class="noteback" href="7#note183_">183. </a><em>Rodomontades espagnoles</em>.</aside>
+                      <aside id="note184" class="note note"><a class="noteback" href="7#note184_">184. </a><em>Le Déclin du moyen âge</em> par J. HUIZINGA. Cet ouvrage admirable par son information autant que par l'intelligence et la fécondité de ses vues critiques renouvelle notre conception du moyen âge en nous faisant pénétrer par mille chemins dans la vie quotidienne des bourgeois et des nobles de l'époque. Les passages entre guillemets de ce chapitre et du suivant sont des citations de la traduction française (Paris, 1932).</aside>
+                      <aside id="note185" class="note note"><a class="noteback" href="7#note185_">185. </a>Qu'on se reporte à notre analyse du mythe de Tristan : on y trouvera quelques illustrations typiques de ce passage (barons « félons », jugement par le fer, justification tantôt de l'adultère tantôt de la séparation des amants).</aside>
+                      <aside id="note186" class="note note"><a class="noteback" href="7#note186_">186. </a>Je serais assez tenté de voir dans la fonction dramatique du tournoi l'une des origines de la tragédie moderne. Celle-ci s'est constituée précisément à l'époque où les tournois passaient de mode, et où se dissociaient leurs éléments guerrier, sportif et théâtral. La tragédie serait ainsi une « action » privée du risque <em>physique</em> que comportait le tournoi, mais satisfaisant d'autant mieux le besoin d'émotion sentimentale et spirituelle.</aside>
+                      <aside id="note187" class="note note"><a class="noteback" href="7#note187_">187. </a>GUICHARDIN, <em>Histoire des Guerres d'Italie</em>, I, p. 2.</aside>
+                      <aside id="note188" class="note note"><a class="noteback" href="7#note188_">188. </a>Cité par Fred BÉRENCE, <em>Raphaël ou la puissance de l’esprit</em>.</aside>
+                      <aside id="note189" class="note note"><a class="noteback" href="7#note189_">189. </a><em>Die Kultur der Renaissance</em>, VI, p. 1.</aside>
+                      <aside id="note190" class="note note"><a class="noteback" href="7#note190_">190. </a>Il est juste toutefois de rappeler qu'on tuait facilement dans ce pays. Mais le meurtre y restait individuel. Alors que dans le monde militarisé, l'individu se voit privé de cette possibilité passionnelle, transférée à la seule collectivité. Cf. la <em>Défense du crime</em> par SADE.</aside>
+                      <aside id="note191" class="note note"><a class="noteback" href="7#note191_">191. </a><em>Op. cit</em>., I, 37-39. <em>Id</em>. pour les citations qui suivent.</aside>
+                      <aside id="note192" class="note note"><a class="noteback" href="7#note192_">192. </a>G. FERRERO, dans <em>la Fin des aventures</em>, note à juste titre qu'à la suite des dévastations qui marquèrent la guerre de Trente ans, les armées s'imposèrent « des règles et des limites qui répondaient en même temps à un principe moral et à une nécessité pratique ». Il s'agissait d'éviter des dépenses excessives – les hommes coûtant cher – et de ne pas effrayer les peuples au point de rendre impossible tout recrutement des volontaires…</aside>
+                      <aside id="note193" class="note note"><a class="noteback" href="7#note193_">193. </a>J. BOULENGER, <em>Le Grand Siècle</em>.</aside>
+                      <aside id="note194" class="note note"><a class="noteback" href="7#note194_">194. </a>F. FOCH, <em>les Principes de la Guerre</em> (1903, réédité en 1929).</aside>
+                      <aside id="note195" class="note note"><a class="noteback" href="7#note195_">195. </a>E. et J. DE GONCOURT, <em>la Femme au dix-huitième siècle</em>.</aside>
+                      <aside id="note196" class="note note"><a class="noteback" href="7#note196_">196. </a>Sur le sentimentalisme humanitaire qui accompagna la Terreur, voir le très curieux ouvrage d'André MONGLOND, <em>le Préromantisme français</em>.</aside>
+                      <aside id="note197" class="note note"><a class="noteback" href="7#note197_">197. </a>Je parle de cette chose abstraite et frappante, irréelle mais signifiante, qu'est <em>la moyenne des expressions</em> typiques de l'amour à une époque donnée – aussi irréelle et aussi signifiante dans le laid que dans le beau, pour la fin du dix-neuvième que pour le fameux « Grand Siècle », pour le vice que pour la vertu. Il est des « signes » qui ne sont pas toute l'époque – dans chacune il y a de tout – mais qui sont d'une époque plutôt que d'une autre. Je ne dis rien de plus ni rien de moins.</aside>
+                      <aside id="note198" class="note note"><a class="noteback" href="7#note198_">198. </a>Conclusion de l'enquête menée sous la conduite de Magnus Hirschfeld par une douzaine de savants allemands et autrichiens, et publiée sous le titre de <em>Sittengeschichte des Weltkriegs</em> (Histoire des mœurs pendant la guerre mondiale).</aside>
+                      <aside id="note199" class="note note"><a class="noteback" href="7#note199_">199. </a>Le lansquenet moderne, éprouvant que la guerre totale est une négation de la passion guerrière, se jette alors dans des aventures absurdes, qu'il recherche en tant qu'absurdes et inhumaines (voir <em>la Guerre notre Mère</em> d'Ernst JÜNGER et <em>les Réprouvés</em> d'Ernst VON SALOMON). On va se battre pour le plaisir, ou plutôt pour le désespoir, contre n'importe qui. Prolétariat guerrier des « volontaires » (Baltikum, Espagne, Chine). C'est la débauche désespérée et vénale de celui qu'a déçu la passion. Revanche sadique.</aside>
+                      <aside id="note200" class="note note"><a class="noteback" href="7#note200_">200. </a>BACHOFEN, (auteur du <em>Mutterrecht</em> : le Matriarcat) expose une théorie analogue à propos de la tragédie grecque, considérée comme l’<em>Auseinandersetzung</em> (la discussion, la querelle, l'explication) entre la communauté et les puissances du mythe.</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="6" title="Livre IV. Le mythe dans la littérature">Livre IV.  Le mythe dans la littérature</a> </div>
-                    <div class="next"> <a href="8" title="Livre VI – Le mythe contre le mariage">Livre VI  –  Le mythe contre le mariage</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -2756,9 +2924,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -2836,7 +3001,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/8" name="Livre VI – Le mythe contre le mariage" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/8" name="Livre VI – Le mythe contre le mariage" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -2854,11 +3019,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="7" title="Livre V – Amour et guerre">Livre V  –  Amour et guerre</a> </div>
-                    <div class="next"> <a href="9" title="Livre VII – L’amour action, ou de la fidélité">Livre VII  –  L’amour action, ou de la fidélité</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Livre VI <br class="lb"/>Le mythe contre le mariage<a class="bookmark" href="8"> §</a></h2>
                     <section id="body-6-1" class="div section level3">
@@ -2956,12 +3116,26 @@
                       <p class="p">Il s’agit bien plutôt de déchiffrer le message et de décoder patiemment les nouvelles ambiguës que la crise nous apporte sur nous-mêmes, sur nos vœux secrets, sur la tendance réelle, peut-être créatrice, que traduisent parfois nos révoltes, nos illusions naïves, nos péchés.</p>
                       <p class="p">Essayer de résoudre notre crise du mariage par des mesures morales, sociales ou scientifiques, déduites du seul désir d’arrêter les dégâts, ne serait-ce pas lui dénier arbitrairement le caractère qu’elle semble bien avoir : celui de la recherche, presque aveugle encore, d’un <em>nouvel équilibre du couple</em>. Équilibre tendu entre les exigences toujours simultanées, contraires et légitimes, de la stabilité et de l’évolution, de l’espèce et de l’individu, enfin de l’accomplissement de la personne et de l’Absolu qui seul la juge et la suscite.</p>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note201" class="note note"><a class="noteback" href="8#note201_">201. </a>Voir sur ce point : R. P. LAVAUD, <em>L’idée divine du mariage</em> (Études carmélitaines, avril 1938, p. 186.) Le sacrement catholique se justifierait soit par le récit du miracle de Cana (« simple hypothèse » dit l'auteur) ; soit par le passage où Jésus proclame que l'homme ne doit pas séparer ce que Dieu a uni ; soit par des entretiens de Jésus ressuscité et de ses disciples « que les évangélistes et les Actes mentionnent sans les rapporter en détail ». L'auteur n'indique rien de plus précis que ces trois « hypothèses » humaines pour fonder <em>bibliquement</em> le dogme traditionnel.</aside>
+                      <aside id="note202" class="note note"><a class="noteback" href="8#note202_">202. </a>Les gnostiques ont souvent exprimé cette opinion : « Les crimes sont un tribut payé à la vie. » (Carpocrates, cf. SCHULTZ, <em>Dokumente der Gnosis.</em>)</aside>
+                      <aside id="note203" class="note note"><a class="noteback" href="8#note203_">203. </a>Encore que la faute soit alors considérée moins par rapport à la morale en soi, que sous l'aspect du risque et du danger qu'elle fait courir à celui qui la commet. Tandis que du point de vue des vrais Cathares, nous l'avons vu, le véritable crime, c'est d'avoir « consommé » dans la chair cet adultère.</aside>
+                      <aside id="note204" class="note note"><a class="noteback" href="8#note204_">204. </a>L'aventure fameuse de la princesse de C… donna lieu au début du siècle à toute une littérature romanesque. Quant au thème de l'ouvrier ou du chauffeur qui « mérite » la fille du patron, il fut abondamment exploité par le film allemand, sous l'hitlérisme.</aside>
+                      <aside id="note205" class="note note"><a class="noteback" href="8#note205_">205. </a>Le titre d'un roman de Max BROD, <em>Die Frau nach der man sichsehnt</em> (la femme que l'on désire, la femme de notre nostalgie) est la meilleure définition d'Iseut. L'amour-passion veut « la Princesse <em>lointaine</em> » tandis que l'amour chrétien veut « le <em>prochain</em> ».</aside>
+                      <aside id="note206" class="note note"><a class="noteback" href="8#note206_">206. </a>Le <em>Dict de Padma</em>.</aside>
+                      <aside id="note207" class="note note"><a class="noteback" href="8#note207_">207. </a>L'encyclique <em>Casti connubii</em> a répondu à la décision des évêques anglicans dite de Lambeth. Les Congrès œcuméniques de Stockholm et d'Oxford (toutes les églises non romaines) ont également touché le problème.</aside>
+                      <aside id="note208" class="note note"><a class="noteback" href="8#note208_">208. </a>Il serait curieux de retrouver quel est l'auteur – évidemment moderne – qui a parlé le premier d'un « problème sexuel ». Fourier peut-être ? Ou Proudhon ? Cela doit se placer aux environs des années 1820-1830, pour une série de raisons sociologiques et économiques que je ne saurais exposer ici.</aside>
+                      <aside id="note209" class="note note"><a class="noteback" href="8#note209_">209. </a>En réalité, des phénomènes analogues affectèrent certaines jeunesses des pays bourgeois après la guerre. La différence est qu'en Russie on <em>affichait</em> des principes « émancipés » – qu'ailleurs on se bornait à vivre…</aside>
+                      <aside id="note210" class="note note"><a class="noteback" href="8#note210_">210. </a>Terme difficile à traduire, bien qu'il rappelle précisément les origines <em>romanes</em> (donc le Languedoc des troubadours) du sentiment qu'il désigne. C'est une combinaison à doses variables de sentimentalisme et de sexualité, de jeu et de tragique à bon marché, de <em>glamour</em> et de désir instinctif, de morale conformiste et d'aventure personnelle. C'est Hollywood.</aside>
+                      <aside id="note211" class="note note">
+                        <a class="noteback" href="8#note211_">211. </a>
+                        <span class="foreign EN-GB" lang="EN-GB">- <em>My girl and I want to get married. We're trying to locate a Justice of peace. Is it an emergency ?</em> Et le titre : <em>Love is classified as an emergency</em>.</span>
+                      </aside>
+                      <aside id="note212" class="note note"><a class="noteback" href="8#note212_">212. </a>Cf. Antwort auf Hiob, de C. G. JUNG (1952), ouvrage dans lequel l'auteur n'hésite pas à écrire que la proclamation en 1950 du dogme de l'Assomption de la Vierge marque l'événement religieux le plus important depuis la Réforme. Voir aussi l'étude d'Henry Corbin sur la <em>Sophia éternelle</em>, in <em>Revue de Culture européenne</em>, 5, 1953.</aside>
+                      <aside id="note213" class="note note"><a class="noteback" href="8#note213_">213. </a>Voir notamment, outre les ouvrages cités plus haut sur le catharisme et l'amour courtois, des livres comme <em>Arcane 17</em> d'André BRETON, les romans lyriques de Julien Gracq, les recherches de Robert Graves sur la Grande Déesse, et d'Adrian Turel sur le matriarcat.</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="7" title="Livre V – Amour et guerre">Livre V  –  Amour et guerre</a> </div>
-                    <div class="next"> <a href="9" title="Livre VII – L’amour action, ou de la fidélité">Livre VII  –  L’amour action, ou de la fidélité</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -2974,9 +3148,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -3039,7 +3210,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/9" name="Livre VII – L’amour action, ou de la fidélité" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/9" name="Livre VII – L’amour action, ou de la fidélité" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -3057,11 +3228,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="8" title="Livre VI – Le mythe contre le mariage">Livre VI  –  Le mythe contre le mariage</a> </div>
-                    <div class="next"> <a href="10" title="Appendices">Appendices</a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Livre VII <br class="lb"/>L’amour action, ou de la fidélité<a class="bookmark" href="9"> §</a></h2>
                     <section id="body-7-1" class="div section level3">
@@ -3193,12 +3359,31 @@
                       <div class="dateline">21 février-21 juin 1938 <br class="lb"/>
             <em>(Révision : 1954.)</em></div>
                     </section>
+                    <section class="footnotes">
+                      <aside id="note214" class="note note"><a class="noteback" href="9#note214_">214. </a>Je m'en tiens au cas-limite de <em>Tristan</em>. Il y a des cas de passion dans le mariage chrétien ; et des états de mariage dans la passion…</aside>
+                      <aside id="note215" class="note note"><a class="noteback" href="9#note215_">215. </a>Plus on s'écarte de l'<em>espèce</em> pour se rapprocher de la <em>personne</em>, plus le choix devient <em>singulier</em>. À cette personnalisation de l'être aimé correspond d'ailleurs une spécification croissante de l'instinct, à mesure que l'homme se virilise : c'est l'argument du D<sup class="sup">r</sup> Maranon en faveur de la monogamie.</aside>
+                      <aside id="note216" class="note note"><a class="noteback" href="9#note216_">216. </a>La gauloiserie n'étant pas moins que la passion une évasion hors du réel, une façon de l'idéaliser.</aside>
+                      <aside id="note217" class="note note"><a class="noteback" href="9#note217_">217. </a>J'emploie ce terme au sens actif et littéral, par opposition au sens devenu courant, de « préjugé », de « parti <em>imité</em> ».</aside>
+                      <aside id="note218" class="note note"><a class="noteback" href="9#note218_">218. </a>Voir le remarquable essai de R. DE PURY, <em>Éros et Agapè</em> dans le recueil collectif intitulé <em>Problèmes de la sexualité.</em> (Collection « Présences ») : « Un chrétien peut et doit accepter Éros en tant qu'Éros, et justement pas en tant qu'Éros sublimé. Éros n'est pas le péché ; le péché c'est la sublimation d'Éros ».</aside>
+                      <aside id="note219" class="note note"><a class="noteback" href="9#note219_">219. </a>Comme le croira cependant Novalis, renouvelant la mystique courtoise et les vieilles traditions celtiques.</aside>
+                      <aside id="note220" class="note note"><a class="noteback" href="9#note220_">220. </a>En quoi consiste le respect, au sens où je le prends ici ? En ce que l'on reconnaît dans un être la totalité d'une personne. La personne, selon la fameuse définition kantienne, c'est ce qui ne peut être utilisé par l'homme comme une chose, comme un instrument.</aside>
+                      <aside id="note221" class="note note"><a class="noteback" href="9#note221_">221. </a>Sur la liaison absolument fondamentale de la passion et du mensonge, voir <em>supra</em> chap. 10, livre I et p. 143.</aside>
+                      <aside id="note222" class="note note"><a class="noteback" href="9#note222_">222. </a>Je répète toutefois que le mariage ne saurait être fondé sur des « arguments » de ce genre. Il s'agit ici, simplement, d'un fait d'observation qui réfute les croyances courantes, nées du mythe de Tristan et de son négatif donjuanesque. Mais cette « raison » est tout à fait inefficace aux yeux de qui préfère le mythe et veut croire aux révélations de la passion.</aside>
+                      <aside id="note223" class="note note">
+                        <a class="noteback" href="9#note223_">223. </a>
+                        <span class="foreign EN-GB" lang="EN-GB">- B. CROCE, <em>Etica e Politica</em>.</span>
+                      </aside>
+                      <aside id="note224" class="note note"><a class="noteback" href="9#note224_">224. </a>Léo FERRERO, <em>Désespoirs</em>. Le problème de la passion est admirablement défini par ce petit livre dans ses données actuelles psychologiques. (Voir Appendice 4.)</aside>
+                      <aside id="note225" class="note note"><a class="noteback" href="9#note225_">225. </a>« L'idée antique du travail indigne de l'homme libre se retrouve dans la chevalerie », écrit Henri PIRENNE, <em>Histoire de l’Europe</em>, p. 113.</aside>
+                      <aside id="note226" class="note note"><a class="noteback" href="9#note226_">226. </a>Il y a l'<em>Apocalypse</em>, dira-t-on. Mais les catastrophes qu'elle annonce représentent notre <em>châtiment</em> et non pas notre délivrance. Ce n'est pas la mort, la désincarnation, qui est le salut ; mais l'acte de la grâce fait par Dieu.</aside>
+                      <aside id="note227" class="note note">
+                        <p class="noindent"><a class="noteback" href="9#note227_">227. </a>Faut-il aller encore plus loin que Kierkegaard dans le dépassement du « stade éthique » ? Il m'arrive de le pressentir, et de penser : du point de vue de la foi, il n'y a sans doute aucun profit au « règlement des mœurs » pour les non-chrétiens. C'est une façon de les mettre, au contraire, à l'abri du désespoir réel, humain, qui les conduirait à la foi. Une cure d'âme comprise non pas au sens d'une hygiène morale bourgeoise, mais au sens chrétien – la guérison à obtenir, c'est que l'infidèle croie – devrait conduire à désirer pour l'homme non-chrétien qu'il traverse tout le « bonheur » de la passion. Or on s'efforce de le retenir <em>en deçà</em>. Si bien que le seul <em>au-delà</em> concret qu'il soit en état de désirer, d'imaginer, c'est le « dérèglement des passions ».</p>
+                        <p class="p">Mais voilà ce qu'il faut ajouter : l'homme livré à ses dérèglements conçoit un désespoir dont le remède peut très bien lui apparaître : la loi. Or ce n'est que le renoncement à la loi <em>ainsi comprise</em> qui peut nous conduire à la foi.</p>
+                      </aside>
+                      <aside id="note228" class="note note"><a class="noteback" href="9#note228_">228. </a><em>Crainte et Tremblement</em>, traduit d'après la version allemande de E. GEISMAR et R. MARX.</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="8" title="Livre VI – Le mythe contre le mariage">Livre VI  –  Le mythe contre le mariage</a> </div>
-                    <div class="next"> <a href="10" title="Appendices">Appendices</a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -3211,9 +3396,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -3279,7 +3461,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/10" name="Appendices" package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/10" name="Appendices" package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -3297,11 +3479,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="9" title="Livre VII – L’amour action, ou de la fidélité">Livre VII  –  L’amour action, ou de la fidélité</a> </div>
-                    <div class="next"> <a href="11" title="Bibliographie ">Bibliographie </a></div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Appendices<a class="bookmark" href="10"> §</a></h2>
                     <section id="back-1-1" class="div section level3">
@@ -3440,10 +3617,6 @@
                     </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="9" title="Livre VII – L’amour action, ou de la fidélité">Livre VII  –  L’amour action, ou de la fidélité</a> </div>
-                    <div class="next"> <a href="11" title="Bibliographie ">Bibliographie </a></div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -3456,9 +3629,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
@@ -3536,7 +3706,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1956ao/11" name="Bibliographie " package="ddr1956ao" template="left_sidebar" pagetype="chapitre">
+    <page path="/livres/ddr1956ao/11" name="Bibliographie " package="ddr1956ao" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
@@ -3554,11 +3724,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <a class="booktitle" href="."><i>L'Amour et l'Occident</i> (1956)</a>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="10" title="Appendices">Appendices</a> </div>
-                    <div class="next"> </div>
-                  </nav>
                   <article>
                     <h2 class="head chapter uc">Bibliographie <a class="noteref" href="11#note229" id="note229_"><sup>229</sup></a><a class="bookmark" href="11"> §</a></h2>
                     <div class="listBibl">
@@ -4130,12 +4295,11 @@
                       </ul>
                     </div>
                     <p class="trailer">FIN</p>
+                    <section class="footnotes">
+                      <aside id="note229" class="note note"><a class="noteback" href="11#note229_">229. </a>Notice renouvelée à l’intention de la présente version.</aside>
+                    </section>
                   </article>
                   <aside class="bibl"><cite class="title">L'Amour et l’Occident</cite>, Paris, Plon, 1956.</aside>
-                  <nav class="prevnext">
-                    <div class="prev"><a href="10" title="Appendices">Appendices</a> </div>
-                    <div class="next"> </div>
-                  </nav>
                 ]]></content>
               </record>
             </data>
@@ -4148,9 +4312,6 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <figure>
-                    <img src="https://iiif.unige.ch/iiif/2/1072068135_037/full/pct:90/0/default.jpg"/>
-                  </figure>
                   <ul>
                     <li>
                       <a href="1#go1" id="go1">Avertissement</a>
