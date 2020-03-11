@@ -19,7 +19,25 @@ class C5pack
       foreach(glob($glob) as $srcfile) {
         $bookid = pathinfo($srcfile, PATHINFO_FILENAME);
         $bookid = strtok($bookid, '_');
+        $date = substr($bookid, 3, 4);
+
         $dom = self::dom($srcfile);
+        $xpath = new DOMXpath($dom);
+        $xpath->registerNamespace('tei', "http://www.tei-c.org/ns/1.0");
+
+        $title = "";
+        $nl = $xpath->query("/*/tei:teiHeader//tei:title");
+        if ($nl->length) $title .= $nl->item(0)->textContent;
+        $title .= " (".$date.")";
+        $php = file_get_contents(dirname(__FILE__)."/controller.php");
+        $version = date("y.m.d");
+        $php = str_replace(
+          array('%Class%', '%handle%', '%version%', '%title%'),
+          array(ucfirst($bookid), $bookid, $version, $title),
+          $php,
+        );
+
+
         $xml = self::transform(dirname(__FILE__).'/c5-chapitres.xsl', $dom, null, array('bookid' => $bookid));
         $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
 
@@ -30,8 +48,7 @@ class C5pack
           @chmod($dstdir, 0775);  // let @, if www-data is not owner but allowed to write
         }
         file_put_contents($dstdir.'/content.xml', $xml);
-        file_put_contents('/var/www/html/c5/packages/'.$bookid.'/content.xml', $xml);
-
+        file_put_contents($dstdir.'/controller.php', $php);
       }
     }
   }

@@ -1,12 +1,12 @@
 <?php
-namespace Concrete\Package\Ddr1956ao;
+namespace Concrete\Package\%Class%;
 
 use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = 'ddr1956ao';
-    protected $pkgVersion = '0.5.0';
+    protected $pkgHandle = '%handle%';
+    protected $pkgVersion = '%version%';
 
     public function getPackageName()
     {
@@ -15,7 +15,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-      return "l’Amour et l’Occident (1956)";
+      return "%title%";
     }
 
 
@@ -47,10 +47,10 @@ class Controller extends Package
     {
         $path = "/livres/".$this->pkgHandle;
         $pl = new \Concrete\Core\Page\PageList();
-        $pl->filterByPath($path, false);
+        $pl->filterByPath($path, true); // true = do not delete parent
         $pages = $pl->get();
         foreach ($pages as $page) {
-          $url = \URL::to($page);
+          // $url = \URL::to($page);
           // \Log::addWarning("url ? ".$url);
           $page->delete();
         }

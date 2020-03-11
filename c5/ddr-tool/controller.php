@@ -1,12 +1,12 @@
 <?php
-namespace Concrete\Package\Ddr1956ao;
+namespace Concrete\Package\Ddrtool;
 
 use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = 'ddr1956ao';
-    protected $pkgVersion = '0.5.0';
+    protected $pkgHandle = 'ddr-tool';
+    protected $pkgVersion = '0.0.1';
 
     public function getPackageName()
     {
@@ -15,7 +15,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-      return "l’Amour et l’Occident (1956)";
+      return "Rougemont, un paquet pour bricoler des trucs";
     }
 
 
@@ -27,14 +27,12 @@ class Controller extends Package
 
     public function upgrade()
     {
-        $this->delBook();
         parent::upgrade();
         $this->installXml();
     }
 
     public function uninstall()
     {
-        $this->delBook();
         parent::uninstall();
     }
 
@@ -43,15 +41,4 @@ class Controller extends Package
         $this->installContentFile('content.xml');
     }
 
-    protected function delBook()
-    {
-        $path = "/livres/".$this->pkgHandle;
-        $pl = new \Concrete\Core\Page\PageList();
-        $pl->filterByPath($path, true); // delete chapters
-        $pages = $pl->get();
-        foreach ($pages as $page) {
-          $url = \URL::to($page);
-          $page->delete();
-        }
-    }
 }
