@@ -31,6 +31,7 @@ class C5pack
         $title .= " (".$date.")";
         $php = file_get_contents(dirname(__FILE__)."/controller.php");
         $version = date("y.m.d");
+        // $version .= 1;
         $php = str_replace(
           array('%Class%', '%handle%', '%version%', '%title%'),
           array(ucfirst($bookid), $bookid, $version, $title),

@@ -154,12 +154,11 @@
               <record>
                 <content>
                   <article>
-                    <xsl:apply-templates/>
+                    <xsl:apply-templates>
+                      <xsl:with-param name="level" select="1"/>
+                    </xsl:apply-templates>
                     <xsl:call-template name="footnotes"/>
                   </article>
-                  <aside class="bibl">
-                    <xsl:copy-of select="$bibl"/>
-                  </aside>
                 </content>
               </record>
             </data>
