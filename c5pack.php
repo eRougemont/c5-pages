@@ -1,11 +1,69 @@
 <?php
-if (php_sapi_name() == "cli") C5pack::cli();
+
+if (php_sapi_name() == "cli") C5pack::articles();
 
 
 class C5pack
 {
   /** XSLTProcessors */
   private static $_trans = array();
+  
+  /**
+   * Command line transform
+   */
+  public static function articles($doctype = 'articles')
+  {
+  
+    array_shift($_SERVER['argv']); // shift first arg, the script filepath
+    if (!count($_SERVER['argv'])) exit("
+      php c5pack.php  ../ddr-articles/ddr-espr.xml\n");
+    foreach ($_SERVER['argv'] as $glob) {
+      foreach(glob($glob) as $srcfile) {
+        $filename = pathinfo($srcfile, PATHINFO_FILENAME);
+        
+        if ($doctype == "articles") {
+          $bookpath = "/articles/".substr($filename, 4);
+          $xsl = dirname(__FILE__).'/_engine/c5-articles.xsl';
+          $package = strtr($filename, array('-' => '_'));
+        }
+        else if ($doctype == "livres") {
+          $bookpath = "/livres/".strtok($filename, '_');
+          $xsl = dirname(__FILE__).'/_engine/c5-chapitres.xsl';
+          $date = substr($filename, 3, 4);
+          $package = strtok($filename, '_');
+        }
+
+        
+        $dom = self::dom($srcfile);
+        
+        $title = "";
+        $xpath = new DOMXpath($dom);
+        $xpath->registerNamespace('tei', "http://www.tei-c.org/ns/1.0");
+        $nl = $xpath->query("//tei:title[1]");
+        if ($nl->length) $title .= $nl->item(0)->textContent;
+        
+
+        $php = file_get_contents(dirname(__FILE__)."/_engine/controller.php");
+        $version = date("y.m.d");
+        $php = str_replace(
+          array('%Class%', '%handle%', '%version%', '%bookpath%', '%title%'),
+          array(ucfirst(strtr($package, array('_' => ''))), $package, $version, $bookpath, $title),
+          $php,
+        );
+
+        
+        $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath));
+        // contenus de page à encadrer de CDATA 
+        $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
+
+        $dstdir = dirname(__FILE__).'/'.$package;
+        self::mkdir($dstdir);
+        file_put_contents($dstdir.'/content.xml', $xml);
+        file_put_contents($dstdir.'/controller.php', $php);
+        
+      }
+    }
+  }  
 
   /**
    * Command line transform
@@ -29,9 +87,9 @@ class C5pack
         $nl = $xpath->query("/*/tei:teiHeader//tei:title");
         if ($nl->length) $title .= $nl->item(0)->textContent;
         $title .= " (".$date.")";
-        $php = file_get_contents(dirname(__FILE__)."/controller.php");
+        
+        $php = file_get_contents(dirname(__FILE__)."/_engine/controller.php");
         $version = date("y.m.d");
-        // $version .= 1;
         $php = str_replace(
           array('%Class%', '%handle%', '%version%', '%title%'),
           array(ucfirst($bookid), $bookid, $version, $title),
@@ -42,16 +100,19 @@ class C5pack
         $xml = self::transform(dirname(__FILE__).'/c5-chapitres.xsl', $dom, null, array('bookid' => $bookid));
         $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
 
-
         $dstdir = dirname(__FILE__).'/'.$bookid;
-        if (!is_dir($dstdir)) {
-          if (!@mkdir($dstdir, 0775, true)) exit(dirname($dstdir)." impossible à créer.\n");
-          @chmod($dstdir, 0775);  // let @, if www-data is not owner but allowed to write
-        }
+        self::mkdir($dstdir);
         file_put_contents($dstdir.'/content.xml', $xml);
         file_put_contents($dstdir.'/controller.php', $php);
       }
     }
+  }
+
+  public static function mkdir($dir)
+  {
+    if(is_dir($dir)) return false;
+    if (!@mkdir($dir, 0775, true)) exit($dir." impossible à créer.\n");
+    @chmod($dstdir, 0775);  // let @, if www-data is not owner but allowed to write
   }
 
   public static function dom($xmlfile)

@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+  <pages>
+    <page path="/articles/vp/19381125" name="Le temps des fanatiques (25 novembre 1938)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Le temps des fanatiques », La Vie protestante, Genève, 25 novembre 1938, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous sommes heureux de compter, parmi les amis et collaborateurs de la Vie protestante, M. Denis de Rougemont, le jeune auteur romand dont la réputation n’est plus à faire. Nous lui laissons volontiers la parole, convaincus que nos lecteurs, même s’ils sont étonnés de certaines de ses expressions, sauront comprendre le point de vue chrétien auquel il se place. »</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19381125vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">Le temps des fanatiques (25 novembre 1938)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#19381125"> §</a></h1>
+                    <p class="p autofirst">Ce ne sont plus des signes dans le ciel, mais des réalités terrestres et brutales qui nous avertissent aujourd’hui du caractère <em>religieux</em> de notre Histoire. Le fascisme est une religion, le communisme une antireligion. Croix gammée, faisceaux de licteur, faucille et marteau : trois cents millions de nos contemporains, s’ils ne portent pas sur eux cette Marque, se voient rejetés de la Cité.</p>
+                    <p class="p">Alors les amateurs de clés de l’Apocalypse disent aux chrétiens : Voici la Bête ! Et la guerre que vous ferez contre elle, au nom du Christ, sera vraiment une guerre sainte.</p>
+                    <p class="p">Trois fois déjà, depuis vingt ans, on nous a sommés de choisir entre le Mal et le Bien incarnés. « Au nom du Christ ; nous disait-on, en avant contre les Soviets ! Haro sur les rouges d’Espagne ! Déclarez la guerre à Hitler ! Ils persécutent les Églises chrétiennes. Lutter contre eux, c’est embrasser le parti du Bien. » Et nous voici embrigadés dans la « Croisade » — moralement, cela va sans dire… Dès lors, nous sommes en règle avec notre conscience. Il n’y a plus à discuter. Le temps des nuances est passé. L’état de siège est proclamé. Et celui qui demande à voir, celui qui estime encore que tout n’est pas si clair, ni si simple, ni si tranché, se voit aussitôt suspecté de connivence avec les « méchants ». Il fait leur jeu, dit-on, même s’il se croit sincère. C’est un naïf, ou un rusé, ou bien un lâche…</p>
+                    <p class="p">Eh bien, tant pis pour moi ! Je demande à voir. Si l’on veut m’engager au nom du Christ, mon seul salut, j’ai même le devoir d’y regarder à deux fois avant de donner mon adhésion. Que voulez-vous, je suis calviniste, et quand on me dit : Ceux-ci sont des méchants, je veux bien le croire, mais je demande : Parmi ceux-là qui les attaquent, n’y aurait-il par hasard que des chrétiens ? Quand on me dit que les communistes sont des sans-Dieu, je ne dis pas non, je ne suis pas illettré ; mais je me demande si le trust des pétroles, qui mène la lutte contre la Russie rouge dans toute la presse qu’il possède en Europe, le fait vraiment au nom de l’Évangile ? Et je me demande si cet ordre établi que l’on nous invite à défendre, et qui comporte entre autres éléments le chômage et la prostitution, se fonde vraiment sur l’Évangile ? Quand on me dit que les rouges d’Espagne brûlent les églises, je ne dis pas non : ils s’en vantent eux-mêmes. Mais je me demande si les soutiens de M. Franco, qui sont le Duce et le Führer, ne le soutiennent vraiment qu’au nom du Christ ? Pourquoi donc ces dictateurs iraient-ils protéger en Espagne une Église qu’ils attaquent chez eux ? Et quand on me dit, d’un autre côté cette fois : Vous voyez bien, les dictateurs sont les ennemis du christianisme ! — je ne dis pas non, je les ai vus de près. Mais je me demande si le maintien de l’empire anglais et de l’hégémonie française est une part indiscutable et révélée du plan de Dieu pour notre époque ? Je me demande si la campagne en faveur du « réarmement » résulte vraiment et d’abord d’un sursaut de la conscience chrétienne ? Où peut aller cette « croisade » qui réjouit tant M. Staline…</p>
+                    <p class="p">Alors on me dit : Vous parlez politique, quand il s’agit de sauver l’Église. À quoi je réponds : Croyez-vous, chers amis, que vous n’en parlez pas vous-mêmes ? Les chrétiens qui se lancent dans une croisade ne le font-ils que pour sauver l’Église ? Et même dans ce cas, est-ce une raison pour renoncer à toute clairvoyance ? À toute honnête information ? Le fanatisme et le simplisme, voilà ce que le Diable juge assez bon, de nos jours, pour attraper les enfants de la Lumière !</p>
+                    <p class="p">J’aimerais beaucoup qu’on ne déduise pas de ces propos qu’à mon avis les chrétiens doivent se taire, se retirer dans une neutralité plaintive, et laisser le pauvre monde se débrouiller. Je suis tout prêt, en ce qui me concerne, à prendre énergiquement parti après une enquête loyale. Mais de grâce, qu’on ne mêle pas tout <em>sous prétexte</em> de christianisme ! Qu’on n’appelle pas « croisade » ou « guerre sainte » des entreprises qui, du point de vue de l’Évangile, resteront toujours profondément impures. Surtout, que l’on nous laisse, à nous chrétiens, le privilège de plus en plus dangereux de <em>reconnaître les péchés du parti que nous adoptons</em>. Car je vois que tous les partis sont, dans le fait, au service de grandes religions adversaires de la foi chrétienne : Prolétariat, Empire, Race, Droits de l’Homme, Argent. Donc il n’y a pas de <em>causes justes</em>, même s’il y en a de moins injustes, relativement. Donc il ne peut y avoir de <em>guerres saintes</em>. Et notre dernier mot, comme chrétiens, ne peut pas être « la guerre sainte » ni davantage « la paix à tout prix ». Il doit être et rester : vigilance. Dans cette nuit universelle où la Colère de Dieu sévit par les mains de quelques tyrans, on demande au chrétien comme jadis au Prophète : « Sentinelle, que dis-tu de la nuit ? — La sentinelle a répondu : le matin vient et la nuit aussi ! Si vous voulez interroger, interrogez ! Convertissez-vous et revenez ! »</p>
+                    <p class="p">Évasion ? Non pas. Réalisme. La force <em>réelle</em> des tyrans est religieuse. Et la foi seule peut vaincre une religion païenne.</p>
+                    <section class="footnotes">
+                      <aside id="note1" class="note bottomnote"><a class="noteback" href="#note1_">a. </a>« Le temps des fanatiques », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 25 novembre 1938, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous sommes heureux de compter, parmi les amis et collaborateurs de la <em>Vie protestante</em>, M. Denis de Rougemont, le jeune auteur romand dont la réputation n’est plus à faire. Nous lui laissons volontiers la parole, convaincus que nos lecteurs, même s’ils sont étonnés de certaines de ses expressions, sauront comprendre le point de vue chrétien auquel il se place. »</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/193901" name="Nicolas de Flue et la tradition réformée (1er septembre 1939)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Nicolas de Flue et la tradition réformée », La Vie protestante, Genève, 1er septembre 1939, p. 8.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19390901vp_01.jpg/full/full/0/default.jpg" id="p.8">[p. 8]</a>
+                    <h1 class="head article">Nicolas de Flue et la tradition réformée (1<sup class="sup">er</sup> septembre 1939)<a class="noteref" href="#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="#193901"> §</a></h1>
+                    <p class="p autofirst">Tout ce que le Suisse romand moyen connaît de Nicolas de Flue, c’est que ce pieux ermite vint à la Diète de Stans pour apaiser les deux partis confédérés, à la veille d’une guerre civile. Quant au reste de la vie de Nicolas, on l’ignore très généralement. Il n’en va pas de même chez nos confédérés des petits cantons. Et c’est pourquoi les catholiques n’ont pas eu de peine à s’annexer le « frère Claus », cependant que les protestants l’abandonnaient sans grand chagrin. Situation très paradoxale, si l’on songe qu’au <span class="num">xvie</span> siècle, Nicolas fut revendiqué par tous les réformés de Suisse comme l’un de leurs plus grands précurseurs. Il m’a paru que la question méritait bien d’être reprise, du point de vue d’un réformé du <span class="num">xxe</span> siècle. D’où la première étude d’ensemble que viennent de publier les <em>Cahiers Protestants</em>. Je suis heureux de l’occasion qui m’est offerte de préciser ici les résultats de mon enquête.</p>
+                    <section id="body-2-1" class="div level2 level2">
+                      <h2 class="head">Une solitude active<a class="bookmark" href="#body-2-1"> §</a></h2>
+                      <p class="p autofirst">Rappelons d’abord quelques faits importants. Nicolas de Flue ne devint ermite qu’après avoir atteint sa cinquantième année. Né au début du <span class="num">xve</span> siècle d’une famille paysanne de l’Obwald, il avait été capitaine, puis juge de paix, puis simple agriculteur, marié et père de dix enfants, lorsqu’il crut devoir obéir à l’appel de la solitude. C’est donc au terme d’une féconde carrière qu’il parvint à cette décision, non sans avoir mûrement pesé son acte et obtenu le consentement des siens. Nous ne sommes pas en présence d’un pauvre illuminé, mais d’un solide confédéré qui a fait ses preuves dans la vie quotidienne. Notons ensuite qu’au lieu d’entrer dans un couvent, Nicolas se retire dans une cabane construite non loin de sa ferme, au Ranft. Il y mènera jusqu’à sa mort la vie d’un pieux laïc et non d’un moine, parfois même suspecté par l’Église qui se méfie de cet « irrégulier ». Ne dit-on pas que, durant les vingt ans de sa retraite, il n’a pris d’autre nourriture que l’hostie, une fois par semaine ? L’évêque et les autorités ont bien tenté de l’espionner : jamais on ne l’a trouvé en faute. Entouré du respect de ses concitoyens, il reçoit chaque jour des visites, donne des conseils d’une grande sagesse pratique et participe si bien à la vie de son peuple que le simple message qu’il transmettra aux députés, lors de la fameuse Diète de Stans, sauvera la situation <em>in extremis</em>. Il n’aura pas besoin de paraître en personne ; son conseil suffira, et son autorité, pour calmer les passions déchaînées. Le Solitaire est donc devenu la principale force morale et politique de toute la Confédération.</p>
+                      <p class="p">Deux faits surtout méritent de nous retenir, dans ce bref memento biographique.</p>
+                      <p class="p">1° Malgré l’extrême rigueur de ses « pratiques », Nicolas n’a pas pu trouver la paix de son âme dans le monde. Il a dû se retirer et vivre en marge des conditions normales de l’existence. Signe du désarroi intime où la piété de l’Église non réformée laissait les âmes, les plus exigeantes, privées de tout contact direct avec la Bible.</p>
+                      <p class="p">2° Dans son ermitage du Ranft, Nicolas ne s’est pas abandonné aux « saintes délices » de la contemplation. Il ne s’est libéré de certaines servitudes que pour mieux servir le Seigneur dans la personne de son prochain. II n’a renoncé à ses travaux de paysan que pour mieux travailler au bien de tous. En fin de compte, sa retraite hors du monde n’a pas anéanti, mais décuplé son action pratique sur le monde. Ce dernier point est capital. Car, après tout, si Nicolas est l’un des Pères de notre Confédération, c’est à son <em>action</em> qu’il le doit. S’il n’avait été qu’un ascète, nous ne saurions plus rien de lui. C’est pourquoi les réformateurs insistèrent à bon droit sur son rôle politique, tandis que les catholiques préféraient s’en tenir à l’éloge de son jeûne et de ses visions.</p>
+                    </section>
+                    <section id="body-2-2" class="div level2 level2">
+                      <h2 class="head">Nicolas et les réformés<a class="bookmark" href="#body-2-2"> §</a></h2>
+                      <p class="p autofirst">Mort en 1487, c’est-à-dire trente ans avant la Réforme, Nicolas appartient à l’héritage commun des catholiques et des protestants suisses. Mais dès les premiers jours de la Réforme, la question se posa de savoir auquel des deux camps en présence son souvenir servirait de patronage. Si nous lisons les recueils de sources sur <em>Bruder Klaus</em> publiés par Dürrer en 1921, nous constatons que, dans l’ensemble, les positions furent très vite prises, et très nettement. « Tandis qu’à la manière traditionnelle — écrit le catholique Dürrer — les réformés gardaient avec reconnaissance le souvenir de l’action politique de Nicolas, Pacificateur des cantons et adversaire du régime des pensions, la Contre-Réformation insistait exclusivement sur l’aspect religieux du frère Claus, considéré comme témoin de l’ancienne foi, héraut de l’Eucharistie et prophète des malheurs dus à la Réforme. Pour des fins partisanes non dissimulées, les politiciens des cinq cantons catholiques cherchent leur salut dans des soutiens extérieurs, et les publicistes jésuites, pour la plupart étrangers, tentent d’éluder l’action politique du frère Claus. Ils ne signalent pas l’événement de la Diète de Stans, ni le patriotisme confédéral de Nicolas, qui incommodaient au suprême degré ces hommes d’état enrichis par les pensions et le service étranger. (R. Dürrer : <em>Bruder Klaus</em>, t. II, p. 851.)</p>
+                      <p class="p">Rien d’étonnant, dès lors, si les premières biographies sérieuses de Nicolas sont dues à la plume de disciples ou d’amis des réformateurs : Myconius, de Zurich ; Ritter, de Saint-Gall ; Valerius Anshelm, de Berne (dès 1529) ; Stumpf, pasteur à Stein, et, finalement, Bullinger lui-même, le célèbre successeur de Zwingli. Tous ces auteurs admettent et louent le miracle du jeûne prolongé de Nicolas. Seul le mystique luthérien Sébastien Franck dit à la fin de sa chronique : « Qu’il n’ait rien mangé, je ne puis le croire : les Suisses eux-mêmes ne l’affirment et ne le croient pas. » Rappelons que lorsqu’on demandait à Nicolas comment il pouvait vivre « sans nourriture corporelle », il se bornait à dire : « Dieu le sait… »</p>
+                      <p class="p">Rien d’étonnant non plus si, en 1522, un pamphlet catholique anonyme se plaint de ce que les réformés invoquent sans cesse les conseils de l’ermite dès qu’il s’agit des affaires publiques. Après tout, dit l’auteur, à quoi se résument ces conseils ? À ceci : « <em>que chacun doit rester sur son fumier</em> » ! Mais Nicolas n’a-t-il pas dit aussi qu’il fallait garder l’« ancienne foi » ! Voilà le conseil que les protestants devraient suivre !</p>
+                      <p class="p">Ce dernier argument ayant été repris par le catholique Faber, Zwingli réplique en 1526 :</p>
+                      <blockquote class="quote">Pieux confédérés, Faber adjure Zurich de conserver l’ancienne foi des cantons : mais vous savez très bien que Zurich seule garde le souci de la vieille foi, celle des saints apôtres et de nos ancêtres ! Car c’est par la seule force de Dieu que nos ancêtres se sont libérés des maîtres que Faber sert aujourd’hui… Si nous suivions les conseils du frère Claus, nous serions délivrés de ces valets qui, sous prétexte de foi, trafiquent et jettent la discorde parmi nous.</blockquote>
+                      <p class="p autofirst">Plusieurs fois déjà, dans ses sermons, Zwingli avait cité avec éloges le « pieux frère Claus von Unterwalden ». Les autres réformateurs de la Suisse allemande en font autant. Joachim von Watt, ou Vadian, le savant humaniste fondateur de l’Église de St-Gall, décrit la vie de Nicolas dans un ouvrage sur la <em>Vie monacale</em>. Il insiste sur le fait que l’ermite n’a nullement rompu ses liens avec sa paroisse, mais, au contraire, n’a cessé de visiter les malades et de venir en aide aux affligés ; « de plus, ajoute-t-il, il n’a pas établi sa demeure tout à fait à l’écart du monde, mais au contraire près des habitations de sa famille et de sa parenté. »</p>
+                      <p class="p">En 1556, Matthias Flacius l’Illyrique, le père de l’histoire de l’Église chez les protestants, fait l’éloge de Nicolas dans un ouvrage au titre significatif : « <em>Catalogue des témoins de la foi qui se sont dressés, avant Martin Luther, contre le pape et ses erreurs</em> ». Enfin, s’il était besoin d’une attestation plus décisive encore, voici celle de Luther en personne. Il écrit dans une lettre à Speratus : « <em>Joignez le frère Claus à tous ceux qui ont témoigné pour le Christ contre l’Antéchrist</em>. »</p>
+                    </section>
+                    <section id="body-2-3" class="div level2 level2">
+                      <h2 class="head">Nicolas et le théâtre protestant<a class="bookmark" href="#body-2-3"> §</a></h2>
+                      <p class="p autofirst">L’une des meilleures preuves de l’adoption spontanée de Nicolas non seulement par les docteurs réformés, mais par les populations protestantes, je la trouve dans le théâtre de l’époque.</p>
+                      <p class="p">Voici tout d’abord deux satires dialoguées, datées de 1526 et de 1538 ; elles font intervenir l’ermite du côté des réformés, ennemis du régime des pensions. Il s’agit là de pièces d’actualité, d’intentions nettement polémiques.</p>
+                      <p class="p">Beaucoup plus vaste est la portée d’un mystère intitulé <em>Le Miroir du Monde</em>, qui fut joué à Bâle en 1550. Ce premier drame sur Nicolas de Flue est l’œuvre d’un protestant, l’Alsacien Valentin Boltz. Il ne comptait pas moins de 149 rôles parlés, et sa représentation demanda deux jours pleins, nous dit Dürrer. Nicolas y personnifie l’idée confédérale, créatrice de la Suisse. Autour de lui, gravitent des figures symboliques ou historiques : les Treize Cantons, des apôtres, des prophètes et des représentants de la hiérarchie catholique.</p>
+                      <p class="p">Au premier acte, on voit les évêques et les moines chassés de la scène à coups de fouet par le prophète Elie. Puis les cantons personnifiés viennent discuter le renouvellement de l’ancienne alliance confédérale. Nicolas invoque Moïse, qui lui répond longuement en décrivant la corruption d’Israël et la nécessité d’une piété purifiée et « sérieuse ». Au dernier acte, après que la Mort ait accompli son Jugement, les Treize Cantons reparaissent et loue la sagesse du frère Claus. Les cantons catholiques reconnaissent qu’il avait eu raison de les mettre en garde contre les vaines richesses, les prières des lèvres, les « vêtements étrangers » et les doctrines qu’on ne met pas en pratique. Les cantons protestants, pour leur part, se repentent de leur orgueil. Et Nicolas, une dernière fois, les adjure de garder le Pacte dans l’amour fraternel et la vigilance. Puis il salue l’ange de Dieu qu’il voit venir à sa rencontre.</p>
+                      <p class="p">Les satires zwingliennes et le mystère de Valentin Boltz devaient être à l’origine d’une riche tradition dramatique. Mais à partir de la fin du <span class="num">xvie</span> siècle, les pièces d’inspiration catholique deviendront de beaucoup les plus nombreuses. (La première en date, celle du jésuite Jacob Gretser, fut jouée à Lucerne en 1586. Le rôle politique de Nicolas n’y est même pas mentionné !) N’y a-t-il pas là une grande anomalie ? Car, enfin, l’élément le plus <em>spectaculaire</em> de la vie de Nicolas réside dans son intervention politique. Or c’est précisément ce trait que les premiers réformés ont souligné. Ne conviendrait-il pas que les protestants, de nos jours, s’avisent de renouer <em>leur</em> tradition de Nicolas, et précisément au théâtre ?</p>
+                      <p class="p">C’est dans cette idée que j’ai conçu, en septembre dernier, la légende dramatique qui sera joué — Dieu voulant ! — à l’Exposition de Zurich. J’ai tenté de réintégrer Nicolas dans l’actualité la plus brûlante de notre siècle : il n’était que de mettre en relief les traits de cette figure qui frappèrent particulièrement nos ancêtres réformés. Toute ma pièce est donc centrée sur la <em>vocation</em> exceptionnelle de l’ermite, c’est-à-dire sur le rôle civique que sa retraite lui permit de jouer.</p>
+                      <p class="p">Nicolas ne pouvait pas lire la Bible, mais il aimait à en citer les versets qu’on lui avait enseignés. Je l’ai fait parler le plus possible en style biblique, conscient de me ranger ainsi dans la vraie tradition du théâtre protestant, telle que l’illustre, par exemple, l’<em>Abraham sacrifiant</em> de Théodore de Bèze. Nicolas de Flue, me dira-t-on, n’est pas un « sujet protestant » ? Eh quoi ! Abraham non plus n’était pas calviniste. Ce qui caractérise un drame protestant, c’est bien moins le sujet que le style, l’inspiration biblique, au premier chef.</p>
+                      <p class="p">Ces quelques mots sont bien rapides, je le sens. Je les termine dans l’angoisse d’une crise qui recrée, à l’échelle mondiale, le drame de la Diète de Stans. Notre Europe trouvera-t-elle son pacificateur ? Le mérite-t-elle encore ? Saura-t-elle l’écouter ? Puisse du moins le souvenir de Nicolas de Flue nous faire comprendre que le paix n’est jamais le résultat de nos calculs, mais le miracle de Dieu seul, et la victoire de Sa miséricorde.</p>
+                    </section>
+                    <section class="footnotes">
+                      <aside id="note2" class="note bottomnote"><a class="noteback" href="#note2_">a. </a>« Nicolas de Flue et la tradition réformée », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 1<sup class="sup">er</sup> septembre 1939, p. 8.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19400315" name="De Luther à Hitler (15 mars 1940)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« De Luther à Hitler », La Vie protestante, Genève, 15 mars 1940, p. 1.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19400315vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">De Luther à Hitler (15 mars 1940)<a class="noteref" href="#note3" id="note3_"><sup>a</sup></a><a class="bookmark" href="#19400315"> §</a></h1>
+                    <p class="p autofirst">Nous n’avons plus le droit de nous tromper dans nos jugements sur les choses allemandes. Toute erreur, si minime soit-elle, toute appréciation erronée des origines, des fins et de la pratique hitlériennes, non seulement affaiblissent la résistance actuelle aux doctrines totalitaires, mais compromettent les chances d’une solution prochaine, équitable pour tous, et englobant les pays germaniques.</p>
+                    <p class="p">Or l’erreur qui consiste à placer Luther au début d’une évolution dont Hitler serait le terme, ce n’est pas une erreur minime. Elle résulte tantôt d’une mauvaise foi consciente, et qui se voudrait « machiavélique », tantôt d’une ignorance inqualifiable des faits les plus notoires et les plus importants de notre histoire occidentale. J’estime qu’elle a suffisamment duré. Je suis prêt à la dénoncer dans toutes les revues et dans tous les journaux qui veulent bien publier ma prose.</p>
+                    <p class="p">Il est bien clair que les milieux où cette erreur est professée y voient une arme non pas contre l’Allemagne, mais d’abord contre la Réforme : l’assimilation grossière de Luther à Hitler n’est évidemment pas destinée à diminuer le prestige du second, mais bien à englober le premier dans la réprobation que provoque le racisme. Est-ce une tactique adroite et justifiable, au moment où toutes les Églises sont appelées, par ailleurs, à faire un « front commun » contre la religion totalitaire ?</p>
+                    <p class="p">L’auteur d’un livre récent sur l’Allemagne écrit que la nation éduquée par Luther « était prête à se donner à n’importe quel despote, pourvu qu’il fût Allemand et protestant ». Or le despote est venu, cher M. de Reynold : il était Autrichien et catholique.</p>
+                    <p class="p">Un billet, s’il vous plaît, au Suisse inquiet, au protestant scandalisé que je suis, pour expliquer cette affligeante contradiction.</p>
+                    <p class="p">D’autre part, où prend-on que Luther ait formé l’Allemagne moderne ? Comment sa doctrine centrale de la justification par la foi pourrait-elle avoir engendré la doctrine hitlérienne centrale de l’action pure, du mouvement pur, privé de toutes fins transcendantes, telle que j’ai pu la voir à l’œuvre et telle que je l’ai décrite en plus d’un livre ? Certes, on pourra toujours faire jouer la balançoire dialectique : le blanc conduit au noir, le bien au mal, la foi pure de Luther à l’action pure d’Hitler. Mais c’est une douteuse méthode entre les mains des défenseurs de la « Raison » et de la « claire latinité » que veulent être M. de Reynold, M. Massis, M. Maurras. J’y vois tout au plus un moyen d’esquiver des questions plus directes. Ces questions, je les repose ici. On pourra différer d’avis sur les conséquences des réponses. Mais il faut répondre d’abord.</p>
+                    <p class="p">Oui ou non, Niemöller est-il bon luthérien ? Oui ou non, le Führer est-il né catholique ? Oui ou non, le second a-t-il fait emprisonner le premier ?</p>
+                    <p class="p">Oui ou non, l’Allemagne pré-hitlérienne fut-elle gouvernée par Brüning, chef du parti du centre catholique ? Oui ou non, l’intronisation d’Hitler est-elle le fait de von Papen, catholique ?</p>
+                    <p class="p">Oui ou non, l’Allemagne comptait-elle, depuis des siècles, 38 % de catholiques (aujourd’hui, 50 %) ? Oui ou non, le « germanisme éternel » existait-il avant Luther ?</p>
+                    <p class="p">Oui ou non, l’axe Berlin-Rome passe-t-il par <em>Rome</em>, et non point par Genève ?</p>
+                    <p class="p">Et si l’on persiste à prétendre que le luthéranisme porte en soi les germes indestructibles de la tyrannie politique (malgré la « résistance » qu’auraient représentée tous ces catholiques allemands), je poserai un problème délicat : Comment expliquer que les quatre pays où le luthéranisme a triomphé sans résistance, et bien plus totalement qu’en Allemagne, soient aujourd’hui les parangons de la liberté démocratique ? Je veux parler des États Scandinaves, et du plus <em>purement</em> luthérien d’entre eux, la Finlande.</p>
+                    <p class="p">Si l’on me fait l’honneur de répondre franchement, je m’engage à reconnaître que Luther est coupable de n’avoir pas su, dans l’espace d’une vingtaine d’années, dominer les fatalités germaniques que six siècles de catholicisme lui léguaient parfaitement intactes.</p>
+                    <section class="footnotes">
+                      <aside id="note3" class="note bottomnote"><a class="noteback" href="#note3_">a. </a>« De Luther à Hitler », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 mars 1940, p. 1.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19400426" name="« Dieu premier servi » (26 avril 1940)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« “Dieu premier servi” », La Vie protestante, Genève, 26 avril 1940, p. 1.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.1" id="p.1">[p. 1]</a>
+                    <h1 class="head article">« Dieu premier servi » (26 avril 1940)<a class="noteref" href="#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="#19400426"> §</a></h1>
+                    <p class="p autofirst">On a beaucoup dit que le secret de la résistance finlandaise était la foi profonde de ce peuple. En défendant leur terre, les soldats finnois avaient conscience de défendre aussi leur Église.</p>
+                    <p class="p">Mais il existe d’autres pays où la foi d’un soldat chrétien pourrait avoir des effets exactement contraires. Elle pourrait amener ce soldat à refuser de défendre l’État qui persécute son Église. Dis-moi pour qui tu acceptes de mourir, je te dirai en qui tu crois <em>vraiment</em>…</p>
+                    <p class="p">Ces deux exemples contradictoires posent la question la plus brûlante de l’époque : celle de l’attitude du chrétien en face de ses devoirs civiques et militaires. Là-dessus, quelques remarques à propos de la Suisse.</p>
+                    <p class="p">Je suis de ceux qui pensent que la foi n’est pas « une affaire privée », ainsi que le prétendait Marx. Le chrétien a le devoir d’agir au nom de sa foi, d’agir dans le monde et pour le monde, dans la cité où il est né et pour son bien. Il n’a pas le droit de s’en désintéresser et de laisser les autres s’égarer, quitte à les dénoncer ensuite pathétiquement du haut de la chaire ! Or l’action d’un chrétien placé par sa naissance dans la communauté des Suisses doit naturellement s’insérer dans les données de fait qui sont celles du pays, et qui se trouvent être communes à tous les citoyens, chrétiens ou non. La mission spéciale du citoyen chrétien, ce sera de dégager de ces données communes un sens spirituel, une vocation positive. Car le chrétien est, si j’ose dire, un spécialiste de la vocation. Cette action particulière du citoyen chrétien sera dans l’intérêt de la Suisse, certes. Mais elle sera <em>d’abord</em> obéissance à la foi. J’insiste sur ce point, qui est capital.</p>
+                    <p class="p">Nous ne devons pas être chrétiens <em>parce que</em> nous sommes Suisses et que la Suisse est officiellement un pays chrétien. Mais nous devons être de bons Suisses <em>parce que</em> nous sommes chrétiens d’abord.</p>
+                    <p class="p">Or, je constate qu’on entretient chez nous d’assez graves équivoques sur ce point. Il ne manque pas de gens pour dire, écrire, ou simplement laisser entendre, qu’un bon citoyen suisse a le devoir d’être chrétien, comme si ce devoir était la conséquence obligatoire d’un très ardent patriotisme. Si certains n’hésitent pas, dans leurs discours, à invoquer « le Dieu de nos pères », il semble parfois que ce soit moins parce qu’ils croient le christianisme <em>vrai</em>, que parce qu’ils le croient <em>utile</em> au bon moral de la nation, voire à la discipline des troupes. Ces personnes-là, vous les reconnaîtrez infailliblement à ces quelques traits : elles ont une conception de la « religion » plutôt déiste qu’évangélique ; elles prônent un moralisme plutôt bourgeois que charitable ; elles ont une façon d’exalter la croix blanche de notre drapeau qui rappelle davantage le <em>Gott mit uns</em> de Guillaume II que le <em>Dieu premier servi</em> de Jeanne d’Arc. Bref, l’intérêt qu’elles portent à la religion paraît <em>subordonné</em> à celui qu’elles portent à la conservation de notre État. Or nous devons croire exactement le contraire, je le répète : nous devons être de bons Suisses parce que nous sommes chrétiens d’abord. Gardons-nous du <em>Schweizer Christentum</em> !</p>
+                    <p class="p">À ces <em>Schweizer Christen</em> dont je viens de parler, j’opposerai cette déclaration prophétique d’un homme dont la pensée me paraît plus actuelle que jamais, Alexandre Vinet : « Veuillez d’abord, écrivait-il, avoir une religion pour vous, et si vous n’en voulez pas pour vous, mais seulement pour tout le monde, faites-nous la grâce de n’en point vouloir », car « la société qui veut m’ôter ma religion m’effraie bien moins que celle qui veut en avoir une. »</p>
+                    <p class="p">C’est parce que Niemöller et ses frères savaient cela qu’ils ont résisté, qu’ils résistent.</p>
+                    <section class="footnotes">
+                      <aside id="note4" class="note bottomnote"><a class="noteback" href="#note4_">a. </a>« “Dieu premier servi” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 avril 1940, p. 1.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19400503" name="Neutralité (3 mai 1940)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Neutralité », La Vie protestante, Genève, 3 mai 1940, p. 1.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p1" id="p1">[p. 1]</a>
+                    <h1 class="head article">Neutralité (3 mai 1940)<a class="noteref" href="#note5" id="note5_"><sup>a</sup></a><a class="bookmark" href="#19400503"> §</a></h1>
+                    <p class="p autofirst"><em> M. Denis de Rougemont a eu l’aimable pensée de nous communiquer le « billet » ci-dessous qui paraîtra prochainement dans un volume intitulé</em> : <a href="../work/ddr-vpbis/livres/ddr1940mds">Mission ou démission de la Suisse</a> .</p>
+                    <p class="p">Pendant tout l’hiver, nous avons pu lire dans les journaux cet avertissement sybillin : « Température maximum : 18° ». Il s’agissait sans doute d’inciter le public à des économies de charbon. On nous recommandait la tiédeur…</p>
+                    <p class="p">Mais voici nos voisins belligérants qui viennent nous dire : « Ceux qui ne sont ni froids ni bouillants seront vomis ».</p>
+                    <p class="p">Qu’est-ce que cela signifie, pratiquement ?</p>
+                    <p class="p"><em>Que ceux qui sont froids ou bouillants seront mangés</em> !</p>
+                    <p class="p">Je demande à voir ce qui vaut le mieux.</p>
+                    <p class="p">Il ne faut pas parler de neutralité en général, dans l’absolu et dans l’abstrait. Car tout dépend de ceci : vis-à-vis de quoi, ou de Qui, est-on tiède, est-on neutre ?</p>
+                    <p class="p">Si c’est vis-à-vis du Christ, la parole évangélique nous apprend que cette neutralité est suprêmement désavantageuse : elle entraîne notre expulsion violente hors du Royaume de Dieu. « <em>Je</em> vous vomirai » dit le Christ.</p>
+                    <p class="p">Si c’est vis-à-vis de la guerre des autres que l’on reste tiède, cette neutralité peut être avantageuse dans certains cas, dans la mesure où elle nous exclut, précisément, d’un conflit que nous jugeons mauvais.</p>
+                    <p class="p">Reste à savoir si le conflit actuel est « mauvais ». Puis, si notre tiédeur suffira pour que le monstre de la guerre nous vomisse…</p>
+                    <p class="p">Mais ceci est une autre histoire que je n’ai pas à conter maintenant. Et nous avons d’ailleurs, à mon avis, d’autres raisons de rester neutres que celles qu’on peut tirer de considérations opportunistes.</p>
+                    <p class="p">Je voulais simplement rappeler ceci : c’est qu’on ferait bien de ne pas utiliser comme des proverbes généraux certaines paroles du Christ qui n’ont de sens que par rapport à sa Personne, à son Royaume, à son Éternité. Répéter que les tièdes seront vomis, en détournant ce verset de son sens spirituel, c’est toujours un blasphème, et c’est souvent une grosse sottise.</p>
+                    <section class="footnotes">
+                      <aside id="note5" class="note bottomnote"><a class="noteback" href="#note5_">a. </a>« Neutralité », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 mai 1940, p. 1.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19420102" name="Perspectives d’avenir du protestantisme (2 janvier 1942)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Perspectives d’avenir du protestantisme », La Vie protestante, Genève, 2 janvier 1942, p. 4.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.4" id="p.4">[p. 4]</a>
+                    <h1 class="head article">Perspectives d’avenir du protestantisme (2 janvier 1942)<a class="noteref" href="#note6" id="note6_"><sup>a</sup></a><a class="bookmark" href="#19420102"> §</a></h1>
+                    <p class="p autofirst">
+                      <em> Le texte que nous publions est la conclusion d’une conférence que M. Denis de Rougemont a donnée en septembre à Rio de la Plata, sous les auspices de l’Église évangélique de langue française.</em>
+                    </p>
+                    <p class="p">Je vois de grandes perspectives d’avenir devant le protestantisme. J’en désignerai trois en guise de conclusion.</p>
+                    <p class="p">La première, c’est que la Réforme, et spécialement sa tendance calviniste, est appelée à figurer dans notre siècle le type même de la sûre doctrine de résistance au paganisme totalitaire. La foi de la Réforme, telle que j’ai tenté de la situer dans l’évolution de l’Europe, représente en effet le centre et l’axe même de la notion chrétienne de personne, à la fois libre et engagée. Par l’organisation même de ses Églises et de ses paroisses, elle offre le type d’une communauté libre et pourtant bien liée, fondée sur l’espérance de l’Esprit et non pas sur les fatalités du passé, ouverte à la volonté d’un Dieu transcendant et non pas fermée sur les intérêts d’un groupe. Par là, elle s’oppose radicalement à toute religion totalitaire, fondée sur le sang, la race, la tradition, les morts. La religion totalitaire n’admet pas que « les choses vieilles sont passées », selon la parole de l’apôtre. Elle n’admet pas la conversion et le pardon, à partir desquels « il n’y a plus ni juif ni grec ». Elle ne demande pas « Que crois-tu ? Qu’espères-tu ? », mais elle demande « Quels sont tes morts ? ». Religion du sang, de la terre et des morts, religion sanglante et mortelle, religion des choses vieilles mortes et enterrées depuis des millénaires, jamais « passées ». Qui ne voit qu’une telle religion hait mortellement et de toute sa nature la foi chrétienne, tournée vers le pardon, le futur éternel, le rachat du péché d’origine ?…</p>
+                    <p class="p">Mais résister ne suffit pas, on ne se défend bien qu’en attaquant, c’est-à-dire en prenant l’initiative. Ici, la perspective qui s’offre aux Églises protestantes, c’est de préparer le terrain pour la reconstruction fédéraliste du monde de demain. Si les totalitaires sont vaincus, ce seront les nations protestantes et fédéralistes d’esprit qui auront obtenu la victoire. Elles ne sauront la rendre féconde que si elles se laissent guider et inspirer par la tradition spirituelle qui a fait leur force : la tradition personnaliste et fédéraliste de la Réforme.</p>
+                    <p class="p">Enfin, la troisième perspective qui s’ouvre au protestantisme, c’est celle du mouvement œcuménique. Vous savez que l’initiateur de ce vaste effort, qui tend à réunir toutes les Églises chrétiennes, fut un luthérien, l’archevêque Nathan Soederblom. Il groupe aujourd’hui les diverses dénominations protestantes, les anglicans, les orthodoxes grecs et russes, et les vieilles Églises du Proche-Orient, c’est-à-dire toutes les Églises chrétiennes sauf celle de Rome qui se tient, par malheur, à l’écart. Or, dans cette œuvre à laquelle collaborent la majorité des chrétiens du monde entier, nous voyons la réalisation d’un des grands idéaux calvinistes : la fédération organique des Églises, leur union spirituelle dans la diversité admise des formes de culte et d’organisation. Ce n’est point par hasard que les calvinistes, bien qu’ils soient une minorité, jouent un rôle de premier plan dans les travaux du Conseil œcuménique. Toute leur tradition les prépare à ce rôle de fédérateurs religieux, comme elle les prépare au rôle de fédérateurs politiques.</p>
+                    <p class="p">J’aime évoquer, en terminant, cette espérance d’une réunion de toutes les confessions chrétiennes. Car en nous faisant entrevoir la possibilité d’une catholicité nouvelle, elle nous délivre de l’espèce d’étroitesse, de « nationalisme protestant », auquel nous sommes tentés de céder parfois, sous l’effet de la polémique ou par un attachement excessif à certaines de nos traditions secondaires. Le but de nos Églises n’est pas d’imposer le protestantisme au monde, mais d’annoncer l’Évangile, la bonne nouvelle du « salut de grâce et bonté pure » comme on disait au <span class="num">xvie</span> siècle. Et c’est notre fidélité même à la Réforme qui nous fait nous réjouir d’une perspective où nos « ismes » disparaîtraient pour se fondre dans une Église plus vaste. S’il fallait que je dise en une phrase ce qui m’attache à l’Église protestante, plutôt qu’à aucune autre, je dirai ceci : L’Église protestante est justement celle qui ne se donne pas pour la seule forme d’Église possible ; elle est l’Église qui accepte d’être constamment réformée et jugée par la Vérité même qu’elle annonce et dont elle doit se sentir responsable devant le monde d’aujourd’hui et pour demain.</p>
+                    <section class="footnotes">
+                      <aside id="note6" class="note bottomnote"><a class="noteback" href="#note6_">a. </a>« Perspectives d’avenir du protestantisme », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 2 janvier 1942, p. 4.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431015" name="Les tours du diable I : « Je ne suis personne » (15 octobre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du diable I : “Je ne suis personne” », La Vie protestante, Genève, 15 octobre 1943, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous avons eu l’occasion de lire les réflexions d’une perspicacité peu ordinaire sur l’existence personnelle du Diable, due à la plume de Denis de Rougemont. Nous n’avons pas à présenter l’écrivain neuchâtelois aux lecteurs de la Vie protestante. La qualité de sa pensée et l’autorité de son jugement sont reconnues bien au-delà de nos frontières. Nous dirions volontiers qu’il est aujourd’hui un des meilleurs interprètes laïques d’une théologie protestante constructive. Sous le titre “Les tours du Diable”, nous sommes heureux de pouvoir donner ici une première étude de l’auteur. Nous nous proposons d’apporter encore, dans nos prochains numéros, quelques-unes des pages remarquables qu’on a bien voulu mettre à notre disposition. »</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p1" id="p1">[p 1]</a>
+                    <h1 class="head article">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#19431015"> §</a></h1>
+                    <p class="p autofirst">C’est dans les <em>Petits poèmes en prose</em> de Baudelaire que l’on peut lire la phrase la plus profonde écrite par un moderne sur Satan : « La plus belle ruse du Diable est de nous persuader qu’il n’existe pas. »</p>
+                    <p class="p">Reconnaissons que ce tour n’a jamais mieux réussi que dans l’époque contemporaine. Même quand nous croyons « encore » en Dieu, nous croyons si peu au Diable que l’on m’accusera certainement d’obscurantisme, ou simplement de manque de sérieux, si je persiste en mon projet de lui consacrer de nombreuses pages.</p>
+                    <p class="p">Le premier tour du Diable est son <em>incognito</em>.</p>
+                    <p class="p">Dieu dit : <em>Je suis celui qui suis</em>. Mais le Diable, qui a la manie de vouloir imiter la vérité en la retournant, le Diable nous dit comme Ulysse au Cyclope : <em>Je ne suis personne</em>. De quoi aurais-tu peur ? Vas-tu trembler devant l’inexistant ?</p>
+                    <p class="p">Une remarque en passant, mais nécessaire. C’est au sujet d’un camouflage très élémentaire, mais fort bien adapté à la myopie spirituelle des temps modernes. Voici : depuis deux ou trois siècles, il a plu au Diable de revêtir une apparence moyen-âgeuse qui le rend inoffensif aux yeux de la plupart d’entre nous. Car si le Diable est simplement le démon rouge et cornu des mystères médiévaux, ou le faune à barbiche de chèvre et à longue queue des légendes populaires, il est vraiment trop facile d’y croire : qui s’en donnerait encore la peine ? De fait, j’ai connu beaucoup d’hommes qui voulaient bien admettre en souriant un Diable de ce genre, mais non pas croire en Dieu ; ce qui revient à ne pas croire au Diable.</p>
+                    <p class="p">Cette mascarade anachronique et bouffonne n’a pas médiocrement contribué à la réussite du premier tour que dénonce Baudelaire. Beaucoup s’y arrêtent : « Comment peut-on perdre son temps à ces balivernes d’un autre âge ? » disent-ils. <em>Or ce sont eux qui s’y laissent prendre</em> ! Fascinés par l’image traditionnelle et trop évidemment puérile, ils ne se doutent pas que le Diable agit ailleurs, sans queue ni barbe, par leurs mains peut-être…</p>
+                    <p class="p">Ce qui me paraît incroyable, ce n’est pas le Diable, et ce ne sont pas les Anges, mais bien la candeur et la crédulité de ces « sceptiques », et l’impardonnable sophisme dont ils se montrent les victimes : « Le Diable est un bonhomme à cornes rouges et à longue queue ; or je ne puis croire à un bonhomme à corne rouges et à langue queue ; donc je ne crois pas au Diable. » C’est tout ce qu’il demandait.</p>
+                    <p class="p">Et ceux qui en restent aux contes de bonnes femmes, ce sont ceux qui refusent de croire au Diable à cause de l’image qu’ils s’en font, et qui est tirée des contes de bonnes femmes.</p>
+                    <p class="p">Cependant la Bible dénonce l’existence du Diable à chaque page, de la première où il apparaît sous la forme du Serpent, jusqu’à l’avant-dernière où nous voyons Satan lié pour mille ans, puis délié et déchaîné sur les quatre parties du monde pour les tromper et pour les faire se battre sans raison alléguée, et finalement flamboyé par le feu du ciel et précipité dans un étang de flammes et de souffre avec ses faux prophètes, pour y être tourmenté nuit et jour, au siècle des siècles. La Bible, notez-le, parle beaucoup moins du « mal » en général que du Malin personnifié (tout au moins dans les textes originaux). Si l’on croit à la vérité de la Bible, il est impossible de douter un seul instant de la réalité objective du Diable.</p>
+                    <section class="footnotes">
+                      <aside id="note7" class="note bottomnote"><a class="noteback" href="#note7_">a. </a>« Les tours du diable I : “Je ne suis personne” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 octobre 1943, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous avons eu l’occasion de lire les réflexions d’une perspicacité peu ordinaire sur l’existence personnelle du Diable, due à la plume de Denis de Rougemont. Nous n’avons pas à présenter l’écrivain neuchâtelois aux lecteurs de la <em>Vie protestante</em>. La qualité de sa pensée et l’autorité de son jugement sont reconnues bien au-delà de nos frontières. Nous dirions volontiers qu’il est aujourd’hui un des meilleurs interprètes laïques d’une théologie protestante constructive. Sous le titre “Les tours du Diable”, nous sommes heureux de pouvoir donner ici une première étude de l’auteur. Nous nous proposons d’apporter encore, dans nos prochains numéros, quelques-unes des pages remarquables qu’on a bien voulu mettre à notre disposition. »</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431022" name="Les tours du Diable II : Le menteur (22 octobre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable II : Le menteur », La Vie protestante, Genève, 22 octobre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)<a class="noteref" href="#note8" id="note8_"><sup>a</sup></a><a class="bookmark" href="#19431022"> §</a></h1>
+                    <p class="p autofirst">L’homme seul, dans toute la Création, peut dire ce qui n’est pas et mentir par ses actes.</p>
+                    <p class="p">Le minéral repose où il fut composé, la plante pousse où se fixa la graine, les animaux muets sont prisonniers de l’ordre intarissablement prodigue et infaillible de l’instinct. Mais l’homme a reçu le pouvoir de parler, de créer et de dénaturer. Par la grâce du langage, il peut dire vrai ; par la faute du langage, il peut le contredire. Il peut créer dans le prolongement des perspectives de la Création, il peut aussi créer à tort et à travers. Il peut être un agent responsable de la nature naturante, mais il peut aussi faire la grève, se révolter, et fabriquer l’antinature ou <em>dénature</em>.</p>
+                    <p class="p">Cette duplicité de nos pouvoirs constitue notre liberté. Elle en est à la fois le signe et la condition nécessaire. Elle est notre gloire équivoque.</p>
+                    <p class="p">C’est par la liberté, à cause d’elle, et dans elle, que nous avons le pouvoir de pécher. Car pécher c’est tricher avec l’ordre, opposer à la loi divine nos dérogations égoïstes, fautes de calcul et courtes vues intéressées. Pécher c’est fausser quelque chose dans l’ordonnance du cosmos. C’est toujours en quelque manière dire un mensonge ou l’opérer.</p>
+                    <p class="p">Par le langage l’homme est libre. Par le langage il peut mentir. Par sa liberté seule il peut pécher. Et le péché n’est qu’un mensonge. Mais le mensonge proféré nous lie…</p>
+                    <p class="p">Comprenons maintenant que le Diable ne pourrait rien sans notre liberté. Car c’est par nous seulement qu’il agit dans le monde, et c’est en provoquant l’abus de notre liberté qu’il agit en nous et nous lie. Si Ève n’avait pas été libre de manger cette pomme interdite, Ève n’aurait pu pécher, ni Adam après elle.</p>
+                    <p class="p">Ainsi la gloire de l’homme étant sa liberté, il est clair que c’est en ce point que le Malin devait atteindre notre orgueil et s’insérer dans nos défenses les plus secrètes. La parole nous étant donnée pour répondre à la vérité, et pour l’étendre et confirmer par la vertu du témoignage, il est clair que la grande ambition satanique devait être de s’emparer de la parole dans notre bouche, pour altérer le témoignage dans sa source. Et c’est pourquoi la Bible dit, énergiquement, que lorsque nous mentons, c’est le Diable lui-même qui « tire sa langue dans notre langue ».</p>
+                    <p class="p">Mais il est deux manières de mentir, comme il est deux manières de tromper un client. Si la balance marque 980 grammes, vous pouvez dire : c’est un kilo. Votre mensonge restera relatif à la mesure invariable du vrai. Si le client contrôle, il peut voir qu’on le vole, et vous savez de combien vous le volez : une vérité reste juge entre vous. Mais le Démon vous induit à fausser la balance elle-même, c’est le critère du vrai qui est dénaturé, il n’y a plus de contrôle possible. Et peu à peu vous oublierez que vous trichez. Parions même que vous mettrez vos scrupules à faire des pesées rigoureuses, peut-être à rajouter quelques pincées « pour le bon poids », pour le sourire de l’acheteur et la satisfaction de votre vertu. C’est là le mensonge pur, l’œuvre propre du Diable. À partir de l’instant où vous faussez la mesure même de la vérité, toutes vos « vertus » sont au service du mal et sont complices de l’œuvre du Malin.</p>
+                    <p class="p">« Le Diable est menteur et le Père du mensonge », dit l’Évangile tel qu’on le cite d’ordinaire. Ceci concerne le premier mensonge, celui qui se borne à taire la vérité (tout en ne cessant de la connaître) ou à la nier (tout en sachant que, pour si peu, elle ne cesse pas d’exister). Mais le texte original de ce passage est infiniment plus étrange. « Le Diable est menteur, nous dit-il, <em>et il est le père de son propre mensonge</em>. » Par ici nous entrons au mystère du mal. Le père de son mensonge est celui qui l’engendre, le conçoit par ses propres œuvres, en abusant d’une vérité qu’il rejette aussitôt qu’avilie et qui mourra du monstre mis au monde. Monstrueuse création du mensonge, car le mensonge, par essence, n’est pas ! C’est une espèce de décréation. C’est le trompe-l’œil et le sonne-creux de l’invention bâtarde et de l’art inauthentique. Le Diable est le père du faux art, de toutes ces œuvres qui ne sont « ni bien ni mal », parce que l’acte dont elles naquirent supprime les mesures même du beau. Il n’y a plus de fautes de goût possible là où n’existe plus de goût comme il n’y a plus de crime possible la où n’existe plus de Loi. Peut-être ici découvrons-nous la raison dernière du mensonge : c’est toujours le désir d’innocence utopique. Le mensonge ordinaire n’était que l’omission ou la contradiction d’une vérité, qui subsistait ailleurs et nous jugeait encore. Mais le mensonge diabolique tue le juge. Il ne part que de soi, et ne prolifère qu’en autarcie, comme une monade cancéreuse, introduisant dans l’univers ce sophisme de pure angoisse : <em>le mensonge d’aucune vérité</em>.</p>
+                    <section class="footnotes">
+                      <aside id="note8" class="note bottomnote"><a class="noteback" href="#note8_">a. </a>« Les tours du Diable II : Le menteur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 22 octobre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431029" name="Les tours du Diable III : Diable et sexe (29 octobre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable III : Diable et sexe », La Vie protestante, Genève, 29 octobre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p2" id="p2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)<a class="noteref" href="#note9" id="note9_"><sup>a</sup></a><a class="bookmark" href="#19431029"> §</a></h1>
+                    <p class="p autofirst">Le jeune lecteur — et peut-être aussi le moins jeune — se dira : Tiens, voilà un sujet… Quel dommage ! Sa curiosité pourrait bien être déçue. Voyons.</p>
+                    <p class="p">Tout le monde s’imagine que le péché par excellence réside dans la sexualité. L’illusion s’aperçoit d’une manière assez simple : la sexualité est le domaine des tentations à la fois les plus sensibles et les plus communes. Assez peu d’hommes sont réellement tentés de voler le portefeuille du voisin, mais presque tout homme s’est vu tenter de prendre la femme du voisin, soit en recourant aux raisons pathétiques — « c’est vital ! » —, soit en se persuadant que « ça n’a pas d’importance » ; ou les deux ensemble.</p>
+                    <p class="p">En vérité, la sexualité en soi n’est pas plus diabolique que la digestion ou la respiration. Si la majorité des Occidentaux se figurent que le péché originel fut l’acte sexuel, dont la consommation de la pomme serait le symbole, c’est parce qu’ils assimilent le péché en général à la tentation par excellence, qui se trouve être à leurs yeux la sexualité. C’est une vue bien bornée du péché ! Car même dans le cas où le fruit mangé par Ève signifierait ce que l’on croit, notez que ce n’est pas le geste de manger une pomme qui était mauvais aux yeux de l’Éternel, ni la pomme en soi (au contraire), mais seulement la <em>révolte</em> d’Ève et son désir de se diviniser à sa façon. Si la sexualité pouvait rester pure, c’est-à-dire purement animale, comme les autres fonctions du corps, le Diable ne s’y mêlerait pas. Mais en fait elle se lie à l’amour, et à l’esprit, et c’est par là qu’elle va se pervertir et devenir à son tour source de perversion. La paillardise joyeuse est certainement l’une des formes les moins diaboliques du péché. Je n’en dirais pas autant de certaines amours pseudo-mystiques, nœuds de sophismes spirituels où le Serpent se love avec délices.</p>
+                    <p class="p">La sexualité se distingue des autres fonctions naturelles par un certain manque de nécessité. Il est nécessaire de manger et de respirer, et il est nécessaire que le sang circule, mais on peut vivre en restant chaste. L’usage du sexe est donc en grande partie libre et conscient. D’autre part, il est lié à la <em>créativité</em> de l’homme, il en est l’aspect corporel, le symbole ou le signe physique. Or nous savons que si l’homme peut pécher, c’est uniquement parce qu’il est libre, c’est-à-dire parce qu’il peut choisir de créer selon l’ordre divin, ou au contraire selon ses propres utopies. C’est donc en tant qu’elle participe de notre libre créativité, comme le langage et les activités de l’esprit, que la sexualité donne prise au Diable. Et certes il ne s’y intrigue pas davantage que dans nos créations les plus abstraites. Il est même plus aisément reconnaissable, et dans cette mesure moins dangereux. La sexualité ne devient proprement démoniaque que lorsque l’esprit s’en empare, la contamine, la dénature, ou lui rend un culte obsédé.</p>
+                    <p class="p">L’idéalisation romantique de l’amour dans l’époque moderne, entraînant une pruderie morbide du langage et des bonnes mœurs, est certes pour beaucoup dans la crise sexuelle dont souffre toute la bourgeoisie. Au point qu’un Freud a cru pouvoir « tout expliquer » par les censures et refoulements de la morale en vigueur dans son milieu, et de son temps. D’où l’on devrait déduire que le meilleur moyen de prévenir les états de possession satanique et les névroses nées de troubles sexuels, serait simplement la franchise, non pas « scientifique » mais gaillarde.</p>
+                    <p class="p">Mais aussitôt le Malin se rattrape en proposant une licence absolue. Or, l’absence de contraintes choisies rend la sexualité insignifiante, et déprime secrètement l’humanité de l’homme. Le sexe n’est pas plus divin qu’il n’est honteux, mais il est lié intimement aux fonctions les plus humaines de l’homme, à ses pouvoirs de création dans tous les ordres, à ses jugements esthétiques ou moraux, à tout ce qui qualifie l’individu et lui permet de se posséder en tant que personne responsable. L’indifférence croissante que l’on observe, dans la jeunesse américaine par exemple, à l’égard des pudeurs et interdits qui prêtaient à l’acte sexuel la gravité d’un <em>engagement</em>, cette espèce d’insouciance morale se traduit moins par une libération que par une flagrante indigence dans les rapports fondamentaux. En présence de cet affadissement, l’on serait tenté de regretter le temps où Satan proposait des combats plus féconds…</p>
+                    <section class="footnotes">
+                      <aside id="note9" class="note bottomnote"><a class="noteback" href="#note9_">a. </a>« Les tours du Diable III : Diable et sexe », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 octobre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431105" name="Les tours du Diable IV : L’accusateur (5 novembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable IV : L’accusateur », La Vie protestante, Genève, 5 novembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#19431105"> §</a></h1>
+                    <p class="p autofirst">Il n’est peut-être au monde qu’une seule chose pire que de douter du bien et du réel, et c’est de douter du pardon, une fois qu’on a trahi le bien et le réel. Car douter du pardon nous replonge dans le mal, avec la sombre jouissance masochiste des « après moi le déluge » et des « tant pis pour moi ». Il faut croire au pardon pour oser confesser le mal qu’on a commis ; pour oser qualifier de faute sa propre faute ; et pour que puisse renaître la confiance qui donnera seule le courage de rebâtir. Celui qui doute du pardon ne peut pas confesser son crime, et celui qui ne le confesse pas n’en connaîtra jamais toute l’étendue.</p>
+                    <p class="p">Le Diable est cet Accusateur qui veut nous faire douter de notre pardon pour nous forcer à fuir dans les remèdes du pire. L’Apocalypse le désigne comme « l’Accusateur de nos frères, celui qui les accuse devant Dieu jour et nuit ». C’est lui qui demandait la tête de Job devant le tribunal céleste. Non content de nous prendre à ses pièges, sitôt qu’il nous a pris il est le premier à nous dénoncer devant Dieu de la manière la plus impitoyable. Non par amour de la justice, mais par amour de notre châtiment, par haine froide. Pour le stérile plaisir d’avoir raison.</p>
+                    <p class="p">Aussi, partout où l’on condamne <em>sans pitié</em> son prochain ou soi-même, soyez sûrs que c’est le Diable qui parle, l’Accusateur qui tient le pardon pour une simple faute de logique, la grâce pour une erreur de calcul statistique.</p>
+                    <p class="p">La duplicité infernale, c’est de nous faire croire qu’il n’y a pas de juge, ni d’ordre divin du réel, et aussitôt que nous l’avons cru, de nous accuser de contravention devant le Juge. Ainsi la morale laïque, morale du devoir kantien et des routines bourgeoises, excluant le Dieu personnel, nous accuse et nous prive en même temps de tout recours à Celui qui pardonne. Elle ne laisse aux meilleures de ses victimes que l’héroïsme auto-sadique de la révolte.</p>
+                    <section class="footnotes">
+                      <aside id="note10" class="note bottomnote"><a class="noteback" href="#note10_">a. </a>« Les tours du Diable IV : L’accusateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 5 novembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431112" name="Les tours du Diable V : Le tentateur (12 novembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable V : Le tentateur », La Vie protestante, Genève, 12 novembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#19431112"> §</a></h1>
+                    <p class="p autofirst"><em>« Le serpent était le plus rusé de tous les animaux des champs que l’Éternel Dieu avait faits. Il dit à la femme : Dieu a-t-il réellement dit : vous ne mangerez pas de tous les arbres du jardin ? La femme répondit au serpent : nous mangeons du fruit des arbres du jardin. Mais quant au fruit de l’arbre qui est au milieu du jardin, Dieu a dit : vous n’en mangerez point et vous n’y toucherez point, de peur que vous n’en mouriez. Alors le serpent dit à la femme : vous ne mourrez point. Mais Dieu sait que le jour où vous en mangerez, vos yeux s’ouvriront, et que vous serez comme des dieux, connaissant le bien et le mal. »</em> (Gen. 3:1 à 5)</p>
+                    <p class="p">Voyez : avant la tentation proprement dite, il y a le doute ! Le premier procédé du Démon, c’est de jeter un doute sur la réalité de la loi divine, et donc sur la réalité elle-même et ses structures. « Dieu a-t-il réellement dit ?… » Sitôt que cette incertitude est insinuée dans un esprit, la possibilité d’une tentation s’entrouvre. Car il n’y a pas de tentation là où n’existe aucune possibilité d’imaginer quelque autre chose que l’état de fait. On dit bien : l’occasion fait le larron. Vous n’êtes pas tenté d’aller dans la lune, parce que vous savez que c’est absolument impossible. Mais vous seriez probablement tenté d’y aller, si l’on vous suggérait quelque moyen de le faire. Ève ne pensait même pas à manger cette pomme avant que le Serpent n’ait mis en doute la réalité de l’ordonnance de Dieu. À l’origine de toute tentation, il y a l’occasion entrevue d’aller à la divinité par un plus court chemin que celui du réel ; par un chemin que l’on inventerait soi-même, en dépit des interdictions que posent les lois de la Création, l’ordre divin et la nature de l’homme.</p>
+                    <p class="p">Et voici le deuxième temps de la tentation :</p>
+                    <p class="p"><em>« La femme vit que l’arbre était bon à manger et agréable à la vue, et qu’il était précieux pour ouvrir l’intelligence : elle prit de son fruit et en mangea. »</em> (Gen. 3:6)</p>
+                    <p class="p">Voyez : ce n’est pas le mal en soi qui tente, mais c’est toujours un bien qu’on imagine, et même un meilleur bien que celui que Dieu offre, un bien que l’on se figure « mieux fait pour soi ». Ève ne fut pas tentée par une chose mauvaise, mais par une fort belle et bonne pomme, agréable à la vue et précieuse pour l’esprit. Elle ne fut pas tentée par le désir de nuire, mais l’idée de se diviniser, ce qui paraît en somme une excellente idée. Par malheur, pour quelque raison littéralement fondamentale, Dieu n’aimait pas cette idée-là et l’excluait de sa réalité. Manger cette pomme et se diviniser de cette manière convoiteuse, il se trouvait qu’aux yeux de Dieu c’était un mal…</p>
+                    <p class="p">Ainsi la tentation est toujours utopie — si l’utopie est l’imagination, puis le désir d’un bien que le réel condamne et que le plan divin ne prévoit pas. Satan, lorsqu’il tente le Christ, lui propose trois utopies, trois moyens de gagner le monde par un plus court chemin que le sentier de Golgotha. À l’origine, le « méchant » n’est pas celui qui agit par méchanceté (à ses propres yeux tout au moins). Mais c’est celui qui se persuade que le bien qu’il a conçu vaut mieux que le vrai bien. « Le méchant fait une œuvre qui le trompe. » Or, c’est parce qu’il se trompe d’abord que son œuvre va le tromper. La réalité méprisée se vengera automatiquement. Le péché est une faute, mais faute signifie tout à la fois erreur et chute.</p>
+                    <p class="p">C’est plus tard, c’est après plusieurs générations de pécheurs dans l’histoire, ou de péchés dans une vie, que le mal finira par exister en soi, apparence encore, mais active, contre-nature devenue seconde nature. Et c’est à ce moment-là que Baudelaire peut écrire : « L’homme et la femme savent de naissance que dans le mal se trouve la volupté… La volupté unique et suprême gît dans la certitude de faire le mal. » Mais ici se sont déclenchés les mécanismes compliqués de la perversion, de l’auto-punition d’une conscience déchirée, et du désir enfin de se détruire. Se détruire pour s’innocenter ! Pour échapper, à sa manière encore, aux conséquences du mal que l’on a fait ; pour se châtier soi-même sans réparer. C’est le mystère du suicide et la logique de Judas, la suprême utopie.</p>
+                    <section class="footnotes">
+                      <aside id="note11" class="note bottomnote"><a class="noteback" href="#note11_">a. </a>« Les tours du Diable V : Le tentateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 12 novembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431119" name="Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable VI : Le mal du siècle : la dépersonnalisation », La Vie protestante, Genève, 19 novembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)<a class="noteref" href="#note12" id="note12_"><sup>a</sup></a><a class="bookmark" href="#19431119"> §</a></h1>
+                    <p class="p autofirst">Le philanthrope ou le mondain, l’artiste, l’auteur, et l’homme qui réussit, cette galerie de victimes est classique au point d’en être presque démodée. Car Satan marche avec <em>son</em> temps, et paraît se soucier de moins en moins de persuader l’individu, dans une époque où celui-ci n’existe guère. Son ambition se tourne vers les masses. Ici nous abordons enfin la grande stratégie du Diable dans ce siècle.</p>
+                    <p class="p">La meilleure interprétation des phénomènes collectifs d’aujourd’hui fut donnée vers 1848 par l’écrivain danois Kierkegaard, le penseur capital de notre ère. Voici ce que l’on peut lire dans son journal intime :</p>
+                    <blockquote class="quote">En opposition aux distinctions du Moyen Âge et des époques qui discutaient sans fin les cas de possession, c’est-à-dire d’individus particuliers se livrant au mal, je voudrais écrire un livre <em>sur la possession diabolique dans les temps modernes</em>, et montrer comment l’humanité qui se donne au Diable, de nos jours, le fait en masse. C’est pour cela que les gens se rassemblent en troupeaux, pour que l’hystérie naturelle et animale s’empare d’eux, pour qu’ils se sentent stimulés, enflammés et <em>hors d’eux-mêmes</em>. Les scènes du Blocksberg sont le pendant exact de ces plaisirs démoniaques, qui consistent à se perdre soi-même, à se laisser volatiliser dans une puissance supérieure, au sein de laquelle, ayant perdu son moi, on ne sait plus ce que l’on est en train de faire ou de dire, on ne sait plus ce qui parle à travers vous, tandis que le sang court plus vite, que les yeux brillent et deviennent fixes, et que les passions bouillonnent.</blockquote>
+                    <p class="p autofirst">À quoi pouvait penser Kierkegaard lorsque, dans son petit Danemark bourgeois, pieux et confortable, il écrivait ces lignes prophétiques ? Il assistait aux troubles révolutionnaires qui marquaient en Europe l’irruption du libéralisme, du capitalisme et du nationalisme. Lui seul avait vu le Diable à l’œuvre dans ces œuvres — les nôtres à nous, nations démocratiques.</p>
+                    <p class="p">Kierkegaard a compris mieux que quiconque et avant tous, le <em>principe</em> diabolique créateur de la masse : fuir sa propre personne, n’être plus responsable, donc plus coupable, et devenir du même coup participant de la puissance divinisée de l’Anonyme. Or l’Anonyme a bien des chances d’être celui qui aime à dire : Je ne suis Personne…</p>
+                    <p class="p">La foule, c’est le lieu de rendez-vous des hommes qui se fuient, eux et leur vocation. Elle n’est personne et tire de là son assurance dans le crime. « Il ne s’est pas trouvé un seul soldat pour porter la main sur Caius Marius, telle est la vérité. Mais trois ou quatre femmes, dans l’illusion d’être une foule, et que personne peut-être ne saurait dire qui l’avait fait ou qui avait commencé, celles-là l’auraient eu ce courage ! Ô mensonge !… Car une foule est une abstraction qui n’a pas de mains, mais chaque homme isolé a, dans la règle, deux mains, et lorsqu’il porte ces deux mains sur Marius, ce sont ses mains, non celles du voisin, et non celles de la foule qui n’a pas de mains » (Kierkegaard).</p>
+                    <p class="p">Reconnaissons ici la vieille tactique, la sempiternelle tactique de Satan. Dès la première tentation en Eden, il a recours au même et unique artifice : faire croire à l’homme qu’il n’est pas responsable, qu’il n’y a pas de Juge, que la Loi est douteuse, qu’on ne saura pas, et que d’ailleurs, une fois le coup réussi, on sera Dieu soi-même, donc maître de fixer le bien et le mal à sa guise.</p>
+                    <p class="p"><em>« Alors ils entendirent la voix de l’Éternel Dieu, qui parcourait le jardin vers le soir, et l’homme et sa femme se cachèrent loin de la face de l’Éternel Dieu, au milieu des arbres du jardin. Mais l’Éternel Dieu appela l’homme et lui dit : Où es-tu ? Il répondit : J’ai entendu ta voix dans le jardin, et j’ai eu peur, parce que je suis nu, et je me suis caché. Et l’Éternel Dieu dit : Qui t’a appris que tu es nu ? Est-ce que tu as mangé de l’arbre dont je t’avais défendu de manger ? L’homme répondit : La femme que tu as mise auprès de moi m’a donné de l’arbre, et j’en ai mangé. Et l’Éternel Dieu dit à la femme : Pourquoi as-tu fait cela ? La femme répondit : Le serpent m’a séduite, et j’en ai mangé. »</em> (Gen. 3:8-13)</p>
+                    <p class="p">Voyez : ils vont se cacher, ils n’y sont plus. Et quand on les attrape, ils disent que c’était l’autre. Ainsi les hommes de notre temps, poussés par leurs « complexes de culpabilité » et fuyant devant l’aveu de leurs fautes, vont se cacher dans les arbres, dans la foule. C’est-à-dire dans le lieu par excellence où l’on peut toujours dire : c’était l’autre ! Et dans le lieu où l’on est, à coup sûr, le plus « loin de la face de l’Éternel ».</p>
+                    <p class="p">Pour qu’il n’y ait plus de responsabilité, il faut qu’il n’y ait plus personne. Or si j’appelle et qu’il n’y a pas de réponse, je dis qu’il n’y a personne. La personne est en nous ce qui répond de nos actes, ce qui est « capable de réponse » ou responsable ; dans une foule, il n’y a plus de réponse individuelle ; pour qu’il n’y ait plus de responsable, il suffit qu’il y ait une masse. Satan va donc créer les masses.</p>
+                    <p class="p">Nous tenons ici le secret de sa grande stratégie : produire le péché <em>en série</em> et rationaliser la chasse aux âmes.</p>
+                    <p class="p">Il faut avouer que presque toutes nos inventions techniques, la plupart de nos idéaux, enfin l’évolution générale du temps, favorisent ce plan de mille manières. Tout concourt, dans le cadre de nos vies, à nous priver du sentiment d’être une personne responsable. Nous vivons tous, de plus en plus, dans un monde de transe collective. Nous participons tous, de plus en plus, à des formes de vie étrangères à notre sort particulier et à nos aptitudes normales. Au cinéma, l’individu moderne s’habitue à courir par délégation les aventures qui ne lui arrivent pas. La radio, la presse, les meetings monstres, l’invitent à prendre une part sensible — en imagination — aux grands événements qui opposent les Nations, ces abstractions personnifiées ; et les Révolutions incarnées par leurs chefs. Tout cela contribue à l’arracher de sa vie propre, où il ne se passerait jamais rien de semblable. Quant aux inconvénients et à l’ennui de cette vie propre, autrefois jugés normaux, ils apparaissent de plus en plus inacceptables à mesure que se répandent les notions de progrès indéfini, de confort à tout prix, de succès rapide, et à mesure que s’efface la croyance dans un au-delà. D’une part l’individu moderne est incité à juger sa vie mesquine, et à la fuir ; d’autre part il est aspiré par les grandes émotions collectives. Cette répulsion et cette attraction jouent dans le même sens. Elles poussent l’homme à rechercher les occasions d’être <em>dépossédé</em> de soi. Elles font de chacun de nous un sujet prédisposé à l’hypnose collective, une victime virtuelle des passions de masse.</p>
+                    <p class="p">Certes, il n’y aurait pas de masses possibles, au sens précis de concentration d’hommes, sans la radio, les haut-parleurs, la presse et les transports rapides. Mais ces moyens techniques n’ont pas tout fait : l’homme les a faits d’abord, et ce n’est point par hasard qu’il a fait ceux-là et non d’autres. Les véritables causes et racines du phénomène moderne des masses sont dans notre attitude spirituelle. La foule n’est pas dans la rue seulement. Elle est dans la pensée des hommes de ce temps, elle a ses sources au plus intime des existences individuelles. Et c’est là seulement qu’on peut la dénoncer.</p>
+                    <section class="footnotes">
+                      <aside id="note12" class="note bottomnote"><a class="noteback" href="#note12_">a. </a>« Les tours du Diable VI : Le mal du siècle : la dépersonnalisation », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 19 novembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431126" name="Les tours du Diable VII : La cinquième colonne (26 novembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable VII : La cinquième colonne », La Vie protestante, Genève, 26 novembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)<a class="noteref" href="#note13" id="note13_"><sup>a</sup></a><a class="bookmark" href="#19431126"> §</a></h1>
+                    <p class="p autofirst">J’ai dit du mal de tout le monde — des autres, de nous, et donc de moi aussi. Mais si le Diable est partout, sa figure se brouille. Et les définitions que j’en ai données successivement, à force de se compenser, finissent par se neutraliser. Vos descriptions, me dira-t-on, ne sont pas bien claires. Pourquoi ne pas nous donner une image nette et facilement reconnaissable de la personne de Satan ?</p>
+                    <p class="p">C’est que le Diable est justement celui qui n’est jamais clairement et honnêtement définissable. Il est celui qui s’arrange toujours pour être à la fois juge et partie dans le procès de sa définition. Un être paradoxal pas essence. Il est, oui, mais il est dans tout être <em>ce qui n’est pas</em>, ce qui tend au néant, ce qui souhaite secrètement la destruction de l’existence, — celle des autres ou la sienne propre. Sa qualité de n’être pas ceci ou cela de positif lui donne une liberté indéfinie d’action, d’incognito et d’alibis à perte de vue.</p>
+                    <p class="p">Vulgaire et séduisant, pharisien et voyou, hypocrite et cynique à la fois, repoussant mais non moins fascinant, il est sans doute la créature la plus poétique du monde, au sens romantique de ce terme. Il est beau aux yeux des naïfs qui croient que le mal doit être laid ; et il est d’une laideur irrésistiblement attirante aux yeux des désabusés et des raffinés. En bref, il n’est jamais où vous pensiez le trouver. Il imite, en la caricaturant, l’action même du Saint-Esprit, toujours ambiguë pour notre doute et déconcertante pour notre raison.</p>
+                    <p class="p">On sait assez que le procédé favori de la Cinquième Colonne consiste à semer la confusion dans le camp de l’adversaire en y répandant alternativement de vraies et de fausses nouvelles. Voilà le Diable à l’œuvre dans nos vies ! Il est l’essence même de la Cinquième Colonne au siècle des siècles.</p>
+                    <p class="p">Enfin, — et ceci doit me rendre prudent, personnellement — le Diable est l’être qui, lorsqu’une dénonciation le fait déguerpir de sa cachette, va se loger de préférence chez celui qui l’a dénoncé, et qui se tient pour assuré dans sa bonne conscience. Au moment où vous croyez l’attraper chez un autre et lui régler son compte — voici qu’il est devenu vous-même !</p>
+                    <p class="p">Mais alors ?…</p>
+                    <p class="p">Eh bien ! si vous voulez déjouer les tours du Diable, si vous tenez sérieusement à l’attraper, je vais vous dire où vous le trouverez le plus sûrement : <em>dans le fauteuil où vous êtes assis</em>.</p>
+                    <section class="footnotes">
+                      <aside id="note13" class="note bottomnote"><a class="noteback" href="#note13_">a. </a>« Les tours du Diable VII : La cinquième colonne », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 novembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431203" name="Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable VIII : Le Diable démocrate », La Vie protestante, Genève, 3 décembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)<a class="noteref" href="#note14" id="note14_"><sup>a</sup></a><a class="bookmark" href="#19431203"> §</a></h1>
+                    <p class="p autofirst">Le <span class="num">xixe</span> siècle, sans s’en douter, a remplacé la Providence par le <em>progrès automatique</em>. Devant les résultats présents de cette croyance quasi universelle dans les masses et l’élite, l’on est induit à reconnaître que le Progrès automatique n’était qu’un déguisement du Diable. Non pas qu’aucun progrès réel soit diabolique en soi ! Mais si l’on s’abandonne au rêve du Progrès, laissant aller les choses avec l’arrière-pensée fataliste et réconfortante que tout s’arrangera de soi-même, dans l’ensemble et à la longue, alors le Progrès devient le plus dangereux des soporifiques, une véritable drogue du Démon, l’un de ses nouveaux noms.</p>
+                    <p class="p">Nous avons cru à la <em>bonté foncière de l’homme</em>. Par gentillesse pour les autres, évidemment… Mais c’est toujours une manière de croire aussi à sa propre bonté. Et donc de s’aveugler sur le mal que l’on porte en soi. Et donc de ne pas se soucier de la présence active du Démon. Et donc enfin de lui laisser le champ libre pour nous duper.</p>
+                    <p class="p">Nous avons cru que <em>le mal était relatif</em> dans le monde, qu’il provenait d’une mauvaise répartition des biens, d’une éducation mal comprise, de lois inadéquates, ou de refoulements et d’injustices qui pouvaient être éliminés par des mesures adroites. Toutes ces croyances, en grande partie superstitieuses, ont eu pour principal effet de nous aveugler sur la réalité de l’homme, c’est-à-dire sur la réalité essentielle du mal enraciné dans notre liberté, dans nos données premières, dans la nature et dans la définition même de l’homme en tant qu’il est humain.</p>
+                    <p class="p">Nous avons été <em>optimistes</em> par principe, et presque par savoir-vivre, dirait-on, malgré tous les démentis de la réalité. Cet optimisme n’est pas la confiance naïve de l’enfant, mais une espèce de mensonge. Exactement : une <em>fuite</em> devant le réel. Car dans le réel, nous savons bien qu’il y a du mal, qu’il y a l’action du Diable. Mais cela nous scandalise et nous effraye. Alors nous essayons de conjurer le mal en le niant : c’est encore la mentalité magique. Nous pensons que celui qui dénonce le mal comme fondamental doit être lui-même très méchant. Nous croyons qu’en avouant le mal, nous le créons d’une certaine manière. Nous préférons ne pas insister. Nous « refoulons » dirait Freud. Cette fuite et ce mensonge inconscients, nous rendent incapables de comprendre ce qui se passe dans le monde, et nous livrent aux ruses les plus simples du Malin.</p>
+                    <p class="p">Nous avons éliminé de notre existence bourgeoise le sens du tragique, pour nous tourner exclusivement vers la recherche du confort et des vertus moyennes.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">De même que nous disions, en présence d’un miracle du bien : <em>trop beau pour être vrai</em> ! nous disions en présence de certaines descriptions du mal : <em>trop affreux pour être vrai</em> ! Cependant c’était vrai, mais cela nous gênait. Nous l’écartions irrésistiblement de nos pensées…</p>
+                    <p class="p">Car si ce « trop affreux » eût été vraiment vrai, il eût fallu agir d’urgence et sans réserve ; et si nous nous étions mis à agir sans réserve, nous aurions vu très vite que ce mal avait des racines dans nos vies aussi, et que d’une certaine manière, <em>nous l’aimions</em> ! Voilà le grand secret.</p>
+                    <p class="p">Le Diable a réussi à faire croire aux démocrates qu’ils n’aimaient pas du tout le mal, qu’ils ne le désiraient nullement, qu’ils étaient bons et les autres méchants, et que c’était tellement simple… Comme je voudrais que cela soit aussi simple ! Ne fût-ce que pour le moral militaire. Car, ainsi qu’aimait à le répéter un fameux général autrichien, Conrad von Hötzendorf : « Tout ce qui n’est pas aussi simple qu’une gifle ne vaut rien pour la guerre. » C’est sans doute vrai pour une armée. Mais cette guerre-ci oppose bien plus que des armées. Elle oppose des conceptions de la vie. C’est une espèce de guerre civile mondiale. Elle sera perdue si nous perdons d’abord le sens de la réalité morale.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">L’une des leçons claires qui se dégagent des événements actuels me paraît être celle-ci : la haine purement <em>sentimentale</em> du mal qui est chez autrui peut aveugler sur le mal que l’on porte en soi, et sur le sérieux du mal en général. La condamnation trop facile du méchant qui est en face peut recouvrir et favoriser beaucoup de complaisance intime à cette même méchanceté. Je pense aux vertueuses indignations du puritain tenté et qui se fait une caricature du vice d’autrui pour éviter de le reconnaître en lui-même.</p>
+                    <p class="p">… C’est pourquoi nous dirons aujourd’hui aux braves démocrates :</p>
+                    <p class="p">— Regardez le Diable qui est parmi nous ! Cessez de croire qu’il ne peut ressembler qu’à vos ennemis, car <em>c’est à vous-mêmes qu’il s’arrangera toujours pour ressembler le plus</em> ! C’est en vous seulement que vous le prendrez sur le fait. Et alors seulement, vous serez en état de la dépister chez autrui, et de l’y combattre avec succès. Car alors seulement, vous serez guéris de votre naïveté invraisemblable devant le danger totalitaire. Vous pourrez échapper à l’hypnose.</p>
+                    <section class="footnotes">
+                      <aside id="note14" class="note bottomnote"><a class="noteback" href="#note14_">a. </a>« Les tours du Diable VIII : Le Diable démocrate », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 décembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431210" name="Les tours du Diable IX : « Nous sommes tous coupables » (10 décembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable IX : “Nous sommes tous coupables” », La Vie protestante, Genève, 10 décembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)<a class="noteref" href="#note15" id="note15_"><sup>a</sup></a><a class="bookmark" href="#19431210"> §</a></h1>
+                    <p class="p autofirst">Chacun sait que les « primitifs » de la Mélanésie, victimes des plus célèbres études sociologiques du siècle, ont coutume de personnifier les forces mauvaises qui les menacent, les causes des crimes, des accidents, de la stérilité ou de la mort. Que ce soit un sorcier, un profanateur du sacré, un animal, un nuage, un bout de bois colorié, toujours la cause du mal dont souffrent ces sauvages est indépendante d’eux-mêmes.</p>
+                    <p class="p">À l’inverse, le Christianisme s’est efforcé depuis des siècles de nous faire comprendre que le Royaume de Dieu est en nous, que le Mal aussi est en nous, et que le champ de leur bataille n’est pas ailleurs que dans nos cœurs. Cette éducation a largement échoué. Nous persistons dans notre primitivisme. Nous rendons responsables de nos maux les gens d’en face, toujours, ou la force des choses. Si nous sommes révolutionnaires, nous croyons qu’en changeant la disposition de certains objets — en déplaçant les richesses, par exemple — nous supprimerons les causes des maux du siècle. Si nous sommes des capitalistes, nous croyons qu’en déplaçant vers nous ces mêmes objets, nous sauverons tout. Si nous sommes de braves démocrates, inquiets ou optimistes, nous croyons qu’en rôtissant quelques dictateurs, profanateurs du droit, ou « sorciers », nous rétablirons la paix et la prospérité. Nous sommes encore en pleine mentalité magique. Comme de petits enfants en colère, nous battons la table à laquelle nous nous sommes heurtés. Ou comme Xerxès, nous flagellons les eaux de l’Hellespont, à grands coups de discours sur les ondes courtes.</p>
+                    <p class="p">Nous oublions ce fait fondamental : c’est qu’en réalité nos adversaires ne diffèrent pas <em>essentiellement</em> de nous. Car tout homme porte dans son corps (et dans son âme) les microbes de toutes les maladies connues, et de bien d’autres. Anéantir les signes extérieurs de la menace ne serait nullement suffisant pour nous en délivrer. Ces signes personnifient des possibilités qui existent en nous aussi, des tentations latentes qui pourraient bien se développer un jour, à la faveur de la misère ou de la fatigue, ou de quelque déséquilibre temporaire.</p>
+                    <p class="p">L’adversaire est toujours en nous.</p>
+                    <p class="p">Et c’est pourquoi je pense que le chrétien véritable serait cet homme qui n’aurait d’autre ennemi à craindre que celui qu’il loge en lui-même.</p>
+                    <p class="p">Mais voici une remarque des plus simples : personne n’a jamais prétendu qu’il agissait par mauvaise volonté. Nous sommes tous des « hommes de bonne volonté ». Pourtant voyez ce qui se passe dans le monde, et dites qui l’a fait. Le Diable ? Oui, mais par nos mains et nos pensées. C’est ici le moment de nous rappeler notre slogan démocratique : Tous les hommes se valent ! Certes, il y a des degrés dans le mal, il y a des inégalités dans la responsabilité. Mais nous sommes tous dans le mal, nous sommes tous les complices des plus grandes responsables du monde.</p>
+                    <p class="p">Cependant, évitons à tout prix un malentendu menaçant. L’intention des remarques précédentes n’est nullement de justifier « les autres », que l’on avait d’abord accusés de tout le mal ; ni de nous fourrer tous dans le même sac, sans distinctions…</p>
+                    <p class="p">Je veux dire ceci : nous sommes tous coupables dans la mesure où nous ne reconnaissons pas et ne condamnons pas en nous aussi la mentalité totalitaire, c’est-à-dire la présence active et personnelle du Démon dans nos passions, dans notre besoin de sensation, dans notre crainte des responsabilités, dans notre inertie civique, dans notre lâcheté vis-à-vis du grand nombre, de ses modes et de ses slogans, dans notre ignorance du prochain, dans notre refus enfin de tout Absolu qui transcende et qui juge nos intérêts « vitaux » (comme ils le sont toujours…).</p>
+                    <p class="p">Mais, si je ressemble à un criminel, cela ne justifie pas le criminel, cela me condamne.</p>
+                    <p class="p">Et puisqu’il faut combattre le crime, je ne dirai pas que je vais laisser courir le criminel d’en face, pour mieux me livrer d’abord à ma réforme intérieure ! Je dirai au contraire que la lutte pour me réformer et la lutte pour empêcher le criminel de poursuivre ses méfaits, <em>sont une seule et même lutte</em>.</p>
+                    <p class="p">Que servirait de gagner cette lutte en moi seulement, puisque le criminel risquerait de me supprimer ? Que servirait de la gagner hors de moi seulement, puisque je risquerais de devenir à mon tour un autre criminel ? Il n’y a qu’un crime, en moi et hors de moi. C’est le même Diable !</p>
+                    <p class="p">Et ceci n’est qu’un post-scriptum à l’adresse des pacifistes : « Nous sommes tous coupables, me disent-ils, donc nous n’avons pas le droit moral de nous battre contre celui que nous tenons pour un coupable. » — Nous sommes tous coupables, certes, mais si nous en sommes persuadés, il ne nous reste plus qu’à combattre le mal, en nous et hors de nous ; c’est le même mal ! En nous par des moyens spirituels et moraux, hors de nous par des moyens matériels et militaires, conformément à la nature du péril. Si quelqu’un met le feu à une maison, il faut des pompiers, coupables ou non, pour éteindre l’incendie ; et des policiers, coupables ou non, pour arrêter l’incendiaire. Or l’histoire nous a mis, bon gré mal gré, dans le rôle technique des pompiers et des gendarmes. Cela ne fait pas de nous des saints. Cela n’implique même pas que nous soyons « meilleurs que les autres ». Mais nous serons sûrement pires si nous ne faisons pas notre métier.</p>
+                    <section class="footnotes">
+                      <aside id="note15" class="note bottomnote"><a class="noteback" href="#note15_">a. </a>« Les tours du Diable IX : “Nous sommes tous coupables” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 10 décembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431217" name="Les tours du Diable X : Le Diable homme du monde (17 décembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable X : Le Diable homme du monde », La Vie protestante, Genève, 17 décembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)<a class="noteref" href="#note16" id="note16_"><sup>a</sup></a><a class="bookmark" href="#19431217"> §</a></h1>
+                    <p class="p autofirst">Qui donc disait que le Diable est un monsieur très bien ? Entre les gens du monde et le Prince de ce monde, les mots suggèrent, dans presque toutes les langues, certaines complicités particulières. Et le peuple, inspiré peut-être par les traditionnels avertissements de la chaire chrétienne, a toujours vu dans la « mondanité » quelque chose de vaguement satanique. Il imaginerait volontiers un Diable en cravate blanche et monoclé.</p>
+                    <p class="p">Le Diable, dit un proverbe espagnol, n’est pas à craindre parce qu’il est si méchant, mais parce qu’il est si vieux. C’est ce que l’on peut penser aussi des gens du monde, et de la sagesse mondaine en général. Elle a son charme et son utilité ; mais elle est vieille, elle est trop avertie, elle offre trop de recettes éprouvées : elle finit par ne plus croire au bien, ni au sérieux, ni à la naïveté, cette insondable ruse des cœurs purs qui leur permet de passer au travers des cercles vicieux de la raison et de l’égoïsme « bien compris ».</p>
+                    <p class="p">La fonction normale de la vie mondaine serait de maintenir et d’illustrer un certain nombre de devises d’élégance morale et de sagesse pratique. Il n’y a rien là de diabolique, tout au contraire. Le jeu mondain, s’il est bien joué, ménage autant de liberté qu’il ne suppose, dit-on, d’hypocrisie. Il a le charme reposant des formes fixes. Mais le mondain qui n’est que cela inspire une sorte d’effroi furtif, révélateur d’une présence perverse au sein même de l’insignifiance. L’exactitude impitoyable de ses jugements, qui ne portent d’ailleurs que sur des apparences ; sa capacité d’éliminer froidement ce qui n’est pas conforme aux goûts appris ; sa propension presque maniaque à n’attacher de l’importance qu’à un détail fortuit dans un être ou une œuvre ; tous ces traits qui pourraient dénoter l’exigence d’un artiste véritable, prennent soudain quelque chose de satanique lorsque l’on s’aperçoit de la stérilité du personnage, et des effets stérilisants qu’entraîne sa fréquentation. Ce n’est pas le goût ni même le pédantisme de la forme qui est satanique, c’est le goût de la forme imitée.</p>
+                    <p class="p">Le milieu mondain le plus suavement correct et moral peut fort bien être préféré par le Diable à ces milieux bohèmes et de mœurs relâchées qui se croiraient volontiers damnés. C’est, je crois, parce que, dans le monde, un miracle paraît plus qu’ailleurs improbable.</p>
+                    <section class="footnotes">
+                      <aside id="note16" class="note bottomnote"><a class="noteback" href="#note16_">a. </a>« Les tours du Diable X : Le Diable homme du monde », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 17 décembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19431224" name="Les tours du Diable XI : Le Diable dans nos dieux (24 décembre 1943)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Les tours du Diable XI : Le Diable dans nos dieux », La Vie protestante, Genève, 24 décembre 1943, p. 2.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.2" id="p.2">[p. 2]</a>
+                    <h1 class="head article">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#19431224"> §</a></h1>
+                    <p class="p autofirst">Nous avons parlé de l’incognito du Diable. Mais il existe aussi un incognito divin, et c’est l’Incarnation, c’est-à-dire Dieu caché autant que révélé dans l’homme Jésus. Quelques-uns seulement surent reconnaître le Christ dans le fils de Joseph, charpentier de village. Mais l’incognito et l’alibi du Diable sont exactement inverses : c’est dans l’image de nos dieux qu’il va se dissimuler, au cœur même de nos idéaux et de nos vérités trop humaines, dans les religions que nous confabulons en dehors de la foi révélée. Le Diable nous empêche de reconnaître Dieu dans Jésus-Christ, mais à l’inverse, il nous empêche aussi de nous reconnaître dans nos idoles.</p>
+                    <p class="p">Voici comment les hommes s’enchaînent aux dieux qu’ils créent. Ceux qui ne l’ignoraient pas ont renié la Révélation. Dès lors ils en étaient réduits à inventer Dieu. Mais on n’invente que ce que l’on est sans le savoir. Ils ont donc inventé un « Dieu » qui était le moi conscient ou inconscient de ses croyants. Une image de leur impérialisme, ou une compensation rêvée de leurs défauts. Et ce fut le Dieu de la raison pour les tempéraments rationalistes, le Dieu de l’instinct et de la passion pour les hyper-civilisés, le Dieu du succès pour les robustes puritains, le Dieu philanthrope pour les avares et les timides, etc. Tout ceci pour la bourgeoisie et le siècle individualiste.</p>
+                    <p class="p">Les suivants, nos contemporains, moins hypocrites que leurs prédécesseurs, n’ont pas parlé de « Dieu ». Mais ils ont dit Nation, ou Race, ou Classe. Dans ces trois entités divinisées, le <em>moi</em> n’est plus déguisé qu’en un <em>nous</em>.</p>
+                    <p class="p">Et ces trois entités ont ceci de commun : elles ne sont responsables de rien devant personne, s’étant faites elles-mêmes les critères de toute vérité purement humaine, et décrétant qu’il n’est plus d’autre vérité. Or, aux yeux de ceux qui les servent, l’homme n’existe qu’en elles et par elles. Dans la mesure où nous leur obéissons, nous ne sommes donc plus responsables de nos actes, mais elles le sont à notre place. Et comme elles-mêmes n’ont à répondre devant aucune instance supérieure, il n’y a plus de responsabilité nulle part.</p>
+                    <p class="p">Mais s’il apparaît, à l’inverse, que nous ne coïncidons pas avec l’entité divinisée — parce que nous sommes d’une autre race, d’une autre classe, ou d’une autre génération physique et mentale que celle qui détient le pouvoir — alors nous sommes des « vipères lubriques » et nous devons le confesser publiquement. Après quoi nous recevons une balle dans la nuque, ou bien nous sommes décapités à la hache, selon qu’il s’agit respectivement du dieu Classe ou du dieu Race.</p>
+                    <p class="p">Les dieux des hommes sont sans pardon. Ce sont des diables.</p>
+                    <p class="p">Toutefois le Diable est sans doute moins dangereux lorsqu’il nous tue, que lorsqu’il prétend nous faire vivre. Il est moins dangereux dans nos vices que dans nos vertus satisfaites…</p>
+                    <p class="p">Voyez plutôt.</p>
+                    <p class="p">Un jour, un Philanthrope s’en allait le long de la rue. Il avait la tête et les poches pleines de projets philanthropiques, propres à réformer l’humanité au delà de tout ce que je désirerais même imaginer. Il venait d’allumer un bon cigare dont la fumée montait comme un encens et devait être en bonne odeur à l’Éternel, car cet homme avait le cœur pur.</p>
+                    <p class="p">À quelques mètres derrière lui suivaient le Diable et l’un de ses compères. Ils observaient le Philanthrope, d’un œil critique. Un pauvre homme l’arrêta pour lui demander une cigarette, dans une langue de réfugié. Le Philanthrope sans hésiter lui remit une pièce, et poursuivit son chemin. Il marchait dans la gloire, et sa conscience resplendissait comme un sou neuf. « Tu n’as pas peur de lui ? dit le compère au Diable. Il m’a l’air terriblement bon ! Et ses plans sont irréprochables, paraît-il : intelligents et généreux, idéalistes, réalistes… » Le Diable ne répondit rien ; il souriait, tout en lisant un bout de papier qu’il venait de ramasser sur le trottoir. Après quelques instants, poussant du coude son compère : « Je fais mon affaire du bonhomme ! dit-il entre ses dents. Voici son plan qu’il a laissé tomber en donnant une pièce au mendiant. Il est parfait, ce plan, comme tu le craignais. <em>Mais moi, je vais l’organiser</em> ! »</p>
+                    <section class="footnotes">
+                      <aside id="note17" class="note bottomnote"><a class="noteback" href="#note17_">a. </a>« Les tours du Diable XI : Le Diable dans nos dieux », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 24 décembre 1943, p. 2.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/vp/19611229" name="Bilan simple (29 décembre 1961)" package="ddr_vp" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« Bilan simple », La Vie protestante, Genève, 29 décembre 1961, p. 1.</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p.1" id="p.1">[p. 1]</a>
+                    <h1 class="head article">Bilan simple (29 décembre 1961)<a class="noteref" href="#note18" id="note18_"><sup>a</sup></a><a class="bookmark" href="#19611229"> §</a></h1>
+                    <p class="p autofirst">Le bilan de l’année qui s’écoule me paraît simple à établir dans ses grandes lignes et à l’échelle de la planète : l’une après l’autre, toutes les puissances ont perdu la face, — sauf l’Europe.</p>
+                    <p class="p">L’URSS a perdu la face en tant que champion de la paix et du désarmement, en faisant éclater trente bombes atomiques en deux mois. À Goa, l’Inde a perdu la face, en tant que champion de la non-violence. À Cuba, les États-Unis ont perdu la face en tant que champions de la non-intervention.</p>
+                    <p class="p">Au Katanga, l’ONU a perdu la face en tant que champion de l’arbitrage pacifique et du droit des petits États. Quant à l’Allemagne de l’Est, c’est à la cause du communisme tout entier qu’elle a fait perdre la face, en bâtissant le mur de Berlin non pour se protéger contre une attaque, mais pour empêcher <em>tout un peuple</em> de fuir en masse le régime « populaire » !</p>
+                    <p class="p">Et tandis que les grands Moralisants du Monde humiliaient ainsi leurs principes, l’Europe accomplissait sans bruit un redressement spectaculaire. Aux États-Unis, d’où je reviens, il n’est question que du « miracle européen ». C’est un fait : la montée vers une prospérité sans précédent s’est opérée dans le temps même où l’Europe achevait de libérer ses colonies — dont on prétendait qu’elle vivait ! A-t-on remarqué le parallélisme, si frappant, entre la fin de la domination mondiale par nos nations, et les débuts de leur union ? Tandis que le Tiers Monde, copiant ses anciens maîtres, se livre à la passion nationaliste, qui veut la guerre, l’Europe surmonte enfin les divisions mortelles qu’entretenait dans son sein cette même passion. Elle choisit la santé : elle veut se fédérer. Et bien sûr, tout n’est pas encore gagné. Mais en demandant son accession à ce Marché commun qu’elle affecta longtemps de traiter d’utopie, la Grande-Bretagne a démontré que l’Europe unie était d’ores et déjà bien autre chose qu’une rêverie d’intellectuels. Tel est sans doute le fait majeur qui marquera l’année 1961 aux yeux de l’histoire.</p>
+                    <p class="p">En offrant au monde l’exemple d’une Fédération pacifique — que la Suisse a toutes les raisons de ne plus bouder — les Européens reprendront la tête du progrès humain. Ils ne retrouveront pas seulement leur vraie puissance, morale et matérielle, mais ils indiqueront aux peuples nouveaux de l’Afrique et de l’Asie les voies de leur propre avenir. Une fois unie politiquement, l’Europe exercerait sur l’URSS, comme elle le fait déjà sur les États-Unis, une attraction irrésistible. Et le Grand Occident reconstitué serait garant de la paix mondiale.</p>
+                    <p class="p">N’est-il pas admirable que l’année de l’Europe ait coïncidé par hasard avec l’année d’une grande étape œcuménique, la Nouvelle Delhi ? L’Église de Rome jouera sa part l’année prochaine. Nous sommes au seuil de l’ère des convergences, au-delà des nations souveraines et des églises refermées sur elles-mêmes. Une nouvelle Renaissance, qui est le fédéralisme, et une nouvelle Réforme, qui est l’œcuménisme, attendent notre foi et nos œuvres. Beau programme pour l’année qui vient et pour la suite ! Presque tout reste à faire, il est vrai. Sachons du moins à quels grands buts lointains nous pouvons adresser nos vœux.</p>
+                    <section class="footnotes">
+                      <aside id="note18" class="note bottomnote"><a class="noteback" href="#note18_">a. </a>« Bilan simple », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 décembre 1961, p. 1.</aside>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="autonav" name="autonav">
+            <data table="btNavigation">
+              <record>
+                <orderBy>display_asc</orderBy>
+                <displayPages>current</displayPages>
+                <displayPagesCID/>
+                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
+                <displaySubPages>none</displaySubPages>
+                <displaySubPageLevels>enough</displaySubPageLevels>
+                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
+                <displayUnavailablePages>0</displayUnavailablePages>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+  </pages>
+</concrete5-cif>

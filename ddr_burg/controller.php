@@ -1,12 +1,12 @@
 <?php
-namespace Concrete\Package\%Class%;
+namespace Concrete\Package\Ddrburg;
 
 use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = '%handle%';
-    protected $pkgVersion = '%version%';
+    protected $pkgHandle = 'ddr_burg';
+    protected $pkgVersion = '20.06.30';
 
     public function getPackageName()
     {
@@ -15,7 +15,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-      return "%title%";
+      return "Articles parus dans Bibliothèque universelle et Revue de Genève (1925–1930)";
     }
 
 
@@ -45,7 +45,7 @@ class Controller extends Package
 
     protected function delBook()
     {
-        $path = "/livres/".$this->pkgHandle;
+        $path = "/articles/burg";
         $pl = new \Concrete\Core\Page\PageList();
         $pl->filterByPath($path, true); // true = do not delete parent
         $pages = $pl->get();
