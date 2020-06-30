@@ -1,11 +1,11 @@
 <?php
-namespace Concrete\Package\Ddrfv;
+namespace Concrete\Package\Ddron;
 
 use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = 'ddr_fv';
+    protected $pkgHandle = 'ddr_on';
     protected $pkgVersion = '20.06.30';
 
     public function getPackageName()
@@ -15,7 +15,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-      return "Articles parus dans Foi et Vie (1928–1977)";
+      return "Articles parus dans L’Ordre nouveau (1933–1938)";
     }
 
 
@@ -45,7 +45,7 @@ class Controller extends Package
 
     protected function delBook()
     {
-        $path = "/articles/fv";
+        $path = "/articles/on";
         $pl = new \Concrete\Core\Page\PageList();
         $pl->filterByPath($path, true); // true = do not delete parent
         $pages = $pl->get();

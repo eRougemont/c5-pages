@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/articles/fv/192802" name="« Le péril Ford »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/192802" name="Le péril Ford (février 1928)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -18,7 +18,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr192802fv_01.jpg/full/full/0/default.jpg" id="p.189">[p. 189]</a>
-                    <h1 class="head article"> « Le péril Ford »<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#192802"> §</a></h1>
+                    <h1 class="head article">Le péril Ford (février 1928)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#192802"> §</a></h1>
                     <p class="p autofirst">On a trop dit que notre époque est chaotique. Je crois bien, au contraire, que l’histoire n’a pas connu de période où les directions d’une civilisation apparaissent plus nettement.</p>
                     <p class="p">Un certain ordre s’élabore, ou, pour mieux dire, une organisation générale de la vie mondiale. Toutes les forces du temps y concourent obscurément ; et, pour peu que cela continue, pour peu que la bourgeoisie intellectuelle persiste à jouer l’autruche aux yeux clos, l’avènement de cette organisation toute-puissante n’est plus qu’une question de quelques années. Mais peut-être est-il temps encore. Ici et là, quelques cris s’élèvent dans le désert d’une époque déjà presque abandonnée par l’Esprit. À l’heure de toucher aux buts que sa civilisation poursuit depuis près de deux siècles, l’Occidental est saisi d’un étrange malaise. Il soupçonne, par éclairs, qu’il y avait peut-être dans ces buts une absurdité fondamentale. L’infaillible progrès aurait-il fait fausse route ? Est-il temps encore de le détourner du désastre spirituel vers lequel il entraîne l’Occident ?</p>
                     <p class="p">Cris dans le désert. Déserts des villes fiévreuses où le fracas des machines couvre déjà la plainte humaine.</p>
@@ -93,7 +93,7 @@
                     </section>
                     <section id="body-1-4" class="div level2 level2">
                       <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr192802fv_11.jpg/full/full/0/default.jpg" id="p.199">[p. 199]</a>
-                      <h2 class="head"> IV. « En être » ou ne pas en être<a class="bookmark" href="#body-1-4"> §</a></h2>
+                      <h2 class="head">IV. « En être » ou ne pas en être<a class="bookmark" href="#body-1-4"> §</a></h2>
                       <p class="p autofirst">Une fois qu’on a compris à quel point le fordisme et l’Esprit sont incompatibles, le monde moderne impose ce dilemme : « en être » ou ne pas en être, c’est-à-dire se soumettre à la technique et s’abrutir spirituellement — ou se soumettre à l’Esprit, et tomber presque fatalement dans un anarchisme stérile.</p>
                       <p class="p">1° <em>Accepter la technique et ses conditions</em>. Dans cette mécanique bien huilée, au mouvement si régulier qu’il en devient insensible et que la fatigue semble disparaître, l’homme s’abandonne à des lois géométriques. Un jeu de chiffres d’horlogerie calculé une fois pour toutes et qu’il sent immuable comme la mort le restitue au monde vers 5 heures du soir, dans la détresse des dernières sirènes. Au monde, c’est-à-dire à une nature dont l’usine lui a fait oublier jusqu’à l’existence, et à une liberté qu’il s’empresse d’aliéner au profit de plaisirs tarifés, soumis plus subtilement encore que son travail aux lois d’une offre et d’une demande sans rapport avec ses désirs réels, et dont il subit docilement l’abstraite et commerciale nécessité. Ennui, fatigue, sommeil sans prière.</p>
                       <p class="p">Cela s’appelle encore vivre. Mais l’homme qui était un membre vivant dans le corps de la Nature, lié par les liens les plus subtils et les plus profonds à tous les autres membres de la Nature, choses, bêtes et anges, — le voici devenu sourd à cette harmonie universelle, incapable d’en comprendre les correspondances divines et humaines, insensible même à sa déchéance, abandonné à la lutte tragique et absurde des lois économiques et des exigences les plus rudimentaires de son corps.</p>
@@ -152,7 +152,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/1930" name="« Pour un humanisme nouveau »[Réponse à une enquête]" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/1930" name="« Pour un humanisme nouveau » [Réponse à une enquête] (1930)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -169,7 +169,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr1930fv_01.jpg/full/full/0/default.jpg" id="p.242">[p. 242]</a>
-                    <h1 class="head article"> « Pour un humanisme nouveau »[Réponse à une enquête]<a class="noteref" href="#note6" id="note6_"><sup>a</sup></a><a class="bookmark" href="#1930"> §</a></h1>
+                    <h1 class="head article">« Pour un humanisme nouveau » [Réponse à une enquête] (1930)<a class="noteref" href="#note6" id="note6_"><sup>a</sup></a><a class="bookmark" href="#1930"> §</a></h1>
                     <p class="p autofirst">Deux menaces mortelles assiègent notre condition humaine : la <em>liberté</em> de l’esprit et les <em>lois de la matière</em>. Pris entre une anarchie et une fatalité également funestes, également démesurées, l’homme ne peut subsister qu’en tant que son génie parvient à composer les deux périls en une résultante qui est la civilisation. Appelons humanisme l’art de composer pour la défense de l’homme et son illustration des puissances de nature inhumaine. Nous pourrons définir un tel humanisme : l’organe d’équilibre de la civilisation.</p>
                     <p class="p">Nous tenions de l’Antiquité, et singulièrement de la Grèce, le sentiment d’une harmonie nécessaire entre nos gestes et nos pensées, nos créations et notre connaissance ; le sentiment d’une harmonie à sauvegarder au sein de nos connaissances même, et dans l’allure de leur progrès. Les humanités nous paraissaient devoir transmettre aux générations cette notion d’un équilibre proprement humain. Ainsi passèrent quelques siècles ; ainsi passa le <span class="num">xix<sup class="sup">e</sup></span>. On le laissa installer ses machines : elles avaient l’air de grands joujoux ; et l’on continua d’apprendre <em>rosa : la rose</em>, d’admirer le Parthénon et le courage de Mucius Scevola. On croyait au progrès, sous <em>n’importe quelle forme</em>.</p>
                     <p class="p">Brusquement, nous voici « gagnés » par l’un des éléments de notre destin. La composante matérielle vient de l’emporter. Elle est en passe de gauchir notre civilisation à tel point que l’homme, affolé, soudain, doute s’il est encore maître de la redresser. C’est qu’il n’y a plus d’humanisme, s’il subsiste des humanités. L’humanisme est compromis virtuellement dès lors que la science proclame son autonomie vis-à-vis de la métaphysique. L’équilibre de notre esprit ne comporte pas l’égalité de droit de ces deux disciplines. Car la science à peine libérée, demande la tête de la métaphysique. Elle n’entend que ses intérêts. Elle eut naguère des insolences d’affranchi, dont les philosophes demeurent tout intimidés.</p>
@@ -222,7 +222,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193102" name="« La Voie royale »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193102" name="André Malraux, La Voie royale (février 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -239,7 +239,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193102fv_01.jpg/full/full/0/default.jpg" id="p.78">[p. 78]</a>
-                    <h1 class="head article"> « La Voie royale »<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#193102"> §</a></h1>
+                    <h1 class="head article">André <span class="sc">Malraux</span>, <em>La Voie royale</em> (février 1931)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#193102"> §</a></h1>
                     <p class="p autofirst">M. André Malraux écrit des livres qu’on n’oublie pas facilement. C’est qu’il y apporte un peu plus d’expérience humaine qu’on n’a coutume d’en attendre aujourd’hui d’un jeune écrivain. Son premier roman, <em>Les Conquérants</em>, décrivait la révolution communiste en Chine, et la figure centrale de Garine, anarchiste par goût de l’expérience, conférait à tout le livre un caractère assez directement autobiographique. La philosophie de ce Garine, en effet, ressemblait singulièrement à celle que M. Malraux venait justement d’exposer dans un petit ouvrage aigu et dense intitulé <em>La Tentation de l’Occident</em>.</p>
                     <p class="p"><em>La Voix royale</em><a class="noteref" href="#note12" id="note12_"><sup>1</sup></a>, est, croyons-nous, le récit des événements qui précédèrent l’aventure chinoise de l’auteur. C’est un roman plus dépouillé, plus inégal aussi à certains égards et qui cette fois ne montre pas l’homme aux prises avec l’humanité civilisée, mais avec la nature la plus sauvage. Comme <em>Les Conquérants</em>, c’est une sorte de roman d’aventures <em>significatives</em>, et dont le tragique est décuplé par la valeur qu’il prend dans l’esprit des héros.</p>
                     <p class="p">Un jeune Français a décidé d’aller fouiller les temples en ruines de la Voie Royale d’Angkor : il compte y découvrir des bas-reliefs dont il pourrait tirer un prix considérable. 
@@ -287,7 +287,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193103" name="« Sécularisme »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193103" name="Sécularisme (mars 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -304,7 +304,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193103fv_01.jpg/full/full/0/default.jpg" id="p.184">[p. 184]</a>
-                    <h1 class="head article"> « Sécularisme »<a class="noteref" href="#note15" id="note15_"><sup>a</sup></a><a class="bookmark" href="#193103"> §</a></h1>
+                    <h1 class="head article">Sécularisme (mars 1931)<a class="noteref" href="#note15" id="note15_"><sup>a</sup></a><a class="bookmark" href="#193103"> §</a></h1>
                     <p class="p autofirst">Il nous plaît de faire converser ici les gens les moins faits pour s’entendre : ce n’est pas un mauvais moyen de dégager la mentalité d’une époque — selon la dialectique de cet Hegel auquel on revient parce qu’au contraire de M. Léon Brunschvicg, il avait le sens du tragique de la vie. De pareilles « conversations » ne ressortent nullement de la critique littéraire ; il arrive qu’elles mettent en jeu de gros problèmes à propos d’ouvrages bien minces. C’est qu’aujourd’hui le moindre chien écrasé pose toute la question sociale. Ainsi, sommes-nous amenés à donner une « importance » relative à des œuvres qui « signifient » plus qu’elles ne « sont ». L’on mesure ici l’écart d’avec la littérature d’avant-guerre, qui était avant tout un art. La nôtre ayant voix au forum discute autant qu’elle n’invente ou qu’elle ne stylise. On peut dire, avec plus de louange d’ailleurs que d’ironie, qu’elle touche à tout dans l’homme et dans la société. Elle a l’absence de scrupules des gens qui ont une mission urgente à remplir.</p>
                     <p class="p">Ces quelques remarques nous placent sous l’angle qu’il faut pour situer le petit livre de M. P. Nizan<a class="noteref" href="#note16" id="note16_"><sup>1</sup></a>, dans sa perspective la plus équitable. C’est le type du livre qui vaut surtout par l’attitude qu’il manifeste et commente.</p>
                     <p class="p">
@@ -370,7 +370,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193104_p274" name="« Une exposition d’artistes protestants modernes »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193104_p274" name="Une exposition d’artistes protestants modernes (avril 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -387,7 +387,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193104fv_p274_01.jpg/full/full/0/default.jpg" id="p.274">[p. 274]</a>
-                    <h1 class="head article"> « Une exposition d’artistes protestants modernes »<a class="noteref" href="#note20" id="note20_"><sup>a</sup></a><a class="bookmark" href="#193104_p274"> §</a></h1>
+                    <h1 class="head article">Une exposition d’artistes protestants modernes (avril 1931)<a class="noteref" href="#note20" id="note20_"><sup>a</sup></a><a class="bookmark" href="#193104_p274"> §</a></h1>
                     <p class="p autofirst">C’est donc qu’il y en a ? avez-vous dit. Depuis le temps qu’on cherchait à nous faire croire qu’une origine protestante était un vice rédhibitoire pour toute carrière artistique, un facteur de stérilité ou tout au moins de sécheresse. Et voici que s’alignent sur une même affiche et sous la double étiquette de protestants et de modernes des noms de peintres comme Bosshardt, Raoul Dufy, Lotiron, Zingg, le sculpteur Gimond, l’architecte Le Corbusier, le décorateur Ruhlmann, le photographe Kertész… L’avant-garde parisienne la plus fringante et bariolée. Il y a là quelque mystère ; demandons-en l’explication à la Préface d’un si brillant catalogue.</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Parce qu’ils parlent un peu pour nous et parce qu’ils nous parlent, nous avons demandé à ces artistes de venir dans notre cercle. Héritiers du plus grand affranchissement et de la plus héroïque résistance, nous voulons aller de l’avant, nous n’avons pas peur d’essayer vers la beauté de nouvelles routes. On nous connaît mal. Derrière le mur de notre maison on nous croyait peut-être enfermés dans un moralisme étriqué, ennuyeux et consciencieusement arriérés. Or nous n’étions pas raisonnables, nous faisions des projets dont on parlait, la nuit, dans les chambres où les curiosités et les enthousiasmes en désordre s’agitaient 
@@ -435,7 +435,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193104_p287" name="« Conférences du Comte Keyserling »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193104_p287" name="Conférences du Comte Keyserling (avril 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -452,7 +452,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193104fv_p287_01.jpg/full/full/0/default.jpg" id="p.287">[p. 287]</a>
-                    <h1 class="head article"> « Conférences du Comte Keyserling »<a class="noteref" href="#note21" id="note21_"><sup>a</sup></a><a class="bookmark" href="#193104_p287"> §</a></h1>
+                    <h1 class="head article">Conférences du Comte Keyserling (avril 1931)<a class="noteref" href="#note21" id="note21_"><sup>a</sup></a><a class="bookmark" href="#193104_p287"> §</a></h1>
                     <p class="p autofirst">L’auteur du <em>Journal de voyage d’un philosophe</em>, d’<em>Analyse spectrale de l’Europe</em>, de <em>Psychanalyse de l’Amérique</em>, le célèbre philosophe fondateur de l’École de la Sagesse de Darmstadt vient de donner au Trocadéro trois conférences sur les problèmes fondamentaux de la civilisation moderne. Décidément, le goût du colossal — transmis aux Américains — reste un trait marquant de l’âme allemande : le choix de la salle, les sujets abordés, jusqu’à la stature du conférencier en témoignent une fois de plus.</p>
                     <p class="p">Accueilli avec quelque perplexité par le public de la première conférence, sifflé à la seconde, ovationné à la dernière, Keyserling, il faut le reconnaître, a su, par trois fois, tenir en haleine une salle énorme en parlant avec sérieux de problèmes essentiels : c’est une performance qui vaut d’être enregistrée.</p>
                     <p class="p">Rien de très neuf dans cette trilogie philosophique, mais un bel ensemble d’observations justes et souvent profondes sur les grandeurs et les misères d’une ère mécanicienne qui prélude à l’organisation du monde-termitière type Lénine ou Ford. Soucieux de comprendre notre temps avant de le condamner ou de l’absoudre, défenseur convaincu d’une spiritualité dont il annonce le réveil au sein même du triomphe des machines, Keyserling apparaît comme un type très représentatif de l’Occident. Il n’a rien du prophète oriental contre lequel des Massis mal informés nous mettaient naguère en garde.</p>
@@ -489,7 +489,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193105_p344" name="« Au sujet d’un grand roman : La Princesse Blanche par Maurice Baring »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193105_p344" name="Au sujet d’un grand roman : La Princesse Blanche par Maurice Baring (mai 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -506,7 +506,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193105fv_p344_01.jpg/full/full/0/default.jpg" id="p.344">[p. 344]</a>
-                    <h1 class="head article"> « Au sujet d’un grand roman : <em>La Princesse Blanche</em> par Maurice Baring »<a class="noteref" href="#note22" id="note22_"><sup>a</sup></a><a class="bookmark" href="#193105_p344"> §</a></h1>
+                    <h1 class="head article">Au sujet d’un grand roman : <em>La Princesse Blanche</em> par Maurice Baring (mai 1931)<a class="noteref" href="#note22" id="note22_"><sup>a</sup></a><a class="bookmark" href="#193105_p344"> §</a></h1>
                     <p class="p autofirst">M. Maurice Baring est entré dans l’intimité de milliers de lecteurs français avec un livre d’un rare prestige, <em>Daphné Adeane</em>. On vient de traduire un autre roman du même auteur<a class="noteref" href="#note23" id="note23_"><sup>1</sup></a>, et il nous aide à mieux définir le charme de cette œuvre inoubliable. Antérieur de quelques années à <em>Daphné</em>, beaucoup plus long, — il compte plus de 600 pages dans l’édition française — d’un rythme plus inégal aussi, il ne lui est pas inférieur par l’intérêt humain, et sa qualité d’émotion n’est pas moins pure. C’est l’histoire de la vie d’une femme, et de la vie d’une société aujourd’hui presque disparue, « roman-fleuve » que deux dates limitent : 1851-1914. Ainsi met-il en jeu les deux éléments dont l’antagonisme fait le fond de presque toutes les grandes œuvres romanesques : une individualité et un milieu social bien défini. À ces deux éléments s’en ajoute un troisième qui est moins visible, mais dont la présence constante donne au livre toute sa gravité. Maurice Baring exprime ce troisième sujet par deux vers de son ami Hilaire Belloc dont voici la traduction : <em>L’amour de Dieu qui mène aux royaumes d’en-haut est contrecarré par le dieu de l’Amour</em>.</p>
                     <p class="p">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193105fv_p344_02.jpg/full/full/0/default.jpg" id="p.345">[p. 345]</a>
@@ -576,7 +576,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193105_p351" name="« Kierkegaard »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193105_p351" name="Kierkegaard (mai 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -593,7 +593,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193105fv_p351_01.jpg/full/full/0/default.jpg" id="p.351">[p. 351]</a>
-                    <h1 class="head article"> « Kierkegaard »<a class="noteref" href="#note28" id="note28_"><sup>a</sup></a><a class="bookmark" href="#193105_p351"> §</a></h1>
+                    <h1 class="head article">Kierkegaard (mai 1931)<a class="noteref" href="#note28" id="note28_"><sup>a</sup></a><a class="bookmark" href="#193105_p351"> §</a></h1>
                     <p class="p autofirst">L’entrée de l’œuvre de Kierkegaard dans le monde intellectuel et religieux français, est un événement qui mérite d’être signalé et qui aura un profond retentissement dans le protestantisme en particulier. Depuis quelques années, le nom de Kierkegaard reparaît de loin en loin dans des revues comme <em>Commerce</em>, la <em>Nouvelle Revue française</em>, la <em>Revue de Genève</em>. Diverses études lui ont été consacrées, en particulier dans la <em>Revue d’histoire et de philosophie religieuses</em> de Strasbourg (Pascal et Kierkegaard), et dans la <em>Revue de métaphysique et de morale</em>. Et voici que l’on annonce de plusieurs côtés<a class="noteref" href="#note29" id="note29_"><sup>1</sup></a>, la publication prochaine des œuvres principales de l’un des plus grands esprits du <span class="num">xix<sup class="sup">e</sup></span> siècle, du plus méconnu peut-être, en France tout au moins, — du plus actuel, je dirais même du plus urgent de tous.</p>
                     <p class="p">Soeren Kierkegaard naquit à Copenhague en 1813, et y mourut en 1855. Voici comment le profond essayiste allemand Rudolf Kassner caractérise cette existence (<em>Commerce</em>, n° XII).</p>
                     <blockquote class="quote">
@@ -638,7 +638,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193107" name="« Littérature alpestre »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193107" name="Littérature alpestre (juillet 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -655,7 +655,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193107fv_01.jpg/full/full/0/default.jpg" id="p.548">[p. 548]</a>
-                    <h1 class="head article"> « Littérature alpestre »<a class="noteref" href="#note30" id="note30_"><sup>a</sup></a><a class="bookmark" href="#193107"> §</a></h1>
+                    <h1 class="head article">Littérature alpestre (juillet 1931)<a class="noteref" href="#note30" id="note30_"><sup>a</sup></a><a class="bookmark" href="#193107"> §</a></h1>
                     <p class="p autofirst">M<sup class="sup">lle</sup> Claire-Éliane Engel, qui a conquis maint sommet du massif du Mont-Blanc, et un grade de docteur ès lettres, vient de nous donner un livre bien utile<a class="noteref" href="#note31" id="note31_"><sup>1</sup></a>. En vérité, il fallait une sorte d’intrépidité pour entreprendre cette « traversée » de deux littératures. Combien d’heures de marche monotone à travers des moraines et des névés interminables, pour mériter quelques instants de plénitude dans la contemplation de sommets assez rares. Personne, à notre connaissance, ne s’était risqué jusqu’ici dans pareille aventure. Personne même n’avait signalé cette curieuse lacune de notre histoire littéraire : pour nos critiques, les Alpes n’avaient pas d’histoire. Enfin, voici ce livre, point trop volumineux — il trouvera sa place dans votre valise — et d’une érudition très aérée. Comment ne point partager, en le lisant, ce goût qu’avait le vieux Goethe pour les ouvrages documentaires, pleins d’analyses précises, de citations, de planches hors-texte ? C’est un repos de l’esprit en même temps qu’une nourriture pour l’imagination. On goûtera les citations nombreuses que l’auteur a su introduire et commenter avec la discrétion et souvent l’ironie légère qui conviennent. Plus encore que par leur valeur proprement littéraire et descriptive, elles nous paraissent intéressantes par tout ce qu’elles révèlent de la mentalité des écrivains et des peuples dont elles émanent. La montagne est un merveilleux réactif, au contact duquel certains traits de caractères nationaux s’accusent d’une manière imprévue et significative. On regrettera seulement que l’auteur ait dû se borner à confronter les réactions anglaises et françaises. La réaction allemande eût apporté un élément important et radicalement différent. Nous essaierons de l’esquisser plus
           loin.</p>
                     <div class="ab ornament">⁂</div>
@@ -705,7 +705,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193109" name="« Avant l’Aube, par Kagawa »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193109" name="Avant l’Aube, par Kagawa (septembre 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -722,7 +722,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193109fv_01.jpg/full/full/0/default.jpg" id="p.623">[p. 623]</a>
-                    <h1 class="head article"> « <em>Avant l’Aube</em>, par Kagawa »<a class="noteref" href="#note33" id="note33_"><sup>a</sup></a><a class="bookmark" href="#193109"> §</a></h1>
+                    <h1 class="head article"><em>Avant l’Aube</em>, par Kagawa (septembre 1931)<a class="noteref" href="#note33" id="note33_"><sup>a</sup></a><a class="bookmark" href="#193109"> §</a></h1>
                     <p class="p autofirst">Dire de ce livre qu’il ne ressemble à rien serait une louange trop littéraire. C’est un livre entièrement simple qui nous introduit dans la connaissance de la misère, et par là même nous fait sentir combien nous sommes mesquins, sans exigences véritables et sans grandeur. Peut-être, se dit-on en le fermant, est-il réellement impossible à une âme chrétienne d’atteindre la grandeur morale si elle n’a pas connu, ne fût-ce que par sa puissance de sympathie, la misère physique et matérielle du monde où nous vivons. C’est un terrible péché du christianisme européen, que d’avoir pratiquement abandonné à une doctrine de haine le sort de ceux que le Christ aima, parce que leur dénuement était ce qu’il y avait au monde, de plus proche de sa grandeur.</p>
                     <p class="p">L’existence et l’action de Kagawa, telles qu’il les raconte dans ces deux volumes, témoignent que l’amour chrétien peut encore aujourd’hui pénétrer un monde revendiqué par le communisme, comme son bien propre. Mais il n’y a pas là de quoi nous rassurer.</p>
                     <p class="p">Si la vie de Kagawa glorifie l’Évangile, elle accuse formellement la grande majorité des chrétiens. Tant mieux si ce livre nous passionne. Il faudrait surtout qu’il nous trouble.</p>
@@ -828,7 +828,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193110_p725" name="« André Gide ou le style exquis (à propos de Divers) »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193110_p725" name="André Gide ou le style exquis (à propos de Divers) (octobre 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -845,7 +845,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193110fv_p725_01.jpg/full/full/0/default.jpg" id="p.725">[p. 725]</a>
-                    <h1 class="head article"> « André Gide ou le style exquis (à propos de <em>Divers</em>) »<a class="noteref" href="#note35" id="note35_"><sup>a</sup></a><a class="bookmark" href="#193110_p725"> §</a></h1>
+                    <h1 class="head article">André Gide ou le style exquis (à propos de <em>Divers</em>) (octobre 1931)<a class="noteref" href="#note35" id="note35_"><sup>a</sup></a><a class="bookmark" href="#193110_p725"> §</a></h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">La manière est toujours l’indice d’une complaisance, et vite elle en devient la rançon.</p>
                       <div class="bibl">(<cite class="title">Divers</cite>, p. 75.)</div>
@@ -907,7 +907,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193110_p751" name="« Le protestantisme jugé »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193110_p751" name="Le protestantisme jugé (octobre 1931)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -924,7 +924,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193110fv_p751_01.jpg/full/full/0/default.jpg" id="p.751">[p. 751]</a>
-                    <h1 class="head article"> « Le protestantisme jugé »<a class="noteref" href="#note37" id="note37_"><sup>a</sup></a><a class="bookmark" href="#193110_p751"> §</a></h1>
+                    <h1 class="head article">Le protestantisme jugé (octobre 1931)<a class="noteref" href="#note37" id="note37_"><sup>a</sup></a><a class="bookmark" href="#193110_p751"> §</a></h1>
                     <p class="p autofirst">Parlant récemment, dans un article des <em>Nouvelles littéraires</em> d’un ouvrage de M. Édouard Martinet, intitulé <em>André Gide, l’amour et la divinité</em>, M. Albert Thibaudet exprime son regret de ce qu’un tel titre ne réponde pas à son attente. Selon lui, c’est un « André Gide vu de Genève » qu’il nous faudrait. M. Martinet a pris pour épigraphe la citation suivante, empruntée à M. Thibaudet justement :</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Ceci au moins suffirait à la critique pour maintenir à Gide une place instructive, qu’il est, depuis l’Édit de Nantes, notre seul notable écrivain protestant<a class="noteref" href="#note38" id="note38_"><sup>1</sup></a>, non exilé, non réfugié, mais d’éducation et de nature toute française.</p>
@@ -981,7 +981,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193201" name="« Romanciers protestants »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193201" name="Romanciers protestants (janvier 1932)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -998,9 +998,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193201fv_01.jpg/full/full/0/default.jpg" id="p.56">[p. 56]</a>
-                    <h1 class="head article"> « Romanciers protestants »<a class="noteref" href="#note40" id="note40_"><sup>a</sup></a><a class="bookmark" href="#193201"> §</a></h1>
+                    <h1 class="head article">Romanciers protestants (janvier 1932)<a class="noteref" href="#note40" id="note40_"><sup>a</sup></a><a class="bookmark" href="#193201"> §</a></h1>
                     <section id="body-13-1" class="div level2 level2">
-                      <h2 class="head"> Nos gloires nous jugent<a class="bookmark" href="#body-13-1"> §</a></h2>
+                      <h2 class="head">Nos gloires nous jugent<a class="bookmark" href="#body-13-1"> §</a></h2>
                       <p class="p autofirst">C’est un fait digne d’intérêt, et que personne, croyons-nous, n’a relevé, que les grands « succès » littéraires de l’année 1931 soient allés à trois romans d’écrivains protestants : Pierre Bost, Jacques Chardonne et Jean Schlumberger.</p>
                       <p class="p">— Écrivains protestants, vraiment ?… Ou bien, protestants qui écrivent ? — Mais voyons d’abord les œuvres.</p>
                       <p class="p">La critique à peu près unanime a salué dans <em>Le Scandale</em> la meilleure œuvre de M. Bost, une espèce de somme romanesque des errements de la jeunesse d’après-guerre. La <em>Claire</em> de M. Chardonne a rallié tous les suffrages féminins, et classe son auteur dans la lignée de ces fameux « moralistes français » auxquels nous pardonnons souvent d’être des romanciers assez ternes, pour le plaisir que par ailleurs ils donnent à notre intelligence plus avide, au fond, de formules adroites que de drames vivants. <em>Saint-Saturnin</em> enfin, vaste et pathétique tableau d’un domaine et d’une famille dont la mystique se révèle au cours d’un épisode central traité en profondeur, — roman-plongée pourrait-on dire — d’une sourde et hautaine gravité, apparaît comme le premier chef-d’œuvre d’une sorte de renaissance cornélienne.</p>
@@ -1085,7 +1085,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193204" name="« Goethe, chrétien, païen »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193204" name="Goethe, chrétien, païen (avril 1932)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1102,7 +1102,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193204fv_01.jpg/full/full/0/default.jpg" id="p.304">[p. 304]</a>
-                    <h1 class="head article"> « Goethe, chrétien, païen »<a class="noteref" href="#note50" id="note50_"><sup>a</sup></a><a class="bookmark" href="#193204"> §</a></h1>
+                    <h1 class="head article">Goethe, chrétien, païen (avril 1932)<a class="noteref" href="#note50" id="note50_"><sup>a</sup></a><a class="bookmark" href="#193204"> §</a></h1>
                     <p class="p autofirst">Imaginez un membre de l’Académie des sciences qui serait aussi directeur de la Comédie française et ministre de l’Intérieur, et qui, en marge des expériences accumulées dans l’exercice de ces activités, composerait des poèmes d’amour, des romans, des drames philosophiques, les meilleurs de son époque. Cela ne donnera pas un portrait de Goethe, certes, mais une idée de l’importance du phénomène Goethe. Maintenant ajoutons que l’homme fut supérieur à la somme de toutes ces activités et domina constamment sa vie et son œuvre. Il n’y a peut-être pas d’individu plus significatif dans l’histoire de l’Occident moderne, c’est-à-dire dans l’histoire des peuples qui vivent sous le règne du christianisme. Mais le plus grand Occidental fut-il chrétien ?</p>
                     <p class="p">Nous ne saurions, surtout dans <em>Foi et Vie</em>, aborder cette question sous l’angle de la curiosité littéraire ou historique. Elle pose cependant un problème que la conscience intellectuelle des chrétiens ne peut et ne doit éviter. Goethe est une de ces « questions au christianisme » comme dit Barth, une de ces questions qui nous sont posées comme autant d’accusations, et qu’il est de notre devoir d’envisager avec toute la bonne foi que nécessite un examen de conscience.</p>
                     <div class="ab ornament">⁂</div>
@@ -1157,7 +1157,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193206" name="« Penser dangereusement »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193206" name="Penser dangereusement (juin 1932)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1174,7 +1174,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193206fv_01.jpg/full/full/0/default.jpg" id="p.478">[p. 478]</a>
-                    <h1 class="head article"> « Penser dangereusement »<a class="noteref" href="#note52" id="note52_"><sup>a</sup></a><a class="bookmark" href="#193206"> §</a></h1>
+                    <h1 class="head article">Penser dangereusement (juin 1932)<a class="noteref" href="#note52" id="note52_"><sup>a</sup></a><a class="bookmark" href="#193206"> §</a></h1>
                     <p class="p autofirst">« L’esprit désintéressé est mort. » C’en est fait, les clercs ont trahi, et les cris de M. Benda sont couverts par la rumeur de la place. Dans toute la jeune génération littéraire et philosophique, c’est en vain que l’on chercherait un « esprit libre » selon le vœu de ce prêtre de l’abstentionnisme et du célibat spirituel. Ils ont tous épousé une cause, une de ces causes qui engagent bien plus que l’adhésion des idées, une de ces causes qui doivent être <em>gagnées</em>. Chose étrange, et que l’on eût difficilement prévue au lendemain de la guerre, c’est sur la notion — et la pratique — du service nécessaire que se fait l’unanimité de la nouvelle génération. Quels que soient par ailleurs les antagonismes qui la divisent — bien plus extrêmes que ceux qui divisèrent les précédentes — elle éprouve son unité, elle connaît une fraternité en ceci : que la pensée n’est plus pour elle une justification idéale de l’égoïsme ou de l’indifférence, mais une obligation urgente à se risquer en faveur des hommes, un acte, un combat. Fin de l’esprit désintéressé, cela signifierait pour les clercs, selon M. Benda, la fin de l’esprit. Et pour nous, cela signifie : le renouveau, le sacrifice salutaire et l’unique justification de la pensée.</p>
                     <p class="p">Une telle évolution peut paraître favorable à la pensée chrétienne. La pensée protestante, en particulier, s’est toujours montrée soucieuse avant tout de réalisation personnelle, d’action éthique. Il n’a pas échappé à M. Benda que « le clerc moderne » (en tant qu’il se montre 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193206fv_02.jpg/full/full/0/default.jpg" id="p.479">[p. 479]</a>
@@ -1243,7 +1243,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193301" name="« Histoires du monde, s’il vous plaît ! »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193301" name="« Histoires du monde, s’il vous plaît ! » (janvier 1933)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1260,7 +1260,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193301fv_01.jpg/full/full/0/default.jpg" id="p.134">[p. 134]</a>
-                    <h1 class="head article"> « Histoires du monde, s’il vous plaît ! »<a class="noteref" href="#note56" id="note56_"><sup>a</sup></a><a class="bookmark" href="#193301"> §</a></h1>
+                    <h1 class="head article">« Histoires du monde, s’il vous plaît ! » (janvier 1933)<a class="noteref" href="#note56" id="note56_"><sup>a</sup></a><a class="bookmark" href="#193301"> §</a></h1>
                     <p class="p autofirst">Le lecteur moderne est, paraît-il, un homme pressé, beaucoup plus pressé que ne le furent ses ancêtres (serait-ce peut-être à cause des innombrables moyens qu’il a inventés pour « gagner du temps » ? Il semble que tout ce que fait l’humanité se retourne contre elle-même). Que doit lire un homme pressé, s’il demande aux livres autre chose que ce que peut lui offrir le conte du journal, c’est-à-dire s’il demande une nourriture rapidement assimilable, mais tout de même reconstituante ? Des romans, répondra-t-on, sans doute. Je ne suis pas du tout de cet avis. Et je crois distinguer à divers signes que mes contemporains, sans se lasser du romanesque, découvrent que la littérature peut apporter, sous d’autres formes, un agrément, un repos, un exercice à la fois plus tonifiants et plus actuels, je veux parler de la vogue récente des <em>essais</em>, genre assurément fort ancien, mais auquel notre époque vient de redonner une très vive nouveauté.</p>
                     <p class="p">Il est bien remarquable, en effet, de constater, en parcourant les catalogues de librairie allemande, par exemple, que la proportion des ouvrages purement romanesques va en diminuant, et cela au profit d’une littérature qui tient à la fois de l’histoire, de la politique, de la morale et de la religion. Des livres comme l’<em>Essai sur la France</em>, de E. R. Curtius, dont il fut parlé ici même, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193301fv_02.jpg/full/full/0/default.jpg" id="p.135">[p. 135]</a>
@@ -1317,7 +1317,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193402" name="« Destin du siècle ou vocation personnelle ? »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193402" name="Destin du siècle ou vocation personnelle ? (février 1934)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1334,7 +1334,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193402fv_01.jpg/full/full/0/default.jpg" id="p.143">[p. 143]</a>
-                    <h1 class="head article"> « Destin du siècle ou vocation personnelle ? »<a class="noteref" href="#note58" id="note58_"><sup>a</sup></a><a class="bookmark" href="#193402"> §</a></h1>
+                    <h1 class="head article">Destin du siècle ou vocation personnelle ? (février 1934)<a class="noteref" href="#note58" id="note58_"><sup>a</sup></a><a class="bookmark" href="#193402"> §</a></h1>
                     <p class="p autofirst">Depuis des années, dans toutes les conférences, dans tous les journaux d’opinion, dans tous les manifestes de partis ou de ligues, une expression revient comme une véritable hantise, comme le grand lieu commun de la peur qui s’est emparée des hommes. On ne nous parle plus que du « <em>désarroi actuel</em> ».</p>
                     <p class="p">Il n’est pas d’expression plus juste, pour qui se borne à considérer notre époque et les doctrines infiniment contradictoires qui s’affrontent au milieu du désordre. Il n’est pas d’expression plus fausse, et même plus dangereuse, pour qui veut prendre position et pénétrer dans la bagarre universelle.</p>
                     <p class="p">Je vois bien le désordre et la contradiction. L’argent règne sur notre monde, comme une puissance occulte et pourtant méticuleusement tyrannique, comme une divinité qui, depuis peu, serait devenue folle. Des peuples entiers s’exaltent pour une dictature qui tire son seul prestige de la misère et de la lâcheté publique. Des provinces entières sont ruinées par des exploitations dont les bénéfices s’engloutissent en deux heures de panique boursière. Les inventeurs se voient refuser des brevets parce que chaque machine nouvelle, au lieu de libérer des travailleurs, crée du chômage. Et, cependant, les peuples de toute la terre continuent de croire au Progrès et aux bienfaits de la richesse. Les campagnes se vident ; les jeunes gens n’ont plus goût à y vivre.</p>
@@ -1460,7 +1460,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193405" name="« Deux essais de philosophes chrétiens »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193405" name="Deux essais de philosophes chrétiens (mai 1934)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1477,7 +1477,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193405fv_01.jpg/full/full/0/default.jpg" id="p.415">[p. 415]</a>
-                    <h1 class="head article"> « Deux essais de philosophes chrétiens »<a class="noteref" href="#note60" id="note60_"><sup>a</sup></a><a class="bookmark" href="#193405"> §</a></h1>
+                    <h1 class="head article">Deux essais de philosophes chrétiens (mai 1934)<a class="noteref" href="#note60" id="note60_"><sup>a</sup></a><a class="bookmark" href="#193405"> §</a></h1>
                     <p class="p autofirst">Combien existe-t-il en France de personnes intelligentes ? Pour le juger il ne faudrait sans doute pas se fier au tirage moyen d’un ouvrage « difficile ». Seul, Bergson, avec ses <em>Deux Sources</em> pourrait s’aligner, dans cet ordre, avec un honnête romancier. On s’étonnera, sans doute, de m’en voir étonné. Je m’étonne davantage de ce qu’on trouve cela normal. Ce fut toujours le cas, me dira-t-on ? Mais ce n’est point partout le cas. L’exemple de l’Allemagne peut nous faire réfléchir. Les philosophes y connaissent des succès dont rien, ici, ne peut donner l’idée ; et même les théologiens. Le <em>Römerbrief</em>, de Barth, en est au 20<sup class="sup">e</sup> mille. Un Keyserling, un Heidegger, un Karl Jaspers ont, dès longtemps, conquis le « grand public », celui-là même qui, chez nous, consacre ses loisirs à dévorer des prix Goncourt, justifiant les plus grosses manœuvres publicitaires, et la méfiance des éditeurs à l’endroit des meilleurs esprits.</p>
                     <p class="p">À qui faut-il s’en prendre ? Aux critiques d’abord, et, en particulier, à cette espèce nouvelle de critiques qu’on nomme les « courriéristes littéraires ». Ce n’est un secret pour personne qu’ils contribuent pour beaucoup à déterminer le succès ou l’échec d’une œuvre. Il semblerait, dès lors, que leur autorité, — sinon de droit, du moins de fait — dût s’exercer au bénéfice des auteurs réputés « difficiles ». Car les autres s’en passent fort bien. Or, c’est exactement le contraire qu’on peut voir. Le critique qui dispose d’un feuilleton régulier dans un hebdomadaire ou un quotidien n’est, en réalité, pas un critique, mais un commentateur des goûts de son public. Bien loin d’avoir à cœur de signaler les œuvres qui risqueraient, sans lui, d’être incomprises ou ignorées, il se contente, la plupart du temps, d’être l’écho de 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193405fv_02.jpg/full/full/0/default.jpg" id="p.416">[p. 416]</a>
@@ -1559,13 +1559,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193408_p602" name="« Notice biographique » [Kierkegaard]" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193408_p602" name="Notice biographique [Kierkegaard] (août 1934)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>« Notice biographique », Foi et Vie, Paris, n° 64, août-septembre 1934, p. 602-604.</value>
+          <value>« Notice biographique », Foi et Vie, Paris, n° 64, août-septembre 1934, p. tt602-604.</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1576,7 +1576,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193408fv_p602_01.jpg/full/full/0/default.jpg" id="p.602">[p. 602]</a>
-                    <h1 class="head article"> « Notice biographique » [Kierkegaard]<a class="noteref" href="#note68" id="note68_"><sup>a</sup></a><a class="bookmark" href="#193408_p602"> §</a></h1>
+                    <h1 class="head article">Notice biographique [Kierkegaard] (août 1934)<a class="noteref" href="#note68" id="note68_"><sup>a</sup></a><a class="bookmark" href="#193408_p602"> §</a></h1>
                     <p class="p autofirst">Soeren Kierkegaard naquit à Copenhague en 1813, et y mourut en 1855. Presque toute son œuvre, une vingtaine de volumes, à quoi nous pouvons ajouter dix-huit volumes de papiers posthumes, fut composée en l’espace de douze années.</p>
                     <p class="p">Le père de Kierkegaard avait passé son enfance à garder les moutons dans la plaine du Jutland. Un jour, accablé par la misère, il était monté sur un petit tertre et il avait maudit le Dieu tout-puissant qui le laissait mourir de faim. Ce blasphème assombrit toute sa vie ; il ne l’empêcha pas de faire fortune. Et c’est ainsi que Kierkegaard reçut en héritage de son père, après une sévère éducation piétiste, un secret terrifiant et une belle aisance matérielle. Du secret il tira son œuvre ; sa fortune, il la confia à l’un de ses frères, ne voulant pas avoir affaire aux banques. Lorsqu’il mourut, à 42 ans, il n’en subsistait rien. L’argent provenait d’une malédiction, pensait-il, il l’avait donc dilapidé, surtout en dons. Sa vie était très simple. Il travaillait une grande partie de la nuit. Il aimait se promener à l’aube. Puis il se remettait à écrire. Vers midi, on le voyait parcourir la rue la plus animée de la ville, parler, rire et discuter avec des bourgeois, des jeunes filles, des balayeurs, des intellectuels, le petit peuple. On connaissait sa silhouette, ses plaisanteries, il avait sa légende d’« original ». On savait aussi qu’il était le meilleur écrivain de son pays. Sa première œuvre eut un immense succès ; mais à mesure qu’il se fit mieux comprendre, le public s’écarta, effrayé. Lorsqu’en 1854 il se mit à attaquer de front, avec une extrême violence, le christianisme officiel et les évêques qui avaient loué 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193408fv_p602_02.jpg/full/full/0/default.jpg" id="p.603">[p. 603]</a>
@@ -1591,7 +1591,7 @@
                       <p class="p autofirst">Kierkegaard fut le dernier grand protestant. On ne peut le comparer qu’aux grands fondateurs du christianisme, à Luther, à Calvin. Tous les autres paraissent petits à côté de lui. La question essentielle pour Kierkegaard était : Comment deviendrai-je chrétien ? Seul, un protestant pouvait trouver pareille formule… L’œuvre la plus profonde et la plus originale de Kierkegaard est son <em>Concept de l’angoisse</em>, auquel on ne peut trouver d’analogie que chez Dostoïevski. Kierkegaard, d’ailleurs, ne peut être placé qu’à côté du poète russe. Tous deux marchent de pair, et aucun autre esprit du siècle ne les dépasse.</p>
                     </blockquote>
                     <section class="footnotes">
-                      <aside id="note68" class="note bottomnote"><a class="noteback" href="#note68_">a. </a>« Notice biographique »,<em> Foi et Vie</em>, Paris, n° 64, août-septembre 1934, p. 602-604.</aside>
+                      <aside id="note68" class="note bottomnote"><a class="noteback" href="#note68_">a. </a>« Notice biographique »,<em> Foi et Vie</em>, Paris, n° 64, août-septembre 1934, p. tt602-604.</aside>
                       <aside id="note69" class="note bottomnote"><a class="noteback" href="#note69_">1. </a>Traduite en français sous le titre de <em>Traité du désespoir.</em></aside>
                       <aside id="note70" class="note bottomnote"><a class="noteback" href="#note70_">2. </a>Rudolf <span class="sc">Kassner</span>, dans <em>Commerce</em>, n° XII.</aside>
                     </section>
@@ -1621,7 +1621,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193408_p605" name="« Nécessité de Kierkegaard »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193408_p605" name="Nécessité de Kierkegaard (août 1934)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1638,7 +1638,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193408fv_p605_01.jpg/full/full/0/default.jpg" id="p.605">[p. 605]</a>
-                    <h1 class="head article"> « Nécessité de Kierkegaard »<a class="noteref" href="#note71" id="note71_"><sup>1</sup></a><a class="bookmark" href="#193408_p605"> §</a></h1>
+                    <h1 class="head article">Nécessité de Kierkegaard (août 1934)<a class="noteref" href="#note71" id="note71_"><sup>1</sup></a><a class="bookmark" href="#193408_p605"> §</a></h1>
                     <section id="body-20-1" class="div level2 level2">
                       <h2 class="head">On appelle l’esprit…<a class="bookmark" href="#body-20-1"> §</a></h2>
                       <p class="p autofirst">De quoi se plaint l’intelligence ? Si l’on en croit les écrits les plus dignes de formuler son opinion, et qui sont pleins d’amères protestations contre le règne de la masse et les outrages divers encourus par l’individu, les Puissances anonymes et le Standard seraient en voie de triompher, et ce serait aux dépens de l’humain. Au sein de cette crise que l’on dit sans précédent, que fait l’individu pour se défendre ? Et quels titres à l’existence vient-il produire ? Car il est excellent de défendre son moi, surtout lorsqu’il détient plus de réalité que l’anonyme. Mais encore, il faudrait que ce moi fût fondé. Ce n’est pas évident de soi, si l’on peut dire : les marxistes le nient avec plus de passion que les bourgeois n’apportent à l’affirmer. D’un côté, nous voyons une foi, de l’autre, une mauvaise humeur, et certains pensent : une mauvaise conscience.</p>
@@ -1774,7 +1774,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193410" name="« Destin allemand »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193410" name="Kasimir Edschmid, Destin allemand (octobre 1934)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1791,7 +1791,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193410fv_01.jpg/full/full/0/default.jpg" id="p.812">[p. 812]</a>
-                    <h1 class="head article"> « <em>Destin allemand</em> »<a class="noteref" href="#note83" id="note83_"><sup>a</sup></a><a class="bookmark" href="#193410"> §</a></h1>
+                    <h1 class="head article">Kasimir <span class="sc">Edschmid</span>, <em>Destin allemand</em> (octobre 1934)<a class="noteref" href="#note83" id="note83_"><sup>a</sup></a><a class="bookmark" href="#193410"> §</a></h1>
                     <p class="p autofirst">Le meilleur livre de l’année. Je crois bien pouvoir l’affirmer. Le roman le plus fort, le mieux fait, le plus impressionnant, celui qui apporte le plus de nouveauté, d’humanité, de grandeur. J’ai d’autant plus envie de le dire qu’on n’a pas annoncé sa parution à grand fracas, et qu’à ma connaissance, tout au moins, presque personne encore n’en a parlé. Ce qui n’est pas très étonnant, d’ailleurs. Il s’agit d’une œuvre allemande, d’un auteur inconnu en France jusqu’ici, d’un roman qui <em>veut</em> dire quelque chose, — quelque chose qui ne plaira pas au public habituel des Prix Goncourt — et qui le dit avec une puissance assez austère.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Six chômeurs allemands, anciens officiers et sous-officiers pendant la guerre, s’embarquent pour l’Amérique du Sud. On les a engagés pour instruire l’armée bolivienne, mais sans contrat, car le Traité de Versailles interdit à la Bolivie d’utiliser les services des Allemands. Pendant leur traversée, un coup d’État renverse le gouvernement qui les avait appelés officieusement. Ils hésitent à poursuivre. L’un d’entre eux se laisse entraîner par des révolutionnaires qui préparent un coup de main contre le dictateur du Vénézuela ; un autre ira chercher fortune en Argentine, dans une plantation de thé où, d’ailleurs, la crise mondiale l’aura précédé. Les quatre autres atteignent enfin La Paz, capitale de la Bolivie, ville étrange, perdue à 4 000 mètres d’altitude 
@@ -1848,7 +1848,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193503" name="« Notes en marge de Nietzsche »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193503" name="Notes en marge de Nietzsche (mars 1935)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1865,7 +1865,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193503fv_01.jpg/full/full/0/default.jpg" id="p.250">[p. 250]</a>
-                    <h1 class="head article"> « Notes en marge de Nietzsche »<a class="noteref" href="#note87" id="note87_"><sup>a</sup></a><a class="bookmark" href="#193503"> §</a></h1>
+                    <h1 class="head article">Notes en marge de Nietzsche (mars 1935)<a class="noteref" href="#note87" id="note87_"><sup>a</sup></a><a class="bookmark" href="#193503"> §</a></h1>
                     <p class="p autofirst">Il vient de paraître au <em>Mercure de France</em> un volumineux choix de sentences, aphorismes et notes tirés des papiers posthumes de Nietzsche. On ne saurait surestimer l’importance de ces écrits demeurés longtemps inédits, et dont M. Henri-Jean Bolle, qui a traduit et fort bien introduit ce volume, nous affirme qu’ils constituent le <em>texte</em> véritable d’une œuvre dont les volumes parus du vivant de Nietzsche ne seraient guère que le commentaire. Je ne sais ce qu’il faut penser d’une allégation qui paraît à première vue aussi exorbitante : je n’ai lu que de courts fragments des <em>posthuma nietzschéens</em><a class="noteref" href="#note88" id="note88_"><sup>1</sup></a>. Ce qui est certain, c’est qu’un choix tel que celui qu’on vient de nous donner, nous restitue la totalité des thèmes de l’œuvre, sous une forme souvent beaucoup plus directe que celle qu’adopta Nietzsche dans les écrits qu’il fit paraître. On ne saurait trop recommander la lecture de ce recueil aux esprits suffisamment armés de sens critique, de certitudes théologiques, et de cette liberté spirituelle que confère la connaissance vivante de « la seule chose nécessaire ». Rien de grand, dans l’ordre humain, ne peut être vraiment dangereux pour un chrétien qui sait en qui il croit. Et pour les autres, qu’importe qu’ils perdent à cette lecture des « certitudes » mal centrées, purement traditionnelles, jamais sérieusement éprouvées ? La foi vraie suppose la ruine de toutes les pauvres constructions où nous pensions pouvoir nous abriter contre son risque salutaire.</p>
                     <p class="p">M. Bolle a réparti les fragments traduits en trois rubriques : le philosophe, le moraliste, le politique. Je ne vois pas de meilleur moyen 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193503fv_02.jpg/full/full/0/default.jpg" id="p.251">[p. 251]</a>
@@ -1963,7 +1963,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/193704" name="« Luther et la liberté (À propos du Traité du serf arbitre) »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/193704" name="Luther et la liberté (À propos du Traité du serf arbitre) (avril 1937)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1980,9 +1980,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193704fv_01.jpg/full/full/0/default.jpg" id="p.221">[p. 221]</a>
-                    <h1 class="head article"> « Luther et la liberté (À propos du <em>Traité du serf arbitre</em>) »<a class="noteref" href="#note90" id="note90_"><sup>a</sup></a><a class="bookmark" href="#193704"> §</a></h1>
+                    <h1 class="head article">Luther et la liberté (À propos du <em>Traité du serf arbitre</em>) (avril 1937)<a class="noteref" href="#note90" id="note90_"><sup>a</sup></a><a class="bookmark" href="#193704"> §</a></h1>
                     <section id="body-23-1" class="div level2 level2">
-                      <h2 class="head"> Luther inconnu<a class="bookmark" href="#body-23-1"> §</a></h2>
+                      <h2 class="head">Luther inconnu<a class="bookmark" href="#body-23-1"> §</a></h2>
                       <p class="p autofirst">Dire qu’on ignore Luther en France serait exagérer, mais dans le sens contraire de celui qu’on imagine. Car, on fait pis que de l’ignorer et même que de le méconnaître : on prétend, sans l’avoir jamais lu, savoir qui il fut, qui il est. Certains ont parcouru les <em>Propos de table</em>, présentés au public français comme un ouvrage capital : ils s’étonnent d’y trouver si peu de substance théologique et tant de plaisanteries parfois grossières, de platitudes, de contradictions. Est-ce avec cela que s’est faite la Réforme ? D’autres, moins exigeants, n’hésitent pas à soutenir que Luther fut un démagogue, un exploiteur de l’éternel ressentiment de la race allemande contre la civilisation romaine. On a poussé la bouffonnerie jusqu’à cet excès grandiose d’assimiler Luther et M. Hitler, par goût de la rime sans doute. Pour l’opinion moyenne sur Luther, je crois que la phrase suivante en donne une juste idée : « En somme, qu’est-ce que Luther ? Un moine qui a voulu se marier. » J’extrais cette déclaration du livre d’un critique littéraire connu, dont les revues n’hésitèrent pas lorsqu’il parut (en 1936) à louer la mesure et la sérieuse information théologique…</p>
                       <p class="p">Ceci dit, il est juste d’insister sur la grande valeur des travaux de quelques spécialistes français qui, au niveau de la haute culture, ont largement sauvé l’honneur de leur pays. Je pense aux ouvrages publiés par MM. Henri Strohl, J. Vignaud et Lucien Febvre, et aux cours qu’ont professés MM. Jean Baruzi et E. Gilson, pour ne rien dire, — mais cela va de soi, — de l’activité des professeurs 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193704fv_02.jpg/full/full/0/default.jpg" id="p.222">[p. 222]</a>
@@ -1999,7 +1999,7 @@
                     </section>
                     <section id="body-23-3" class="div level2 level2">
                       <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193704fv_04.jpg/full/full/0/default.jpg" id="p.224">[p. 224]</a>
-                      <h2 class="head"> « Folie pour les sages »<a class="bookmark" href="#body-23-3"> §</a></h2>
+                      <h2 class="head">« Folie pour les sages »<a class="bookmark" href="#body-23-3"> §</a></h2>
                       <p class="p autofirst">Mais il s’en faut de presque tout que les grandes thèses pauliniennes de la Réforme soient acceptées (ou simplement connues !) par nos contemporains, même chrétiens. Il s’en faut de beaucoup, de presque tout, que les arguments d’un Érasme nous apparaissent comme autant de sophismes. Non seulement tous les humanistes, — des marxistes aux vieux libéraux, — y applaudissent ouvertement, mais encore jusque chez les chrétiens, ces arguments se voient réinventés, admis, parfois même prêchés. Le laïcisme moraliste n’en a pas du tout le monopole : tout catholique se doit, en bonne logique, de les faire siens puisqu’il croit au mérite des œuvres ; et tous les protestants qui jugent encore que Calvin et Luther ont fait leur temps, — que dire de Paul bien plus ancien ! — tous ceux qui tiennent la prédestination pour un dogme immoral ou périmé ; ceux qui traduisent : « Paix sur la terre aux hommes que Dieu agrée », par « Paix aux hommes de bonne volonté », tous ceux-là sont, en fait, avec Érasme et son armée de grands docteurs de tous les siècles pour soutenir le libre arbitre religieux, c’est-à-dire le pouvoir qu’aurait l’homme de contribuer à son salut par ses efforts et ses œuvres morales.</p>
                       <p class="p">Que trouveront-ils dès lors dans ce <em>Traité</em> ? Une verdeur de polémique qui peut flatter en nous le goût du pittoresque ; l’élan génial, la violence loyale d’une certitude pesante, vraiment « grave », d’une dialectique sobre et têtue, qui va droit au point décisif, envisage honnêtement les objections, donne à la thèse adverse toutes ses chances, non sans ironie toutefois, et sait enfin conférer à son choix la force et la simplicité d’une constatation évidente. D’un point de vue purement esthétique, ces qualités sont assez rares, et chez Luther assez flagrantes, pour qu’un lecteur qui refuse l’essentiel soit tout de même attiré et subjugué par le style, par le ton de l’ouvrage. (Nous ne savons que trop bien, nous 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr193704fv_05.jpg/full/full/0/default.jpg" id="p.225">[p. 225]</a>
@@ -2084,7 +2084,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/194610" name="« Fédéralisme et œcuménisme »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/194610" name="Fédéralisme et œcuménisme (octobre 1946)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2101,7 +2101,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr194610fv_01.jpg/full/full/0/default.jpg" id="p.621">[p. 621]</a>
-                    <h1 class="head article"> « Fédéralisme et œcuménisme »<a class="noteref" href="#note96" id="note96_"><sup>a</sup></a><a class="bookmark" href="#194610"> §</a></h1>
+                    <h1 class="head article">Fédéralisme et œcuménisme (octobre 1946)<a class="noteref" href="#note96" id="note96_"><sup>a</sup></a><a class="bookmark" href="#194610"> §</a></h1>
                     <p class="p autofirst">Le mouvement œcuménique ne deviendra réel aux yeux des peuples qu’à partir du jour où il sera capable de répondre avec force et autorité aux questions politiques de notre temps.</p>
                     <p class="p">Qu’il le pressente, qu’il ait au moins une sorte de conscience anxieuse de l’œuvre à faire, c’est ce que prouvent ses « encycliques » improvisées à la veille de la guerre. Qu’il soit encore très loin d’une vision dynamique de l’action immédiate, c’est ce que prouvent ces mêmes déclarations. Elles souffrent avant tout d’un manque de <em>ton</em>, qui révèle un manque de nécessité intérieure. Elles expriment l’accord d’un certain nombre de bonnes volontés, non pas l’élan d’une volonté précise et combative. Elles sont un respectable résultat, mais non pas un point de départ. Sans doute garderont-elles une valeur historique. Mais comme beaucoup de documents qui prennent par la suite une valeur historique, elles auront passé inaperçues en leur temps.</p>
                     <p class="p">Ce manque d’efficacité des messages œcuméniques, dans le plan politique, provient sans doute du fait qu’ils sont des compromis, des accords minima, obtenus non sans peine et forcément trop généraux. Mais il y a plus. L’erreur commise jusqu’ici a été d’essayer de choisir prudemment une attitude politique plus ou moins juste d’une part, plus ou moins acceptable de l’autre. Sans doute n’était-il pas possible de faire davantage à ce moment. En fait, on a examiné la situation 
@@ -2246,7 +2246,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/fv/197704" name="« Pédagogie des catastrophes »" package="ddr_fv" template="liseuse" pagetype="liseuse">
+    <page path="/articles/fv/197704" name="Pédagogie des catastrophes (avril 1977)" package="ddr_fv" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2263,7 +2263,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-fv/ddr197704fv_01.jpg/full/full/0/default.jpg" id="p.145">[p. 145]</a>
-                    <h1 class="head article"> « Pédagogie des catastrophes »<a class="noteref" href="#note98" id="note98_"><sup>a</sup></a><a class="bookmark" href="#197704"> §</a></h1>
+                    <h1 class="head article">Pédagogie des catastrophes (avril 1977)<a class="noteref" href="#note98" id="note98_"><sup>a</sup></a><a class="bookmark" href="#197704"> §</a></h1>
                     <p class="p autofirst">Tout ne fut pas toujours de notre faute. Ils souffraient de famine quand nous n’étions pas nés. Ils meurent encore de faim, mais en bien plus grand nombre — c’est un résultat du Progrès — cependant que l’on meurt chez nous de manger trop. Cette fois-ci, notre faute est immense, mais ailleurs : elle est d’avoir offert, ou plutôt imposé aux élites occidentalisées du Tiers Monde un modèle totalement étranger à toutes leurs traditions, le modèle de l’État-nation napoléonien — et que ce soit en version capitaliste ou communiste ne fait aucune différence.</p>
                     <p class="p">Ils se trompent d’Europe, quand ils veulent l’imiter, surtout pour mieux s’en libérer. Ils choisissent celle qui les a dominés, mais c’est choisir aussi celle qui les a perdus ! Je leur propose l’Europe des Régions, comme offrant la formule la moins incompatible avec leurs différences libérées, leur identité retrouvée.</p>
                     <p class="p">Le seul moyen de les inciter à éviter nos maux, au lieu de les revendiquer, sera l’exemple vécu et réussi d’un dépassement de nos stato-nationalismes par la Fédération continentale ; d’un dépassement de la croissance à tout prix des formules d’équilibre humain qui prennent en compte le bonheur, ou simplement l’aisance à vivre, plutôt que le gonflement artificiel du PNB et les stocks de bombes calculés en « équivalents TNT ».</p>
