@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/articles/on/19330501" name="Liberté ou chômage ? (mai 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193305" name="Liberté ou chômage ? (mai 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -18,7 +18,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193305on_01.jp2/full/full/0/default.jpg" id="p.10">[p. 10]</a>
-                    <h1 class="head article">Liberté ou chômage ? (mai 1933)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#19330501"> §</a></h1>
+                    <h1 class="head article">Liberté ou chômage ? (mai 1933)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#193305"> §</a></h1>
                     <p class="p autofirst">Nous entendions l’autre jour, en buvant un café sur le zinc : « Le travail, c’est la liberté, — pour celui qui ne travaille pas. »</p>
                     <p class="p">Qu’il exprime la religion du travail, ou la superstition du loisir, — c’est affaire d’accent mis sur le premier ou sur le second membre de la phrase, — ce cri est significatif de l’étrange équivoque cultivée par la bourgeoisie capitaliste. De cette équivoque, sans doute pensa-t-elle jusqu’à la guerre pouvoir rester longtemps la dernière à souffrir. Elle risque cependant de se voir bientôt réveillée par une brutalité dont elle est entièrement responsable. Droit au travail, droit au loisir, on sait en 1933 à quel morne cauchemar aux sursauts de mitraille conduisent ces deux revendications confusément mêlées dans les pauvres cervelles citadines.</p>
                     <p class="p">Nous ne manquerons aucune occasion de critiquer dans cette revue la morale du travail sur laquelle le monde bourgeois prétend fonder la dignité humaine. Nous dénoncerons sans cesse l’hypocrisie plus ou moins consciente de cette morale, que le soviétisme est en train de rajeunir, Staline prenant glorieusement la suite de Benjamin Franklin.</p>
@@ -77,7 +77,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19330601" name="La Légion étrangère soviétique (juin 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193306" name="La Légion étrangère soviétique (juin 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -94,7 +94,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193306on_01.jp2/full/full/0/default.jpg" id="p.19">[p. 19]</a>
-                    <h1 class="head article">La Légion étrangère soviétique (juin 1933)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#19330601"> §</a></h1>
+                    <h1 class="head article">La Légion étrangère soviétique (juin 1933)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#193306"> §</a></h1>
                     <p class="p autofirst">Elle est formée d’intellectuels français.</p>
                     <p class="p">On serait tenté de décrire les cadres de cette confrérie dans un style trop facilement comique : donner, par exemple, la dernière liste des promotions, André Gide passant colonel honoraire, Vaillant tambour-major et Nizan sergent recruteur.</p>
                     <p class="p">Le sujet est plus grave. Non pas du point de vue de la politique, car les partis de gauche ne prennent guère au sérieux leur intelligentsia, mais du point de vue plus profond de l’activité propre des intellectuels.</p>
@@ -154,7 +154,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19330701_p5" name="Pourquoi ils sont socialistes (juillet 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193307_p5" name="Pourquoi ils sont socialistes (juillet 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -171,7 +171,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193307on_p5_01.jp2/full/full/0/default.jpg" id="p.5">[p. 5]</a>
-                    <h1 class="head article"> Pourquoi ils sont socialistes (juillet 1933)<a class="noteref" href="#note9" id="note9_"><sup>a</sup></a><a class="bookmark" href="#19330701_p5"> §</a></h1>
+                    <h1 class="head article"> Pourquoi ils sont socialistes (juillet 1933)<a class="noteref" href="#note9" id="note9_"><sup>a</sup></a><a class="bookmark" href="#193307_p5"> §</a></h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">« Toujours à gauche, mais pas plus loin ! »</p>
                     </blockquote>
@@ -210,7 +210,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19330701_p13" name="Spirituel d’abord (juillet 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193307_p13" name="Spirituel d’abord (juillet 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -227,7 +227,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193307on_p13_01.jp2/full/full/0/default.jpg" id="p.13">[p. 13]</a>
-                    <h1 class="head article">Spirituel d’abord (juillet 1933)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#19330701_p13"> §</a></h1>
+                    <h1 class="head article">Spirituel d’abord (juillet 1933)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#193307_p13"> §</a></h1>
                     <p class="p autofirst">I. — La révolution n’est pas, contrairement à ce que pense le grand public, le résultat d’un déterminisme économique et social. Elle est, <em>d’abord</em>, l’acte qui crée de nouvelles déterminations, qui, par suite, bouleverse les anciennes déterminations, en un mot, l’acte qui libère.</p>
                     <p class="p">Le désordre dont souffre le monde nous apparaît d’abord tout matériel. Il est dans « les apparences actuelles ». Contre ce désordre notre attitude est celle d’un refus total.</p>
                     <p class="p">Mais rompre avec ces apparences, ce n’est pas encore faire révolution. Ce n’est pas encore s’attaquer aux racines vives du désordre. La seule rupture véritable, efficace, est celle que nous opérons au cœur même du système régnant. Que trouvons-nous, à l’origine permanente des erreurs qui, depuis vingt, ans, nous ont valu la guerre, le chômage et les dictatures ? Nous trouvons une certaine attitude humaine. Cette attitude, qu’on appelle <em>capitaliste</em>, est, en réalité, pour qui va au fond des choses, <em>matérialiste</em> et <em>abstraite</em> à la fois. Elle donne la primauté à l’avoir sur l’être, l’anonyme sur le personnel, à l’irresponsable sur le responsable, à la masse et à l’individu abstrait sur la personne concrète. Machiniste et productiviste, elle consacre la pire gradation qu’une « civilisation » ait imposée à l’homme. Si nous refusons « l’ordre » établi, nous ne refusons pas moins les « révolutions » établies, également soumises au primat de la masse, à l’anonymat et aux puissances de la matière. Pour nous l’homme est autre chose qu’une unité de compte, un ventre ou un électeur.</p>
@@ -319,14 +319,14 @@
               <record>
                 <content><![CDATA[
                   <article>
-                    <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193310on_01.jp2/full/full/0/default.jpg" id="pb7">[p. 7]</a>
                     <h1 class="head article"> Les parlementaires contre le Parlement (octobre 1933)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#193310"> §</a></h1>
                     <p class="p autofirst">Le Parlement, dans le système actuel, a deux missions : d’une part, coordonner le travail de tous et diriger celui qui, dans une société équilibrée, incombe à l’État, c’est ce que nous appelons le domaine du plan ; de l’autre, il a à protéger l’action de tout ce qui n’est pas l’État : départements, communes, corporations, familles, individus.</p>
                     <p class="p">Dans le premier cas il doit accomplir un travail constructif, dans le deuxième il doit défendre des libertés.</p>
                     <p class="p">Or non seulement le Parlement actuel (depuis que les grands bourgeois qui défendaient ce qu’ils croyaient être des intérêts ont cédé la place aux gens de gauche qui défendent ce qu’ils croient être des idées) ne remplit pas ces deux missions, mais il les trahit, transportant, quand il agit, les méthodes de travail d’un domaine dans l’autre, aboutissant, en un mot, au désordre.</p>
                     <p class="p">D’abord dans le domaine où il devrait <em>agir</em>, non seulement le Parlement n’agit pas, non seulement il laisse agir à sa place des fonctionnaires dont ce n’est pas le rôle, mais il oblige ceux-ci à opérer — quelquefois d’ailleurs avec un rare bonheur — en dehors et le plus souvent contre lui. (Notons qu’avec la dégradation des temps quand ce ne sont plus des fonctionnaires qui se cachent pour agir, ce sont des hommes d’affaires qui payent pour cela.)</p>
                     <p class="p">M. Daniel Halévy a fait naguère, de ce point de vue, en quelques pages, une histoire pertinente de notre parlement. Aux républicains (mais personne n’emploie ce mot, ce qui a permis de ne pas percevoir le passage du temps où tout le inonde l’était au temps où personne ne l’est plus), aux républicains attardés et indulgents qui disent : « La République parlementaire, mais elle a fait l’Empire colonial, elle a constitué un système d’alliance qui nous a sauvés en 1914 
-<a class="pb" href="#pb8" id="pb8">[p. 8]</a>
+<a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193310on_02.jp2/full/full/0/default.jpg" id="pb8">[p. 8]</a>
  et on lui doit, pour ne citer que trois choses, une organisation scolaire qu’on peut ne pas aimer mais cohérente et qui existe », M. Daniel Halévy répondait en montrant l’Empire colonial constitué par quelques jeunes gens ardents, souvent exilés par dégoût, l’alliance russe préparée par les banques, l’entente franco-anglaise établie dans le silence du cabinet de Delcassé, l’organisation scolaire élaborée par des fonctionnaires laborieux et sectaires derrière les cartonnages poussiéreux de la rue de Grenelle. Et toujours, pour chaque chose, une loi sanctionnait le travail du dehors, mais arrachée en fin de séance par un député obscur, ami du colonial, du fonctionnaire ou du banquier, après la grande lutte laïque et obligatoire, à dix congénères endormis.</p>
                     <p class="p">Aux lecteurs exigeants que le cadre de cet article ne nous permet pas de satisfaire nous promettons d’envoyer, sur demande, des précisions et les numéros de l’<em>Officiel</em>.</p>
                     <p class="p">D’ailleurs ce serait un jeu d’allonger la liste et de montrer — sans prendre parti et sur le seul terrain objectif des faits — notre meilleur armement construit, avant-guerre, par des officiers « démissionnés » après les fiches, le patriotisme maintenu dans la jeunesse par des congrégations interdites, ou les lois sociales les plus honorables, non établies par un travail parlementaire sérieux — mais arrachées par démagogie au patronat apeuré par des tribuns verbeux.</p>
@@ -334,7 +334,7 @@
                     <p class="p">Le pouvoir local qui reste, dans l’incohérence actuelle, le plus authentique, le plus en harmonie avec les réalités françaises : celui d’un maire et de son conseil municipal est chaque jour un peu plus dans la dépendance du préfet, lequel obéit aveuglément aux députés de son département.</p>
                     <p class="p">Les initiatives locales dans ces conditions sont comme ce poisson qui, expédié de nos ports à Paris, revient, pour être consommé, dépourvu de fraîcheur et grevé de frais de transport. Après leur examen par les Chambres elles reviennent elles aussi dévitalisées, ayant perdu toute efficacité particulière et toute rapidité.</p>
                     <p class="p">Il en est de même dans le domaine corporatif où l’homme, 
-<a class="pb" href="#pb9" id="pb9">[p. 9]</a>
+<a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193310on_03.jp2/full/full/0/default.jpg" id="pb9">[p. 9]</a>
  au lieu d’être chargé de sa propre protection, en collaboration avec ses pairs, est <em>assuré</em> malgré lui par des lois qui désorganisent tout sans satisfaire personne.</p>
                     <p class="p">Dans la vie familiale ou individuelle elle-même enfin, tout effort constructif qui devrait être protégé est en fait empêché par le Parlement. Sous le coup d’une fiscalité toujours plus oppressive et des taxes successorales, la propriété apparente, terrienne et immobilière, concrète enfin — c’est-à-dire tout ce qui stabilise et élève l’homme — disparaît, et il ne reste à ce dernier, livré au pire capitalisme, qu’à se ruiner « anonymement » ou à thésauriser.</p>
                     <p class="p">Absent de sa tâche ou n’agissant que pour nuire, que peut bien représenter un parlementaire aux yeux de celui qui le nomme ? Plus rien qu’une machine à recommandation inutile et nécessaire. Il n’est pas un concours auquel on se présente, pas une place qu’on sollicite, pas même une démarche régulière qu’on entreprenne sans la recommandation de son député. Elle est sans efficacité puisque tout le monde l’obtient, mais par là même elle est nécessaire comme toute autre pièce du dossier.</p>
@@ -371,7 +371,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19331215" name="Positions d’attaque (décembre 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193312" name="Positions d’attaque (décembre 1933)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -388,7 +388,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193312on_01.jp2/full/full/0/default.jpg" id="p.II">[p. II]</a>
-                    <h1 class="head article">Positions d’attaque (décembre 1933)<a class="noteref" href="#note12" id="note12_"><sup>a</sup></a><a class="bookmark" href="#19331215"> §</a></h1>
+                    <h1 class="head article">Positions d’attaque (décembre 1933)<a class="noteref" href="#note12" id="note12_"><sup>a</sup></a><a class="bookmark" href="#193312"> §</a></h1>
                     <p class="p">1° Sans théorie révolutionnaire, pas d’action révolutionnaire.</p>
                     <p class="p">2° Dans l’état présent des choses, il n’y a pas d’ordre concevable sur le plan capitaliste, au déterminisme duquel les soviets n’échappent pas.</p>
                     <p class="p">3° La dialectique historique ne peut que rendre compte du passé — mais seul l’acte créateur opère le changement de plan et permet d’instituer un ordre nouveau.</p>
@@ -431,7 +431,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19340215" name="Communauté révolutionnaire (février 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193402" name="Communauté révolutionnaire (février 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -448,7 +448,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193402on_01.jp2/full/full/0/default.jpg" id="p.14">[p. 14]</a>
-                    <h1 class="head article">Communauté révolutionnaire (février 1934)<a class="noteref" href="#note13" id="note13_"><sup>a</sup></a><a class="bookmark" href="#19340215"> §</a></h1>
+                    <h1 class="head article">Communauté révolutionnaire (février 1934)<a class="noteref" href="#note13" id="note13_"><sup>a</sup></a><a class="bookmark" href="#193402"> §</a></h1>
                     <p class="p autofirst">L’époque où nous vivons cherche la paix comme d’autres ont cherché la puissance, ou l’ordre, ou l’aventure, ou le plaisir. Cette ardeur est évidemment maladive. L’homme sain ne s’excite pas sur l’idée de sécurité. Il demande un principe de grandeur, ou simplement quelque chose à faire. La paix n’est pas une occupation, ni un but. Du moins pour notre civilisation, elle n’est rien que l’absence obsédante de la guerre. Tout cela est assez connu, mais peu de personnes en tiennent compte. Si nous le répétons, c’est afin d’insister, une fois de plus, sur cette <em>absence de tout principe vivant d’unité et d’union</em>, qui est la marque de notre temps, et la cause de notre psychose de sécurité. Tant que cette carence fondamentale ne sera pas dénoncée, reconnue et combattue, on perdra son temps à dénoncer et à combattre les instruments de la guerre menaçante : politiciens, maîtres de forges, journalistes. La corruption est tellement générale que ces dénonciations perdent toute efficacité. Elles sont d’ailleurs filtrées et maquillées par la Presse, c’est-à-dire par l’un des agents les plus puissants qui travaillent pour la guerre. Les communistes ont parfaitement raison de soutenir que le régime est organiquement lié à la guerre, et que la guerre est une des pièces indispensables du système capitaliste. Mais ils s’arrêtent à la dénonciation des moyens et des personnes. Le danger est beaucoup plus profond : il est dans la conception rationaliste de l’État moderne et dans la conception abstraite de l’homme considéré comme individu atomique. Or ces deux conceptions sont également à la base de tout le système marxiste-stalinien. Elles y sont même plus rigoureusement formulées que dans le système parlementaire. C’est pourquoi nous considérons le communisme comme l’agent le plus perfectionné de la désagrégation atomique de notre monde, — désagrégation dont l’aboutissement fatal serait la ruine de toute vie organique et de toute solidarité réelle, comme il était,
           en régime capitaliste, la guerre du droit et de la justice.</p>
                     <p class="p">Ces simplifications résument des études que nous avons, ailleurs, poussées dans le détail. Elles nous permettent de situer notre opposition au monde actuel. Elles nous permettent aussi de donner sa réelle et pratique importance, dans l’ordre des sanctions immédiates, à une opposition d’apparence toute philosophique : celle de l’<em>individu</em> et de la <em>personne.</em></p>
@@ -525,7 +525,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19340515" name="Destin du siècle ou destin de l’homme ? (mai 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193405" name="Destin du siècle ou destin de l’homme ? (mai 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -542,7 +542,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193405on_01.jp2/full/full/0/default.jpg" id="p.3">[p. 3]</a>
-                    <h1 class="head article">Destin du siècle ou destin de l’homme ? (mai 1934)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#19340515"> §</a></h1>
+                    <h1 class="head article">Destin du siècle ou destin de l’homme ? (mai 1934)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#193405"> §</a></h1>
                     <p class="p autofirst">Qu’un homme perde le sens de <em>son</em> destin particulier, il se met fatalement à croire aux destins anonymes et collectifs. C’est ainsi qu’on nous parle du « destin du siècle » avec des yeux hors de la tête, sans se poser jamais cette question pourtant bien naturelle : Comment un siècle peut-il avoir un destin ?<a class="noteref" href="#note18" id="note18_"><sup>b</sup></a></p>
                     <p class="p">Le destin, c’est le fait d’une <em>personne</em>.</p>
                     <p class="p">Croire à la réalité du « destin » souverain de la masse, de la classe, de la nation, du capital ou de l’État, — car c’est de tout cela que se compose le destin du siècle, — c’est témoigner tout simplement de son abdication personnelle ; c’est se reconnaître esclave des mythes irresponsables de l’époque. Lorsque nous disons que nous sommes contre la bourgeoisie, contre le communisme, contre le fascisme, contre toutes les formes du « matérialisme » contemporain, nous disons simplement ceci : nous voulons que l’homme redevienne responsable de son destin particulier.</p>
@@ -605,7 +605,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19341015" name="Plans de réforme (octobre 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193410" name="Plans de réforme (octobre 1934)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -622,7 +622,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193410on_01.jp2/full/full/0/default.jpg" id="p.15">[p. 15]</a>
-                    <h1 class="head article">Plans de réforme (octobre 1934)<a class="noteref" href="#note21" id="note21_"><sup>a</sup></a><a class="bookmark" href="#19341015"> §</a></h1>
+                    <h1 class="head article">Plans de réforme (octobre 1934)<a class="noteref" href="#note21" id="note21_"><sup>a</sup></a><a class="bookmark" href="#193410"> §</a></h1>
                     <p class="p autofirst">J’ai un plan, tu as un plan, a-t-il un plan ? Nous avons tous un plan. Ran tan plan. Il y a trois ans, quand nous parlions de la nécessité d’un « ordre nouveau », cela paraissait un peu bien jeune à ces Messieurs. L’incident du 6 février les a fait réfléchir, semble-t-il. Nous serons bien les derniers à nous en plaindre. Nous avons pris un peu d’avance : ils rejoindront.</p>
                     <p class="p">Voici trois manifestes qui, chacun selon ses moyens, témoignent d’un désir de changer quelque chose à cette mécanique qu’hier encore… Mais nous ne voulons pas ironiser trop facilement. Prenons-les à titre d’exemple, entre vingt autres, et lisons-les dans l’ordre chronologique, qui n’est pas dépourvu d’enseignement. <em>Crise</em> ! déclare le premier document ; rénovation mais sans révolution ! dit le second ; petites réformes, conclut le troisième. Cette progression à rebours est normale, dans le plan de la politique actuelle. Mais il y a certainement quelque chose de plus que le verbiage habituel, dans ces trois manifestations d’inquiétude. C’est bien pourquoi nous en parlons.</p>
                     <section id="body-9-1" class="div level2">
@@ -711,7 +711,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19350101" name="Un exemple de tactique révolutionnaire chez Lénine (janvier 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193501" name="Un exemple de tactique révolutionnaire chez Lénine (janvier 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -728,7 +728,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193501on_01.jp2/full/full/0/default.jpg" id="p.9">[p. 9]</a>
-                    <h1 class="head article">Un exemple de tactique révolutionnaire chez Lénine (janvier 1935)<a class="noteref" href="#note29" id="note29_"><sup>a</sup></a><a class="bookmark" href="#19350101"> §</a></h1>
+                    <h1 class="head article">Un exemple de tactique révolutionnaire chez Lénine (janvier 1935)<a class="noteref" href="#note29" id="note29_"><sup>a</sup></a><a class="bookmark" href="#193501"> §</a></h1>
                     <p class="p">1. « Groupe compact, nous cheminons par une voie escarpée et difficile, nous tenant fortement par la main. Nous sommes entourés d’ennemis de toutes parts et il nous faut marcher presque constamment sous le feu. Nous nous sommes unis en vertu d’une décision librement consentie, afin de combattre nos ennemis et de ne pas tomber dans le marais voisin, dont les hôtes n’ont cessé de nous blâmer d’avoir constitué un groupe spécial et préféré la lutte à la conciliation. »</p>
                     <p class="p">2. « Sans théorie révolutionnaire, pas de mouvement révolutionnaire. On ne saurait trop insister sur cette vérité à une époque où l’engouement pour les formes les plus étroites du praticisme va de pair avec la propagande de l’opportunisme. »</p>
                     <p class="p">3. « Notre mouvement ne fait encore que se constituer, qu’élaborer sa physionomie et il est loin d’en avoir fini avec les courants de la pensée révolutionnaire qui menacent de le faire dévier… Dans ces conditions, une erreur “insignifiante” au premier abord peut avoir les plus déplorables conséquences et il faut être aveugle pour considérer comme inopportunes ou superflues les controverses de fractions et la délimitation rigoureuse des nuances. »</p>
@@ -782,7 +782,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19350201" name="Quatre indications pour une culture personnaliste (février 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193502" name="Quatre indications pour une culture personnaliste (février 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -799,7 +799,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193502on_01.jp2/full/full/0/default.jpg" id="p.13">[p. 13]</a>
-                    <h1 class="head article">Quatre indications pour une culture personnaliste (février 1935)<a class="noteref" href="#note33" id="note33_"><sup>a</sup></a><a class="bookmark" href="#19350201"> §</a></h1>
+                    <h1 class="head article">Quatre indications pour une culture personnaliste (février 1935)<a class="noteref" href="#note33" id="note33_"><sup>a</sup></a><a class="bookmark" href="#193502"> §</a></h1>
                     <p class="p">1. — <em>La culture ne doit pas tendre à former des personnes. Mais elle doit être formée par des personnes dans l’exercice de leur vocation.</em></p>
                     <p class="p">La personne est, ou n’est pas. (Le plus souvent, elle n’est pas.) À la différence de ce qu’on appelait naguère personnalité, elle ne se cultive pas ; elle n’est pas un produit soit de l’éducation, soit de l’industrie pédagogique. Quand elle n’est pas, il vaut mieux ne pas la singer, ne pas apprendre à la singer. Car la personne est vocation, — et l’homme ne choisit pas sa vocation, mais c’est elle qui choisit son homme.</p>
                     <p class="p">La seule question qui se pose, dès lors, c’est de savoir comment l’exercice d’une vocation peut être protégé, voire même favorisé, par l’instruction publique et l’atmosphère culturelle. La réponse ne peut faire de doute : seule une culture constituée et transmise par des personnes assujetties aux ordres de leur vocation, et responsables de son exercice, peut sauvegarder naturellement la <em>possibilité</em>, toujours latente chez tout homme, de la personne.</p>
@@ -867,7 +867,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19350401" name="L’Édit de Nantes et sa Révocation (mars-avril 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193504" name="L’Édit de Nantes et sa Révocation (mars-avril 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -884,7 +884,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193503on_01.jp2/full/full/0/default.jpg" id="p.29">[p. 29]</a>
-                    <h1 class="head article">L’Édit de Nantes et sa Révocation (mars-avril 1935)<a class="noteref" href="#note37" id="note37_"><sup>a</sup></a><a class="bookmark" href="#19350401"> §</a></h1>
+                    <h1 class="head article">L’Édit de Nantes et sa Révocation (mars-avril 1935)<a class="noteref" href="#note37" id="note37_"><sup>a</sup></a><a class="bookmark" href="#193504"> §</a></h1>
                     <p class="p autofirst">Un conflit religieux « déchire » la France lors de l’avènement de Henri IV. Ainsi parlent nos manuels. Car selon les manuels, tous les conflits « déchirent », tous les édits « apaisent », si c’est l’État qui les a promulgués. On célèbre l’Édit de Nantes au nom de l’ordre dans l’État. On flétrit la Révocation décrétée au nom du même ordre et pour le bien du même État, mais on invoque cette fois les droits sacrés de la conscience.</p>
                     <p class="p">Telle étant la pâtée officielle, le point de vue de l’Ordre nouveau nous oblige à poser les deux questions suivantes :</p>
                     <p class="p">1. L’Édit de Nantes a-t-il « apaisé » quoi que ce soit, en imposant à un conflit <em>spirituel</em> le cadre étatique d’un décret destiné avant tout à raffermir le centralisme <em>politique</em> ?</p>
@@ -951,7 +951,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19350801" name="À propos du 14 juillet (juillet-août 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193508" name="À propos du 14 juillet (juillet-août 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -968,7 +968,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193508on_01.jp2/full/full/0/default.jpg" id="p.II">[p. II]</a>
-                    <h1 class="head article">À propos du 14 juillet (juillet-août 1935)<a class="noteref" href="#note40" id="note40_"><sup>a</sup></a><a class="bookmark" href="#19350801"> §</a></h1>
+                    <h1 class="head article">À propos du 14 juillet (juillet-août 1935)<a class="noteref" href="#note40" id="note40_"><sup>a</sup></a><a class="bookmark" href="#193508"> §</a></h1>
                     <p class="p autofirst">… Nous nous battrons le jour où le peuple français aura compris que l’adversaire unique est le capitalisme centralisateur, anonyme aujourd’hui — à droite, étatiste demain — à gauche, dans l’un et l’autre cas destructeur de la liberté des personnes, destructeur du sentiment patriotique, destructeur à gauche et à droite des forces vives du pays.</p>
                     <p class="p">À l’heure présente, une chose est claire : le Front populaire travaille pour M. Litvinoff, le Front national travaille pour M. de Wendel. Et si les militants de gauche et de droite l’ignorent encore, c’est en vertu d’une double erreur, que <cite class="title fr" lang="fr">L’Ordre nouveau</cite> seul a dénoncée depuis longtemps :</p>
                     <p class="p"><em>Erreur sur la tactique</em> : lorsqu’on voit la gauche et la droite proclamer la priorité du « plan d’action » sur la doctrine, on est sûr que cette gauche et cette droite travaillent en fait pour le désordre, et que les seuls bénéficiaires de luttes civiles aussi mal orientées seront en fait les gros bailleurs de fonds.</p>
@@ -1003,7 +1003,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19351015" name="La situation politique en France (octobre 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193510" name="La situation politique en France (octobre 1935)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1020,7 +1020,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193510on_01.jp2/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">La situation politique en France (octobre 1935)<a class="noteref" href="#note41" id="note41_"><sup>a</sup></a><a class="bookmark" href="#19351015"> §</a></h1>
+                    <h1 class="head article">La situation politique en France (octobre 1935)<a class="noteref" href="#note41" id="note41_"><sup>a</sup></a><a class="bookmark" href="#193510"> §</a></h1>
                     <section id="body-14-1" class="div level2">
                       <h2 class="head">1. — Les partis bougent<a class="bookmark" href="#body-14-1"> §</a></h2>
                       <p class="p autofirst">Nous n’avons guère parlé de la politique des partis, dans cette revue : c’est le sujet le plus vain, le plus stérile et le plus irritant qui soit, dès qu’on essaye d’y réfléchir, au lieu de ressasser des opinions toutes faites prises à droite et à gauche dans des journaux dont l’éloge n’est plus à faire.</p>
@@ -1200,7 +1200,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19360115" name="Échos (janvier 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193601" name="Échos (janvier 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1217,17 +1217,17 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193601on_01.jp2/full/full/0/default.jpg" id="p.47">[p. 47]</a>
-                    <h1 class="head article">Échos (janvier 1936)<a class="noteref" href="#note51" id="note51_"><sup>1</sup></a><a class="bookmark" href="#19360115"> §</a></h1>
-                    <section id="ddr19360115on2" class="div level2">
-                      <h2 class="head">Et Rimbaud ?<a class="bookmark" href="#ddr19360115on2"> §</a></h2>
+                    <h1 class="head article">Échos (janvier 1936)<a class="noteref" href="#note51" id="note51_"><sup>1</sup></a><a class="bookmark" href="#193601"> §</a></h1>
+                    <section id="ddr193601on2" class="div level2">
+                      <h2 class="head">Et Rimbaud ?<a class="bookmark" href="#ddr193601on2"> §</a></h2>
                       <p class="p autofirst">Nul n’ignore qu’une revue « de jeunes » doit parler de Rimbaud et du surréalisme. Tout le reste est charabia. L’O.N., par exemple, qui « parle de politique », et même d’économie, brouille absolument « le jeu ». M. Léon Pierre-Quint en prend volontiers son parti. M. Brasillach, lui, le déplore. De son temps, les jeunes parlaient de Rimbaud et allaient au Vieux-Colombier. Faire de la politique, c’était porter une canne ferrée et louer la « rigueur » de Maurras. Hélas. Tout change !</p>
                       <p class="p">Tout change ! comme disait avec beaucoup de simplicité cette vieille princesse russe à qui l’on racontait que sa maison de campagne, aux environs de Moscou, avait été transformée en bordel aux premiers jours de la révolution : puis rasée par les communistes, et qu’à la place on élevait maintenant des milliers de poulets kolkhoziens. Elle souriait gentiment : tout change !…</p>
                       <p class="p">Il y a tout de même certaines choses qui ne changent pas. Rimbaud sera toujours jeune, même si M. Brasillach en parle. Il y aura toujours des chroniqueurs qui auront besoin de parler de Rimbaud pour faire jeune. Il y aura toujours des conservateurs qui trouveront commode de vanter les révoltés de l’autre siècle. Et il y aura toujours quelques hommes pour trouver ça plutôt nigaud.</p>
                       <p class="p">Mais puisqu’on nous invite à parler de Rimbaud, saisissons l’occasion pour dénoncer sa participation à l’un des plus grands crimes de l’Histoire, ce crime contre la civilisation latine que représente la résistance des Éthiopiens. L’on se souvient en effet que Rimbaud vendit des fusils au Négus, — et cela <em>en temps de paix</em>, comble d’hypocrisie !</p>
                       <div class="ab ornament">⁂</div>
                     </section>
-                    <section id="ddr19360115on3" class="div level2">
-                      <h2 class="head">La littérature rajeunit<a class="bookmark" href="#ddr19360115on3"> §</a></h2>
+                    <section id="ddr193601on3" class="div level2">
+                      <h2 class="head">La littérature rajeunit<a class="bookmark" href="#ddr193601on3"> §</a></h2>
                       <p class="p autofirst">On a pu lire récemment dans le plus « littéraire » de nos hebdomadaires, l’écho suivant, intitulé <em>Les Anciens et les Jeunes</em>.</p>
                       <p class="p">« Depuis la disparition de Paul Bourget, le doyen d’élection à l’Académie française est M. Gabriel Hanotaux, élu en 1897, au 27ᵉ fauteuil.</p>
                       <p class="p">
@@ -1368,7 +1368,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19360415" name="Plébiscite et démocratie (avril 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193604" name="Plébiscite et démocratie (avril 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1385,7 +1385,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193604on_01.jp2/full/full/0/default.jpg" id="p.21">[p. 21]</a>
-                    <h1 class="head article">Plébiscite et démocratie (avril 1936)<a class="noteref" href="#note57" id="note57_"><sup>a</sup></a><a class="bookmark" href="#19360415"> §</a></h1>
+                    <h1 class="head article">Plébiscite et démocratie (avril 1936)<a class="noteref" href="#note57" id="note57_"><sup>a</sup></a><a class="bookmark" href="#193604"> §</a></h1>
                     <section id="body-18-1" class="div level2">
                       <h2 class="head">1. En quoi le plébiscite diffère des élections parlementaires<a class="bookmark" href="#body-18-1"> §</a></h2>
                       <p class="p autofirst">Pour une mentalité française actuelle, moyenne, les récentes « élections » nationales-socialistes doivent logiquement apparaître soit comme un truquage monumental, soit comme une manifestation de puissance d’un parti, au moins superflue. Les « élections » au Reichstag du 29 mars ne consistaient nullement en une concurrence libre de groupes ou d’opinions : un seul parti présentait des candidats, et le seul ministre de l’Intérieur était en droit de nommer définitivement les députés. Le vote revenait donc à dire <em>oui</em> ou <em>non</em> à la politique nationale-socialiste, c’est-à-dire au Führer en personne. En fait, il ne s’agissait pas d’élections, au sens parlementaire, mais de plébiscite. Il ne s’agissait pas de doser les opinions, mais au contraire d’obtenir l’<em>unanimité</em> de la nation sur une question vitale. La « lutte électorale » revenait ainsi à la lutte du parti au pouvoir contre l’opposition secrète, informulée, des ennemis du régime, et contre l’inertie des citoyens et citoyennes qui eussent négligé de faire usage de leur droit de vote. Ceci posé, la technique de la propagande et du vote lui-même était indiquée par la nature du but visé, et il n’y a pas lieu de chicaner sur ce point, encore que certains membres du parti N.-S. reconnaissent qu’on a été « un peu fort » dans l’application des moyens de contrainte légale, surtout dans les petites localités (vote en masse, en cortège, à bulletins ouverts, etc., privant les opposants de toute faculté <em>pratique</em> de dire non). Le but étant l’unanimité, et non la majorité, et cette unanimité n’existant pas encore, il fallait <em>créer</em> de gré ou de force ses conditions. On peut contester la légitimité de la fin poursuivie, mais si on l’admet, il faut admettre aussi qu’elle « justifiait » les moyens mis en œuvre. L’indignation d’une partie de notre 
@@ -1450,7 +1450,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19360515" name="Qu’est-ce que l’autorité ? (mai 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193605" name="Qu’est-ce que l’autorité ? (mai 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1467,7 +1467,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193605on_01.jp2/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Qu’est-ce que l’autorité ? (mai 1936)<a class="noteref" href="#note58" id="note58_"><sup>a</sup></a><a class="bookmark" href="#19360515"> §</a></h1>
+                    <h1 class="head article">Qu’est-ce que l’autorité ? (mai 1936)<a class="noteref" href="#note58" id="note58_"><sup>a</sup></a><a class="bookmark" href="#193605"> §</a></h1>
                     <p class="p">1. Personne n’aurait l’idée de poser cette question dans un temps où l’autorité existerait. Mais il est urgent de la poser et de la résoudre dans notre temps.</p>
                     <p class="p">Tout de suite, une dame m’interrompt : « Je croyais que notre époque était autoritaire ! Est-ce que la mode n’est pas à l’autorité ? Notre belle jeunesse réclame l’autorité dans tous les domaines. M. Tardieu lui-même… »</p>
                     <p class="p">Justement, Madame : quand la <em>mode</em> est à l’autorité, c’est qu’il n’y a plus d’autorité. Et quand M. Tardieu lui-même…, eh bien, c’est qu’il est temps d’intervenir et de tirer les choses au clair. Ce qui fait croire à beaucoup de personnes que notre siècle est celui de l’autorité, c’est l’abondance de <em>pouvoirs tyranniques</em> qui s’établissent autour de nous. Or la tyrannie d’un pouvoir grandit exactement dans la mesure où l’autorité diminue. C’est cela qu’il nous faut expliquer.</p>
@@ -1524,7 +1524,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19360615" name="Qu’est-ce que la politique ? (juin 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193606" name="Qu’est-ce que la politique ? (juin 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1541,7 +1541,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193606on_01.jp2/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Qu’est-ce que la politique ? (juin 1936)<a class="noteref" href="#note61" id="note61_"><sup>a</sup></a><a class="bookmark" href="#19360615"> §</a></h1>
+                    <h1 class="head article">Qu’est-ce que la politique ? (juin 1936)<a class="noteref" href="#note61" id="note61_"><sup>a</sup></a><a class="bookmark" href="#193606"> §</a></h1>
                     <p class="p">1. La politique est en principe ce qui intéresse la cité. Aucun des habitants de la cité n’a donc le droit de s’en désintéresser. Ou, s’il le fait, il perd le droit de se plaindre quand les affaires, à son avis, vont mal. Ainsi parle un grossier bon sens.</p>
                     <p class="p">2. Nous voyons aujourd’hui un nombre grandissant d’intellectuels proclamer avec émotion leur volonté de s’intéresser à la cité dont ils sont membres. Leur émotion est celle d’une découverte. Ils découvrent que le droit de se plaindre, dont ils avaient toujours usé, entraîne le devoir de modifier la situation dont ils se plaignent. Cette conséquence est pour eux si nouvelle, qu’ils éprouvent le besoin de « justifier » leurs interventions politiques, — <em>comme si cela n’allait pas de soi</em> ! (Exemple : les Pages de Journal d’André Gide.)</p>
                     <p class="p">Cette fausse honte ou cette mauvaise conscience, cette crainte de « trahir » en servant, ces raisons que l’on s’efforce de donner, non sans maladresse, avant d’assumer un devoir qui paraîtrait, en temps normaux, incomber à tout homme normal, enfin ces débats enfiévrés pour savoir si le clerc doit être un <em>citoyen</em> tout comme les autres, s’il doit « faire de la politique », — ce malaise irritant révèle une profonde incertitude : non seulement c’est le sens politique qui fait défaut, mais c’est le <em>sens même de la politique en général</em> qui n’est plus clairement aperçu, dans l’élite de la nation.</p>
@@ -1636,7 +1636,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19360715" name="Du danger de confondre la bonne foi et le stalinisme (juillet 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193607" name="Du danger de confondre la bonne foi et le stalinisme (juillet 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1653,7 +1653,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193607on_01.jp2/full/full/0/default.jpg" id="p.34">[p. 34]</a>
-                    <h1 class="head article">Du danger de confondre la bonne foi et le stalinisme (juillet 1936)<a class="noteref" href="#note69" id="note69_"><sup>a</sup></a><a class="bookmark" href="#19360715"> §</a></h1>
+                    <h1 class="head article">Du danger de confondre la bonne foi et le stalinisme (juillet 1936)<a class="noteref" href="#note69" id="note69_"><sup>a</sup></a><a class="bookmark" href="#193607"> §</a></h1>
                     <p class="p autofirst">À propos de la <em>Crise du Progrès</em>, de M. Georges Friedmann (Gallimard), nous avons un petit compte à régler avec le groupe des écrivains qui partagent la foi de l’auteur et utilisent la même méthode de discussion. Le livre, en soi, est assez décevant, malgré de réelles qualités ; mais très typique, et à plusieurs égards. Il résume avec conscience les phases d’une décadence catastrophique de l’idée de Progrès aux débuts du <span class="num">xxᵉ</span> siècle. Il analyse quelques-unes de ses causes. Enfin, il définit sans équivoques la solution proposée par le néo-marxisme à cette crise.</p>
                     <p class="p">En gros, nous ne pouvons qu’approuver la <em>description</em> donnée par l’auteur. Il est bien vrai que le progrès technique a été détourné de ses fins humaines par Taylor et Ford ; que le mécanisme et « l’intellectualisme décharné » ont provoqué des réactions sentimentales qui, de Ruskin à Bergson, relèvent de mysticismes adultérés et égoïstes plutôt que d’une considération virile et positive de la mission de l’esprit inventeur ; enfin que c’est le système capitaliste qui est responsable de la crise, et non pas le machinisme et l’électricité. Tous nos lecteurs savent que ces thèses sont pour nous fondamentales.</p>
                     <p class="p">Nous pensons, comme l’auteur, — à qui prend-il sa formule ? — que ce sont « les hommes qui modifient les circonstances », et non les lois économiques. Nous pensons donc que le progrès mécanique ne comporte pas <em>en soi</em> de fatalité inhumaine, et que « le machinisme permettant de faire une économie de force encore plus grande que les inventions de la pré-Renaissance, il s’agit de trouver les institutions qui permettent de réaliser la libération correspondante »<a class="noteref" href="#note70" id="note70_"><sup>1</sup></a>.</p>
@@ -1712,7 +1712,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19361001" name="Manifeste au service du personnalisme par Emmanuel Mounier (octobre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193610" name="Manifeste au service du personnalisme par Emmanuel Mounier (octobre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1729,7 +1729,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193610on_01.jp2/full/full/0/default.jpg" id="p.64">[p. 64]</a>
-                    <h1 class="head article"><cite class="title fr" lang="fr">Manifeste au service du personnalisme</cite> par Emmanuel Mounier (octobre 1936)<a class="noteref" href="#note75" id="note75_"><sup>a</sup></a><a class="bookmark" href="#19361001"> §</a></h1>
+                    <h1 class="head article"><cite class="title fr" lang="fr">Manifeste au service du personnalisme</cite> par Emmanuel Mounier (octobre 1936)<a class="noteref" href="#note75" id="note75_"><sup>a</sup></a><a class="bookmark" href="#193610"> §</a></h1>
                     <p class="p autofirst">Ce texte marquera un moment important dans l’évolution du personnalisme : le moment du regroupement doctrinal, après quelques années de recherches « pluralistes », forcément tâtonnantes, et au seuil d’une action plus vivement <em>engagée</em>, que tout nous porte à souhaiter commune.</p>
                     <p class="p">Quelle que soit notre méfiance à l’endroit des synthèses tactiques ou doctrinales, nous ne pouvons formuler ici que des réserves provisoires : les passages sur le travail « obligation universelle », sur le rôle de l’État, — en quoi Mounier voit le « garant » du statut de la personne ! — et l’emploi équivoque de termes tels que « décentralisation » ou « région » doivent être considérés, croyons-nous, comme de simples inconséquences, si nous comprenons le contexte. (Il faudrait prendre garde de cultiver certain pluralisme de vocabulaire, dans le seul domaine où l’unité serait sans doute une garantie d’efficacité.) Mais ce qui nous importe, avant tout, c’est de retrouver intégrées à la position d’<em>Esprit</em> les notions de minimum vital intérieur et européen, de service civil (appelé ici service public), d’entreprise (et non pas de corporation !), de Conseil suprême enfin, et la distinction entre autorité et pouvoir.</p>
                     <p class="p">Nous voulions simplement, à la dernière minute, souligner des promesses d’accord aussi solides.</p>
@@ -1762,7 +1762,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19361115" name="Du socialisme au fascisme (novembre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193611" name="Du socialisme au fascisme (novembre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1779,7 +1779,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193611on_01.jp2/full/full/0/default.jpg" id="p.18">[p. 18]</a>
-                    <h1 class="head article">Du socialisme au fascisme (novembre 1936)<a class="noteref" href="#note76" id="note76_"><sup>a</sup></a><a class="bookmark" href="#19361115"> §</a></h1>
+                    <h1 class="head article">Du socialisme au fascisme (novembre 1936)<a class="noteref" href="#note76" id="note76_"><sup>a</sup></a><a class="bookmark" href="#193611"> §</a></h1>
                     <section id="body-23-1" class="div level2">
                       <h2 class="head">Erreur française sur le fascisme<a class="bookmark" href="#body-23-1"> §</a></h2>
                       <p class="p autofirst">S’il est un préjugé auquel les masses bourgeoises autant qu’ouvrières tiennent, comme elles tiennent aux axiomes fondamentaux de leur existence, — un sou est un sou, ne pas se laisser marcher sur les pieds, chacun pour soi et Dieu pour tous, etc. — c’est bien à ce slogan-là : le fascisme est à droite.</p>
@@ -1858,7 +1858,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19361215" name="Les Jacobins en chemise brune (décembre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193612" name="Les Jacobins en chemise brune (décembre 1936)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1875,7 +1875,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193612on_01.jp2/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Les Jacobins en chemise brune (décembre 1936)<a class="noteref" href="#note81" id="note81_"><sup>a</sup></a><a class="bookmark" href="#19361215"> §</a></h1>
+                    <h1 class="head article">Les Jacobins en chemise brune (décembre 1936)<a class="noteref" href="#note81" id="note81_"><sup>a</sup></a><a class="bookmark" href="#193612"> §</a></h1>
                     <p class="p autofirst">Au Français qui s’étonne et s’inquiète, ou s’indigne, de certaines tournures que prend le national-socialisme, il n’est pas rare qu’un membre du parti d’Hitler réponde : « Vous êtes bien mal venu à critiquer ce qui se fait ici ! Vous condamnez notre centralisme, notre nationalisme, notre passion unitaire, notre éloquence démagogique, et vous ne voyez même pas que tout cela, chez vous, existe pareillement, sinon à un plus haut degré, depuis votre Révolution de 89 ! Tâchez donc de comprendre une bonne fois que l’Allemagne n’a pas eu de Révolution française, et qu’elle doit rattraper son retard, à tout prix. Vous avez, vous Français une conscience nationale unitaire qui nous a toujours fait défaut. Tous vos manuels et tous vos historiens vantent les bienfaits de cette unité. Elle est passée dans vos mœurs, à tel point que vous n’en êtes même plus conscients. Vous criez au nationalisme, c’est-à-dire à l’orgueil impérialiste je pense, dès qu’un peuple à côté de vous, que ce soit l’Italie ou l’Allemagne, essaye de faire ce que vous avez fait, et dont vous paraissez si fiers ! »</p>
                     <p class="p">Je note d’abord que ces propos m’ont été tenus spontanément, par des personnes très favorables à Hitler, mais qui gardaient leur sens critique. Ce ne sont pas là des « Schlagworte », des mots d’ordre de la Propagande. Il y a donc quelques chances qu’ils traduisent la réalité telle qu’elle est, et non point telle qu’on la décrète.</p>
                     <div class="ab ornament">⁂</div>
@@ -1936,7 +1936,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19370101" name="Historique du mal capitaliste (janvier 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193701" name="Historique du mal capitaliste (janvier 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -1953,7 +1953,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193701on_01.jp2/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Historique du mal capitaliste (janvier 1937)<a class="noteref" href="#note85" id="note85_"><sup>a</sup></a><a class="bookmark" href="#19370101"> §</a></h1>
+                    <h1 class="head article">Historique du mal capitaliste (janvier 1937)<a class="noteref" href="#note85" id="note85_"><sup>a</sup></a><a class="bookmark" href="#193701"> §</a></h1>
                     <p class="p autofirst">On a voulu, parfois, identifier le phénomène capitaliste à la civilisation occidentale. C’est un point de vue des plus contestables, le grand commerce, qui est l’une des causes principales du capitalisme, étant au moins aussi oriental qu’occidental. Ce qu’on peut constater, par contre, c’est que le capitalisme a été <em>la force de dissociation sociale la plus puissante des civilisations de l’Occident.</em> Celles-ci n’ont pas su lui faire sa part, le subordonner, l’utiliser au profit de l’homme. Elles se sont laissé envahir, puis dominer par ses mécanismes, aboutissant ainsi, à plusieurs reprises, à une désintégration générale, à la forme politique monstrueuse que nous appelons aujourd’hui l’État totalitaire, et à la fonctionnarisation intégrale de toutes les activités humaines. D’où, à chaque fois, au terme du processus, la guerre civile et étrangère, la stérilisation de la culture, la misère matérielle et l’abaissement moral. Le schématisme inhumain de ces phénomènes rend leur étude et leur exposition relativement aisées : ils paraissent se détacher d’eux-mêmes des innombrables contingences de l’histoire, comme des fatalités géométriques que leur rigidité même permet de distinguer de la vie organique et de l’activité discontinue et imprévisible de l’esprit. Ceci suffit à expliquer pour une bonne part l’apparence forcément schématique des exemples d’évolution capitaliste que nous donnerons.</p>
                     <section id="body-25-1" class="div level2">
                       <h2 class="head">Le capitalisme des Romains<a class="bookmark" href="#body-25-1"> §</a></h2>
@@ -2058,7 +2058,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19370301" name="Chançay (mars 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193703" name="Chançay (mars 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2075,7 +2075,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193703on_01.jp2/full/full/0/default.jpg" id="p.60">[p. 60]</a>
-                    <h1 class="head article">Chançay (mars 1937)<a class="noteref" href="#note99" id="note99_"><sup>a</sup></a><a class="bookmark" href="#19370301"> §</a></h1>
+                    <h1 class="head article">Chançay (mars 1937)<a class="noteref" href="#note99" id="note99_"><sup>a</sup></a><a class="bookmark" href="#193703"> §</a></h1>
                     <p class="p autofirst">D’abord, c’est une maison humaine (un seul étage) ou plutôt c’est deux maisons basses réunies par une longue galerie, le tout accoté à une falaise de la Touraine, surmontée d’une forêt et percée de cavernes de troglodytes, dont plusieurs sont des caves, si les autres sont vides. Ensuite ce n’est pas un congrès qui se tient là ; car il n’y a jamais eu de congrès « à hauteur d’homme ». C’est une rencontre improvisée, un rendez-vous de chasse philosophique. Mieux comparé : tout ce que l’on voudra qui évoquerait l’état d’esprit des explorateurs pendant les « reconnaissances » préliminaires. Deux ou trois s’en vont pousser une pointe tandis que les compagnons restés au camp font une partie d’échecs. (Et l’on en fit beaucoup, non sans philosopher sur le plus exactement symbolique de tous les jeux.)</p>
                     <p class="p">L’un pose au petit groupe cette question insidieuse : <em>qu’est-ce que créer</em> ? (Depuis le temps qu’on en parle à l’O.N…) Il y a là un mathématicien et un écrivain. Le premier dit : créer, pour moi, c’est découvrir un nouveau théorème. Le second : c’est inventer une expression. On se comprend aussitôt. On s’était compris bien avant. Créer, c’est imposer une <em>forme</em> à… Au « chaos » ? À la « nature » ? À un « donné » inorganique ? Là-dessus s’engage une discussion sur 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193703on_02.jp2/full/full/0/default.jpg" id="p.61">[p. 61]</a>
@@ -2120,7 +2120,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19370401" name="Ballet de la non-intervention (avril 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193704" name="Ballet de la non-intervention (avril 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2137,7 +2137,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193704on_01.jp2/full/full/0/default.jpg" id="p.41">[p. 41]</a>
-                    <h1 class="head article">Ballet de la non-intervention (avril 1937)<a class="noteref" href="#note100" id="note100_"><sup>a</sup></a><a class="bookmark" href="#19370401"> §</a></h1>
+                    <h1 class="head article">Ballet de la non-intervention (avril 1937)<a class="noteref" href="#note100" id="note100_"><sup>a</sup></a><a class="bookmark" href="#193704"> §</a></h1>
                     <p class="p autofirst"><em> Première figure.</em> — Juillet. La rébellion militaire éclate en Espagne. Victorieuse au Maroc, elle est écrasée rapidement à Madrid, en Catalogne, à Saint-Sébastien. Le gouvernement espagnol annonce qu’il est maître de la situation. Une semaine plus tard, il annonce qu’il est sur le point de s’en rendre maître. Un mois plus tard, que ce n’est plus qu’une question de temps.</p>
                     <p class="p">Au cours de ce premier mois, les camps se sont formés en Europe : la Russie est pour le gouvernement, l’Allemagne et l’Italie pour les rebelles. C’est net. Quant à la France, elle ne fait que <em>refléter</em> ces deux opinions : la droite soutient Franco parce qu’il est soutenu par le fascisme ; la gauche Caballero, parce qu’il est soutenu par le communisme.</p>
                     <p class="p">Les journaux de gauche n’annoncent que des victoires gouvernementales ; seuls les ennemis de la démocratie oseraient remarquer que ces victoires successives se rapprochent toujours plus de Madrid. Quant aux journaux de droite, voici ce qu’en disait récemment une vieille dame : « Ce que j’aime dans le <em>Jour</em>, c’est qu’au moins avec ce journal, les nôtres gagnent toujours. »</p>
@@ -2190,7 +2190,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19370501" name="L’autorité assure les libertés (mai 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193705" name="L’autorité assure les libertés (mai 1937)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2207,7 +2207,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193705on_01.jp2/full/full/0/default.jpg" id="p.42">[p. 42]</a>
-                    <h1 class="head article">L’autorité assure les libertés (mai 1937)<a class="noteref" href="#note103" id="note103_"><sup>a</sup></a><a class="bookmark" href="#19370501"> §</a></h1>
+                    <h1 class="head article">L’autorité assure les libertés (mai 1937)<a class="noteref" href="#note103" id="note103_"><sup>a</sup></a><a class="bookmark" href="#193705"> §</a></h1>
                     <p class="p autofirst">Si l’hypocrisie est un hommage que le vice rend à la vertu, le verbiage politique d’aujourd’hui est un hommage que les partis rendent à la liberté. Il semble, dès maintenant, que, dans les cerveaux les plus lucides, commence à poindre la conscience d’un problème de l’autorité et de la liberté, — nous voulons dire : d’un problème qui se pose actuellement du fait de la carence des tentatives de solutions qu’on a voulu historiquement lui donner. Conscience vague, sans doute, et obscure, qui se révèle dès l’abord sous forme d’un malaise politique, dont on peut prédire que l’accentuation prendra la forme d’une angoisse politique, c’est-à-dire d’une situation révolutionnaire.</p>
                     <p class="p">C’est à la faveur de cette situation révolutionnaire que la vocation de notre pays pourra, d’un seul coup, apparaître comme une évidence à tous et comme le principe d’actes révolutionnaires qui incarneront dans la réalité sociale notre « commune mesure »<a class="noteref" href="#note104" id="note104_"><sup>1</sup></a>.</p>
                     <p class="p">Prévoir dès aujourd’hui ce que seront ces actes, ce serait — très précisément — leur dénier la qualité d’« actes » — et surtout d’« actes révolutionnaires » (révolution ne veut-il pas dire : choses nouvelles ?). D’autre part, s’en remettre délibérément à l’inspiration du moment, attendre passivement la venue d’on ne sait quelle lame de fond, ce serait nous condamner à la stérilité d’une action bâclée, donc au triomphe rapide d’une réaction dictatoriale. Entre ces deux déficiences opposées, nous pouvons dès maintenant chercher à comprendre quelles seront la nature et l’efficacité de ces 
@@ -2286,7 +2286,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/on/19380615" name="Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) (juin 1938)" package="ddr_on" template="liseuse" pagetype="liseuse">
+    <page path="/articles/on/193806" name="Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) (juin 1938)" package="ddr_on" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -2303,7 +2303,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193806on_01.jp2/full/full/0/default.jpg" id="p.19">[p. 19]</a>
-                    <h1 class="head article">Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) (juin 1938)<a class="noteref" href="#note107" id="note107_"><sup>a</sup></a><a class="bookmark" href="#19380615"> §</a></h1>
+                    <h1 class="head article">Trop d’irresponsables s’engagent ! (Responsabilité des intellectuels) (juin 1938)<a class="noteref" href="#note107" id="note107_"><sup>a</sup></a><a class="bookmark" href="#193806"> §</a></h1>
                     <p class="p autofirst">Chose étrange, le 6 février 1934 est une date de l’histoire littéraire : elle inaugure le temps des moutons enragés.</p>
                     <p class="p">Fatigués de leur innocence, voyant que l’herbe se faisait rare sous leurs pieds et qu’ils n’avaient plus de berger, aux éclairs de chaleur d’une révolution encore lointaine, ils se sont jetés dans le premier parc venu, à gauche ou à droite, et depuis lors y bêlent d’une voix aigre et anxieuse, tout en signant une quantité de manifestes.</p>
                     <p class="p">Ils ont signé pour le Négus et contre lui ; pour le Chef bien-aimé, Père des Peuples, et pour ses innocentes victimes, vipères lubriques ; pour Franco et contre Franco ; contre Dollfuss et pour Schuschnigg ; pour Thaelmann, contre le Japon, à propos du CSAR, à M. Bénès ; des deux mains, des quatre pattes, les yeux fermés, d’une croix, d’une faucille et d’un marteau, ou avec plus ou moins de réticences ; d’un nom connu, d’un nom à faire connaître… Bref, il n’est pas un acte commis dans le monde, depuis quatre ans, qui n’ait été vertement dénoncé par des « intellectuels » français.</p>

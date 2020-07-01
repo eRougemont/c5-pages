@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/articles/hn/193211_p1" name="« Hic et nunc » [éditorial] (novembre 1932)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193211_p1" name="Hic et nunc [éditorial] (novembre 1932)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -18,7 +18,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p1_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article"> « Hic et nunc » [éditorial] (novembre 1932)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#193211_p1"> §</a></h1>
+                    <h1 class="head article"> Hic et nunc [éditorial] (novembre 1932)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#193211_p1"> §</a></h1>
                     <p class="p autofirst">Il existe — <em>hic et nunc</em> — un certain nombre de choses à dire, un certain ordre de vérités qu’il n’est plus possible de taire. Mais c’est en vain que nous cherchons autour de nous leur lien actuel et leur lieu spirituel. Pareille constatation ne peut nous signifier rien d’autre qu’une invitation pressante à créer ce lien et ce lieu : ce lieu de témoignage où puissent être dites avec tout le sérieux, toute l’ironie, toute la décence, toute la violence qu’elles imposent, des vérités actuelles, personnelles, dangereuses. Dites à nous-mêmes, d’abord ; à tous ceux qui voudront les entendre ; à ceux auxquels, peut-être mieux qu’à nous, il sera donné de les comprendre en vérité, c’est-à-dire de les réaliser en obéissance.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">En face d’une <em>pensée religieuse</em> qui s’épuise et se disqualifie dans ses efforts pour concilier la révélation et la psychologie, pour réfuter par des raisons humaines ces démons que seule la prière peut délivrer d’eux-mêmes ; en face d’une pensée religieuse qui, pour tout dire, trahit sa mission de scandale, et tente lâchement de réduire le divin au « surhumain » (c’est-à-dire au « trop humain »), le transcendant au temporel, il y a lieu et ordre d’attester que nous n’avons rien mérité, sinon la colère de Dieu. En face de <em>morales</em> de plus en plus débilitantes, asservies à la classe, à la race, et à la lâcheté publique, il y a lieu et ordre d’attester la scandaleuse doctrine du « salut de grâce et bonté pure », du salut par la foi, par l’abandon aux mains du Dieu Vivant.</p>
@@ -61,7 +61,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193211_p23" name="« Principe d’une politique du pessimisme actif » (novembre 1932)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193211_p23" name="Principe d’une politique du pessimisme actif (novembre 1932)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -78,7 +78,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p23_01.jpg/full/full/0/default.jpg" id="p.23">[p. 23]</a>
-                    <h1 class="head article"> « Principe d’une politique du pessimisme actif » (novembre 1932)<a class="noteref" href="#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="#193211_p23"> §</a></h1>
+                    <h1 class="head article"> Principe d’une politique du pessimisme actif (novembre 1932)<a class="noteref" href="#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="#193211_p23"> §</a></h1>
                     <p class="p autofirst">…que nous faisons du paradoxe ? Non. Dieu nous <em>est</em> paradoxal. Le paradoxe est la réalité, ou plus exactement le paradoxe est la marque et la preuve de toute réalité en tant que saisie et vécue, c’est-à-dire assumée par l’homme. Sortir du paradoxe pour s’évader dans une synthèse quelconque, rationaliste, catholique, ou marxiste, c’est sortir de la réalité même. Car la réalité est précisément ce qui nous met en relation personnelle et immédiate avec Dieu : et que la relation d’un être déchu avec son Créateur ne puisse être que paradoxale, cela est clair, d’une clarté proprement aveuglante et même insupportable, si nous n’avions le Christ, seul médiateur et seul espoir, seulement accessible 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p23_02.jpg/full/full/0/default.jpg" id="p.24">[p. 24]</a>
  au plus profond du désespoir et de la nuit, par la foi seule, — qui ne vient pas de nous.</p>
@@ -152,7 +152,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193303" name="« Solutions pratiques ? » (mars 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193303" name="Solutions pratiques ? (mars 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -169,7 +169,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_01.jpg/full/full/0/default.jpg" id="p.37">[p. 37]</a>
-                    <h1 class="head article"> « Solutions pratiques ? » (mars 1933)<a class="noteref" href="#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="#193303"> §</a></h1>
+                    <h1 class="head article"> Solutions pratiques ? (mars 1933)<a class="noteref" href="#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="#193303"> §</a></h1>
                     <p class="p autofirst">Beaucoup de personnes, après avoir lu notre premier cahier, nous ont écrit ceci : « Quelles solutions pratiques apportez-vous ? On voudrait quelque chose de positif… »</p>
                     <p class="p">Nous avons accueilli cette question de la façon dont nous voudrions que toutes les questions que nous poserons ici soient accueillies : avec un sérieux et un respect si peu feints qu’ils n’excluent nullement la bonne humeur.</p>
                     <p class="p">Le sérieux ne consistera jamais, pour nous, dans une attitude d’humilité lugubre. Le sérieux et le respect, en présence d’une question, c’est tout simplement de se dire : cette question est justifiée par le fait même qu’elle a surgi à l’occasion de ce que j’écris ; il s’agit, avant que d’y répondre, de se rendre compte de ce qu’elle signifie pour celui qui me la pose. Répondre du tac-au-tac, à la « lettre » de la question, c’est un procédé électoral qui peut être utile à son heure, mais nous avons tout autre chose à faire. Nous ne cherchons pas à <em>avoir</em> raison <em>contre</em> quelqu’un : l’esprit de vérité n’est à personne. Bien souvent, parmi nous, on répond mal aux questions parce qu’on se borne à répondre à leurs mots, alors qu’il eût fallu répondre à un tourment réel, maladroitement exprimé par ces mots. Mais, bien souvent aussi, on répond mal parce qu’on prend au sérieux des fumistes. Nous appelons fumistes ces messieurs qui nous interrogent avec politesse sur nos intentions et nos buts, à seule fin de « causer un peu ». Qu’on les reconnaisse à ce signe : dès qu’ils commencent à comprendre de quoi il s’agit, ils s’écrient : « Je ne comprends plus ! » En réalité, ils nous demandent des thèmes de discussion, c’est-à-dire des prétextes à différer toute action « pratique ».</p>
@@ -240,7 +240,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193307_p95" name="« Dialectique des fins dernières » (juillet 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193307_p95" name="Dialectique des fins dernières (juillet 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -257,7 +257,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_01.jpg/full/full/0/default.jpg" id="p.95">[p. 95]</a>
-                    <h1 class="head article"> « Dialectique des fins dernières » (juillet 1933)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#193307_p95"> §</a></h1>
+                    <h1 class="head article"> Dialectique des fins dernières (juillet 1933)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#193307_p95"> §</a></h1>
                     <p class="p autofirst">L’honnêteté la plus élémentaire oblige à reconnaître que nos vies comportent d’autant moins de solutions que nous sommes plus exigeants. Tout idéal atteint se retourne aussitôt contre notre bonheur. Depuis l’auteur de l’Ecclésiaste jusqu’au romancier le plus moderne, la littérature universelle semble n’avoir voulu mettre en figures nos désirs et nos ambitions que pour mieux nous en révéler l’essentielle inanité. Sénèque nous apprend que l’on n’échappe point à soi-même. Inutilité des voyages. Mais Proust nous persuade qu’on ne s’atteint jamais. Et les philosophies de l’Occident mettent le comble à cette gigantesque pagaille dont naquit bizarrement au <span class="num">xviii<sup class="sup">e</sup></span> siècle l’idée de Progrès. L’extérieur déçoit, l’intérieur égare ; l’objet pur opprime, le sujet pur s’évade ; les morales échouent, l’immoralisme n’est qu’une morale de plus ; l’athéisme conserve l’orgueil bourgeois, les religions conservent l’orgueil bigot ; « tout n’est que vanité et poursuite du vent », y compris la sagesse de celui qui croit trouver dans cette sentence la justification de son refus de vivre.</p>
                     <p class="p">Mais il existe une sagesse qui semble bien n’être pas affectée de la dégradation immanente à toute <em>solution</em> humaine. Cette sagesse dit oui à toutes les contradictions du monde. Elle les assume dans une vue sobre et courageuse et cherche en elles la tension, le ressort nécessaires à l’acte créateur. Loin de tenter leur réduction à quelque idéale synthèse, elle s’exalte des conflits sans cesse renaissants que suscite l’exigence de la personne lorsqu’elle s’insère dans le donné hostile du monde ambiant. Elle ne veut ni la thèse seule, ni l’antithèse seule, et bien moins encore la synthèse. Elle veut le risque permanent, l’actualité permanente. 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_02.jpg/full/full/0/default.jpg" id="p.96">[p. 96]</a>
@@ -320,7 +320,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193307_p116" name="« Poésie dialectique » (juillet 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193307_p116" name="Poésie dialectique (juillet 1933)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -337,7 +337,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p116_01.jpg/full/full/0/default.jpg" id="p.116">[p. 116]</a>
-                    <h1 class="head article"> « Poésie dialectique » (juillet 1933)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#193307_p116"> §</a></h1>
+                    <h1 class="head article"> Poésie dialectique (juillet 1933)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#193307_p116"> §</a></h1>
                     <p class="p autofirst">Au cours d’un article paru en Suisse allemande, le professeur O.-E. Strasser déclare que le sonnet publié par Albert-Marie Schmidt dans notre premier numéro « est bien la première poésie dialectique qui lui soit tombée sous les yeux » ! Petite erreur de fait, voulons-nous croire, mais aggravée par l’ironie dont le professeur nous accable à cette occasion. Erreur qui lèse à la fois l’histoire littéraire, la dialectique et la poésie. Car :</p>
                     <p class="p">1° Toute la poésie de la Réforme jusqu’au <span class="num">xvii<sup class="sup">e</sup></span> siècle peut être qualifiée de dialectique : c’est le « wit » des poètes métaphysiciens de la Renaissance anglaise, John Donne, Crashaw, Marvell, Herbert, Vaughan et vingt autres, la plupart convertis au protestantisme ; c’est le style antithétique des huguenots contemporains de la Pléiade, si méchamment enterrés par les jésuites dans leurs Histoires de la littérature française (pour ne rien dire des lamentables dédains de M. Lanson parlant de Du Bartas, ce géant — mais nous y reviendrons) ; ce sont les sonnets de Goulard, admirable commentateur de Du Bartas, et toute une école de poètes calvinistes imbus des théories cosmologiques de Paracelse ; ce sont encore en plein <span class="num">xvii<sup class="sup">e</sup></span> siècle, les <em>Sonnets Spirituels</em> d’un Gombaud. Et je cite au hasard d’une mémoire mal informée. Et je ne dis rien de la dialectique de <em>Polyeucte</em>…</p>
                     <p class="p">2° La vision dialectique jetant l’homme dans une situation dramatique ; lui révélant le néant de ses idoles et la nouveauté inénarrable de l’instant où la Parole lui est adressée ; enfin, excitant en lui l’espoir infini au sein du désespoir et la joie de la Promesse invisible, — cette vision <em>donnée</em> à l’homme, est la plus propre à créer en lui l’organe d’une haute poésie.</p>
@@ -399,7 +399,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193401" name="« Grammaire de la personne » (janvier 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193401" name="Grammaire de la personne (janvier 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -416,7 +416,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_01.jpg/full/full/0/default.jpg" id="p.18">[p. 18]</a>
-                    <h1 class="head article"> « Grammaire de la personne » (janvier 1934)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#193401"> §</a></h1>
+                    <h1 class="head article"> Grammaire de la personne (janvier 1934)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#193401"> §</a></h1>
                     <p class="p autofirst">L’individu, tel que les libéraux — en politique — et les idéalistes — en philosophie — nous l’ont légué, c’est l’homme qui n’a pas de prochain et qui n’est le prochain de personne. Ou encore, comme le dit Keyserling, c’est l’homme pour lequel le prochain est devenu tout simplement « le voisin inévitable », celui que définit, d’ailleurs, le Droit romain.</p>
                     <p class="p">Nous voudrions montrer ici d’une part l’identité de la <em>personne</em>, telle qu’on peut l’opposer à cet individu, et du <em>prochain</em>, tel que le définit l’Évangile ; d’autre part, certaines conséquences politiques de l’erreur individualiste, et surtout, de ses plus récents succédanés.</p>
                     <p class="p center"> </p>
@@ -480,7 +480,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193404" name="« Précisions sur la mort du Grand Pan » (avril 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193404" name="Précisions sur la mort du Grand Pan (avril 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -497,7 +497,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_01.jpg/full/full/0/default.jpg" id="p.41">[p. 41]</a>
-                    <h1 class="head article"> « Précisions sur la mort du Grand Pan » (avril 1934)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#193404"> §</a></h1>
+                    <h1 class="head article"> Précisions sur la mort du Grand Pan (avril 1934)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#193404"> §</a></h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">C’est en notre vie seule que la Nature vit.</p>
                       <div class="bibl"><span class="author sc">Coleridge</span>.</div>
@@ -592,7 +592,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193407" name="« Éditorial » (juillet 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193407" name="Éditorial (juillet 1934)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -609,7 +609,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193407hn_01.jpg/full/full/0/default.jpg" id="p.65">[p. 65]</a>
-                    <h1 class="head article"> « Éditorial » (juillet 1934)<a class="noteref" href="#note22" id="note22_"><sup>a</sup></a><a class="bookmark" href="#193407"> §</a></h1>
+                    <h1 class="head article"> Éditorial (juillet 1934)<a class="noteref" href="#note22" id="note22_"><sup>a</sup></a><a class="bookmark" href="#193407"> §</a></h1>
                     <p class="p autofirst">« Soyez appareillez à respondre à chascun qui vont demande rayson de l’espérance qui est en vous.<a class="noteref" href="#note23" id="note23_"><sup>1</sup></a> »</p>
                     <p class="p">On n’oserait pas affirmer que le protestant d’aujourd’hui, dans la moyenne, soit trop bien appareillé. Il advient même que l’argutie papiste le jette dans l’incertitude. Il ne lui reste alors que le refuge d’un antidogmatisme cordial, sous le couvert duquel renaissent bien des hérésies, et celles-là même que les Réformateurs combattirent le plus âprement. Le « protestant moyen » affirme son attachement au libre examen dans la mesure où cela le dispense de répondre d’une façon précise et autorisée aux questions des incroyants ou des catholiques ; mais il se soucie peu d’examiner « librement », comme le veut la formule rationaliste, ou fidèlement, comme le voulait Calvin, le contenu des dogmes de l’Église chrétienne.</p>
                     <p class="p">Cette indifférence est si profonde qu’elle rend parfois inefficaces non seulement des affirmations renouvelées du dogme, mais encore les critiques les plus vives des hérésies qui se sont introduites dans la piété de nos églises au cours des deux derniers siècles. Non seulement on voit des pasteurs prêcher l’équivalent de la doctrine du salut par les œuvres, mais encore on voit ces <em>mêmes</em> pasteurs lire sans sourciller la confession de nos églises, qui proclame le salut par la foi seule. Bien plus, quand un théologien fidèle vient rappeler avec force l’exigence évangélique de la mort à soi-même, vient définir à nouveau l’Église chrétienne comme le lieu où la Parole est prêchée, on voit des pasteurs qui, chaque dimanche pourtant, prêchent l’exaltation de « l’âme humaine » par la religion, et qui définissent volontiers l’Église comme une 
@@ -653,7 +653,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193505_p152" name="« Les trois temps de la Parole » (mai 1935)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193505_p152" name="Les trois temps de la Parole (mai 1935)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -670,7 +670,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_01.jpg/full/full/0/default.jpg" id="p.152">[p. 152]</a>
-                    <h1 class="head article"> « Les trois temps de la Parole » (mai 1935)<a class="noteref" href="#note25" id="note25_"><sup>a</sup></a><a class="bookmark" href="#193505_p152"> §</a></h1>
+                    <h1 class="head article"> Les trois temps de la Parole (mai 1935)<a class="noteref" href="#note25" id="note25_"><sup>a</sup></a><a class="bookmark" href="#193505_p152"> §</a></h1>
                     <p class="p autofirst">On sait avec quelle insistance Kierkegaard revient, dans toutes ses œuvres proprement religieuses, sur la notion de « contemporanéité » avec le Christ. Toute la polémique de Kierkegaard est dirigée contre un certain esprit historique ou historiciste, qui tend à nous faire croire qu’après 19 siècles de christianisme, le « scandale » du Christ s’est atténué. Cette longue tradition nous aurait habitués à <em>admettre</em> que l’homme Jésus était aussi le Christ. Ainsi l’histoire, la durée, les dogmes appris, nous dispenseraient progressivement de faire en présence du Verbe divin incarné dans un homme juif, l’acte de foi impossible à l’homme, celui que Pierre fit lorsqu’il dit à Jésus : « Tu es le Christ, le Fils du Dieu vivant ! » L’Histoire, le développement de la tradition, l’accoutumance religieuse nous faciliteraient cette reconnaissance, et se substitueraient ainsi, sans que nous nous en doutions, à l’acte de l’Esprit. Le scandale s’évanouirait, pour faire place à une adhésion raisonnable et éclairée. Mais en même temps que le scandale, la foi s’évanouirait aussi. Car la foi consiste justement à croire ce qu’on ne peut ni voir, ni toucher, ni comprendre humainement.</p>
                     <p class="p">Cette thèse de Kierkegaard, sous la forme polémique et non systématique qu’il lui a donnée, peut prêter à de graves malentendus. À celui-ci en particulier : certains seront tentés de croire que tout l’effort de la pensée chrétienne doit être de <em>remonter</em> l’Histoire, de se transporter en imagination aux premières années de notre ère, en Judée, de nous remettre tant bien que mal dans la situation de Pierre devant Jésus, bref, de nous rendre contemporains de Jésus-Christ en faisant abstraction du temps qui nous sépare de son apparition 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_02.jpg/full/full/0/default.jpg" id="p.153">[p. 153]</a>
@@ -737,7 +737,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193505_p159" name="« Soirée chez Nicodème » (mai 1935)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193505_p159" name="Soirée chez Nicodème (mai 1935)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -754,7 +754,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p159_01.jpg/full/full/0/default.jpg" id="p.159">[p. 159]</a>
-                    <h1 class="head article">« Soirée chez Nicodème » (mai 1935)<a class="noteref" href="#note29" id="note29_"><sup>a</sup></a><a class="bookmark" href="#193505_p159"> §</a></h1>
+                    <h1 class="head article"> Soirée chez Nicodème (mai 1935)<a class="noteref" href="#note29" id="note29_"><sup>a</sup></a><a class="bookmark" href="#193505_p159"> §</a></h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Et puis, je vous en supplie, que l’humour ne perde jamais ses droits. Vous ne croyez pas à l’expérience ! Au nom de quoi ? Au nom de l’expérience que vous n’avez pas d’expérience !</p>
                       <div class="bibl"><span class="sc">W. Monod</span>, <cite class="title">Le Problème du Bien</cite>, I, p. 512.</div>
@@ -848,7 +848,7 @@
         </blocks>
       </area>
     </page>
-    <page path="/articles/hn/193601" name="« Sur une page de Bossuet (ou Tradition et Révélation) » (janvier 1936)" package="ddr_hn" template="liseuse" pagetype="liseuse">
+    <page path="/articles/hn/193601" name="Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)" package="ddr_hn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Article</value>
@@ -865,7 +865,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_01.jpg/full/full/0/default.jpg" id="p.8">[p. 8]</a>
-                    <h1 class="head article"> « Sur une page de Bossuet (ou Tradition et Révélation) » (janvier 1936)<a class="noteref" href="#note32" id="note32_"><sup>a</sup></a><a class="bookmark" href="#193601"> §</a></h1>
+                    <h1 class="head article"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)<a class="noteref" href="#note32" id="note32_"><sup>a</sup></a><a class="bookmark" href="#193601"> §</a></h1>
                     <p class="p autofirst">Que nos amis catholiques nous permettent de relever tout d’abord un défaut très courant de la controverse<a class="noteref" href="#note33" id="note33_"><sup>1</sup></a> avec la Réforme, en France : on oppose dix-neuf siècles de tradition universelle — dont quinze nous sont communs d’ailleurs avec l’église romaine — à quatre siècles d’une tradition que l’on réduit au seul domaine français, sans même compter que nos églises ont subi de telles persécuti<a id="_GoBack">‌</a>ons qu’elles ont été quasi anéanties durant la moitié de ce temps. Ne serait-il pas plus conforme à la probité historique et plus fécond pour la théologie de mettre en regard du catholicisme romain le protestantisme tout entier, luthérien, calviniste et wesleyen, voire anglican, dans ce qu’il a de spécifique et de commun au sein de sa diversité ?</p>
                     <p class="p">L’on verrait mieux alors, que l’opposition réelle n’est pas, ainsi qu’on risque de le déduire de l’entreprise des Pères de Juvisy, entre « l’héritage du Christ » d’une part, et les dangers de déviations protestantes de l’autre<a class="noteref" href="#note34" id="note34_"><sup>2</sup></a>. L’on verrait mieux que l’opposition réelle est entre la conception « évangélique » et la conception papale ; entre la foi à la Révélation parfaite et suffisante, et le recours à la Tradition comme critère des révélations évangéliques. Ce qui s’oppose en réalité, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_02.jpg/full/full/0/default.jpg" id="p.9">[p. 9]</a>
