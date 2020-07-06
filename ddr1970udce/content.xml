@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+  <pages>
+    <page path="/livres/ddr1970udce/1" name="I. Pour une nouvelle définition du fédéralisme" package="ddr1970udce" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1970udce</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>L’Un et le Divers ou la Cité européenne (1970) I. Pour une nouvelle définition du fédéralisme</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#pb8" id="pb8">[p. 8]</a>
+                    <h1 class="head chapter">I. Pour une nouvelle définition du fédéralisme<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a><a class="bookmark" href="1"> §</a></h1>
+                    <p class="p autofirst">
+<a class="pb" href="#pb9" id="pb9">[p. 9]</a>
+ En 1863 paraissait le dernier grand ouvrage de Proudhon, <i class="i">Du Principe fédératif</i>, où l’on pouvait lire cette phrase devenue célèbre :<i class="i"> « Le vingtième siècle ouvrira l’ère des fédérations, ou l’humanité recommencera un purgatoire de mille ans. »</i> Dans quelle voie sommes-nous engagés après un siècle ? Celle des fédérations et de l’harmonie des peuples, ou celle d’une renaissance des particularismes nationaux ? Je répondrai : dans les deux à la fois, et cela n’est pas contradictoire.</p>
+                    <p class="p">Un phénomène très général de <i class="i">convergence</i> inspire les mouvements d’union continentale qui créent le Conseil de l’Europe et le Marché commun, puis leurs contreparties plus ou moins réussies dans l’empire communiste d’Europe, dans le Monde arabe, en Afrique et en Amérique latine, cependant qu’une volonté d’union mondiale anime les Nations unies et l’Unesco, le Conseil œcuménique des Églises et Vatican II.</p>
+                    <p class="p">Simultanément, mais en sens inverse, un phénomène tout aussi général 
+<a class="pb" href="#pb10" id="pb10">[p. 10]</a>
+ d’affirmation des <i class="i">diversités</i>, des autonomies et des volontés d’indépendance, inspire les mouvements de résurgences communalistes, régionalistes et nationalistes, qu’on voit partout en plein essor, qu’il s’agisse de Nations en instance de divorce avec l’OTAN ou avec le Pacte de Varsovie, ou de nations au sens ancien du mot, régions ou ethnies en révolte plus ou moins ouverte contre le contrat étatique (inégal à leurs yeux) que jadis ou naguère leur imposa l’élément formateur ou hégémonique de chacun de nos États unitaires. Renaissance donc des micro-nationalismes locaux, qui revendiquent leur autonomie au nom de leur langue, de leurs coutumes, ou des nécessités économiques nouvelles, et qui enfièvrent tour à tour la Bretagne, les Flandres ou le Pays basque.</p>
+                    <p class="p">Convergences et diversification, exigence simultanée de plus grandes unions <i class="i">supra-nationales</i> et de plus petites unités <i class="i">infra-nationales</i>, solidarités et autonomies : ces deux mouvements 
+<a class="pb" href="#pb11" id="pb11">[p. 11]</a>
+ contraires se prononcent en même temps, résultent en partie des mêmes causes, et entraînent des effets complémentaires, j’entends le dépassement de l’État-nation à la fois par en haut et par en bas, d’une part, vers des Fédérations continentales et, d’autre part, vers un fédéralisme régional.</p>
+                    <p class="p">La victime de ce double mouvement contradictoire, c’est en effet l’État-nation, tel qu’il est né de la Révolution et du Premier Empire, produit de la confiscation d’une mystique — la Nation — par un appareil administratif et policier — l’État. Un État plus ou moins nationalisé ou une Nation étatisée, modèle : la France, bientôt imitée par presque toute l’Europe — et au <span class="num">xx<sup class="sup">e</sup></span> siècle, par une centaine de Nations nouvelles. Centralisé, atomisé et trituré par les dynamismes contraires du <span class="num">xx<sup class="sup">e</sup></span> siècle, l’État-nation européen nous apparaît, tel que les accidents de l’Histoire nous l’ont laissé, <i class="i">à la fois trop petit et trop grand.</i> Il est trop petit pour assurer ce qu’on persiste à nommer 
+<a class="pb" href="#pb12" id="pb12">[p. 12]</a>
+ son indépendance et sa souveraineté absolue : car nul pays de notre Europe n’est plus en mesure de jouer un rôle mondial, d’assurer seul sa défense, de se nourrir seul, au spirituel comme au physique. Et en même temps, presque tous nos États centralisés — dans la mesure même où ils sont centralisés — se révèlent trop grands pour animer la vie économique, culturelle et surtout civique de leurs régions : celles-ci se sentent exploitées par l’État, ses bureaux ou sa capitale, et les accusent de colonialisme.</p>
+                    <p class="p">Il est certain que la prétention à une politique indépendante, au plein sens du terme, ne saurait être soutenue à la rigueur que par la Chine, l’URSS et surtout les USA, s’ils acceptaient toutefois d’en payer le prix, lequel serait celui d’une autarcie presque totale ou d’une sorte d’isolation paranoïaque. En fait, les États-Unis, quoique de loin les plus forts, dépendent autant de l’opinion mondiale que celle-ci du dollar ou de la télévision. Une <i class="i">interdépendance</i>
+          
+<a class="pb" href="#pb13" id="pb13">[p. 13]</a>
+ universelle dans tous les ordres tend à réduire l’<i class="i">indépendance</i> d’un État à une certaine liberté dans le choix de ses <i class="i">dépendances</i>, à un certain jeu dans l’aménagement de ses réseaux de relations plus ou moins contraignantes. Au surplus, je ne vois guère d’État-nation de type unitaire que ce double mouvement de convergence mondiale et de diversification locale ne mette en crise permanente : 855 votes en quelques années à la Chambre italienne sur le règlement du statut des Régions autonomes. Risques d’éclatement de la Belgique. En France, floraison de projets officiels ou révolutionnaires tendant à régionaliser l’Hexagone. Succès spectaculaires, aux dernières élections, des autonomistes gallois et écossais. Agitation basque et catalane, sourde mais profonde. Plasticages à Saint-Brieuc, dans le Tyrol du Sud, à Louvain et dans le Jura bernois. Mais en même temps, multiplication des jumelages européens entre communes de ces mêmes régions, créations d’organismes de coopérations 
+<a class="pb" href="#pb14" id="pb14">[p. 14]</a>
+ multinationales du type de la <i class="i">Regio Basiliensis</i>, unions professionnelles et industrielles tendant à dévaloriser les frontières…</p>
+                    <p class="p">À tous les coups, c’est donc l’État-nation qui perd. Il ne correspond plus ni aux conditions de liberté et de participation civique, apanage des <i class="i">petites communautés ou cités libres</i>, comme Rousseau l’avait si bien vu ; ni aux conditions de développement, de rentabilité et de sécurité, auxquelles ne peuvent répondre que de <i class="i">grands espaces économiques</i> constitués à la mesure des possibilités et des besoins de l’ère scientifico-technique.</p>
+                    <p class="p">Cet échec de la politique centralisatrice et unitaire, secrètement obsédée par un rêve d’autarcie, et cette mise en question, voire en accusation, de la formule stato-nationale élaborée par le <span class="num">xix<sup class="sup">e</sup></span> siècle, nous renvoient l’un comme l’autre à des formules de type fédéraliste. À la question que je me posais sur la prophétie proudhonienne, voici donc une première réponse : oui, nous 
+<a class="pb" href="#pb15" id="pb15">[p. 15]</a>
+ sommes bel et bien au seuil d’une ère <i class="i">potentiellement fédéraliste.</i></p>
+                    <p class="p">Peut-on dire plus ? Sur les quelque cent trente nations souveraines qui divisent notre humanité, je ne compte guère que deux douzaines d’États fédératifs, mais ils regroupent 40 % de la population du globe, et il est frappant de constater qu’on trouve parmi eux les plus grands États des cinq continents et les plus modernes — ainsi les États-Unis, le Mexique et le Brésil pour les trois Amériques, le Nigeria en Afrique, l’Allemagne pour l’Europe de l’Ouest et la Yougoslavie pour celle de l’Est, et au-delà, l’URSS, l’Inde et l’Australie.</p>
+                    <p class="p">Voilà qui réfute le cliché du fédéralisme « désuet ». Mais l’étiquette fédérale couvre des marchandises de qualités pour le moins diverses selon qu’il s’agit par exemple de l’empire soviétique, du Nigeria, ou de la Confédération suisse. Car la double exigence antinomique de la convergence et de la diversification n’est pas tellement 
+<a class="pb" href="#pb16" id="pb16">[p. 16]</a>
+ mieux satisfaite dans ces trois États officiellement fédératifs que dans les nations unitaires : en URSS, ce sont les autonomies régionales et les diversités religieuses et politiques qui sont opprimées par l’État central dont un Parti unique s’est emparé ; au Nigeria, c’est au contraire une des régions fédérées qui s’érige en État unitaire ; en Suisse, c’est le régime fédératif lui-même qui se voit invoqué (non sans paradoxe d’ailleurs), pour refuser de se laisser entraîner par des mouvements de convergence européenne et mondiale, même s’ils disent s’inspirer du propre exemple de la fédération des cantons suisses !</p>
+                    <p class="p">Il est certain que dans ces trois cas, c’est moins le fédéralisme qu’on est en droit d’incriminer que sa trahison pure et simple, ou son usage mal compris, ou son blocage délibéré aux limites d’un État fédéral. Il ne s’agit pas d’un défaut <i class="i">du</i> fédéralisme, mais d’un défaut <i class="i">de</i> fédéralisme. Et l’on est en droit de penser que l’application 
+<a class="pb" href="#pb17" id="pb17">[p. 17]</a>
+ correcte de la méthode fédéraliste rétablirait bientôt ce double mouvement de diastole et de systole, vers des autonomies plus locales et vers des unions plus vastes, qui est le battement même du cœur d’un régime sain, j’entends immunisé contre le virus totalitaire. Mais si le fédéralisme apparaît bien comme le remède spécifique au stato-nationalisme, il faudrait, avant de le prescrire, être très sûr de sa formule. Or je ne vois pas de terme du langage politique qui prête à pires malentendus !</p>
+                    <p class="p">Un Français cultivé qui demande à son Littré le sens du mot fédéralisme trouve ceci : <i class="i">« Fédéralisme</i> : s. m. Néologisme. Système, doctrine du gouvernement fédératif. » Ce qui ne nous apprend rien, d’autant que « fédératif » est défini plus loin comme ce « qui a rapport à une confédération ». Quant à « fédération », c’est simplement « union politique d’États » (mais on a soin de préciser qu’en vers, cela fait cinq syllabes). Cette définition est assurément 
+<a class="pb" href="#pb18" id="pb18">[p. 18]</a>
+ moins éclairante que les deux citations qui l’illustrent : 1) « Le fédéralisme était une des formes politiques les plus communes employées par les sauvages. » <i class="i">Chateaubriand, Amérique, Gouvernement.</i> 2) « Pendant la Révolution, projet attribué aux Girondins de rompre l’unité nationale et de transformer la France en une fédération de petits États. »</p>
+                    <p class="p">Pour le Français cultivé, donc, la cause est jugée. Il s’agit d’un système qui est bon pour les sauvages, et qui semble n’avoir été préconisé que par des traîtres à la République… Il est vrai que mon Littré date de 1865 : « fédéralisme » y est encore qualifié de néologisme ». C’était deux ans après le livre de Proudhon. Depuis lors, les centaines d’études et de gros volumes parus sur le sujet auraient dû suffire, semble-t-il, à clarifier un terme que le problème européen et nos situations nationales nous amènent à utiliser quotidiennement. Mais pas du tout : le malheur congénital du fédéralisme reste 
+<a class="pb" href="#pb19" id="pb19">[p. 19]</a>
+ d’être un concept dialectique, ambigu, et qui autorise — ou incite en tout cas — aux plus invraisemblables pataquès conceptuels. J’en citerai trois exemples. Il y a quelques années, je suggérai au comité directeur d’un congrès européen qu’une journée fût réservée à des travaux sur le fédéralisme. Le représentant du Conseil de l’Europe tint à déclarer aussitôt que le terme de fédéralisme étant tabou à Strasbourg, il se verrait obligé de quitter le comité si l’on adoptait ma proposition. Je compris par la suite que ce haut fonctionnaire tenait le fédéralisme pour un système d’unification intégrale, sans respect pour les diversités et les autonomies des pays membres, c’est-à-dire très exactement le contraire de ce qu’il est. À l’inverse, le fédéralisme est assimilé par beaucoup à une attitude de suspicion envers tout pouvoir central, et à la défense ombrageuse des autonomies locales ou régionales. C’est ainsi qu’un illustre homme d’État belge, et grand Européen, écrivait 
+<a class="pb" href="#pb20" id="pb20">[p. 20]</a>
+ récemment : « Ce n’est pas dans le fédéralisme, ce n’est pas en se repliant sur elle-même que la Wallonie trouvera son salut. » Plus étonnant encore, en Suisse même, il y a quelques années, on put entendre le recteur d’une de nos universités cantonales condamner le principe d’une subvention fédérale « parce qu’ici, disait-il, nous sommes fédéralistes ! »</p>
+                    <p class="p">Si pareils malentendus sont le fait d’Européens professionnels ou de gardiens jaloux des traditions helvètes, que sera-ce ailleurs ? Le fédéralisme n’étant ni ceci, ni cela, mais la coexistence en tension de ceci et de cela, il semble que le danger d’interprétations partielles, donc ruineuses dans son cas, lui soit pour ainsi dire congénital.</p>
+                    <p class="p">Or s’il est vrai que l’Union de l’Europe est l’entreprise capitale de ce siècle, et s’il est vraisemblable que cette union sera fédérale ou ne sera pas, on sent tous les dangers qu’entraînent en fait les malentendus que j’ai dits, et par suite l’importance pratique de tout 
+<a class="pb" href="#pb21" id="pb21">[p. 21]</a>
+ effort de clarification des concepts de fédération et de fédéralisme.</p>
+                    <p class="p">Pour ma part, je voudrais maintenant proposer quelques définitions, puis les relier à des situations contemporaines choisies dans les domaines les plus variés et les moins politiques au sens étroit du mot.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Tout d’abord, trois définitions.</p>
+                    <p class="p">Je propose d’appeler <i class="i">problème fédéraliste</i> une situation dans laquelle s’affrontent deux réalités humaines antinomiques mais également valables et vitales, de telle sorte que la solution ne puisse être cherchée ni dans la réduction de l’un des termes, ni dans la subordination de l’un à l’autre, mais seulement dans une création qui englobe, satisfasse et transcende les exigences de l’un et de l’autre.</p>
+                    <p class="p">J’appellerai donc <i class="i">solution fédéraliste</i> toute solution qui prend pour règle de respecter les deux termes antinomiques 
+<a class="pb" href="#pb22" id="pb22">[p. 22]</a>
+ en conflit tout en les composant de telle manière que la résultante de leur tension soit positive. (On dirait, dans le langage de la théorie des jeux de von Neumann et Morgenstern, qu’il s’agit de déterminer l’<i class="i">optimum</i> en lequel se concilient deux <i class="i">maxima</i> contradictoires, — comme l’offre et la demande dans un prix.)</p>
+                    <p class="p">L’ensemble des problèmes et des solutions ainsi définis constitue ce que je nommerai la <i class="i">politique fédéraliste</i>, au sens le plus large du terme.</p>
+                    <p class="p">Avant de chercher à quel type d’homme correspond une telle politique, et quel type d’homme elle entend préparer ou éduquer, constatons qu’elle traduit une forme de pensée, une structure de relations bi-polaires dont le « modèle » nous est connu : c’est celui qu’ont élaboré les fondateurs de la philosophie occidentale dans le dialogue opposant les Eléates aux Ioniens au sujet de l’antinomie fondamentale de l’Un et du Divers, ou encore de la permanence et du changement. Parallèlement 
+<a class="pb" href="#pb23" id="pb23">[p. 23]</a>
+ se constituaient les premières définitions de l’homme comme individu distinct, et de la cité ou <i class="i">auto-nomie</i> (littéralement auto-réglage) comme cellule de base des ligues et fédérations.</p>
+                    <p class="p">Voilà qui est proprement occidental : devant ce même problème de l’un et du divers, les métaphysiques orientales prennent le parti de supprimer le conflit en réduisant l’un de ses termes — le divers — au prix d’une longue ascèse exténuante. Pour le brahmane, pour le bouddhiste, le but est d’effacer l’individu, la différence, de tout fondre dans l’Un sans distinction. Mais l’Occident, dès l’aube grecque, cherche à maintenir les deux termes non pas en équilibre neutre, mais bien en tension créatrice, et c’est le succès de cet effort toujours renouvelé et toujours menacé, qui dénote la santé de la pensée européenne, sa justesse, sa mesure conquise sur le chaos de la masse indistincte autant que sur l’anarchie des individus isolés, qu’il s’agisse des réalités métaphysiques ou physiques, esthétiques 
+<a class="pb" href="#pb24" id="pb24">[p. 24]</a>
+ ou politiques. <i class="i">C’est de la lutte des contraires que procède la plus belle harmonie</i>, dit un fragment célèbre d’Héraclite.</p>
+                    <p class="p">L’art et la science de cette mise en tension, de cette composition de réalités contraires mais également valables, voilà je crois ce qui définit l’apport original et spécifique de la pensée occidentale ; or cette définition vaut également et intégralement pour le fédéralisme, du moins tel que je l’entends, après avoir valu pour la Grèce des grands siècles avec sa dialectique de l’individu et de la Cité, conciliée dans la notion de citoyen.</p>
+                    <p class="p">Mais le moment crucial de toute l’évolution spécifiquement occidentale vers l’approfondissement et l’expansion du modèle des contraires en tension créatrice, nous le trouvons dans le christianisme des grands conciles. À Nicée, puis à Chalcédoine, plusieurs centaines d’évêques et de docteurs se mettent d’accord pour définir en grec la nature à la fois triple et une du Dieu Père, 
+<a class="pb" href="#pb25" id="pb25">[p. 25]</a>
+ Fils, et Saint-Esprit, et la personne à la fois une et double de <i class="i">Jésus-Christ.</i> Et ils écrivent : <i class="i">Nous enseignons un seul et même Seigneur Jésus-Christ, vrai Dieu et vrai homme… fils unique en deux natures, sans confusion (ni) séparation. L’union n’a pas supprimé la différence des natures, mais plutôt elle a sauvegardé les propriétés de chaque nature, qui se rencontrent dans une seule personne…</i></p>
+                    <p class="p">Abstraction faite de la foi que l’on accorde ou non à la substance de ces énoncés, je retiens que leurs formes et structures posent un certain type de relations, posent donc une société et une politique.</p>
+                    <p class="p">De même que le modèle trinitaire des conciles sera utilisé par Kepler dans ses spéculations sur le cercle et leurs applications à l’astronomie, ou par Hegel dans sa dialectique ternaire et ses applications au devenir historico-politique — source principale de la méthode marxienne — de même le modèle de la coexistence des deux natures 
+<a class="pb" href="#pb26" id="pb26">[p. 26]</a>
+
+          <i class="i">sans confusion ni séparation</i> et de l’union qui <i class="i">loin de supprimer la différence des natures sauvegarde leurs propriétés</i><a class="noteref" href="1#note2" id="note2_"><sup>2</sup></a>, sera repris par tous les penseurs occidentaux respectueux du réel et des conditions de la vie, qui sont : antinomies, oppositions, lutte des contraires « d’où procède la plus belle harmonie ». Je pense d’abord, bien sûr, aux esprits dialectiques, à Pascal, Kierkegaard ou Nietzsche, et aux doctrinaires politiques comme Rousseau, Tocqueville et Proudhon, mais aussi aux écoles récentes de physiciens et de logiciens pour lesquels la complémentarité de phénomènes, définis comme exclusifs l’un de l’autre, a cessé d’être un scandale, est même devenu principe fondamental d’interprétation du réel. (Je pense notamment aux théories de L. de Broglie sur la lumière, faite de 
+<a class="pb" href="#pb27" id="pb27">[p. 27]</a>
+ vrais corpuscules mais aussi de vraies ondes…)</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Notre modèle de pensée fédéraliste ainsi posé à la clé de l’histoire européenne, il reste à repérer les principaux domaines de la réalité moderne où l’on retrouve les structures typiques d’un problème fédéraliste.</p>
+                    <p class="p">À la base de notre analyse, plaçons une conception de l’homme analogue au modèle bi-polaire posé par le concile de Chalcédoine. La <i class="i">personne humaine</i>, notion déduite des dogmes relatifs aux trois Personnes divines, et surtout à la deuxième, va nous servir de module. La personne humaine, c’est l’homme considéré dans sa double réalité d’<i class="i">individu distinct</i> et de <i class="i">citoyen engagé dans la société.</i> Pourvu de libertés mais de responsabilités, solitaire et solidaire (selon le mot de Victor Hugo repris par Camus), distingué du troupeau par cette vocation même dont l’exercice le relie à la communauté, cet homme se 
+<a class="pb" href="#pb28" id="pb28">[p. 28]</a>
+ constitue dans la dialectique des contraires. Et ce caractère va se transmettre à tous les groupes qu’il formera avec d’autres hommes, ses semblables. Ces groupes devront être, à leur tour, <i class="i">à la fois autonomes et solidaires</i> : pour eux aussi, l’un n’ira pas sans l’autre, bien mieux : l’un — la solidarité — sera la garantie de l’autre — l’autonomie.</p>
+                    <p class="p">Quelques exemples :</p>
+                    <p class="p">1. Le problème des <i class="i">universités</i> résulte d’un couple d’exigences contradictoires, qui paraissent exclusives l’une de l’autre quoique indispensables l’une à l’autre : la <i class="i">spécialisation</i> et la <i class="i">culture générale.</i></p>
+                    <p class="p">2. Les problèmes actuels de l’<i class="i">habitat</i> et de l’urbanisme résultent de la croissante difficulté de satisfaire les exigences, également valables mais également frustrées dans les grands ensembles, de solitude et de sociabilité, de recueillement et de communication avec les autres.</p>
+                    <p class="p">3. Au niveau de la <i class="i">vie civique et politique</i>, tout le problème revient à concilier les besoins contraires mais 
+<a class="pb" href="#pb29" id="pb29">[p. 29]</a>
+ vitaux d’autonomie locale et de grands espaces communs, de participation efficace à la vie d’un groupe concret et d’horizons ouverts, d’adhésion à des communautés plus vastes et de cadres qui rassurent, d’enracinement et de mobilité… La situation de l’homme qui veut à la fois sa vie privée et une vie sociale est homologue à la situation de la région qui veut à la fois son autonomie et sa participation à un plus grand ensemble, en association.</p>
+                    <p class="p">4. Enfin, le problème général de l’<i class="i">œcuménisme</i> n’est-il pas le même en sa forme que ceux que nous venons d’évoquer, puisqu’il consiste à concilier des confessions distinctes dans l’unité de l’Église, c’est-à-dire, en dernière analyse, des vocations particulières au sein de l’Être même de l’Universel, source et fin de toute communauté.</p>
+                    <p class="p">Dans tous ces domaines d’existence, quels seront les principes de méthode dictés par le souci fédéraliste de respect des diversités, des conditions contradictoires de la vie, comme la liberté 
+<a class="pb" href="#pb30" id="pb30">[p. 30]</a>
+ des personnes et la force de la communauté ?</p>
+                    <p class="p">L’analyse fédéraliste d’une situation part du concret, en ce sens que d’abord elle considère la nature d’une tâche ou d’une fonction particulière dont on aura reconnu la nécessité ou l’agrément. Deuxième étape : elle évalue les <i class="i">dimensions optima</i> de l’aire d’exécution requise, et elle le fait en fonction des trois facteurs suivants : possibilités de <i class="i">participation</i> (civique, intellectuelle, économique), <i class="i">efficacité, économie</i> des moyens. Enfin, dernière étape : une fois déterminées cette dimension et l’unité correspondante (communale, régionale, nationale, continentale ou mondiale, selon les cas), il ne reste qu’à désigner le <i class="i">niveau de compétence</i> où seront prises les <i class="i">décisions</i> relatives à cette tâche. Il peut y avoir d’ailleurs plusieurs niveaux de décisions, hiérarchisés. Séparer les pouvoirs, les disperser, les répartir selon le bon sens, voilà le programme proudhonien de division fédéraliste de l’État, inverse exact de l’utopie totalitaire. 
+<a class="pb" href="#pb31" id="pb31">[p. 31]</a>
+ De plus, les aires d’opération peuvent et doivent différer selon les tâches, j’entends selon qu’elles intéressent tous les hommes de toutes les régions, certains hommes de toutes les régions, certains hommes de certaines régions, tous les hommes de quelques régions, ou d’une seule.</p>
+                    <p class="p">Je conviendrai que le nombre des combinaisons auxquelles peut conduire cette méthode a de quoi donner le vertige aux fonctionnaires de tradition unitaire. Mais les ordinateurs vont prendre la relève. Lénine disait que la révolution communiste, c’était les soviets plus l’électricité. Pour moi, le fédéralisme, c’est l’autonomie des Régions plus les ordinateurs, c’est-à-dire le respect du réel et de ses infinies complexités enfin rendu possible par la technique moderne. (Ce débat n’est pas d’aujourd’hui. Aux projets de découpage géométrique de la France en carrés réguliers de dix-huit lieues de côté, comme le proposait Sieyès sous prétexte de simplifier les contrôles 
+<a class="pb" href="#pb32" id="pb32">[p. 32]</a>
+ administratifs, Mirabeau répondait déjà par cette grande phrase : <i class="i">Le but de la société n’est pas que l’administration soit facile, mais qu’elle soit juste et éclairée.)</i></p>
+                    <p class="p">Nous allons voir, enfin, que nos critères d’évaluation des dimensions et d’attribution des niveaux décisionnels — la participation, l’efficacité et l’économie des moyens — sont en interdépendance générale.</p>
+                    <p class="p">Prenons l’exemple de l’<i class="i">habitat</i> : le gigantisme des villes, l’entassement dans les grands ensembles conçus pour rapporter, ont produit une situation de crise dont l’acuité se mesure notamment par le chiffre élevé des suicides. L’homme des ensembles à bon marché, trop serré avec d’autres chez soi, et qui voudrait être enfin seul, sort et se mêle à la foule anonyme… Mais c’est une mauvaise solitude, née de l’absence de communication avec ceux que l’on côtoie comme s’ils n’étaient pas là. La solution consisterait à recréer les conditions de communauté, et tout 
+<a class="pb" href="#pb33" id="pb33">[p. 33]</a>
+ d’abord certaines dimensions et structures architecturales : des unités d’habitation de 5 000 à 25 000 habitants, dotées non seulement d’espaces verts mais de <i class="i">rues</i> réservées aux seuls piétons et d’une <i class="i">place</i> remplissant la fonction de l’agora ou du forum dans la cité antique : place délimitée par tous les bâtiments symboliques de la vie communautaire, églises, mairie, marchés, cafés, lieu de rencontres, d’intrigues, de flirts, de criée des journaux et de manifestations. La possibilité physique et morale de <i class="i">participation à</i> la vie communale dépend de tels aménagements.</p>
+                    <p class="p">Les dimensions d’ailleurs, peuvent être numériques aussi bien qu’architecturales : prenez les conflits actuels dans l’<i class="i">université</i>, en tous pays et tous régimes politico-économiques. Ils ont pour motif profond l’antinomie entre la culture générale au sens traditionnel et l’acquisition d’un savoir professionnel souvent d’autant plus rentable qu’il est plus étroitement spécialisé ; 
+<a class="pb" href="#pb34" id="pb34">[p. 34]</a>
+ mais la révolte actuelle des étudiants, sorte de tourbillon dans l’égarement, est aussi le résultat mécanique de l’explosion des effectifs. Multipliez par dix les dimensions des marches d’un escalier, il devient impraticable. De même, le décuplement des effectifs estudiantins transforme en acrobatie toute participation réelle à la recherche et compromet l’efficacité de l’enseignement. Remède fédéraliste : commencer par réévaluer les dimensions d’une université digne du nom, ménageant des possibilités de recherches très spécialisées et de travail interdisciplinaire. L’analyse conduit à souhaiter l’adoption, comme module, de petits groupes ou unités de base de douze à quinze étudiants autour d’un enseignant (c’étaient les dimensions d’un <i class="i">studium</i> de la Sorbonne au <span class="num">xiii<sup class="sup">e</sup></span> siècle) puis une <i class="i">fédération de ces petites unités</i> en départements, et je retrouve ici les solutions préconisées lors du fameux colloque de Caen, en 1966, mais aussi les conclusions de mon discours de 
+<a class="pb" href="#pb35" id="pb35">[p. 35]</a>
+ Göttingen aux recteurs européens en 1964.<a class="noteref" href="1#note3" id="note3_"><sup>3</sup></a></p>
+                    <p class="p">L’université fut une commune libre au Moyen Âge. Toute vie civique, depuis la cité grecque, est <i class="i">communale d’abord</i>, municipale. C’est au niveau de la vie civique et politique — c’est le même mot, selon l’étymologie — que nous allons enfin retrouver le problème classique du fédéralisme : comment assurer la cohésion d’un ensemble assez vaste pour pouvoir se charger de tâches communes (telles que la défense, les affaires étrangères et la politique économique, ou certaines recherches scientifiques) sans léser les droits essentiels et l’autonomie des unités de base ? <i class="i">Comment devenir assez grand pour être fort, tout en restant assez petit pour être libre</i> ?</p>
+                    <p class="p">Ce n’est pas le vote d’une constitution, de type plus ou moins fédéral, qui peut résoudre une fois pour toutes ce conflit permanent. Il y faut une méthode 
+<a class="pb" href="#pb36" id="pb36">[p. 36]</a>
+ vivante, celle que j’ai dite : sans cesse évaluer à nouveau la dimension des tâches à entreprendre, répartir en conséquence les pouvoirs de décision, opérer les concentrations de forces proportionnées à la puissance que l’on veut obtenir et en même temps multiplier les petites unités de base, de manière à maintenir ou renforcer les possibilités de participation civiques, intellectuelles et affectives.</p>
+                    <p class="p">C’est dans ce double dynamisme créateur d’unions plus vastes à proportion de tâches nouvelles, mais aussi de communautés plus petites correspondant aux exigences de l’habitat, de la formation des esprits et de l’exercice du civisme, c’est dans cette dialectique concrète que sont en train de se former sous nos yeux, en Europe, plus d’une centaine de Régions à métropole destinées à devenir — à plus ou moins long terme — les unités de base de la future Fédération continentale, en lieu et place des États-nations constitués au <span class="num">xix<sup class="sup">e</sup></span> siècle.</p>
+                    <p class="p">
+<a class="pb" href="#pb37" id="pb37">[p. 37]</a>
+ On s’aperçoit alors que le fédéralisme politique (intra- ou inter-étatique), seul pris en considération par les auteurs classiques, n’était en réalité qu’un cas particulier d’une conception beaucoup plus large des relations humaines dans la Cité, des relations publiques en général. C’est ce qu’avait bien vu le regretté Pierre Duclos, lorsqu’il relevait que « le fédéralisme vit d’une vie que la forme institutionnelle dénommée État ne suffit pas à qualifier et moins encore à épuiser »… Et il ajoutait : « Le fédéralisme est autre chose qu’une simple recette juridique ou politique : il est un des grands types d’aménagement du rapport politique et peut-être plus encore, un des grands styles de vie et de civilisation capable, au même titre que le libéralisme, le socialisme ou la démocratie, d’alimenter la pensée des sociétés et de dicter aux hommes ces “images de comportement” dont Bertrand de Jouvenel a si justement mis en vedette l’importance historique<a class="noteref" href="1#note4" id="note4_"><sup>4</sup></a>. »</p>
+                    <p class="p">
+<a class="pb" href="#pb38" id="pb38">[p. 38]</a>
+ Nous voici loin de la forme politique bonne pour les sauvages dont parlait Littré. Mais loin aussi des définitions étroitement légales et constitutionnelles du <span class="num">xix<sup class="sup">e</sup></span>. Nous voici sur le seuil de l’ère des grandes unions et des petites unités fonctionnelles, et l’on va peut-être trouver, dans les techniques avancées, le moyen de leur composition.</p>
+                    <p class="p">En tant que méthode générale d’aménagement des relations humaines, le fédéralisme tel que j’ai tenté de le définir ne fait que commencer. Il n’est pas matière historique, mais prospective. Il a plus d’avenir que de passé.</p>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="1#pb8">p. 8</a>
+                        </div>
+                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Texte d’une communication à l’Académie des sciences morales et politiques, Paris, mars 1969.</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="1#pb26">p. 26</a>
+                        </div>
+                        <aside id="note2" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Pierre Duclos écrivait, en 1962, dans son excellent ouvrage en collaboration avec Henri Brugmans <i class="i">Le Fédéralisme contemporain</i> : « Le fédéralisme est présence au pouvoir global des éléments particuliers — demeurant distincts et reconnaissables — dont se compose la fédération. Il est une symbiose <i class="i">sans confusion ni disparition des spécificités. »</i></aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="1#pb35">p. 35</a>
+                        </div>
+                        <aside id="note3" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>« <a href="../../../../../../Users/nicolas/Documents/Tout_est_la_13_09_2018/Rougemont2.0/rougemont2.0_ocerisation/articles/ddr193711rpar">Université et universalité</a> », <i class="i">Revue de Paris</i>, n° 11, novembre 1965, p. 1-13.</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="1#pb37">p. 37</a>
+                        </div>
+                        <aside id="note4" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a><span class="sc">H. Brugmans</span> et <span class="sc">P. Duclos</span>, <i class="i">Le Fédéralisme contemporain</i>, Paris, 1963, p. 151.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li class="here">
+                      <a href="#">I. Pour une nouvelle définition du fédéralisme</a>
+                    </li>
+                    <li>
+                      <a href="2">II. La Cité européenne</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1970udce/2" name="II. La Cité européenne" package="ddr1970udce" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1970udce</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>L’Un et le Divers ou la Cité européenne (1970) II. La Cité européenne</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#pb40" id="pb40">[p. 40]</a>
+                    <h1 class="head chapter">II. La Cité européenne<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a><a class="bookmark" href="2"> §</a></h1>
+                    <a class="pb" href="#pb41" id="pb41">[p. 41]</a>
+                    <blockquote class="epigraph">
+                      <p class="p autofirst">L’Europe, avant d’être une alliance militaire ou une entité économique, doit être une communauté culturelle.</p>
+                      <p class="p">L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits.</p>
+                      <div class="bibl">Robert <span class="sc">Schuman</span>, <cite class="title">Pour l’Europe.</cite></div>
+                    </blockquote>
+                    <p class="p autofirst">Je pense, avec Robert Schuman, qu’il est possible d’unir nos pays pour cette raison littéralement fondamentale qu’une <i class="i">unité de base</i> existe, sur laquelle fonder cette <i class="i">union.</i></p>
+                    <p class="p">Il s’agit de l’unité d’une culture, de laquelle participent tous les Européens, qu’ils soient d’ailleurs « cultivés » ou non, conscients ou non de ce qu’ils doivent, en fait, à la culture. Unité non pas homogène et qui ne résulte pas d’un processus forcé d’uniformisation, de nivellement et d’exclusion de ce qui diffère, mais qui au contraire englobe, et compose largement, dans une communauté de plus en plus complexe au cours des siècles, des valeurs bien souvent 
+<a class="pb" href="#pb42" id="pb42">[p. 42]</a>
+ antinomiques, provenant d’origines multiples, dont les contrastes et les combinaisons entretiennent des tensions renouvelées sans répit. Et de là vient l’irrépressible dynamisme qui a porté la civilisation européenne sur tous les continents découverts tour à tour, conquis par nos aventuriers puis libérés au nom de nos principes, molestés, réveillés, mis en mouvement, fût‑ce contre nous, pour le meilleur et pour le pire. Et de là viennent aussi nos divisions mortelles, nos efforts pour les surmonter par le recours à des instances universelles, et toutes les créations qui ne cessent de jaillir de cette discorde permanente. Dès l’aube de la philosophie occidentale, dans l’une de ces cités d’Ionie où prit naissance la dialectique de notre histoire, Héraclite écrivait cette phrase décisive, qu’il faut tenir pour la formule même d’une unité spécifiquement européenne : <i class="i">Ce qui s’oppose coopère, et de la lutte des contraires procède la plus belle harmonie.</i></p>
+                    <p class="p">
+<a class="pb" href="#pb43" id="pb43">[p. 43]</a>
+ De ce temps jusqu’au nôtre, tout concourt à nourrir ce paradoxe qui paraît bien être la loi constitutive de notre histoire et le ressort de notre pensée : l’antinomie de l’Un et du Divers, l’Unité dans la Diversité, et la coexistence féconde des contraires.</p>
+                    <p class="p">La Grèce invente la cité et la fonde sur le paradoxe des citoyens à la fois libres et responsables, mais elle invente aussi l’analyse critique, elle la conduit à ses dernières conséquences, découvre ainsi l’idée de l’atome et celle de l’individu, d’où les excès de l’individualisme hellénistique qui ne manqueront pas d’appeler la tyrannie. Rome, en réponse à ce défi de l’anarchie, invente l’État et les institutions centralisées : elle poussera l’ordre et la stabilité dans l’uniformité universelle jusqu’à l’irrémédiable et dangereux Ennui, jusqu’à ce vide de l’âme inoccupée qui appelle les tempêtes et les révolutions.</p>
+                    <p class="p">Le christianisme apporte alors un troisième monde de valeurs, assez mal conciliables avec celles de la sagesse 
+<a class="pb" href="#pb44" id="pb44">[p. 44]</a>
+ grecque, et totalement contraires à celles de Rome. À la morale de la mesure et de la raison utilitaire, il oppose les élans de l’amour sans calcul, au droit de la force, le service du prochain, au culte du succès le sens du sacrifice, et à la chance aveugle la vocation secrète. Bien plus, il porte la contradiction au cœur de l’Être, et la traduit dans l’énoncé de ses dogmes fondamentaux : la Trinité transporte en Dieu lui-même le paradoxe de l’Un et du Divers, tandis que l’Incarnation porte à l’extrême la coexistence des contraires, l’impensable définition de la Personne de Jésus‑Christ comme « vrai Dieu et vrai homme » à la fois, selon les formules conciliaires de Nicée et de Chalcédoine.</p>
+                    <p class="p">Or, ces valeurs grecques, romaines et chrétiennes, qui se contredisent avec passion, ne se détruisent pas pour autant : entre leurs triomphes alternés, elles durent dans l’ombre de l’histoire, dans la tradition, dans les livres, et dans l’inconscient collectif. Elles agissent 
+<a class="pb" href="#pb45" id="pb45">[p. 45]</a>
+ toutes, sans exception, dans la vie des hommes d’aujourd’hui. Un seul exemple : le dogme de la Trinité, hors de la tradition ecclésiastique, a fourni le modèle de la dialectique hégélienne, repris par Marx, puis par Lénine avec les conséquences que l’on sait jusque dans l’existence quotidienne de 700 millions de Chinois qui se croyaient confucianistes, bouddhistes, ou sans croyance aucune…</p>
+                    <p class="p">Mais ce n’est pas tout. Avec les trois sources classiques d’Athènes, de Rome et de Jérusalem, viennent confluer dans le haut Moyen Âge la source germanique et la source celtique, la première apportant notamment le droit communautaire et personnel, et les valeurs d’honneur et de fidélité, la seconde apportant le sens du rêve et le grand thème de la Quête aventureuse d’un Lancelot et d’un Perceval ou d’un Tristan, symbole mystique. Faut‑il enfin rappeler l’apport arabe, qui ne se limite pas au « retour d’Aristote », ni au zéro, ni à la suite des chiffres 
+<a class="pb" href="#pb46" id="pb46">[p. 46]</a>
+ « arabes », mais qui est l’une des sources principales de la poésie amoureuse, donc de l’amour tel qu’on le parle et qu’on croit le sentir en Occident ; l’apport slave dès le milieu du <span class="num">xix<sup class="sup">e</sup></span>, l’anarchie, la démesure religieuse, le réalisme total, puis la peinture abstraite ; l’art africain et le jazz négro‑américain au <span class="num">xx<sup class="sup">e</sup></span> siècle ?</p>
+                    <p class="p">Tout cela dure, agit et vit en nous de mille manières. Tout cela se combine en figures et en structures variées à l’infini, mais dont la plus fréquente, de très loin, est le couple d’<i class="i">antinomies inséparables</i> : autorité et liberté, personne et communauté, tradition et innovation, droite et gauche, nord et midi, évangélisme et ritualisme, réformisme et révolution, mythe et science, hérésie créatrice et saine doctrine, besoin de sécurité et goût du risque, conformité qui maintient les valeurs et originalité qui les conteste et les rénove. Tout cela préforme, dès avant notre naissance, nos sensibilités et nos jugements moraux, nos réflexes sociaux 
+<a class="pb" href="#pb47" id="pb47">[p. 47]</a>
+ et nos besoins économiques. Tout cela nous incite aussi à remettre en question ces déterminations, et nous en fournit les moyens. Enfin tout cela dénote l’Europe comme patrie de la diversité.</p>
+                    <p class="p">L’Européen moyen déclare parfois et pense toujours : « Quelle est ma raison d’être, si je suis comme tout le monde ? » À ses yeux — et cela peut servir à le définir — « se distinguer » ou « être distingué » est synonyme d’honneur mérité ou reçu, non pas d’impardonnable faute de goût, de tentative déviationniste, ou de blasphème, comme ce serait le cas dans les sociétés primitives, dans les États totalitaires, ou dans l’Inde religieuse.</p>
+                    <p class="p">Le goût de différer, si peu que ce soit, est si cher aux Européens qu’il les porte à exagérer d’une manière tout à fait extravagante l’importance de ce qui les distingue. C’est ainsi qu’ils en viennent à penser sincèrement qu’ils ne pourront jamais s’unir, même s’il le faut, du fait qu’ils n’ont en somme rien de commun !</p>
+                    <p class="p">
+<a class="pb" href="#pb48" id="pb48">[p. 48]</a>
+ Un jour, tandis que je présidais une Table ronde du Conseil de l’Europe, irrité par ce genre d’objections à l’union, j’écrivis sur une page de bloc‑notes « à faire circuler » autour du tapis vert l’essai de définition suivant :</p>
+                    <blockquote class="quote">
+                      <p class="p autofirst">L’Européen ne serait‑il pas cet homme étrange qui se manifeste comme Européen dans la mesure précise où il doute qu’il le soit, et prétend au contraire s’identifier soit avec l’homme universel, soit avec l’homme d’une seule nation de cette Europe dont il révèle ainsi qu’il fait partie, par le seul fait qu’il le conteste ?</p>
+                    </blockquote>
+                    <p class="p autofirst">On ne changera pas cela, ce ne serait plus l’Europe. Le goût furieux de différer, par lequel nous nous ressemblons tous, c’est notre mal et notre bien, il faut en prendre son parti, et c’est là-dessus qu’il faut bâtir notre union, si l’on veut qu’elle mérite le nom d’Europe.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">
+<a class="pb" href="#pb49" id="pb49">[p. 49]</a>
+ Si l’on me demande maintenant comment on peut traduire en termes de structures politiques cette unité de culture non unitaire et si hautement diversifiée, je répondrai que la solution se trouve dans les termes mêmes du problème ainsi formulé : car l’unité différenciée se traduit tout naturellement par l’union dans la diversité, et cette forme d’union porte un nom bien connu dans l’histoire des régimes politiques, c’est de toute évidence : <i class="i">fédéralisme.</i></p>
+                    <p class="p">Je ne vois pas d’autre forme d’union qui réponde à la double exigence du respect des diversités et de l’instauration d’une force suffisante pour garantir leur concurrence féconde, dans la paix. Je ne vois pas d’autre réponse imaginable au défi que l’Histoire nous pose dans les termes les plus précis et sans échappatoire possible désormais : s’unir, au‑delà de nos fausses souverainetés, pour préserver nos vraies diversités — <i class="i">créer un pouvoir fédéral pour la sauvegarde de nos autonomies.</i> Car ces autonomies 
+<a class="pb" href="#pb50" id="pb50">[p. 50]</a>
+ seront perdues une à une, si nous refusons l’union qui ferait leur force ; mais en retour, cette union ne saurait être acquise au prix des libertés qu’elle est censée servir.</p>
+                    <p class="p">Rien de plus limpide que la déduction qui fait toute ma thèse : étant donné que la base de notre unité est une culture pluraliste, on ne peut fonder sur elle qu’une union fédérale.</p>
+                    <p class="p">Ce qui paraît beaucoup plus difficile à expliquer, c’est que rien n’ait encore été fait dans ce sens, depuis près de vingt‑cinq ans qu’on nous déclare, avec Churchill dans son fameux discours de Zurich — qu’il n’y a pas une minute à perdre !</p>
+                    <p class="p">Quel est l’obstacle apparemment insurmontable à cette union que tout indique, que tout exige, que tout le monde admet qu’il faut faire — et que pourtant personne ne fait ?</p>
+                    <p class="p">Eh bien, chacun le sait, rien n’est moins mystérieux : l’obstacle à toute union <i class="i">possible</i> de l’Europe (donc à toute union fédérale) n’est autre que 
+<a class="pb" href="#pb51" id="pb51">[p. 51]</a>
+ l’État‑nation, tel que Napoléon en a posé le modèle, intégralement centralisé en vue de la guerre. C’est ce modèle que tous les peuples de l’Europe, grands et petits, ont imité l’un après l’autre tout au long du <span class="num">xix<sup class="sup">e</sup></span> siècle, suivis de nos jours par le reste du monde, notamment par le Tiers Monde, mal décolonisé à cet égard…</p>
+                    <p class="p">Qu’est‑ce en somme qu’instituer un État-nation ? C’est soumettre toute une nation, ou un groupe de nations conquises par l’une d’entre elles, aux pouvoirs absolus de l’État. C’est vouloir faire coïncider sur un même territoire, défini par le sort des guerres et du coup baptisé « sol sacré de la patrie », des réalités absolument hétérogènes, qui n’ont aucune raison d’avoir les mêmes frontières, comme la langue et l’économie, l’état civil et l’exploitation du sous-sol, ou pire encore, les idéologies ou les religions, sommées de s’arrêter sur une ligne de barbelés électrifiés. C’est livrer sans recours toute l’existence humaine aux seules décisions 
+<a class="pb" href="#pb52" id="pb52">[p. 52]</a>
+ de bureaux installés dans une seule capitale, et interdire toute allégeance des citoyens à des entités plus petites comme les Régions ou plus vastes comme une Fédération continentale.</p>
+                    <p class="p">À l’intérieur de ses frontières, qu’il déclare naturelles contre toute évidence, l’État-nation n’admet aucune autonomie, aucune diversité réelle. À l’extérieur, il refuse toute union, alléguant une indépendance et une souveraineté absolues aussi peu défendables en droit qu’elles deviennent illusoires en fait au <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
+                    <p class="p">Rien donc de plus hostile à toute espèce d’union tant soit peu sérieuse ou sincère, que cet État-nation qui, par ailleurs, se révèle incapable de répondre aux exigences concrètes de notre temps, puisqu’il est à la fois trop petit pour agir à l’échelle mondiale ; trop grand pour permettre une participation civique réelle ; et sans correspondance autre qu’accidentelle avec aucun espace économique défini 
+<a class="pb" href="#pb53" id="pb53">[p. 53]</a>
+ par la nature des choses ou par un projet rationnel.</p>
+                    <p class="p">Or voici l’ironie tragique de notre Histoire : c’est sur la base de cet obstacle radical à toute union que l’on s’efforce depuis vingt-cinq ans d’unir l’Europe ! Voilà qui explique suffisamment, je crois, pourquoi l’on n’a pas avancé d’un mètre en direction de notre union politique. Entre l’union de l’Europe et les États-nations sacralisés, entre une nécessité humaine des plus concrètes et le culte prolongé d’un mythe, <i class="i">il faut choisir.</i></p>
+                    <p class="p">Pour la première fois dans son histoire, l’homme se voit aujourd’hui en situation de choisir librement son avenir. Jusqu’à nous, point de choix économiques ni même peut-être politiques longuement délibérés, concertés à long terme : il fallait se battre pour survivre. Aujourd’hui que le nécessaire est assuré, on se bat pour le contrôle de zones d’influence plus idéologiques que commerciales (voir le Vietnam) et l’on travaille pour le profit, qui est en somme du superflu.</p>
+                    <p class="p">
+<a class="pb" href="#pb54" id="pb54">[p. 54]</a>
+ Mais dès lors que ce choix de notre avenir est libre, nous voici contraints de le faire, à nos risques et périls ! Nous voici contraints de nous demander ce que nous attendons de notre vie et de la Société, ce que nous voulons réellement, principalement, et contraints de tirer des plans en conséquence. Voulons-nous par exemple à tout prix élever notre <i class="i">niveau de vie</i>, quantitatif — ou plutôt voulons-nous sauvegarder un certain <i class="i">mode de vie</i>, qualitatif ? Voulons-nous contribuer à tout prix à l’accroissement indéfini du PNB (Produit National Brut) — ou plutôt recréer un habitat décent, une communauté vivante ? Et quel prix sommes-nous prêts à payer pour cela ? Le prix de certaines libertés, ou le prix d’un confort toujours accru ?</p>
+                    <p class="p">Ces dilemmes se posent aujourd’hui à tous les peuples avancés sous le rapport de l’industrie et de la technique. Et ils les forcent à reposer des questions difficiles, voire angoissantes sur le sens même de la vie…</p>
+                    <p class="p">
+<a class="pb" href="#pb55" id="pb55">[p. 55]</a>
+ D’une façon plus précise, en Europe, il nous faut décider si notre union aura pour but la <i class="i">Puissance collective</i> ou la <i class="i">Liberté des personnes.</i> Il nous faut le décider, en toute conscience, et vite, car le choix de la fin implique évidemment celui des moyens adéquats ; mais à l’inverse, si vous vous trompez de moyens, ils risquent bien de vous conduire où vous ne vouliez pas aller…</p>
+                    <p class="p">Voici donc le dilemme présent :</p>
+                    <p class="p">Si nous attribuons pour finalité à la Cité européenne de demain la <i class="i">Puissance</i>, c’est‑à‑dire la puissance industrielle et militaire massive d’une sorte de Troisième Grand préoccupé principalement de tenir tête aux deux autres, alors il faut créer un super État-nation continental, uniformisé, centralisé et agressif, comme la France de Napoléon, et faire de nos États autant de départements. Il faut tout unifier par des lois inflexibles, sans égard aux diversités ethniques et régionales, et soumettre la production industrielle au seul impératif 
+<a class="pb" href="#pb56" id="pb56">[p. 56]</a>
+ de l’élévation perpétuelle du PNB — cette tour de Babel du <span class="num">xx<sup class="sup">e</sup></span> siècle !</p>
+                    <p class="p">Une politique européenne de ce type, simple transposition de la formule d’État-nation à l’échelle continentale, serait capable sans nul doute de créer une Europe très forte, mais qui serait très peu européenne. Sans compter qu’un Super État-nation ne pourrait être imposé à tous nos peuples qu’à la faveur d’une guerre générale selon la loi de formation de l’État-nation dès ses débuts. Il s’agit donc d’une utopie catastrophique, mais dont la réalisation ne saurait être exclue pour autant.</p>
+                    <p class="p">Au contraire, si nous donnons pour finalité à la Cité européenne la <i class="i">liberté</i>, c’est-à-dire les plus grandes possibilités d’épanouissement des personnes, de participation des citoyens et d’autonomie des communautés (la production industrielle n’étant qu’un des moyens de ces libertés), alors il faut reconnaître que l’État-nation n’est pas seulement un modèle périmé, mais qu’il est en fait aujourd’hui radicalement incompatible 
+<a class="pb" href="#pb57" id="pb57">[p. 57]</a>
+ avec les fins de l’Europe et de la liberté. Il faut adopter sans délai les méthodes les plus propres à réduire l’obstruction des stato-nationalismes, et se consacrer sérieusement à la tâche de construire des modèles neufs pour une Cité rendue à l’usage de l’homme. Il faut mettre en commun à l’échelle fédérale continentale, tout ce qui est nécessaire pour garantir les autonomies de tous ordres, régionales, communales et personnelles, <i class="i">mais rien de plus.</i> Il faut admettre la pluralité des allégeances, civiques, politiques, culturelles, idéologiques et religieuses, contre la prétention de l’État-nation à leur monopole absolu. Il faut distribuer les pouvoirs étatiques aux différents niveaux de décision — le communal, le régional, le fédéral — indiqués par la nature des tâches, leurs dimensions et celles de la communauté la plus apte à les administrer. En un mot, il faut appliquer la méthode du fédéralisme.</p>
+                    <p class="p">Puissance ou liberté : ces deux finalités commandent deux politiques d’union, 
+<a class="pb" href="#pb58" id="pb58">[p. 58]</a>
+ dont je crains bien qu’on ne puisse pas impunément continuer à mêler les moyens.</p>
+                    <p class="p">On ne manquera pas de m’objecter en ce point que la politique a toujours eu pour fin réelle la puissance et je vois bien que toutes les civilisations que nous connaissons ont choisi la puissance comme seul but réaliste de la société politique ; le reste — la justice, la paix, la liberté — étant manières de parler plus ou moins nobles, ou pure et simple <i class="i">captatio</i> démagogique. Mais je vois aussi que seuls des Européens, rares mais exemplaires, ont osé proclamer, d’Aristote à Rousseau et de William Penn à Proudhon, que <i class="i">les libertés personnelles et les communautés autonomes valent mieux que la puissance collective.</i> L’Europe unie sera seule capable de réaliser leur vision.</p>
+                    <p class="p">On me dira peut‑être aussi que je radicalise indûment l’antithèse État-nation–Fédération, ramenée au dilemme Puissance ou Liberté comme finalités de l’union. Mais je ne crois pas 
+<a class="pb" href="#pb59" id="pb59">[p. 59]</a>
+ qu’il y ait un tiers parti tenable. Je ne crois pas à cette « imposante Confédération » qu’évoquait le général de Gaulle, et qui serait formée d’États-nations conservant jalousement leurs prétentions à la souveraineté absolue. Je ne crois pas à cette Amicale des Misanthropes.</p>
+                    <p class="p">Je crois à la nécessité de défaire nos États‑nations. Ou plutôt, de les dépasser, de démystifier leur sacré, de percer leurs frontières comme des écumoires, de narguer ces frontières sur terre, sous terre et dans les airs, et de ne pas perdre une occasion de faire voir à quel point elles sont absurdes. Elles sont encore efficaces, il est vrai, pour gêner ce qu’il faudrait aider : les échanges culturels, les mouvements de personnes, la concertation rationnelle des productions industrielles et agricoles. Mais elles ne servent absolument à rien pour arrêter ce qui devrait l’être : les tempêtes et les épidémies, la pollution de l’air et des fleuves, les attaques aériennes, les ondes de la propagande 
+<a class="pb" href="#pb60" id="pb60">[p. 60]</a>
+ et les grandes contagions dites idéologiques. Elles empêchent simplement de bien traiter ces problèmes.</p>
+                    <p class="p">Ce statut des frontières, doublement déficient, est caractéristique de tout ce qui touche à l’État-nation : néfaste dans la mesure où il est encore réel, inexistant quand on voudrait compter sur lui.</p>
+                    <p class="p">Je ne sais, n’étant pas économiste, si nos États-nations délimités pour la plupart au <span class="num">xix<sup class="sup">e</sup></span> et au <span class="num">xx<sup class="sup">e</sup></span> siècles, se trouvent vraiment former, comme par miracle, des entités économiques intelligibles. Je ne sais si les problèmes profonds que pose leur balance commerciale (laquelle ne saurait être positive, me semble-t-il, dans tous les pays à la fois…) ne sont pas le type même de faux problèmes, résultant de la seule fiction d’économies dites nationales, qui ne correspondent à rien d’économique.</p>
+                    <p class="p">Mais ce que je sais de science certaine, c’est que les États-nations n’existent pas dans l’histoire de la culture, et que 
+<a class="pb" href="#pb61" id="pb61">[p. 61]</a>
+ le « cheminement des esprits » dont parlait Robert Schuman traverse leurs frontières sans les apercevoir : dans ce plan, elles n’existent pas.</p>
+                    <p class="p">Il n’y a pas de « cultures nationales », en dépit des manuels scolaires, il n’y a que des divisions tout arbitraires opérées après coup dans l’ensemble vivant de la culture européenne. Et les diversités que nous devons respecter ne sont pas celles de ces États-nations nés d’hier : elles les traversent et les divisent tous également, et ne coïncident jamais avec aucune frontière.</p>
+                    <p class="p">Nos États-nations, obsédés par l’idée de « se faire respecter », oublient qu’ils n’y arriveraient qu’en se rendant utiles. Ils exigent, depuis Louis XIV, que l’on s’incline devant la « majesté de l’État ». Mais non ! l’État n’est pas un Dieu, ce n’est qu’un appareil plus ou moins efficace, qui doit être mis au service des citoyens et de leurs Cités ; et non l’inverse.</p>
+                    <p class="p">Cessez donc, Messieurs les Ministres, d’essayer d’apaiser les ennemis de l’union 
+<a class="pb" href="#pb62" id="pb62">[p. 62]</a>
+ en jurant de ne jamais toucher aux droits sacrés de vos États-nations ! Vous savez bien que vous ne pourrez pas unir l’Europe en proclamant votre attachement aux causes mêmes de sa division ! Pourquoi ne pas le dire ouvertement ? Tous les sondages d’opinion le montrent : on vous suivrait, si vous osiez marcher.</p>
+                    <p class="p">Il faut défaire et dépasser l’État-nation. En instaurant les Régions en deçà, et la Fédération au-delà.</p>
+                    <p class="p">Il faut distribuer et répartir l’État aux différents niveaux de décision où il peut servir une entité vivante, civique, économique ou culturelle, et être contrôlé par l’usager, distribuer et répartir l’État de la commune et de l’entreprise à la région et aux groupements de régions jusqu’au niveau européen ; là, des Agences fédérales, du type de la Communauté de Bruxelles, seront chargées de la concertation des grandes tâches d’intérêt public, tâches politiques au sens originel du mot : l’économie, l’écologie et l’habitat, la recherche 
+<a class="pb" href="#pb63" id="pb63">[p. 63]</a>
+ scientifique, les transports, les relations globales avec d’autres Fédérations continentales. Et vous noterez que je ne parle pas de relations ou d’affaires <i class="i">étrangères</i> : c’est un mot qu’il nous faut bannir du vocabulaire politique dans une Europe fédérée, au seuil de l’ère du monde uni.</p>
+                    <p class="p">Voilà donc le modèle fédéraliste de la Cité européenne : la complexité des Régions rendra justice à ses fécondes diversités, et l’ampleur de la Fédération exprimera l’unité millénaire de sa culture.</p>
+                    <p class="p">Dira-t-on que ce programme est révolutionnaire ? Il l’est, bien sûr : on ne fera pas l’Europe sans casser des œufs, nous le voyons depuis vingt-cinq ans. Mais il l’est moins parce qu’il demande qu’on dépasse les États-nations que parce qu’il pose une hiérarchie nouvelle des finalités politiques. Donner comme but à la Cité européenne la Liberté non la Puissance, un mode de vie qualitatif, non pas un « niveau de vie » déterminé en termes de profit et 
+<a class="pb" href="#pb64" id="pb64">[p. 64]</a>
+ de PNB, c’est passer du matérialisme capitaliste et communiste à la mise en question du sens même de nos vies, et des vrais buts de nos activités communautaires et personnelles.</p>
+                    <p class="p">Si sérieux que soient les problèmes de prix du lait, du blé ou même du vin, il est clair que l’Europe des marchandages entre économies étatiques ne peut pas entraîner d’adhésions enthousiastes. Les jeunes gens d’aujourd’hui ne seront pas convaincus par des avantages matériels : ils sont presque comblés à cet égard. Ce qui leur manque le plus durement, c’est un but transcendant, c’est un <i class="i">sens de la vie</i>, maintenant que la guerre n’est plus leur exutoire, l’alibi des raisons de vivre inexistantes.</p>
+                    <p class="p">La réponse à la contestation de la jeunesse, dans le monde entier, ne relève pas de l’économie, et encore moins de la politique au sens étroit et partisan du terme. Elle exige la recréation de <i class="i">communautés</i> véritables. Et la Cité européenne — <i class="i">Res publica europaea —</i>
+          
+<a class="pb" href="#pb65" id="pb65">[p. 65]</a>
+ fondée sur les communes et les régions librement fédérées du continent, peut en offrir le modèle.</p>
+                    <p class="p">Si l’on me dit maintenant que c’est une utopie que de vouloir dépasser l’État‑nation, je réponds que c’est au contraire la grande tâche politique de notre temps. Précisons : des vingt ans qui viennent. Car à ce prix seulement nous ferons l’Europe, et nous la ferons pour toute l’humanité, nous lui devons cela.</p>
+                    <p class="p">Une Europe qui ne sera pas nécessairement la plus puissante ou la plus riche, mais bien ce coin de la planète indispensable au monde de demain, et où les hommes pourront trouver non pas le plus de bonheur, peut‑être, mais le plus de saveur, le plus de sens à la vie.</p>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="2#pb40">p. 40</a>
+                        </div>
+                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Discours prononcé à l’université de Bonn, le 15 avril 1970, pour la réception du prix Robert Schumann décerné par la fondation FVS.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="1">I. Pour une nouvelle définition du fédéralisme</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">II. La Cité européenne</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+  </pages>
+</concrete5-cif>

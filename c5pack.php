@@ -1,6 +1,6 @@
 <?php
 
-if (php_sapi_name() == "cli") C5pack::articles();
+if (php_sapi_name() == "cli") C5pack::cli();
 
 
 class C5pack
@@ -11,7 +11,7 @@ class C5pack
   /**
    * Command line transform
    */
-  public static function articles($doctype = 'articles')
+  public static function cli()
   {
   
     array_shift($_SERVER['argv']); // shift first arg, the script filepath
@@ -19,94 +19,64 @@ class C5pack
       php c5pack.php  ../ddr-articles/ddr-espr.xml\n");
     foreach ($_SERVER['argv'] as $glob) {
       foreach(glob($glob) as $srcfile) {
-        $filename = pathinfo($srcfile, PATHINFO_FILENAME);
-        
-        if ($doctype == "articles") {
-          $bookpath = "/articles/".substr($filename, 4);
-          $xsl = dirname(__FILE__).'/_engine/c5-articles.xsl';
-          $package = strtr($filename, array('-' => '_'));
-        }
-        else if ($doctype == "livres") {
-          $bookpath = "/livres/".strtok($filename, '_');
-          $xsl = dirname(__FILE__).'/_engine/c5-chapitres.xsl';
-          $date = substr($filename, 3, 4);
-          $package = strtok($filename, '_');
-        }
-
-        
-        $dom = self::dom($srcfile);
-        
-        $title = "";
-        $xpath = new DOMXpath($dom);
-        $xpath->registerNamespace('tei', "http://www.tei-c.org/ns/1.0");
-        $nl = $xpath->query("//tei:title[1]");
-        if ($nl->length) $title .= $nl->item(0)->textContent;
-        
-
-        $php = file_get_contents(dirname(__FILE__)."/_engine/controller.php");
-        $version = date("y.m.d");
-        $php = str_replace(
-          array('%Class%', '%handle%', '%version%', '%bookpath%', '%title%'),
-          array(ucfirst(strtr($package, array('_' => ''))), $package, $version, $bookpath, $title),
-          $php,
-        );
-
-        
-        $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath));
-        // contenus de page à encadrer de CDATA 
-        $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
-
-        $dstdir = dirname(__FILE__).'/'.$package;
-        self::mkdir($dstdir);
-        file_put_contents($dstdir.'/content.xml', $xml);
-        file_put_contents($dstdir.'/controller.php', $php);
-        
-      }
-    }
-  }  
-
-  /**
-   * Command line transform
-   */
-  public static function cli()
-  {
-    array_shift($_SERVER['argv']); // shift first arg, the script filepath
-    if (!count($_SERVER['argv'])) exit("
-      php c5pack.php  ../../ddr-livres/ddr1956ao_amour-occident.xml\n");
-    foreach ($_SERVER['argv'] as $glob) {
-      foreach(glob($glob) as $srcfile) {
-        $bookid = pathinfo($srcfile, PATHINFO_FILENAME);
-        $bookid = strtok($bookid, '_');
-        $date = substr($bookid, 3, 4);
-
-        $dom = self::dom($srcfile);
-        $xpath = new DOMXpath($dom);
-        $xpath->registerNamespace('tei', "http://www.tei-c.org/ns/1.0");
-
-        $title = "";
-        $nl = $xpath->query("/*/tei:teiHeader//tei:title");
-        if ($nl->length) $title .= $nl->item(0)->textContent;
-        $title .= " (".$date.")";
-        
-        $php = file_get_contents(dirname(__FILE__)."/_engine/controller.php");
-        $version = date("y.m.d");
-        $php = str_replace(
-          array('%Class%', '%handle%', '%version%', '%title%'),
-          array(ucfirst($bookid), $bookid, $version, $title),
-          $php,
-        );
-
-
-        $xml = self::transform(dirname(__FILE__).'/c5-chapitres.xsl', $dom, null, array('bookid' => $bookid));
-        $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
-
-        $dstdir = dirname(__FILE__).'/'.$bookid;
-        self::mkdir($dstdir);
-        file_put_contents($dstdir.'/content.xml', $xml);
-        file_put_contents($dstdir.'/controller.php', $php);
+        self::file($srcfile);
       }
     }
   }
+  
+  public static function file($srcfile, $doctype=null)
+  {
+    $fullpath = realpath($srcfile);
+    
+    if ($doctype != null);
+    else if (stripos($srcfile, 'articles')) $doctype = 'articles';
+    else $doctype = 'livres';
+    
+    
+    $filename = pathinfo($srcfile, PATHINFO_FILENAME);
+    if ($doctype == "articles") {
+      $bookpath = "/articles/".substr($filename, 4);
+      $xsl = dirname(__FILE__).'/_engine/c5-articles.xsl';
+      $package = strtr($filename, array('-' => '_'));
+    }
+    else if ($doctype == "livres") {
+      $bookpath = "/livres/".strtok($filename, '_');
+      $xsl = dirname(__FILE__).'/_engine/c5-chapitres.xsl';
+      $date = substr($filename, 3, 4);
+      $package = strtok($filename, '_');
+    }
+    $dstdir = dirname(__FILE__).'/'.$package;
+    if(!file_exists($dstdir));
+    else if(filemtime($dstdir.'/content.xml') > filemtime($srcfile)) return;
+    echo $srcfile."\n";
+
+    
+    $dom = self::dom($srcfile);
+    $title = "";
+    $xpath = new DOMXpath($dom);
+    $xpath->registerNamespace('tei', "http://www.tei-c.org/ns/1.0");
+    $nl = $xpath->query("//tei:title[1]");
+    if ($nl->length) $title .= $nl->item(0)->textContent;
+    
+
+    $php = file_get_contents(dirname(__FILE__)."/_engine/controller.php");
+    $version = date("y.m.d");
+    $php = str_replace(
+      array('%Class%', '%handle%', '%version%', '%bookpath%', '%title%'),
+      array(ucfirst(strtr($package, array('_' => ''))), $package, $version, $bookpath, $title),
+      $php,
+    );
+
+    
+    $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath));
+    // contenus de page à encadrer de CDATA 
+    $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
+
+    self::mkdir($dstdir);
+    file_put_contents($dstdir.'/content.xml', $xml);
+    file_put_contents($dstdir.'/controller.php', $php);
+  }
+
 
   public static function mkdir($dir)
   {

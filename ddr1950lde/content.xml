@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+  <pages>
+    <page path="/livres/ddr1950lde/1" name="Première lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1950lde</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Lettres aux députés européens (1950) Première lettre</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p7" id="p7">[p. 7]</a>
+                    <h1 class="head chapter">Première lettre<a class="bookmark" href="1"> §</a></h1>
+                    <p class="p autofirst">Messieurs les députés européens,</p>
+                    <p class="p">Vous êtes ici pour faire l’Europe, et non pour faire semblant de la faire. Faire l’Europe signifie la fédérer, ou bien ne signifie pas grand-chose. Comment fédérer des nations qui se croient encore souveraines ? Voyons l’Histoire. Les Suisses ont réussi : voyons la Suisse.</p>
+                    <p class="p">Tout le monde croit l’avoir vue et s’en va répétant qu’il a fallu plus de cinq cents ans pour sceller son union fédérale. Tout le monde se trompe. Il a fallu neuf mois. En voici le récit exact.</p>
+                    <p class="p">Au début de 1848, la Confédération n’était qu’un Pacte d’alliance entre vingt‑cinq États absolument souverains. Point de citoyenneté suisse, point de liberté d’établissement ou d’échange commercial entre Cantons, point d’unité monétaire, point de représentation des peuples. Un seul organe commun, la Diète, sorte de Comité des Ministres, composé de plénipotentiaires agissant au nom des États et prenant leurs rares décisions à la majorité des trois quarts. Pratiquement : le veto paralysant un corps consultatif aux compétences 
+<a class="pb" href="#p8" id="p8">[p. 8]</a>
+ douteuses et jalousement restreintes ; les barrières douanières multipliées à l’intérieur, nulles à l’extérieur, l’impuissance devant l’étranger et même devant la guerre entre les États membres.</p>
+                    <p class="p">Niera‑t‑on que ce fût là, trait pour trait, un état comparable à celui de notre Europe, sauf pour le péril extérieur, qui n’était rien au regard de celui que nous courons ?</p>
+                    <p class="p">Une partie de l’opinion réclamait une Autorité fédérale, dotée de pouvoirs limités mais réels. Rien d’autre, en vérité, ne pouvait assurer l’indépendance du pays. Mais la Diète, les États et leurs experts voyaient dans le mot <i class="i">souveraineté</i> la réponse décisive à cette « chimère ». Le bon sens dénonçait l’invivable chaos entretenu par les barrières douanières. La routine rétorquait, chiffres en mains, que la liberté d’échanges ne manquerait pas de causer quelques dommages locaux. C’était répondre, aux utopistes qui proposaient d’éteindre l’incendie, que l’eau peut abîmer les meubles.</p>
+                    <p class="p">II y eut une guerre civile entre Cantons, qui fit voir l’impuissance du Pacte. Il y eut un long branle‑bas de sociétés, de mouvements, de projets, de discours et de vœux. À la faveur de cette agitation, un petit groupe de jeunes chefs enthousiastes fit adopter par la Diète le principe d’une révision profonde du pacte.</p>
+                    <p class="p">En 1847, notons‑le, rien ne semblait « praticable » 
+<a class="pb" href="#p9" id="p9">[p. 9]</a>
+ aux yeux des réalistes. (Nous en sommes là en 1950.) La décision survint l’année suivante.</p>
+                    <p class="p">Le 17 février 1848, la Commission de révision — nommée par la Diète dans son sein et au dehors — se réunit pour la première fois. Elle décide de siéger à huis clos cinq fois par semaine. Le 8 avril, elle termine ses travaux, dont elle soumet les résultats aux vingt‑cinq États souverains. Le 15 mai, la Diète est saisie du projet, qu’elle adopte le 27 juin. Pendant le mois d’août, le peuple vote dans les Cantons. Le 12 septembre, la Diète proclame que la Constitution est acceptée par près de deux tiers des États et plus de deux tiers des citoyens votants. Le 16 novembre, le premier Conseil fédéral, organe exécutif, entre en fonction. Le drapeau suisse est arboré à côté des drapeaux des Cantons.</p>
+                    <p class="p">Aucun des troubles graves, aucune des ruines prévues et dûment calculées ne se produisirent. L’essor que prit la Suisse, dès cet instant, n’a pas fléchi durant un siècle.</p>
+                    <p class="p">Messieurs les Députés, neuf mois avaient suffi pour fédérer 25 États souverains. Pensez‑vous que l’Histoire vous en laisse beaucoup plus, pour unir vos États dans un plus grand péril ?</p>
+                    <p class="p">Vous me direz que l’Europe est plus grande que la Suisse ; qu’il fallut une bonne guerre pour briser le tabou des souverainetés cantonales absolues ; que les Cantons suisses vivaient 
+<a class="pb" href="#p10" id="p10">[p. 10]</a>
+ ensemble depuis des siècles ; que les problèmes économiques sont plus complexes ; et qu’on ne peut comparer, sans offense, nos modestes sagesses et les folies sublimes des grandes Nations contemporaines.</p>
+                    <p class="p">Mais il n’est pas exact que l’Europe d’aujourd’hui soit plus grande que la Suisse d’alors : vous êtes venus de Stockholm à Strasbourg — ou de Rome, ou même d’Ankara — en moins de temps qu’il n’en fallait, il y a cent ans, pour aller de Genève ou des Grisons à Berne. Pour la guerre entre vos pays, les deux dont vous sortez suffisent. Nos Nations vivent ensemble depuis autant de siècles, et souvent davantage, que nos Cantons. Leurs sorts ne sont pas moins liés, si vous regardez l’Europe dans l’ensemble du monde. Vos cordons de douanes ne sont pas plus nombreux, ni moins strangulatoires, que ne l’étaient les nôtres. Et vos économies ne sont pas plus disparates que celles de Zurich, par exemple, et de ses petits voisins paysans. Les sombres prévisions des réalistes quant aux effets d’une union « trop rapide » remplissaient nos journaux, il y a cent trois ans : il n’en est pas une seule qui se soit vérifiée, mais pas une seule non plus qui ne reparaisse dans la bouche même de ceux qui affirment que nos réalités sont tellement différentes… Certes, comparaison n’est pas raison, mais quand les raisons de ne rien faire restent les mêmes quoi qu’il arrive, c’est qu’elles traduisent une certaine forme d’esprit, 
+<a class="pb" href="#p11" id="p11">[p. 11]</a>
+ une cécité partielle devant les leçons de l’Histoire, que j’ai plus d’une raison de nommer le <i class="i">daltonisme politique.</i></p>
+                    <p class="p">Messieurs les Députés, n’oubliez pas la Suisse : elle existe en dépit de tous les arguments qu’on oppose aujourd’hui à l’Europe. Son exemple vivant tend à nous démontrer que la solution fédéraliste n’est pas seulement praticable en principe, mais pratique. C’est assez pour que j’ose vous supplier d’y réfléchir quelques minutes. La Suisse s’est unie en neuf mois. Il vaut la peine de s’arrêter devant ce fait, pour mieux se persuader qu’on peut aller très vite. Car le temps fait beaucup à l’affaire. Celui que vous n’auriez pas, Staline le prend : c’est le temps de méditer avant d’agir. Mais celui que vous risquez de perdre, cet été, soyez bien sûrs qu’il le retrouvera : c’est le temps de modifier non pas des paragraphes mais l’ordre de bataille de l’Armée rouge.</p>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li class="here">
+                      <a href="#">Première lettre</a>
+                    </li>
+                    <li>
+                      <a href="2">Deuxième lettre</a>
+                    </li>
+                    <li>
+                      <a href="3">Troisième lettre</a>
+                    </li>
+                    <li>
+                      <a href="4">Quatrième lettre</a>
+                    </li>
+                    <li>
+                      <a href="5">Cinquième lettre</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1950lde/2" name="Deuxième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1950lde</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Lettres aux députés européens (1950) Deuxième lettre</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p12" id="p12">[p. 12]</a>
+                    <h1 class="head chapter">Deuxième lettre<a class="bookmark" href="2"> §</a></h1>
+                    <p class="p autofirst">Messieurs les Députés,</p>
+                    <p class="p">Ces lettres ne sont pas un cahier de doléances ou de revendications. Et je n’ai point de conseil à vous donner. Mais je vous écris au nom d’une centaine de milliers de militants fédéralistes, qui pensent comme des millions que le temps presse et que les lenteurs de l’Assemblée, ramenées par les Ministres à l’immobilité, sont la pire imprudence du siècle.</p>
+                    <p class="p">Nous ne sommes pas impatients mais angoissés. Nous ne voulons pas qu’on aille vite par doctrine, par manie ou par tempérament, comme nous le reprochent certains qui, par principe ceux-là, ont décidé une fois pour toutes qu’il faut aller lentement dans tous les cas. Mais nous ne voyons aucun motif de croire qu’on leur laissera tout le temps d’aller lentement, et le loisir d’être prudents. <i class="i">Festina lente</i> nous disent-ils. Les Coréens n’entendent pas ce latin-là, même s’il est prononcé avec l’accent anglais.</p>
+                    <p class="p">Vous allez me parler, je le sais bien, des grandes difficultés accumulées sur votre route vers l’unité. Elles sont connues. Ce qui l’est 
+<a class="pb" href="#p13" id="p13">[p. 13]</a>
+ moins, c’est votre volonté de les surmonter. L’un d’entre vous le rappelait récemment : le premier devoir de l’obstacle, c’est de se laisser vaincre. Votre Comité des Ministres néglige donc son premier devoir. À qui la faute ? L’opinion, sur ce point, entretient des soupçons qu’il vous faut dissiper.</p>
+                    <p class="p">Vous allez, paraît-il, réviser prudemment les statuts du Conseil de l’Europe, ainsi que vos rapports internes avec le Comité ministériel. Permettez-moi de vous dire que l’opinion s’en moque, parce qu’elle a ses doutes motivés sur vos intentions véritables. Elle n’est pas sûre qu’une fois dotés d’un instrument un peu meilleur — moins astucieusement combiné pour s’enrayer sans faute avant le départ — vous en ferez l’usage qu’elle attend. Elle n’a pas l’impression très nette que vous êtes décidés à faire l’Europe envers et contre toutes ses routines décadentes, à la sauver de la ruine en l’unissant, et pour tout dire d’un mot, à gouverner. Elle vous voit réticents pour la plupart, inquiets de ne pas vous avancer au-delà de ce qu’on vous a permis, qui est moins que rien, arrêtés par un alinéa, déconcertés par un éternuement des daltoniens. Elle voit que votre Assemblée consultative d’un Comité lui-même consultatif, formé de Ministres qui se refusent d’ailleurs à transmettre vos consultations, consulte à son tour des experts. Ces consultés à la troisième puissance — si l’on peut dire ! — répondent après six mois 
+<a class="pb" href="#p14" id="p14">[p. 14]</a>
+ que c’est prématuré, mais qu’il ne faut rien faire en attendant. Et l’opinion se demande si tout cela dissimule une idée de derrière la tête, ou révèle au contraire, bien clairement, l’absence d’idée maîtresse, de grande vision du but, de volonté. J’entends bien que l’opinion se trompe et méconnaît vos sentiments intimes, qui sont très purs ; qu’elle distingue mal les forces colossales qui paralysent jusqu’à votre éloquence et vous empêchent d’articuler des intentions peut-être subversives (on chuchote que vous tenez en réserve un projet de timbre-poste européen). Certes, il convient de saluer bien bas les Intérêts et les Pouvoirs, de s’agenouiller devant les Constitutions, de ramper devant les Partis, et de confesser son pur néant devant les Experts. Mais rien ne pourra jamais me persuader qu’ils aient tous raison à la fois,
+          quand il n’en est pas deux qui tombent d’accord sur autre chose que ne rien faire.</p>
+                    <p class="p">Parlons un peu de cette fameuse <i class="i">prudence</i> dont l’éloge inlassable embellit vos discours. En somme, que risquez-vous ? Je cherche à voir ce qui peut vous faire peur, ce qui peut être plus dangereux que l’inaction totale où vous glissez, plus utopique que le maintien du statu quo, plus follement imprudent que vos prudences ? Je ne trouve pas. On dirait que vous avez le trac. Vous répétez qu’il faut être prudents quand on s’engage dans une entreprise aussi vaste. Ah ! pour le coup, je trouve cela « prématuré » (je m’excuse de parler 
+<a class="pb" href="#p15" id="p15">[p. 15]</a>
+ comme un Ministre). Car vous ne vous êtes, jusqu’ici, engagés dans rien que l’on sache. Quand vous y serez, il sera temps de voir si la prudence, ou au contraire un peu de hâte, conviennent à nos calamités.</p>
+                    <p class="p">Ceci me rappelle un argument de M. Bevin. On aurait tort, à son avis, de commencer l’Europe par le toit. Je ne sais pourquoi, ni ce qu’il veut dire exactement ; mais cave ou toit, chacun peut voir que M. Bevin n’a jamais voulu rien commencer. Au reste, l’Europe existe depuis plus de 2000 ans. Ce qui lui manque est justement un toit.</p>
+                    <p class="p">Pour tout dire en style familier, ces éternelles prudences nous cassent les pieds. On trouverait dans les procès-verbaux de votre première session consultative (au second degré) de quoi faire un collier à trois rangs de perles du genre de <i class="i">Festina lente</i>, Paris ne s’est pas bâti en un jour, petit à petit l’oiseau fait son nid, prudence est mère de sûreté, <i class="i">chi va piano va sano, wait and see, step by step, und so weiter.</i> Les vieillards ont l’humeur proverbiale, mais votre Assemblée est trop jeune. Je lui propose quelques slogans nouveaux et quelques amendements à la sagesse des peuples.</p>
+                    <p class="p">Petit à petit, Paris ne s’est pas fait. Mais par deux ou trois décisions, dont celle d’Haussmann, corrigée d’un coup de crayon par Napoléon III.</p>
+                    <p class="p">L’oiseau bâtit son nid en un jour — toutes affaires cessantes. 
+<a class="pb" href="#p16" id="p16">[p. 16]</a>
+</p>
+                    <p class="p">On peut tout faire <i class="i">step by step</i>, sauf sauter un obstacle. On peut tout faire en deux pas, sauf franchir un abîme.</p>
+                    <p class="p">Si votre œuvre est de longue haleine, il n’y a pas une minute à perdre.</p>
+                    <p class="p">Tout est prématuré, pour celui qui ne veut rien.</p>
+                    <p class="p"><i class="i">Chi va piano</i> perd la Corée.</p>
+                    <p class="p">La prudence est le vice des timides, et la vertu des audacieux.</p>
+                    <p class="p">Je me résume. L’opinion vous regarde. Elle n’entre pas dans les subtilités. Elle vous demande : que voulez-vous faire ?</p>
+                    <p class="p">Si vous ne voulez pas fédérer l’Europe, vous ne voulez rien qui l’intéresse. Si vous ne faites rien cet été, vous serez oubliés cet automne. Si vous croyez qu’il vaut mieux ne rien faire, ou qu’on ne peut rien faire de sérieux, vous pouvez encore rendre un service à l’Europe : allez-vous-en. Laissez la place à ceux qui ont décidé d’agir. Avouez que rien ne vous paraît possible : on comprendra que vous n’êtes plus nécessaires. Mais assez de faire semblant d’être là. Constater le néant représente un progrès sur l’entretien d’une illusion coûteuse dans un édifice inachevé.</p>
+                    <p class="p">Mais si quelques-uns d’entre vous, comme je le crois, sont fédéralistes, qu’ils le disent, qu’ils proclament leur but, et tout changera dans un instant. Il s’agit d’une révolution, qui est le passage des vœux aux volontés.</p>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="1">Première lettre</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Deuxième lettre</a>
+                    </li>
+                    <li>
+                      <a href="3">Troisième lettre</a>
+                    </li>
+                    <li>
+                      <a href="4">Quatrième lettre</a>
+                    </li>
+                    <li>
+                      <a href="5">Cinquième lettre</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1950lde/3" name="Troisième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1950lde</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Lettres aux députés européens (1950) Troisième lettre</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p17" id="p17">[p. 17]</a>
+                    <h1 class="head chapter">Troisième lettre<a class="bookmark" href="3"> §</a></h1>
+                    <p class="p autofirst">Messieurs les Députés européens,</p>
+                    <p class="p">J’ai tenté de traduire le sentiment des peuples en face de l’inertie de l’Assemblée. Ce n’était pas une attaque : je décrivais ce qu’un chacun peut voir de ses yeux. Et plusieurs d’entre vous, je le sais, s’en affligent. (On peut penser que ce n’est pas suffisant.) Aujourd’hui, je voudrais vous dire l’admiration et le respect que j’éprouve non point, hélas ! pour vos succès jusqu’à cette date, mais pour le rôle qui vous est dévolu, et pour le nom qu’il vous convient de revendiquer, celui dont, par avance, je vous salue.</p>
+                    <p class="p">Vous êtes, Messieurs, Députés de l’Europe. Essayons de mesurer la grandeur de ce titre.</p>
+                    <p class="p">Députés de l’Europe entière, voilà qui signifie, Messieurs, que vous avez perdu le droit d’être étrangers sur aucune de nos terres, dans aucun de nos peuples, comme à rien de ce qui forme l’héritage deux fois millénaire de nos fils. Vous n’êtes pas seulement les députés de quinze villes capitales, et de cent vingt provinces, et de la génération qui les peuple aujourd’hui, plus de 200 millions d’hommes et 
+<a class="pb" href="#p18" id="p18">[p. 18]</a>
+ de femmes, mais par delà tous les accents locaux, les intérêts et les passions, par delà les croyances et les révoltes qui rassemblent ou divisent les vivants, vous êtes les députés d’une aventure humaine qui tente à travers vous, dans l’angoisse et l’espoir, le risque et la grandeur d’une liberté nouvelle. Que vous le sachiez ou non, vous êtes les députés d’Athènes, de Rome et de Jérusalem. Les députés de la conscience la plus inquiète que l’homme ait jamais prise de son destin et des chances de le surmonter. Les députés non point d’une presqu’île de l’Asie un peu plus grande que la Corée, quoique ne dépassant guère 4 % de la superficie du globe, mais bien de cela qui a fait au cours des âges, d’un cap médiocre en dimensions physiques, le cœur et le cerveau de l’humanité : notre culture, cette civilisation que rien ne s’offre à remplacer, et qui a su remplacer toutes les autres.</p>
+                    <p class="p">D’où vient, Messieurs, que le cap de l’Asie ait dominé le monde pendant des siècles ? D’où, sinon d’un pouvoir d’invention et de dépassement du destin dont nous cherchons en vain l’égal sur la Planète ?</p>
+                    <p class="p">Sans remonter jusqu’au déluge, ni même jusqu’aux Anciens qui manquent à l’Amérique, ou à la Renaissance qui manque aux Russes — sens de la mesure et sens critique — qu’avons‑nous inventé, nous les Européens, depuis cent ans ? Je répondrai : que n’avons‑nous pas inventé ? Je cite pêle‑mêle : le 
+<a class="pb" href="#p19" id="p19">[p. 19]</a>
+ marxisme et la psychanalyse, la sociologie et les grandes synthèses historiques, la relativité généralisée et la physique nucléaire, la radio et le cinéma, la pénicilline et le DDT, le pétrole synthétique et le radar, la rationalisation du travail industriel, la construction métallique, l’école active, le syndicalisme et les coopératives, et enfin l’art moderne tout entier : peinture, musique, littérature, poésie, théâtre et sculpture : presque tous leurs grands noms sont des noms de l’Europe, et les très rares qui n’en sont pas ont appris leur métier de nos maîtres, dans nos écoles, aux terrasses des cafés de Paris, ou par nos livres. Bien plus, le monde moderne tout entier peut être appelé une création européenne. Pour le bien comme pour le mal, d’ailleurs, il imite à la fois nos mœurs et nos objets, nos procédés d’art et de construction, de transport et de gouvernement, d’industrie, de médecine, — et nos armes, quitte à les tourner contre nous. Que sont en fin de compte les deux Empires qui prétendent partager notre monde ? L’Amérique, la Russie moderne, sont des produits de notre culture, de Calvin et de Marx, et de notre industrie qui est née de nos savants et de nos philosophes. De tout cela, Messieurs, vous êtes les députés. On attend de vous l’invention qui sauve la paix du monde, et qui maintienne l’Europe dans une fonction qu’aucun Empire nouveau n’ose lui disputer sérieusement. 
+<a class="pb" href="#p20" id="p20">[p. 20]</a>
+</p>
+                    <p class="p">Je viens d’entendre à la radio le <i class="i">Don Juan</i> de Mozart retransmis de Salzbourg. Voilà ce que l’Europe a su faire. Toute la musique est née du contrepoint de l’Europe. Vous êtes, Messieurs, les députés de Mozart, de l’opéra, des symphonies et des <i class="i">Passions</i> ; les députés de Goethe et de la littérature ; de Descartes et des philosophes ; d’Einstein et des savants ; de Rembrandt et des peintres ; les députés aussi des auteurs anonymes de la <i class="i">Magna Charta</i> et du Pacte du Grütli, de l’esprit des Communes, des États généraux, et du Serment du jeu de Paume…</p>
+                    <p class="p">Ce grand passé, Messieurs, vous charge de l’avenir. Par l’un, vous êtes à l’autre députés.</p>
+                    <p class="p">Me voici partagé entre l’envie de rire de vos craintes dérisoires, de vos alinéas, et le sentiment très vif de mon néant devant l’ampleur de la mission qui vous anime, ou qui peut‑être vous écrase.</p>
+                    <p class="p">En vérité, je ne sais comment j’ose vous parler, si ce n’est par angoisse et en dernier recours, soulevé par la passion de tous les hommes, et pas seulement ceux de notre continent, pour qui le nom d’Europe a représenté la beauté dans la vie, l’intelligence, les secrets d’un bonheur conquis sur le destin, et malgré tant de crimes, l’honneur de l’être humain.</p>
+                    <p class="p">Mais cette beauté, ce bonheur, cet honneur, et cette conscience inquiète aussi, et ce grand risque de la liberté, tout cela qui vous délègue en ce lieu décisif, dans l’histoire concrète de 
+<a class="pb" href="#p21" id="p21">[p. 21]</a>
+ ce temps, tout cela peut disparaître à tout jamais si vous manquez à une mission précise, celle de fédérer nos faiblesses pour en faire la force du siècle.</p>
+                    <p class="p">Messieurs les Députés européens, saurez‑vous mériter votre nom ? On attend de vous la grandeur. Les chances de l’Europe, aujourd’hui, sont confondues avec les chances de l’homme. Personne n’est assez grand pour répondre au défi d’un tel destin. Groupez‑vous. Dites au moins votre but ! Nous sommes plusieurs millions qui n’attendons qu’un signe.</p>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="1">Première lettre</a>
+                    </li>
+                    <li>
+                      <a href="2">Deuxième lettre</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Troisième lettre</a>
+                    </li>
+                    <li>
+                      <a href="4">Quatrième lettre</a>
+                    </li>
+                    <li>
+                      <a href="5">Cinquième lettre</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1950lde/4" name="Quatrième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1950lde</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Lettres aux députés européens (1950) Quatrième lettre</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p22" id="p22">[p. 22]</a>
+                    <h1 class="head chapter">Quatrième lettre<a class="bookmark" href="4"> §</a></h1>
+                    <p class="p autofirst">Messieurs de l’Assemblée consultative,</p>
+                    <p class="p">Quelqu’un qui ne se sent pas le député de Mozart, ni d’Athènes, ni de Rome, ni de rien à vrai dire de ce qu’a pu signifier le nom d’Europe, c’est bien l’auteur du <i class="i">Manifeste</i> publié par le Labour Party sur le problème de l’unité européenne. Quand il regarde notre vieux continent, il n’y voit, si j’ose dire, que ce qui n’y est pas : il voit que ça n’est pas rouge, et que ça n’est pas anglais. Il distingue un ensemble de pays peu sûrs, qui d’une part ne font point partie du Commonwealth, d’autre part ne sont pas socialistes, ou ne le sont pas avec le bon accent. Comment s’unir avec des gens pareils ? Leur existence est purement négative.</p>
+                    <p class="p">J’ai bien lu ce pamphlet, d’une étrange arrogance. Ce qu’il dit n’est pas toujours clair. Ce qu’il ne dit pas saute aux yeux. L’idée que l’Europe soit une culture, une unité de civilisation, un foyer d’inventions dans tous les ordres, un trésor de diversités souvent irréductibles mais sans prix, de libertés, de foi, et de formes de vie, cette idée par exemple ne 
+<a class="pb" href="#p23" id="p23">[p. 23]</a>
+ l’effleure pas. Il n’y a pour lui qu’un seul problème : la politique du plein emploi ; une seule méthode : étatiser les industries ; un seul pays qui ait su le faire : la Grande-Bretagne ; et ce pays n’est pas européen. En effet, dit le pamphlet, nous les Anglais, nous sommes plus près des Dominions que de l’Europe, « par notre langue et par nos origines, nos habitudes sociales et nos institutions, notre point de vue politique et nos intérêts économiques… »</p>
+                    <p class="p">Je ne sais ce que les Hindous, les Boers, les Canadiens français et même les Irlandais, pensent de ces origines communes… Le point de vue politique des Dominions n’est pas celui de l’auteur sur la question de l’Europe, — voir les résolutions de Colombo ; et pas un seul de ces pays n’est travailliste<i class="i">…</i> Les habitudes sociales, les intérêts… Bref, une seule chose paraît claire, dans tout cela : les habitants de la Grande-Bretagne et leurs « parents de l’Australie et de la Nouvelle-Zélande » (seuls mentionnés) restent unis par une même langue. Si c’est celle du pamphlet, tremblons pour la famille ! Tous les adversaires de l’Europe méritent d’écrire comme M. Hugh Dalton.</p>
+                    <p class="p">Je vois bien qu’il se dit partisan d’un peu d’union tout de même, pour faire face aux Soviets et au déficit en dollars. Si peu que rien, en fait, car selon sa brochure, ce minimum ne saurait être envisagé que s’il n’affecte pas les intérêts anglais, et que si toute l’Europe se convertit à l’étatisme illimité. Ce qui n’offre 
+<a class="pb" href="#p24" id="p24">[p. 24]</a>
+ aucune base de compromis, c’est-à-dire d’action positive.</p>
+                    <p class="p">À ces deux conditions de l’union, — les mieux faites pour la rendre impossible, l’une en esprit et l’autre en probabilité — M. Dalton soumet le Conseil de l’Europe. Et cela produit des résultats bizarres. Votre Assemblée, selon lui, peut faire du bon travail, pourvu qu’elle n’ait aucun pouvoir. Mais le Comité ministériel cessera d’être démocratique s’il accepte la loi de la majorité. Cette logique fait la nouveauté du daltonisme, encore qu’elle ne soit pas tout inconnue des Russes. Elle se fonde sur l’axiome que la démocratie est identique au socialisme anglais. Il en découle <i class="i">primo</i> : qu’une Assemblée sans majorité travailliste ne saurait être tolérable que dans la mesure où elle reste impuissante — d’où le refus d’un Parlement européen ; <i class="i">secundo</i> : que les champions d’un régime fédéral fondé sur la majorité « doivent être considérés comme les ennemis les plus dangereux de l’unité européenne », — d’où le refus de toute Autorité politique supranationale.</p>
+                    <p class="p">Cet ami de l’unité siège parmi vous. Il va trouver sur vos banquettes des adversaires et des alliés inattendus. Les socialistes continentaux seront des premiers, et les conservateurs britanniques des seconds.</p>
+                    <p class="p">On devine que ces conservateurs suivent une logique non daltonienne : ils partent d’un axiome inverse. Démocratie et socialisme leur 
+<a class="pb" href="#p25" id="p25">[p. 25]</a>
+ apparaissent contradictoires. Et cependant, pour l’étonnement des cartésiens, cette logique différente les conduit aux mêmes conclusions négatives.</p>
+                    <p class="p">Au Parlement européen, s’il est doté de pouvoirs législatifs, à l’Autorité politique, s’il faut qu’elle ait vraiment de l’autorité et ne souffre donc point de veto, les Tories disent <i class="i">non</i> d’un seul cœur, dans la même langue que le Chancelier du Lancaster. Opposés en tout, sauf en cela, conservateurs et travaillistes nous obligent donc à constater objectivement que leurs motifs profonds ne sont point ceux qu’ils donnent, mais bien ceux qu’ils subissent plus que d’autres en leur île : j’entends le nationalisme étatisé et le mythe survivant des souverainetés. L’un nourrit l’autre, parce qu’il y trouve un alibi. Cette passion ne recourt à ce mythe que pour garder quelque moyen d’agir sans démasquer sa vraie nature.</p>
+                    <p class="p">Car dans le fait, où sont nos souverainetés ? Qui les a vues depuis quelques décades ? Qui donc ose les défendre ouvertement, à part nos staliniens sur l’ordre du Kremlin ? Et comment se définissent-elles ?</p>
+                    <p class="p">Toynbee, qui est un grand historien, écrit au <i class="i">Times</i> qu’elles ne font point partie de la doctrine et des dogmes chrétiens. Suarez et les Jésuites pensaient différemment, mais c’était il y a trois cents ans. Personne ne sait très bien, en somme. On essaye de nous dire que l’opinion y tient. Quelle opinion, et qui l’exprime ? 
+<a class="pb" href="#p26" id="p26">[p. 26]</a>
+ Les peuples, interrogés sur la question, seraient bien en peine d’en comprendre le sens. Ils n’aiment pas que l’étranger commande chez eux. C’est tout. Mais s’il faut éviter que l’étranger soit Staline, ils acceptent fort bien que leurs armées soient commandées par un Américain. On prétend même qu’ils auraient accepté que leur monnaie perde un tiers de sa valeur, parce que Londres avait dévalué.</p>
+                    <p class="p">Je cherche en vain : où sont encore les souverainetés de nos États, quand l’armée et l’économie n’en dépendent plus que pour la forme et le détail ? Restent les tarifs douaniers, les monnaies mal couvertes, et les calibres différents : tout le monde voudrait leur unification. Et quant aux lois pénales et aux systèmes fiscaux, je ne vois pas que leur variété ait empêché les États des US ou les Cantons de la Suisse de se fédérer.</p>
+                    <p class="p">La souveraineté nationale absolue n’est donc plus qu’un prétexte au droit de veto, qui revient à donner le seul pouvoir réel, quoique négatif, à la minorité ; et derrière le veto se cachent en fait les vieux nationalistes, les daltoniens, et les totalitaires cyniques. (Ou bien les staliniens seraient-ils naïfs, quand c’est par décision d’un État étranger qu’ils disent vouloir garder la souveraineté du leur ?)</p>
+                    <p class="p">Messieurs les Députés, ce serait pure folie que d’essayer de sauver ce qui s’en va, au prix de l’avenir de ce qui est. La question n’est pas de renoncer à des souverainetés 
+<a class="pb" href="#p27" id="p27">[p. 27]</a>
+ illusoires — comment faire abandon de ce qu’on n’a plus ? — mais de renoncer, une fois pour toutes, à invoquer ce mauvais motif qui en cache de pires, pour arrêter l’élan vers notre union.</p>
+                    <p class="p">N’attaquez pas les souverainetés, dépassez-les ! Refaites-en une à l’échelle de l’Europe ! Il y va de notre indépendance, qui vaut mieux qu’elles, et qu’elles sabotent.</p>
+                    <p class="p">Le peuple suisse, il y a cent ans, n’a pas voté la suppression des souverainetés. Ses vingt-cinq États sont souverains sur le papier, mais fédérés en fait. Chacun d’eux a gardé sa personnalité, parce qu’un groupe d’Imprudents et d’Utopistes, qui voyaient et qui aimaient toutes les couleurs du prisme, leur a donné presque sans qu’ils s’en doutent la force et les moyens de l’indépendance : une Autorité fédérale. Nous n’attendons rien de plus, ni rien de moins de vous.</p>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="1">Première lettre</a>
+                    </li>
+                    <li>
+                      <a href="2">Deuxième lettre</a>
+                    </li>
+                    <li>
+                      <a href="3">Troisième lettre</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Quatrième lettre</a>
+                    </li>
+                    <li>
+                      <a href="5">Cinquième lettre</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1950lde/5" name="Cinquième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapitre</value>
+        </attributekey>
+        <attributekey handle="bookid">
+          <value>ddr1950lde</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Lettres aux députés européens (1950) Cinquième lettre</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb" href="#p28" id="p28">[p. 28]</a>
+                    <h1 class="head chapter">Cinquième lettre<a class="bookmark" href="5"> §</a></h1>
+                    <p class="p autofirst">Messieurs les députés de l’Europe à sauver !</p>
+                    <p class="p">Ceux qui disent que « l’Europe sera socialiste ou ne sera pas » savent très bien qu’à ce prix elle ne sera pas. Voilà l’ennemi, et non point Vychinski. Et cela vaut pour tous ceux qui pourraient déclarer que l’Europe sera toute catholique, ou protestante, ou française, ou allemande, ou de gauche, ou de droite — ou ne sera pas.</p>
+                    <p class="p">Vous êtes là pour qu’elle soit, pour qu’elle dure, dans ses diversités de tous les ordres, que l’on ne peut préserver que par l’union. Mais sans sacrifices d’amour-propre, sans replis stratégiques d’intérêts légitimes, <i class="i">sans compromis elle ne sera pas.</i> C’est clair.</p>
+                    <p class="p">Seuls, ceux qui veulent passionnément le But se résoudront aux compromis vitaux. Quant à ceux qui n’ont point cette passion de l’Europe, ceux dont le regard s’attarde aux obstacles à l’union, perdant de vue sa nécessité, il nous reste à leur faire comprendre que le pire obstacle, c’est eux-mêmes.</p>
+                    <p class="p">Ils nous disent : « Je veux bien, je ne suis 
+<a class="pb" href="#p29" id="p29">[p. 29]</a>
+ pas contre, mais voyez les difficultés ! L’Opinion, par exemple, n’est pas mûre, et chacun sait qu’on ne peut rien faire sans elle. » C’est qu’ils se prennent pour l’opinion, qu’ils ont négligé d’écouter. Tous les sondages précis réfutent leurs craintes, démasquent leurs arrière-pensées, dénoncent leur parti pris de scepticisme. Les deux tiers des Européens se déclarent pour l’union, lorsqu’on les interroge. Il n’en fallut pas plus pour fédérer la Suisse. Mais l’opinion veut qu’on l’entraîne. « On suit ceux qui marchent », dit Péguy. Elle ne vous suivra pas si vous êtes daltoniens, et les sceptiques, alors, pourront bien dire : j’avais raison, voyez l’obstacle ! Ils l’auront eux-mêmes suscité. L’œil du sceptique crée les obstacles insurmontables.</p>
+                    <p class="p">Il y a deux sortes d’opinion : celle que l’on invoque, et la vraie. L’une qui sert d’alibi aux démagogues, et l’autre qui les laisse tomber ; l’une qui fait des discours, l’autre qui vote. La première est exactement ce que la presse et la radio déclarent qu’elle est. Presse et radio voudraient que Dewey soit élu : on dit alors qu’il a pour lui toute l’opinion. Truman élu, l’opinion c’est Truman. Elle l’était avant cela bien sûr, mais elle n’a pu parler que dans le secret des urnes.</p>
+                    <p class="p">L’opinion d’aujourd’hui, je la sens, c’est l’Europe. Mais elle ne bougera pas si vous ne faites presque rien. Elle laissera les sceptiques parler « au nom des masses », dans l’indifférence 
+<a class="pb" href="#p30" id="p30">[p. 30]</a>
+ générale. Elle laissera le Conseil de l’Europe murmurer pudiquement chaque année qu’il reste désireux d’envisager l’étude de quelques mesures préalables tendant à renforcer le sentiment d’une Solidarité qui ne saurait nuire à « l’avènement d’une union plus intime entre ses membres ». Les manchettes des journaux parleront d’un « pas important vers l’union ». Et les Anglais jugeront qu’ils ne peuvent s’associer à ces engagements téméraires avant d’avoir pris le temps d’étudier leur contenu, et de s’être assurés qu’en tous les cas cela ne peut les conduire absolument à rien.</p>
+                    <p class="p">Soyons francs : le Conseil de l’Europe, solidement retranché dans le domaine des principes, a fait jusqu’ici pratiquement plus de mal que de bien à notre cause à tous. On me dira que si l’on se contente d’affirmer des principes sans les mettre en pratique, cela ne fait de mal à personne. Mais cela en fait aux principes. Or une Europe qui se moque des principes vaut beaucoup moins qu’une Amérique qui les professe, et ne vaut rien en face des Russes qui les assènent.</p>
+                    <p class="p">Il faut des actes, dit-on. La phrase est vague. Les actes sont parfois plus vains que les paroles. Lancer un timbre européen, ce serait un acte enfin, quelque chose de concret… Et je me garde de sous-estimer la puissance des philatélistes. Mais si Strasbourg accouche d’un timbre-poste, nous serons un peu déçus, et Staline très content. 
+<a class="pb" href="#p31" id="p31">[p. 31]</a>
+</p>
+                    <p class="p">Voici l’acte que je vous propose, au nom de l’opinion qui ne parle pas encore.</p>
+                    <p class="p">Messieurs les Députés, vous le savez bien, vous n’êtes pas de vrais députés, car les vrais sont élus, et vous êtes simplement délégués pour consultation. Décidez de vous faire élire. Un raisonnement très simple appuie cette suggestion.</p>
+                    <p class="p">On ne fera pas l’Europe sans informer ses peuples, et du danger qu’ils courent, et de la parade puissante que pourrait constituer notre fédération. On n’informera pas les peuples sans une propagande massive. Personne n’a les moyens de la financer. La seule solution concevable, c’est une campagne électorale organisée par les États, en vue de nommer leurs députés au premier parlement de l’Europe. Les partis présenteront leurs candidats. Et les mouvements fédéralistes aussi. Et les groupes d’intérêts professionnels, syndicats patronaux et ouvriers. Il en résultera dans nos provinces une campagne d’agitation, d’émulation, de polémique européenne, que nulle autre méthode ne saurait provoquer.</p>
+                    <p class="p">La condition à la fois nécessaire et suffisante d’une telle campagne, c’est de faire sentir aux peuples qu’elle comporte un enjeu, et que leur sort peut changer, matériellement aussi, selon l’issue des élections. En d’autres termes, il faut que le Parlement issu des élections ait quelque chose à faire. Qu’un but concret soit assigné à ses travaux. Je n’en vois pour ma part qu’un 
+<a class="pb" href="#p32" id="p32">[p. 32]</a>
+ seul : discuter et voter un projet bien précis de Constitution fédérale de l’Europe.</p>
+                    <p class="p">Ce projet, c’est à vous de l’élaborer. Cet été, en septembre, à Strasbourg. Il faut une Commission ? Vous pouvez la nommer. Le Comité ministériel va s’y opposer ? Vous pouvez passer outre, et jurer de rester où vos Parlements vous envoient. (Les ministres dépendent aussi de vos Parlements, qui restent les seuls juges d’un conflit éventuel.)</p>
+                    <p class="p">Si vous acceptez cela, vous aurez avec vous l’opinion vraie dans sa majorité, les militants de l’Europe, la logique de l’Histoire, le réveil de notre espérance. Si vous n’acceptez pas, vous ne trouverez derrière vous que le vide et l’indifférence ; et devant vous, le rire des hommes d’acier.</p>
+                    <p class="p">Si vous me dites que c’est prématuré, je vous supplierai de déclarer clairement à quel moment, et sous quelles conditions, cela cessera d’être prématuré.</p>
+                    <p class="p">Si vous me dites que c’est très joli, mais qu’il faut qu’on vous laisse du temps, je vous proposerai de l’obtenir de Staline. Car en Europe, il y en a peu.</p>
+                    <p class="p">Si vous me dites enfin que c’est plus difficile que je n’ai l’air de le penser dans ma candeur naïve, je vous demanderai si quelque chose au monde est plus difficile à concevoir que le maintien du statu quo, que la vie, la durée de notre Europe divisée, devant toutes les menaces que vous savez : un régime social déficient, 
+<a class="pb" href="#p33" id="p33">[p. 33]</a>
+ le chômage étendu, la ruine à bref délai, les trois cents divisions de l’Armée rouge.</p>
+                    <p class="p">D’une part, on peut penser qu’au point où nous en sommes, il n’y a presque plus rien à perdre. Que risquez-vous à tenter l’impossible ? D’autre part, il est sûr qu’il y aurait tout à perdre, même l’espoir, à ne point risquer la dernière chance européenne. Voilà le pari. Vous êtes acculés à l’audace. Donnez-nous la Constitution !</p>
+                    <p class="p">Messieurs les Députés, faut-il vous dire encore que je ne suis rien qu’une voix presque désespérée, et sans autre pouvoir que de vous adjurer de la part des millions qui se taisent mais qui ont peur ? Pardonnez mes violences et mes impertinences : comprenez l’anxiété qui les dicte. Je ne vous écrirais pas si je ne savais très bien qu’une partie d’entre vous m’approuve, et qu’une autre ne dit pas non. Dans un mouvement de passion, je m’écriais l’autre jour : si vous ne voulez rien faire, allez-vous-en ! Mais beaucoup d’entre vous veulent agir, et je les supplie maintenant, au nom de l’Europe, de <i class="i">rester</i> au contraire, de ne point se séparer avant d’avoir dressé, pour notre espoir, un signe !</p>
+                    <p class="p">Vous n’êtes pas encore l’espoir des peuples libres, ni des peuples muets de l’Est européen. Mais vous pouvez le devenir et sonner le ralliement, cet été, en septembre, à Strasbourg. Tout tient à cela, tout tient à votre sage audace. Car si l’Europe unie n’est pas un grand 
+<a class="pb" href="#p34" id="p34">[p. 34]</a>
+ espoir renaissant dans le cœur des masses, aucune armée du monde ne pourra la défendre. Personne ne veut mourir, que pour des raisons de vivre. Mozart n’en est plus une pour les chômeurs. Et ce n’est pas une secte politique, une doctrine partisane ou une autre, qui résoudra le problème du chômage, mais l’union de nos sacrifices. Qui peut nous l’imposer ? Qui peut faire reculer les intérêts puissants, et parfois légitimes, qui se révèlent contraires au salut de l’ensemble ? Je veux avoir parlé pour ne rien dire, si quelqu’un nous propose une autre solution que l’Autorité fédérale, souveraine au-dessus des États.</p>
+                    <p class="p">Messieurs les Députés européens, je vous salue d’un vœu qui voudrait résumer celui de tous nos peuples aux écoutes de l’avenir, un vœu mêlé d’angoisse et d’espérance : <i class="i">méritez votre nom</i>, faites-vous élire, et fédérez l’Europe pendant qu’il en est temps. Cet été, en septembre, à Strasbourg.</p>
+                    <p class="p right">
+                      <i class="i">de Ferney, 30 juillet-6 août 1950.</i>
+                    </p>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="1">Première lettre</a>
+                    </li>
+                    <li>
+                      <a href="2">Deuxième lettre</a>
+                    </li>
+                    <li>
+                      <a href="3">Troisième lettre</a>
+                    </li>
+                    <li>
+                      <a href="4">Quatrième lettre</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Cinquième lettre</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+  </pages>
+</concrete5-cif>
