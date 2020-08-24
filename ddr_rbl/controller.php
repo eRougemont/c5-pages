@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
     protected $pkgHandle = 'ddr_rbl';
-    protected $pkgVersion = '20.06.30';
+    protected $pkgVersion = '20.07.08';
 
     public function getPackageName()
     {

@@ -1,12 +1,12 @@
 <?php
-namespace Concrete\Package\Ddron;
+namespace Concrete\Package\Ddrcorrfamille;
 
 use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = 'ddr_on';
-    protected $pkgVersion = '20.07.08';
+    protected $pkgHandle = 'ddr_corr_famille';
+    protected $pkgVersion = '20.08.24';
 
     public function getPackageName()
     {
@@ -15,7 +15,7 @@ class Controller extends Package
 
     public function getPackageDescription()
     {
-      return "Articles parus dans L’Ordre nouveau (1933–1938)";
+      return "Correspondance familiale (1923-1973)";
     }
 
 
@@ -45,7 +45,7 @@ class Controller extends Package
 
     protected function delBook()
     {
-        $path = "/articles/on";
+        $path = "/correspondances/famille";
         $pl = new \Concrete\Core\Page\PageList();
         $pl->filterByPath($path, true); // true = do not delete parent
         $pages = $pl->get();

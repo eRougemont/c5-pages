@@ -29,6 +29,7 @@ class C5pack
     $fullpath = realpath($srcfile);
     
     if ($doctype != null);
+    else if (stripos($srcfile, 'corr')) $doctype = 'corr';
     else if (stripos($srcfile, 'articles')) $doctype = 'articles';
     else $doctype = 'livres';
     
@@ -37,6 +38,11 @@ class C5pack
     if ($doctype == "articles") {
       $bookpath = "/articles/".substr($filename, 4);
       $xsl = dirname(__FILE__).'/_engine/c5-articles.xsl';
+      $package = strtr($filename, array('-' => '_'));
+    }
+    else if ($doctype == "corr") {
+      $bookpath = "/correspondances/".substr($filename, 9);
+      $xsl = dirname(__FILE__).'/_engine/c5-corr.xsl';
       $package = strtr($filename, array('-' => '_'));
     }
     else if ($doctype == "livres") {
