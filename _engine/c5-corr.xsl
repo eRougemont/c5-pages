@@ -93,10 +93,10 @@
     <xsl:variable name="resp" select="@resp"/>
     <xsl:choose>
       <xsl:when test="@resp='editor'">
-        <xsl:number count="tei:note[@resp=$resp]" format="a" from="tei:div[@type='article']" level="any"/>
+        <xsl:number count="tei:note[@resp=$resp]" format="a" from="tei:div[@type='letter' or @type='article' or @type='chapter']" level="any"/>
       </xsl:when>
       <xsl:when test="@resp">
-        <xsl:number count="tei:note[@resp=$resp]" from="tei:div[@type='article']" level="any"/>
+        <xsl:number count="tei:note[@resp=$resp]" from="tei:div[@type='letter' or @type='article' or @type='chapter']" level="any"/>
       </xsl:when>
       <xsl:otherwise>
         <xsl:number count="tei:note[not(@resp) and not(@rend) and not(@place='margin') and not(parent::tei:div) and not(parent::tei:notesStmt)]" from="tei:div[@type='article']" level="any"/>
