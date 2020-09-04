@@ -55,7 +55,7 @@ class C5pack
     if(!file_exists($dstdir));
     else if(filemtime($dstdir.'/content.xml') > filemtime($srcfile)) return;
     echo $srcfile."\n";
-
+    touch($dstdir);
     
     $dom = self::dom($srcfile);
     $title = "";
