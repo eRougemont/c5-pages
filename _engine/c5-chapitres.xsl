@@ -34,51 +34,6 @@
       </pages>
     </concrete5-cif>
   </xsl:template>
-  <xsl:template name="book">
-    <xsl:variable name="title">
-      <xsl:variable name="rich">
-        <xsl:copy-of select="$doctitle"/>
-        <xsl:text> (</xsl:text>
-        <xsl:value-of select="$docdate"/>
-        <xsl:text>)</xsl:text>
-      </xsl:variable>
-      <xsl:value-of select="normalize-space($rich)"/>
-    </xsl:variable>
-    <page path="/livres/{$bookid}/toc" name="{$title}" package="{$bookid}" pagetype="livre" template="left_sidebar">
-      <attributes>
-        <attributekey handle="doctype">
-          <value>Chapitre</value>
-        </attributekey>
-        <attributekey handle="bookid">
-          <value>
-            <xsl:value-of select="$bookid"/>
-          </value>
-        </attributekey>
-        <attributekey handle="meta_title">
-          <value>
-            <xsl:value-of select="$title"/>
-          </value>
-        </attributekey>
-      </attributes>
-      <area name="Main">
-        <blocks>
-          <block type="content">
-            <data table="btContentLocal">
-              <record>
-                <content>
-                  <nav class="toclocal" id="toc">
-                    <ul>
-                      <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
-                    </ul>
-                  </nav>
-                </content>
-              </record>
-            </data>
-          </block>
-        </blocks>
-      </area>
-    </page>
-  </xsl:template>
   
   <xsl:template name="chapter">
     <xsl:variable name="chapid">

@@ -6,8 +6,7 @@
   exclude-result-prefixes="tei" 
   >
   <xsl:import href="../../Teinte/xsl/toc.xsl"/>
-  <xsl:output indent="yes" encoding="UTF-8" method="xml" omit-xml-declaration="no"/>
-  <xsl:variable name="livres" select="document('livres.xml')/*"/>
+  <xsl:output indent="yes" encoding="UTF-8" method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="split" select="true()"/>
   <xsl:key name="split" match="
     tei:*[self::tei:div or self::tei:div1 or self::tei:div2][normalize-space(.) != ''][@type][
@@ -17,9 +16,8 @@
     or contains(@type, 'act')  
     or contains(@type, 'poem')
     or contains(@type, 'letter')
-    ] 
-    | tei:group/tei:text 
-    | tei:TEI/tei:text/tei:*/tei:*[self::tei:div or self::tei:div1 or self::tei:group or self::tei:titlePage  or self::tei:castList][normalize-space(.) != '']" 
+    ]
+    " 
     use="generate-id(.)"/>
   <xsl:variable name="_html"></xsl:variable>
   <!-- prefix des liens -->
@@ -33,9 +31,9 @@
   </xsl:template>
   
   <xsl:template name="totoc">
-    <ul>
-      <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="toclocal"/>
-    </ul>
+    <nav class="toc_details">
+      <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="tocsplit"/>
+    </nav>
   </xsl:template>
 
   

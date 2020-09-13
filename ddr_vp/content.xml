@@ -18,7 +18,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19381125vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Le temps des fanatiques (25 novembre 1938)<a class="noteref" href="#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="#19381125"> §</a></h1>
+                    <h1 class="head article">Le temps des fanatiques (25 novembre 1938)<a class="noteref" href="19381125#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="19381125"> §</a></h1>
                     <p class="p autofirst">Ce ne sont plus des signes dans le ciel, mais des réalités terrestres et brutales qui nous avertissent aujourd’hui du caractère <em>religieux</em> de notre Histoire. Le fascisme est une religion, le communisme une antireligion. Croix gammée, faisceaux de licteur, faucille et marteau : trois cents millions de nos contemporains, s’ils ne portent pas sur eux cette Marque, se voient rejetés de la Cité.</p>
                     <p class="p">Alors les amateurs de clés de l’Apocalypse disent aux chrétiens : Voici la Bête ! Et la guerre que vous ferez contre elle, au nom du Christ, sera vraiment une guerre sainte.</p>
                     <p class="p">Trois fois déjà, depuis vingt ans, on nous a sommés de choisir entre le Mal et le Bien incarnés. « Au nom du Christ ; nous disait-on, en avant contre les Soviets ! Haro sur les rouges d’Espagne ! Déclarez la guerre à Hitler ! Ils persécutent les Églises chrétiennes. Lutter contre eux, c’est embrasser le parti du Bien. » Et nous voici embrigadés dans la « Croisade » — moralement, cela va sans dire… Dès lors, nous sommes en règle avec notre conscience. Il n’y a plus à discuter. Le temps des nuances est passé. L’état de siège est proclamé. Et celui qui demande à voir, celui qui estime encore que tout n’est pas si clair, ni si simple, ni si tranché, se voit aussitôt suspecté de connivence avec les « méchants ». Il fait leur jeu, dit-on, même s’il se croit sincère. C’est un naïf, ou un rusé, ou bien un lâche…</p>
@@ -29,9 +29,9 @@
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19381125#p.1">p. 1</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="#note1_">a. </a>« Le temps des fanatiques », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 25 novembre 1938, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous sommes heureux de compter, parmi les amis et collaborateurs de la <em>Vie protestante</em>, M. Denis de Rougemont, le jeune auteur romand dont la réputation n’est plus à faire. Nous lui laissons volontiers la parole, convaincus que nos lecteurs, même s’ils sont étonnés de certaines de ses expressions, sauront comprendre le point de vue chrétien auquel il se place. »</aside>
+                        <aside id="note1" class="note bottomnote"><a class="noteback" href="19381125#note1_">a. </a>« Le temps des fanatiques », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 25 novembre 1938, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous sommes heureux de compter, parmi les amis et collaborateurs de la <em>Vie protestante</em>, M. Denis de Rougemont, le jeune auteur romand dont la réputation n’est plus à faire. Nous lui laissons volontiers la parole, convaincus que nos lecteurs, même s’ils sont étonnés de certaines de ses expressions, sauront comprendre le point de vue chrétien auquel il se place. »</aside>
                       </div>
                     </section>
                   </article>
@@ -43,17 +43,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li class="here">
+                      <a href="#">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -77,17 +127,17 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19390901vp_01.jpg/full/full/0/default.jpg" id="p.8">[p. 8]</a>
-                    <h1 class="head article">Nicolas de Flue et la tradition réformée (1<sup class="sup">er</sup> septembre 1939)<a class="noteref" href="#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="#193901"> §</a></h1>
+                    <h1 class="head article">Nicolas de Flue et la tradition réformée (1<sup class="sup">er</sup> septembre 1939)<a class="noteref" href="193901#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="193901"> §</a></h1>
                     <p class="p autofirst">Tout ce que le Suisse romand moyen connaît de Nicolas de Flue, c’est que ce pieux ermite vint à la Diète de Stans pour apaiser les deux partis confédérés, à la veille d’une guerre civile. Quant au reste de la vie de Nicolas, on l’ignore très généralement. Il n’en va pas de même chez nos confédérés des petits cantons. Et c’est pourquoi les catholiques n’ont pas eu de peine à s’annexer le « frère Claus », cependant que les protestants l’abandonnaient sans grand chagrin. Situation très paradoxale, si l’on songe qu’au <span class="num">xvi<sup class="sup">e</sup></span> siècle, Nicolas fut revendiqué par tous les réformés de Suisse comme l’un de leurs plus grands précurseurs. Il m’a paru que la question méritait bien d’être reprise, du point de vue d’un réformé du <span class="num">xx<sup class="sup">e</sup></span> siècle. D’où la première étude d’ensemble que viennent de publier les <em>Cahiers Protestants</em>. Je suis heureux de l’occasion qui m’est offerte de préciser ici les résultats de mon enquête.</p>
                     <section id="body-2-1" class="div level2 level2">
-                      <h2 class="head">Une solitude active<a class="bookmark" href="#body-2-1"> §</a></h2>
+                      <h2 class="head">Une solitude active<a class="bookmark" href="193901#body-2-1"> §</a></h2>
                       <p class="p autofirst">Rappelons d’abord quelques faits importants. Nicolas de Flue ne devint ermite qu’après avoir atteint sa cinquantième année. Né au début du <span class="num">xv<sup class="sup">e</sup></span> siècle d’une famille paysanne de l’Obwald, il avait été capitaine, puis juge de paix, puis simple agriculteur, marié et père de dix enfants, lorsqu’il crut devoir obéir à l’appel de la solitude. C’est donc au terme d’une féconde carrière qu’il parvint à cette décision, non sans avoir mûrement pesé son acte et obtenu le consentement des siens. Nous ne sommes pas en présence d’un pauvre illuminé, mais d’un solide confédéré qui a fait ses preuves dans la vie quotidienne. Notons ensuite qu’au lieu d’entrer dans un couvent, Nicolas se retire dans une cabane construite non loin de sa ferme, au Ranft. Il y mènera jusqu’à sa mort la vie d’un pieux laïc et non d’un moine, parfois même suspecté par l’Église qui se méfie de cet « irrégulier ». Ne dit-on pas que, durant les vingt ans de sa retraite, il n’a pris d’autre nourriture que l’hostie, une fois par semaine ? L’évêque et les autorités ont bien tenté de l’espionner : jamais on ne l’a trouvé en faute. Entouré du respect de ses concitoyens, il reçoit chaque jour des visites, donne des conseils d’une grande sagesse pratique et participe si bien à la vie de son peuple que le simple message qu’il transmettra aux députés, lors de la fameuse Diète de Stans, sauvera la situation <em>in extremis</em>. Il n’aura pas besoin de paraître en personne ; son conseil suffira, et son autorité, pour calmer les passions déchaînées. Le Solitaire est donc devenu la principale force morale et politique de toute la Confédération.</p>
                       <p class="p">Deux faits surtout méritent de nous retenir, dans ce bref memento biographique.</p>
                       <p class="p">1° Malgré l’extrême rigueur de ses « pratiques », Nicolas n’a pas pu trouver la paix de son âme dans le monde. Il a dû se retirer et vivre en marge des conditions normales de l’existence. Signe du désarroi intime où la piété de l’Église non réformée laissait les âmes, les plus exigeantes, privées de tout contact direct avec la Bible.</p>
                       <p class="p">2° Dans son ermitage du Ranft, Nicolas ne s’est pas abandonné aux « saintes délices » de la contemplation. Il ne s’est libéré de certaines servitudes que pour mieux servir le Seigneur dans la personne de son prochain. II n’a renoncé à ses travaux de paysan que pour mieux travailler au bien de tous. En fin de compte, sa retraite hors du monde n’a pas anéanti, mais décuplé son action pratique sur le monde. Ce dernier point est capital. Car, après tout, si Nicolas est l’un des Pères de notre Confédération, c’est à son <em>action</em> qu’il le doit. S’il n’avait été qu’un ascète, nous ne saurions plus rien de lui. C’est pourquoi les réformateurs insistèrent à bon droit sur son rôle politique, tandis que les catholiques préféraient s’en tenir à l’éloge de son jeûne et de ses visions.</p>
                     </section>
                     <section id="body-2-2" class="div level2 level2">
-                      <h2 class="head">Nicolas et les réformés<a class="bookmark" href="#body-2-2"> §</a></h2>
+                      <h2 class="head">Nicolas et les réformés<a class="bookmark" href="193901#body-2-2"> §</a></h2>
                       <p class="p autofirst">Mort en 1487, c’est-à-dire trente ans avant la Réforme, Nicolas appartient à l’héritage commun des catholiques et des protestants suisses. Mais dès les premiers jours de la Réforme, la question se posa de savoir auquel des deux camps en présence son souvenir servirait de patronage. Si nous lisons les recueils de sources sur <em>Bruder Klaus</em> publiés par Dürrer en 1921, nous constatons que, dans l’ensemble, les positions furent très vite prises, et très nettement. « Tandis qu’à la manière traditionnelle — écrit le catholique Dürrer — les réformés gardaient avec reconnaissance le souvenir de l’action politique de Nicolas, Pacificateur des cantons et adversaire du régime des pensions, la Contre-Réformation insistait exclusivement sur l’aspect religieux du frère Claus, considéré comme témoin de l’ancienne foi, héraut de l’Eucharistie et prophète des malheurs dus à la Réforme. Pour des fins partisanes non dissimulées, les politiciens des cinq cantons catholiques cherchent leur salut dans des soutiens extérieurs, et les publicistes jésuites, pour la plupart étrangers, tentent d’éluder l’action politique du frère Claus. Ils ne signalent pas l’événement de la Diète de Stans, ni le patriotisme confédéral de Nicolas, qui incommodaient au suprême degré ces hommes d’état enrichis par les pensions et le service étranger. (R. Dürrer : <em>Bruder Klaus</em>, t. II, p. 851.)</p>
                       <p class="p">Rien d’étonnant, dès lors, si les premières biographies sérieuses de Nicolas sont dues à la plume de disciples ou d’amis des réformateurs : Myconius, de Zurich ; Ritter, de Saint-Gall ; Valerius Anshelm, de Berne (dès 1529) ; Stumpf, pasteur à Stein, et, finalement, Bullinger lui-même, le célèbre successeur de Zwingli. Tous ces auteurs admettent et louent le miracle du jeûne prolongé de Nicolas. Seul le mystique luthérien Sébastien Franck dit à la fin de sa chronique : « Qu’il n’ait rien mangé, je ne puis le croire : les Suisses eux-mêmes ne l’affirment et ne le croient pas. » Rappelons que lorsqu’on demandait à Nicolas comment il pouvait vivre « sans nourriture corporelle », il se bornait à dire : « Dieu le sait… »</p>
                       <p class="p">Rien d’étonnant non plus si, en 1522, un pamphlet catholique anonyme se plaint de ce que les réformés invoquent sans cesse les conseils de l’ermite dès qu’il s’agit des affaires publiques. Après tout, dit l’auteur, à quoi se résument ces conseils ? À ceci : « <em>que chacun doit rester sur son fumier</em> » ! Mais Nicolas n’a-t-il pas dit aussi qu’il fallait garder l’« ancienne foi » ! Voilà le conseil que les protestants devraient suivre !</p>
@@ -97,7 +147,7 @@
                       <p class="p">En 1556, Matthias Flacius l’Illyrique, le père de l’histoire de l’Église chez les protestants, fait l’éloge de Nicolas dans un ouvrage au titre significatif : « <em>Catalogue des témoins de la foi qui se sont dressés, avant Martin Luther, contre le pape et ses erreurs</em> ». Enfin, s’il était besoin d’une attestation plus décisive encore, voici celle de Luther en personne. Il écrit dans une lettre à Speratus : « <em>Joignez le frère Claus à tous ceux qui ont témoigné pour le Christ contre l’Antéchrist</em>. »</p>
                     </section>
                     <section id="body-2-3" class="div level2 level2">
-                      <h2 class="head">Nicolas et le théâtre protestant<a class="bookmark" href="#body-2-3"> §</a></h2>
+                      <h2 class="head">Nicolas et le théâtre protestant<a class="bookmark" href="193901#body-2-3"> §</a></h2>
                       <p class="p autofirst">L’une des meilleures preuves de l’adoption spontanée de Nicolas non seulement par les docteurs réformés, mais par les populations protestantes, je la trouve dans le théâtre de l’époque.</p>
                       <p class="p">Voici tout d’abord deux satires dialoguées, datées de 1526 et de 1538 ; elles font intervenir l’ermite du côté des réformés, ennemis du régime des pensions. Il s’agit là de pièces d’actualité, d’intentions nettement polémiques.</p>
                       <p class="p">Beaucoup plus vaste est la portée d’un mystère intitulé <em>Le Miroir du Monde</em>, qui fut joué à Bâle en 1550. Ce premier drame sur Nicolas de Flue est l’œuvre d’un protestant, l’Alsacien Valentin Boltz. Il ne comptait pas moins de 149 rôles parlés, et sa représentation demanda deux jours pleins, nous dit Dürrer. Nicolas y personnifie l’idée confédérale, créatrice de la Suisse. Autour de lui, gravitent des figures symboliques ou historiques : les Treize Cantons, des apôtres, des prophètes et des représentants de la hiérarchie catholique.</p>
@@ -111,9 +161,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.8">p. 8</a>
+                          <a href="193901#p.8">p. 8</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="#note2_">a. </a>« Nicolas de Flue et la tradition réformée », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 1<sup class="sup">er</sup> septembre 1939, p. 8.</aside>
+                        <aside id="note2" class="note bottomnote"><a class="noteback" href="193901#note2_">a. </a>« Nicolas de Flue et la tradition réformée », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 1<sup class="sup">er</sup> septembre 1939, p. 8.</aside>
                       </div>
                     </section>
                   </article>
@@ -125,17 +175,78 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                      <ul>
+                        <li>
+                          <a href="193901#body-2-1">Une solitude active</a>
+                        </li>
+                        <li>
+                          <a href="193901#body-2-2">Nicolas et les réformés</a>
+                        </li>
+                        <li>
+                          <a href="193901#body-2-3">Nicolas et le théâtre protestant</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -159,7 +270,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19400315vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">De Luther à Hitler (15 mars 1940)<a class="noteref" href="#note3" id="note3_"><sup>a</sup></a><a class="bookmark" href="#19400315"> §</a></h1>
+                    <h1 class="head article">De Luther à Hitler (15 mars 1940)<a class="noteref" href="19400315#note3" id="note3_"><sup>a</sup></a><a class="bookmark" href="19400315"> §</a></h1>
                     <p class="p autofirst">Nous n’avons plus le droit de nous tromper dans nos jugements sur les choses allemandes. Toute erreur, si minime soit-elle, toute appréciation erronée des origines, des fins et de la pratique hitlériennes, non seulement affaiblissent la résistance actuelle aux doctrines totalitaires, mais compromettent les chances d’une solution prochaine, équitable pour tous, et englobant les pays germaniques.</p>
                     <p class="p">Or l’erreur qui consiste à placer Luther au début d’une évolution dont Hitler serait le terme, ce n’est pas une erreur minime. Elle résulte tantôt d’une mauvaise foi consciente, et qui se voudrait « machiavélique », tantôt d’une ignorance inqualifiable des faits les plus notoires et les plus importants de notre histoire occidentale. J’estime qu’elle a suffisamment duré. Je suis prêt à la dénoncer dans toutes les revues et dans tous les journaux qui veulent bien publier ma prose.</p>
                     <p class="p">Il est bien clair que les milieux où cette erreur est professée y voient une arme non pas contre l’Allemagne, mais d’abord contre la Réforme : l’assimilation grossière de Luther à Hitler n’est évidemment pas destinée à diminuer le prestige du second, mais bien à englober le premier dans la réprobation que provoque le racisme. Est-ce une tactique adroite et justifiable, au moment où toutes les Églises sont appelées, par ailleurs, à faire un « front commun » contre la religion totalitaire ?</p>
@@ -176,9 +287,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19400315#p.1">p. 1</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="#note3_">a. </a>« De Luther à Hitler », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 mars 1940, p. 1.</aside>
+                        <aside id="note3" class="note bottomnote"><a class="noteback" href="19400315#note3_">a. </a>« De Luther à Hitler », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 mars 1940, p. 1.</aside>
                       </div>
                     </section>
                   </article>
@@ -190,17 +301,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -224,7 +385,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19400426vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">« Dieu premier servi » (26 avril 1940)<a class="noteref" href="#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="#19400426"> §</a></h1>
+                    <h1 class="head article">« Dieu premier servi » (26 avril 1940)<a class="noteref" href="19400426#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="19400426"> §</a></h1>
                     <p class="p autofirst">On a beaucoup dit que le secret de la résistance finlandaise était la foi profonde de ce peuple. En défendant leur terre, les soldats finnois avaient conscience de défendre aussi leur Église.</p>
                     <p class="p">Mais il existe d’autres pays où la foi d’un soldat chrétien pourrait avoir des effets exactement contraires. Elle pourrait amener ce soldat à refuser de défendre l’État qui persécute son Église. Dis-moi pour qui tu acceptes de mourir, je te dirai en qui tu crois <em>vraiment</em>…</p>
                     <p class="p">Ces deux exemples contradictoires posent la question la plus brûlante de l’époque : celle de l’attitude du chrétien en face de ses devoirs civiques et militaires. Là-dessus, quelques remarques à propos de la Suisse.</p>
@@ -237,9 +398,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19400426#p.1">p. 1</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="#note4_">a. </a>« “Dieu premier servi” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 avril 1940, p. 1.</aside>
+                        <aside id="note4" class="note bottomnote"><a class="noteback" href="19400426#note4_">a. </a>« “Dieu premier servi” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 avril 1940, p. 1.</aside>
                       </div>
                     </section>
                   </article>
@@ -251,17 +412,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -285,7 +496,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19400503vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Neutralité (3 mai 1940)<a class="noteref" href="#note5" id="note5_"><sup>a</sup></a><a class="bookmark" href="#19400503"> §</a></h1>
+                    <h1 class="head article">Neutralité (3 mai 1940)<a class="noteref" href="19400503#note5" id="note5_"><sup>a</sup></a><a class="bookmark" href="19400503"> §</a></h1>
                     <p class="p autofirst"><em> M. Denis de Rougemont a eu l’aimable pensée de nous communiquer le « billet » ci-dessous qui paraîtra prochainement dans un volume intitulé</em> : <a href="../work/ddr-vpbis/livres/ddr1940mds">Mission ou démission de la Suisse</a> .</p>
                     <p class="p">Pendant tout l’hiver, nous avons pu lire dans les journaux cet avertissement sybillin : « Température maximum : 18° ». Il s’agissait sans doute d’inciter le public à des économies de charbon. On nous recommandait la tiédeur…</p>
                     <p class="p">Mais voici nos voisins belligérants qui viennent nous dire : « Ceux qui ne sont ni froids ni bouillants seront vomis ».</p>
@@ -302,9 +513,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19400503#p.1">p. 1</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="#note5_">a. </a>« Neutralité », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 mai 1940, p. 1.</aside>
+                        <aside id="note5" class="note bottomnote"><a class="noteback" href="19400503#note5_">a. </a>« Neutralité », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 mai 1940, p. 1.</aside>
                       </div>
                     </section>
                   </article>
@@ -316,17 +527,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -350,7 +611,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19420102vp_01.jpg/full/full/0/default.jpg" id="p.4">[p. 4]</a>
-                    <h1 class="head article">Perspectives d’avenir du protestantisme (2 janvier 1942)<a class="noteref" href="#note6" id="note6_"><sup>a</sup></a><a class="bookmark" href="#19420102"> §</a></h1>
+                    <h1 class="head article">Perspectives d’avenir du protestantisme (2 janvier 1942)<a class="noteref" href="19420102#note6" id="note6_"><sup>a</sup></a><a class="bookmark" href="19420102"> §</a></h1>
                     <p class="p autofirst">
                       <em> Le texte que nous publions est la conclusion d’une conférence que M. Denis de Rougemont a donnée en septembre à Rio de la Plata, sous les auspices de l’Église évangélique de langue française.</em>
                     </p>
@@ -363,9 +624,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.4">p. 4</a>
+                          <a href="19420102#p.4">p. 4</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="#note6_">a. </a>« Perspectives d’avenir du protestantisme », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 2 janvier 1942, p. 4.</aside>
+                        <aside id="note6" class="note bottomnote"><a class="noteback" href="19420102#note6_">a. </a>« Perspectives d’avenir du protestantisme », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 2 janvier 1942, p. 4.</aside>
                       </div>
                     </section>
                   </article>
@@ -377,17 +638,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -411,7 +722,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431015vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)<a class="noteref" href="#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="#19431015"> §</a></h1>
+                    <h1 class="head article">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)<a class="noteref" href="19431015#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="19431015"> §</a></h1>
                     <p class="p autofirst">C’est dans les <em>Petits poèmes en prose</em> de Baudelaire que l’on peut lire la phrase la plus profonde écrite par un moderne sur Satan : « La plus belle ruse du Diable est de nous persuader qu’il n’existe pas. »</p>
                     <p class="p">Reconnaissons que ce tour n’a jamais mieux réussi que dans l’époque contemporaine. Même quand nous croyons « encore » en Dieu, nous croyons si peu au Diable que l’on m’accusera certainement d’obscurantisme, ou simplement de manque de sérieux, si je persiste en mon projet de lui consacrer de nombreuses pages.</p>
                     <p class="p">Le premier tour du Diable est son <em>incognito</em>.</p>
@@ -425,9 +736,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19431015#p.1">p. 1</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="#note7_">a. </a>« Les tours du diable I : “Je ne suis personne” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 octobre 1943, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous avons eu l’occasion de lire les réflexions d’une perspicacité peu ordinaire sur l’existence personnelle du Diable, due à la plume de Denis de Rougemont. Nous n’avons pas à présenter l’écrivain neuchâtelois aux lecteurs de la <em>Vie protestante</em>. La qualité de sa pensée et l’autorité de son jugement sont reconnues bien au-delà de nos frontières. Nous dirions volontiers qu’il est aujourd’hui un des meilleurs interprètes laïques d’une théologie protestante constructive. Sous le titre “Les tours du Diable”, nous sommes heureux de pouvoir donner ici une première étude de l’auteur. Nous nous proposons d’apporter encore, dans nos prochains numéros, quelques-unes des pages remarquables qu’on a bien voulu mettre à notre disposition. »</aside>
+                        <aside id="note7" class="note bottomnote"><a class="noteback" href="19431015#note7_">a. </a>« Les tours du diable I : “Je ne suis personne” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 15 octobre 1943, p. 1. Le texte est précédé de la note suivante de la rédaction : « Nous avons eu l’occasion de lire les réflexions d’une perspicacité peu ordinaire sur l’existence personnelle du Diable, due à la plume de Denis de Rougemont. Nous n’avons pas à présenter l’écrivain neuchâtelois aux lecteurs de la <em>Vie protestante</em>. La qualité de sa pensée et l’autorité de son jugement sont reconnues bien au-delà de nos frontières. Nous dirions volontiers qu’il est aujourd’hui un des meilleurs interprètes laïques d’une théologie protestante constructive. Sous le titre “Les tours du Diable”, nous sommes heureux de pouvoir donner ici une première étude de l’auteur. Nous nous proposons d’apporter encore, dans nos prochains numéros, quelques-unes des pages remarquables qu’on a bien voulu mettre à notre disposition. »</aside>
                       </div>
                     </section>
                   </article>
@@ -439,17 +750,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -473,7 +834,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431022vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)<a class="noteref" href="#note8" id="note8_"><sup>a</sup></a><a class="bookmark" href="#19431022"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)<a class="noteref" href="19431022#note8" id="note8_"><sup>a</sup></a><a class="bookmark" href="19431022"> §</a></h1>
                     <p class="p autofirst">L’homme seul, dans toute la Création, peut dire ce qui n’est pas et mentir par ses actes.</p>
                     <p class="p">Le minéral repose où il fut composé, la plante pousse où se fixa la graine, les animaux muets sont prisonniers de l’ordre intarissablement prodigue et infaillible de l’instinct. Mais l’homme a reçu le pouvoir de parler, de créer et de dénaturer. Par la grâce du langage, il peut dire vrai ; par la faute du langage, il peut le contredire. Il peut créer dans le prolongement des perspectives de la Création, il peut aussi créer à tort et à travers. Il peut être un agent responsable de la nature naturante, mais il peut aussi faire la grève, se révolter, et fabriquer l’antinature ou <em>dénature</em>.</p>
                     <p class="p">Cette duplicité de nos pouvoirs constitue notre liberté. Elle en est à la fois le signe et la condition nécessaire. Elle est notre gloire équivoque.</p>
@@ -487,9 +848,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431022#p.2">p. 2</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="#note8_">a. </a>« Les tours du Diable II : Le menteur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 22 octobre 1943, p. 2.</aside>
+                        <aside id="note8" class="note bottomnote"><a class="noteback" href="19431022#note8_">a. </a>« Les tours du Diable II : Le menteur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 22 octobre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -501,17 +862,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -535,7 +946,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431029vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)<a class="noteref" href="#note9" id="note9_"><sup>a</sup></a><a class="bookmark" href="#19431029"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)<a class="noteref" href="19431029#note9" id="note9_"><sup>a</sup></a><a class="bookmark" href="19431029"> §</a></h1>
                     <p class="p autofirst">Le jeune lecteur — et peut-être aussi le moins jeune — se dira : Tiens, voilà un sujet… Quel dommage ! Sa curiosité pourrait bien être déçue. Voyons.</p>
                     <p class="p">Tout le monde s’imagine que le péché par excellence réside dans la sexualité. L’illusion s’aperçoit d’une manière assez simple : la sexualité est le domaine des tentations à la fois les plus sensibles et les plus communes. Assez peu d’hommes sont réellement tentés de voler le portefeuille du voisin, mais presque tout homme s’est vu tenter de prendre la femme du voisin, soit en recourant aux raisons pathétiques — « c’est vital ! » —, soit en se persuadant que « ça n’a pas d’importance » ; ou les deux ensemble.</p>
                     <p class="p">En vérité, la sexualité en soi n’est pas plus diabolique que la digestion ou la respiration. Si la majorité des Occidentaux se figurent que le péché originel fut l’acte sexuel, dont la consommation de la pomme serait le symbole, c’est parce qu’ils assimilent le péché en général à la tentation par excellence, qui se trouve être à leurs yeux la sexualité. C’est une vue bien bornée du péché ! Car même dans le cas où le fruit mangé par Ève signifierait ce que l’on croit, notez que ce n’est pas le geste de manger une pomme qui était mauvais aux yeux de l’Éternel, ni la pomme en soi (au contraire), mais seulement la <em>révolte</em> d’Ève et son désir de se diviniser à sa façon. Si la sexualité pouvait rester pure, c’est-à-dire purement animale, comme les autres fonctions du corps, le Diable ne s’y mêlerait pas. Mais en fait elle se lie à l’amour, et à l’esprit, et c’est par là qu’elle va se pervertir et devenir à son tour source de perversion. La paillardise joyeuse est certainement l’une des formes les moins diaboliques du péché. Je n’en dirais pas autant de certaines amours pseudo-mystiques, nœuds de sophismes spirituels où le Serpent se love avec délices.</p>
@@ -546,9 +957,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431029#p.2">p. 2</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="#note9_">a. </a>« Les tours du Diable III : Diable et sexe », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 octobre 1943, p. 2.</aside>
+                        <aside id="note9" class="note bottomnote"><a class="noteback" href="19431029#note9_">a. </a>« Les tours du Diable III : Diable et sexe », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 octobre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -560,17 +971,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -594,7 +1055,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431105vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)<a class="noteref" href="#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="#19431105"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)<a class="noteref" href="19431105#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="19431105"> §</a></h1>
                     <p class="p autofirst">Il n’est peut-être au monde qu’une seule chose pire que de douter du bien et du réel, et c’est de douter du pardon, une fois qu’on a trahi le bien et le réel. Car douter du pardon nous replonge dans le mal, avec la sombre jouissance masochiste des « après moi le déluge » et des « tant pis pour moi ». Il faut croire au pardon pour oser confesser le mal qu’on a commis ; pour oser qualifier de faute sa propre faute ; et pour que puisse renaître la confiance qui donnera seule le courage de rebâtir. Celui qui doute du pardon ne peut pas confesser son crime, et celui qui ne le confesse pas n’en connaîtra jamais toute l’étendue.</p>
                     <p class="p">Le Diable est cet Accusateur qui veut nous faire douter de notre pardon pour nous forcer à fuir dans les remèdes du pire. L’Apocalypse le désigne comme « l’Accusateur de nos frères, celui qui les accuse devant Dieu jour et nuit ». C’est lui qui demandait la tête de Job devant le tribunal céleste. Non content de nous prendre à ses pièges, sitôt qu’il nous a pris il est le premier à nous dénoncer devant Dieu de la manière la plus impitoyable. Non par amour de la justice, mais par amour de notre châtiment, par haine froide. Pour le stérile plaisir d’avoir raison.</p>
                     <p class="p">Aussi, partout où l’on condamne <em>sans pitié</em> son prochain ou soi-même, soyez sûrs que c’est le Diable qui parle, l’Accusateur qui tient le pardon pour une simple faute de logique, la grâce pour une erreur de calcul statistique.</p>
@@ -603,9 +1064,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431105#p.2">p. 2</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="#note10_">a. </a>« Les tours du Diable IV : L’accusateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 5 novembre 1943, p. 2.</aside>
+                        <aside id="note10" class="note bottomnote"><a class="noteback" href="19431105#note10_">a. </a>« Les tours du Diable IV : L’accusateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 5 novembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -617,17 +1078,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -651,7 +1162,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431112vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)<a class="noteref" href="#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="#19431112"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)<a class="noteref" href="19431112#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="19431112"> §</a></h1>
                     <p class="p autofirst"><em>« Le serpent était le plus rusé de tous les animaux des champs que l’Éternel Dieu avait faits. Il dit à la femme : Dieu a-t-il réellement dit : vous ne mangerez pas de tous les arbres du jardin ? La femme répondit au serpent : nous mangeons du fruit des arbres du jardin. Mais quant au fruit de l’arbre qui est au milieu du jardin, Dieu a dit : vous n’en mangerez point et vous n’y toucherez point, de peur que vous n’en mouriez. Alors le serpent dit à la femme : vous ne mourrez point. Mais Dieu sait que le jour où vous en mangerez, vos yeux s’ouvriront, et que vous serez comme des dieux, connaissant le bien et le mal. »</em> (Gen. 3:1 à 5)</p>
                     <p class="p">Voyez : avant la tentation proprement dite, il y a le doute ! Le premier procédé du Démon, c’est de jeter un doute sur la réalité de la loi divine, et donc sur la réalité elle-même et ses structures. « Dieu a-t-il réellement dit ?… » Sitôt que cette incertitude est insinuée dans un esprit, la possibilité d’une tentation s’entrouvre. Car il n’y a pas de tentation là où n’existe aucune possibilité d’imaginer quelque autre chose que l’état de fait. On dit bien : l’occasion fait le larron. Vous n’êtes pas tenté d’aller dans la lune, parce que vous savez que c’est absolument impossible. Mais vous seriez probablement tenté d’y aller, si l’on vous suggérait quelque moyen de le faire. Ève ne pensait même pas à manger cette pomme avant que le Serpent n’ait mis en doute la réalité de l’ordonnance de Dieu. À l’origine de toute tentation, il y a l’occasion entrevue d’aller à la divinité par un plus court chemin que celui du réel ; par un chemin que l’on inventerait soi-même, en dépit des interdictions que posent les lois de la Création, l’ordre divin et la nature de l’homme.</p>
                     <p class="p">Et voici le deuxième temps de la tentation :</p>
@@ -663,9 +1174,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431112#p.2">p. 2</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="#note11_">a. </a>« Les tours du Diable V : Le tentateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 12 novembre 1943, p. 2.</aside>
+                        <aside id="note11" class="note bottomnote"><a class="noteback" href="19431112#note11_">a. </a>« Les tours du Diable V : Le tentateur », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 12 novembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -677,17 +1188,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -711,7 +1272,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431119vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)<a class="noteref" href="#note12" id="note12_"><sup>a</sup></a><a class="bookmark" href="#19431119"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)<a class="noteref" href="19431119#note12" id="note12_"><sup>a</sup></a><a class="bookmark" href="19431119"> §</a></h1>
                     <p class="p autofirst">Le philanthrope ou le mondain, l’artiste, l’auteur, et l’homme qui réussit, cette galerie de victimes est classique au point d’en être presque démodée. Car Satan marche avec <em>son</em> temps, et paraît se soucier de moins en moins de persuader l’individu, dans une époque où celui-ci n’existe guère. Son ambition se tourne vers les masses. Ici nous abordons enfin la grande stratégie du Diable dans ce siècle.</p>
                     <p class="p">La meilleure interprétation des phénomènes collectifs d’aujourd’hui fut donnée vers 1848 par l’écrivain danois Kierkegaard, le penseur capital de notre ère. Voici ce que l’on peut lire dans son journal intime :</p>
                     <blockquote class="quote">En opposition aux distinctions du Moyen Âge et des époques qui discutaient sans fin les cas de possession, c’est-à-dire d’individus particuliers se livrant au mal, je voudrais écrire un livre <em>sur la possession diabolique dans les temps modernes</em>, et montrer comment l’humanité qui se donne au Diable, de nos jours, le fait en masse. C’est pour cela que les gens se rassemblent en troupeaux, pour que l’hystérie naturelle et animale s’empare d’eux, pour qu’ils se sentent stimulés, enflammés et <em>hors d’eux-mêmes</em>. Les scènes du Blocksberg sont le pendant exact de ces plaisirs démoniaques, qui consistent à se perdre soi-même, à se laisser volatiliser dans une puissance supérieure, au sein de laquelle, ayant perdu son moi, on ne sait plus ce que l’on est en train de faire ou de dire, on ne sait plus ce qui parle à travers vous, tandis que le sang court plus vite, que les yeux brillent et deviennent fixes, et que les passions bouillonnent.</blockquote>
@@ -729,9 +1290,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431119#p.2">p. 2</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="#note12_">a. </a>« Les tours du Diable VI : Le mal du siècle : la dépersonnalisation », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 19 novembre 1943, p. 2.</aside>
+                        <aside id="note12" class="note bottomnote"><a class="noteback" href="19431119#note12_">a. </a>« Les tours du Diable VI : Le mal du siècle : la dépersonnalisation », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 19 novembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -743,17 +1304,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -777,7 +1388,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431126vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)<a class="noteref" href="#note13" id="note13_"><sup>a</sup></a><a class="bookmark" href="#19431126"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)<a class="noteref" href="19431126#note13" id="note13_"><sup>a</sup></a><a class="bookmark" href="19431126"> §</a></h1>
                     <p class="p autofirst">J’ai dit du mal de tout le monde — des autres, de nous, et donc de moi aussi. Mais si le Diable est partout, sa figure se brouille. Et les définitions que j’en ai données successivement, à force de se compenser, finissent par se neutraliser. Vos descriptions, me dira-t-on, ne sont pas bien claires. Pourquoi ne pas nous donner une image nette et facilement reconnaissable de la personne de Satan ?</p>
                     <p class="p">C’est que le Diable est justement celui qui n’est jamais clairement et honnêtement définissable. Il est celui qui s’arrange toujours pour être à la fois juge et partie dans le procès de sa définition. Un être paradoxal pas essence. Il est, oui, mais il est dans tout être <em>ce qui n’est pas</em>, ce qui tend au néant, ce qui souhaite secrètement la destruction de l’existence, — celle des autres ou la sienne propre. Sa qualité de n’être pas ceci ou cela de positif lui donne une liberté indéfinie d’action, d’incognito et d’alibis à perte de vue.</p>
                     <p class="p">Vulgaire et séduisant, pharisien et voyou, hypocrite et cynique à la fois, repoussant mais non moins fascinant, il est sans doute la créature la plus poétique du monde, au sens romantique de ce terme. Il est beau aux yeux des naïfs qui croient que le mal doit être laid ; et il est d’une laideur irrésistiblement attirante aux yeux des désabusés et des raffinés. En bref, il n’est jamais où vous pensiez le trouver. Il imite, en la caricaturant, l’action même du Saint-Esprit, toujours ambiguë pour notre doute et déconcertante pour notre raison.</p>
@@ -789,9 +1400,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431126#p.2">p. 2</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="#note13_">a. </a>« Les tours du Diable VII : La cinquième colonne », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 novembre 1943, p. 2.</aside>
+                        <aside id="note13" class="note bottomnote"><a class="noteback" href="19431126#note13_">a. </a>« Les tours du Diable VII : La cinquième colonne », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 26 novembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -803,17 +1414,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -837,7 +1498,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431203vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)<a class="noteref" href="#note14" id="note14_"><sup>a</sup></a><a class="bookmark" href="#19431203"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)<a class="noteref" href="19431203#note14" id="note14_"><sup>a</sup></a><a class="bookmark" href="19431203"> §</a></h1>
                     <p class="p autofirst">Le <span class="num">xix<sup class="sup">e</sup></span> siècle, sans s’en douter, a remplacé la Providence par le <em>progrès automatique</em>. Devant les résultats présents de cette croyance quasi universelle dans les masses et l’élite, l’on est induit à reconnaître que le Progrès automatique n’était qu’un déguisement du Diable. Non pas qu’aucun progrès réel soit diabolique en soi ! Mais si l’on s’abandonne au rêve du Progrès, laissant aller les choses avec l’arrière-pensée fataliste et réconfortante que tout s’arrangera de soi-même, dans l’ensemble et à la longue, alors le Progrès devient le plus dangereux des soporifiques, une véritable drogue du Démon, l’un de ses nouveaux noms.</p>
                     <p class="p">Nous avons cru à la <em>bonté foncière de l’homme</em>. Par gentillesse pour les autres, évidemment… Mais c’est toujours une manière de croire aussi à sa propre bonté. Et donc de s’aveugler sur le mal que l’on porte en soi. Et donc de ne pas se soucier de la présence active du Démon. Et donc enfin de lui laisser le champ libre pour nous duper.</p>
                     <p class="p">Nous avons cru que <em>le mal était relatif</em> dans le monde, qu’il provenait d’une mauvaise répartition des biens, d’une éducation mal comprise, de lois inadéquates, ou de refoulements et d’injustices qui pouvaient être éliminés par des mesures adroites. Toutes ces croyances, en grande partie superstitieuses, ont eu pour principal effet de nous aveugler sur la réalité de l’homme, c’est-à-dire sur la réalité essentielle du mal enraciné dans notre liberté, dans nos données premières, dans la nature et dans la définition même de l’homme en tant qu’il est humain.</p>
@@ -855,9 +1516,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431203#p.2">p. 2</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="#note14_">a. </a>« Les tours du Diable VIII : Le Diable démocrate », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 décembre 1943, p. 2.</aside>
+                        <aside id="note14" class="note bottomnote"><a class="noteback" href="19431203#note14_">a. </a>« Les tours du Diable VIII : Le Diable démocrate », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 3 décembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -869,17 +1530,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -903,7 +1614,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431210vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)<a class="noteref" href="#note15" id="note15_"><sup>a</sup></a><a class="bookmark" href="#19431210"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)<a class="noteref" href="19431210#note15" id="note15_"><sup>a</sup></a><a class="bookmark" href="19431210"> §</a></h1>
                     <p class="p autofirst">Chacun sait que les « primitifs » de la Mélanésie, victimes des plus célèbres études sociologiques du siècle, ont coutume de personnifier les forces mauvaises qui les menacent, les causes des crimes, des accidents, de la stérilité ou de la mort. Que ce soit un sorcier, un profanateur du sacré, un animal, un nuage, un bout de bois colorié, toujours la cause du mal dont souffrent ces sauvages est indépendante d’eux-mêmes.</p>
                     <p class="p">À l’inverse, le Christianisme s’est efforcé depuis des siècles de nous faire comprendre que le Royaume de Dieu est en nous, que le Mal aussi est en nous, et que le champ de leur bataille n’est pas ailleurs que dans nos cœurs. Cette éducation a largement échoué. Nous persistons dans notre primitivisme. Nous rendons responsables de nos maux les gens d’en face, toujours, ou la force des choses. Si nous sommes révolutionnaires, nous croyons qu’en changeant la disposition de certains objets — en déplaçant les richesses, par exemple — nous supprimerons les causes des maux du siècle. Si nous sommes des capitalistes, nous croyons qu’en déplaçant vers nous ces mêmes objets, nous sauverons tout. Si nous sommes de braves démocrates, inquiets ou optimistes, nous croyons qu’en rôtissant quelques dictateurs, profanateurs du droit, ou « sorciers », nous rétablirons la paix et la prospérité. Nous sommes encore en pleine mentalité magique. Comme de petits enfants en colère, nous battons la table à laquelle nous nous sommes heurtés. Ou comme Xerxès, nous flagellons les eaux de l’Hellespont, à grands coups de discours sur les ondes courtes.</p>
                     <p class="p">Nous oublions ce fait fondamental : c’est qu’en réalité nos adversaires ne diffèrent pas <em>essentiellement</em> de nous. Car tout homme porte dans son corps (et dans son âme) les microbes de toutes les maladies connues, et de bien d’autres. Anéantir les signes extérieurs de la menace ne serait nullement suffisant pour nous en délivrer. Ces signes personnifient des possibilités qui existent en nous aussi, des tentations latentes qui pourraient bien se développer un jour, à la faveur de la misère ou de la fatigue, ou de quelque déséquilibre temporaire.</p>
@@ -920,9 +1631,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431210#p.2">p. 2</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="#note15_">a. </a>« Les tours du Diable IX : “Nous sommes tous coupables” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 10 décembre 1943, p. 2.</aside>
+                        <aside id="note15" class="note bottomnote"><a class="noteback" href="19431210#note15_">a. </a>« Les tours du Diable IX : “Nous sommes tous coupables” », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 10 décembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -934,17 +1645,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -968,7 +1729,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431217vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)<a class="noteref" href="#note16" id="note16_"><sup>a</sup></a><a class="bookmark" href="#19431217"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)<a class="noteref" href="19431217#note16" id="note16_"><sup>a</sup></a><a class="bookmark" href="19431217"> §</a></h1>
                     <p class="p autofirst">Qui donc disait que le Diable est un monsieur très bien ? Entre les gens du monde et le Prince de ce monde, les mots suggèrent, dans presque toutes les langues, certaines complicités particulières. Et le peuple, inspiré peut-être par les traditionnels avertissements de la chaire chrétienne, a toujours vu dans la « mondanité » quelque chose de vaguement satanique. Il imaginerait volontiers un Diable en cravate blanche et monoclé.</p>
                     <p class="p">Le Diable, dit un proverbe espagnol, n’est pas à craindre parce qu’il est si méchant, mais parce qu’il est si vieux. C’est ce que l’on peut penser aussi des gens du monde, et de la sagesse mondaine en général. Elle a son charme et son utilité ; mais elle est vieille, elle est trop avertie, elle offre trop de recettes éprouvées : elle finit par ne plus croire au bien, ni au sérieux, ni à la naïveté, cette insondable ruse des cœurs purs qui leur permet de passer au travers des cercles vicieux de la raison et de l’égoïsme « bien compris ».</p>
                     <p class="p">La fonction normale de la vie mondaine serait de maintenir et d’illustrer un certain nombre de devises d’élégance morale et de sagesse pratique. Il n’y a rien là de diabolique, tout au contraire. Le jeu mondain, s’il est bien joué, ménage autant de liberté qu’il ne suppose, dit-on, d’hypocrisie. Il a le charme reposant des formes fixes. Mais le mondain qui n’est que cela inspire une sorte d’effroi furtif, révélateur d’une présence perverse au sein même de l’insignifiance. L’exactitude impitoyable de ses jugements, qui ne portent d’ailleurs que sur des apparences ; sa capacité d’éliminer froidement ce qui n’est pas conforme aux goûts appris ; sa propension presque maniaque à n’attacher de l’importance qu’à un détail fortuit dans un être ou une œuvre ; tous ces traits qui pourraient dénoter l’exigence d’un artiste véritable, prennent soudain quelque chose de satanique lorsque l’on s’aperçoit de la stérilité du personnage, et des effets stérilisants qu’entraîne sa fréquentation. Ce n’est pas le goût ni même le pédantisme de la forme qui est satanique, c’est le goût de la forme imitée.</p>
@@ -977,9 +1738,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431217#p.2">p. 2</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="#note16_">a. </a>« Les tours du Diable X : Le Diable homme du monde », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 17 décembre 1943, p. 2.</aside>
+                        <aside id="note16" class="note bottomnote"><a class="noteback" href="19431217#note16_">a. </a>« Les tours du Diable X : Le Diable homme du monde », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 17 décembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -991,17 +1752,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -1025,7 +1836,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19431224vp_01.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
-                    <h1 class="head article">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)<a class="noteref" href="#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="#19431224"> §</a></h1>
+                    <h1 class="head article">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)<a class="noteref" href="19431224#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="19431224"> §</a></h1>
                     <p class="p autofirst">Nous avons parlé de l’incognito du Diable. Mais il existe aussi un incognito divin, et c’est l’Incarnation, c’est-à-dire Dieu caché autant que révélé dans l’homme Jésus. Quelques-uns seulement surent reconnaître le Christ dans le fils de Joseph, charpentier de village. Mais l’incognito et l’alibi du Diable sont exactement inverses : c’est dans l’image de nos dieux qu’il va se dissimuler, au cœur même de nos idéaux et de nos vérités trop humaines, dans les religions que nous confabulons en dehors de la foi révélée. Le Diable nous empêche de reconnaître Dieu dans Jésus-Christ, mais à l’inverse, il nous empêche aussi de nous reconnaître dans nos idoles.</p>
                     <p class="p">Voici comment les hommes s’enchaînent aux dieux qu’ils créent. Ceux qui ne l’ignoraient pas ont renié la Révélation. Dès lors ils en étaient réduits à inventer Dieu. Mais on n’invente que ce que l’on est sans le savoir. Ils ont donc inventé un « Dieu » qui était le moi conscient ou inconscient de ses croyants. Une image de leur impérialisme, ou une compensation rêvée de leurs défauts. Et ce fut le Dieu de la raison pour les tempéraments rationalistes, le Dieu de l’instinct et de la passion pour les hyper-civilisés, le Dieu du succès pour les robustes puritains, le Dieu philanthrope pour les avares et les timides, etc. Tout ceci pour la bourgeoisie et le siècle individualiste.</p>
                     <p class="p">Les suivants, nos contemporains, moins hypocrites que leurs prédécesseurs, n’ont pas parlé de « Dieu ». Mais ils ont dit Nation, ou Race, ou Classe. Dans ces trois entités divinisées, le <em>moi</em> n’est plus déguisé qu’en un <em>nous</em>.</p>
@@ -1040,9 +1851,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.2">p. 2</a>
+                          <a href="19431224#p.2">p. 2</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="#note17_">a. </a>« Les tours du Diable XI : Le Diable dans nos dieux », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 24 décembre 1943, p. 2.</aside>
+                        <aside id="note17" class="note bottomnote"><a class="noteback" href="19431224#note17_">a. </a>« Les tours du Diable XI : Le Diable dans nos dieux », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 24 décembre 1943, p. 2.</aside>
                       </div>
                     </section>
                   </article>
@@ -1054,17 +1865,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19611229">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>
@@ -1088,7 +1949,7 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-vp/ddr19611229vp_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article">Bilan simple (29 décembre 1961)<a class="noteref" href="#note18" id="note18_"><sup>a</sup></a><a class="bookmark" href="#19611229"> §</a></h1>
+                    <h1 class="head article">Bilan simple (29 décembre 1961)<a class="noteref" href="19611229#note18" id="note18_"><sup>a</sup></a><a class="bookmark" href="19611229"> §</a></h1>
                     <p class="p autofirst">Le bilan de l’année qui s’écoule me paraît simple à établir dans ses grandes lignes et à l’échelle de la planète : l’une après l’autre, toutes les puissances ont perdu la face, — sauf l’Europe.</p>
                     <p class="p">L’URSS a perdu la face en tant que champion de la paix et du désarmement, en faisant éclater trente bombes atomiques en deux mois. À Goa, l’Inde a perdu la face, en tant que champion de la non-violence. À Cuba, les États-Unis ont perdu la face en tant que champions de la non-intervention.</p>
                     <p class="p">Au Katanga, l’ONU a perdu la face en tant que champion de l’arbitrage pacifique et du droit des petits États. Quant à l’Allemagne de l’Est, c’est à la cause du communisme tout entier qu’elle a fait perdre la face, en bâtissant le mur de Berlin non pour se protéger contre une attaque, mais pour empêcher <em>tout un peuple</em> de fuir en masse le régime « populaire » !</p>
@@ -1099,9 +1960,9 @@
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="#p.1">p. 1</a>
+                          <a href="19611229#p.1">p. 1</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="#note18_">a. </a>« Bilan simple », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 décembre 1961, p. 1.</aside>
+                        <aside id="note18" class="note bottomnote"><a class="noteback" href="19611229#note18_">a. </a>« Bilan simple », <cite class="title fr" lang="fr">La Vie protestante</cite>, Genève, 29 décembre 1961, p. 1.</aside>
                       </div>
                     </section>
                   </article>
@@ -1113,17 +1974,67 @@
       </area>
       <area name="Sidebar">
         <blocks>
-          <block type="autonav" name="autonav">
-            <data table="btNavigation">
+          <block type="content" name="toc">
+            <data table="btContentLocal">
               <record>
-                <orderBy>display_asc</orderBy>
-                <displayPages>current</displayPages>
-                <displayPagesCID/>
-                <displayPagesIncludeSelf>0</displayPagesIncludeSelf>
-                <displaySubPages>none</displaySubPages>
-                <displaySubPageLevels>enough</displaySubPageLevels>
-                <displaySubPageLevelsNum>0</displaySubPageLevelsNum>
-                <displayUnavailablePages>0</displayUnavailablePages>
+                <content><![CDATA[
+                  <ul>
+                    <li>
+                      <a href="19381125">Le temps des fanatiques (25 novembre 1938)</a>
+                    </li>
+                    <li>
+                      <a href="193901">Nicolas de Flue et la tradition réformée (1<sup>er</sup> septembre 1939)</a>
+                    </li>
+                    <li>
+                      <a href="19400315">De Luther à Hitler (15 mars 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400426">« Dieu premier servi » (26 avril 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19400503">Neutralité (3 mai 1940)</a>
+                    </li>
+                    <li>
+                      <a href="19420102">Perspectives d’avenir du protestantisme (2 janvier 1942)</a>
+                    </li>
+                    <li>
+                      <a href="19431015">Les tours du diable <span class="num">I</span> : « Je ne suis personne » (15 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431022">Les tours du Diable <span class="num">II</span> : Le menteur (22 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431029">Les tours du Diable <span class="num">III</span> : Diable et sexe (29 octobre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431105">Les tours du Diable <span class="num">IV</span> : L’accusateur (5 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431112">Les tours du Diable <span class="num">V</span> : Le tentateur (12 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431119">Les tours du Diable VI : Le mal du siècle : la dépersonnalisation (19 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431126">Les tours du Diable <span class="num">VII</span> : La cinquième colonne (26 novembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431203">Les tours du Diable VIII : Le Diable démocrate (3 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431210">Les tours du Diable <span class="num">IX</span> : « Nous sommes tous coupables » (10 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431217">Les tours du Diable <span class="num">X</span> : Le Diable homme du monde (17 décembre 1943)</a>
+                    </li>
+                    <li>
+                      <a href="19431224">Les tours du Diable <span class="num">XI</span> : Le Diable dans nos dieux (24 décembre 1943)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Bilan simple (29 décembre 1961)</a>
+                    </li>
+                  </ul>
+                ]]></content>
               </record>
             </data>
           </block>

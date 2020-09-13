@@ -17,15 +17,24 @@ class C5pack
     array_shift($_SERVER['argv']); // shift first arg, the script filepath
     if (!count($_SERVER['argv'])) exit("
       php c5pack.php  ../ddr-articles/ddr-espr.xml\n");
+    $force = false;
+    $first = true;
     foreach ($_SERVER['argv'] as $glob) {
+      if ($first && $glob == 'force') {
+        $force = true;
+        $first = false;
+        continue;
+      }
+      $first = false;
       foreach(glob($glob) as $srcfile) {
-        self::file($srcfile);
+        self::file($srcfile, $force);
       }
     }
   }
   
-  public static function file($srcfile, $doctype=null)
+  public static function file($srcfile, $force=false, $doctype=null)
   {
+  
     $fullpath = realpath($srcfile);
     
     if ($doctype != null);
@@ -52,10 +61,12 @@ class C5pack
       $package = strtok($filename, '_');
     }
     $dstdir = dirname(__FILE__).'/'.$package;
-    if(!file_exists($dstdir));
+    if(!file_exists($dstdir)) self::mkdir($dstdir);
+    else if($force);
     else if(filemtime($dstdir.'/content.xml') > filemtime($srcfile)) return;
-    echo $srcfile."\n";
+    // say that folder has been modified
     touch($dstdir);
+    echo $srcfile."\n";
     
     $dom = self::dom($srcfile);
     $title = "";
@@ -69,18 +80,18 @@ class C5pack
     $version = date("y.m.d");
     $php = str_replace(
       array('%Class%', '%handle%', '%version%', '%bookpath%', '%title%'),
-      array(ucfirst(strtr($package, array('_' => ''))), $package, $version, $bookpath, $title),
+      array(ucfirst(strtr($package, array('_' => ''))), $package, $version, $bookpath, str_replace("'", "’", $title)),
       $php,
     );
+    file_put_contents($dstdir.'/controller.php', $php);
 
     
     $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath));
     // contenus de page à encadrer de CDATA 
     $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
-
-    self::mkdir($dstdir);
     file_put_contents($dstdir.'/content.xml', $xml);
-    file_put_contents($dstdir.'/controller.php', $php);
+    
+    if ($doctype == "livres") self::transform(dirname(__FILE__).'/_engine/c5-toc.xsl', $dom, $dstdir."/".$package.'_toc.html');
   }
 
 
@@ -135,10 +146,7 @@ class C5pack
       $ret = $trans->transformToDoc($dom);
     }
     else if ($dest) {
-      if (!is_dir(dirname($dest))) {
-        if (!@mkdir(dirname($dest), 0775, true)) exit(dirname($dest)." impossible à créer.\n");
-        @chmod(dirname($dest), 0775);  // let @, if www-data is not owner but allowed to write
-      }
+      self::mkdir(dirname($dest));
       $trans->transformToURI($dom, $dest);
       $ret = $dest;
     }

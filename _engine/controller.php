@@ -5,54 +5,86 @@ use Package;
 
 class Controller extends Package
 {
-    protected $pkgHandle = '%handle%';
-    protected $pkgVersion = '%version%';
+  protected $pkgHandle = '%handle%';
+  protected $pkgVersion = '%version%';
+  protected $title = '%title%';
+  protected $bookpath = '%bookpath%';
 
-    public function getPackageName()
-    {
-        return $this->pkgHandle;
+  public function getPackageName()
+  {
+    return $this->pkgHandle;
+  }
+
+  public function getPackageDescription()
+  {
+    return $this->title;
+  }
+
+
+  public function install()
+  {
+    $bookPage = \Page::getByPath($this->bookpath);
+    if($bookPage->isError()) {
+      \Log::addWarning("Livre créé automatiquement: ".$this->bookpath);
+      $parentPage = \Page::getByPath(dirname($this->bookpath));
+      $pageType = \PageType::getByHandle('livre');
+      $template = \PageTemplate::getByHandle('livre');
+      $bookPage = $parentPage->add($pageType, array(
+          'cName' => $this->title,
+          'cHandle' => basename($this->bookpath),
+        ), $template
+      );
     }
+    $this->installXml();
+    $pkg = parent::install();
+  }
 
-    public function getPackageDescription()
-    {
-      return "%title%";
+  public function upgrade()
+  {
+    $this->delBook();
+    parent::upgrade();
+    $this->installXml();
+  }
+
+  public function uninstall()
+  {
+    $this->delBook();
+    parent::uninstall();
+  }
+
+  protected function installXml()
+  {
+    $bookPage = \Page::getByPath($this->bookpath);
+    if($bookPage->isError()) {
+      throw new \Exception('Couverture pour ce livre ? '.$this->bookpath);
     }
-
-
-    public function install()
-    {
-        parent::install();
-        $this->installXml();
+    $tocfile = $this->getPackagePath()."/".$this->pkgHandle."_toc.html";
+    if (file_exists($tocfile)) { // il y a une toc à écrire en page d’accueil
+      $data = array();
+      $data['content'] = file_get_contents($tocfile);
+      $blocks = $bookPage->getBlocks('livre_sommaire');
+      $count = count($blocks);
+      for ($i = 1; $i < $count; $i++) { // delete too much blocks
+        $blocks[$i]->delete();
+      }
+      if ($count == 0) {
+        $bt = \BlockType::getByHandle('content');
+        $bookPage->addBlock($bt, 'livre_sommaire', $data);
+      }
+      else {
+        $blocks[0]->update($data);
+      }
     }
+    $this->installContentFile('content.xml');
+  }
 
-    public function upgrade()
-    {
-        $this->delBook();
-        parent::upgrade();
-        $this->installXml();
+  protected function delBook()
+  {
+    $pl = new \Concrete\Core\Page\PageList();
+    $pl->filterByPath($this->bookpath, true); // true = do not delete parent
+    $pages = $pl->get();
+    foreach ($pages as $page) {
+      $page->delete();
     }
-
-    public function uninstall()
-    {
-        $this->delBook();
-        parent::uninstall();
-    }
-
-    protected function installXml()
-    {
-        $this->installContentFile('content.xml');
-    }
-
-    protected function delBook()
-    {
-        $path = "%bookpath%";
-        $pl = new \Concrete\Core\Page\PageList();
-        $pl->filterByPath($path, true); // true = do not delete parent
-        $pages = $pl->get();
-        foreach ($pages as $page) {
-          // $url = \URL::to($page);
-          // \Log::addWarning("url ? ".$url);
-          $page->delete();
-        }
-    }
+  }
 }

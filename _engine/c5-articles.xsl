@@ -4,6 +4,19 @@
   <xsl:import href="../../Teinte/xsl/flow.xsl"/>
   <xsl:import href="../../Teinte/xsl/notes.xsl"/>
   <xsl:output indent="yes" encoding="UTF-8" method="xml" omit-xml-declaration="no"/>
+  <xsl:variable name="split" select="true()"/>
+  <xsl:key name="split" match="
+    tei:*[self::tei:div or self::tei:div1 or self::tei:div2][normalize-space(.) != ''][@type][
+    contains(@type, 'article') 
+    or contains(@type, 'chapter') 
+    or contains(@subtype, 'split') 
+    or contains(@type, 'act')  
+    or contains(@type, 'poem')
+    or contains(@type, 'letter')
+    ] 
+    | tei:group/tei:text 
+    | tei:TEI/tei:text/tei:*/tei:*[self::tei:div or self::tei:div1 or self::tei:group or self::tei:titlePage  or self::tei:castList][normalize-space(.) != '']" 
+  use="generate-id(.)"/>
   <xsl:param name="bookpath"/>
   <xsl:param name="package"/>
   <xsl:variable name="_html"/>
@@ -74,6 +87,17 @@
       </area>
       <area name="Sidebar">
         <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content>
+                  <xsl:call-template name="toclocal"/>
+                </content>
+              </record>
+            </data>
+          </block>
+
+            <!--
           <block type="autonav" name="autonav">
             <data table="btNavigation">
               <record>
@@ -88,6 +112,7 @@
               </record>
             </data>
           </block>
+          -->
         </blocks>
       </area>
     </page>
