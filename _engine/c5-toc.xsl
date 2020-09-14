@@ -32,6 +32,7 @@
   
   <xsl:template name="totoc">
     <nav class="toc_details">
+      <h2>Sommaire</h2>
       <xsl:apply-templates select="/*/tei:text/tei:front/* | /*/tei:text/tei:body/* | /*/tei:text/tei:group/* | /*/tei:text/tei:back/*" mode="tocsplit"/>
     </nav>
   </xsl:template>

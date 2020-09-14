@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1961ctm';
-  protected $pkgVersion = '20.09.13';
+  protected $pkgVersion = '20.09.15';
   protected $title = 'Comme toi-même. Essais sur les mythes de l’amour';
   protected $bookpath = '/livres/ddr1961ctm';
 
@@ -58,20 +58,22 @@ class Controller extends Package
     if($bookPage->isError()) {
       throw new \Exception('Couverture pour ce livre ? '.$this->bookpath);
     }
-    $data = array();
     $tocfile = $this->getPackagePath()."/".$this->pkgHandle."_toc.html";
-    $data['content'] = file_get_contents($tocfile);
-    $blocks = $bookPage->getBlocks('livre_sommaire');
-    $count = count($blocks);
-    for ($i = 1; $i < $count; $i++) { // delete too much blocks
-      $blocks[$i]->delete();
-    }
-    if ($count == 0) {
-      $bt = \BlockType::getByHandle('content');
-      $bookPage->addBlock($bt, 'livre_sommaire', $data);
-    }
-    else {
-      $blocks[0]->update($data);
+    if (file_exists($tocfile)) { // il y a une toc à écrire en page d’accueil
+      $data = array();
+      $data['content'] = file_get_contents($tocfile);
+      $blocks = $bookPage->getBlocks('livre_sommaire');
+      $count = count($blocks);
+      for ($i = 1; $i < $count; $i++) { // delete too much blocks
+        $blocks[$i]->delete();
+      }
+      if ($count == 0) {
+        $bt = \BlockType::getByHandle('content');
+        $bookPage->addBlock($bt, 'livre_sommaire', $data);
+      }
+      else {
+        $blocks[0]->update($data);
+      }
     }
     $this->installContentFile('content.xml');
   }
