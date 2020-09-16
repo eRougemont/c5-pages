@@ -45,17 +45,20 @@ class C5pack
     
     $filename = pathinfo($srcfile, PATHINFO_FILENAME);
     if ($doctype == "articles") {
-      $bookpath = "/articles/".substr($filename, 4);
+      $bookname = substr($filename, 4);
+      $bookpath = "/articles/$bookname";
       $xsl = dirname(__FILE__).'/_engine/c5-articles.xsl';
       $package = strtr($filename, array('-' => '_'));
     }
     else if ($doctype == "corr") {
-      $bookpath = "/correspondances/".substr($filename, 9);
+      $bookname = substr($filename, 9);
+      $bookpath = "/correspondances/$bookname";
       $xsl = dirname(__FILE__).'/_engine/c5-corr.xsl';
       $package = strtr($filename, array('-' => '_'));
     }
     else if ($doctype == "livres") {
-      $bookpath = "/livres/".strtok($filename, '_');
+      $bookname = strtok($filename, '_');
+      $bookpath = "/livres/$bookname";
       $xsl = dirname(__FILE__).'/_engine/c5-chapitres.xsl';
       $date = substr($filename, 3, 4);
       $package = strtok($filename, '_');
@@ -86,12 +89,12 @@ class C5pack
     file_put_contents($dstdir.'/controller.php', $php);
 
     
-    $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath));
+    $xml = self::transform($xsl, $dom, null, array('package' => $package, 'bookpath' => $bookpath ));
     // contenus de page à encadrer de CDATA 
     $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
     file_put_contents($dstdir.'/content.xml', $xml);
     
-    if ($doctype == "livres") self::transform(dirname(__FILE__).'/_engine/c5-toc.xsl', $dom, $dstdir."/".$package.'_toc.html');
+    if ($doctype == "livres") self::transform(dirname(__FILE__).'/_engine/c5-toc.xsl', $dom, $dstdir."/".$package.'_toc.html', array('bookname' => $bookname ));
   }
 
 

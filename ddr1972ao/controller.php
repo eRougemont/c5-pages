@@ -7,7 +7,7 @@ class Controller extends Package
 {
   protected $pkgHandle = 'ddr1972ao';
   protected $pkgVersion = '20.09.15';
-  protected $title = '';
+  protected $title = 'L’Amour et l’Occident';
   protected $bookpath = '/livres/ddr1972ao';
 
   public function getPackageName()

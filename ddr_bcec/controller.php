@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_bcec';
-  protected $pkgVersion = '20.09.14';
+  protected $pkgVersion = '20.09.15';
   protected $title = 'Articles parus dans la Bulletin du Centre européen de la culture (1951–1977)';
   protected $bookpath = '/articles/bcec';
 

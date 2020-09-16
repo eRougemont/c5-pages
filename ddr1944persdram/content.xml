@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/livres/ddr1945persdram/1" name="Note de l’auteur" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/1" name="Note de l’auteur" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Note de l’auteur</value>
+          <value>Les Personnes du drame (1944) Note de l’auteur</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -100,16 +97,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/2" name="Introduction" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/2" name="Introduction" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Introduction</value>
+          <value>Les Personnes du drame (1944) Introduction</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -250,16 +244,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/3" name="I – Le silence de Goethe" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/3" name="I – Le silence de Goethe" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) I – Le silence de Goethe — Sagesse et folie de la personne</value>
+          <value>Les Personnes du drame (1944) I – Le silence de Goethe — Sagesse et folie de la personne</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -479,16 +470,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/4" name="II – Goethe médiateur" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/4" name="II – Goethe médiateur" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) II – Goethe médiateur — Sagesse et folie de la personne</value>
+          <value>Les Personnes du drame (1944) II – Goethe médiateur — Sagesse et folie de la personne</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -633,16 +621,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/5" name="Kierkegaard" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/5" name="Kierkegaard" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Kierkegaard — Sagesse et folie de la personne</value>
+          <value>Les Personnes du drame (1944) Kierkegaard — Sagesse et folie de la personne</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1322,16 +1307,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/6" name="Franz Kafka – ou l’aveu de la réalité" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/6" name="Franz Kafka – ou l’aveu de la réalité" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Franz Kafka – ou l’aveu de la réalité — Sagesse et folie de la personne</value>
+          <value>Les Personnes du drame (1944) Franz Kafka – ou l’aveu de la réalité — Sagesse et folie de la personne</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1565,16 +1547,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/7" name="Luther et la liberté de la personne" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/7" name="Luther et la liberté de la personne" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Luther et la liberté de la personne — 2. Liberté et fatum</value>
+          <value>Les Personnes du drame (1944) Luther et la liberté de la personne — 2. Liberté et fatum</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1784,16 +1763,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/8" name="Le Journal d’André Gide" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/8" name="Le Journal d’André Gide" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Le Journal d’André Gide — 3 – Sincérité et authenticité</value>
+          <value>Les Personnes du drame (1944) Le Journal d’André Gide — 3 – Sincérité et authenticité</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1969,16 +1945,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/9" name="Vues sur Ramuz" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/9" name="Vues sur Ramuz" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Vues sur Ramuz — 3 – Sincérité et authenticité</value>
+          <value>Les Personnes du drame (1944) Vues sur Ramuz — 3 – Sincérité et authenticité</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2290,16 +2263,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/10" name="L’Art poétique de Claudel" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/10" name="L’Art poétique de Claudel" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) L’Art poétique de Claudel — 3 – Sincérité et authenticité</value>
+          <value>Les Personnes du drame (1944) L’Art poétique de Claudel — 3 – Sincérité et authenticité</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2447,16 +2417,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1945persdram/11" name="Le Romantisme allemand" package="ddr1945persdram" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944persdram/11" name="Le Romantisme allemand" package="ddr1944persdram" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
-        <attributekey handle="bookid">
-          <value>ddr1945persdram</value>
-        </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Personnes du drame (1945) Le Romantisme allemand — 4. Une maladie de la personne</value>
+          <value>Les Personnes du drame (1944) Le Romantisme allemand — 4. Une maladie de la personne</value>
         </attributekey>
       </attributes>
       <area name="Main">

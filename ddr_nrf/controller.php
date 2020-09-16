@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_nrf';
-  protected $pkgVersion = '20.09.14';
+  protected $pkgVersion = '20.09.15';
   protected $title = 'Articles parus dans La Nouvelle Revue française (1931–1961)';
   protected $bookpath = '/articles/nrf';
 

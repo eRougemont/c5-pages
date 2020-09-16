@@ -21,8 +21,9 @@
     use="generate-id(.)"/>
   <xsl:variable name="_html"></xsl:variable>
   <!-- prefix des liens -->
+  <xsl:param name="bookname" select="/*/@xml:id"/>
   <xsl:variable name="base">
-    <xsl:value-of select="/*/@xml:id"/>
+    <xsl:value-of select="$bookname"/>
     <xsl:text>/</xsl:text>
   </xsl:variable>
   

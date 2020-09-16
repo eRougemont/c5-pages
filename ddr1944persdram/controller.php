@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1944persdram';
-  protected $pkgVersion = '20.09.15';
+  protected $pkgVersion = '20.09.17';
   protected $title = 'Les Personnes du drame';
   protected $bookpath = '/livres/ddr1944persdram';
 

@@ -4,7 +4,8 @@
   <xsl:import href="../../Teinte/xsl/flow.xsl"/>
   <xsl:import href="../../Teinte/xsl/notes.xsl"/>
   <xsl:output indent="yes" encoding="UTF-8" method="xml" omit-xml-declaration="no"/>
-  <xsl:param name="bookid" select="/*/@xml:id"/>
+  <xsl:param name="bookpath"/>
+  <xsl:param name="package"/>
   <xsl:variable name="split" select="true()"/>
   <xsl:key name="split" match="
     tei:*[self::tei:div or self::tei:div1 or self::tei:div2][normalize-space(.) != ''][@type][
@@ -66,16 +67,18 @@
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>
-    <page path="/livres/{$bookid}/{$chapid}" name="{$name}" package="{$bookid}" template="liseuse" pagetype="liseuse">
+    <page path="{$bookpath}/{$chapid}" name="{$name}" package="{$package}" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapitre</value>
         </attributekey>
+        <!--  TODO ?
         <attributekey handle="bookid">
           <value>
             <xsl:value-of select="$bookid"/>
           </value>
         </attributekey>
+        -->
         <attributekey handle="meta_title">
           <value>
             <xsl:value-of select="$title"/>
