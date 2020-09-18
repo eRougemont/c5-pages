@@ -21,7 +21,7 @@
   <xsl:param name="package"/>
   <xsl:variable name="_html"/>
   <xsl:variable name="title_j">
-    <xsl:apply-templates select="//title[@level='j'][1]" mode="title"/>
+    <xsl:apply-templates select="/tei:TEI/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[1]/tei:title[@level='j']" mode="title"/>
   </xsl:variable>
   <xsl:template match="/" priority="10">
     <concrete5-cif version="1.0">
@@ -48,7 +48,9 @@
     </xsl:variable>
     <xsl:variable name="meta_title">
       <xsl:variable name="rich">
-        <xsl:apply-templates select="tei:head/tei:note[1]/node()" mode="title"/>
+        <xsl:apply-templates select="tei:head" mode="title"/>
+        <xsl:text> – </xsl:text>
+        <xsl:copy-of select="$title_j"/>
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>

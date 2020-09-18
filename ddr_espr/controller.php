@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_espr';
-  protected $pkgVersion = '20.09.15';
+  protected $pkgVersion = '20.09.17';
   protected $title = 'Articles parus dans Esprit (1932–1962)';
   protected $bookpath = '/articles/espr';
 

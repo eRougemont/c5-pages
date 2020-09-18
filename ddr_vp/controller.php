@@ -6,7 +6,7 @@ use Package;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_vp';
-  protected $pkgVersion = '20.09.15';
+  protected $pkgVersion = '20.09.17';
   protected $title = 'Articles parus dans la La Vie protestante (1938–1961)';
   protected $bookpath = '/articles/vp';
 
