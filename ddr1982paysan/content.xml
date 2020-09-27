@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/livres/ddr1982paysan/1" name="Introduction – Le sentiment de l’Europe centrale" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/1" name="Introduction. Le sentiment de l’Europe centrale" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Introduction – Le sentiment de l’Europe centrale</value>
+          <value>Introduction. Le sentiment de l’Europe centrale (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Introduction. Le sentiment de l’Europe centrale"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb9" id="pb9">[p. 9]</a>
                     <h1 class="head chapter">Introduction
           <br class="lb"/>Le sentiment de l’Europe centrale<a class="bookmark" href="1"> §</a></h1>
@@ -97,25 +126,25 @@
                         <div class="b note-page">
                           <a href="1#pb11">p. 11</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a><i class="i">Un seul être vous manque et tout est dépeuplé</i> ! Définition même du sentimentalisme subjectif que rend impossible la conception toute classique, objective, latine, spatiale et statique, qui présida au dessin de la carte du Tendre. C’est le cri d’un poète français, non d’un Français.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a><i class="i">Un seul être vous manque et tout est dépeuplé</i> ! Définition même du sentimentalisme subjectif que rend impossible la conception toute classique, objective, latine, spatiale et statique, qui présida au dessin de la carte du Tendre. C’est le cri d’un poète français, non d’un Français.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb16">p. 16</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Hegel serait le philosophe par excellence de l’Europe centrale. Ce qu’il a tenté d’étaler dans l’Histoire, c’est l’équation d’existence de l’âme allemande. Mais il a voulu que ses <i class="i">moments</i> fussent successifs : c’était un moyen de la résoudre. Et c’est justement cette « résolution » que combattra Kierkegaard. Chez Kierkegaard, la dialectique redevient simultanée, irréductible, vivante…</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Hegel serait le philosophe par excellence de l’Europe centrale. Ce qu’il a tenté d’étaler dans l’Histoire, c’est l’équation d’existence de l’âme allemande. Mais il a voulu que ses <i class="i">moments</i> fussent successifs : c’était un moyen de la résoudre. Et c’est justement cette « résolution » que combattra Kierkegaard. Chez Kierkegaard, la dialectique redevient simultanée, irréductible, vivante…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb18">p. 18</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>Que l’on pense aux expansions verbeuses de Jean-Paul ou du Hölderlin d’<i class="i">Hyperion</i> ; et d’autre part, à la manie d’exposition systématique et statistique des professeur allemands. Autre exemple : tous les romantiques allemands sont nourris de théorèmes de Spinoza.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>Que l’on pense aux expansions verbeuses de Jean-Paul ou du Hölderlin d’<i class="i">Hyperion</i> ; et d’autre part, à la manie d’exposition systématique et statistique des professeur allemands. Autre exemple : tous les romantiques allemands sont nourris de théorèmes de Spinoza.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb20">p. 20</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a>Seule réalité vivante prise en considération par l’intelligence rationaliste.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a>Seule réalité vivante prise en considération par l’intelligence rationaliste.</aside>
                       </div>
                     </section>
                   </article>
@@ -133,95 +162,79 @@
                 <content><![CDATA[
                   <ul>
                     <li class="here">
-                      <a href="#">Introduction  –  Le sentiment de l’Europe centrale</a>
+                      <a href="#">Introduction.  Le sentiment de l’Europe centrale</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-1">Un accord sans résolution</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-2">Le titanisme et la métamorphose</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-3">Paradoxe du sentiment</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-4">L’intelligence est sentimentale</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -233,13 +246,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/2" name="Une « tasse de thé » au palais C…" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/2" name="I.1. Une « tasse de thé » au palais C…" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Une « tasse de thé » au palais C… — Première partie – Le paysan du Danube</value>
+          <value>I.1. Une « tasse de thé » au palais C… (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.1. Une « tasse de thé » au palais C…"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -248,7 +290,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb25" id="pb25">[p. 25]</a>
                     <h1 class="head chapter">Une « tasse de thé » au palais C…<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a><a class="bookmark" href="2"> §</a></h1>
                     <blockquote class="epigraph">
@@ -298,7 +340,7 @@
                         <div class="b note-page">
                           <a href="2#pb25">p. 25</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>C’est ainsi qu’était formulée l’invitation au bal du célèbre banquier Castiglioni.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>C’est ainsi qu’était formulée l’invitation au bal du célèbre banquier Castiglioni.</aside>
                       </div>
                     </section>
                   </article>
@@ -315,82 +357,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
                         <li class="here">
                           <a href="#">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -402,13 +428,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/3" name="Voyage en Hongrie" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/3" name="I.2. Voyage en Hongrie" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Voyage en Hongrie — Première partie – Le paysan du Danube</value>
+          <value>I.2. Voyage en Hongrie (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.2. Voyage en Hongrie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -417,7 +472,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb33" id="pb33">[p. 33]</a>
                     <h1 class="head chapter">Voyage en Hongrie<a class="bookmark" href="3"> §</a></h1>
                     <blockquote class="epigraph">
@@ -637,31 +692,31 @@
                         <div class="b note-page">
                           <a href="3#pb44">p. 44</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Parce que j’« exalte les valeurs de passion » — pour parler comme le seul clerc qui n’ait pas trahi — qui me paraissent être la grandeur de la Hongrie, on m’expliquera que je suis pour la guerre, puisque enfin cet état d’esprit que j’admire est, entre autres, belliqueux. Or je suis pacifiste. Comment ne pas l’être ! Mais je crois que les pacifistes qui veulent assurer la paix par la mutilation des passions sont disciples d’Origène. Il doit y avoir d’autres solutions… [NdE] Cette note avait disparue de la version publiée en 1968 dans le <i class="i">Journal d’une époque</i>, base de cette édition. Elle a été manifestement réintégrée par Denis de Rougemont en vue de cette édition.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Parce que j’« exalte les valeurs de passion » — pour parler comme le seul clerc qui n’ait pas trahi — qui me paraissent être la grandeur de la Hongrie, on m’expliquera que je suis pour la guerre, puisque enfin cet état d’esprit que j’admire est, entre autres, belliqueux. Or je suis pacifiste. Comment ne pas l’être ! Mais je crois que les pacifistes qui veulent assurer la paix par la mutilation des passions sont disciples d’Origène. Il doit y avoir d’autres solutions… [NdE] Cette note avait disparue de la version publiée en 1968 dans le <i class="i">Journal d’une époque</i>, base de cette édition. Elle a été manifestement réintégrée par Denis de Rougemont en vue de cette édition.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb49">p. 49</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Toute l’échelle des ivresses : ivresses de la faim, de l’alcool, de la foule, de la solitude, de l’extase.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Toute l’échelle des ivresses : ivresses de la faim, de l’alcool, de la foule, de la solitude, de l’extase.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb51">p. 51</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Expression où va se réfugier le dernier vestige de la sensualité des érudits.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Expression où va se réfugier le dernier vestige de la sensualité des érudits.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb52">p. 52</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a>La fameuse marche de Rakoczy est l’œuvre d’une Tzigane.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a>La fameuse marche de Rakoczy est l’œuvre d’une Tzigane.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb59">p. 59</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>L’or n’était qu’un prétexte. Encore une blague de passeport.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>L’or n’était qu’un prétexte. Encore une blague de passeport.</aside>
                       </div>
                     </section>
                   </article>
@@ -678,132 +733,116 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
                         <li class="here">
                           <a href="#">Voyage en Hongrie</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-1">Le dormeur au fil de l’eau</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-2">La recherche de l’Objet inconnu</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-3">Au tombeau de Gül-Baba</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-4">Café amer</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-5">Les magnats en taxis</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-6">Les coussins Rothermere</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-7">Une lettre de Matthias Corvin</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-8">Visite à Babits</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-9">Le retour d’Esztergom</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-10">Un bal, ou de l’ivresse considérée comme un des beaux-arts</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-11">Chansons hongroises</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-12">L’amour en Hongrie (généralités)</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-13">La plaine et la musique</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-14">Les eaux fades du Balaton</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-15">Insomnie</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-2-2-16">Les clefs perdues</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -815,13 +854,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/4" name="Le balcon sur l’eau" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/4" name="I.3. Le balcon sur l’eau" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Le balcon sur l’eau — Première partie – Le paysan du Danube</value>
+          <value>I.3. Le balcon sur l’eau (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.3. Le balcon sur l’eau"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -830,7 +898,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb62" id="pb62">[p. 62]</a>
                     <h1 class="head chapter">Le balcon sur l’eau<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles plus, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -852,16 +920,16 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
                         <li class="here">
@@ -869,65 +937,49 @@
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -939,13 +991,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/5" name="Châteaux en Prusse" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/5" name="II.1. Châteaux en Prusse" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Châteaux en Prusse — Deuxième partie – La lenteur des choses</value>
+          <value>II.1. Châteaux en Prusse (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.1. Châteaux en Prusse"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -954,7 +1035,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb65" id="pb65">[p. 65]</a>
                     <h1 class="head chapter">Châteaux en Prusse<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">Au loin passaient des voiles claires parmi les blés violents ; le ciel paraissait plus grand que la terre. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète au ralenti, dans la fraîcheur sobre. L’on s’éveille enfin du long voyage nocturne, les yeux cessent de cligner, le corps se détend. Là devant, un chauffeur immobile guette les ornières profondes où les roues s’enfoncent parfois avec un cahot mou. Le silence grandit ; cris de pics, vibration basse des cylindres. On voit paraître de plus hauts arbres et bientôt un vaste portail, aux piles couronnées de grands cerfs de bronze. La piste se fait plane, la forêt s’ordonne. Échappée sur des étangs couverts de mousse jaune. (Tout à fait réveillé et attentif, maintenant.) Jardin anglais. Soudain, des pelouses 
@@ -1031,31 +1112,31 @@
                         <div class="b note-page">
                           <a href="5#pb66">p. 66</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="5#note11_">11. </a>Bras de mer intérieur qui s’avance jusqu’à Königsberg.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="5#note11_">11. </a>Bras de mer intérieur qui s’avance jusqu’à Königsberg.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb70">p. 70</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="5#note12_">12. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une époque</i>, sur laquelle se fonde pour l’essentiel cette publication, termine ainsi la phrase : « Cruauté franche est signe de santé, dirait Nietzsche ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="5#note12_">12. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une époque</i>, sur laquelle se fonde pour l’essentiel cette publication, termine ainsi la phrase : « Cruauté franche est signe de santé, dirait Nietzsche ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb73">p. 73</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="5#note13_">13. </a>Je m’étonne d’avoir commis moi-même une erreur moins pardonnable que celle que je déplorais ici. <i class="i">Junker</i> ne saurait désigner qu’un propriétaire terrien, un hobereau de petite ou de nulle noblesse, pas un instant les grandes familles de la « noblesse primitive » (<i class="i">Uradel</i>) d’avant 1350 selon le Gotha.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="5#note13_">13. </a>Je m’étonne d’avoir commis moi-même une erreur moins pardonnable que celle que je déplorais ici. <i class="i">Junker</i> ne saurait désigner qu’un propriétaire terrien, un hobereau de petite ou de nulle noblesse, pas un instant les grandes familles de la « noblesse primitive » (<i class="i">Uradel</i>) d’avant 1350 selon le Gotha.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb75">p. 75</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="5#note14_">14. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une Époque</i> indique : « Le mouvement national-socialiste les flatte ». La version du Paysan du Danube indique quant à elle : « Hitler les flatte ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="5#note14_">14. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une Époque</i> indique : « Le mouvement national-socialiste les flatte ». La version du Paysan du Danube indique quant à elle : « Hitler les flatte ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb76">p. 76</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="5#note15_">15. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une Époque</i> indique « 1926 ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="5#note15_">15. </a>[NdE] La version parue en 1968 dans le <i class="i">Journal d’une Époque</i> indique « 1926 ». Nous signalons l’écart, probablement une volonté de l’auteur pour la présente édition.</aside>
                       </div>
                     </section>
                   </article>
@@ -1072,93 +1153,77 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
                         <li class="here">
                           <a href="#">Châteaux en Prusse</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-1-1">Journées</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-1-2">Éducation</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-1-3">Je ne défendrai pas les Junkers…</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -1170,13 +1235,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/6" name="La tour de Hölderlin" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/6" name="II.2. La tour de Hölderlin" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) La tour de Hölderlin — Deuxième partie – La lenteur des choses</value>
+          <value>II.2. La tour de Hölderlin (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.2. La tour de Hölderlin"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1185,7 +1279,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
                     <h1 class="head chapter">La tour de Hölderlin<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande… »<a class="noteref" href="6#note16" id="note16_"><sup>16</sup></a></p>
@@ -1204,10 +1298,10 @@
 <a class="pb" href="#pb80" id="pb80">[p. 80]</a>
 </p>
                     <blockquote class="quote">
-                      <div class="l">L’agrément de ce monde, je l’ai vécu.
-              <br class="lb"/>Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.
-              <br class="lb"/>Avril et mai et juillet sont lointains,
-              <br class="lb"/>Je ne suis plus rien, je n’aime plus vivre.</div>
+                      <div class="l">L’agrément de ce monde, je l’ai vécu.</div>
+                      <div class="l">Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.</div>
+                      <div class="l">Avril et mai et juillet sont lointains,</div>
+                      <div class="l">Je ne suis plus rien, je n’aime plus vivre.</div>
                     </blockquote>
                     <p class="p autofirst">Il y avait encore plus de paix que maintenant. La grande allée sur l’île n’existait pas, en face, ni les maisons. Il voyait des prairies et des collines basses, de l’autre côté de l’eau jaune et verte… Quel est donc ce sommeil « dans la nuit de la vie » — et cet aveu mystérieux : « …<i class="i">la perfection n’a pas de plainte</i>… » Vivait-il encore ?</p>
                     <p class="p">Ce lieu soudain m’angoisse. Mais le gardien : il y est comme chez lui. — Dormez-vous dans ce lit ? — Oh ! répond-il, je pourrais aussi bien habiter la chambre. Il ne vient pas tant de visiteurs, et seulement de 2 à 4.</p>
@@ -1227,13 +1321,13 @@
                         <div class="b note-page">
                           <a href="6#pb77">p. 77</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="6#note16_">16. </a>Bettina von Arnim-Brentano : <i class="de i" lang="de">Die Günderode</i>.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="6#note16_">16. </a>Bettina von Arnim-Brentano : <i class="de i" lang="de">Die Günderode</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb78">p. 78</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="6#note17_">17. </a>Où il était précepteur. M<sup class="sup">me</sup> Gontard est la <i class="i">Diotima</i> de l’<i class="i">Hyperion</i> et des poèmes.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="6#note17_">17. </a>Où il était précepteur. M<sup class="sup">me</sup> Gontard est la <i class="i">Diotima</i> de l’<i class="i">Hyperion</i> et des poèmes.</aside>
                       </div>
                     </section>
                   </article>
@@ -1250,82 +1344,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
                         <li class="here">
                           <a href="#">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -1337,13 +1415,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/7" name="Petit journal de Souabe" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/7" name="II.3. Petit journal de Souabe" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Petit journal de Souabe — Deuxième partie – La lenteur des choses</value>
+          <value>II.3. Petit journal de Souabe (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.3. Petit journal de Souabe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1352,7 +1459,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb83" id="pb83">[p. 83]</a>
                     <h1 class="head chapter">Petit journal de Souabe<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">À la tombée d’une nuit froide, en avril, le voyageur descend dans un vieux bourg de Souabe, — quelques lumières au milieu d’une étroite vallée où le train longtemps côtoya une rivière, des forêts. Les rues sont vides jusqu’au cœur de la ville, où l’attend une ample demeure.</p>
@@ -1562,20 +1669,20 @@
                         <div class="b note-page">
                           <a href="7#pb94">p. 94</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="7#note18_">18. </a>Tel fut bien, d’ailleurs, son dessein, qu’il avoue dans les entretiens recueillis par Biedermann.</aside>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="7#note19_">19. </a>Comme dit l’<i class="i">A. O. Barnabooth</i> de M. Valéry Larbaud.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="7#note18_">18. </a>Tel fut bien, d’ailleurs, son dessein, qu’il avoue dans les entretiens recueillis par Biedermann.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="7#note19_">19. </a>Comme dit l’<i class="i">A. O. Barnabooth</i> de M. Valéry Larbaud.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb99">p. 99</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="7#note20_">20. </a>Il s’agit des <i class="i">Méfaits de l’instruction publique</i>, petit ouvrage publié à tirage limité à Lausanne en mars 1929.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="7#note20_">20. </a>Il s’agit des <i class="i">Méfaits de l’instruction publique</i>, petit ouvrage publié à tirage limité à Lausanne en mars 1929.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb106">p. 106</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="7#note21_">21. </a>[NdE] La présente édition mentionnait par erreur 1931.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="7#note21_">21. </a>[NdE] La présente édition mentionnait par erreur 1931.</aside>
                       </div>
                     </section>
                   </article>
@@ -1592,153 +1699,137 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
                         <li class="here">
                           <a href="#">Petit journal de Souabe</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-1">22 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-2">24 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-3">28 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-4">7 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-5">17 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-6">21 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-7">22 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-8">26 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-9">31 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-10">10 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-11">11 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-12">12 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-13">13 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-14">14 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-15">Rose de Tannenbourg</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-16">20 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-17">22 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-18">30 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-19">Début de juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-20">15 juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-21">19 juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-22">Fin juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-3-3-23">10 août 1929</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -1750,13 +1841,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/8" name="Quand je me souviens — C’est l’Europe" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/8" name="III. Quand je me souviens — C’est l’Europe" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) Quand je me souviens — C’est l’Europe</value>
+          <value>III. Quand je me souviens — C’est l’Europe (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III. Quand je me souviens — C’est l’Europe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1765,7 +1885,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb107" id="pb107">[p. 107]</a>
                     <h1 class="head chapter">Quand je me souviens — C’est l’Europe<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">Ces pages sont nées à des dates différentes d’un même état de sensibilité, dont j’ai remarqué qu’il se révèle en moi par une même allure d’écriture, toutes les fois que se trouve atteint le seuil de ce que j’ai nommé <i class="i">le sentiment européen</i>. Nom de code, mais aussi vrai nom — par cela même précisé — de mon <i class="i">Europe</i>. Et vrai sujet, tout au moins manifeste, de cette suite d’entrevisions des temps mêlés — « Ce présent que je vis déjà comme un passé dans le futur que j’anticipe » — et qui devait me conduire à une action : celle que je n’ai cessé de mener depuis, pour l’avenir du sens de nos vies.</p>
@@ -1956,7 +2076,7 @@
                         <div class="b note-page">
                           <a href="8#pb111">p. 111</a>
                         </div>
-                        <aside id="note22" class="note note"><a class="noteback" href="8#note22_">22. </a>Il s’agit de la pièce que m’avait commandée l’Institut neuchâtelois pour l’Exposition nationale de Zurich, et dont Arthur Honegger écrivit la musique au fur et à mesure des textes que je lui apportais. Nous devions en tirer l’oratorio que l’on joue aujourd’hui.</aside>
+                        <aside id="note22" role="note" class="note note"><a class="noteback" href="8#note22_">22. </a>Il s’agit de la pièce que m’avait commandée l’Institut neuchâtelois pour l’Exposition nationale de Zurich, et dont Arthur Honegger écrivit la musique au fur et à mesure des textes que je lui apportais. Nous devions en tirer l’oratorio que l’on joue aujourd’hui.</aside>
                       </div>
                     </section>
                   </article>
@@ -1973,33 +2093,33 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
@@ -2007,89 +2127,73 @@
                     <li class="here">
                       <a href="#">Quand je me souviens — C’est l’Europe</a>
                       <ul>
-                        <li>
-                          <a href="8#body-4-1">Le bon vieux temps présent  –  19 mars 1939</a>
+                        <li class="collateral">
+                          <a href="8#body-4-1">Le bon vieux temps présent,  19 mars 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-4-2">Demain, la guerre !</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-3">Cœur de l’Europe  –  Berne, février 1940</a>
+                        <li class="collateral">
+                          <a href="8#body-4-3">Cœur de l’Europe.  Berne, février 1940</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-4">Le petit nuage  –  Fin mars 1940</a>
+                        <li class="collateral">
+                          <a href="8#body-4-4">Le petit nuage.  Fin mars 1940</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-5">À cette heure oùParis…  –  Berne, 15 juin 1940</a>
+                        <li class="collateral">
+                          <a href="8#body-4-5">À cette heure oùParis….  Berne, 15 juin 1940</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-6">Intermède  –  New York, fin 1942</a>
+                        <li class="collateral">
+                          <a href="8#body-4-6">Intermède.  New York, fin 1942</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-7">Beekman Place  –  New York, août 1943</a>
+                        <li class="collateral">
+                          <a href="8#body-4-7">Beekman Place.  New York, août 1943</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-8">Mémoire de l’Europe  –  New York, fin 1944</a>
+                        <li class="collateral">
+                          <a href="8#body-4-8">Mémoire de l’Europe.  New York, fin 1944</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-9">Nostalgie anticipée  –  Princeton, 27 mars 1946</a>
+                        <li class="collateral">
+                          <a href="8#body-4-9">Nostalgie anticipée.  Princeton, 27 mars 1946</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-10">Premier retour  –  Paris, début avril 1946</a>
+                        <li class="collateral">
+                          <a href="8#body-4-10">Premier retour.  Paris, début avril 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-4-11">2 avril 1946</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-12">Plus Suisse que nature  –  7 avril 1946</a>
+                        <li class="collateral">
+                          <a href="8#body-4-12">Plus Suisse que nature,  7 avril 1946</a>
                         </li>
-                        <li>
-                          <a href="8#body-4-13">Le mauvais temps qui vient  –  Neuchâtel-Paris, décembre 1946</a>
+                        <li class="collateral">
+                          <a href="8#body-4-13">Le mauvais temps qui vient.  Neuchâtel-Paris, décembre 1946</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2101,13 +2205,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/9" name="i" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/9" name="IV.1. I" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) i — Suite neuchâteloise</value>
+          <value>IV.1. I (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.1. I"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2116,11 +2249,8 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">i</span>
-                      <a class="bookmark" href="9"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">I<a class="bookmark" href="9"> §</a></h1>
                     <p class="p autofirst">On se trompe en croyant qu’un voyageur à longueur de chemin perd sa patrie : c’est souvent elle qu’il découvre le mieux quand il parcourt le globe et vit chez l’étranger. Non qu’il y pense toujours, mais les hommes qu’il fréquente la voient en lui d’abord, l’en tiennent pour responsable, et par l’erreur la plus commune, l’en nomment si bien le représentant qu’il lui faut à la fin se la représenter comme il n’eût jamais fait en y restant. Dans sa cité, il était d’une famille, et pour sa famille un prénom ; à l’étranger, il devient toute une race. Serait-ce vrai ? se dit-il. Le voient-ils mieux que moi ? Mais que voient-ils, dont je n’ai pas conscience et que je croyais bien quitté ? Il se retourne et le voilà tout étonné… Désormais, nul n’est plus curieux des apparences et des secrets de son pays. Il songe : c’est là-bas que le mystère m’attend, et que ne vais-je pas y découvrir, à mon retour, que jamais je n’ai su regarder ?</p>
                     <p class="p">On lui dit : — Vous êtes Suisse ? Vous en avez de la chance ! Mais vous avez si peu l’air suisse.</p>
                     <p class="p">— C’est qu’il n’y a pas d’air suisse, ou qu’il en a vingt-deux.</p>
@@ -2141,7 +2271,7 @@
                         <div class="b note-page">
                           <a href="9#pb134">p. 134</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="9#note23_">23. </a>La première charte des libertés civiques a été obtenue par les bourgeois de Neuchâtel et signée par leur Comte souverain en 1214.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="9#note23_">23. </a>La première charte des libertés civiques a été obtenue par les bourgeois de Neuchâtel et signée par leur Comte souverain en 1214.</aside>
                       </div>
                     </section>
                   </article>
@@ -2158,82 +2288,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">i</span>
-                          </a>
+                          <a href="#">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2245,13 +2359,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/10" name="ii" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/10" name="IV.2. II" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) ii — Suite neuchâteloise</value>
+          <value>IV.2. II (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.2. II"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2260,12 +2403,9 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb136" id="pb136">[p. 136]</a>
-                    <h1 class="head chapter">
-                      <span class="num">ii</span>
-                      <a class="bookmark" href="10"> §</a>
-                    </h1>
+                    <h1 class="head chapter">II<a class="bookmark" href="10"> §</a></h1>
                     <p class="p autofirst">L’irruption du souvenir est aussi mystérieuse que celle de l’invention, dans notre esprit. Peu s’en faut, si j’y pense, que je ne les distingue plus. Tout se passe comme si la mémoire inventait soudain quelque forme que vient emplir le flot de l’émotion, mais n’est-ce pas le même piège que posera l’invention, en le tournant dans l’autre sens, comme pour se souvenir de ce qui vient ? D’où remontent ces rythmes de mots, cette épithète, ce nœud d’idées, où je ne reconnais rien de déjà lu ? Et de quel ciel me tombent ces visions surprenantes, où je reconnais bientôt ce que j’ai déjà vécu ? Certes, dans les deux cas, c’est moi que je découvre, puisqu’il s’agit d’un souvenir, d’une invention, sans autre précédent que moi. Mais la volonté n’y peut rien. Pourquoi maintenant, à cet instant précis, et non pas hier ni même une seule seconde plus tôt ? Quel mouvement ai-je donc fait par mégarde, qui m’accorde à la longueur d’ondes d’un passé, d’un avenir toujours présents ? Proust a surpris le mécanisme du souvenir conditionné. Il nous livre à l’accidentel, et ses accidents sont petits : une madeleine trempée dans du thé, un pavé qui bascule sous la semelle. Mais les grands accidents de la vie raniment de tout autres mystères. Ils nous font découvrir plus que nous-même.</p>
                     <p class="p">
 <a class="pb" href="#pb137" id="pb137">[p. 137]</a>
@@ -2278,7 +2418,7 @@
                         <div class="b note-page">
                           <a href="10#pb137">p. 137</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="10#note24_">24. </a>Principauté souveraine depuis le Moyen Âge, Neuchâtel a choisi de se confédérer avec la Suisse le 1<sup class="sup">er</sup> mai 1848, après une brève révolution qui renversa le régime monarchique et aristocratique.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="10#note24_">24. </a>Principauté souveraine depuis le Moyen Âge, Neuchâtel a choisi de se confédérer avec la Suisse le 1<sup class="sup">er</sup> mai 1848, après une brève révolution qui renversa le régime monarchique et aristocratique.</aside>
                       </div>
                     </section>
                   </article>
@@ -2295,82 +2435,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">ii</span>
-                          </a>
+                          <a href="#">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2382,13 +2506,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/11" name="iii" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/11" name="IV.3. III" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) iii — Suite neuchâteloise</value>
+          <value>IV.3. III (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.3. III"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2397,12 +2550,9 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb138" id="pb138">[p. 138]</a>
-                    <h1 class="head chapter">
-                      <span class="num">iii</span>
-                      <a class="bookmark" href="11"> §</a>
-                    </h1>
+                    <h1 class="head chapter">III<a class="bookmark" href="11"> §</a></h1>
                     <p class="p autofirst">C’est l’un des traits les moins connus de notre pays que la <i class="i">continuité</i> de ses familles, ailleurs rompue par des révolutions ou de fréquents changements de condition sociale. Nos archives sont intactes, minutieusement tenues par les communes les plus modestes, et tenues depuis plusieurs siècles pour une beaucoup plus grande proportion d’habitants que dans d’autres nations de l’Europe. La plupart des citoyens suisses, qu’ils soient bourgeois, ouvriers ou paysans, pourraient sans peine reconstituer leur ascendance jusqu’à des époques où n’atteignent, chez nos voisins, que les familles de la noblesse. La Suisse n’est pas démocratique pour avoir tardivement aboli ce que l’on nomme les privilèges, mais pour les avoir étendus, dès l’origine, au plus grand nombre.</p>
                     <p class="p">Le « Rôle des Bourgeois » de Neuchâtel illustre cette continuité jusqu’au <span class="num">xvi<sup class="sup">e</sup></span> siècle. Au-delà tout devient fort étrange. Voyez plutôt ces noms relevés au hasard dans le rôle de 1353 : Malifer, Conoz Bazin, Rollin d’Orouse, Perrod Tornarre, Jeannin Estorcy, Williermo Sacrement, Perrod Budivilie, Conier Civylin, Rolin Wavra, Cassiour, Boncrossare, Chocrus, Malsain, Viczo, Ellurdy, Escoferat, Moschauz, Cristin de Pomer, Quiquyrily, Quicu…</p>
                     <p class="p">On dirait des injures en patois ! De tous ces noms, 
@@ -2443,82 +2593,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">iii</span>
-                          </a>
+                          <a href="#">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2530,13 +2664,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/12" name="iv" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/12" name="IV.4. IV" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) iv — Suite neuchâteloise</value>
+          <value>IV.4. IV (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.4. IV"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2545,11 +2708,8 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">iv</span>
-                      <a class="bookmark" href="12"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">IV<a class="bookmark" href="12"> §</a></h1>
                     <p class="p autofirst">…Une lignée. Une famille parmi d’autres, et qui n’a guère cherché d’illustration en dehors des limites de la communauté qu’elle a servie pendant cinq siècles.</p>
                     <p class="p">Dans l’ascendance directe de mon père, je trouve d’abord, dès la Réforme, deux « Ministres du Saint Évangile » et deux juges. À partir du <span class="num">xvii<sup class="sup">e</sup></span> siècle, les généalogies que j’ai pu consulter ne mentionnent plus que des charges publiques : lieutenant des Assises, membres du Petit Conseil, conseiller d’État, enfin Procureur général de la Principauté. Puis survient la révolution dont nous allons célébrer le centenaire, et le dessaisissement du patriciat ; de là cette notice symbolique : Denis-François-Henry, rentier. (Un rentier n’est qu’un chômeur riche.) Suivent mon grand-père, professeur de théologie, et mon père, pasteur. Cela fait, au début et à la fin, pas mal de robes et de rabats, soit de justice, soit d’église ; et entre temps plus de deux siècles de participation continuelle au gouvernement du pays.</p>
                     <p class="p">
@@ -2597,82 +2757,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">iv</span>
-                          </a>
+                          <a href="#">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2684,13 +2828,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/13" name="v" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/13" name="IV.5. V" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) v — Suite neuchâteloise</value>
+          <value>IV.5. V (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.5. V"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2699,11 +2872,8 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">v</span>
-                      <a class="bookmark" href="13"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">V<a class="bookmark" href="13"> §</a></h1>
                     <p class="p autofirst">J’ai refermé les livres, les mémoires. L’année finit. J’écris sans hâte. Quel silence ! Et je m’attarde à suivre encore ces harmoniques, comme à l’écoute clandestine, l’oreille au son d’un passé qui faiblit mais qui n’a pas terminé son message. Il me parle ce soir de plus loin, d’au-delà de mon petit pays, dans l’espace et le temps d’une plus vaste patrie.</p>
                     <p class="p">Les perspectives changent à vue, vertige et grisaille du temps. Une lignée, une famille parmi d’autres… Je la voyais dans son canton ; mais dans la Suisse, mais dans l’Europe, que devient ce fil rouge que je croyais tenir ? Où vont se perdre les sentiers de la mémoire, ces voies ouvertes à l’imagination ?</p>
                     <p class="p">Il y a la petite patrie, la terre du père, celle qu’on peut parcourir en une journée et chaque jour de la vie sans se lasser, celle qu’un regard embrasse et détaille à loisir. Au-delà de ses paysages et de sa proche histoire, il n’y a que l’imaginaire. Les nations, les plus vastes patries n’ont jamais été vues par personne : c’est l’esprit qui les croit comme il croit au passé, à la tradition, à l’avenir. Plus tard, dans les archives et les voyages, dans l’aventure 
@@ -2740,82 +2910,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">v</span>
-                          </a>
+                          <a href="#">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2827,13 +2981,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/14" name="vi" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/14" name="IV.6. VI" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) vi — Suite neuchâteloise</value>
+          <value>IV.6. VI (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.6. VI"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2842,11 +3025,8 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">vi</span>
-                      <a class="bookmark" href="14"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">VI<a class="bookmark" href="14"> §</a></h1>
                     <p class="p autofirst">Ces retours sur l’histoire d’un pays, où je cherchais à mieux situer les miens, m’ont proposé chemin faisant quelques énigmes, et permis d’entrevoir quelques réponses. Voici pourtant un fait que je m’explique très mal, et qui touche à ma profession : Neuchâtel, pour tant de culture, pour tant de livres lus, relus, et de bon choix, accumulés depuis des siècles dans les maisons publiques et privées ; pour tant de livres publiés, aussi, n’a rien produit qui marque dans la langue, à part la Bible d’Ostervald.</p>
                     <p class="p">Les ouvrages distingués ne manquent pas. Mais les seuls qui aient franchi nos limites sont ceux de nos théologiens, Ostervald encore, puis Godet ; et le <i class="i">Droit des gens</i> de Vattel. Nous avons eu d’excellents historiens : l’auteur de la <i class="i">Chronique des Chanoines</i> (apocryphe), Chambrier pour l’ancien régime, Arthur Piaget pour la Révolution, Philippe Godet pour Madame de Charrière. Un moraliste au style subtil et naturel, Félix Bovet. Mais la littérature au sens étroit du terme — le roman, le poème, l’essai, le jeu d’idées — est restée chez nous pauvre ou nulle. Nous n’avons rien tiré de grand ou d’émouvant d’une culture solide et variée, d’une nature 
 <a class="pb" href="#pb151" id="pb151">[p. 151]</a>
@@ -2877,82 +3057,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">vi</span>
-                          </a>
+                          <a href="#">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -2964,13 +3128,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/15" name="vii" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/15" name="IV.7. VII" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) vii — Suite neuchâteloise</value>
+          <value>IV.7. VII (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.7. VII"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2979,11 +3172,8 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">vii</span>
-                      <a class="bookmark" href="15"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">VII<a class="bookmark" href="15"> §</a></h1>
                     <p class="p autofirst">« Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre et filtrent entre les roseaux. » (<i class="i">L’Immoraliste</i>).</p>
                     <p class="p">Près de ces eaux, ma vie sentimentale est née. Et depuis lors elle est restée lacustre. « Odeur de l’eau — pour toute la vie » écrivait un <i class="i">Paysan du Danube</i>, et vingt ans ne l’ont pas démenti.</p>
                     <p class="p">Je dénombre mes lacs et ne puis retrouver que du bonheur à ces souvenirs. Non qu’ils me parlent tous de jours heureux, mais la mémoire des plus amers ou des plus seuls a gardé le charme des eaux. Faut-il penser que la souffrance au bord d’un lac n’est jamais sans quelque douceur ?</p>
@@ -3026,82 +3216,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">vii</span>
-                          </a>
+                          <a href="#">VII</a>
                         </li>
-                        <li>
-                          <a href="16">
-                            <span class="num">viii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="16">VIII</a>
                         </li>
                       </ul>
                     </li>
@@ -3113,13 +3287,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982paysan/16" name="viii" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982paysan/16" name="IV.8. VIII" package="ddr1982paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube et autres textes (1982) viii — Suite neuchâteloise</value>
+          <value>IV.8. VIII (1982, Le Paysan du Danube et autres textes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube et autres textes (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV.8. VIII"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3128,18 +3331,15 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
-                    <h1 class="head chapter">
-                      <span class="num">viii</span>
-                      <a class="bookmark" href="16"> §</a>
-                    </h1>
+                  <article role="article">
+                    <h1 class="head chapter">VIII<a class="bookmark" href="16"> §</a></h1>
                     <p class="p autofirst">On peut écrire aussi contre les lacs, ces endormeurs, et porter sa louange à des lieux plus sévères. Mais plutôt il convient d’alterner ces agréments et ces vertus. Qui nous parlera des forêts ? Pour ma part, j’ai trop peu vécu sous les sapins, dans les vallées du Jura. J’y suis né, certes, mais les vraies patries sont celles où l’on naît à l’amour.</p>
                     <p class="p">Un portrait de notre pays, peint de là-haut, ne ressemblerait guère à mes esquisses. Au lieu de la lumière souvent voilée du lac, on y verrait un éclairage cru, des ombres longues et givrées, des couchants d’incendie sur les menées moroses des hauts plateaux boisés de noir. Ils vont jusqu’au Tibet, me disait un jour Ramuz (dont la géographie se passait bien d’atlas). C’est la même civilisation, les mêmes fumées sur les tourbières, les mêmes chants tristes, la même vie intérieure… Il me disait aussi que les paysans huguenots des Cévennes et du Languedoc sont en réalité des musulmans, qu’il suffit de les voir, tout noirs dans leurs cuisines, fatalistes et irréductibles… J’aime tous ceux qui prolongent ou qui ouvrent des voies. Je garde ma méfiance pour l’espèce de mensonge qui rend la vie plus petite que nature, sous prétexte d’exactitude.</p>
                     <p class="p">Pays des horlogers à domicile, des longues veillées, des inventions pratiques, et de beaucoup de dignité cordiale dans le commerce quotidien, c’est le nord du canton qui a gagné et nous a faits républicains, voilà cent ans. Il nous donne aujourd’hui nos meilleurs socialistes. C’est un pays qui est « avancé » par tradition.</p>
                     <p class="p">
 <a class="pb" href="#pb159" id="pb159">[p. 159]</a>
  Dans ma vallée natale, où se réfugia Jean-Jacques, Bakounine présida, me dit-on, les réunions secrètes d’où devait sortir la Première Internationale, aussitôt confisquée par Marx.</p>
-                    <p class="p">De cette enfance il me reste un cauchemar, l’école primaire, dont j’ai parlé ailleurs<a class="noteref" href="16#note25" id="note25_"><sup>25</sup></a> ; l’idée que mon village ne ressemble à aucun autre ; une connaissance intime de la neige ; le désir des pays chauds ; et un petit lièvre<a id="_GoBack">‌</a>.</p>
+                    <p class="p">De cette enfance il me reste un cauchemar, l’école primaire, dont j’ai parlé ailleurs<a class="noteref" href="16#note25" id="note25_"><sup>25</sup></a> ; l’idée que mon village ne ressemble à aucun autre ; une connaissance intime de la neige ; le désir des pays chauds ; et un petit lièvre.</p>
                     <p class="p">Je me souviens de ce retour du Creux-du-Van, à travers les grands pâturages parsemés de sapins majestueux et coupés çà et là de murs bas faits de grosses pierres entassées avec art. Nous passions les clédars (beau mot celtique, l’un des rares qui subsistent chez nous) et les refermions avec soin, pour que les vaches n’aillent point changer de propriétaire. Nous marchions à grandes enjambées, joyeux de sentir nos gros talons cloutés mordre dans le sol élastique. Soudain je suspendis mon pas : au bout de mon pied, dans un creux d’herbe, un petit lièvre frémissait, immobile et terrorisé. Nous nous sommes regardés un moment, de tout près. Un seul geste rapide eût suffi pour l’attraper par les oreilles. J’imaginai en une seconde la gloire que me vaudrait cette aventure, ma rentrée triomphale à la maison. (Faut-il avouer que je la regrette encore ?) Mais je restais là sans mouvement, fasciné par l’aubaine et plus encore ému par ce petit être tremblant. C’était trop beau… Le lièvre détala. Combien d’occasions merveilleuses ai-je laissé détaler depuis ! Ce sont peut-être celles qui m’ont le plus appris. Ma gloire ou mon plaisir en ont pâti, mais j’en tire une satisfaction plus secrète et qui les vaut bien. Chaque fois qu’une chance offerte un instant fuit d’un bond, parce qu’un scrupule ou un respect, ou quelque obscure sagesse ont retenu ma main, je me dis : c’est encore un petit lièvre ! et poursuis mon chemin plus léger. 
 <a class="pb" href="#pb160" id="pb160">[p. 160]</a>
 </p>
@@ -3161,7 +3361,7 @@
                         <div class="b note-page">
                           <a href="16#pb159">p. 159</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="16#note25_">25. </a>[NdE] Voir <a>Les Méfaits de l’Instruction publique</a>.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="16#note25_">25. </a>[NdE] Voir <a>Les Méfaits de l’Instruction publique</a>.</aside>
                       </div>
                     </section>
                   </article>
@@ -3178,82 +3378,66 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Le sentiment de l’Europe centrale</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2">Une « tasse de thé » au palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Voyage en Hongrie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Le balcon sur l’eau</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Quand je me souviens — C’est l’Europe</a>
                     </li>
-                    <li>
+                    <li class="ancestor">
                       <div>Suite neuchâteloise</div>
                       <ul>
-                        <li>
-                          <a href="9">
-                            <span class="num">i</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="9">I</a>
                         </li>
-                        <li>
-                          <a href="10">
-                            <span class="num">ii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="10">II</a>
                         </li>
-                        <li>
-                          <a href="11">
-                            <span class="num">iii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="11">III</a>
                         </li>
-                        <li>
-                          <a href="12">
-                            <span class="num">iv</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="12">IV</a>
                         </li>
-                        <li>
-                          <a href="13">
-                            <span class="num">v</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="13">V</a>
                         </li>
-                        <li>
-                          <a href="14">
-                            <span class="num">vi</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="14">VI</a>
                         </li>
-                        <li>
-                          <a href="15">
-                            <span class="num">vii</span>
-                          </a>
+                        <li class="collateral">
+                          <a href="15">VII</a>
                         </li>
                         <li class="here">
-                          <a href="#">
-                            <span class="num">viii</span>
-                          </a>
+                          <a href="#">VIII</a>
                         </li>
                       </ul>
                     </li>

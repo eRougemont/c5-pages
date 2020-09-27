@@ -4,10 +4,39 @@
     <page path="/livres/ddr1946jdm/1" name="Avertissement" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Avertissement</value>
+          <value>Avertissement (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p5" id="p5">[p. 5]</a>
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Le <a href="https://www.unige.ch/rougemont/livres/ddr1937jic"><i class="i">Journal d’un intellectuel en chômage</i></a> décrivait la France de l’entre-deux-guerres. Le <a href="https://www.unige.ch/rougemont/livres/ddr1938ja"><i class="i">Journal d’Allemagne</i></a> montrait l’hitlérisme dressé contre elle et contre toute l’Europe. Ce troisième récit, qui se passe surtout en Suisse et en Amérique pendant la guerre, mais aussi dans d’autres pays, a pour véritable sujet non plus une nation, un régime, mais le désordre de l’époque, vu de près.</p>
@@ -40,55 +69,55 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -99,13 +128,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/2" name="Le bon vieux temps présent" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/2" name="1. Le bon vieux temps présent" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Le bon vieux temps présent</value>
+          <value>1. Le bon vieux temps présent (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Le bon vieux temps présent"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -114,7 +172,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">Le bon vieux temps présent<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level2">
@@ -146,63 +204,63 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
                       <a href="#">Le bon vieux temps présent</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">17 mars 1939</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -213,13 +271,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/3" name="Journal d’attente" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/3" name="2. Journal d’attente" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Journal d’attente</value>
+          <value>2. Journal d’attente (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Journal d’attente"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -228,7 +315,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
                     <h1 class="head chapter">Journal d’attente<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2">
@@ -405,123 +492,123 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
                     <li class="here">
                       <a href="#">Journal d’attente</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">Pardigon, Côte des Maures, avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">5 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">8 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">11 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">15 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6">16 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-7">Paris, 21 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8">26 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-9">27 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-10">29 avril 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-11">En Suisse, 2 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-12">6 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-13">La Celle-Saint-Cloud, 12 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-14">14 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-15">17 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-16">21 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-17">24 mai 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-18">5 juin 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-19">10 juin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-20">19 juin 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-21">21 juin 1939</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -532,13 +619,42 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/4" name="Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/4" name="3. Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Intermède</value>
+          <value>3. Intermède (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Intermède"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -547,7 +663,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p30" id="p30">[p. 30]</a>
                     <h1 class="head chapter">Intermède<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">Le soir du <i class="i">28</i> août 1939, je finissais de dîner dans un hôtel de La Chaux-de-Fonds, et comme je me préparais à gagner le Conservatoire pour y assister à une répétition de mon drame,<i class="i"> Nicolas de Flue</i>, mis en musique par Arthur Honegger, la radio brusquement interrompit les conversations.</p>
@@ -575,58 +691,58 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
                     <li class="here">
                       <a href="#">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -637,13 +753,42 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/5" name="Puisque je suis un militaire…" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/5" name="4. Puisque je suis un militaire…" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Puisque je suis un militaire…</value>
+          <value>4. Puisque je suis un militaire… (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. Puisque je suis un militaire…"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -652,7 +797,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
                     <h1 class="head chapter">Puisque je suis un militaire…<a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2">
@@ -680,7 +825,9 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                       <h2 class="head">10 octobre 1939<a class="bookmark" href="5#body-5-2"> §</a></h2>
                       <p class="p autofirst">Au mess des officiers de la compagnie, qui est la « chambre rangée » d’une ferme cossue, je viens de tourner le bouton de la radio et suis tombé sur un récital de chansons militaires du <span class="num">xviii<sup class="sup">e</sup></span> siècle. Je note vite ces paroles charmantes :</p>
                       <blockquote class="quote">
-                        <div class="l">Puisque je suis un militaire <br class="lb"/>Il faut bien faire <br class="lb"/>Mon état…</div>
+                        <div class="l">Puisque je suis un militaire</div>
+                        <div class="l">Il faut bien faire</div>
+                        <div class="l">Mon état…</div>
                       </blockquote>
                     </section>
                     <section id="body-5-3" class="div level2">
@@ -704,7 +851,8 @@ Nous vivons à côté de la population, mêlés à elle, et cependant hors de sa
  Il ne s’agit pas de grands mots, de lyrisme ou d’idéalisme. Il s’agit de voir <b class="b"><i class="i">qu’en fait</i></b>, si nous sommes là, ce n’est pas pour défendre des fromages, des conseils d’administration, notre confort et nos hôtels. Les fascistes feraient marcher cela aussi bien que nous, peut-être mieux ! Ce n’est pas non plus pour protéger nos « lacs d’azur » et nos « glaciers sublimes ». (Certain ministre de la propagande se chargerait très volontiers de ce travail de <b class="b"><i class="i">Heimatschutz</i>.)</b> Si nous sommes là, c’est pour exécuter la mission dont nous sommes responsables, depuis des siècles, devant l’Europe. D’autres se sont chargés d’arrêter les brigands qui voulaient profiter de sa faiblesse. Nous sommes chargés de la défendre contre elle-même, de garder son trésor, d’affirmer sa santé, et de sauver son avenir. Tel est le sens de la mission spéciale qui justifie notre neutralité. Si nous trahissons cette mission, si nous n’en gardons pas conscience, je ne donne pas lourd de notre indépendance.</p>
                     </section>
                     <section id="body-5-5" class="div level2">
-                      <h2 class="head">Berne, fin novembre 1939. <br class="lb"/>(Au retour d’un voyage en Hollande.)<a class="bookmark" href="5#body-5-5"> §</a></h2>
+                      <h2 class="head">Berne, fin novembre 1939.
+            <br class="lb"/>(Au retour d’un voyage en Hollande.)<a class="bookmark" href="5#body-5-5"> §</a></h2>
                       <p class="p autofirst">Je l’ai pourtant quittée, cette chambre paysanne, mais j’y suis pour peu que j’y pense, et c’est souvent. Faites le compte de vos heures et vous découvrirez que tout homme rêve une bonne part de sa vie.</p>
                       <p class="p">Mais il arrive aussi que certains rêves, et certains cauchemars, soient vécus ; j’ai connu cela, dans une grande gare de cette Europe qui ne sait plus répondre 
 <a class="pb" href="#p41" id="p41">[p. 41]</a>
@@ -770,7 +918,10 @@ Les petits peuples protestants de l’Europe ont réalisé ce miracle de l’éq
  Pourquoi les hommes les plus vivants de cette époque où la vie s’exaspère ont-ils fait à la mort, dans leurs rêves, la part que nous fîmes à l’amour ? Urs Graf, Holbein, Hans Kluber, Grünewald, et tant d’autres, connus ou anonymes, dira-t-on que ce fut leur romantisme ? Mais non, le romantisme est littéraire, et ces hommes ont le regard net, accoutumé à taxer le réel avec une dure exactitude : face au danger. Leur Suisse est au sommet de son élan vers la conquête et la richesse, au comble de sa gloire et de son risque. Elle n’a jamais été moins neutre, moins confinée dans ses moyennes, ni moins en garde contre les tentations de la grandeur. Elle est sérieuse parce qu’elle est menacée et menaçante ; parce qu’elle est tout le contraire d’un pays d’« assurés ». Sérieuse et impétueuse comme ceux qui savent que la vie n’est pas le but de la vie, qu’elle ne mérite pas de majuscule, et qu’elle est quelque chose qui doit brûler, flamber, et non pas rapporter du trois pour cent. Sérieuse comme ce qui compte avec la mort, comme ce qui compte avec l’esprit, — avec la profondeur et la hauteur sans quoi toute vie demeure plate et basse.</p>
                       <div class="ab ornament">⁂</div>
                       <blockquote class="quote">
-                        <div class="l">Quanto bella giovinezza <br class="lb"/>Che si fugge tuttavia ! <br class="lb"/>Chi vuol esser lieto, sia ! <br class="lb"/>Di doman non c’è certezza.</div>
+                        <div class="l">Quanto bella giovinezza</div>
+                        <div class="l">Che si fugge tuttavia !</div>
+                        <div class="l">Chi vuol esser lieto, sia !</div>
+                        <div class="l">Di doman non c’è certezza.</div>
                       </blockquote>
                       <p class="p autofirst">Ainsi chantait Laurent le Magnifique. Manuel et ses contemporains savent et disent à leur manière que 
 <a class="pb" href="#p51" id="p51">[p. 51]</a>
@@ -814,10 +965,11 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
 <a class="pb" href="#p57" id="p57">[p. 57]</a>
  adresse, au ras de la plaine. Un peu avant la sortie du village, la rue bifurque : une route prend à droite, vers la plaine, escortée de quelques maisons ; l’autre s’incline lentement vers la vallée, dans les vergers. Nous nous étions arrêtés là, hésitant sur le chemin à prendre. Et soudain nous vîmes à nos pieds, tracé à la craie sur le sol, un grand cercle entourant une inscription en lettres capitales bien arrondies :</p>
                       <p class="p center">
-                        <span class="sc">martine <br class="lb"/>je suis <br class="lb"/>aux champs</span>
+                        <span class="sc">martine
+              <br class="lb"/>je suis
+              <br class="lb"/>aux champs</span>
                       </p>
-                      <p class="p center"> 
-          </p>
+                      <p class="p center"> </p>
                       <p class="p"> </p>
                       <p class="p autofirst">Paix du village, silence des rues vides, ouvertes sur le ciel et sur les blés. J’étais là fasciné comme par la découverte d’un secret de pudeur naïvement dévoilé. Secret de ce village aux volets clos. Imaginant une idylle muette. Celui qui revient au pays après une longue absence et des déboires : il entre, il ne trouve personne. Mais ses outils sont là, contre le mur. Il reprend le chemin de son champ. En passant au carrefour il s’est dit : Peut-être est-elle à Mandres, c’est donc jour de marché. Il a écrit ces mots. Elle saura bien. Il a rejoint l’<i class="i">usage</i> du pays, l’intimité des choses de toujours. Et le moindre signe suffit.</p>
                       <p class="p">Nous sommes redescendus vers la vallée de l’Yerres, qui coule entre des saules et des peupliers blancs. Il faisait lourd et doux, le goudron de la route sentait plus fort que les champs de roses, et des nuages noirs traînaient sur les vergers.</p>
@@ -833,13 +985,13 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                         <div class="b note-page">
                           <a href="5#p49">p. 49</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="5#note1_">1. </a>Vers du <i class="i">Biccocalied. À</i> la bataille de la Bicoque, les lansquenets s’étaient dissimulés dans des tranchées, pendant que leur artillerie décimait les Suisses à bout portant. Le poème de Manuel répond à une chanson glorifiant la victoire des Allemands.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="5#note1_">1. </a>Vers du <i class="i">Biccocalied. À</i> la bataille de la Bicoque, les lansquenets s’étaient dissimulés dans des tranchées, pendant que leur artillerie décimait les Suisses à bout portant. Le poème de Manuel répond à une chanson glorifiant la victoire des Allemands.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p53">p. 53</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="5#note2_">2. </a><i class="i">Amen. Versiglet mit dem schwytzerdegen. — End. Gott sye lob</i> ! La plupart des autres drames et satires de Manuel se terminent par la mention du « schwytzerdegen » qui demeure sa vraie signature.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="5#note2_">2. </a><i class="i">Amen. Versiglet mit dem schwytzerdegen. — End. Gott sye lob</i> ! La plupart des autres drames et satires de Manuel se terminent par la mention du « schwytzerdegen » qui demeure sa vraie signature.</aside>
                       </div>
                     </section>
                   </article>
@@ -856,93 +1008,93 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
                     <li class="here">
                       <a href="#">Puisque je suis un militaire…</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">En cantonnement, quelque part à la frontière suisse, fin septembre 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">10 octobre 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3"><i><i>11</i></i>octobre 1939</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">31 octobre 1939</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-5">Berne, fin novembre 1939.   (Au retour d’un voyage en Hollande.)</a>
+                        <li class="collateral">
+                          <a href="5#body-5-5">Berne, fin novembre 1939.  (Au retour d’un voyage en Hollande.)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-6">Janvier 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-7">Février 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-8">Fin février 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-9">Début de mars 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-10">9 mars 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-11">Mars 1940</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -953,13 +1105,42 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/6" name="Anecdotes et aphorismes" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/6" name="5. Anecdotes et aphorismes" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Anecdotes et aphorismes</value>
+          <value>5. Anecdotes et aphorismes (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. Anecdotes et aphorismes"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -968,7 +1149,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p59" id="p59">[p. 59]</a>
                     <h1 class="head chapter">Anecdotes et aphorismes<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">L’Évangile dit que ceux qui ne sont ni froids ni bouillants seront vomis. Mais Hitler, loin de vomir les neutres, les mange.</p>
@@ -1159,13 +1340,13 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="6#p65">p. 65</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="6#note3_">3. </a><i class="i">Hitler m’a dit</i>, par H. Rauschning.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="6#note3_">3. </a><i class="i">Hitler m’a dit</i>, par H. Rauschning.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p76">p. 76</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="6#note4_">4. </a><i class="i">Note de 1946</i>. Je lis dans les instructions données au général Guisan le 31 août 1939 par le Conseil fédéral, la phrase suivante (article premier) : « <i class="i">Vous avez pour mission de sauvegarder l’indépendance du pays et de maintenir l’intégrité du territoire. »</i> Or il est clair que pour défendre un <i class="i">territoire</i>, il est parfois indiqué de céder du terrain : c’est ce qu’on nomme une retraite stratégique. On aurait pu me répondre, en 1940, qu’il est aussi des retraites nécessaires pour défendre <i class="i">l’indépendance.</i> Cela se discute. Ce fut la tendance de Vichy. Par bonheur elle n’a pas prévalu en Suisse.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="6#note4_">4. </a><i class="i">Note de 1946</i>. Je lis dans les instructions données au général Guisan le 31 août 1939 par le Conseil fédéral, la phrase suivante (article premier) : « <i class="i">Vous avez pour mission de sauvegarder l’indépendance du pays et de maintenir l’intégrité du territoire. »</i> Or il est clair que pour défendre un <i class="i">territoire</i>, il est parfois indiqué de céder du terrain : c’est ce qu’on nomme une retraite stratégique. On aurait pu me répondre, en 1940, qu’il est aussi des retraites nécessaires pour défendre <i class="i">l’indépendance.</i> Cela se discute. Ce fut la tendance de Vichy. Par bonheur elle n’a pas prévalu en Suisse.</aside>
                       </div>
                     </section>
                   </article>
@@ -1182,105 +1363,105 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
                     <li class="here">
                       <a href="#">Anecdotes et aphorismes</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-1">Fin mars 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2">Berne, avril 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-3">11 mai 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-4">16 mai 1940, près de la frontière</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-5">24 mai 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-6"><i><i>6</i></i> juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-7">12 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-8">Dimanche, 16 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-9">Lundi 17 juin 1940, soir</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-10">18 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-11">19 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-12">20 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-13">21 juin 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-14">Début de juillet 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-15">Mi-juillet 1940</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -1291,13 +1472,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/7" name="Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/7" name="6. Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Intermède</value>
+          <value>6. Intermède (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. Intermède"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1306,7 +1516,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p78" id="p78">[p. 78]</a>
                     <h1 class="head chapter">Intermède<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">Sur la période qui suit, jusqu’au 20 août, date de mon départ pour l’Amérique, je ne retrouve dans mes papiers que des notes décousues, des lettres, un gros paquet de coupures de journaux concernant la Ligue du Gothard, des plans d’organisation, le programme de plusieurs rencontres avec des syndicalistes, des industriels et des responsables de groupements divers.</p>
@@ -1325,7 +1535,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="7#p78">p. 78</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="7#note5_">5. </a>On se rappelle, en Suisse, que le 25 juillet, le général Guisan convoqua tous les officiers supérieurs de l’armée pour leur exposer son plan de défense à outrance autour du massif du Gothard.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="7#note5_">5. </a>On se rappelle, en Suisse, que le 25 juillet, le général Guisan convoqua tous les officiers supérieurs de l’armée pour leur exposer son plan de défense à outrance autour du massif du Gothard.</aside>
                       </div>
                     </section>
                   </article>
@@ -1342,58 +1552,58 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
                     <li class="here">
                       <a href="#">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -1404,13 +1614,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/8" name="La route de Lisbonne" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/8" name="7. La route de Lisbonne" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) La route de Lisbonne</value>
+          <value>7. La route de Lisbonne (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "7. La route de Lisbonne"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1419,7 +1658,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p81" id="p81">[p. 81]</a>
                     <h1 class="head chapter">La route de Lisbonne<a class="bookmark" href="8"> §</a></h1>
                     <section id="body-8-1" class="div level2">
@@ -1557,102 +1796,102 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
                     <li class="here">
                       <a href="#">La route de Lisbonne</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-1">Quinta da Fonte (Portugal), 28 août 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-2">Première journée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-3">Deuxième journée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-4">Troisième journée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-5">Quatrième journée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-6">Cinquième journée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-7">Lisbonne, 10 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-8">À bord de l’Exeter, 11 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-9">En mer, nuit du 14 au 15 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-10">17 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-11">18 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-12">19 septembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-13">20 septembre 1940, en rade de New York</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-14">New York, fin septembre 1940</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -1663,13 +1902,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/9" name="Premiers contacts avec le nouveau monde" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/9" name="8. Premiers contacts avec le nouveau monde" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Premiers contacts avec le nouveau monde</value>
+          <value>8. Premiers contacts avec le nouveau monde (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "8. Premiers contacts avec le nouveau monde"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1678,7 +1946,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p99" id="p99">[p. 99]</a>
                     <h1 class="head chapter">Premiers contacts avec le nouveau monde<a class="bookmark" href="9"> §</a></h1>
                     <section id="body-9-1" class="div level2">
@@ -1958,13 +2226,13 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="9#p122">p. 122</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="9#note6_">6. </a>Voir l’introduction de <i class="i"><span class="bg_ffff00">La Part du Diable</span>.</i> Le livre est né de cet article, un an plus tard.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="9#note6_">6. </a>Voir l’introduction de <i class="i"><span class="bg_ffff00">La Part du Diable</span>.</i> Le livre est né de cet article, un an plus tard.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#p129">p. 129</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="9#note7_">7. </a>Cf. <i class="i">The Heart of Europe</i> by Denis de Rougemont and Charlotte Muret, New York 1941. Cet ouvrage est resté inédit en français.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="9#note7_">7. </a>Cf. <i class="i">The Heart of Europe</i> by Denis de Rougemont and Charlotte Muret, New York 1941. Cet ouvrage est resté inédit en français.</aside>
                       </div>
                     </section>
                   </article>
@@ -1981,162 +2249,162 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
                     <li class="here">
                       <a href="#">Premiers contacts avec le nouveau monde</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-1">New York, octobre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-2">Princeton (New Jersey), mi-octobre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-3">Princeton, fin d’octobre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-4">Washington, 30 octobre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-5">Princeton, 1<sup>er</sup> novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-6">New York, 3 novembre</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-7">New York, 6 novembre</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-8">Princeton, 10 novembre</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-9">12 novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-10">13 novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-11"><i><i> 14</i></i>novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-12">15 novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-13">Forest Hills, 30 novembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-14">Décembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-15">Décembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-16">23 décembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-17">26 décembre 1940</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-18">Début de janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-19">16 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-20">20 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-21">21 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-22">24 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-23">25 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-24">27 janvier 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-25">5 février 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-26">13 février 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-27">16 février 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-28">Cambridge (Mass.), 18 avril 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-29">New York, 8 mai 1941, nuit</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-30">15 mai 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-31">9 mai 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-32">15 mai 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-33">28 mai 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-34">17 juillet 1941</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -2147,13 +2415,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/10" name="Voyage en Argentine" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/10" name="9. Voyage en Argentine" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Voyage en Argentine</value>
+          <value>9. Voyage en Argentine (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "9. Voyage en Argentine"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2162,7 +2459,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p131" id="p131">[p. 131]</a>
                     <h1 class="head chapter">Voyage en Argentine<a class="bookmark" href="10"> §</a></h1>
                     <section id="body-10-1" class="div level2">
@@ -2360,102 +2657,102 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
                     <li class="here">
                       <a href="#">Voyage en Argentine</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-1">À bord de l’Argentina, 18 juillet 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-2">21 juillet 1941, en mer</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-3">23 juillet 1941, en mer</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-4">26 juillet 1941, en mer</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-5">2 août 1941, en mer</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-6">4 août 1941, Estuaire de la Plata</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-7">Buenos Aires, début de septembre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-8">10 octobre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-9">Estancia de Los Cerillos, 15 octobre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-10">Buenos Aires, fin d’octobre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-11">2 novembre 1941, en rade de Buenos Aires</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-12">7 novembre 1941, en mer</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-13">17 novembre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-14">Intermède douanier</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -2466,13 +2763,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/11" name="Solitudes et amitiés" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/11" name="10. Solitudes et amitiés" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Solitudes et amitiés</value>
+          <value>10. Solitudes et amitiés (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "10. Solitudes et amitiés"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2481,7 +2807,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p153" id="p153">[p. 153]</a>
                     <h1 class="head chapter">Solitudes et amitiés<a class="bookmark" href="11"> §</a></h1>
                     <section id="body-11-1" class="div level2">
@@ -2681,37 +3007,37 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="11#p155">p. 155</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="11#note8_">8. </a>En novembre 1939, passant par Paris pour aller en Hollande, je tins à retourner au carrefour de mon rêve : le boulevard était vide et le black-out expliquait qu’il fût aussi sombre. L’atmosphère était celle de mon cauchemar, mais j’étais libre encore de remonter la rue. L’occupation doit achever la ressemblance et la pousser jusqu’à <i class="i">l’identité.</i></aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="11#note8_">8. </a>En novembre 1939, passant par Paris pour aller en Hollande, je tins à retourner au carrefour de mon rêve : le boulevard était vide et le black-out expliquait qu’il fût aussi sombre. L’atmosphère était celle de mon cauchemar, mais j’étais libre encore de remonter la rue. L’occupation doit achever la ressemblance et la pousser jusqu’à <i class="i">l’identité.</i></aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="11#p156">p. 156</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="11#note9_">9. </a>Quartier du bas de la ville où habitent beaucoup d’écrivains et de peintres.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="11#note9_">9. </a>Quartier du bas de la ville où habitent beaucoup d’écrivains et de peintres.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="11#p157">p. 157</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="11#note10_">10. </a>Il s’agit du livre intitulé <a class="i">La Part du Diable</a>, qui devait paraître à New York à la fin de 1942, dans une première version. La seconde version, élargie, date de 1944.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="11#note10_">10. </a>Il s’agit du livre intitulé <a class="i">La Part du Diable</a>, qui devait paraître à New York à la fin de 1942, dans une première version. La seconde version, élargie, date de 1944.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="11#p160">p. 160</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="11#note11_">11. </a>Université française fondée en 1941 à New York par des professeurs exilés de France et de Belgique. Son premier Président fut Henri Focillon, auquel succéda Jacques Maritain.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="11#note11_">11. </a>Université française fondée en 1941 à New York par des professeurs exilés de France et de Belgique. Son premier Président fut Henri Focillon, auquel succéda Jacques Maritain.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="11#p166">p. 166</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="11#note12_">12. </a>Pseudonyme d’Alexis Léger, Secrétaire général des Affaires étrangères jusqu’en mai 1940, auteur d<i class="i">’Éloges, d’Anabase</i> et de l’<i class="i">Exil.</i></aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="11#note12_">12. </a>Pseudonyme d’Alexis Léger, Secrétaire général des Affaires étrangères jusqu’en mai 1940, auteur d<i class="i">’Éloges, d’Anabase</i> et de l’<i class="i">Exil.</i></aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="11#p171">p. 171</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="11#note13_">13. </a>Nous annoncions chaque semaine, à cette époque, le résultat de l’effort spectaculaire entrepris par les chantiers maritimes d’Henry Kaiser : il se proposait de réduire le temps de construction d’un cargo <i class="i">Liberty</i> de trente-six jours à quatorze, puis à cinq ! Il y parvint.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="11#note13_">13. </a>Nous annoncions chaque semaine, à cette époque, le résultat de l’effort spectaculaire entrepris par les chantiers maritimes d’Henry Kaiser : il se proposait de réduire le temps de construction d’un cargo <i class="i">Liberty</i> de trente-six jours à quatorze, puis à cinq ! Il y parvint.</aside>
                       </div>
                     </section>
                   </article>
@@ -2728,135 +3054,135 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
                     <li class="here">
                       <a href="#">Solitudes et amitiés</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-1">New York, 22 novembre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-2">28 novembre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-3">7 décembre 1941</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-4">Fin décembre 1941, 5, West 16th Street</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-5">Mercredi des Cendres, février 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-6">2 mars 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-7">4 mars 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-8">20 mars 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-9">Fin mars 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-10">1<sup>er</sup> avril 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-11">16 avril 1942, 11 West 52th Street</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-12">21 avril 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-13">17 avril 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-14">10 mai 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-15">Fin mai 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-16">Fin juin 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-17">Juin 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-18">Juillet 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-19">2 août 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-20">Wesport (Connecticut), 25 août 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-21">18 août 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-22">New York, 2 septembre 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-23">Long Island, fin septembre 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-24"> New York, octobre 1942</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="11#body-11-25">Bevin House, fin octobre 1942</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -2867,13 +3193,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/12" name="Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/12" name="11. Intermède" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Intermède</value>
+          <value>11. Intermède (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "11. Intermède"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2882,7 +3237,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p174" id="p174">[p. 174]</a>
                     <h1 class="head chapter">Intermède<a class="bookmark" href="12"> §</a></h1>
                     <p class="p autofirst">… mais sachez-le : nous n’étions pas absents de vous plus que de nous-mêmes. Vous étiez « occupés », nous étions en exil, et les uns comme les autres dans l’inaccepté, dans la dépossession profonde, dans une mise en question générale au pire moment, à l’heure de moindre résistance.</p>
@@ -2907,58 +3262,58 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
                     <li class="here">
                       <a href="#">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -2969,13 +3324,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/13" name="L’Amérique en guerre" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/13" name="12. L’Amérique en guerre" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) L’Amérique en guerre</value>
+          <value>12. L’Amérique en guerre (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "12. L’Amérique en guerre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2984,7 +3368,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p177" id="p177">[p. 177]</a>
                     <h1 class="head chapter">L’Amérique en guerre<a class="bookmark" href="13"> §</a></h1>
                     <section id="body-13-1" class="div level2">
@@ -3105,13 +3489,13 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="13#p183">p. 183</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="13#note14_">14. </a>Je n’oublie pas celui du général de Gaulle à la radio de Londres, le 18 juin 1940. Mais de Gaulle était justement le contraire d’un officiel à cette époque.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="13#note14_">14. </a>Je n’oublie pas celui du général de Gaulle à la radio de Londres, le 18 juin 1940. Mais de Gaulle était justement le contraire d’un officiel à cette époque.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="13#p185">p. 185</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="13#note15_">15. </a>Terme difficile à traduire, qui signifie en Amérique le brillant ou l’éclat d’une femme, d’une robe ou d’une cérémonie, tout ce qui « vous en met plein la vue ». Par extension : l’ensemble des recettes de beauté et des gestes, des mines, des poses, des manières de marcher et de rire qui feront d’une jeune femme une <i class="i">glamour-girl.</i></aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="13#note15_">15. </a>Terme difficile à traduire, qui signifie en Amérique le brillant ou l’éclat d’une femme, d’une robe ou d’une cérémonie, tout ce qui « vous en met plein la vue ». Par extension : l’ensemble des recettes de beauté et des gestes, des mines, des poses, des manières de marcher et de rire qui feront d’une jeune femme une <i class="i">glamour-girl.</i></aside>
                       </div>
                     </section>
                   </article>
@@ -3128,84 +3512,84 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
                     <li class="here">
                       <a href="#">L’Amérique en guerre</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-1">New York, 31 janvier 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-2">1<sup>er</sup> février 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-3">Février 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-4">Mars 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-5">Avril 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-6">Mai 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-7">Juillet 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="13#body-13-8">Août 1943</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -3216,13 +3600,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/14" name="Virginie" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/14" name="13. Virginie" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Virginie</value>
+          <value>13. Virginie (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "13. Virginie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3231,7 +3644,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p193" id="p193">[p. 193]</a>
                     <h1 class="head chapter">Virginie<a class="bookmark" href="14"> §</a></h1>
                     <section id="body-14-1" class="div level2">
@@ -3338,7 +3751,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="14#p196">p. 196</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="14#note16_">16. </a>On peut bien dire que Ford, par exemple, qui est l’homme le plus riche d’Amérique, est loin d’être le plus puissant puisque toute sa fortune ne travaille et ne consiste que dans une seule grosse entreprise, la sienne. D’autres « contrôlent » une cinquantaine d’affaires des plus diverses, et quoiqu’un peu et même parfois beaucoup moins riches, détiennent une puissance plus réelle. Mais ce n’est là que l’enfance de l’art, et la question la plus élémentaire.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="14#note16_">16. </a>On peut bien dire que Ford, par exemple, qui est l’homme le plus riche d’Amérique, est loin d’être le plus puissant puisque toute sa fortune ne travaille et ne consiste que dans une seule grosse entreprise, la sienne. D’autres « contrôlent » une cinquantaine d’affaires des plus diverses, et quoiqu’un peu et même parfois beaucoup moins riches, détiennent une puissance plus réelle. Mais ce n’est là que l’enfance de l’art, et la question la plus élémentaire.</aside>
                       </div>
                     </section>
                   </article>
@@ -3355,90 +3768,90 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
                     <li class="here">
                       <a href="#">Virginie</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-1">Septembre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-2">Oak Spring (Virginie), 11 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-3">14 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-4">19 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-5">19 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-6">21 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-7">23 octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-8">Fin d’octobre 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-9">New York, fin d’année 1943</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-10">Janvier 1944</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -3449,13 +3862,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/15" name="Intermède – Mémoire de l’Europe" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/15" name="14. Intermède. Mémoire de l’Europe" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Intermède – Mémoire de l’Europe</value>
+          <value>14. Intermède. Mémoire de l’Europe (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "14. Intermède. Mémoire de l’Europe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3464,9 +3906,10 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p208" id="p208">[p. 208]</a>
-                    <h1 class="head chapter">Intermède <br class="lb"/>Mémoire de l’Europe<a class="bookmark" href="15"> §</a></h1>
+                    <h1 class="head chapter">Intermède
+          <br class="lb"/>Mémoire de l’Europe<a class="bookmark" href="15"> §</a></h1>
                     <p class="p autofirst">Je ne savais pas que tout était si près, là-bas. J’étais baigné. J’étais fondé. Et je marchais parmi les signes. Sédiments séculaires, socles de nos patries ! Monuments que l’on ne voit plus, mais qui renvoient l’écho familier de nos pas. Et ces rues qui tournaient doucement vers une place plantée d’arbres et déserte, aux rendez-vous manqués où je me retrouvais… « Je t’aime. J’aime ! »</p>
                     <p class="p">J’ai tout dit. L’Europe était patrie d’amour. Le silence attendait, l’absence était profonde, et chaque être présent questionnait, répondait. La force était au secret de nos vies, nouée parfois dans une rancune obscure, ou bien dans la contemplation jalouse d’un vieil arbre<i class="i"> —</i> il était vieux déjà du temps de notre enfance, et notre possession la plus tenace, il nous réduisait au silence. La force était chanson fredonnée sur le seuil, au matin d’une journée qui se liait aux autres…</p>
                     <p class="p">(Quand ta force devient visible, c’est comme le sang, c’est que tu es blessé, ta vie s’en va.)</p>
@@ -3489,58 +3932,58 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
                     <li class="here">
-                      <a href="#">Intermède  –  Mémoire de l’Europe</a>
+                      <a href="#">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -3551,13 +3994,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/16" name="Le choc de la paix" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/16" name="15. Le choc de la paix" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Le choc de la paix</value>
+          <value>15. Le choc de la paix (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "15. Le choc de la paix"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3566,7 +4038,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p211" id="p211">[p. 211]</a>
                     <h1 class="head chapter">Le choc de la paix<a class="bookmark" href="16"> §</a></h1>
                     <section id="body-16-1" class="div level2">
@@ -3754,7 +4226,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <div class="b note-page">
                           <a href="16#p223">p. 223</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="16#note17_">17. </a>Voir mes <a class="i">Lettres sur la bombe atomique</a>, commencées ce jour-là et publiées simultanément dans les journaux américains, français, hollandais, norvégiens, argentins, puis en volume en 1946.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="16#note17_">17. </a>Voir mes <a class="i">Lettres sur la bombe atomique</a>, commencées ce jour-là et publiées simultanément dans les journaux américains, français, hollandais, norvégiens, argentins, puis en volume en 1946.</aside>
                       </div>
                     </section>
                   </article>
@@ -3771,102 +4243,102 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="here">
                       <a href="#">Le choc de la paix</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-1">Avril 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-2">Lake George, fin juin 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-3">Juillet 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-4">Fin juillet 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-5">1<sup>er</sup> août 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-6">8 août 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-7">12 août 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-8">New York, fin octobre 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-9">Novembre 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-10">75<sup>e</sup> rue, fin novembre 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-11">Décembre 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-12">Décembre 1945</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-13">15 décembre 1949</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="16#body-16-14">Fin décembre 1945</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -3877,13 +4349,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/17" name="Journal d’un retour" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/17" name="16. Journal d’un retour" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Journal d’un retour</value>
+          <value>16. Journal d’un retour (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "16. Journal d’un retour"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3892,7 +4393,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p235" id="p235">[p. 235]</a>
                     <h1 class="head chapter">Journal d’un retour<a class="bookmark" href="17"> §</a></h1>
                     <section id="body-17-1" class="div level2">
@@ -3988,81 +4489,81 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
                     <li class="here">
                       <a href="#">Journal d’un retour</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-1">Janvier 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-2">Février 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-3">27 mars 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-4">Début d’avril 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-5">2 avril 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-6">7 avril 1946</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="17#body-17-7">12 avril 1946</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="18">Le mauvais temps qui vient</a>
                     </li>
                   </ul>
@@ -4073,13 +4574,42 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/18" name="Le mauvais temps qui vient" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/18" name="17. Le mauvais temps qui vient" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal des deux Mondes (1946) Le mauvais temps qui vient</value>
+          <value>17. Le mauvais temps qui vient (1946, Journal des deux Mondes)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal des deux Mondes (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "17. Le mauvais temps qui vient"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -4088,7 +4618,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p249" id="p249">[p. 249]</a>
                     <h1 class="head chapter">Le mauvais temps qui vient<a class="bookmark" href="18"> §</a></h1>
                     <p class="p autofirst">Je ne me sens pas en veine de conclure ce journal, mais voici qu’il faut repartir, c’est tout de même un chapitre qui se clôt dans ma vie, sinon dans l’histoire du monde ; car nous sommes loin d’avoir quitté la guerre. « Journal d’un habitant de la planète en guerre » ce serait un titre assez exact. Mais je suis d’un pays, et quand je repense aux années que je viens de vivre loin de lui, je vois cependant que mon destin n’a pas cessé d’être lié au sien : car le même sort paradoxal a décrété que nous fussions au centre du conflit tout en restant en marge des batailles. Ce que je voudrais dire de la Suisse n’est donc pas sans me concerner sur plus d’un point.</p>
@@ -4121,55 +4651,55 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le bon vieux temps présent</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Journal d’attente</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Puisque je suis un militaire…</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Anecdotes et aphorismes</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">La route de Lisbonne</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Premiers contacts avec le nouveau monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Voyage en Argentine</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">Solitudes et amitiés</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Intermède</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">L’Amérique en guerre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">Virginie</a>
                     </li>
-                    <li>
-                      <a href="15">Intermède  –  Mémoire de l’Europe</a>
+                    <li class="collateral">
+                      <a href="15">Intermède.  Mémoire de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="16">Le choc de la paix</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Journal d’un retour</a>
                     </li>
                     <li class="here">

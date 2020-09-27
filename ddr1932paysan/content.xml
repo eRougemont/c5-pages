@@ -4,10 +4,39 @@
     <page path="/livres/ddr1932paysan/1" name="Note" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Note</value>
+          <value>Note (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Note"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p9" id="p9">[p. 9]</a>
                     <h1 class="head chapter">Note<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Certain public égaré par les mœurs éditoriales attend des jeunes auteurs qu’ils se présentent avec l’assurance et l’optimisme pressant du commis voyageur. Mais alors, l’orgueil de quelques-uns, se refusant à une vanité profitable autant que vulgaire, prend l’aspect d’une assez prétentieuse modestie.</p>
@@ -38,40 +67,40 @@
                     <li class="here">
                       <a href="#">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -86,10 +115,39 @@
     <page path="/livres/ddr1932paysan/2" name="Le sentiment de l’Europe centrale" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Le sentiment de l’Europe centrale</value>
+          <value>Le sentiment de l’Europe centrale (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Le sentiment de l’Europe centrale"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -98,7 +156,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
                     <h1 class="head chapter">Le sentiment de l’Europe centrale<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level2">
@@ -195,31 +253,31 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
                         <div class="b note-page">
                           <a href="2#p15">p. 15</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a><i class="i">Un seul être vous manque et tout est dépeuplé</i> ! Définition même du sentimentalisme subjectif qui rend impossible la conception toute classique, objective, latine, spatiale et statique, qui présida au dessin de la carte du Tendre. C’est le cri d’un poète français, non d’un Français.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a><i class="i">Un seul être vous manque et tout est dépeuplé</i> ! Définition même du sentimentalisme subjectif qui rend impossible la conception toute classique, objective, latine, spatiale et statique, qui présida au dessin de la carte du Tendre. C’est le cri d’un poète français, non d’un Français.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p22">p. 22</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Hegel serait le philosophe par excellence de l’Europe Centrale. Ce qu’il a tenté d’étaler dans l’Histoire, c’est l’équation d’existence de l’âme allemande. Mais il a voulu que ses <i class="i">moments</i> fussent successifs : c’était un moyen de la résoudre. Et c’est justement cette « résolution » que combattra Kierkegaard. Chez Kierkegaard, la dialectique redevient simultanée, irréductible, vivante…</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Hegel serait le philosophe par excellence de l’Europe Centrale. Ce qu’il a tenté d’étaler dans l’Histoire, c’est l’équation d’existence de l’âme allemande. Mais il a voulu que ses <i class="i">moments</i> fussent successifs : c’était un moyen de la résoudre. Et c’est justement cette « résolution » que combattra Kierkegaard. Chez Kierkegaard, la dialectique redevient simultanée, irréductible, vivante…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p24">p. 24</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Que l’on pense aux expansions verbeuses de Jean-Paul ou du Hölderlin d’<i class="i">Hyperion</i> ; et d’autre part, à la manie d’exposition systématique et statistique des professeurs allemands. Autre exemple : tous les romantiques allemands sont nourris des théorèmes de Spinoza.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Que l’on pense aux expansions verbeuses de Jean-Paul ou du Hölderlin d’<i class="i">Hyperion</i> ; et d’autre part, à la manie d’exposition systématique et statistique des professeurs allemands. Autre exemple : tous les romantiques allemands sont nourris des théorèmes de Spinoza.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p26">p. 26</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Je n’entends point par là que la métaphysique allemande est fille de la timidité sexuelle : il est clair que, s’il y avait une filiation à établir de l’une à l’autre, j’opterais pour l’inverse. En réalité, les deux phénomènes relèvent, encore une fois, d’un même état d’âme. Le nommer serait nommer l’une des raisons d’être profonde du monde germanique.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Je n’entends point par là que la métaphysique allemande est fille de la timidité sexuelle : il est clair que, s’il y avait une filiation à établir de l’une à l’autre, j’opterais pour l’inverse. En réalité, les deux phénomènes relèvent, encore une fois, d’un même état d’âme. Le nommer serait nommer l’une des raisons d’être profonde du monde germanique.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p27">p. 27</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Seule réalité vivante prise en considération par l’intelligence rationaliste.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Seule réalité vivante prise en considération par l’intelligence rationaliste.</aside>
                       </div>
                     </section>
                   </article>
@@ -236,57 +294,57 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
                     <li class="here">
                       <a href="#">Le sentiment de l’Europe centrale</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">Un accord sans résolution</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">Le titanisme et la métamorphose</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">Paradoxe du sentiment</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4">L’intelligence est sentimentale</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -298,13 +356,42 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/3" name="Un soir à Vienne avec Gérard" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/3" name="I.1. Un soir à Vienne avec Gérard" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Un soir à Vienne avec Gérard — Première partie – Le Paysan du Danube</value>
+          <value>I.1. Un soir à Vienne avec Gérard (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.1. Un soir à Vienne avec Gérard"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -313,7 +400,7 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
                     <h1 class="head chapter">Un soir à Vienne avec Gérard<a class="bookmark" href="3"> §</a></h1>
                     <blockquote class="epigraph">
@@ -396,7 +483,7 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
                         <div class="b note-page">
                           <a href="3#p41">p. 41</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Quelque chose comme « pâtisserie-crème fouettée ».</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Quelque chose comme « pâtisserie-crème fouettée ».</aside>
                       </div>
                     </section>
                   </article>
@@ -413,43 +500,43 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
                         <li class="here">
                           <a href="#">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -461,13 +548,42 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/4" name="Une « tasse de thé » au Palais C…" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/4" name="I.2. Une « tasse de thé » au Palais C…" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Une « tasse de thé » au Palais C… — Première partie – Le Paysan du Danube</value>
+          <value>I.2. Une « tasse de thé » au Palais C… (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.2. Une « tasse de thé » au Palais C…"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -476,7 +592,7 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p51" id="p51">[p. 51]</a>
                     <h1 class="head chapter">Une « tasse de thé » au Palais C…<a class="bookmark" href="4"> §</a></h1>
                     <blockquote class="epigraph">
@@ -548,43 +664,43 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
                         <li class="here">
                           <a href="#">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -596,13 +712,42 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/5" name="Voyage en Hongrie" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/5" name="I.3. Voyage en Hongrie" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Voyage en Hongrie — Première partie – Le Paysan du Danube</value>
+          <value>I.3. Voyage en Hongrie (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I.3. Voyage en Hongrie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -611,7 +756,7 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p64" id="p64">[p. 64]</a>
                     <h1 class="head chapter">Voyage en Hongrie<a class="bookmark" href="5"> §</a></h1>
                     <blockquote class="epigraph">
@@ -897,43 +1042,43 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                         <div class="b note-page">
                           <a href="5#p75">p. 75</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="5#note7_">7. </a>Rappelons que notre société est fondée sur la peur du risque. Je vis plutôt mal.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="5#note7_">7. </a>Rappelons que notre société est fondée sur la peur du risque. Je vis plutôt mal.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p86">p. 86</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="5#note8_">8. </a>Il faut ajouter aux autres causes de l’incompréhension des journalistes la ruse hongroise qu’ils ne peuvent pas déjouer, car le Hongrois est ingénument rusé, à la façon des passionnés, non point à celle des arrivistes.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="5#note8_">8. </a>Il faut ajouter aux autres causes de l’incompréhension des journalistes la ruse hongroise qu’ils ne peuvent pas déjouer, car le Hongrois est ingénument rusé, à la façon des passionnés, non point à celle des arrivistes.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p87">p. 87</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="5#note9_">9. </a>Parce que j’« exalte les valeurs de passion » — pour parler comme le seul clerc qui n’ait pas trahi — qui me paraissent être la grandeur de la Hongrie, on m’expliquera que je suis pour la guerre, puisque enfin cet état d’esprit que j’admire est, entr’autres, belliqueux. Or je suis pacifiste. Comment ne pas l’être ! Mais je crois que les pacifistes qui veulent assurer la paix par la mutilation des passions sont disciples d’Origène. Il doit y avoir d’autres solutions…</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="5#note9_">9. </a>Parce que j’« exalte les valeurs de passion » — pour parler comme le seul clerc qui n’ait pas trahi — qui me paraissent être la grandeur de la Hongrie, on m’expliquera que je suis pour la guerre, puisque enfin cet état d’esprit que j’admire est, entr’autres, belliqueux. Or je suis pacifiste. Comment ne pas l’être ! Mais je crois que les pacifistes qui veulent assurer la paix par la mutilation des passions sont disciples d’Origène. Il doit y avoir d’autres solutions…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p97">p. 97</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="5#note10_">10. </a>Toute l’échelle des ivresses : ivresses de la faim, de l’alcool, de la foule, de la solitude, de l’extase.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="5#note10_">10. </a>Toute l’échelle des ivresses : ivresses de la faim, de l’alcool, de la foule, de la solitude, de l’extase.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p100">p. 100</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="5#note11_">11. </a>Expression où va se réfugier le dernier vestige de la sensualité des érudits.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="5#note11_">11. </a>Expression où va se réfugier le dernier vestige de la sensualité des érudits.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p101">p. 101</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="5#note12_">12. </a>La fameuse marche de Rakoczy est l’œuvre d’une Tzigane.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="5#note12_">12. </a>La fameuse marche de Rakoczy est l’œuvre d’une Tzigane.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p113">p. 113</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="5#note13_">13. </a>L’or n’était qu’un prétexte. Encore une blague de passeport.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="5#note13_">13. </a>L’or n’était qu’un prétexte. Encore une blague de passeport.</aside>
                       </div>
                     </section>
                   </article>
@@ -950,79 +1095,79 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="ancestor">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
                         <li class="here">
                           <a href="#">Voyage en Hongrie</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-1"><span class="num">i</span>.  Le dormeur au fil de l’eau</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-2"><span class="num">ii</span>.  La Recherche de l’objet inconnu</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-3"><span class="num">iii</span>.  Au tombeau de Gül-Baba</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-4"><span class="num">iv</span>.  De midi à quatorze heures</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-5"><span class="num">v</span>.  Café amer</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-6"><span class="num">vi</span>.  Doutes sur la nature du sujet</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-7"><span class="num">vii</span>.  Les magnats en taxis</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-8"><span class="num">viii</span>.  Les coussins Rothermere</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-9"><span class="num">ix</span>.  Une lettre de Matthias Corvin</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-10"><span class="num">x</span>.  Visite à Babits</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-11"><span class="num">xi</span>.  Le retour d’Esztergom</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-12"><span class="num">xii</span>.  Un bal, ou de l’ivresse considérée comme un des beaux-arts</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-13"><span class="num">xiii</span>.  Chansons hongroises</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-14"><span class="num">xiv</span>.  L’amour en Hongrie (généralités)</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-15"><span class="num">xv</span>.  La plaine et la musique</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-16"><span class="num">xvi</span>.  Les eaux fades du Balaton</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-17"><span class="num">xvii</span>.  Insomnie</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-18"><span class="num">xviii</span>.  Les clefs perdues</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-3-3-19">
                                 <span class="num">xix</span>
                               </a>
@@ -1031,23 +1176,23 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="collateral">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -1059,13 +1204,42 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/6" name="La Tour de Hölderlin" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/6" name="II.1. La Tour de Hölderlin" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) La Tour de Hölderlin — Deuxième partie – La lenteur des choses</value>
+          <value>II.1. La Tour de Hölderlin (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.1. La Tour de Hölderlin"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1074,7 +1248,7 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p121" id="p121">[p. 121]</a>
                     <h1 class="head chapter">La Tour de Hölderlin<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande…<a class="noteref" href="6#note14" id="note14_"><sup>14</sup></a> »</p>
@@ -1126,13 +1300,13 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
                         <div class="b note-page">
                           <a href="6#p121">p. 121</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="6#note14_">14. </a>Bettina von Arnim-Brentano : <i class="i">Die Günderode</i>.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="6#note14_">14. </a>Bettina von Arnim-Brentano : <i class="i">Die Günderode</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p123">p. 123</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="6#note15_">15. </a>Où il était précepteur. M<sup class="sup">me</sup> Gontard est la <i class="i">Diotima</i> de l’<i class="i">Hyperion</i> et des poèmes.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="6#note15_">15. </a>Où il était précepteur. M<sup class="sup">me</sup> Gontard est la <i class="i">Diotima</i> de l’<i class="i">Hyperion</i> et des poèmes.</aside>
                       </div>
                     </section>
                   </article>
@@ -1149,43 +1323,43 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
                         <li class="here">
                           <a href="#">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -1197,13 +1371,42 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/7" name="Petit journal de Souabe" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/7" name="II.2. Petit journal de Souabe" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Petit journal de Souabe — Deuxième partie – La lenteur des choses</value>
+          <value>II.2. Petit journal de Souabe (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.2. Petit journal de Souabe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1212,7 +1415,7 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p131" id="p131">[p. 131]</a>
                     <h1 class="head chapter">Petit journal de Souabe<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">À la tombée d’une nuit froide, en avril, le voyageur descend dans un vieux bourg de Souabe, — quelques lumières au milieu d’une étroite vallée où le train longtemps côtoya une rivière, des forêts. Les rues sont vides jusqu’au cœur de la ville, où l’attend une ample demeure.</p>
@@ -1444,14 +1647,14 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
                         <div class="b note-page">
                           <a href="7#p144">p. 144</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="7#note16_">16. </a>Les anges eux-mêmes la lui envient, dit Swedenborg, puisque leur tentation, leur nostalgie, c’est de revêtir un corps humain.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="7#note16_">16. </a>Les anges eux-mêmes la lui envient, dit Swedenborg, puisque leur tentation, leur nostalgie, c’est de revêtir un corps humain.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p151">p. 151</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="7#note17_">17. </a>Tel fut bien, d’ailleurs, son dessein, qu’il avoue dans les entretiens (recueillis par Biedermann).</aside>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="7#note18_">18. </a>Comme dit l’A. O. Barnabooth de M. Valery-Larbaud.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="7#note17_">17. </a>Tel fut bien, d’ailleurs, son dessein, qu’il avoue dans les entretiens (recueillis par Biedermann).</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="7#note18_">18. </a>Comme dit l’A. O. Barnabooth de M. Valery-Larbaud.</aside>
                       </div>
                     </section>
                   </article>
@@ -1468,111 +1671,111 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
                         <li class="here">
                           <a href="#">Petit journal de Souabe</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-1">22 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-2">24 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-3">28 avril 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-4">7 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-5">21 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-6">22 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-7">26 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-8">31 mai 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-9">10 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-10">11 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-11">juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-12">13 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-13">14 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-14">Rose de Tannenbourg</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-15">20 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-16">22 juin 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-17">Début de juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-18">15 juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-19">19 juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-20">Fin juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-21">Fin juillet 1929</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-4-2-22">10 août 1929</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -1584,13 +1787,42 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/8" name="Châteaux en Prusse" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/8" name="II.3. Châteaux en Prusse" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Châteaux en Prusse — Deuxième partie – La lenteur des choses</value>
+          <value>II.3. Châteaux en Prusse (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.3. Châteaux en Prusse"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1599,7 +1831,7 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p170" id="p170">[p. 170]</a>
                     <h1 class="head chapter">Châteaux en Prusse<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">Au loin passaient des voiles claires parmi les blés violents ; le ciel paraissait plus grand que la terre. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète 
@@ -1698,7 +1930,7 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
                         <div class="b note-page">
                           <a href="8#p172">p. 172</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="8#note19_">19. </a>Bras de mer intérieur qui s’avance jusqu’à Königsberg.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="8#note19_">19. </a>Bras de mer intérieur qui s’avance jusqu’à Königsberg.</aside>
                       </div>
                     </section>
                   </article>
@@ -1715,54 +1947,54 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
                         <li class="here">
                           <a href="#">Châteaux en Prusse</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="8#body-4-3-1">Journées</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="8#body-4-3-2">Éducation</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="8#body-4-3-3">Je ne défendrai pas les Junkers…</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -1774,13 +2006,42 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/9" name="Le balcon sur l’eau" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/9" name="II.4. Le balcon sur l’eau" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Le balcon sur l’eau — Deuxième partie – La lenteur des choses</value>
+          <value>II.4. Le balcon sur l’eau (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.4. Le balcon sur l’eau"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1789,7 +2050,7 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p190" id="p190">[p. 190]</a>
                     <h1 class="head chapter">Le balcon sur l’eau<a class="bookmark" href="9"> §</a></h1>
                     <p class="p autofirst">Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles plus, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -1813,43 +2074,43 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
                         <li class="here">
                           <a href="#">Le balcon sur l’eau</a>
                         </li>
-                        <li>
-                          <a href="10">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                        <li class="collateral">
+                          <a href="10">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>
@@ -1861,13 +2122,42 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/10" name="Appendice – Les Soirées du Brambilla-Club – (1930)" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/10" name="II.5. Appendice. Les Soirées du Brambilla-Club, (1930)" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Le Paysan du Danube (1932) Appendice – Les Soirées du Brambilla-Club – (1930) — Deuxième partie – La lenteur des choses</value>
+          <value>II.5. Appendice. Les Soirées du Brambilla-Club, (1930) (1932, Le Paysan du Danube)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Le Paysan du Danube (1932)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II.5. Appendice. Les Soirées du Brambilla-Club, (1930)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1876,7 +2166,7 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p193" id="p193">[p. 193]</a>
                     <a class="pb" href="#p195" id="p195">[p. 195]</a>
                     <h1 class="head chapter">Appendice
@@ -1926,13 +2216,13 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
                         <div class="b note-page">
                           <a href="10#p199">p. 199</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="10#note20_">20. </a>Depuis lors a paru <i class="i">Samsara</i> — un beau livre baroque — et dont le titre explique tout ce qui peut être expliqué.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="10#note20_">20. </a>Depuis lors a paru <i class="i">Samsara</i> — un beau livre baroque — et dont le titre explique tout ce qui peut être expliqué.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="10#p200">p. 200</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="10#note21_">21. </a>Club d’étudiants de la Suisse romande qui représente en ce pays un état d’anarchie permanente — sentimentale et non point politique — dont l’esprit s’apparente beaucoup plus à celui des <i class="i">Wandervogel</i> qu’au surréalisme — encore qu’il ait préfiguré certains aspects de ce mouvement littéraire parisien.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="10#note21_">21. </a>Club d’étudiants de la Suisse romande qui représente en ce pays un état d’anarchie permanente — sentimentale et non point politique — dont l’esprit s’apparente beaucoup plus à celui des <i class="i">Wandervogel</i> qu’au surréalisme — encore qu’il ait préfiguré certains aspects de ce mouvement littéraire parisien.</aside>
                       </div>
                     </section>
                   </article>
@@ -1949,43 +2239,43 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Le sentiment de l’Europe centrale</a>
                     </li>
-                    <li>
-                      <div>Première partie  –  Le Paysan du Danube</div>
+                    <li class="collateral">
+                      <div>Première partie.  Le Paysan du Danube</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3">Un soir à Vienne avec Gérard</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4">Une « tasse de thé » au Palais C…</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5">Voyage en Hongrie</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <div>Deuxième partie  –  La lenteur des choses</div>
+                    <li class="ancestor">
+                      <div>Deuxième partie.  La lenteur des choses</div>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6">La Tour de Hölderlin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7">Petit journal de Souabe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8">Châteaux en Prusse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9">Le balcon sur l’eau</a>
                         </li>
                         <li class="here">
-                          <a href="#">Appendice  –  Les Soirées du Brambilla-Club  –  (1930)</a>
+                          <a href="#">Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
                       </ul>
                     </li>

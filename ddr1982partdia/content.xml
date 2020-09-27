@@ -1,13 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
   <pages>
-    <page path="/livres/ddr1982partdia/1" name="Introduction – Que la connaissance du vrai danger nous guérit des fausses peurs" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/1" name="Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Introduction – Que la connaissance du vrai danger nous guérit des fausses peurs</value>
+          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,9 +45,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Introduction <br class="lb"/>Que la connaissance du vrai danger nous guérit des fausses peurs<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Introduction
+          <br class="lb"/>Que la connaissance du vrai danger nous guérit des fausses peurs<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">
 <a class="pb" href="#p13" id="p13">[p. 13]</a>
  Au dessert nous étions d’accord : ce qui manque le plus aux démocraties en général, et à l’Amérique en particulier, c’est de croire au Diable. On sortit de table. C’était au club. Tandis que nous attendions l’ascenseur, je dis au Philosophe<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a> :</p>
@@ -34,7 +64,7 @@
                     <p class="p">J’y songeais depuis quelques instants.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Ce n’est pas sans quelque inquiétude que j’ai senti ce livre se proposer à moi : car de l’auteur ou du sujet, sait-on jamais lequel a choisi l’autre ? Parler du Diable, écrire sur lui, n’était-ce pas une manière imprudente de le provoquer publiquement ? Je songeais à cette phrase de Kafka : « L’un des artifices de séduction les plus efficaces du Diable, c’est de nous provoquer au combat. C’est comme la lutte avec une femme, qui finit au lit. »</p>
-                    <p class="p">Mais on n’écrit jamais impunément, quel que soit le sujet en cause. Il est vrai que pour certains auteurs, l’acte d’écrire résulte simplement d’une démang<a id="_GoBack">‌</a>eaison de l’esprit que l’on calme en grattant 
+                    <p class="p">Mais on n’écrit jamais impunément, quel que soit le sujet en cause. Il est vrai que pour certains auteurs, l’acte d’écrire résulte simplement d’une démangeaison de l’esprit que l’on calme en grattant 
 <a class="pb" href="#p15" id="p15">[p. 15]</a>
  du papier, sans nul souci des conséquences. Mais ceux qui écrivent pour mieux savoir endossent toujours un certain risque. Nulle vérité n’est bonne à dire, dans ce sens que chaque vérité comporte une part d’accusation pour notre vie, et tend à déranger cet équilibre de pieux mensonges tacitement admis, sans lesquels « l’existence deviendrait impossible »… L’eau, remarquait un humoriste, est ce liquide si impur qu’une seule goutte en suffit pour troubler une absinthe. Ainsi chaque goutte de vérité trouble la vie. Mais c’est de quoi l’on peut faire son ivresse. Je n’aime écrire que des livres dangereux.</p>
                     <div class="ab ornament">⁂</div>
@@ -54,7 +84,7 @@
                         <div class="b note-page">
                           <a href="1#p13">p. 13</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Il s’agit de Jacques Maritain. Le dialogue eut lieu en décembre 1941, à New York.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Il s’agit de Jacques Maritain. Le dialogue eut lieu en décembre 1941, à New York.</aside>
                       </div>
                     </section>
                   </article>
@@ -72,24 +102,24 @@
                 <content><![CDATA[
                   <ul>
                     <li class="here">
-                      <a href="#">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="#">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -100,13 +130,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982partdia/2" name="Première partie – L’Incognito et la révélation" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/2" name="I. L’Incognito et la révélation" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Première partie – L’Incognito et la révélation</value>
+          <value>I. L’Incognito et la révélation (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. L’Incognito et la révélation"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -115,12 +174,14 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p19" id="p19">[p. 19]</a>
-                    <h1 class="head chapter">Première partie <br class="lb"/>L’Incognito et la révélation<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head kicker chapter">Première partie</h1>
+                    <h1 class="head chapter">L’Incognito et la révélation<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level2">
                       <a class="pb" href="#p21" id="p21">[p. 21]</a>
-                      <h2 class="head">1<br class="lb"/>Le premier tour<a class="bookmark" href="2#body-2-1"> §</a></h2>
+                      <h2 class="head">1
+            <br class="lb"/>Le premier tour<a class="bookmark" href="2#body-2-1"> §</a></h2>
                       <p class="p autofirst">C’est dans les <i class="i">Petits Poèmes en prose</i> de Baudelaire que l’on peut lire la phrase la plus profonde écrite par un moderne sur Satan :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">
@@ -230,8 +291,7 @@
 <a class="pb" href="#p36" id="p36">[p. 36]</a>
  « Dieu a-t-il réellement dit ?… » Sitôt que cette incertitude s’est insinuée dans un esprit, la possibilité d’une tentation s’entrouvre. Car il n’y a pas de tentation là où n’existe aucune possibilité d’imaginer quelque autre chose que l’état de fait. On dit bien : l’occasion fait le larron. Vous n’êtes pas tenté d’aller dans la lune parce que vous savez que c’est actuellement impossible. Mais vous seriez probablement tenté d’y aller, si l’on vous suggérait quelque moyen de le faire. Ève ne pensait même pas à manger cette pomme avant que le Serpent n’ait mis en doute la réalité de l’ordonnance de Dieu. À l’origine de toute tentation, il y a l’occasion entrevue d’aller à la divinité par un plus court chemin que celui du réel ; par un chemin que l’on inventerait soi-même, en dépit des interdictions que posent les lois de la Création, l’ordre divin et la nature de l’homme<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a>.</p>
                       <p class="p">Et voici le deuxième temps de la tentation :</p>
-                      <blockquote class="quote">
-            « La femme vit que l’arbre était bon à manger et agréable à la vue, et qu’il était précieux pour ouvrir 
+                      <blockquote class="quote"> « La femme vit que l’arbre était bon à manger et agréable à la vue, et qu’il était précieux pour ouvrir 
 <a class="pb" href="#p37" id="p37">[p. 37]</a>
 l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" href="2#note6" id="note6_"><sup>6</sup></a>
           </blockquote>
@@ -356,49 +416,49 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="2#p27">p. 27</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Dans son livre <i class="i">De Praestigiis Daemonium</i> publié en 1568, Jean Wier arrive à la conclusion, non démentie depuis, que le règne du Diable comprend 72 Princes et 7 405 926 diables, divisés en 1 111 légions de 6 666 suppôts chacune, « sauf erreur de calcul », ajoute-t-il.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Dans son livre <i class="i">De Praestigiis Daemonium</i> publié en 1568, Jean Wier arrive à la conclusion, non démentie depuis, que le règne du Diable comprend 72 Princes et 7 405 926 diables, divisés en 1 111 légions de 6 666 suppôts chacune, « sauf erreur de calcul », ajoute-t-il.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p33">p. 33</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Le <i class="i">Lucifer</i> qui apparaît pour la première fois dans Ésaïe XIV, 12 sqq, désignait probablement à cet endroit le Roi de Babylone, dont il annonçait la chute. Plus tard, <i class="i">l’Étoile du matin</i> désigna plutôt le Christ, par un étrange renversement du symbole.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Le <i class="i">Lucifer</i> qui apparaît pour la première fois dans Ésaïe XIV, 12 sqq, désignait probablement à cet endroit le Roi de Babylone, dont il annonçait la chute. Plus tard, <i class="i">l’Étoile du matin</i> désigna plutôt le Christ, par un étrange renversement du symbole.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p35">p. 35</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a><i class="i">Genèse</i> 3, 1-5.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a><i class="i">Genèse</i> 3, 1-5.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p36">p. 36</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Dans le Livre d’Énoch, antérieur à la Genèse, il est dit que les mauvais anges qui descendirent se mêler aux humains enseignèrent à ceux-ci des artifices de magie et d’artisanat, les propriétés des racines, mais aussi l’art de se farder et l’art des armes. C’était apprendre aux hommes à se faire plus beaux et plus puissants que nature. Alors, poursuit le récit, « <i class="i">l’impieté s’accrut ; et les créatures transgressèrent et corrompirent toutes leurs voies</i> » (Énoch VIII 2). Leurs yeux s’étaient ouverts sur les pouvoirs que leur offrait la faculté de créer, c’est-à-dire de choisir librement et d’orienter leur choix vers l’obéissance confiante — suivant la voie tracée par Dieu — ou vers une sorte de défi anxieux — suivant la voie de la divinisation suggérée par l’Aspic de l’orgueil.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Dans le Livre d’Énoch, antérieur à la Genèse, il est dit que les mauvais anges qui descendirent se mêler aux humains enseignèrent à ceux-ci des artifices de magie et d’artisanat, les propriétés des racines, mais aussi l’art de se farder et l’art des armes. C’était apprendre aux hommes à se faire plus beaux et plus puissants que nature. Alors, poursuit le récit, « <i class="i">l’impieté s’accrut ; et les créatures transgressèrent et corrompirent toutes leurs voies</i> » (Énoch VIII 2). Leurs yeux s’étaient ouverts sur les pouvoirs que leur offrait la faculté de créer, c’est-à-dire de choisir librement et d’orienter leur choix vers l’obéissance confiante — suivant la voie tracée par Dieu — ou vers une sorte de défi anxieux — suivant la voie de la divinisation suggérée par l’Aspic de l’orgueil.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p37">p. 37</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a><i class="en i" lang="en">Genèse</i> 3, 6.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a><i class="en i" lang="en">Genèse</i> 3, 6.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p47">p. 47</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a><span class="sc">Shakespeare</span>, <i class="en i" lang="en">Twelfth Night</i> II. 2.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a><span class="sc">Shakespeare</span>, <i class="en i" lang="en">Twelfth Night</i> II. 2.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p53">p. 53</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a><a>Voir plus bas les chapitres sur Hitler, puis sur l’amour et la passion</a>.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a><a>Voir plus bas les chapitres sur Hitler, puis sur l’amour et la passion</a>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p55">p. 55</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Symbole du sexe masculin selon Freud. Symbole de l’esprit dans un grand nombre de mythologies. L’instinct ou l’esprit négligés, refoulés, viennent se venger par le détour d’une agression symbolique : dans nos cauchemars par exemple.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Symbole du sexe masculin selon Freud. Symbole de l’esprit dans un grand nombre de mythologies. L’instinct ou l’esprit négligés, refoulés, viennent se venger par le détour d’une agression symbolique : dans nos cauchemars par exemple.</aside>
                       </div>
                     </section>
                   </article>
@@ -415,69 +475,69 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="here">
-                      <a href="#">Première partie  –  L’Incognito et la révélation</a>
+                      <a href="#">L’Incognito et la révélation</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">1.  Le premier tour</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2"><span class="num">ii</span>.  L’incognito</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3"><span class="num">iii</span>.  Pour ceux qui n’en voient que la queue</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4"><span class="num">iv</span>.  Réalité du mythe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-5"><span class="num">v</span>.  L’ange déchu</a>
                         </li>
-                        <li>
-                          <a href="2#body-2-6"><span class="num"> vi</span> –  Le prince de ce monde</a>
+                        <li class="collateral">
+                          <a href="2#body-2-6"><span class="num"> vi</span>.  Le prince de ce monde</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-7"><span class="num">vii</span>.  Le tentateur</a>
                         </li>
-                        <li>
-                          <a href="2#body-2-8"><span class="num">viii</span>.  « Connaissant le Bien et le Mal »</a>
+                        <li class="collateral">
+                          <a href="2#body-2-8"><span class="num">viii</span>,  « Connaissant le Bien et le Mal »</a>
                         </li>
-                        <li>
-                          <a href="2#body-2-9"><span class="num"> ix</span> –  Le menteur</a>
+                        <li class="collateral">
+                          <a href="2#body-2-9"><span class="num"> ix</span>.  Le menteur</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-10"><span class="num">x</span>.  L’accusateur</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-11"><span class="num">xi</span>.  Légion</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-12"><span class="num">xii</span>.  Le sophisme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-13"><span class="num">xiii</span>.  Diable et péché</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-14"><span class="num">xiv</span>.  Le psychanalyste confondu</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -488,13 +548,42 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982partdia/3" name="Deuxième partie – Hitler ou l’alibi" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/3" name="II. Hitler ou l’alibi" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Deuxième partie – Hitler ou l’alibi</value>
+          <value>II. Hitler ou l’alibi (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. Hitler ou l’alibi"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -503,9 +592,10 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
-                    <h1 class="head chapter">Deuxième partie <br class="lb"/>Hitler ou l’alibi<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">Deuxième partie</h1>
+                    <h1 class="head chapter">Hitler ou l’alibi<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2">
                       <a class="pb" href="#p59" id="p59">[p. 59]</a>
                       <h2 class="head"><span class="num">xv</span><br class="lb"/>Où paraît la nécessité d’un alibi<a class="bookmark" href="3#body-3-1"> §</a></h2>
@@ -648,19 +738,19 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="3#p73">p. 73</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>Écrit en 1942.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>Écrit en 1942.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p75">p. 75</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>Les méfaits de la psychologie rationaliste ont été patents dans la morale sexuelle et la conception du mariage au siècle dernier ; ou lorsqu’il s’agissait d’apprécier le rôle du sacré, l’âme collective, la création artistique, l’importance relative de l’argent et du travail, les dogmes chrétiens, etc., etc.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>Les méfaits de la psychologie rationaliste ont été patents dans la morale sexuelle et la conception du mariage au siècle dernier ; ou lorsqu’il s’agissait d’apprécier le rôle du sacré, l’âme collective, la création artistique, l’importance relative de l’argent et du travail, les dogmes chrétiens, etc., etc.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p77">p. 77</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Si Staline persévère dans sa ligne actuelle, 1942.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Si Staline persévère dans sa ligne actuelle, 1942.</aside>
                       </div>
                     </section>
                   </article>
@@ -677,54 +767,54 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
                     <li class="here">
-                      <a href="#">Deuxième partie  –  Hitler ou l’alibi</a>
+                      <a href="#">Hitler ou l’alibi</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1"><span class="num">xv</span>.  Où paraît la nécessité d’un alibi</a>
                         </li>
-                        <li>
-                          <a href="3#body-3-2"><span class="num"> xvi</span> –  Le deuxième tour</a>
+                        <li class="collateral">
+                          <a href="3#body-3-2"><span class="num"> xvi</span>.  Le deuxième tour</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3"><span class="num">xvii</span>.  Hitler est-il l’Antéchrist ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4"><span class="num">xviii</span>.  Le Diable en chemise brune</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5"><span class="num">xix</span>.  Le directeur d’inconscience</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6"><span class="num">xx</span>.  Midas prolétarien</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-7"><span class="num">xxi</span>.  Le fléau de Dieu</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8"><span class="num">xxii</span>.  Le faussaire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-9"><span class="num">xxiii</span>.  Après Hitler</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -735,13 +825,42 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982partdia/4" name="Troisième partie – Le Diable démocrate" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/4" name="III. Le Diable démocrate" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Troisième partie – Le Diable démocrate</value>
+          <value>III. Le Diable démocrate (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III. Le Diable démocrate"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -750,9 +869,10 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p83" id="p83">[p. 83]</a>
-                    <h1 class="head chapter">Troisième partie <br class="lb"/>Le Diable démocrate<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">Troisième partie</h1>
+                    <h1 class="head chapter">Le Diable démocrate<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2">
                       <a class="pb" href="#p85" id="p85">[p. 85]</a>
                       <h2 class="head"><span class="num">xxiv</span><br class="lb"/>Erreur fatale des démocrates<a class="bookmark" href="4#body-4-1"> §</a></h2>
@@ -955,38 +1075,38 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="4#p89">p. 89</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>Expression empruntée à l’Évangile par une erreur de traduction. Le texte véritable ne dit pas « Paix sur la terre aux hommes de bonne volonté » mais « Paix sur la terre, et bonne volonté (DE DIEU) envers les hommes ». Ce qui est complètement différent.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>Expression empruntée à l’Évangile par une erreur de traduction. Le texte véritable ne dit pas « Paix sur la terre aux hommes de bonne volonté » mais « Paix sur la terre, et bonne volonté (DE DIEU) envers les hommes ». Ce qui est complètement différent.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p93">p. 93</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Je ne parle pas des héros de la guerre, mais de la paix.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Je ne parle pas des héros de la guerre, mais de la paix.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p94">p. 94</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Est-ce un si grand bien ? Pour le grand nombre, oui, probablement. Pour le héros, non. Pour le saint, c’est indifférent.</aside>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Je pense à <i class="i">Mein Kampf</i>, aux deux premiers livres de Rauschning, à d’innombrables documentaires, publiés sur les mœurs totalitaires. Notre incrédulité bourgeoise a été l’une des meilleures chances d’Hitler.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Est-ce un si grand bien ? Pour le grand nombre, oui, probablement. Pour le héros, non. Pour le saint, c’est indifférent.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Je pense à <i class="i">Mein Kampf</i>, aux deux premiers livres de Rauschning, à d’innombrables documentaires, publiés sur les mœurs totalitaires. Notre incrédulité bourgeoise a été l’une des meilleures chances d’Hitler.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p101">p. 101</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Dans sa tête on tient des banquets.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Dans sa tête on tient des banquets.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p108">p. 108</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Celle-ci le compense par un culte en apparence contraire du sensationnel.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Celle-ci le compense par un culte en apparence contraire du sensationnel.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p109">p. 109</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Tel que le définit Kierkegaard.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Tel que le définit Kierkegaard.</aside>
                       </div>
                     </section>
                   </article>
@@ -1003,69 +1123,69 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
                     <li class="here">
-                      <a href="#">Troisième partie  –  Le Diable démocrate</a>
+                      <a href="#">Le Diable démocrate</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1"><span class="num">xxiv</span>.  Erreur fatale des démocrates</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2"><span class="num">xxv</span>.  Notre primitivisme</a>
                         </li>
-                        <li>
-                          <a href="4#body-4-3"><span class="num">xxvi</span>.  « Nous sommes tous coupables »</a>
+                        <li class="collateral">
+                          <a href="4#body-4-3"><span class="num">xxvi</span>,  « Nous sommes tous coupables »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4"><span class="num">xxvii</span>.  Signalement du diable déguisé en démocrate</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5"><span class="num">xxviii</span>.  L’humour et la démocratie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-6"><span class="num">xxix</span>.  Le démon de la liberté</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-7"><span class="num">xxx</span>.  Le démon de la police</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-8"><span class="num">xxxi</span>.  Le démon de la sécurité</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-9"><span class="num">xxxii</span>.  Le démon de l’insignifiance</a>
                         </li>
-                        <li>
-                          <a href="4#body-4-10"><span class="num"> xxxiii</span> –  Brève histoire d’un couple correct</a>
+                        <li class="collateral">
+                          <a href="4#body-4-10"><span class="num"> xxxiii</span>.  Brève histoire d’un couple correct</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-11"><span class="num">xxxiv</span>.  Le démon de la popularité</a>
                         </li>
-                        <li>
-                          <a href="4#body-4-12"><span class="num"> xxxv</span> –  Paradoxe de la démocratie</a>
+                        <li class="collateral">
+                          <a href="4#body-4-12"><span class="num"> xxxv</span>.  Paradoxe de la démocratie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-13"><span class="num">xxxvi</span>.  La cinquième colonne de tous les temps</a>
                         </li>
-                        <li>
-                          <a href="4#body-4-14"><span class="num"> xxxvii</span> –  Une bonne adresse</a>
+                        <li class="collateral">
+                          <a href="4#body-4-14"><span class="num"> xxxvii</span>.  Une bonne adresse</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -1076,13 +1196,42 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982partdia/5" name="Quatrième partie – Le Diable dans nos Dieux et dans nos maladies" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/5" name="IV. Le Diable dans nos Dieux et dans nos maladies" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Quatrième partie – Le Diable dans nos Dieux et dans nos maladies</value>
+          <value>IV. Le Diable dans nos Dieux et dans nos maladies (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV. Le Diable dans nos Dieux et dans nos maladies"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1091,9 +1240,10 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p119" id="p119">[p. 119]</a>
-                    <h1 class="head chapter">Quatrième partie <br class="lb"/>Le Diable dans nos Dieux et dans nos maladies<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">Quatrième partie</h1>
+                    <h1 class="head chapter">Le Diable dans nos Dieux et dans nos maladies<a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2">
                       <a class="pb" href="#p121" id="p121">[p. 121]</a>
                       <h2 class="head"><span class="num">xxxviii</span><br class="lb"/>Le Diable dans nos dieux<a class="bookmark" href="5#body-5-1"> §</a></h2>
@@ -1184,7 +1334,8 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
 <a class="pb" href="#p135" id="p135">[p. 135]</a>
  provoqué malgré lui en ménageant ces vertiges d’où l’âme parfois remonte fécondée ? Pourrons-nous un jour concevoir que le Diable est finalement un mystère du Bien ? Peut-être Dante a-t-il raison lorsqu’il inscrit au seuil de son Enfer :</p>
                       <blockquote class="quote">
-                        <div class="l">Fecemi la divina potestate <br class="lb"/>La somma sapienza e il primo amore.</div>
+                        <div class="l">Fecemi la divina potestate</div>
+                        <div class="l">La somma sapienza e il primo amore.</div>
                       </blockquote>
                       <p class="p autofirst">Nous le saurons au Jugement dernier. C’est la fin seule qui justifie les moyens ambigus de l’art. Si le Diable même y collabore, qu’importe : la dédicace est le vrai sens de l’œuvre, pour autant que l’homme peut en juger. Elle ravit au Démon le bénéfice de ses conseils intéressés. Elle nous donne la mesure absolue.</p>
                       <p class="p">Un écrivain, s’il est bon artisan, vaudra tout juste ce que vaut la <i class="i">mission</i> qu’il accepte et s’assigne. Le Diable y sera sans doute encore, dans tous les artifices du délire créateur, mais entraîné vers un but qu’il ignore ; car sa faiblesse unique est de ne pas croire au bien.</p>
@@ -1484,38 +1635,38 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="5#p137">p. 137</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a>La morale du succès, dans l’Amérique contemporaine, est une laïcisation de l’hérésie des puritains, qui déformèrent le calvinisme au point de lui faire dire que le succès matériel est une marque d’élection. Il se peut que les grandes fortunes puritaines soient nées d’un pacte avec le Diable, béni et enregistré par les pasteurs. Mais sans entrer dans une discussion du puritanisme, je voudrais indiquer ceci à sa décharge éventuelle : dans l’esprit des premiers puritains, il y avait sans doute, plus que l’idée de gain, l’idée « catholique » au sens large, du rachat de la création par le travail et la vertu.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a>La morale du succès, dans l’Amérique contemporaine, est une laïcisation de l’hérésie des puritains, qui déformèrent le calvinisme au point de lui faire dire que le succès matériel est une marque d’élection. Il se peut que les grandes fortunes puritaines soient nées d’un pacte avec le Diable, béni et enregistré par les pasteurs. Mais sans entrer dans une discussion du puritanisme, je voudrais indiquer ceci à sa décharge éventuelle : dans l’esprit des premiers puritains, il y avait sans doute, plus que l’idée de gain, l’idée « catholique » au sens large, du rachat de la création par le travail et la vertu.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p140">p. 140</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="5#note21_">21. </a>À cet égard, Hitler aura été le plus grand diseur de bonne aventure du siècle.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="5#note21_">21. </a>À cet égard, Hitler aura été le plus grand diseur de bonne aventure du siècle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p143">p. 143</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Kierkegaard.</aside>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>Genèse 3, 8, 13.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Kierkegaard.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>Genèse 3, 8, 13.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p157">p. 157</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="5#note24_">24. </a>Stendhal.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="5#note24_">24. </a>Stendhal.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p162">p. 162</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="5#note25_">25. </a>Selon cette conception de la sincérité il serait hypocrite de dire la vérité quand on a fort envie de mentir.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="5#note25_">25. </a>Selon cette conception de la sincérité il serait hypocrite de dire la vérité quand on a fort envie de mentir.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p186">p. 186</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="5#note26_">26. </a>Proverbes, 15-20.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="5#note26_">26. </a>Proverbes, 15-20.</aside>
                       </div>
                     </section>
                   </article>
@@ -1532,90 +1683,90 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
                     <li class="here">
-                      <a href="#">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                      <a href="#">Le Diable dans nos Dieux et dans nos maladies</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1"><span class="num">xxxviii</span>.  Le Diable dans nos dieux</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2"><span class="num">xxxix</span>.  Le Diable dans l’Église</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3"><span class="num">xl</span>.  Le Diable théologien</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4"><span class="num">xli</span>.  Le Diable et le philanthrope</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-5"><span class="num">xlii</span>.  Le Diable homme du monde</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-6"><span class="num">xliii</span>.  Mr. Time, l’homme d’affaires pressé</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-7"><span class="num">xliv</span>.  Le Diable auteur</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-8"><span class="num">xlv</span>.  Le pacte avec le Diable</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-9"><span class="num">xlvi</span>.  Le Diable tire les cartes</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-10"><span class="num">xlvii</span>.  Le mal du siècle : la dépersonnalisation</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-11"><span class="num"> xlviii</span> –  La Tour de Babel</a>
+                        <li class="collateral">
+                          <a href="5#body-5-11"><span class="num"> xlviii</span>.  La Tour de Babel</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-12"><span class="num">xlix</span>.  L’ennui, sentiment moderne</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-13"><span class="num">l</span>.  « Vital » et autres sophismes</a>
+                        <li class="collateral">
+                          <a href="5#body-5-13"><span class="num">l</span>,  « Vital » et autres sophismes</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-14"><span class="num">li</span>.  Le Diable au cœur</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-15"><span class="num">lii</span>.  La passion</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-16"><span class="num">liii</span>.  Diable et sexe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-17"><span class="num">liv</span>.  L’éternel féminin</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-18"><span class="num"> lv</span> –  La bastonnade (dessin animé)</a>
+                        <li class="collateral">
+                          <a href="5#body-5-18"><span class="num"> lv</span>.  La bastonnade (dessin animé)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-19"><span class="num">lvi</span>.  Situations sans issue</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-20"><span class="num">lvii</span>.  Le coup de pistolet</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-21"><span class="num"> lviii</span> –  Ce livre est-il sans issue ?</a>
+                        <li class="collateral">
+                          <a href="5#body-5-21"><span class="num"> lviii</span>.  Ce livre est-il sans issue ?</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -1626,13 +1777,42 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1982partdia/6" name="Cinquième partie – Le Bleu du Ciel" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1982partdia/6" name="V. Le Bleu du Ciel" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Cinquième partie – Le Bleu du Ciel</value>
+          <value>V. Le Bleu du Ciel (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "V. Le Bleu du Ciel"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1641,15 +1821,18 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p187" id="p187">[p. 187]</a>
-                    <h1 class="head chapter">Cinquième partie <br class="lb"/>Le Bleu du Ciel<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">Cinquième partie</h1>
+                    <h1 class="head chapter">Le Bleu du Ciel<a class="bookmark" href="6"> §</a></h1>
                     <section id="body-6-1" class="div level2">
                       <a class="pb" href="#p189" id="p189">[p. 189]</a>
                       <h2 class="head"><span class="num">lix</span><br class="lb"/>La lutte contre le Diable<a class="bookmark" href="6#body-6-1"> §</a></h2>
                       <blockquote class="quote">
-                        <div class="l">« Ne réponds pas à l’insensé selon sa folie <br class="lb"/>De peur que tu ne lui ressembles toi-même. »</div>
-                        <div class="l">« Réponds à l’insensé selon sa folie <br class="lb"/>Afin qu’il ne se regarde pas comme sage… »</div>
+                        <div class="l">« Ne réponds pas à l’insensé selon sa folie
+              <br class="lb"/>De peur que tu ne lui ressembles toi-même. »</div>
+                        <div class="l">« Réponds à l’insensé selon sa folie
+              <br class="lb"/>Afin qu’il ne se regarde pas comme sage… »</div>
                       </blockquote>
                       <p class="p autofirst">C’est ainsi que l’auteur des Proverbes<a class="noteref" href="6#note27" id="note27_"><sup>27</sup></a> exprime le paradoxe du combat contre le mal en général, qu’il s’agisse de la résistance d’une âme au Diable, ou de la guerre des démocraties contre les dictatures totalitaires.</p>
                       <p class="p">Si vous opposez au Diable la ruse, la subtilité, l’ironie et l’intelligence froide, vous risquez de devenir méchants, c’est-à-dire que plus vous cherchez à être forts à la manière du Diable, plus vous lui donnez d’avantages, son but étant de vous rendre semblables à lui. Mais si vous ne le faites pas, vous serez joués, le mal triomphera, et il se fera passer pour le bien. <i class="i">Alors</i> tout sera perdu.</p>
@@ -1677,7 +1860,30 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
 <a class="pb" href="#p193" id="p193">[p. 193]</a>
  le prophète Ézéchiel, lorsqu’il s’adresse à nos démocraties capitalistes et commerçantes :</p>
                       <blockquote class="quote">
-                        <div class="l">Fils de l’homme, dis au prince de Tyr : <br class="lb"/>Ainsi parle le Seigneur, l’Éternel. <br class="lb"/>Ton cœur s’est élevé et tu as dit : Je suis Dieu, <br class="lb"/>Je suis assis sur le siège de Dieu au sein des mers ! <br class="lb"/>Toi tu es homme, et non Dieu. <br class="lb"/>Par ta sagesse et par ton intelligence <br class="lb"/>Tu t’es acquis des richesses <br class="lb"/>Tu as amassé de l’or et de l’argent <br class="lb"/>Dans tes coffres-forts ; <br class="lb"/>Par ta grande sagesse et par ton commerce <br class="lb"/>Tu as accru tes capitaux, <br class="lb"/>Et par tes capitaux ton cœur s’est élevé. <br class="lb"/>C’est pourquoi ainsi parle le Seigneur, l’Éternel : <br class="lb"/>Parce que tu prends ta volonté pour la volonté de Dieu, <br class="lb"/>Voici, je ferai venir contre toi des étrangers, <br class="lb"/>Les plus violents d’entre les peuples ; <br class="lb"/>Ils tireront l’épée contre ton éclatante sagesse, <br class="lb"/>Et ils souilleront ta beauté. <br class="lb"/>Ils te précipiteront dans la fosse <br class="lb"/>Et tu mourras comme ceux qui tombent percés de coups <br class="lb"/>Au milieu des mers. <br class="lb"/>En face de ton meurtrier, diras-tu : Je suis Dieu ? <br class="lb"/>Tu seras homme, et non Dieu <br class="lb"/>Sous la main de celui qui te tuera.</div>
+                        <div class="l">Fils de l’homme, dis au prince de Tyr :</div>
+                        <div class="l">Ainsi parle le Seigneur, l’Éternel.</div>
+                        <div class="l">Ton cœur s’est élevé et tu as dit : Je suis Dieu,</div>
+                        <div class="l">Je suis assis sur le siège de Dieu au sein des mers !</div>
+                        <div class="l">Toi tu es homme, et non Dieu.</div>
+                        <div class="l">Par ta sagesse et par ton intelligence</div>
+                        <div class="l">Tu t’es acquis des richesses</div>
+                        <div class="l">Tu as amassé de l’or et de l’argent</div>
+                        <div class="l">Dans tes coffres-forts ;</div>
+                        <div class="l">Par ta grande sagesse et par ton commerce</div>
+                        <div class="l">Tu as accru tes capitaux,</div>
+                        <div class="l">Et par tes capitaux ton cœur s’est élevé.</div>
+                        <div class="l">C’est pourquoi ainsi parle le Seigneur, l’Éternel :</div>
+                        <div class="l">Parce que tu prends ta volonté pour la volonté de Dieu,</div>
+                        <div class="l">Voici, je ferai venir contre toi des étrangers,</div>
+                        <div class="l">Les plus violents d’entre les peuples ;</div>
+                        <div class="l">Ils tireront l’épée contre ton éclatante sagesse,</div>
+                        <div class="l">Et ils souilleront ta beauté.</div>
+                        <div class="l">Ils te précipiteront dans la fosse</div>
+                        <div class="l">Et tu mourras comme ceux qui tombent percés de coups</div>
+                        <div class="l">Au milieu des mers.</div>
+                        <div class="l">En face de ton meurtrier, diras-tu : Je suis Dieu ?</div>
+                        <div class="l">Tu seras homme, et non Dieu</div>
+                        <div class="l">Sous la main de celui qui te tuera.</div>
                       </blockquote>
                       <p class="p autofirst">Face aux Tyrans tout devient clair et décisif. À l’épreuve de la guerre et du meurtre, nos illusions, immédiatement châtiées, se dénoncent comme illusions. La tactique et la stratégie des dictatures ont illustré aux yeux des plus sceptiques et des plus lourds, par des images simples et frappantes, la 
 <a class="pb" href="#p194" id="p194">[p. 194]</a>
@@ -1833,58 +2039,58 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="6#p189">p. 189</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="6#note27_">27. </a>Proverbes 26, 4 et 5.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="6#note27_">27. </a>Proverbes 26, 4 et 5.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p197">p. 197</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="6#note28_">28. </a>Assumer, confesser sa culpabilité, avec une virile clairvoyance, c’est la vraie guérison de nos fameux « complexes de culpabilité ».</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="6#note28_">28. </a>Assumer, confesser sa culpabilité, avec une virile clairvoyance, c’est la vraie guérison de nos fameux « complexes de culpabilité ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p201">p. 201</a>
                         </div>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Daniel Defoe.</aside>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a>Je prends le mot prochain au sens que lui donne la parabole du Bon Samaritain. Qui est mon prochain ? — Celui qui a besoin de ton aide, ou celui qui t’en donne. Ce peut être n’importe quel homme, celui qui passe sur ton chemin et qui s’arrête…</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Daniel Defoe.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a>Je prends le mot prochain au sens que lui donne la parabole du Bon Samaritain. Qui est mon prochain ? — Celui qui a besoin de ton aide, ou celui qui t’en donne. Ce peut être n’importe quel homme, celui qui passe sur ton chemin et qui s’arrête…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p208">p. 208</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="6#note31_">31. </a>Régime <i class="i">parlementaire</i>, contrats sociaux, lois, opinion publique, presse libre, meetings, conférences. La monarchie était fondée sur le rite, les formules consacrées, la cérémonie plastique. La dictature est le régime des coups et la parole n’y est plus que mensonge dirigé.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="6#note31_">31. </a>Régime <i class="i">parlementaire</i>, contrats sociaux, lois, opinion publique, presse libre, meetings, conférences. La monarchie était fondée sur le rite, les formules consacrées, la cérémonie plastique. La dictature est le régime des coups et la parole n’y est plus que mensonge dirigé.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p211">p. 211</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="6#note32_">32. </a>Je ne parle pas de l’immoralité, j’ignore si elle était plus grande qu’en d’autres temps. Je dis seulement qu’on n’avait même plus « l’hypocrisie » de la condamner comme telle.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="6#note32_">32. </a>Je ne parle pas de l’immoralité, j’ignore si elle était plus grande qu’en d’autres temps. Je dis seulement qu’on n’avait même plus « l’hypocrisie » de la condamner comme telle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p212">p. 212</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="6#note33_">33. </a>J’emploie le terme italien célébré par Burckhardt et par Nietzsche à propos des héros de la Renaissance. On pourrait le traduire à peu près par énergie de l’âme, audace maîtrisée.</aside>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>Baudelaire encore, en plein <span class="num">xix<sup class="sup">e</sup></span> siècle…</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="6#note33_">33. </a>J’emploie le terme italien célébré par Burckhardt et par Nietzsche à propos des héros de la Renaissance. On pourrait le traduire à peu près par énergie de l’âme, audace maîtrisée.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>Baudelaire encore, en plein <span class="num">xix<sup class="sup">e</sup></span> siècle…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p213">p. 213</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Benjamin Constant.</aside>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>La Rochefoucauld.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Benjamin Constant.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>La Rochefoucauld.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p214">p. 214</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>« Seigneur, donne ce que tu ordonnes ! » (Augustin.)</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>« Seigneur, donne ce que tu ordonnes ! » (Augustin.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p215">p. 215</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Jean I, 5, 6 à 8.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Jean I, 5, 6 à 8.</aside>
                       </div>
                     </section>
                   </article>
@@ -1901,51 +2107,51 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
                     <li class="here">
-                      <a href="#">Cinquième partie  –  Le Bleu du Ciel</a>
+                      <a href="#">Le Bleu du Ciel</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-1"><span class="num">lix</span>.  La lutte contre le Diable</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2"><span class="num">lx</span>.  Saint Michel, ou l’ordre céleste, aussi nommé spirituel</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-3"><span class="num">lxi</span>.  L’exorcisme, ou l’ordre personnel</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-4"><span class="num">lxii</span>.  L’ordre cosmique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-5"><span class="num">lxiii</span>.  L’ordre social</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-6"><span class="num">lxiv</span>.  Le sens des mots</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-7"><span class="num">lxv</span>.  Vertus</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-8"><span class="num">lxvi</span>.  Le bleu du ciel</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
                   </ul>
@@ -1959,10 +2165,39 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
     <page path="/livres/ddr1982partdia/7" name="Postface après quarante ans" package="ddr1982partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Part du diable (1982) Postface après quarante ans</value>
+          <value>Postface après quarante ans (1982, La Part du diable)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Part du diable (1982)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Postface après quarante ans"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1971,7 +2206,7 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p217" id="p217">[p. 217]</a>
                     <h1 class="head chapter">Postface après quarante ans<a class="bookmark" href="7"> §</a></h1>
                     <section id="body-7-1" class="div level2">
@@ -2203,7 +2438,13 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
  Freud avait publié quelques années plus tôt ( 1930) son étude sur le <i class="i">Malaise de la Civilisation</i>, où il arrivait à la conclusion « qu’à côté de l’instinct de conservation de la substance vivante qui tend à la composer en unités toujours plus grandes, il doit exister un autre instinct, antagoniste, qui tend à dissoudre ces unités et à les ramener à leur état originel, inorganique. Autrement dit : avec Éros coexiste un instinct de mort. Le phénomène de la vie peut être expliqué par la convergence ou par l’action antinomique de ces deux instincts ».</p>
                         <p class="p">Ici, Freud citait des vers du <i class="i">Faust</i> de Goethe dans lesquels le Diable lui-même désigne son adversaire : ce n’est pas ce qui est saint et bon, mais c’est le pouvoir qu’a la Nature de créer, de multiplier le vivant :</p>
                         <blockquote class="quote">
-                          <div class="l">Car toutes choses tirées du Vide <br class="lb"/>Méritent d’être détruites… <br class="lb"/>Et tout ce que vous nommez péché <br class="lb"/>— Destruction — bref, le mal tout court <br class="lb"/>C’est mon véritable élément. <br class="lb"/>Si je ne m’étais pas réservé la flamme. <br class="lb"/>Vraiment, qu’aurais-je encore en propre ?<a class="noteref" href="7#note45" id="note45_"><sup>45</sup></a></div>
+                          <div class="l">Car toutes choses tirées du Vide</div>
+                          <div class="l">Méritent d’être détruites…</div>
+                          <div class="l">Et tout ce que vous nommez péché</div>
+                          <div class="l">— Destruction — bref, le mal tout court</div>
+                          <div class="l">C’est mon véritable élément.</div>
+                          <div class="l">Si je ne m’étais pas réservé la flamme.</div>
+                          <div class="l">Vraiment, qu’aurais-je encore en propre ?<a class="noteref" href="7#note45" id="note45_"><sup>45</sup></a></div>
                         </blockquote>
                         <p class="p autofirst">Tout cela éveille, dans l’esprit d’un usager de la civilisation scientifico-technique en ce dernier tiers du <span class="num">xx<sup class="sup">e</sup></span> siècle, les plus précises analogies physiques. (Freud n’invoquait que la biologie.) Le Second principe de la Thermodynamique ou Principe de Carnot formule la loi de la dégradation irréversible 
 <a class="pb" href="#p243" id="p243">[p. 243]</a>
@@ -2272,14 +2513,14 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="7#p220">p. 220</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="7#note39_">39. </a>Il s’agit de <i class="i">La part du Diable</i>, qui devait paraître à New York à la fin de 1942, dans une première version. La seconde version, élargie, date de 1944. C’est elle qui a paru en Suisse en 1946, puis à Paris en 1947.</aside>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Conférence sur <i class="i">Le Diable au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, août 1941.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="7#note39_">39. </a>Il s’agit de <i class="i">La part du Diable</i>, qui devait paraître à New York à la fin de 1942, dans une première version. La seconde version, élargie, date de 1944. C’est elle qui a paru en Suisse en 1946, puis à Paris en 1947.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Conférence sur <i class="i">Le Diable au <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, août 1941.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p223">p. 223</a>
                         </div>
-                        <aside id="note41" class="note bottomnote">
+                        <aside id="note41" role="note" class="note bottomnote">
                           <a class="noteback" href="7#note41_">41. </a>
                           <a>Voir <i class="i">Journal d’une époque</i>, Gallimard, 1968, p. 79 et 80.</a>
                         </aside>
@@ -2288,37 +2529,37 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
                         <div class="b note-page">
                           <a href="7#p226">p. 226</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>« <i class="de i" lang="de">Das Nichts nichtet</i> », le Néant néantit, dit Heidegger. Cf. « Qu’est-ce que la Métaphysique ? » Trad. franç. par Henry Corbin, Gallimard, 1938. Déjà cité plus haut chap. <span class="num">lvi</span>.</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>« <i class="de i" lang="de">Das Nichts nichtet</i> », le Néant néantit, dit Heidegger. Cf. « Qu’est-ce que la Métaphysique ? » Trad. franç. par Henry Corbin, Gallimard, 1938. Déjà cité plus haut chap. <span class="num">lvi</span>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p228">p. 228</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a><span class="sc">E. Arnaud</span>, <i class="i">Histoire des premières persécutions des Vaudois luthériens du Comtat Venaissien et de la Provence</i>, Paris, 1891.</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a><span class="sc">E. Arnaud</span>, <i class="i">Histoire des premières persécutions des Vaudois luthériens du Comtat Venaissien et de la Provence</i>, Paris, 1891.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p230">p. 230</a>
                         </div>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="7#note44_">44. </a>Baudelaire, dans l’<i class="i">Art romantique</i>. Dans le même sens, Nietzsche : « Nous ne sommes pas non plus de ceux qui nient que la foi « sauve » : mais <i class="i">pour cette raison même</i> nous nions que la foi <i class="i">prouve</i> quelque chose. » (<i class="i">Généalogie de la Morale</i>, III, 24.)</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="7#note44_">44. </a>Baudelaire, dans l’<i class="i">Art romantique</i>. Dans le même sens, Nietzsche : « Nous ne sommes pas non plus de ceux qui nient que la foi « sauve » : mais <i class="i">pour cette raison même</i> nous nions que la foi <i class="i">prouve</i> quelque chose. » (<i class="i">Généalogie de la Morale</i>, III, 24.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p242">p. 242</a>
                         </div>
-                        <aside id="note45" class="note bottomnote"><a class="noteback" href="7#note45_">45. </a>Cf. <i class="en i" lang="en">The World of Love</i>, George Braziller, New York, 1964, I. pp. 37 et 40.</aside>
+                        <aside id="note45" role="note" class="note bottomnote"><a class="noteback" href="7#note45_">45. </a>Cf. <i class="en i" lang="en">The World of Love</i>, George Braziller, New York, 1964, I. pp. 37 et 40.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p244">p. 244</a>
                         </div>
-                        <aside id="note46" class="note bottomnote"><a class="noteback" href="7#note46_">46. </a>L’amour-passion, en revanche, qui se dégrade en chaleur, est un accroissement de l’entropie (voir là-dessus mon <a><i class="i">Amour et l’Occident</i></a>).</aside>
+                        <aside id="note46" role="note" class="note bottomnote"><a class="noteback" href="7#note46_">46. </a>L’amour-passion, en revanche, qui se dégrade en chaleur, est un accroissement de l’entropie (voir là-dessus mon <a><i class="i">Amour et l’Occident</i></a>).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p245">p. 245</a>
                         </div>
-                        <aside id="note47" class="note bottomnote"><a class="noteback" href="7#note47_">47. </a>Karpokraces, selon une légende, fut le fils d’Épiphane et d’Alexandrie, c’est-à-dire d’un génial hérétique communiste mort à dix-sept ans, et d’une ville qui est restée le symbole de la grande civilisation hellénistique. (Cf. Hans Leisegang, <i class="i">Die Gnosis</i>.)</aside>
+                        <aside id="note47" role="note" class="note bottomnote"><a class="noteback" href="7#note47_">47. </a>Karpokraces, selon une légende, fut le fils d’Épiphane et d’Alexandrie, c’est-à-dire d’un génial hérétique communiste mort à dix-sept ans, et d’une ville qui est restée le symbole de la grande civilisation hellénistique. (Cf. Hans Leisegang, <i class="i">Die Gnosis</i>.)</aside>
                       </div>
                     </section>
                   </article>
@@ -2335,92 +2576,92 @@ l’intelligence : elle prit de son fruit et en mangea. »<a class="noteref" h
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
-                      <a href="1">Introduction  –  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                    <li class="collateral">
+                      <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  L’Incognito et la révélation</a>
+                    <li class="collateral">
+                      <a href="2">L’Incognito et la révélation</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Hitler ou l’alibi</a>
+                    <li class="collateral">
+                      <a href="3">Hitler ou l’alibi</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  Le Diable démocrate</a>
+                    <li class="collateral">
+                      <a href="4">Le Diable démocrate</a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième partie  –  Le Diable dans nos Dieux et dans nos maladies</a>
+                    <li class="collateral">
+                      <a href="5">Le Diable dans nos Dieux et dans nos maladies</a>
                     </li>
-                    <li>
-                      <a href="6">Cinquième partie  –  Le Bleu du Ciel</a>
+                    <li class="collateral">
+                      <a href="6">Le Bleu du Ciel</a>
                     </li>
                     <li class="here">
                       <a href="#">Postface après quarante ans</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-1">I</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-1">5 West I6th Street, New York Fin décembre 1941</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-2">Mercredi des Cendres, 18 février</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-3">22 février</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-4">26 février</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-5">1<sup>er</sup> mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-6">5 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-7">7 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-8">14 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-9">16 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-10">20 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-11">21 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-12">23 mars</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-1-13">25 mars</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-2">II</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-2-1">Projection ?</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-2-2">Autocritique</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-3">III</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-3-1">La décréation</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-3-2">Le pacte avec le Diable</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="7#body-7-3-3">La néguentropie, c’est l’amour</a>
                             </li>
                           </ul>

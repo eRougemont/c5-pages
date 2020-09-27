@@ -4,10 +4,39 @@
     <page path="/livres/ddr1965shph/1" name="Préface 1970" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Préface 1970</value>
+          <value>Préface 1970 (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Préface 1970"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Préface 1970<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">J’ai choisi le sous-titre de ce livre pour m’amuser à faire mentir un proverbe fameux et que je croyais connu de tout lecteur virtuel : <i class="i">Les peuples heureux n’ont pas d’histoire</i>. Hélas, j’ai découvert que mes contemporains, les jeunes surtout, mais combien d’autres, ignorent à la fois la sagesse proverbiale et les vertus du paradoxe. Avec tout le sérieux qu’on leur connaît, plutôt cynique à droite, moralisant à gauche, ils m’ont fait observer qu’ils ne sont pas heureux et qu’ils dénient le droit de l’être à tout citoyen suisse qui ne serait pas un « veau », pour reprendre une célèbre épithète. Il faut donc que je m’explique un peu sur ce que je croyais qui allait de soi.</p>
@@ -74,13 +103,13 @@
                         <div class="b note-page">
                           <a href="1#pb10">p. 10</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>J’entends bien au sens scientifique de ce terme, nullement au sens d’exemple à suivre pour sa valeur achevée ou sa vertu très haute.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>J’entends bien au sens scientifique de ce terme, nullement au sens d’exemple à suivre pour sa valeur achevée ou sa vertu très haute.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb11">p. 11</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Voir en français <i class="i">La Suisse romande au cap du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, par Alfred <span class="sc">Berchtold ;</span> en italien <i class="i">Storia delle quattro letterature della Svizzera</i>, par Guido <span class="sc">Calgari ;</span> en allemand <i class="i">Die Schweiz und ihre Schriftsteller</i>, par Kurt <span class="sc">Marti.</span> L’excellent recueil d’articles sur des auteurs romands par Manfred <span class="sc">Gsteiger</span>, <i class="i">Westwind</i>, n’a malheureusement pas d’équivalent en français sur les auteurs alémaniques.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Voir en français <i class="i">La Suisse romande au cap du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, par Alfred <span class="sc">Berchtold ;</span> en italien <i class="i">Storia delle quattro letterature della Svizzera</i>, par Guido <span class="sc">Calgari ;</span> en allemand <i class="i">Die Schweiz und ihre Schriftsteller</i>, par Kurt <span class="sc">Marti.</span> L’excellent recueil d’articles sur des auteurs romands par Manfred <span class="sc">Gsteiger</span>, <i class="i">Westwind</i>, n’a malheureusement pas d’équivalent en français sur les auteurs alémaniques.</aside>
                       </div>
                     </section>
                   </article>
@@ -100,23 +129,23 @@
                     <li class="here">
                       <a href="#">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -129,10 +158,39 @@
     <page path="/livres/ddr1965shph/2" name="Introduction" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Introduction</value>
+          <value>Introduction (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Introduction"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -141,7 +199,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb15" id="pb15">[p. 15]</a>
                     <h1 class="head chapter">Introduction<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Un beau jour on me demande un livre sur la Suisse. « Quel genre de livre ? Il y en a tant sur ce pays. J’en ai fait au moins deux moi-même. — Je sais. Je voudrais autre chose. Un livre à l’ancienne mode sur les paysages, les mœurs et les relations humaines. Si vous pouviez parler aussi du secret des banques, voilà qui intéresserait tout le monde… »</p>
@@ -191,26 +249,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
                     <li class="here">
                       <a href="#">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -220,13 +278,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1965shph/3" name="Première partie – Le paysage historique – ou comment se forme une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1965shph/3" name="I. Le paysage historique, ou comment se forme une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Première partie – Le paysage historique – ou comment se forme une fédération</value>
+          <value>I. Le paysage historique, ou comment se forme une fédération (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. Le paysage historique, ou comment se forme une fédération"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -235,9 +322,11 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb21" id="pb21">[p. 21]</a>
-                    <h1 class="head chapter">Première partie <br class="lb"/>Le paysage historique <br class="lb"/>ou comment se forme une fédération<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">Première partie</h1>
+                    <h1 class="head chapter">Le paysage historique
+          <br class="lb"/>ou comment se forme une fédération<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2 level2">
                       <a class="pb" href="#pb23" id="pb23">[p. 23]</a>
                       <h2 class="head">Puissance du mythe<a class="bookmark" href="3#body-3-1"> §</a></h2>
@@ -312,11 +401,19 @@
  Vers l’est et vers l’ouest deux routes de col commencent la vallée du Rhin par l’Oberalp qui conduit aux Grisons rhétiques, et la vallée du Rhône par la Furka qui conduit au Valais latin. Et, au milieu, dans un cirque de prairies à l’herbe grasse, environné de hautes pentes dénudées que couronne parfois la tranche d’un glacier, les villages d’Andermatt et d’Hospental se groupent autour d’une grosse église baroque et d’un donjon romain sur un rocher.</p>
                       <p class="p">Au fronton de la chapelle Saint-Charles, à Hospental, quelques vers disent avec simplicité ce sentiment d’être au cœur de l’Europe qui ne manque pas de m’émouvoir chaque fois que je m’arrête au Gothard :</p>
                       <blockquote class="quote">
-                        <div class="l">Ici les chemins se séparent. <br class="lb"/>Ami, où vont tes pas ? <br class="lb"/>Descendras-tu vers la Rome éternelle ? <br class="lb"/>Vers le Rhin allemand et Cologne la sainte ? <br class="lb"/>Ou bien vers l’ouest, au loin, en terre de France ?</div>
+                        <div class="l">Ici les chemins se séparent.
+              <br class="lb"/>Ami, où vont tes pas ?
+              <br class="lb"/>Descendras-tu vers la Rome éternelle ?
+              <br class="lb"/>Vers le Rhin allemand et Cologne la sainte ?
+              <br class="lb"/>Ou bien vers l’ouest, au loin, en terre de France ?</div>
                       </blockquote>
                       <p class="p autofirst">Quelques siècles plus tard, un poète français fait dire à son héros quittant l’Europe et qui s’en remémore les saisons et les sites :</p>
                       <blockquote class="quote">
-                        <div class="l">Et je me souviendrai de ce lieu où l’hiver <br class="lb"/>Demeure au cœur des mois d’été : <br class="lb"/>Ce lieu de glace, et de rocs noirs, et de cieux noirs, <br class="lb"/>Où, dans le pur silence. <br class="lb"/>Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<a class="noteref" href="3#note4" id="note4_"><sup>4</sup></a></div>
+                        <div class="l">Et je me souviendrai de ce lieu où l’hiver
+              <br class="lb"/>Demeure au cœur des mois d’été :
+              <br class="lb"/>Ce lieu de glace, et de rocs noirs, et de cieux noirs,
+              <br class="lb"/>Où, dans le pur silence.
+              <br class="lb"/>Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<a class="noteref" href="3#note4" id="note4_"><sup>4</sup></a></div>
                       </blockquote>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">En ce lieu se sont noués les destins de la Suisse, au <span class="num">xiii<sup class="sup">e</sup></span> siècle. Voyons les personnages du drame.</p>
@@ -748,265 +845,265 @@
                         <div class="b note-page">
                           <a href="3#pb27">p. 27</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>À la « lourdeur helvétique » s’oppose l’« esprit gaulois », <i class="i">the gallic wit</i>. Mais les Helvètes étaient Gaulois. Cf. l’emploi du terme « Albion », le plus vieux nom de l’Angleterre, pour désigner les défauts traditionnels attribués à cette nation.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>À la « lourdeur helvétique » s’oppose l’« esprit gaulois », <i class="i">the gallic wit</i>. Mais les Helvètes étaient Gaulois. Cf. l’emploi du terme « Albion », le plus vieux nom de l’Angleterre, pour désigner les défauts traditionnels attribués à cette nation.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb33">p. 33</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="3#note4_">4. </a>Valery <span class="sc">Larbaud</span>, Épilogue de <i class="i">A. O. Barnabooth</i>.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="3#note4_">4. </a>Valery <span class="sc">Larbaud</span>, Épilogue de <i class="i">A. O. Barnabooth</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb34">p. 34</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>À cette époque, sont déjà « villes impériales » Soleure, Schaffhouse, Saint-Gall et Zurich.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>À cette époque, sont déjà « villes impériales » Soleure, Schaffhouse, Saint-Gall et Zurich.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb35">p. 35</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Dans ces quelques mots se résume toute une littérature qui, de Schiller à Hugo, a inventé le peuple des « vachers de la Suisse, serfs révoltés des Autrichiens » (Michelet).</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Dans ces quelques mots se résume toute une littérature qui, de Schiller à Hugo, a inventé le peuple des « vachers de la Suisse, serfs révoltés des Autrichiens » (Michelet).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb36">p. 36</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>On les appelle aussi <i class="i">Markgenossenschaften</i>, littéralement : coopératives régionales, autrement dit marchés communs.</aside>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Brachycéphales celto-ligures et alpins ou rhétiques, mêlés d’une minorité de dolichocéphales alamano-burgondes.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>On les appelle aussi <i class="i">Markgenossenschaften</i>, littéralement : coopératives régionales, autrement dit marchés communs.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Brachycéphales celto-ligures et alpins ou rhétiques, mêlés d’une minorité de dolichocéphales alamano-burgondes.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb38">p. 38</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a><span class="sc">G. de Reynold</span>, <i class="i">Conscience de la Suisse</i>, 1939, p. 191-193.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a><span class="sc">G. de Reynold</span>, <i class="i">Conscience de la Suisse</i>, 1939, p. 191-193.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb39">p. 39</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>Ce n’est guère que dans la seconde moitié du <span class="num">xiv<sup class="sup">e</sup></span> siècle que les villes de Berne, Zurich, Soleure et Zoug concluent une alliance contre Léopold III et que la guerre éclate entre les Waldstätten et les Habsbourg en tant que ducs d’Autriche, aboutissant à la victoire décisive de Sempach en 1386. Mais à Sempach encore, l’armée du duc est composée de chevaliers des régions actuellement suisses.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>Ce n’est guère que dans la seconde moitié du <span class="num">xiv<sup class="sup">e</sup></span> siècle que les villes de Berne, Zurich, Soleure et Zoug concluent une alliance contre Léopold III et que la guerre éclate entre les Waldstätten et les Habsbourg en tant que ducs d’Autriche, aboutissant à la victoire décisive de Sempach en 1386. Mais à Sempach encore, l’armée du duc est composée de chevaliers des régions actuellement suisses.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb40">p. 40</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>L’article 7 de la Constitution fédérale de 1848 dit : « Toute alliance particulière et tout traité d’une nature politique entre cantons sont interdits. » Le Pacte de 1291 était donc tombé en désuétude, puisque nul n’a jugé nécessaire de relever qu’il était incompatible avec la lettre de cet article 7.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>L’article 7 de la Constitution fédérale de 1848 dit : « Toute alliance particulière et tout traité d’une nature politique entre cantons sont interdits. » Le Pacte de 1291 était donc tombé en désuétude, puisque nul n’a jugé nécessaire de relever qu’il était incompatible avec la lettre de cet article 7.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb42">p. 42</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Cf. Ernest <span class="sc">Gagliardi</span>, <i class="i">Histoire de la Suisse</i>, livre II, chap. 1<sup class="sup">er</sup>.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Cf. Ernest <span class="sc">Gagliardi</span>, <i class="i">Histoire de la Suisse</i>, livre II, chap. 1<sup class="sup">er</sup>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb43">p. 43</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>Les hommes de Schwyz étant réputés pour leur brutalité dans les combats, leur nom sera d’abord un sobriquet infligé aux alliés de ces « bêtes sauvages, plutôt qu’hommes », comme le disent les chroniqueurs favorables aux Habsbourg.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>Les hommes de Schwyz étant réputés pour leur brutalité dans les combats, leur nom sera d’abord un sobriquet infligé aux alliés de ces « bêtes sauvages, plutôt qu’hommes », comme le disent les chroniqueurs favorables aux Habsbourg.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb44">p. 44</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a><i class="i">Specimen observationum ex jure gentium et jure publico circa Helvetiorum fœdera, cui accedit antiquissimum perpetuum fœdus trium Civitatum Sylvestrum, nunc primum in luce editum</i>. Bâle, 1760.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a><i class="i">Specimen observationum ex jure gentium et jure publico circa Helvetiorum fœdera, cui accedit antiquissimum perpetuum fœdus trium Civitatum Sylvestrum, nunc primum in luce editum</i>. Bâle, 1760.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb47">p. 47</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Dans son <i class="i">De Republica Helvetiorum</i> (1576), Josias <span class="sc">Simler</span> se demande si la « louable Confédération » est un État, et il répond oui, en ce sens que ses parties sont unies par un sentiment commun ; non en ce sens qu’elles manquent d’institutions communes. Simler souhaite dans la dédicace que son livre éclaire « toute l’Europe » sur la réalité confédérale. Il est aussitôt traduit en allemand, en français, en hollandais, et connaît vingt-neuf rééditions jusqu’au milieu du <span class="num">xviii<sup class="sup">e</sup></span> siècle.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Dans son <i class="i">De Republica Helvetiorum</i> (1576), Josias <span class="sc">Simler</span> se demande si la « louable Confédération » est un État, et il répond oui, en ce sens que ses parties sont unies par un sentiment commun ; non en ce sens qu’elles manquent d’institutions communes. Simler souhaite dans la dédicace que son livre éclaire « toute l’Europe » sur la réalité confédérale. Il est aussitôt traduit en allemand, en français, en hollandais, et connaît vingt-neuf rééditions jusqu’au milieu du <span class="num">xviii<sup class="sup">e</sup></span> siècle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb50">p. 50</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Cf. David <span class="sc">Lasserre</span>, <i class="i">Étapes du fédéralisme, l’expérience suisse</i>, Ed. Rencontre, Lausanne, 1954, notamment p. 36 et 85, et tout le chapitre consacré à « La Crise zurichoise de 1436-1450 ».</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Cf. David <span class="sc">Lasserre</span>, <i class="i">Étapes du fédéralisme, l’expérience suisse</i>, Ed. Rencontre, Lausanne, 1954, notamment p. 36 et 85, et tout le chapitre consacré à « La Crise zurichoise de 1436-1450 ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb53">p. 53</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>La même tactique sera utilisée par les Finlandais, en 1940, contre les colonnes de blindés soviétiques, et avec le même succès.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>La même tactique sera utilisée par les Finlandais, en 1940, contre les colonnes de blindés soviétiques, et avec le même succès.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb57">p. 57</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="3#note18_">18. </a>L’Anglais Abraham <span class="sc">Stanyan</span> écrit dans son <i class="i">Account of Switzerland</i>, Londres, 1714 : « Si les Suisses ne drainaient pas continuellement leur pays de ces troupes entretenues par le service étranger, il y en aurait bientôt une telle pléthore relativement à l’étendue de leur territoire et à sa fertilité, qu’en toute probabilité ils feraient irruption en masse chez leurs voisins ou chercheraient à s’établir encore plus loin. »</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="3#note18_">18. </a>L’Anglais Abraham <span class="sc">Stanyan</span> écrit dans son <i class="i">Account of Switzerland</i>, Londres, 1714 : « Si les Suisses ne drainaient pas continuellement leur pays de ces troupes entretenues par le service étranger, il y en aurait bientôt une telle pléthore relativement à l’étendue de leur territoire et à sa fertilité, qu’en toute probabilité ils feraient irruption en masse chez leurs voisins ou chercheraient à s’établir encore plus loin. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb58">p. 58</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="3#note19_">19. </a>Cf. Ernest Gagliardi, <i class="i">Histoire de la Suisse</i>, tome I, II, 3, p. 351. Sully dit avoir payé aux Suisses, sur le trésor d’Henri IV, 36 millions de livres entre 1595 et 1605.</aside>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="3#note20_">20. </a>Les Pfyffer renoncèrent à porter tout autre titre de ceux qui leur furent décernés, avant et après ce haut fait. Un jour, dans la foule des courtisans à Versailles, Louis XIV remarque un gentilhomme resté couvert et s’approchant de lui : « Je sais, dit-il, vous êtes M. de Pfyffer. Mais songez que je ne suis pas seul ici, il y a des dames… »</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="3#note19_">19. </a>Cf. Ernest Gagliardi, <i class="i">Histoire de la Suisse</i>, tome I, II, 3, p. 351. Sully dit avoir payé aux Suisses, sur le trésor d’Henri IV, 36 millions de livres entre 1595 et 1605.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="3#note20_">20. </a>Les Pfyffer renoncèrent à porter tout autre titre de ceux qui leur furent décernés, avant et après ce haut fait. Un jour, dans la foule des courtisans à Versailles, Louis XIV remarque un gentilhomme resté couvert et s’approchant de lui : « Je sais, dit-il, vous êtes M. de Pfyffer. Mais songez que je ne suis pas seul ici, il y a des dames… »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb59">p. 59</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="3#note21_">21. </a>Un exemple : « D’après une évaluation modérée, pendant la guerre de Succession d’Espagne, il y avait vingt mille hommes en France seulement, treize mille en Hollande, quatre mille en Savoie, trois mille à Milan et deux mille au service de l’Empereur. » (E. Gagliardi, <i class="i">op. cit</i>., tome I, p. 415). En 1748, soixante mille Suisses sont en service à l’étranger, chiffre énorme pour l’époque.</aside>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="3#note22_">22. </a>Quant aux amiraux suisses, qui ont fait rire à Paris : le Bernois d’Erlach commande la flotte du Danemark à la fin du <span class="num">xvii<sup class="sup">e</sup></span> siècle, le Genevois Lefort crée la flotte russe, l’Argovien Eberle est à la tête de la marine des États-Unis en 1923, etc.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="3#note21_">21. </a>Un exemple : « D’après une évaluation modérée, pendant la guerre de Succession d’Espagne, il y avait vingt mille hommes en France seulement, treize mille en Hollande, quatre mille en Savoie, trois mille à Milan et deux mille au service de l’Empereur. » (E. Gagliardi, <i class="i">op. cit</i>., tome I, p. 415). En 1748, soixante mille Suisses sont en service à l’étranger, chiffre énorme pour l’époque.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="3#note22_">22. </a>Quant aux amiraux suisses, qui ont fait rire à Paris : le Bernois d’Erlach commande la flotte du Danemark à la fin du <span class="num">xvii<sup class="sup">e</sup></span> siècle, le Genevois Lefort crée la flotte russe, l’Argovien Eberle est à la tête de la marine des États-Unis en 1923, etc.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb62">p. 62</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="3#note23_">23. </a>Cette dernière disposition n’est pas sans évoquer l’ancienne tradition germanique, qui veut que l’homme libre soit celui qui a le droit de porter l’épée.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="3#note23_">23. </a>Cette dernière disposition n’est pas sans évoquer l’ancienne tradition germanique, qui veut que l’homme libre soit celui qui a le droit de porter l’épée.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb65">p. 65</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="3#note24_">24. </a>L’Almanach de Gotha publiait toujours deux séries d’édition de ses annuaires de la noblesse germanique : <i class="i">Uradel</i>, familles féodales dont la qualité noble est attestée antérieurement à 1350, et <i class="i">Briefadel</i>, familles anoblies par lettres et brevets après cette date.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="3#note24_">24. </a>L’Almanach de Gotha publiait toujours deux séries d’édition de ses annuaires de la noblesse germanique : <i class="i">Uradel</i>, familles féodales dont la qualité noble est attestée antérieurement à 1350, et <i class="i">Briefadel</i>, familles anoblies par lettres et brevets après cette date.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb68">p. 68</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="3#note25_">25. </a>Le château de Blonay est resté propriété de la famille qui en porte le nom des origines (1175) à nos jours, c’est-à-dire pendant près de huit siècles.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="3#note25_">25. </a>Le château de Blonay est resté propriété de la famille qui en porte le nom des origines (1175) à nos jours, c’est-à-dire pendant près de huit siècles.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb69">p. 69</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="3#note26_">26. </a>Cf. <i class="i">Rilke et la Suisse</i>, par Jean-Rodolphe de Salis. Pierre-Jean Jouve a situé dans ce même palais un récit d’une noire beauté, intitulé <i class="i">Dans les années profondes</i>.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="3#note26_">26. </a>Cf. <i class="i">Rilke et la Suisse</i>, par Jean-Rodolphe de Salis. Pierre-Jean Jouve a situé dans ce même palais un récit d’une noire beauté, intitulé <i class="i">Dans les années profondes</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb70">p. 70</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="3#note27_">27. </a>À l’exception toutefois de Saint-Moritz, qui entasse ses hôtels disparates sur une sorte de verrue, au seul lieu sans beauté de la vallée. Les touristes qui connaissent Saint-Moritz n’ont pas vu l’Engadine réelle, mais seulement la Suisse hôtelière de 1900.</aside>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="3#note28_">28. </a>Président du gouvernement.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="3#note27_">27. </a>À l’exception toutefois de Saint-Moritz, qui entasse ses hôtels disparates sur une sorte de verrue, au seul lieu sans beauté de la vallée. Les touristes qui connaissent Saint-Moritz n’ont pas vu l’Engadine réelle, mais seulement la Suisse hôtelière de 1900.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="3#note28_">28. </a>Président du gouvernement.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb72">p. 72</a>
                         </div>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="3#note29_">29. </a><i class="i">Lettres de M. William Coxe sur l’État politique, civil et naturel de la Suisse</i>, traduites de l’anglais (par Ramond de <span class="sc">Carbonnières</span>, qui ajoute à cette édition d’intéressants commentaires et souvenirs personnels), à Paris, 1782, tome II, p. 313.</aside>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="3#note30_">30. </a>En réalité, la corruption des électeurs, la distinction toujours plus marquée entre familles « aptes à gouverner » et simples résidents, entre riches et pauvres, la transmission héréditaire des charges, etc., semblent avoir été encore plus scandaleuses dans certains petits cantons à Landsgemeinde, comme Glaris et Zoug, que dans les villes oligarchiques, où les corporations défendaient encore avec quelque succès les droits de la bourgeoisie, sinon du peuple.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="3#note29_">29. </a><i class="i">Lettres de M. William Coxe sur l’État politique, civil et naturel de la Suisse</i>, traduites de l’anglais (par Ramond de <span class="sc">Carbonnières</span>, qui ajoute à cette édition d’intéressants commentaires et souvenirs personnels), à Paris, 1782, tome II, p. 313.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="3#note30_">30. </a>En réalité, la corruption des électeurs, la distinction toujours plus marquée entre familles « aptes à gouverner » et simples résidents, entre riches et pauvres, la transmission héréditaire des charges, etc., semblent avoir été encore plus scandaleuses dans certains petits cantons à Landsgemeinde, comme Glaris et Zoug, que dans les villes oligarchiques, où les corporations défendaient encore avec quelque succès les droits de la bourgeoisie, sinon du peuple.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb73">p. 73</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="3#note31_">31. </a><i class="en i" lang="en">Op. cit</i>., tome II, p. 314.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="3#note31_">31. </a><i class="en i" lang="en">Op. cit</i>., tome II, p. 314.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb74">p. 74</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="3#note32_">32. </a>De fait, beaucoup de familles influentes de l’ancienne Suisse soutenaient ouvertement l’un des partis européens aux prises hors de nos frontières, — le français, l’autrichien, le savoyard, l’espagnol ou le prussien, selon les allégeances qui les rattachaient aux souverains dont elles tenaient leurs titres et parfois leur fortune.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="3#note32_">32. </a>De fait, beaucoup de familles influentes de l’ancienne Suisse soutenaient ouvertement l’un des partis européens aux prises hors de nos frontières, — le français, l’autrichien, le savoyard, l’espagnol ou le prussien, selon les allégeances qui les rattachaient aux souverains dont elles tenaient leurs titres et parfois leur fortune.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb76">p. 76</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="3#note33_">33. </a>Mon instituteur eût cependant pu se prévaloir d’une vieille tradition suisse d’hostilité contre tout ce qui prétend « mieux valoir ». Par exemple : « En 1566, cinq gentilshommes lorrains passant à Rothenbourg, près de Lucerne, demandèrent au curé ce qu’ils devaient penser de la noblesse suisse ; il leur répondit, à ce que l’on rapporte, qu’on
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="3#note33_">33. </a>Mon instituteur eût cependant pu se prévaloir d’une vieille tradition suisse d’hostilité contre tout ce qui prétend « mieux valoir ». Par exemple : « En 1566, cinq gentilshommes lorrains passant à Rothenbourg, près de Lucerne, demandèrent au curé ce qu’ils devaient penser de la noblesse suisse ; il leur répondit, à ce que l’on rapporte, qu’on
               l’avait expulsée et que le plus haut placé devait garder les vaches. Ils lui demandèrent alors si le colonel Guillaume Fröhlich, commandant des Suisses au service de la France, n’était pas noble, et il répondit que non. Interrogé ensuite si le colonel Pfyffer l’était, il répliqua : « Les Pfyffer ne sont pas nobles ; ils descendent d’un simple tailleur, et encore n’était-ce pas un bon tailleur. — Et le comte Michel de Gruyère ? » Le curé ne le tenait pas non plus pour noble, car « le comte était sans doute un grand seigneur dans le pays, mais si quelqu’un s’avisait de dire qu’il valait mieux que les autres paysans, on ferait de lui un gardeur de moutons », etc. (A. Ph. von <span class="sc">Segesser</span>, <i class="de i" lang="de">Ludwig Pfyffer</i>, I, p. 660-661).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb77">p. 77</a>
                         </div>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="3#note34_">34. </a>Paul <span class="sc">Schweizer</span>, <i class="de i" lang="de">Geschichte der schweizerischen Neutralität</i>, 1895.</aside>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="3#note35_">35. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">Histoire de la Neutralité suisse</i>, Bâle, 1946 ; Neuchâtel, 1949.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="3#note34_">34. </a>Paul <span class="sc">Schweizer</span>, <i class="de i" lang="de">Geschichte der schweizerischen Neutralität</i>, 1895.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="3#note35_">35. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">Histoire de la Neutralité suisse</i>, Bâle, 1946 ; Neuchâtel, 1949.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb78">p. 78</a>
                         </div>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="3#note36_">36. </a><i class="de i" lang="de">Gespräche und Discursen zweyer Evangelischer Eydtgenossen</i>… Trois libelles datant de 1632. Cf. E. Bonjour, <i class="i">op. cit</i>., p. 15 et 375.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="3#note36_">36. </a><i class="de i" lang="de">Gespräche und Discursen zweyer Evangelischer Eydtgenossen</i>… Trois libelles datant de 1632. Cf. E. Bonjour, <i class="i">op. cit</i>., p. 15 et 375.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb79">p. 79</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="3#note37_">37. </a>P. Valkenier, envoyé de la Hollande auprès de la Diète, en 1692. Cf. <span class="sc">Bonjour</span>, <i class="i">op. cit</i>., p. 376. Relevons l’expression « considérée de tout temps » (« <i class="i">allezeit erachtet</i> »), exagération classique dans ce genre de discours.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="3#note37_">37. </a>P. Valkenier, envoyé de la Hollande auprès de la Diète, en 1692. Cf. <span class="sc">Bonjour</span>, <i class="i">op. cit</i>., p. 376. Relevons l’expression « considérée de tout temps » (« <i class="i">allezeit erachtet</i> »), exagération classique dans ce genre de discours.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb80">p. 80</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="3#note38_">38. </a><span class="sc">E. Bonjour</span>, <i class="i">op. cit</i>., p. 147.</aside>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="3#note39_">39. </a>E. b<span class="sc">onjour</span>, <i class="i">op. cit</i>., p. 9.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="3#note38_">38. </a><span class="sc">E. Bonjour</span>, <i class="i">op. cit</i>., p. 147.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="3#note39_">39. </a>E. b<span class="sc">onjour</span>, <i class="i">op. cit</i>., p. 9.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb81">p. 81</a>
                         </div>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="3#note40_">40. </a>Cf. <span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 207-210 et <i class="i">passim</i>.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="3#note40_">40. </a>Cf. <span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 207-210 et <i class="i">passim</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb83">p. 83</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="3#note41_">41. </a>En 1917, <span class="sc">Clemenceau</span> disait : « Les Alliés voudraient bien faire la paix, mais la <i class="i">Gazette de Lausanne</i> ne le permet pas. »</aside>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="3#note42_">42. </a>Cf. sur tout cela le <i class="i">Rapport</i> du général Guisan à l’Assemblée fédérale sur le service actif, 1939-1945. Relevons que selon le général, « l’observance de la neutralité » rendit parfois très difficile l’établissement de nos plans de défense (p. 27, p. ex.).</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="3#note41_">41. </a>En 1917, <span class="sc">Clemenceau</span> disait : « Les Alliés voudraient bien faire la paix, mais la <i class="i">Gazette de Lausanne</i> ne le permet pas. »</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="3#note42_">42. </a>Cf. sur tout cela le <i class="i">Rapport</i> du général Guisan à l’Assemblée fédérale sur le service actif, 1939-1945. Relevons que selon le général, « l’observance de la neutralité » rendit parfois très difficile l’établissement de nos plans de défense (p. 27, p. ex.).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb84">p. 84</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="3#note43_">43. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">op. cit</i>., 7 et 19.</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="3#note43_">43. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">op. cit</i>., 7 et 19.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb88">p. 88</a>
                         </div>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="3#note44_">44. </a><span class="sc">E. Gagliardi</span>, <i class="it i" lang="it">op. cit</i>., I, p. 446.</aside>
-                        <aside id="note45" class="note bottomnote"><a class="noteback" href="3#note45_">45. </a>Encore que la « terre de liberté » qu’il embrasse soit en fait celle du Pays de Vaud, assujetti par les oligarques de Berne ! « S’il est un lieu au monde d’où la liberté d’écrire paraisse bannie c’est bien Berne. On nous enlèverait volontiers, si on le pouvait, la liberté de penser. » Ainsi s’exprime un savant bernois de l’époque, cité par <span class="sc">Gagliardi</span> (I, p. 472).</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="3#note44_">44. </a><span class="sc">E. Gagliardi</span>, <i class="it i" lang="it">op. cit</i>., I, p. 446.</aside>
+                        <aside id="note45" role="note" class="note bottomnote"><a class="noteback" href="3#note45_">45. </a>Encore que la « terre de liberté » qu’il embrasse soit en fait celle du Pays de Vaud, assujetti par les oligarques de Berne ! « S’il est un lieu au monde d’où la liberté d’écrire paraisse bannie c’est bien Berne. On nous enlèverait volontiers, si on le pouvait, la liberté de penser. » Ainsi s’exprime un savant bernois de l’époque, cité par <span class="sc">Gagliardi</span> (I, p. 472).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb89">p. 89</a>
                         </div>
-                        <aside id="note46" class="note bottomnote"><a class="noteback" href="3#note46_">46. </a>Le Premier Consul n’en avait pas moins annexé à la France le Valais, Genève, et le Jura vaudois.</aside>
+                        <aside id="note46" role="note" class="note bottomnote"><a class="noteback" href="3#note46_">46. </a>Le Premier Consul n’en avait pas moins annexé à la France le Valais, Genève, et le Jura vaudois.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb90">p. 90</a>
                         </div>
-                        <aside id="note47" class="note bottomnote"><a class="noteback" href="3#note47_">47. </a><span class="sc">W. Martin</span>, <i class="i">Histoire de la Suisse</i>, p. 241-242.</aside>
+                        <aside id="note47" role="note" class="note bottomnote"><a class="noteback" href="3#note47_">47. </a><span class="sc">W. Martin</span>, <i class="i">Histoire de la Suisse</i>, p. 241-242.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb91">p. 91</a>
                         </div>
-                        <aside id="note48" class="note bottomnote"><a class="noteback" href="3#note48_">48. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">La Constitution fédérale de 1848</i>, p. 51-52, qui cite plusieurs interventions typiques des députés à la Diète.</aside>
-                        <aside id="note49" class="note bottomnote"><a class="noteback" href="3#note49_">49. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 68.</aside>
+                        <aside id="note48" role="note" class="note bottomnote"><a class="noteback" href="3#note48_">48. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">La Constitution fédérale de 1848</i>, p. 51-52, qui cite plusieurs interventions typiques des députés à la Diète.</aside>
+                        <aside id="note49" role="note" class="note bottomnote"><a class="noteback" href="3#note49_">49. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 68.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb92">p. 92</a>
                         </div>
-                        <aside id="note50" class="note bottomnote"><a class="noteback" href="3#note50_">50. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 72. Le parallèle entre la Suisse de Rossi et l’Europe actuelle n’a pas besoin d’être souligné : il s’impose avec une impressionnante rigueur, dès la phrase : « Ce mot domine nos diversités… »</aside>
+                        <aside id="note50" role="note" class="note bottomnote"><a class="noteback" href="3#note50_">50. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 72. Le parallèle entre la Suisse de Rossi et l’Europe actuelle n’a pas besoin d’être souligné : il s’impose avec une impressionnante rigueur, dès la phrase : « Ce mot domine nos diversités… »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb93">p. 93</a>
                         </div>
-                        <aside id="note51" class="note bottomnote"><a class="noteback" href="3#note51_">51. </a><i class="i">Sonderbund</i> : alliance séparée. C’est ainsi que l’on nomma l’alliance d’abord secrète des cantons catholiques, — analogue à celle des États sudistes qui provoqua la guerre de Sécession.</aside>
+                        <aside id="note51" role="note" class="note bottomnote"><a class="noteback" href="3#note51_">51. </a><i class="i">Sonderbund</i> : alliance séparée. C’est ainsi que l’on nomma l’alliance d’abord secrète des cantons catholiques, — analogue à celle des États sudistes qui provoqua la guerre de Sécession.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb95">p. 95</a>
                         </div>
-                        <aside id="note52" class="note bottomnote"><a class="noteback" href="3#note52_">52. </a>Au Parlement genevois, le grand naturaliste A.-<span class="sc">P. de Candolle</span> déclare en 1832 : « Que veulent les partisans du nouveau pacte ? Ils veulent ce que nous ne pouvons pas vouloir, une république fédérative au lieu d’une réunion d’États souverains… Avec une position géographique, des mœurs, des antécédents, une langue qui nous distinguent des confédérés, nous ne pouvons vouloir un ordre de choses qui nous engagerait au sacrifice plus ou moins étendu de notre nationalité. » La nationalité est donc cantonale, non pas suisse, pour un réaliste de ce temps. Un autre député genevois, Lafontaine, s’oppose à toute union suisse car « chaque canton est trop attaché à sa souveraineté et la regarde comme un bien trop précieux pour vouloir d’un régime qui y porte une atteinte grave ». (Cité par Edmond <span class="sc">Privat</span>, <i class="i">Trois Expériences fédéralistes</i>, Neuchâtel, 1942).</aside>
+                        <aside id="note52" role="note" class="note bottomnote"><a class="noteback" href="3#note52_">52. </a>Au Parlement genevois, le grand naturaliste A.-<span class="sc">P. de Candolle</span> déclare en 1832 : « Que veulent les partisans du nouveau pacte ? Ils veulent ce que nous ne pouvons pas vouloir, une république fédérative au lieu d’une réunion d’États souverains… Avec une position géographique, des mœurs, des antécédents, une langue qui nous distinguent des confédérés, nous ne pouvons vouloir un ordre de choses qui nous engagerait au sacrifice plus ou moins étendu de notre nationalité. » La nationalité est donc cantonale, non pas suisse, pour un réaliste de ce temps. Un autre député genevois, Lafontaine, s’oppose à toute union suisse car « chaque canton est trop attaché à sa souveraineté et la regarde comme un bien trop précieux pour vouloir d’un régime qui y porte une atteinte grave ». (Cité par Edmond <span class="sc">Privat</span>, <i class="i">Trois Expériences fédéralistes</i>, Neuchâtel, 1942).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb96">p. 96</a>
                         </div>
-                        <aside id="note53" class="note bottomnote"><a class="noteback" href="3#note53_">53. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 206.</aside>
-                        <aside id="note54" class="note bottomnote"><a class="noteback" href="3#note54_">54. </a>« Le terme de confédération, que l’on maintint, fut une concession faite par la logique à la tradition », observe <span class="sc">W. Rappard.</span> Concession qui, hélas ! aggrave de nos jours la confusion qui règne dans beaucoup d’esprits quant au vocabulaire politique de l’Europe.</aside>
+                        <aside id="note53" role="note" class="note bottomnote"><a class="noteback" href="3#note53_">53. </a><span class="sc">W. Rappard</span>, <i class="i">op. cit</i>., p. 206.</aside>
+                        <aside id="note54" role="note" class="note bottomnote"><a class="noteback" href="3#note54_">54. </a>« Le terme de confédération, que l’on maintint, fut une concession faite par la logique à la tradition », observe <span class="sc">W. Rappard.</span> Concession qui, hélas ! aggrave de nos jours la confusion qui règne dans beaucoup d’esprits quant au vocabulaire politique de l’Europe.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb97">p. 97</a>
                         </div>
-                        <aside id="note55" class="note bottomnote"><a class="noteback" href="3#note55_">55. </a>Ce n’est pas le cas dans la constitution des États-Unis d’Amérique, moins respectueuse des États.</aside>
+                        <aside id="note55" role="note" class="note bottomnote"><a class="noteback" href="3#note55_">55. </a>Ce n’est pas le cas dans la constitution des États-Unis d’Amérique, moins respectueuse des États.</aside>
                       </div>
                     </section>
                   </article>
@@ -1023,52 +1120,52 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
                     <li class="here">
-                      <a href="#">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                      <a href="#">Le paysage historique,  ou comment se forme une fédération</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">Puissance du mythe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">« L’histoire suisse commence avec Guillaume Tell »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">« La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">« Le pacte de 1291 a fondé la Suisse »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">Ce « petit peuple pacifique… »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6">« Ce petit peuple égalitaire… »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-7">« Un pays traditionnellement neutre »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8">« Il a fallu plus de six siècles pour fédérer les cantons suisses »</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1078,13 +1175,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1965shph/4" name="Deuxième partie – L’union, sauvegarde de la diversité – ou comment fonctionne une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1965shph/4" name="II. L’union, sauvegarde de la diversité ou comment fonctionne une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Deuxième partie – L’union, sauvegarde de la diversité – ou comment fonctionne une fédération</value>
+          <value>II. L’union, sauvegarde de la diversité ou comment fonctionne une fédération (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. L’union, sauvegarde de la diversité ou comment fonctionne une fédération"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1093,9 +1219,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb105" id="pb105">[p. 105]</a>
-                    <h1 class="head chapter">Deuxième partie <br class="lb"/>L’union, sauvegarde de la diversité <br class="lb"/>ou comment fonctionne une fédération<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">Deuxième partie</h1>
+                    <h1 class="head chapter">L’union, sauvegarde de la diversité ou comment fonctionne une fédération<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2 level2">
                       <a class="pb" href="#pb107" id="pb107">[p. 107]</a>
                       <h2 class="head">1. Les institutions et la vie politique<a class="bookmark" href="4#body-4-1"> §</a></h2>
@@ -1591,120 +1718,120 @@
                         <div class="b note-page">
                           <a href="4#pb110">p. 110</a>
                         </div>
-                        <aside id="note56" class="note bottomnote"><a class="noteback" href="4#note56_">56. </a><span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 101.</aside>
-                        <aside id="note57" class="note bottomnote"><a class="noteback" href="4#note57_">57. </a>L’œuvre <span class="num">d</span>’<span class="sc">Althusius</span>, juriste rhénan qui vécut de 1557 à 1638, a été redécouverte par Otto <span class="sc">Gierke</span> vers la fin du <span class="num">xix<sup class="sup">e</sup></span> siècle, et rééditée par le prof. Carl <span class="sc">J. Friedrich</span>, en 1931, dans la collection des « Harvard Political classics ».</aside>
+                        <aside id="note56" role="note" class="note bottomnote"><a class="noteback" href="4#note56_">56. </a><span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 101.</aside>
+                        <aside id="note57" role="note" class="note bottomnote"><a class="noteback" href="4#note57_">57. </a>L’œuvre <span class="num">d</span>’<span class="sc">Althusius</span>, juriste rhénan qui vécut de 1557 à 1638, a été redécouverte par Otto <span class="sc">Gierke</span> vers la fin du <span class="num">xix<sup class="sup">e</sup></span> siècle, et rééditée par le prof. Carl <span class="sc">J. Friedrich</span>, en 1931, dans la collection des « Harvard Political classics ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb111">p. 111</a>
                         </div>
-                        <aside id="note58" class="note bottomnote"><a class="noteback" href="4#note58_">58. </a>Adolf <span class="sc">Gasser</span>, <i class="i">Démocratie et Fédéralisme. Confédération, Canton, Commune</i>, dans <i class="i">La Démocratie suisse</i>, 1948, p. 135. Cf. du même auteur : <i class="i">L’Autonomie communale et la Reconstruction de l’Europe</i>, trad. française, 1946.</aside>
-                        <aside id="note59" class="note bottomnote"><a class="noteback" href="4#note59_">59. </a>Fritz <span class="sc">Fleiner</span>, <i class="de i" lang="de">Beamtenstaat und Volkstaat</i>, 1916.</aside>
+                        <aside id="note58" role="note" class="note bottomnote"><a class="noteback" href="4#note58_">58. </a>Adolf <span class="sc">Gasser</span>, <i class="i">Démocratie et Fédéralisme. Confédération, Canton, Commune</i>, dans <i class="i">La Démocratie suisse</i>, 1948, p. 135. Cf. du même auteur : <i class="i">L’Autonomie communale et la Reconstruction de l’Europe</i>, trad. française, 1946.</aside>
+                        <aside id="note59" role="note" class="note bottomnote"><a class="noteback" href="4#note59_">59. </a>Fritz <span class="sc">Fleiner</span>, <i class="de i" lang="de">Beamtenstaat und Volkstaat</i>, 1916.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb117">p. 117</a>
                         </div>
-                        <aside id="note60" class="note bottomnote"><a class="noteback" href="4#note60_">60. </a>Population totale de ces cinq cantons et demi-cantons : 150 000 habitants — sur 5 860 000 habitants pour toute la Suisse en 1963. Le régime de la pure démocratie directe n’est donc plus en vigueur que pour 2,5 % des Suisses.</aside>
-                        <aside id="note61" class="note bottomnote"><a class="noteback" href="4#note61_">61. </a><span class="sc">A. Siegfried</span>, <i class="i">La Suisse, démocratie témoin</i>.</aside>
+                        <aside id="note60" role="note" class="note bottomnote"><a class="noteback" href="4#note60_">60. </a>Population totale de ces cinq cantons et demi-cantons : 150 000 habitants — sur 5 860 000 habitants pour toute la Suisse en 1963. Le régime de la pure démocratie directe n’est donc plus en vigueur que pour 2,5 % des Suisses.</aside>
+                        <aside id="note61" role="note" class="note bottomnote"><a class="noteback" href="4#note61_">61. </a><span class="sc">A. Siegfried</span>, <i class="i">La Suisse, démocratie témoin</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb120">p. 120</a>
                         </div>
-                        <aside id="note62" class="note bottomnote"><a class="noteback" href="4#note62_">62. </a>William <span class="sc">Rappard, «</span> De la centralisation en Suisse », dans la <i class="i">Revue française de Science politique</i>, vol. I, 1951.</aside>
-                        <aside id="note63" class="note bottomnote"><a class="noteback" href="4#note63_">63. </a>Carl <span class="sc">Doka</span>, <i class="i">Schweizer Rundschau</i>, décembre 1969.</aside>
+                        <aside id="note62" role="note" class="note bottomnote"><a class="noteback" href="4#note62_">62. </a>William <span class="sc">Rappard, «</span> De la centralisation en Suisse », dans la <i class="i">Revue française de Science politique</i>, vol. I, 1951.</aside>
+                        <aside id="note63" role="note" class="note bottomnote"><a class="noteback" href="4#note63_">63. </a>Carl <span class="sc">Doka</span>, <i class="i">Schweizer Rundschau</i>, décembre 1969.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb125">p. 125</a>
                         </div>
-                        <aside id="note64" class="note bottomnote"><a class="noteback" href="4#note64_">64. </a>Ce qui donne 44 députés, puisqu’il y a 22 cantons, dont trois sont divisés en demi-cantons n’élisant chacun qu’un seul représentant.</aside>
+                        <aside id="note64" role="note" class="note bottomnote"><a class="noteback" href="4#note64_">64. </a>Ce qui donne 44 députés, puisqu’il y a 22 cantons, dont trois sont divisés en demi-cantons n’élisant chacun qu’un seul représentant.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb126">p. 126</a>
                         </div>
-                        <aside id="note65" class="note bottomnote"><a class="noteback" href="4#note65_">65. </a>Cf. <span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 142, et art. 91 de la Constitution actuelle. (Art. 79 de la Constitution de 1848 : « Les membres des deux conseils votent sans instructions. »)</aside>
+                        <aside id="note65" role="note" class="note bottomnote"><a class="noteback" href="4#note65_">65. </a>Cf. <span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 142, et art. 91 de la Constitution actuelle. (Art. 79 de la Constitution de 1848 : « Les membres des deux conseils votent sans instructions. »)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb130">p. 130</a>
                         </div>
-                        <aside id="note66" class="note bottomnote"><a class="noteback" href="4#note66_">66. </a>Plinio <span class="sc">Bolla</span>, <i class="i">Le Tribunal fédéral</i>, dans <i class="i">La Démocratie suisse 1848-1948</i>, p. 61.</aside>
+                        <aside id="note66" role="note" class="note bottomnote"><a class="noteback" href="4#note66_">66. </a>Plinio <span class="sc">Bolla</span>, <i class="i">Le Tribunal fédéral</i>, dans <i class="i">La Démocratie suisse 1848-1948</i>, p. 61.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb137">p. 137</a>
                         </div>
-                        <aside id="note67" class="note bottomnote"><a class="noteback" href="4#note67_">67. </a>La <i class="i">Neue Ziircher Zeitung</i> du 22 octobre 1963, rendant compte d’un débat télévisé auquel participaient les porte-parole de sept partis, à la veille des élections au Parlement, récapitule ainsi les thèmes qui furent discutés : « Promotions des nouvelles générations et renouvellement des cadres, législation du travail, réduction des heures de travail, main-d’œuvre étrangère, politique de protection du sol, loyer hypothécaire, transports (CFF, routes, navigation sur le Rhin), Conseil de l’Europe, intégration européenne, politique fiscale et prolongation du régime financier de la Confédération. Les réponses des sept parlementaires reflétèrent l’attitude prise par leur fraction [<i class="i">nom donné aux groupes politiques</i>] à l’Assemblée fédérale. Pour l’essentiel, ces messieurs purent se convaincre de <i class="i">la convergence et de l’accord mutuel</i> de leurs vues ! Seul un sens extrêmement affiné des nuances eût distingué des différences entre les partis. »</aside>
-                        <aside id="note68" class="note bottomnote"><a class="noteback" href="4#note68_">68. </a>Quelques tentatives novatrices, dans ce sens, peuvent être signalées en Suisse romande. Les manuels d’histoire des cantons de Fribourg, du Valais et de Genève viennent d’introduire des chapitres finaux sur le thème « La Suisse et l’Europe ».</aside>
+                        <aside id="note67" role="note" class="note bottomnote"><a class="noteback" href="4#note67_">67. </a>La <i class="i">Neue Ziircher Zeitung</i> du 22 octobre 1963, rendant compte d’un débat télévisé auquel participaient les porte-parole de sept partis, à la veille des élections au Parlement, récapitule ainsi les thèmes qui furent discutés : « Promotions des nouvelles générations et renouvellement des cadres, législation du travail, réduction des heures de travail, main-d’œuvre étrangère, politique de protection du sol, loyer hypothécaire, transports (CFF, routes, navigation sur le Rhin), Conseil de l’Europe, intégration européenne, politique fiscale et prolongation du régime financier de la Confédération. Les réponses des sept parlementaires reflétèrent l’attitude prise par leur fraction [<i class="i">nom donné aux groupes politiques</i>] à l’Assemblée fédérale. Pour l’essentiel, ces messieurs purent se convaincre de <i class="i">la convergence et de l’accord mutuel</i> de leurs vues ! Seul un sens extrêmement affiné des nuances eût distingué des différences entre les partis. »</aside>
+                        <aside id="note68" role="note" class="note bottomnote"><a class="noteback" href="4#note68_">68. </a>Quelques tentatives novatrices, dans ce sens, peuvent être signalées en Suisse romande. Les manuels d’histoire des cantons de Fribourg, du Valais et de Genève viennent d’introduire des chapitres finaux sur le thème « La Suisse et l’Europe ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb139">p. 139</a>
                         </div>
-                        <aside id="note69" class="note bottomnote"><a class="noteback" href="4#note69_">69. </a><i class="i">Une Semaine dans le Monde</i>, n° 119, 1948.</aside>
+                        <aside id="note69" role="note" class="note bottomnote"><a class="noteback" href="4#note69_">69. </a><i class="i">Une Semaine dans le Monde</i>, n° 119, 1948.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb146">p. 146</a>
                         </div>
-                        <aside id="note70" class="note bottomnote"><a class="noteback" href="4#note70_">70. </a>À part le bref épisode, violent mais sans lendemain, de la grève générale fomentée par l’extrême gauche en novembre 1918.</aside>
+                        <aside id="note70" role="note" class="note bottomnote"><a class="noteback" href="4#note70_">70. </a>À part le bref épisode, violent mais sans lendemain, de la grève générale fomentée par l’extrême gauche en novembre 1918.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb150">p. 150</a>
                         </div>
-                        <aside id="note71" class="note bottomnote"><a class="noteback" href="4#note71_">71. </a><span class="sc">A. Siegfried</span>, <i class="i">op. cit</i>., p. 79, 82, 92.</aside>
+                        <aside id="note71" role="note" class="note bottomnote"><a class="noteback" href="4#note71_">71. </a><span class="sc">A. Siegfried</span>, <i class="i">op. cit</i>., p. 79, 82, 92.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb151">p. 151</a>
                         </div>
-                        <aside id="note72" class="note bottomnote"><a class="noteback" href="4#note72_">72. </a><i class="i">L’Annuaire statistique de la Suisse</i> ajoute en note, après le chiffre concernant ces derniers appareils : « y compris les chaudrons pour la nourriture des porcs ».</aside>
+                        <aside id="note72" role="note" class="note bottomnote"><a class="noteback" href="4#note72_">72. </a><i class="i">L’Annuaire statistique de la Suisse</i> ajoute en note, après le chiffre concernant ces derniers appareils : « y compris les chaudrons pour la nourriture des porcs ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb152">p. 152</a>
                         </div>
-                        <aside id="note73" class="note bottomnote"><a class="noteback" href="4#note73_">73. </a>Cette accélération s’est produite en dépit de l’opposition de plusieurs communes montagnardes, qui refusaient — à la suite de votes populaires — de vendre leurs pâturages et sites pittoresques pour qu’on y construise des barrages. Ces communes se sont toutes laissé convaincre, finalement, par des arguments juridiques ou financiers. On peut le déplorer d’autant plus que ces barrages, beaux en soi, mais qui défigurent à jamais des paysages beaucoup plus beaux, se révèlent déjà insuffisants pour assurer l’indépendance énergétique du pays.</aside>
+                        <aside id="note73" role="note" class="note bottomnote"><a class="noteback" href="4#note73_">73. </a>Cette accélération s’est produite en dépit de l’opposition de plusieurs communes montagnardes, qui refusaient — à la suite de votes populaires — de vendre leurs pâturages et sites pittoresques pour qu’on y construise des barrages. Ces communes se sont toutes laissé convaincre, finalement, par des arguments juridiques ou financiers. On peut le déplorer d’autant plus que ces barrages, beaux en soi, mais qui défigurent à jamais des paysages beaucoup plus beaux, se révèlent déjà insuffisants pour assurer l’indépendance énergétique du pays.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb158">p. 158</a>
                         </div>
-                        <aside id="note74" class="note bottomnote"><a class="noteback" href="4#note74_">74. </a>En 1960, sur un effectif d’ouvriers et d’employés d’environ 1 600 000, on comptait au total plus de 800 000 syndiqués, ainsi répartis : Union syndicale suisse : 437 000 ; syndicats chrétiens (cathol.) 79 000 ; syndicats évangéliques (prot.) : 15 000 ; syndicats autonomes : 18 000 ; fédérations d’employés : 132 000 ; Union fédérative du personnel des administrations et entreprises publiques : 143 000 (dont 130 000 également affiliés à l’USS). J’emprunte ces données au très utile ouvrage de Jean Meynaud, <i class="i">Les Organisations professionnelles en Suisse</i>, 1963, et à <i class="i">L’Annuaire statistique de la Suisse</i>, 1963.</aside>
+                        <aside id="note74" role="note" class="note bottomnote"><a class="noteback" href="4#note74_">74. </a>En 1960, sur un effectif d’ouvriers et d’employés d’environ 1 600 000, on comptait au total plus de 800 000 syndiqués, ainsi répartis : Union syndicale suisse : 437 000 ; syndicats chrétiens (cathol.) 79 000 ; syndicats évangéliques (prot.) : 15 000 ; syndicats autonomes : 18 000 ; fédérations d’employés : 132 000 ; Union fédérative du personnel des administrations et entreprises publiques : 143 000 (dont 130 000 également affiliés à l’USS). J’emprunte ces données au très utile ouvrage de Jean Meynaud, <i class="i">Les Organisations professionnelles en Suisse</i>, 1963, et à <i class="i">L’Annuaire statistique de la Suisse</i>, 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb159">p. 159</a>
                         </div>
-                        <aside id="note75" class="note bottomnote"><a class="noteback" href="4#note75_">75. </a>Les trois organisations « de faîte » (nationales) du patronat sont : l’<i class="i">Union suisse du Commerce et de l’Industrie</i> (ou <i class="i">Vorort</i>), qui groupe 17 chambres de commerce et 105 associations professionnelles ; l’<i class="i">Union centrale des associations patronales</i>, 30 associations professionnelles et 22 régionales ; et l’<i class="i">Union suisse des Arts et Métiers</i> (petit patronat), 24 unions cantonales et 168 associations professionnelles. Pour compliquer encore le tableau, beaucoup de sociétés ou entreprises se rattachent simultanément à deux ou trois de ces organismes centraux. Le rôle du <i class="i">Vorort</i> doit être souligné. Au sujet de « l’attribution au <i class="i">Vorort</i> par de nombreux milieux suisses et étrangers d’une puissance illimitée, et pour tout dire, irrésistible », le prof. <span class="sc">J. Meynaud</span> (<i class="i">op. cit</i>., p. 179) écrit : « Correspond à cette tendance la boutade bien connue que le délégué du <i class="i">Vorort</i> serait le huitième Conseiller fédéral. On ne manquera pas de faire valoir à ce propos — détail qui frappe toujours les lecteurs de reportages — que ce délégué dispose à Berne d’un bureau dans le Palais fédéral même… Nous avons depuis longtemps la certitude que l’un des éléments de la force des groupes est la crainte qu’ils inspirent aux tiers, spécialement aux parlementaires. Une réputation de force est déjà un atout notable dans les négociations. »</aside>
+                        <aside id="note75" role="note" class="note bottomnote"><a class="noteback" href="4#note75_">75. </a>Les trois organisations « de faîte » (nationales) du patronat sont : l’<i class="i">Union suisse du Commerce et de l’Industrie</i> (ou <i class="i">Vorort</i>), qui groupe 17 chambres de commerce et 105 associations professionnelles ; l’<i class="i">Union centrale des associations patronales</i>, 30 associations professionnelles et 22 régionales ; et l’<i class="i">Union suisse des Arts et Métiers</i> (petit patronat), 24 unions cantonales et 168 associations professionnelles. Pour compliquer encore le tableau, beaucoup de sociétés ou entreprises se rattachent simultanément à deux ou trois de ces organismes centraux. Le rôle du <i class="i">Vorort</i> doit être souligné. Au sujet de « l’attribution au <i class="i">Vorort</i> par de nombreux milieux suisses et étrangers d’une puissance illimitée, et pour tout dire, irrésistible », le prof. <span class="sc">J. Meynaud</span> (<i class="i">op. cit</i>., p. 179) écrit : « Correspond à cette tendance la boutade bien connue que le délégué du <i class="i">Vorort</i> serait le huitième Conseiller fédéral. On ne manquera pas de faire valoir à ce propos — détail qui frappe toujours les lecteurs de reportages — que ce délégué dispose à Berne d’un bureau dans le Palais fédéral même… Nous avons depuis longtemps la certitude que l’un des éléments de la force des groupes est la crainte qu’ils inspirent aux tiers, spécialement aux parlementaires. Une réputation de force est déjà un atout notable dans les négociations. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb160">p. 160</a>
                         </div>
-                        <aside id="note76" class="note bottomnote"><a class="noteback" href="4#note76_">76. </a><i class="i">L’Union suisse des Paysans</i> compte 66 sections et 600 000 affiliés. <i class="i">L’Union des Arts et Métiers</i> a été citée un peu plus haut. Les <i class="i">Coopératives</i> de consommation : Union suisse des Coopératives et Fédération des Coopérateurs Migros sont organisées sur un plan national, parfois régional, non cantonal. La première est liée aux milieux syndicalistes, la seconde au parti des Indépendants.</aside>
+                        <aside id="note76" role="note" class="note bottomnote"><a class="noteback" href="4#note76_">76. </a><i class="i">L’Union suisse des Paysans</i> compte 66 sections et 600 000 affiliés. <i class="i">L’Union des Arts et Métiers</i> a été citée un peu plus haut. Les <i class="i">Coopératives</i> de consommation : Union suisse des Coopératives et Fédération des Coopérateurs Migros sont organisées sur un plan national, parfois régional, non cantonal. La première est liée aux milieux syndicalistes, la seconde au parti des Indépendants.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb163">p. 163</a>
                         </div>
-                        <aside id="note77" class="note bottomnote"><a class="noteback" href="4#note77_">77. </a>À la fin de 1961, l’Office fédéral du Travail pouvait publier la liste des 1538 conventions collectives encore en vigueur, passées entre le patronat et le salariat au plan local, cantonal et fédéral.</aside>
+                        <aside id="note77" role="note" class="note bottomnote"><a class="noteback" href="4#note77_">77. </a>À la fin de 1961, l’Office fédéral du Travail pouvait publier la liste des 1538 conventions collectives encore en vigueur, passées entre le patronat et le salariat au plan local, cantonal et fédéral.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb166">p. 166</a>
                         </div>
-                        <aside id="note78" class="note bottomnote"><a class="noteback" href="4#note78_">78. </a>Marcel <span class="sc">Bridel</span>, <i class="i">Précis de droit constitutionnel et public suisse</i>, 1959, cité par J. Meynaud, sur lequel je me guiderai librement dans les pages qui suivent (<i class="i">op. cit</i>., p. 276-599).</aside>
+                        <aside id="note78" role="note" class="note bottomnote"><a class="noteback" href="4#note78_">78. </a>Marcel <span class="sc">Bridel</span>, <i class="i">Précis de droit constitutionnel et public suisse</i>, 1959, cité par J. Meynaud, sur lequel je me guiderai librement dans les pages qui suivent (<i class="i">op. cit</i>., p. 276-599).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb167">p. 167</a>
                         </div>
-                        <aside id="note79" class="note bottomnote"><a class="noteback" href="4#note79_">79. </a>Erich <span class="sc">Gruner</span>, « En marge des élections fédérales », article paru dans <i class="i">La Suisse</i> du 23 octobre 1963.</aside>
+                        <aside id="note79" role="note" class="note bottomnote"><a class="noteback" href="4#note79_">79. </a>Erich <span class="sc">Gruner</span>, « En marge des élections fédérales », article paru dans <i class="i">La Suisse</i> du 23 octobre 1963.</aside>
                       </div>
                     </section>
                   </article>
@@ -1721,54 +1848,54 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
                     <li class="here">
-                      <a href="#">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                      <a href="#">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">1. Les institutions et la vie politique</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-1">La Commune : un petit État</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-2">Les Cantons et leur « souveraineté »</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-3">Les Autorités fédérales</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-4">Les partis et les droits du peuple</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-5">Le civisme suisse ou la Maison des hommes</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">2. Les paradoxes de la vie économique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">3. Interaction de l’économique et du politique</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1778,13 +1905,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1965shph/5" name="Troisième partie – La morale quotidienne et le climat de culture – ou comment on vit dans une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1965shph/5" name="III. La morale quotidienne et le climat de culture ou comment on vit dans une fédération" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Troisième partie – La morale quotidienne et le climat de culture – ou comment on vit dans une fédération</value>
+          <value>III. La morale quotidienne et le climat de culture ou comment on vit dans une fédération (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III. La morale quotidienne et le climat de culture ou comment on vit dans une fédération"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1793,9 +1949,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb173" id="pb173">[p. 173]</a>
-                    <h1 class="head chapter">Troisième partie <br class="lb"/>La morale quotidienne et le climat de culture <br class="lb"/>ou comment on vit dans une fédération<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">Troisième partie</h1>
+                    <h1 class="head chapter">La morale quotidienne et le climat de culture ou comment on vit dans une fédération<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  Cette beauté bien drue d’énergie pure et neuve, aux matins luisants de rosée, quand le pays entier émerge de la brume, repeint durant la nuit comme un banc vert auprès du lac précieux où trempent des parois à peine moins translucides que le ciel, ce temps de création du monde juste avant l’homme et ses malheurs, c’est ma Suisse, telle que je la vois de très loin dans mon souvenir.</p>
@@ -1991,7 +2148,10 @@
 <a class="pb" href="#pb207" id="pb207">[p. 207]</a>
  que nous fîmes à l’amour ? Urs Graf, Holbein, Grünewald et tant d’autres, connus ou anonymes, dira-t-on que ce fut leur romantisme ? Mais non, le romantisme est littéraire, et ces hommes ont le regard net, accoutumé à taxer le réel avec une dure exactitude : face au danger. Leur Suisse est au sommet de son élan vers la conquête et la richesse, au comble de sa gloire et de son risque. Elle n’a jamais été moins neutre, moins confinée dans ses moyennes, ni moins en garde contre les tentations de la grandeur. Elle est sérieuse parce qu’elle est menacée et menaçante ; parce qu’elle est tout le contraire d’un pays « d’assurés ». Sérieuse et impétueuse comme ceux qui savent que la vie n’est pas le but de la vie, qu’elle ne mérite pas de majuscule, et qu’elle est quelque chose qui doit brûler, flamber, et non pas rapporter du trois pour cent. Sérieuse comme ce qui compte avec la mort, comme ce qui compte avec l’esprit, — avec la profondeur et la hauteur sans quoi toute vie demeure plate et basse.</p>
                       <blockquote class="quote">
-                        <div class="l center">Quanto bella giovinezza <br class="lb"/>Che si fugge tuttavia ! <br class="lb"/>Chi vuol esser lieto, sia ! <br class="lb"/>Di doman non c’è certezza.</div>
+                        <div class="l center">Quanto bella giovinezza
+              <br class="lb"/>Che si fugge tuttavia !
+              <br class="lb"/>Chi vuol esser lieto, sia !
+              <br class="lb"/>Di doman non c’è certezza.</div>
                       </blockquote>
                       <p class="p autofirst">Ainsi chantait Laurent le Magnifique. Manuel et ses contemporains savent et disent à leur manière que « de demain rien n’est certain ». Mais ce qu’ils sentent menacé, ce n’est point la jeunesse et l’amour, je ne sais quel printemps platonicien, c’est la vie savoureuse et forte qui figure à leurs yeux le train normal de l’homme. Leur œuvre illustre la vision de l’Ecclésiaste, ce grand maître du vrai réalisme : « Jette ton pain sur la face des eaux, car avec le temps tu le retrouveras : donnes-en une part à sept, et même à huit, car tu ne sais pas quel malheur peut arriver sur la terre. » Le secret de la vie généreuse est la conscience de sa brève vanité.</p>
                       <p class="p">Dix-huit siècles de chrétienté ont prêché sur le thème du <i class="i">memento mori</i>, mais nous préférons aujourd’hui l’éloge de la 
@@ -2483,231 +2643,231 @@
                         <div class="b note-page">
                           <a href="5#pb183">p. 183</a>
                         </div>
-                        <aside id="note80" class="note bottomnote"><a class="noteback" href="5#note80_">80. </a><i class="i">Cf</i>. l’enquête <i class="i">Un jour en Suisse</i>, 1964.</aside>
-                        <aside id="note81" class="note bottomnote"><a class="noteback" href="5#note81_">81. </a>300 000 Suisses vivent à l’étranger, soit 5 % de la population. Cette proportion est décroissante : 10 % avant 1914, 7,5 % en 1945.</aside>
+                        <aside id="note80" role="note" class="note bottomnote"><a class="noteback" href="5#note80_">80. </a><i class="i">Cf</i>. l’enquête <i class="i">Un jour en Suisse</i>, 1964.</aside>
+                        <aside id="note81" role="note" class="note bottomnote"><a class="noteback" href="5#note81_">81. </a>300 000 Suisses vivent à l’étranger, soit 5 % de la population. Cette proportion est décroissante : 10 % avant 1914, 7,5 % en 1945.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb185">p. 185</a>
                         </div>
-                        <aside id="note82" class="note bottomnote"><a class="noteback" href="5#note82_">82. </a>Je pense à des ouvrages tels que <i class="i">The Lonely Crowd</i>, de David <span class="sc">Riesman</span>.</aside>
+                        <aside id="note82" role="note" class="note bottomnote"><a class="noteback" href="5#note82_">82. </a>Je pense à des ouvrages tels que <i class="i">The Lonely Crowd</i>, de David <span class="sc">Riesman</span>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb187">p. 187</a>
                         </div>
-                        <aside id="note83" class="note bottomnote"><a class="noteback" href="5#note83_">83. </a>Déclaration d’un chef du Service juridique au Ministère public, recueillie par Franck <span class="sc">Jotterand</span> au cours d’une enquête sur la censure en Suisse.</aside>
-                        <aside id="note84" class="note bottomnote"><a class="noteback" href="5#note84_">84. </a>« Le canton — ou l’Europe », comme disait Lucien <span class="sc">Febvre. À</span> la sixième génération des ancêtres de mon père, dont pourtant les parents et trois des grands-parents étaient de Neuchâtel, je trouve 30 Neuchâtelois et 34 Européens surtout Français, mais pas un seul Suisse d’un autre canton.</aside>
-                        <aside id="note85" class="note bottomnote"><a class="noteback" href="5#note85_">85. </a>George <span class="sc">Mikes</span>, <i class="de i" lang="de">Switzerland for beginners</i>, 1962.</aside>
+                        <aside id="note83" role="note" class="note bottomnote"><a class="noteback" href="5#note83_">83. </a>Déclaration d’un chef du Service juridique au Ministère public, recueillie par Franck <span class="sc">Jotterand</span> au cours d’une enquête sur la censure en Suisse.</aside>
+                        <aside id="note84" role="note" class="note bottomnote"><a class="noteback" href="5#note84_">84. </a>« Le canton — ou l’Europe », comme disait Lucien <span class="sc">Febvre. À</span> la sixième génération des ancêtres de mon père, dont pourtant les parents et trois des grands-parents étaient de Neuchâtel, je trouve 30 Neuchâtelois et 34 Européens surtout Français, mais pas un seul Suisse d’un autre canton.</aside>
+                        <aside id="note85" role="note" class="note bottomnote"><a class="noteback" href="5#note85_">85. </a>George <span class="sc">Mikes</span>, <i class="de i" lang="de">Switzerland for beginners</i>, 1962.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb188">p. 188</a>
                         </div>
-                        <aside id="note86" class="note bottomnote"><a class="noteback" href="5#note86_">86. </a>Cf. <i class="de i" lang="de">Un jour en Suisse</i>.</aside>
+                        <aside id="note86" role="note" class="note bottomnote"><a class="noteback" href="5#note86_">86. </a>Cf. <i class="de i" lang="de">Un jour en Suisse</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb198">p. 198</a>
                         </div>
-                        <aside id="note87" class="note bottomnote"><a class="noteback" href="5#note87_">87. </a>Une seule exception : la Genève de Calvin, qui ordonnait toute la vie publique, l’enseignement, les croyances et les arts à une orthodoxie théologique. C’était au <span class="num">xvi<sup class="sup">e</sup></span> siècle et Genève n’était pas suisse. L’État n’intervient aujourd’hui que par l’octroi de subventions et par des arrêtés de censure cinématographique.</aside>
+                        <aside id="note87" role="note" class="note bottomnote"><a class="noteback" href="5#note87_">87. </a>Une seule exception : la Genève de Calvin, qui ordonnait toute la vie publique, l’enseignement, les croyances et les arts à une orthodoxie théologique. C’était au <span class="num">xvi<sup class="sup">e</sup></span> siècle et Genève n’était pas suisse. L’État n’intervient aujourd’hui que par l’octroi de subventions et par des arrêtés de censure cinématographique.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb206">p. 206</a>
                         </div>
-                        <aside id="note88" class="note bottomnote"><a class="noteback" href="5#note88_">88. </a>Vers du <i class="i">Biccocalied</i>. À la bataille de la Bicoque, les lansquenets s’étaient dissimulés dans des tranchées, pendant que leur artillerie décimait les Suisses à bout portant. Le poème de Manuel répond à une chanson glorifiant la victoire des Allemands.</aside>
+                        <aside id="note88" role="note" class="note bottomnote"><a class="noteback" href="5#note88_">88. </a>Vers du <i class="i">Biccocalied</i>. À la bataille de la Bicoque, les lansquenets s’étaient dissimulés dans des tranchées, pendant que leur artillerie décimait les Suisses à bout portant. Le poème de Manuel répond à une chanson glorifiant la victoire des Allemands.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb209">p. 209</a>
                         </div>
-                        <aside id="note89" class="note bottomnote"><a class="noteback" href="5#note89_">89. </a><i class="de i" lang="de">Amen. Versiglet mit dem Schwytzerdegen.</i> — <i class="de i" lang="de">End. Gott sye lob</i> ! La plupart des autres drames et satires de Manuel se terminent par la mention <i class="i">Schwytzerdegen</i>, qui demeure sa vraie signature.</aside>
+                        <aside id="note89" role="note" class="note bottomnote"><a class="noteback" href="5#note89_">89. </a><i class="de i" lang="de">Amen. Versiglet mit dem Schwytzerdegen.</i> — <i class="de i" lang="de">End. Gott sye lob</i> ! La plupart des autres drames et satires de Manuel se terminent par la mention <i class="i">Schwytzerdegen</i>, qui demeure sa vraie signature.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb212">p. 212</a>
                         </div>
-                        <aside id="note90" class="note bottomnote"><a class="noteback" href="5#note90_">90. </a>Né à Berne en 1853, mort à Genève en 1918.</aside>
+                        <aside id="note90" role="note" class="note bottomnote"><a class="noteback" href="5#note90_">90. </a>Né à Berne en 1853, mort à Genève en 1918.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb213">p. 213</a>
                         </div>
-                        <aside id="note91" class="note bottomnote"><a class="noteback" href="5#note91_">91. </a>Voir <i class="i">Paul Klee</i>, par Félix Klee, 1963.</aside>
+                        <aside id="note91" role="note" class="note bottomnote"><a class="noteback" href="5#note91_">91. </a>Voir <i class="i">Paul Klee</i>, par Félix Klee, 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb217">p. 217</a>
                         </div>
-                        <aside id="note92" class="note bottomnote"><a class="noteback" href="5#note92_">92. </a>II a tout de même bâti dans les années 30 le pavillon suisse de la cité universitaire de Paris, et c’était une commande de nos autorités, mais pas en Suisse.</aside>
+                        <aside id="note92" role="note" class="note bottomnote"><a class="noteback" href="5#note92_">92. </a>II a tout de même bâti dans les années 30 le pavillon suisse de la cité universitaire de Paris, et c’était une commande de nos autorités, mais pas en Suisse.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb223">p. 223</a>
                         </div>
-                        <aside id="note93" class="note bottomnote"><a class="noteback" href="5#note93_">93. </a>Ouvrage refusé partout en France, publié en allemand en 1899, et dont la première édition française n’a paru qu’en 1963.</aside>
+                        <aside id="note93" role="note" class="note bottomnote"><a class="noteback" href="5#note93_">93. </a>Ouvrage refusé partout en France, publié en allemand en 1899, et dont la première édition française n’a paru qu’en 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb224">p. 224</a>
                         </div>
-                        <aside id="note94" class="note bottomnote"><a class="noteback" href="5#note94_">94. </a>L’afflux de la main-d’œuvre transalpine explique l’accroissement de l’italien. Parmi les citoyens suisses, et durant la même période : l’allemand gagne 1,7 %, l’italien 2 % et le français perd 1,7 %.</aside>
+                        <aside id="note94" role="note" class="note bottomnote"><a class="noteback" href="5#note94_">94. </a>L’afflux de la main-d’œuvre transalpine explique l’accroissement de l’italien. Parmi les citoyens suisses, et durant la même période : l’allemand gagne 1,7 %, l’italien 2 % et le français perd 1,7 %.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb225">p. 225</a>
                         </div>
-                        <aside id="note95" class="note bottomnote"><a class="noteback" href="5#note95_">95. </a>Etienne Le Gal, (<i class="i">Écrivez ? n’écrivez pas</i> ? Paris, 1928), cite un arrêté ministériel du 26 février 1901 prescrivant l’usage des pronoms — arrêté destiné à l’usage des rédacteurs de la Chambre et des Ministères, j’imagine, mais considéré par l’auteur comme décisif pour tout ce qui parle français.</aside>
+                        <aside id="note95" role="note" class="note bottomnote"><a class="noteback" href="5#note95_">95. </a>Etienne Le Gal, (<i class="i">Écrivez ? n’écrivez pas</i> ? Paris, 1928), cite un arrêté ministériel du 26 février 1901 prescrivant l’usage des pronoms — arrêté destiné à l’usage des rédacteurs de la Chambre et des Ministères, j’imagine, mais considéré par l’auteur comme décisif pour tout ce qui parle français.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb227">p. 227</a>
                         </div>
-                        <aside id="note96" class="note bottomnote"><a class="noteback" href="5#note96_">96. </a>L’école n’est pas seule responsable, bien sûr, mais c’est elle qui devrait réagir contre le laisser-aller langagier, et aussi contre l’influence du germanisme propagée par les « arrêtés fédéraux », l’afflux de Suisses alémaniques en Suisse romande, et l’indescriptible charabia des circulaires émises par les offices et organismes nationaux dans lesquels coopèrent Alémaniques et Romands.</aside>
+                        <aside id="note96" role="note" class="note bottomnote"><a class="noteback" href="5#note96_">96. </a>L’école n’est pas seule responsable, bien sûr, mais c’est elle qui devrait réagir contre le laisser-aller langagier, et aussi contre l’influence du germanisme propagée par les « arrêtés fédéraux », l’afflux de Suisses alémaniques en Suisse romande, et l’indescriptible charabia des circulaires émises par les offices et organismes nationaux dans lesquels coopèrent Alémaniques et Romands.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb228">p. 228</a>
                         </div>
-                        <aside id="note97" class="note bottomnote"><a class="noteback" href="5#note97_">97. </a>C.-F. Ramuz, <i class="i">Une main</i>.</aside>
+                        <aside id="note97" role="note" class="note bottomnote"><a class="noteback" href="5#note97_">97. </a>C.-F. Ramuz, <i class="i">Une main</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb229">p. 229</a>
                         </div>
-                        <aside id="note98" class="note bottomnote"><a class="noteback" href="5#note98_">98. </a>C.-F. Ramuz, « Lettre », <i class="i">Esprit</i>, octobre 1937.</aside>
+                        <aside id="note98" role="note" class="note bottomnote"><a class="noteback" href="5#note98_">98. </a>C.-F. Ramuz, « Lettre », <i class="i">Esprit</i>, octobre 1937.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb231">p. 231</a>
                         </div>
-                        <aside id="note99" class="note bottomnote"><a class="noteback" href="5#note99_">99. </a>Après <i class="i">Guy de Pourtalès</i> et <i class="i">Pierre Girard</i>, leur ami <i class="i">Jacques Chenevière</i> est le représentant le plus parfait de cette école genevoise du sentiment. Sa langue déliée doit plus au Paris de sa jeunesse qu’à l’accent du terroir, et il en va de même pour le romancier vaudois <i class="i">Bernard Barbey</i>, alors que l’inverse est vrai pour le Valaisan <i class="i">Maurice Zermatten</i> et pour <i class="i">C.-F. Landry</i>, disciples de Ramuz et comme lui s’attachant à la vie des hommes proches de l’élémentaire. Avec <i class="i">Maurice Chappaz</i> on est en poésie, en invention verbale, en fable épique, et non plus en intrigue ou en psychologie.</aside>
+                        <aside id="note99" role="note" class="note bottomnote"><a class="noteback" href="5#note99_">99. </a>Après <i class="i">Guy de Pourtalès</i> et <i class="i">Pierre Girard</i>, leur ami <i class="i">Jacques Chenevière</i> est le représentant le plus parfait de cette école genevoise du sentiment. Sa langue déliée doit plus au Paris de sa jeunesse qu’à l’accent du terroir, et il en va de même pour le romancier vaudois <i class="i">Bernard Barbey</i>, alors que l’inverse est vrai pour le Valaisan <i class="i">Maurice Zermatten</i> et pour <i class="i">C.-F. Landry</i>, disciples de Ramuz et comme lui s’attachant à la vie des hommes proches de l’élémentaire. Avec <i class="i">Maurice Chappaz</i> on est en poésie, en invention verbale, en fable épique, et non plus en intrigue ou en psychologie.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb234">p. 234</a>
                         </div>
-                        <aside id="note100" class="note bottomnote"><a class="noteback" href="5#note100_">100. </a>Albert <span class="sc">Gyergyai</span>, dans l’ouvrage collectif <i class="de i" lang="de">Carl Spitteler in der Erinnerung seiner Freunde</i>, Zürich, 1947.</aside>
-                        <aside id="note101" class="note bottomnote"><a class="noteback" href="5#note101_">101. </a>Pierre-Louis <span class="sc">Matthey</span>, lyrique au verbe dense, de très haut ton, Gustave <span class="sc">Roud</span> et Philippe <span class="sc">Jaccottet</span>, romantiques assourdis qui transmuent l’expérience de l’âme en pur langage de nature : voilà sans doute nos meilleurs artisans du vers et de la prose soutenue. Ce sont aussi d’admirables adaptateurs-recréateurs du Shakespeare des Sonnets, de Keats, de Hölderlin ou de Robert Musil ; comme le fut avant eux des Troubadours et de Pétrarque Charles-Albert <span class="sc">Cingria</span>, dont la prose baroque, exultante et savante, vocalise du trivial au sublime avec une liberté sans égale dans nos lettres.</aside>
+                        <aside id="note100" role="note" class="note bottomnote"><a class="noteback" href="5#note100_">100. </a>Albert <span class="sc">Gyergyai</span>, dans l’ouvrage collectif <i class="de i" lang="de">Carl Spitteler in der Erinnerung seiner Freunde</i>, Zürich, 1947.</aside>
+                        <aside id="note101" role="note" class="note bottomnote"><a class="noteback" href="5#note101_">101. </a>Pierre-Louis <span class="sc">Matthey</span>, lyrique au verbe dense, de très haut ton, Gustave <span class="sc">Roud</span> et Philippe <span class="sc">Jaccottet</span>, romantiques assourdis qui transmuent l’expérience de l’âme en pur langage de nature : voilà sans doute nos meilleurs artisans du vers et de la prose soutenue. Ce sont aussi d’admirables adaptateurs-recréateurs du Shakespeare des Sonnets, de Keats, de Hölderlin ou de Robert Musil ; comme le fut avant eux des Troubadours et de Pétrarque Charles-Albert <span class="sc">Cingria</span>, dont la prose baroque, exultante et savante, vocalise du trivial au sublime avec une liberté sans égale dans nos lettres.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb235">p. 235</a>
                         </div>
-                        <aside id="note102" class="note bottomnote"><a class="noteback" href="5#note102_">102. </a>Tout cela raconté dans <i class="i">Vol à voile</i>, Lausanne, 1932, petit volume introuvable aujourd’hui, qui est une des réussites de la prose de Cendrars.</aside>
+                        <aside id="note102" role="note" class="note bottomnote"><a class="noteback" href="5#note102_">102. </a>Tout cela raconté dans <i class="i">Vol à voile</i>, Lausanne, 1932, petit volume introuvable aujourd’hui, qui est une des réussites de la prose de Cendrars.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb236">p. 236</a>
                         </div>
-                        <aside id="note103" class="note bottomnote"><a class="noteback" href="5#note103_">103. </a>Cf. E. Droz, <i class="i">Les Ancêtres suisses de Guillaume Apollinaire</i>, dans Revue de Suisse, n° 7, 1952.</aside>
-                        <aside id="note104" class="note bottomnote"><a class="noteback" href="5#note104_">104. </a>En 1913, Apollinaire et Cendrars travaillaient tous les deux à la Bibliothèque nationale de Paris, pour le compte d’un érudit genevois, Pierre-Paul Plan, auteur de travaux sur Rousseau notamment.</aside>
+                        <aside id="note103" role="note" class="note bottomnote"><a class="noteback" href="5#note103_">103. </a>Cf. E. Droz, <i class="i">Les Ancêtres suisses de Guillaume Apollinaire</i>, dans Revue de Suisse, n° 7, 1952.</aside>
+                        <aside id="note104" role="note" class="note bottomnote"><a class="noteback" href="5#note104_">104. </a>En 1913, Apollinaire et Cendrars travaillaient tous les deux à la Bibliothèque nationale de Paris, pour le compte d’un érudit genevois, Pierre-Paul Plan, auteur de travaux sur Rousseau notamment.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb238">p. 238</a>
                         </div>
-                        <aside id="note105" class="note bottomnote"><a class="noteback" href="5#note105_">105. </a>Sur Vinet et ses descendants directs, Charles Secrétan et H.-F. Amiel notamment, et sur le plus profond critique actuel de Vinet, Edmond <span class="sc">Gilliard</span>, je réfère au beau livre d’Alfred <span class="sc">Berchtold</span>, <i class="i">La Suisse romande au cap du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Payot, Lausanne, 1963.</aside>
+                        <aside id="note105" role="note" class="note bottomnote"><a class="noteback" href="5#note105_">105. </a>Sur Vinet et ses descendants directs, Charles Secrétan et H.-F. Amiel notamment, et sur le plus profond critique actuel de Vinet, Edmond <span class="sc">Gilliard</span>, je réfère au beau livre d’Alfred <span class="sc">Berchtold</span>, <i class="i">La Suisse romande au cap du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Payot, Lausanne, 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb241">p. 241</a>
                         </div>
-                        <aside id="note106" class="note bottomnote"><a class="noteback" href="5#note106_">106. </a><i class="i">Dogmatik der Kirche</i>, I, 1, 6, 3.</aside>
+                        <aside id="note106" role="note" class="note bottomnote"><a class="noteback" href="5#note106_">106. </a><i class="i">Dogmatik der Kirche</i>, I, 1, 6, 3.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb242">p. 242</a>
                         </div>
-                        <aside id="note107" class="note bottomnote"><a class="noteback" href="5#note107_">107. </a>Montesquieu s’en inspire dans ses <i class="i">Lettres persanes</i>, et Voltaire plus encore dans ses <i class="i">Lettres philosophiques</i>.</aside>
+                        <aside id="note107" role="note" class="note bottomnote"><a class="noteback" href="5#note107_">107. </a>Montesquieu s’en inspire dans ses <i class="i">Lettres persanes</i>, et Voltaire plus encore dans ses <i class="i">Lettres philosophiques</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb243">p. 243</a>
                         </div>
-                        <aside id="note108" class="note bottomnote"><a class="noteback" href="5#note108_">108. </a>Voir les <i class="i">Lettres à von Preen</i> de l’oncle, et la <i class="i">Correspondance avec Hofmannsthal</i> du neveu.</aside>
+                        <aside id="note108" role="note" class="note bottomnote"><a class="noteback" href="5#note108_">108. </a>Voir les <i class="i">Lettres à von Preen</i> de l’oncle, et la <i class="i">Correspondance avec Hofmannsthal</i> du neveu.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb245">p. 245</a>
                         </div>
-                        <aside id="note109" class="note bottomnote"><a class="noteback" href="5#note109_">109. </a>Interview de Claude <span class="sc">Lévi-Strauss</span> à l’occasion du cinquantenaire de la mort de F. de Saussure, <i class="i">Gazette littéraire</i> (Lausanne), du 16 février 1963. Lévi-Strauss dit aussi ce qu’il doit, en tant qu’ethnologue, à la « science des signes » saussurienne.</aside>
+                        <aside id="note109" role="note" class="note bottomnote"><a class="noteback" href="5#note109_">109. </a>Interview de Claude <span class="sc">Lévi-Strauss</span> à l’occasion du cinquantenaire de la mort de F. de Saussure, <i class="i">Gazette littéraire</i> (Lausanne), du 16 février 1963. Lévi-Strauss dit aussi ce qu’il doit, en tant qu’ethnologue, à la « science des signes » saussurienne.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb246">p. 246</a>
                         </div>
-                        <aside id="note110" class="note bottomnote"><a class="noteback" href="5#note110_">110. </a>Jean <span class="sc">Piaget</span>, né à Neuchâtel, fondateur du Bureau international de l’Éducation, est actuellement professeur à Genève et à la Sorbonne.</aside>
-                        <aside id="note111" class="note bottomnote"><a class="noteback" href="5#note111_">111. </a>Georges <span class="sc">Gusdorf</span>, <i class="i">Signification humaine de la liberté</i>, Paris, 1962, p. 27.</aside>
+                        <aside id="note110" role="note" class="note bottomnote"><a class="noteback" href="5#note110_">110. </a>Jean <span class="sc">Piaget</span>, né à Neuchâtel, fondateur du Bureau international de l’Éducation, est actuellement professeur à Genève et à la Sorbonne.</aside>
+                        <aside id="note111" role="note" class="note bottomnote"><a class="noteback" href="5#note111_">111. </a>Georges <span class="sc">Gusdorf</span>, <i class="i">Signification humaine de la liberté</i>, Paris, 1962, p. 27.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb247">p. 247</a>
                         </div>
-                        <aside id="note112" class="note bottomnote"><a class="noteback" href="5#note112_">112. </a>Aurélien Paracelse Théophraste Bombaste <span class="sc">de Hohenheim</span>, né en 1493 à Einsiedeln, d’une famille noble tombée dans la pauvreté. Son père devint médecin de ville à Villach (Carinthie), quand Paracelse avait neuf ans. Il revint plusieurs fois vivre en Suisse, surtout à Bâle où il avait été appelé pour soigner Érasme, auquel il sauva la vie. Il y fut nommé professeur à la faculté, contre l’avis des médecins officiels. Plus tard, il fait de longs séjours à Saint-Gall et en Appenzell. Il meurt à Salzbourg en 1541.</aside>
+                        <aside id="note112" role="note" class="note bottomnote"><a class="noteback" href="5#note112_">112. </a>Aurélien Paracelse Théophraste Bombaste <span class="sc">de Hohenheim</span>, né en 1493 à Einsiedeln, d’une famille noble tombée dans la pauvreté. Son père devint médecin de ville à Villach (Carinthie), quand Paracelse avait neuf ans. Il revint plusieurs fois vivre en Suisse, surtout à Bâle où il avait été appelé pour soigner Érasme, auquel il sauva la vie. Il y fut nommé professeur à la faculté, contre l’avis des médecins officiels. Plus tard, il fait de longs séjours à Saint-Gall et en Appenzell. Il meurt à Salzbourg en 1541.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb248">p. 248</a>
                         </div>
-                        <aside id="note113" class="note bottomnote"><a class="noteback" href="5#note113_">113. </a>On doit à Jacques <span class="sc">Bernoulli</span> (1654-1705) le développement du calcul différentiel et intégral, les propriétés des « nombres de Bernoulli », des recherches sur les comètes, et un <i class="i">Ars conjectand</i>i qui pose les bases du calcul des probabilités et l’applique à des questions de morale et de politique ; à son frère Jean, qui fut le maître d’Euler, l’invention du calcul exponentiel et des découvertes sur la nutrition, la fermentation et les fluides élastiques ; aux trois fils de Jean, Nicolas, Daniel et Jean, le développement des mathématiques en Russie, des travaux de botanique, d’anatomie, d’hydrodynamique, d’optique ; aux deux fils de Jean II, des ouvrages d’astronomie, de physique et de géographie ; à Jérôme enfin, qui fut président du Conseil d’État, d’importantes collections d’histoire naturelle.</aside>
+                        <aside id="note113" role="note" class="note bottomnote"><a class="noteback" href="5#note113_">113. </a>On doit à Jacques <span class="sc">Bernoulli</span> (1654-1705) le développement du calcul différentiel et intégral, les propriétés des « nombres de Bernoulli », des recherches sur les comètes, et un <i class="i">Ars conjectand</i>i qui pose les bases du calcul des probabilités et l’applique à des questions de morale et de politique ; à son frère Jean, qui fut le maître d’Euler, l’invention du calcul exponentiel et des découvertes sur la nutrition, la fermentation et les fluides élastiques ; aux trois fils de Jean, Nicolas, Daniel et Jean, le développement des mathématiques en Russie, des travaux de botanique, d’anatomie, d’hydrodynamique, d’optique ; aux deux fils de Jean II, des ouvrages d’astronomie, de physique et de géographie ; à Jérôme enfin, qui fut président du Conseil d’État, d’importantes collections d’histoire naturelle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb249">p. 249</a>
                         </div>
-                        <aside id="note114" class="note bottomnote"><a class="noteback" href="5#note114_">114. </a>Cf. Léo <span class="sc">Moulin</span>, <i class="i">La nationalité des Prix Nobel des sciences de 1901 à 1960</i>, dans <i class="i">Cahiers internationaux de sociologie</i>, Paris, 1961. L’auteur prépare un ouvrage sur ce sujet. Le physicien nucléaire Hans <span class="sc">von Halban</span>, examinant le même problème, aboutit à des pourcentages un peu différents, mais la Suisse, selon lui, reste largement en tête de liste.</aside>
+                        <aside id="note114" role="note" class="note bottomnote"><a class="noteback" href="5#note114_">114. </a>Cf. Léo <span class="sc">Moulin</span>, <i class="i">La nationalité des Prix Nobel des sciences de 1901 à 1960</i>, dans <i class="i">Cahiers internationaux de sociologie</i>, Paris, 1961. L’auteur prépare un ouvrage sur ce sujet. Le physicien nucléaire Hans <span class="sc">von Halban</span>, examinant le même problème, aboutit à des pourcentages un peu différents, mais la Suisse, selon lui, reste largement en tête de liste.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb250">p. 250</a>
                         </div>
-                        <aside id="note115" class="note bottomnote"><a class="noteback" href="5#note115_">115. </a>Trois universités alémaniques, quatre romandes, deux Écoles polytechniques et une École de Hautes Études commerciales.</aside>
+                        <aside id="note115" role="note" class="note bottomnote"><a class="noteback" href="5#note115_">115. </a>Trois universités alémaniques, quatre romandes, deux Écoles polytechniques et une École de Hautes Études commerciales.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb253">p. 253</a>
                         </div>
-                        <aside id="note116" class="note bottomnote"><a class="noteback" href="5#note116_">116. </a>Je parle du prix alors prévu pour 100 appareils. En 1964, on s’aperçut que les devis seraient dépassés dans une mesure telle (près d’un milliard) qu’il fallut réduire la commande à 54 appareils, au terme d’une enquête exigée par les Chambres. Des sanctions furent prises, affectant le haut commandement et quelques experts, mais non pas l’équipe gouvernementale ni sa politique de défense, dont la hiérarchie des valeurs paraît aussi démodée que le seront demain les Mirages. Cependant le Conseil fédéral propose aux Chambres de tripler la dotation du Fonds national de la recherche d’ici 1970. Le scandale des « Mirages » aura peut-être contribué à ce réveil tardif. Mais l’effort de la Suisse n’en demeure pas moins des plus modestes, en proportion de celui d’autres pays européens.</aside>
+                        <aside id="note116" role="note" class="note bottomnote"><a class="noteback" href="5#note116_">116. </a>Je parle du prix alors prévu pour 100 appareils. En 1964, on s’aperçut que les devis seraient dépassés dans une mesure telle (près d’un milliard) qu’il fallut réduire la commande à 54 appareils, au terme d’une enquête exigée par les Chambres. Des sanctions furent prises, affectant le haut commandement et quelques experts, mais non pas l’équipe gouvernementale ni sa politique de défense, dont la hiérarchie des valeurs paraît aussi démodée que le seront demain les Mirages. Cependant le Conseil fédéral propose aux Chambres de tripler la dotation du Fonds national de la recherche d’ici 1970. Le scandale des « Mirages » aura peut-être contribué à ce réveil tardif. Mais l’effort de la Suisse n’en demeure pas moins des plus modestes, en proportion de celui d’autres pays européens.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb255">p. 255</a>
                         </div>
-                        <aside id="note117" class="note bottomnote"><a class="noteback" href="5#note117_">117. </a>Un des plus fins moralistes du <span class="num">xix<sup class="sup">e</sup></span> siècle en Suisse, Félix <span class="sc">Bovet</span>, écrivait : « Cet enfant m’inquiète, il est trop avancé, il se développe trop… Il faudra le mettre à l’école, dit le père. »</aside>
-                        <aside id="note118" class="note bottomnote"><a class="noteback" href="5#note118_">118. </a>Mes <a href="file:///var/www/html/Rougemont/work/livres/ddr1929mip"><i class="i">Méfaits</i></a> datent de 1929. C’est dans <a href="file:///var/www/html/Rougemont/work/livres/ddr1934polpers"><i class="i">Politique de la Personne</i></a>, 1934, que paraît dès l’introduction la notion d’engagement de l’écrivain. En 1938 déjà, j’éprouvais la nécessité de préciser dans un article « le sens de ce mot d’engagement dont tout le monde abuse aujourd’hui ». S’engager dans le réel, écrivais-je, ce n’est pas se soumettre à la tactique d’un parti, « ce n’est pas se mettre en location, … signer ici plutôt que là… c’est assumer les risques de sa liberté ». D’autres, plus tard — une guerre plus tard — se sont fait une gloire du terme, mais pris au sens, précisément, que je dénonçais.</aside>
+                        <aside id="note117" role="note" class="note bottomnote"><a class="noteback" href="5#note117_">117. </a>Un des plus fins moralistes du <span class="num">xix<sup class="sup">e</sup></span> siècle en Suisse, Félix <span class="sc">Bovet</span>, écrivait : « Cet enfant m’inquiète, il est trop avancé, il se développe trop… Il faudra le mettre à l’école, dit le père. »</aside>
+                        <aside id="note118" role="note" class="note bottomnote"><a class="noteback" href="5#note118_">118. </a>Mes <a href="file:///var/www/html/Rougemont/work/livres/ddr1929mip"><i class="i">Méfaits</i></a> datent de 1929. C’est dans <a href="file:///var/www/html/Rougemont/work/livres/ddr1934polpers"><i class="i">Politique de la Personne</i></a>, 1934, que paraît dès l’introduction la notion d’engagement de l’écrivain. En 1938 déjà, j’éprouvais la nécessité de préciser dans un article « le sens de ce mot d’engagement dont tout le monde abuse aujourd’hui ». S’engager dans le réel, écrivais-je, ce n’est pas se soumettre à la tactique d’un parti, « ce n’est pas se mettre en location, … signer ici plutôt que là… c’est assumer les risques de sa liberté ». D’autres, plus tard — une guerre plus tard — se sont fait une gloire du terme, mais pris au sens, précisément, que je dénonçais.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb256">p. 256</a>
                         </div>
-                        <aside id="note119" class="note bottomnote"><a class="noteback" href="5#note119_">119. </a>Il est frappant de relire ce texte après « les événements » de 1968 ! Edmond <span class="sc">Gilliard</span> mourut à quelques mois de là, âgé de 93 ans.</aside>
+                        <aside id="note119" role="note" class="note bottomnote"><a class="noteback" href="5#note119_">119. </a>Il est frappant de relire ce texte après « les événements » de 1968 ! Edmond <span class="sc">Gilliard</span> mourut à quelques mois de là, âgé de 93 ans.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb257">p. 257</a>
                         </div>
-                        <aside id="note120" class="note bottomnote"><a class="noteback" href="5#note120_">120. </a>Cf. <i class="en i" lang="en">Swiss Schools and Ours : why theirs are better</i>, par 1’amiral <span class="sc">H.G. Rickover</span> (le constructeur du <i class="en i" lang="en">Nautilus</i>), Boston, 1962.</aside>
-                        <aside id="note121" class="note bottomnote"><a class="noteback" href="5#note121_">121. </a>En 1882, le peuple suisse a rejeté le projet de loi instituant un secrétariat scolaire fédéral, qui eût été chargé de préparer une loi uniforme sur l’enseignement primaire. Cette tentative centralisatrice n’a pas été renouvelée jusqu’ici. Elle le sera, normalement, avant peu d’années.</aside>
+                        <aside id="note120" role="note" class="note bottomnote"><a class="noteback" href="5#note120_">120. </a>Cf. <i class="en i" lang="en">Swiss Schools and Ours : why theirs are better</i>, par 1’amiral <span class="sc">H.G. Rickover</span> (le constructeur du <i class="en i" lang="en">Nautilus</i>), Boston, 1962.</aside>
+                        <aside id="note121" role="note" class="note bottomnote"><a class="noteback" href="5#note121_">121. </a>En 1882, le peuple suisse a rejeté le projet de loi instituant un secrétariat scolaire fédéral, qui eût été chargé de préparer une loi uniforme sur l’enseignement primaire. Cette tentative centralisatrice n’a pas été renouvelée jusqu’ici. Elle le sera, normalement, avant peu d’années.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb259">p. 259</a>
                         </div>
-                        <aside id="note122" class="note bottomnote"><a class="noteback" href="5#note122_">122. </a>Chez les anciens Germains, le mot <i class="i">Ring</i> désignait à la fois le sacrifice cultuel, l’assemblée du peuple ou <i class="i">Landsgemeinde</i>, et le marché.</aside>
+                        <aside id="note122" role="note" class="note bottomnote"><a class="noteback" href="5#note122_">122. </a>Chez les anciens Germains, le mot <i class="i">Ring</i> désignait à la fois le sacrifice cultuel, l’assemblée du peuple ou <i class="i">Landsgemeinde</i>, et le marché.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb260">p. 260</a>
                         </div>
-                        <aside id="note123" class="note bottomnote"><a class="noteback" href="5#note123_">123. </a>Cf. <span class="sc">F. HÄusler</span>, <i class="de i" lang="de">Die Geburt der Eidgenossenschaft aus der geistigen Urschweiz</i>, 1939, p. 181 sq.</aside>
+                        <aside id="note123" role="note" class="note bottomnote"><a class="noteback" href="5#note123_">123. </a>Cf. <span class="sc">F. HÄusler</span>, <i class="de i" lang="de">Die Geburt der Eidgenossenschaft aus der geistigen Urschweiz</i>, 1939, p. 181 sq.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb261">p. 261</a>
                         </div>
-                        <aside id="note124" class="note bottomnote">
+                        <aside id="note124" role="note" class="note bottomnote">
                           <p class="noindent"><a class="noteback" href="5#note124_">124. </a>Voici les proportions pour 1 000 habitants :</p>
                           <table class="table left">
                             <colgroup>
@@ -2748,39 +2908,38 @@
                           </table>
                           <p class="p autofirst">L’augmentation de 4,9 % des catholiques est due pour moitié à l’afflux des résidents étrangers.</p>
                         </aside>
-                        <aside id="note125" class="note bottomnote"><a class="noteback" href="5#note125_">125. </a>En 1850, 97 % de catholiques à Lucerne ; en 1960, 65 %. Mais dans la cité de
-              Calvin, une légère majorité catholique se dessine depuis quelques années.</aside>
+                        <aside id="note125" role="note" class="note bottomnote"><a class="noteback" href="5#note125_">125. </a>En 1850, 97 % de catholiques à Lucerne ; en 1960, 65 %. Mais dans la cité de Calvin, une légère majorité catholique se dessine depuis quelques années.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb262">p. 262</a>
                         </div>
-                        <aside id="note126" class="note bottomnote"><a class="noteback" href="5#note126_">126. </a>Abbé <span class="sc">C. Lugon</span>, dans <i class="i">Esprit</i>, octobre 1937.</aside>
+                        <aside id="note126" role="note" class="note bottomnote"><a class="noteback" href="5#note126_">126. </a>Abbé <span class="sc">C. Lugon</span>, dans <i class="i">Esprit</i>, octobre 1937.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb264">p. 264</a>
                         </div>
-                        <aside id="note127" class="note bottomnote"><a class="noteback" href="5#note127_">127. </a>Cf. <span class="sc">J. Courvoisier</span>, <i class="de i" lang="de">Zwingli</i>, 1947, p. 94. Remarquons que les protestants suisses qui n’accepteraient jamais d’avoir des évêques — comme en ont les Allemands, les Hongrois, les Scandinaves, les Anglais et les Américains — sont aussi impressionnés par un Monseigneur romain que les farouches républicains français par une reine d’Angleterre en visite à Paris.</aside>
+                        <aside id="note127" role="note" class="note bottomnote"><a class="noteback" href="5#note127_">127. </a>Cf. <span class="sc">J. Courvoisier</span>, <i class="de i" lang="de">Zwingli</i>, 1947, p. 94. Remarquons que les protestants suisses qui n’accepteraient jamais d’avoir des évêques — comme en ont les Allemands, les Hongrois, les Scandinaves, les Anglais et les Américains — sont aussi impressionnés par un Monseigneur romain que les farouches républicains français par une reine d’Angleterre en visite à Paris.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb265">p. 265</a>
                         </div>
-                        <aside id="note128" class="note bottomnote"><a class="noteback" href="5#note128_">128. </a>Je lis dans une étude de Mgr Ignaz <span class="sc">Staub</span>, o.s.b., abbé d’Einsiedeln, les lignes suivantes : « Les abbayes conservatrices suisses ne se plièrent jamais aux tendances centralisatrices de Cluny. Chaque abbaye a su maintenir ses droits et conserver sa physionomie propre, façonnant ainsi à son image le pays environnant. Le fédéralisme suisse a trouvé en ces monastères un puissant appui » (« La culture monastique en Suisse et son importance pour l’Europe », <i class="i">Formes et Couleurs</i>, 1946). Voir aussi le remarquable ouvrage de Léo <span class="sc">Moulin</span> : <i class="i">Le monde vivant des religieux</i>, 1964, où l’auteur nous révèle la grande tradition du <i class="i">fédéralisme bénédictin</i>.</aside>
+                        <aside id="note128" role="note" class="note bottomnote"><a class="noteback" href="5#note128_">128. </a>Je lis dans une étude de Mgr Ignaz <span class="sc">Staub</span>, o.s.b., abbé d’Einsiedeln, les lignes suivantes : « Les abbayes conservatrices suisses ne se plièrent jamais aux tendances centralisatrices de Cluny. Chaque abbaye a su maintenir ses droits et conserver sa physionomie propre, façonnant ainsi à son image le pays environnant. Le fédéralisme suisse a trouvé en ces monastères un puissant appui » (« La culture monastique en Suisse et son importance pour l’Europe », <i class="i">Formes et Couleurs</i>, 1946). Voir aussi le remarquable ouvrage de Léo <span class="sc">Moulin</span> : <i class="i">Le monde vivant des religieux</i>, 1964, où l’auteur nous révèle la grande tradition du <i class="i">fédéralisme bénédictin</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb270">p. 270</a>
                         </div>
-                        <aside id="note129" class="note bottomnote"><a class="noteback" href="5#note129_">129. </a>Karl <span class="sc">Barth</span>, <i class="i">Gottes Gnadenwahl</i>, conférence sur les rapports entre la Providence et la prédestination, 1936. (trad. de l’auteur.)</aside>
-                        <aside id="note130" class="note bottomnote"><a class="noteback" href="5#note130_">130. </a>Nuançons : la culpabilité est aussi un état ou une conduite psychologiques. L’Évangile parle de remords, de repentir, de conversion, et cela n’a rien à voir avec le masochisme.</aside>
+                        <aside id="note129" role="note" class="note bottomnote"><a class="noteback" href="5#note129_">129. </a>Karl <span class="sc">Barth</span>, <i class="i">Gottes Gnadenwahl</i>, conférence sur les rapports entre la Providence et la prédestination, 1936. (trad. de l’auteur.)</aside>
+                        <aside id="note130" role="note" class="note bottomnote"><a class="noteback" href="5#note130_">130. </a>Nuançons : la culpabilité est aussi un état ou une conduite psychologiques. L’Évangile parle de remords, de repentir, de conversion, et cela n’a rien à voir avec le masochisme.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb272">p. 272</a>
                         </div>
-                        <aside id="note131" class="note bottomnote"><a class="noteback" href="5#note131_">131. </a>Phrase extraite du commentaire d’une enquête sociologique sur les examens que passent les recrues, dans le journal de la Migros, <i class="i">Construire</i>.</aside>
+                        <aside id="note131" role="note" class="note bottomnote"><a class="noteback" href="5#note131_">131. </a>Phrase extraite du commentaire d’une enquête sociologique sur les examens que passent les recrues, dans le journal de la Migros, <i class="i">Construire</i>.</aside>
                       </div>
                     </section>
                   </article>
@@ -2797,91 +2956,91 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
                     <li class="here">
-                      <a href="#">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                      <a href="#">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">Petits trajets portés sur les axes du monde</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">Portrait du Suisse moyen</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">Condition du « grand homme » en Suisse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">De la culture dans une fédération, ou la pluralité des allégeances</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-5">D’un pays où le centre est partout</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-6">La peinture : de Nicolas Manuel à Paul Klee</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-7">La sculpture : Alberto Giacometti</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-8">L’architecture : des grands Baroques à Le Corbusier</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-9">La musique : Arthur Honegger</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-10">Le théâtre : du Festspiel à Friedrich Dürrenmatt</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-11">Littérature en général : de l’helvétisme à Ramuz</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-12">La poésie : trois évadés célèbres</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-13">La philosophie et la métaphysique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-14">La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-15">« Helvetia mediatrix » : de Bodmer aux Burckhardt</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-16">Les sciences humaines : Ferdinand de Saussure</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-17">Les sciences physiques : de Paracelse à l’indice Nobel</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-18">Les universités</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-19">« Tout Suisse est pédagogue »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-20">La vie religieuse : catholiques et protestants côte à côte</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-21">Le malaise suisse</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2891,13 +3050,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1965shph/6" name="Quatrième partie – La Suisse, dans l’avenir européen" package="ddr1965shph" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1965shph/6" name="IV. La Suisse, dans l’avenir européen" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Quatrième partie – La Suisse, dans l’avenir européen</value>
+          <value>IV. La Suisse, dans l’avenir européen (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV. La Suisse, dans l’avenir européen"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2906,9 +3094,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb275" id="pb275">[p. 275]</a>
-                    <h1 class="head chapter">Quatrième partie <br class="lb"/>La Suisse, dans l’avenir européen<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">Quatrième partie</h1>
+                    <h1 class="head chapter">La Suisse, dans l’avenir européen<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb277" id="pb277">[p. 277]</a>
  Le régime que l’on vient de décrire est, dans l’Histoire, l’un des derniers venus. Si l’on représente par une journée la période des civilisations un peu connues et qui va des peintures de Lascaux, pièges magiques, jusqu’aux pièges cosmiques de nos laboratoires, le fédéralisme n’apparaît qu’au cours des cinq dernières minutes.</p>
@@ -3154,70 +3343,70 @@
                         <div class="b note-page">
                           <a href="6#pb283">p. 283</a>
                         </div>
-                        <aside id="note132" class="note bottomnote"><a class="noteback" href="6#note132_">132. </a>Voir <i class="i">l’Extrait du Projet de paix perpétuelle</i>, publié en 1761, et le <i class="i">Jugement sur la paix perpétuelle</i>, posthume. <i class="i">Le Gouvernement de Pologne</i> date de 1773.</aside>
-                        <aside id="note133" class="note bottomnote"><a class="noteback" href="6#note133_">133. </a>Inclus dans l’<i class="i">Acte additionnel aux Constitutions de l’Empire</i>.</aside>
+                        <aside id="note132" role="note" class="note bottomnote"><a class="noteback" href="6#note132_">132. </a>Voir <i class="i">l’Extrait du Projet de paix perpétuelle</i>, publié en 1761, et le <i class="i">Jugement sur la paix perpétuelle</i>, posthume. <i class="i">Le Gouvernement de Pologne</i> date de 1773.</aside>
+                        <aside id="note133" role="note" class="note bottomnote"><a class="noteback" href="6#note133_">133. </a>Inclus dans l’<i class="i">Acte additionnel aux Constitutions de l’Empire</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb284">p. 284</a>
                         </div>
-                        <aside id="note134" class="note bottomnote"><a class="noteback" href="6#note134_">134. </a><i class="i">Die schweizerische Nationalität</i>.</aside>
+                        <aside id="note134" role="note" class="note bottomnote"><a class="noteback" href="6#note134_">134. </a><i class="i">Die schweizerische Nationalität</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb285">p. 285</a>
                         </div>
-                        <aside id="note135" class="note bottomnote"><a class="noteback" href="6#note135_">135. </a>C’est la place que je leur ai donnée dans mes <i class="i">Vingt-huit siècles d’Europe</i> (Paris, 1961) : Reynold est largement cité dans le premier chapitre, tandis qu’une page de R. de Traz fournit la conclusion de l’ouvrage.</aside>
+                        <aside id="note135" role="note" class="note bottomnote"><a class="noteback" href="6#note135_">135. </a>C’est la place que je leur ai donnée dans mes <i class="i">Vingt-huit siècles d’Europe</i> (Paris, 1961) : Reynold est largement cité dans le premier chapitre, tandis qu’une page de R. de Traz fournit la conclusion de l’ouvrage.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb287">p. 287</a>
                         </div>
-                        <aside id="note136" class="note bottomnote"><a class="noteback" href="6#note136_">136. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">Histoire de la Neutralité suisse</i>, 1946, p. 9.</aside>
+                        <aside id="note136" role="note" class="note bottomnote"><a class="noteback" href="6#note136_">136. </a>Edgar <span class="sc">Bonjour</span>, <i class="i">Histoire de la Neutralité suisse</i>, 1946, p. 9.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb288">p. 288</a>
                         </div>
-                        <aside id="note137" class="note bottomnote"><a class="noteback" href="6#note137_">137. </a>Cf. Henri <span class="sc">Miéville</span>, « Indépendance de la Suisse et neutralité », conférence au Congrès de l’Union européenne des Fédéralistes de Suisse, 1962. M. Miéville précise : « Quant à la neutralité, son rôle a été nul dans la création de la Confédération. »</aside>
-                        <aside id="note138" class="note bottomnote"><a class="noteback" href="6#note138_">138. </a>Fr. <span class="sc">Wahlen</span>, président de la Confédération, discours de février 1961.</aside>
+                        <aside id="note137" role="note" class="note bottomnote"><a class="noteback" href="6#note137_">137. </a>Cf. Henri <span class="sc">Miéville</span>, « Indépendance de la Suisse et neutralité », conférence au Congrès de l’Union européenne des Fédéralistes de Suisse, 1962. M. Miéville précise : « Quant à la neutralité, son rôle a été nul dans la création de la Confédération. »</aside>
+                        <aside id="note138" role="note" class="note bottomnote"><a class="noteback" href="6#note138_">138. </a>Fr. <span class="sc">Wahlen</span>, président de la Confédération, discours de février 1961.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb289">p. 289</a>
                         </div>
-                        <aside id="note139" class="note bottomnote"><a class="noteback" href="6#note139_">139. </a>Résolution de l’Union européenne suisse, Baden, 25 novembre 1962.</aside>
+                        <aside id="note139" role="note" class="note bottomnote"><a class="noteback" href="6#note139_">139. </a>Résolution de l’Union européenne suisse, Baden, 25 novembre 1962.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb290">p. 290</a>
                         </div>
-                        <aside id="note140" class="note bottomnote"><a class="noteback" href="6#note140_">140. </a><span class="sc">P. Guggenheim</span>, Organisations économiques supranationales, Indépendance et Neutralité de la Suisse, Bâle, 1963.</aside>
+                        <aside id="note140" role="note" class="note bottomnote"><a class="noteback" href="6#note140_">140. </a><span class="sc">P. Guggenheim</span>, Organisations économiques supranationales, Indépendance et Neutralité de la Suisse, Bâle, 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb296">p. 296</a>
                         </div>
-                        <aside id="note141" class="note bottomnote"><a class="noteback" href="6#note141_">141. </a>Cf. <span class="sc">E. Perron</span>, « Éloge de l’incohérence », dans le journal <i class="i">La Suisse</i> du 13 avril 1964.</aside>
+                        <aside id="note141" role="note" class="note bottomnote"><a class="noteback" href="6#note141_">141. </a>Cf. <span class="sc">E. Perron</span>, « Éloge de l’incohérence », dans le journal <i class="i">La Suisse</i> du 13 avril 1964.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb300">p. 300</a>
                         </div>
-                        <aside id="note142" class="note bottomnote"><a class="noteback" href="6#note142_">142. </a>L’exemple du CERN est le plus évident. Aucun des treize pays qui ont financé sa construction et qui bénéficient de ses recherches n’aurait l’idée de voir dans cette mise en commun une diminution quelconque de son indépendance, bien au contraire : sans le CERN, ses savants seraient frustrés d’une possibilité d’employer leurs talents ; et sa dépendance de l’une ou l’autre des grandes puissances « atomiques » en serait accrue d’une manière irrémédiable.</aside>
+                        <aside id="note142" role="note" class="note bottomnote"><a class="noteback" href="6#note142_">142. </a>L’exemple du CERN est le plus évident. Aucun des treize pays qui ont financé sa construction et qui bénéficient de ses recherches n’aurait l’idée de voir dans cette mise en commun une diminution quelconque de son indépendance, bien au contraire : sans le CERN, ses savants seraient frustrés d’une possibilité d’employer leurs talents ; et sa dépendance de l’une ou l’autre des grandes puissances « atomiques » en serait accrue d’une manière irrémédiable.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb301">p. 301</a>
                         </div>
-                        <aside id="note143" class="note bottomnote"><a class="noteback" href="6#note143_">143. </a>II en est une que je voudrais au moins mentionner. L’Europe dépendait depuis des siècles de l’Afrique, de l’Arabie, de l’Orient asiatique et des Amériques pour un grand nombre de produits indispensables à l’alimentation, aux vêtements, à l’industrie même. Or les progrès de la technique occidentale créent tant de substituts à ces produits qu’ils ne seront bientôt plus qu’un luxe. Ce que la chimie industrielle tirera de l’air et de l’eau, et de quelques roches, suffira au vêtement de l’Européen et bientôt à sa subsistance. Ici encore, la région du continent la plus pauvre en ressources naturelles, mais que ce défi a contrainte à réussir une économie de transformation technique intensive, se trouve à l’avant-garde de l’évolution spécifiquement européenne qui va se prononcer dans le dernier tiers du siècle.</aside>
-                        <aside id="note144" class="note bottomnote"><a class="noteback" href="6#note144_">144. </a>Seuls accessibles pour le moment. On pourrait aussi commencer par les seize États membres du Conseil de l’Europe, et par l’intermédiaire de cette organisation.</aside>
+                        <aside id="note143" role="note" class="note bottomnote"><a class="noteback" href="6#note143_">143. </a>II en est une que je voudrais au moins mentionner. L’Europe dépendait depuis des siècles de l’Afrique, de l’Arabie, de l’Orient asiatique et des Amériques pour un grand nombre de produits indispensables à l’alimentation, aux vêtements, à l’industrie même. Or les progrès de la technique occidentale créent tant de substituts à ces produits qu’ils ne seront bientôt plus qu’un luxe. Ce que la chimie industrielle tirera de l’air et de l’eau, et de quelques roches, suffira au vêtement de l’Européen et bientôt à sa subsistance. Ici encore, la région du continent la plus pauvre en ressources naturelles, mais que ce défi a contrainte à réussir une économie de transformation technique intensive, se trouve à l’avant-garde de l’évolution spécifiquement européenne qui va se prononcer dans le dernier tiers du siècle.</aside>
+                        <aside id="note144" role="note" class="note bottomnote"><a class="noteback" href="6#note144_">144. </a>Seuls accessibles pour le moment. On pourrait aussi commencer par les seize États membres du Conseil de l’Europe, et par l’intermédiaire de cette organisation.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb305">p. 305</a>
                         </div>
-                        <aside id="note145" class="note bottomnote"><a class="noteback" href="6#note145_">145. </a>On sait que jusqu’à ces dernières années, les citoyens du District fédéral de Washington, D.C. n’avaient pas le droit de participer à l’élection du président des États-Unis. Un amendement à la Constitution, du 3 avril 1961, a rapporté cette sage mesure symbolique, qui reprendrait toute sa force dans le cas que j’examine.</aside>
+                        <aside id="note145" role="note" class="note bottomnote"><a class="noteback" href="6#note145_">145. </a>On sait que jusqu’à ces dernières années, les citoyens du District fédéral de Washington, D.C. n’avaient pas le droit de participer à l’élection du président des États-Unis. Un amendement à la Constitution, du 3 avril 1961, a rapporté cette sage mesure symbolique, qui reprendrait toute sa force dans le cas que j’examine.</aside>
                       </div>
                     </section>
                   </article>
@@ -3234,49 +3423,49 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
                     <li class="here">
-                      <a href="#">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                      <a href="#">La Suisse, dans l’avenir européen</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-1">La Suisse, dépositaire d’une formule politique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2">L’Europe, demain</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-3">Les Suisses devant le projet d’union de l’Europe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-4">Motifs de la réserve suisse</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-5">Autofreinage du fédéralisme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-6">Éléments de prospective fédéraliste</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-7">Trois utopies : pays pilote, parc national ou district fédéral européen ?</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  Bref historique de la légende de Tell</a>
+                    <li class="collateral">
+                      <a href="7">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -3286,13 +3475,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1965shph/7" name="Appendice – Bref historique de la légende de Tell" package="ddr1965shph" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1965shph/7" name="V. Appendice. Bref historique de la légende de Tell" package="ddr1965shph" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Suisse ou l’histoire d’un peuple heureux (1970) Appendice – Bref historique de la légende de Tell</value>
+          <value>V. Appendice. Bref historique de la légende de Tell (1965, La Suisse ou l’histoire d’un peuple heureux)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Suisse ou l’histoire d’un peuple heureux (1965)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "V. Appendice. Bref historique de la légende de Tell"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -3301,9 +3519,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb311" id="pb311">[p. 311]</a>
-                    <h1 class="head chapter">Appendice <br class="lb"/>Bref historique de la légende de Tell<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">Appendice
+          <br class="lb"/>Bref historique de la légende de Tell<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb313" id="pb313">[p. 313]</a>
  Le mythe de Tell a sans nul doute contribué à édifier (au double sens du mot) la Suisse moderne, j’entends celle de 1848, mais il paraît plus que douteux qu’un Guillaume Tell ait existé, historiquement, lors de la formation de la Suisse primitive.</p>
@@ -3343,13 +3562,13 @@
                         <div class="b note-page">
                           <a href="7#pb313">p. 313</a>
                         </div>
-                        <aside id="note146" class="note bottomnote"><a class="noteback" href="7#note146_">146. </a>Source principale : Richard <span class="sc">Feller</span> et Edgar <span class="sc">Bonjour</span>, <i class="de i" lang="de">Geschichtsschreibung der Schweiz</i> (vom Spätmittelalter zur Neuzeit) 2 vol. 903 p., Bâle, 1962. Série de monographies sur les chroniqueurs et historiens qui se sont occupés de la Suisse, du Moyen Âge à la fin du <span class="num">xix<sup class="sup">e</sup></span> siècle.</aside>
+                        <aside id="note146" role="note" class="note bottomnote"><a class="noteback" href="7#note146_">146. </a>Source principale : Richard <span class="sc">Feller</span> et Edgar <span class="sc">Bonjour</span>, <i class="de i" lang="de">Geschichtsschreibung der Schweiz</i> (vom Spätmittelalter zur Neuzeit) 2 vol. 903 p., Bâle, 1962. Série de monographies sur les chroniqueurs et historiens qui se sont occupés de la Suisse, du Moyen Âge à la fin du <span class="num">xix<sup class="sup">e</sup></span> siècle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb318">p. 318</a>
                         </div>
-                        <aside id="note147" class="note bottomnote"><a class="noteback" href="7#note147_">147. </a>Le nom de Tell (ou Tall, ou Thäll, dans le <i class="i">Livre Blanc</i>), pris comme adjectif, a été interprété de vingt manières différentes, signifiant tantôt le simplet, le benêt, tantôt le bavard ou le hâbleur, ou le joueur, ou encore le fou (cf. <i class="i">Till</i> Eulenspiegel, et « Brutus »). Tell devient dans certaines versions un substantif : les trois conjurés du Grütli sont parfois nommés « les Trois Tells », etc.</aside>
+                        <aside id="note147" role="note" class="note bottomnote"><a class="noteback" href="7#note147_">147. </a>Le nom de Tell (ou Tall, ou Thäll, dans le <i class="i">Livre Blanc</i>), pris comme adjectif, a été interprété de vingt manières différentes, signifiant tantôt le simplet, le benêt, tantôt le bavard ou le hâbleur, ou le joueur, ou encore le fou (cf. <i class="i">Till</i> Eulenspiegel, et « Brutus »). Tell devient dans certaines versions un substantif : les trois conjurés du Grütli sont parfois nommés « les Trois Tells », etc.</aside>
                       </div>
                     </section>
                   </article>
@@ -3366,26 +3585,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préface 1970</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
-                      <a href="3">Première partie  –  Le paysage historique  –  ou comment se forme une fédération</a>
+                    <li class="collateral">
+                      <a href="3">Le paysage historique,  ou comment se forme une fédération</a>
                     </li>
-                    <li>
-                      <a href="4">Deuxième partie  –  L’union, sauvegarde de la diversité  –  ou comment fonctionne une fédération</a>
+                    <li class="collateral">
+                      <a href="4">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                     </li>
-                    <li>
-                      <a href="5">Troisième partie  –  La morale quotidienne et le climat de culture  –  ou comment on vit dans une fédération</a>
+                    <li class="collateral">
+                      <a href="5">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                     </li>
-                    <li>
-                      <a href="6">Quatrième partie  –  La Suisse, dans l’avenir européen</a>
+                    <li class="collateral">
+                      <a href="6">La Suisse, dans l’avenir européen</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice  –  Bref historique de la légende de Tell</a>
+                      <a href="#">Appendice.  Bref historique de la légende de Tell</a>
                     </li>
                   </ul>
                 ]]></content>

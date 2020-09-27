@@ -2,11 +2,14 @@
 namespace Concrete\Package\Ddr1934polpers;
 
 use Package;
+use PageType;
+use PageTemplate;
+
 
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1934polpers';
-  protected $pkgVersion = '20.09.15';
+  protected $pkgVersion = '20.09.28';
   protected $title = 'Politique de la Personne';
   protected $bookpath = '/livres/ddr1934polpers';
 
@@ -25,15 +28,15 @@ class Controller extends Package
   {
     $bookPage = \Page::getByPath($this->bookpath);
     if($bookPage->isError()) {
-      \Log::addWarning("Livre créé automatiquement: ".$this->bookpath);
-      $parentPage = \Page::getByPath(dirname($this->bookpath));
-      $pageType = \PageType::getByHandle('livre');
-      $template = \PageTemplate::getByHandle('livre');
-      $bookPage = $parentPage->add($pageType, array(
-          'cName' => $this->title,
-          'cHandle' => basename($this->bookpath),
-        ), $template
-      );
+      $sectionPage = \Page::getByPath(dirname($this->bookpath));
+      $type = PageType::getByHandle('livre');
+      $template = PageTemplate::getByHandle('livre'); // ?? parfois bugue
+      $bookPage = $sectionPage->add($type, array(
+        'cName' => $this->title,
+        'cHandle' => basename($this->bookpath),
+      ), $template);
+      \Log::addWarning($this->bookpath. ", créé automatiquement pour installer les chapitres.");
+
     }
     $this->installXml();
     $pkg = parent::install();

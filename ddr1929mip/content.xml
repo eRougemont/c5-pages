@@ -4,10 +4,39 @@
     <page path="/livres/ddr1929mip/1" name="Avant-propos" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) Avant-propos</value>
+          <value>Avant-propos (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avant-propos"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">Avant-propos<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Le dire une bonne fois.</p>
@@ -53,7 +82,7 @@
                         <div class="b note-page">
                           <a href="1#p7">p. 7</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Je ne puis naturellement pas mentionner tous les ouvrages scientifiques. Les meilleurs sortent de l’Institut Rousseau.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Je ne puis naturellement pas mentionner tous les ouvrages scientifiques. Les meilleurs sortent de l’Institut Rousseau.</aside>
                       </div>
                     </section>
                   </article>
@@ -73,28 +102,28 @@
                     <li class="here">
                       <a href="#">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -108,10 +137,39 @@
     <page path="/livres/ddr1929mip/2" name="1. Mes prisons" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 1. Mes prisons</value>
+          <value>1. Mes prisons (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Mes prisons"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -120,7 +178,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p10" id="p10">[p. 10]</a>
                     <h1 class="head chapter">1. Mes prisons<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Il existe des gens qui s’attendrissent sur leurs souvenirs de classe. C’est qu’ils les confondent avec ceux de leur enfance et les font indûment participer de la même grâce. Voyez Péguy, quand il essaye de nous faire croire qu’« il n’y a rien au-dessus » de la tâche des instituteurs :</p>
@@ -150,13 +208,13 @@
                         <div class="b note-page">
                           <a href="2#p11">p. 11</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Dans le cas le plus favorable, c’est un silence, un vide. C’était en dehors de la vie.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Dans le cas le plus favorable, c’est un silence, un vide. C’était en dehors de la vie.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p13">p. 13</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>du pain rassis.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>du pain rassis.</aside>
                       </div>
                     </section>
                   </article>
@@ -173,31 +231,31 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
                     <li class="here">
                       <a href="#">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -211,10 +269,39 @@
     <page path="/livres/ddr1929mip/3" name="2. Description du monstre" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 2. Description du monstre</value>
+          <value>2. Description du monstre (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Description du monstre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -223,7 +310,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p15" id="p15">[p. 15]</a>
                     <h1 class="head chapter">2. Description du monstre<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">Le service militaire me permit de retrouver quelques-unes de ces réalités. J’y retrouvai aussi plusieurs têtes connues d’anciens camarades d’école primaire. Comme ils avaient changé ! On s’entendait d’autant mieux qu’on était devenus plus différents. Car ces différences sont les premières marques de la vie vécue et l’on aime à y découvrir la seule fraternité véritable. Mais c’est en caserne aussi que je devais retrouver les instituteurs. Ceux-là n’avaient pas bougé. Et pour cause : ils n’étaient jamais sortis de l’école. Rien ne ressemble plus à un bon élève qu’un instituteur : de l’un à l’autre il n’y a pas de solution de continuité, la différence n’étant qu’une question d’âge, non d’expérience vécue.</p>
@@ -257,31 +344,31 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
                     <li class="here">
                       <a href="#">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -295,10 +382,39 @@
     <page path="/livres/ddr1929mip/4" name="3. Anatomie du monstre" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 3. Anatomie du monstre</value>
+          <value>3. Anatomie du monstre (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Anatomie du monstre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -307,7 +423,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p19" id="p19">[p. 19]</a>
                     <h1 class="head chapter">3. Anatomie du monstre<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">Ayant épanché un peu de ma rancune, à seule fin de montrer pour quelles raisons j’ai entrepris de combattre l’instruction publique — on ne me contestera pas ces raisons puisqu’elles me sont absolument personnelles et qu’elles ont la valeur d’un témoignage, ni plus ni moins — il est temps que je fasse passer un petit examen aux principes de cette institution passionnément détestée. Vous allez voir comme il bafouillent leur « par cœur non compris ».</p>
@@ -399,19 +515,19 @@
                         <div class="b note-page">
                           <a href="4#p22">p. 22</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="4#note4_">4. </a>Ce ne sont pas seulement les meilleurs qui sont sacrifiés. Voici ce que M. E. Duvillard dit des enfants peu doués pour les disciplines scolaires : « Les épaves scolaires, faute d’un traitement pédagogique approprié, tombent dans une apathie intellectuelle qui les conduit souvent à l’imbécillité et au vice. » Emmanuel <span class="sc">Duvillard</span>, <i class="i">L’École de demain</i>, Genève, Kündig, 1918, p. 12.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="4#note4_">4. </a>Ce ne sont pas seulement les meilleurs qui sont sacrifiés. Voici ce que M. E. Duvillard dit des enfants peu doués pour les disciplines scolaires : « Les épaves scolaires, faute d’un traitement pédagogique approprié, tombent dans une apathie intellectuelle qui les conduit souvent à l’imbécillité et au vice. » Emmanuel <span class="sc">Duvillard</span>, <i class="i">L’École de demain</i>, Genève, Kündig, 1918, p. 12.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p25">p. 25</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="4#note5_">5. </a>Il est peut-être avantageux dans certains cas de soustraire l’enfant à l’influence d’une famille anormale. Mais d’abord c’est sanctionner cet état anormal (il y aurait sans doute d’autres moyens de sauver l’enfant <i class="i">dans</i> sa famille). Ensuite, pourquoi fait-on <i class="i">en réalité</i>, comme si toutes les familles constituaient un milieu délétère ?</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="4#note5_">5. </a>Il est peut-être avantageux dans certains cas de soustraire l’enfant à l’influence d’une famille anormale. Mais d’abord c’est sanctionner cet état anormal (il y aurait sans doute d’autres moyens de sauver l’enfant <i class="i">dans</i> sa famille). Ensuite, pourquoi fait-on <i class="i">en réalité</i>, comme si toutes les familles constituaient un milieu délétère ?</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p26">p. 26</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="4#note6_">6. </a>Justice démocratique, égalité, légalité, sont les meilleures armes de la bassesse contre toute valeur réelle, absolue.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="4#note6_">6. </a>Justice démocratique, égalité, légalité, sont les meilleures armes de la bassesse contre toute valeur réelle, absolue.</aside>
                       </div>
                     </section>
                   </article>
@@ -428,57 +544,57 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
                     <li class="here">
                       <a href="#">3. Anatomie du monstre</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">1. Le programme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">2. Les examens</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">3. L’égalitarisme des connaissances</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">4. Le gavage</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">5. La discipline</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-6">6. La préparation civique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-7">7. L’idéal du bon élève</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-8">Le dilemme</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -492,10 +608,39 @@
     <page path="/livres/ddr1929mip/5" name="4. L’illusion réformiste" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 4. L’illusion réformiste</value>
+          <value>4. L’illusion réformiste (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. L’illusion réformiste"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -504,7 +649,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p29" id="p29">[p. 29]</a>
                     <h1 class="head chapter">4. L’illusion réformiste<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">Bien entendu, tout cela a été dit. (Un peu autrement, j’en conviens.) On n’a pas attendu ma colère pour entreprendre ce travail de démolition. Il suffit pour s’en convaincre de parcourir l’abondante littérature publiée sur le « problème de l’<i class="i">école nouvelle</i> ».</p>
@@ -532,13 +677,13 @@
                         <div class="b note-page">
                           <a href="5#p29">p. 29</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="5#note7_">7. </a>Ou des appareils qui en tiennent lieu.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="5#note7_">7. </a>Ou des appareils qui en tiennent lieu.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p32">p. 32</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="5#note8_">8. </a>Voir à <a href="https://www.unige.ch/rougemont/livres/ddr1929mip/9#">l’appendice</a> le sens que je donne à ce mot.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="5#note8_">8. </a>Voir à <a href="https://www.unige.ch/rougemont/livres/ddr1929mip/9#">l’appendice</a> le sens que je donne à ce mot.</aside>
                       </div>
                     </section>
                   </article>
@@ -555,31 +700,31 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
                     <li class="here">
                       <a href="#">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -593,10 +738,39 @@
     <page path="/livres/ddr1929mip/6" name="5. La machine à fabriquer des électeurs" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 5. La machine à fabriquer des électeurs</value>
+          <value>5. La machine à fabriquer des électeurs (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. La machine à fabriquer des électeurs"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -605,7 +779,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
                     <h1 class="head chapter">5. La machine à fabriquer des électeurs<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">Je crois à l’absurdité de <i class="i">fait</i> de l’instruction publique. Je crois aussi qu’on ne peut réformer l’absurde. Je demande seulement qu’on m’explique pourquoi il triomphe et se perpétue ; de quel <i class="i">droit</i> il nous écrase.</p>
@@ -631,14 +805,14 @@
                         <div class="b note-page">
                           <a href="6#p34">p. 34</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="6#note9_">9. </a>J’emploie ce mot au sens fort, au sens enivrant, 100 %. Beaucoup de gens mourront sans avoir jamais soupçonné ce que cela représente.</aside>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="6#note10_">10. </a>Voir <a href="https://www.unige.ch/rougemont/livres/ddr1929mip/9#body-9-1">note A</a> à la fin du cahier.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="6#note9_">9. </a>J’emploie ce mot au sens fort, au sens enivrant, 100 %. Beaucoup de gens mourront sans avoir jamais soupçonné ce que cela représente.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="6#note10_">10. </a>Voir <a href="https://www.unige.ch/rougemont/livres/ddr1929mip/9#body-9-1">note A</a> à la fin du cahier.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p36">p. 36</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="6#note11_">11. </a>Est-il besoin de déclarer formellement qu’une telle attitude n’est en aucune façon tributaire de l’idéologie réactionnaire à la mode. Mais que deux critiques de la Démocratie partant de points de vue presque opposés coïncident en tant de points — voilà qui m’inquiéterait, à votre place.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="6#note11_">11. </a>Est-il besoin de déclarer formellement qu’une telle attitude n’est en aucune façon tributaire de l’idéologie réactionnaire à la mode. Mais que deux critiques de la Démocratie partant de points de vue presque opposés coïncident en tant de points — voilà qui m’inquiéterait, à votre place.</aside>
                       </div>
                     </section>
                   </article>
@@ -655,31 +829,31 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
                     <li class="here">
                       <a href="#">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -693,10 +867,39 @@
     <page path="/livres/ddr1929mip/7" name="6. La trahison de l’Instruction publique" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 6. La trahison de l’Instruction publique</value>
+          <value>6. La trahison de l’Instruction publique (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. La trahison de l’Instruction publique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -705,7 +908,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p37" id="p37">[p. 37]</a>
                     <h1 class="head chapter">6. La trahison de l’Instruction publique<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">(Ici, le procureur prit un ton plus grave.)</p>
@@ -737,31 +940,31 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
                     <li class="here">
                       <a href="#">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -775,10 +978,39 @@
     <page path="/livres/ddr1929mip/8" name="7. L’Instruction publique contre le progrès" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) 7. L’Instruction publique contre le progrès</value>
+          <value>7. L’Instruction publique contre le progrès (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "7. L’Instruction publique contre le progrès"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -787,7 +1019,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p40" id="p40">[p. 40]</a>
                     <h1 class="head chapter">7. L’Instruction publique contre le progrès<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">Un beau titre. Et qui a meilleure façon que le reste, pensez-vous. Il faut avouer qu’avec ce je ne sais quoi de déclamatoire, de… journalistique, de bedonnant creux, cela vous a un petit air démocratique, hé ! hé !… et d’ailleurs vous aimez les idées généreuses, n’est-ce pas ? J’en étais sûr.</p>
@@ -821,7 +1053,7 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
                         <div class="b note-page">
                           <a href="8#p43">p. 43</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="8#note12_">12. </a>La Raison de Spinoza ou de Descartes n’a que de lointains rapports de parenté avec ce maigre descendant nommé Rationalisme, produit d’une mésalliance avec l’Avarice bourgeoise — et qui sans cesse déroge.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="8#note12_">12. </a>La Raison de Spinoza ou de Descartes n’a que de lointains rapports de parenté avec ce maigre descendant nommé Rationalisme, produit d’une mésalliance avec l’Avarice bourgeoise — et qui sans cesse déroge.</aside>
                       </div>
                     </section>
                   </article>
@@ -838,31 +1070,31 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
                     <li class="here">
                       <a href="#">7. L’Instruction publique contre le progrès</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Appendice. Utopie</a>
                     </li>
                   </ul>
@@ -876,10 +1108,39 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
     <page path="/livres/ddr1929mip/9" name="Appendice. Utopie" package="ddr1929mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Méfaits de l’Instruction publique (1929) Appendice. Utopie</value>
+          <value>Appendice. Utopie (1929, Les Méfaits de l’Instruction publique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Méfaits de l’Instruction publique (1929)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1929mip",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Appendice. Utopie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -888,7 +1149,7 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">Appendice. Utopie<a class="bookmark" href="9"> §</a></h1>
                     <p class="p autofirst">Un os à la meute.</p>
                     <p class="p">(Et figurez-vous que j’ai la ferme intention de vous faire rigoler, si cela peut vous rassurer quant à ma santé mentale.)</p>
@@ -947,25 +1208,25 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
                     </section>
                     <section class="footnotes">
                       <div class="page">
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="9#note13_">13. </a>Économistes et philosophes : ces Messieurs n’apparaissent ici que pour impressionner le public. Je n’ai pas besoin de leurs <i class="i">attendus</i> pour juger.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="9#note13_">13. </a>Économistes et philosophes : ces Messieurs n’apparaissent ici que pour impressionner le public. Je n’ai pas besoin de leurs <i class="i">attendus</i> pour juger.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#p46">p. 46</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="9#note14_">14. </a>Ces deux mots en effet, terrorisent à tel point les bourgeois qu’ils n’en distinguent plus même le sens. Ils les lancent à la tête de tous ceux qui les dérangent, comme des pavés, ou plutôt des grenades, avec la frousse que ça ne leur éclate dans la main.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="9#note14_">14. </a>Ces deux mots en effet, terrorisent à tel point les bourgeois qu’ils n’en distinguent plus même le sens. Ils les lancent à la tête de tous ceux qui les dérangent, comme des pavés, ou plutôt des grenades, avec la frousse que ça ne leur éclate dans la main.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#p47">p. 47</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="9#note15_">15. </a>Cf. ce que dit Tolstoï sur cette haine et sur ce besoin dans ses <i class="i">Articles pédagogiques</i> encore très actuels, du fait que l’école n’a pas bougé depuis.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="9#note15_">15. </a>Cf. ce que dit Tolstoï sur cette haine et sur ce besoin dans ses <i class="i">Articles pédagogiques</i> encore très actuels, du fait que l’école n’a pas bougé depuis.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#p48">p. 48</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="9#note16_">16. </a>On promet des confitures à l’enfant, s’il est sage. Moi je m’en moque. Je n’aime que la liberté.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="9#note16_">16. </a>On promet des confitures à l’enfant, s’il est sage. Moi je m’en moque. Je n’aime que la liberté.</aside>
                       </div>
                     </section>
                   </article>
@@ -982,40 +1243,40 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">1. Mes prisons</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">2. Description du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">3. Anatomie du monstre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">5. La machine à fabriquer des électeurs</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">6. La trahison de l’Instruction publique</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">7. L’Instruction publique contre le progrès</a>
                     </li>
                     <li class="here">
                       <a href="#">Appendice. Utopie</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-1">NOTE A</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-2">NOTE B</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-3">NOTE C</a>
                         </li>
                       </ul>

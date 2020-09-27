@@ -4,10 +4,39 @@
     <page path="/livres/ddr1979rpe/1" name="Avertissement" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) Avertissement</value>
+          <value>Avertissement (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Constitué en 1976 à l’initiative du Centre européen de la culture (Genève)</p>
                     <blockquote class="quote">
@@ -71,31 +100,31 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -109,10 +138,39 @@
     <page path="/livres/ddr1979rpe/2" name="Introduction" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) Introduction</value>
+          <value>Introduction (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Introduction"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -121,7 +179,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">Introduction<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level3 level2">
                       <h2 class="head">De quelle Europe s’agit-il ?<a class="bookmark" href="2#body-2-1"> §</a></h2>
@@ -396,25 +454,25 @@
                         <div class="b note-page">
                           <a href="2#pb22">p. 22</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Probabilité de cancer en Europe : en 1900 3 % ; en 1978 33 %. Ces chiffres correspondent <i class="i">grosso modo</i> à ceux de l’accroissement (hors inflation) du PNB.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Probabilité de cancer en Europe : en 1900 3 % ; en 1978 33 %. Ces chiffres correspondent <i class="i">grosso modo</i> à ceux de l’accroissement (hors inflation) du PNB.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb30">p. 30</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Congrès fédéraliste de Montreux, 1947. Congrès de l’Europe à La Haye, 1948. Congrès économique de Westminster, 1948. Congrès politique de Bruxelles, 1949. Conférence européenne de la culture, Lausanne, déc. 1949.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Congrès fédéraliste de Montreux, 1947. Congrès de l’Europe à La Haye, 1948. Congrès économique de Westminster, 1948. Congrès politique de Bruxelles, 1949. Conférence européenne de la culture, Lausanne, déc. 1949.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb43">p. 43</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Jean-François <span class="sc">Deniau</span>, dans une interview à <i class="i">L’Express</i>, Paris, 10 juillet 1978.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Jean-François <span class="sc">Deniau</span>, dans une interview à <i class="i">L’Express</i>, Paris, 10 juillet 1978.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb46">p. 46</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Voir les sondages publiés au printemps et à l’automne de chaque année par la Commission de la CEE sous le titre d’<i class="i">Eurobaromètre</i>.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Voir les sondages publiés au printemps et à l’automne de chaque année par la Commission de la CEE sous le titre d’<i class="i">Eurobaromètre</i>.</aside>
                       </div>
                     </section>
                   </article>
@@ -431,96 +489,96 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
                       <a href="#">Introduction</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">De quelle Europe s’agit-il ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">Objectifs de ce Rapport</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">I. L’Europe et le Monde</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-1">Problèmes qu’aucun État ne peut résoudre seul</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-2">Les deux Europes</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-3">Imiter l’Europe ?</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-4">Les chances de l’Europe</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4">II. L’Europe et l’Occident</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-5">III. Évolution des motifs d’union</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-5-1">Dépasser les souverainetés nationales</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-6">IV. Ce que nos États désunis ne peuvent plus faire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-7">V. Ce qui est acquis</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-7-1">Le Conseil de l’Europe</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-7-2">Les Communautés économiques européennes</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-7-3">Les activités culturelles et scientifiques</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-7-4">Mesure présente du consensus européen</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-8">VI. Ce qui n’a pas été fait jusqu’ici</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-9">VII. Ce qui vient</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -534,10 +592,39 @@
     <page path="/livres/ddr1979rpe/3" name="1. L’économie" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 1. L’économie</value>
+          <value>1. L’économie (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. L’économie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -546,7 +633,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb53" id="pb53">[p. 53]</a>
                     <h1 class="head chapter">1. L’économie<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level3 level2">
@@ -745,25 +832,25 @@
                         <div class="b note-page">
                           <a href="3#pb62">p. 62</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Le prix du pétrole a quintuplé de 1972 à 1979. Cela peut gêner, déjà, les usagers de la route, mais non pas les gouvernements, qui prélèvent de 55 à 66 % de taxes « fiscales » du prix de vente de l’essence, et qui ont donc un intérêt certain à l’augmentation des prix de base, qu’ils paient en dollars dévalués. L’opinion publique européenne ne paraît pas s’en émouvoir : chercher à comprendre, en ces matières, risquerait de mener trop loin…</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Le prix du pétrole a quintuplé de 1972 à 1979. Cela peut gêner, déjà, les usagers de la route, mais non pas les gouvernements, qui prélèvent de 55 à 66 % de taxes « fiscales » du prix de vente de l’essence, et qui ont donc un intérêt certain à l’augmentation des prix de base, qu’ils paient en dollars dévalués. L’opinion publique européenne ne paraît pas s’en émouvoir : chercher à comprendre, en ces matières, risquerait de mener trop loin…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb64">p. 64</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Sur l’état présent de l’inflation et du chômage en Europe des Neuf, voir Annexe 2.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Sur l’état présent de l’inflation et du chômage en Europe des Neuf, voir Annexe 2.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb66">p. 66</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a><span class="sc">J. Attali</span>, in <i class="i">Le Monde</i> du 14 avril 1977.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a><span class="sc">J. Attali</span>, in <i class="i">Le Monde</i> du 14 avril 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb75">p. 75</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Rapport publié le 22 août 1978 à Genève par le Bureau international du travail (ONU).</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Rapport publié le 22 août 1978 à Genève par le Bureau international du travail (ONU).</aside>
                       </div>
                     </section>
                   </article>
@@ -780,75 +867,75 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
                     <li class="here">
                       <a href="#">1. L’économie</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">De quelle économie va-t-on parler ici ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">I. État économique de l’Europe</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-2-1">Croissance mais insatisfaction</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-2-2">Toute progression rapide crée des problèmes nouveaux et imprévus</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">II. La crise</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-3-1">Les questions sans réponse se multiplient</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-3-2">Causes multiples, effets semblables</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-3-3">Inflation et chômage</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">III. Solutions possibles par l’union et par une restructuration concomitante</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-4-1">Activités, emploi, chômage</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="3#body-3-4-2">D’urgence</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -862,10 +949,39 @@
     <page path="/livres/ddr1979rpe/4" name="2. L’énergie" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 2. L’énergie</value>
+          <value>2. L’énergie (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. L’énergie"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -874,7 +990,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">2. L’énergie<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2 level2">
                       <h2 class="head">I. État de la question<a class="bookmark" href="4#body-4-1"> §</a></h2>
@@ -1021,50 +1137,50 @@
                     </section>
                     <section class="footnotes">
                       <div class="page">
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="4#note9_">9. </a>Source : Rapports WAES — <i class="i">Energy Global Prospects 1985-2000</i>. New York, 1977.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="4#note9_">9. </a>Source : Rapports WAES — <i class="i">Energy Global Prospects 1985-2000</i>. New York, 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb80">p. 80</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="4#note10_">10. </a>Déclaration de John Hill, président de l’Autorité de l’énergie atomique britannique, à Istanbul.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="4#note10_">10. </a>Déclaration de John Hill, président de l’Autorité de l’énergie atomique britannique, à Istanbul.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb83">p. 83</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="4#note11_">11. </a>Le chauffage à l’électricité avec son rendement de 6 %, qui est le plus mauvais du monde, a été qualifié avec raison de « crime énergétique ».</aside>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="4#note12_">12. </a>Cf. l’interview du directeur général d’Électricité de France (EDF) publiée par <i class="i">Le Monde</i> du 24 janvier 1975.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="4#note11_">11. </a>Le chauffage à l’électricité avec son rendement de 6 %, qui est le plus mauvais du monde, a été qualifié avec raison de « crime énergétique ».</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="4#note12_">12. </a>Cf. l’interview du directeur général d’Électricité de France (EDF) publiée par <i class="i">Le Monde</i> du 24 janvier 1975.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb84">p. 84</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>Ce sera peut-être cinquante ou cent ans plus tard que les futurologues officiels n’ont prévu. Il semblerait en effet que le Mexique soit en mesure de produire autant de millions de barils de pétrole que toutes les autres parties du monde réunies. Notons que ceux qui mettent en doute ces données sont justement les promoteurs du nucléaire…</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>Ce sera peut-être cinquante ou cent ans plus tard que les futurologues officiels n’ont prévu. Il semblerait en effet que le Mexique soit en mesure de produire autant de millions de barils de pétrole que toutes les autres parties du monde réunies. Notons que ceux qui mettent en doute ces données sont justement les promoteurs du nucléaire…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb85">p. 85</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Voir notamment les manifestes publiés par des savants du Collège de France à Paris, du CERN à Genève, de l’ensemble de la France : 400, 1 200, 4 000 signatures.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Voir notamment les manifestes publiés par des savants du Collège de France à Paris, du CERN à Genève, de l’ensemble de la France : 400, 1 200, 4 000 signatures.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb86">p. 86</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Voir le <i class="i">Rapport de la commission des Finances du Parlement français</i>, n° 3131, septembre 1977, qui élimine d’une manière décisive cet argument pourtant on ne peut plus officiel.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Voir le <i class="i">Rapport de la commission des Finances du Parlement français</i>, n° 3131, septembre 1977, qui élimine d’une manière décisive cet argument pourtant on ne peut plus officiel.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb87">p. 87</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Le peuple suisse a adopté en 1959 une loi très favorable aux centrales nucléaires. L’un des principaux arguments de la campagne fut que les centrales nucléaires permettraient de <i class="i">supprimer des dizaines de milliers d’emplois</i>, en accroissant l’automation. (On manquait alors de main-d’œuvre.) Dix ans plus tard on plaide l’inverse, cyniquement : cesser de construire les centrales serait créer du chômage, nous dit-on… « Qui oserait en prendre la responsabilité ? » répètent certains journaux et ceux qui les financent.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Le peuple suisse a adopté en 1959 une loi très favorable aux centrales nucléaires. L’un des principaux arguments de la campagne fut que les centrales nucléaires permettraient de <i class="i">supprimer des dizaines de milliers d’emplois</i>, en accroissant l’automation. (On manquait alors de main-d’œuvre.) Dix ans plus tard on plaide l’inverse, cyniquement : cesser de construire les centrales serait créer du chômage, nous dit-on… « Qui oserait en prendre la responsabilité ? » répètent certains journaux et ceux qui les financent.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb89">p. 89</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>« Il est essentiel que les centrales nucléaires à construire soient peu nombreuses, donc de grande taille, implantées sur des sites <i class="i">ad hoc</i> et <i class="i">exploitées de façon quasi militaire</i>. » Déclaration de M. Jean-Claude Leny, directeur général de « Framatome », société qui assure en France la construction des centrales PWR sous licence Westinghouse. (Revue <i class="i">Investir</i>, 24 mars 1975.)</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>« Il est essentiel que les centrales nucléaires à construire soient peu nombreuses, donc de grande taille, implantées sur des sites <i class="i">ad hoc</i> et <i class="i">exploitées de façon quasi militaire</i>. » Déclaration de M. Jean-Claude Leny, directeur général de « Framatome », société qui assure en France la construction des centrales PWR sous licence Westinghouse. (Revue <i class="i">Investir</i>, 24 mars 1975.)</aside>
                       </div>
                     </section>
                   </article>
@@ -1081,50 +1197,50 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
                     <li class="here">
                       <a href="#">2. L’énergie</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">I. État de la question</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-1-1">Critique des données mêmes du problème</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">II. Les solutions alternatives</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">III. Solutions à l’échelle du continent</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -1138,10 +1254,39 @@
     <page path="/livres/ddr1979rpe/5" name="3. L’environnement" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 3. L’environnement</value>
+          <value>3. L’environnement (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. L’environnement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1150,7 +1295,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">3. L’environnement<a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2 level2">
                       <h2 class="head">I. Le souci écologiste<a class="bookmark" href="5#body-5-1"> §</a></h2>
@@ -1271,32 +1416,32 @@
                         <div class="b note-page">
                           <a href="5#pb94">p. 94</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="5#note18_">18. </a><i class="i">État de l’environnement 1975</i>, Programme des Nations unies pour l’environnement, p. 13 (English Text. p. 12).</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="5#note18_">18. </a><i class="i">État de l’environnement 1975</i>, Programme des Nations unies pour l’environnement, p. 13 (English Text. p. 12).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb95">p. 95</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="5#note19_">19. </a>Robert <span class="sc">Allen</span>, « Vers une stratégie de l’écologie pour l’Europe », in <i class="i">La Promesse du XX<sup class="sup">e</sup> siècle</i>, Table ronde du Conseil de l’Europe, 1974.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="5#note19_">19. </a>Robert <span class="sc">Allen</span>, « Vers une stratégie de l’écologie pour l’Europe », in <i class="i">La Promesse du XX<sup class="sup">e</sup> siècle</i>, Table ronde du Conseil de l’Europe, 1974.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb97">p. 97</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a><i class="i">États de l’environnement</i>, 1977, ONU.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a><i class="i">États de l’environnement</i>, 1977, ONU.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb98">p. 98</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="5#note21_">21. </a>Les combustibles fossiles (charbon, pétrole, gaz) représentent 90 % de l’énergie utilisée dans le monde entier, le bois 6 % seulement. Mais dans l’ensemble du tiers monde, le bois représente 28 %. Et dans les pays africains au sud du Sahara : 75 % !</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="5#note21_">21. </a>Les combustibles fossiles (charbon, pétrole, gaz) représentent 90 % de l’énergie utilisée dans le monde entier, le bois 6 % seulement. Mais dans l’ensemble du tiers monde, le bois représente 28 %. Et dans les pays africains au sud du Sahara : 75 % !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb102">p. 102</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Mers, fleuves, lacs, nappes phréatiques ; produits alimentaires exportés-importés ; et toutes les pollutions que les frontières n’arrêtent pas.</aside>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>« Excursions » dans les centrales nucléaires proches d’une frontière : 16 centrales autour du coude du Rhin à Bâle, et surgénérateur de Creys-Malville, à 70 km de Genève (sous le vent) et à 30 km de Lyon.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Mers, fleuves, lacs, nappes phréatiques ; produits alimentaires exportés-importés ; et toutes les pollutions que les frontières n’arrêtent pas.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>« Excursions » dans les centrales nucléaires proches d’une frontière : 16 centrales autour du coude du Rhin à Bâle, et surgénérateur de Creys-Malville, à 70 km de Genève (sous le vent) et à 30 km de Lyon.</aside>
                       </div>
                     </section>
                   </article>
@@ -1313,64 +1458,64 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
                     <li class="here">
                       <a href="#">3. L’environnement</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">I. Le souci écologiste</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-1-1">Réaction à l’agression industrielle</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-1-2">Dangers signalés par l’écologie</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">II. Nature des obstacles aux mesures requises</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">III. Solutions européennes</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-3-1">Les liens entre Économie, Énergie et Écologie</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-3-2">De l’énergie aux Régions par l’écologie</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-3-3">Changer de cap</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -1384,10 +1529,39 @@
     <page path="/livres/ddr1979rpe/6" name="4. Les Régions" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 4. Les Régions</value>
+          <value>4. Les Régions (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. Les Régions"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1396,7 +1570,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb111" id="pb111">[p. 111]</a>
                     <h1 class="head chapter">4. Les Régions<a class="bookmark" href="6"> §</a></h1>
                     <section id="body-6-1" class="div level2 level2">
@@ -1554,33 +1728,33 @@
                         <div class="b note-page">
                           <a href="6#pb115">p. 115</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="6#note24_">24. </a>Le français imposé à l’Occitanie des troubadours n’était encore qu’une langue militaire, non littéraire. Plus tard, l’ethnie conquérante qualifiera de « dialectes » les langues souvent plus anciennes et plus riches des « nations conquises ». <i class="i">Qu’est-ce qu’une langue ? C’est un dialecte plus une armée</i>, disait W. Sombart.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="6#note24_">24. </a>Le français imposé à l’Occitanie des troubadours n’était encore qu’une langue militaire, non littéraire. Plus tard, l’ethnie conquérante qualifiera de « dialectes » les langues souvent plus anciennes et plus riches des « nations conquises ». <i class="i">Qu’est-ce qu’une langue ? C’est un dialecte plus une armée</i>, disait W. Sombart.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb121">p. 121</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="6#note25_">25. </a>Derrière les pudeurs du langage diplomatique européen, toujours obsédé par le respect religieux des souverainetés nationales absolues, et qui tient toute tendance fédéraliste pour <i class="i">indécente</i>, il faut entendre par « confrontation » coopération et par « régions frontalières » régions transfrontalières. C’est ainsi que l’ont compris jusqu’ici les participants aux rencontres qui ont suivi celle de 1972 : Innsbruck 1974, Galway 1976, Bordeaux 1978.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="6#note25_">25. </a>Derrière les pudeurs du langage diplomatique européen, toujours obsédé par le respect religieux des souverainetés nationales absolues, et qui tient toute tendance fédéraliste pour <i class="i">indécente</i>, il faut entendre par « confrontation » coopération et par « régions frontalières » régions transfrontalières. C’est ainsi que l’ont compris jusqu’ici les participants aux rencontres qui ont suivi celle de 1972 : Innsbruck 1974, Galway 1976, Bordeaux 1978.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb127">p. 127</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="6#note26_">26. </a>Guy <span class="sc">Héraud</span>, <i class="i">L’Europe en formation</i>, oct.-nov. 1975.</aside>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="6#note27_">27. </a>Th. <span class="sc">Fälldin</span>, Premier ministre suédois, in <i class="i">Le Monde</i> du 7 décembre 1976.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="6#note26_">26. </a>Guy <span class="sc">Héraud</span>, <i class="i">L’Europe en formation</i>, oct.-nov. 1975.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="6#note27_">27. </a>Th. <span class="sc">Fälldin</span>, Premier ministre suédois, in <i class="i">Le Monde</i> du 7 décembre 1976.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb128">p. 128</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="6#note28_">28. </a>Helmut <span class="sc">Schmidt</span>, <i class="i">Discours devant l’Assemblée du Conseil de l’Europe</i>, Strasbourg, avril 1978.</aside>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Cf. Alain <span class="sc">Peyrefitte</span>, <i class="i">Le Mal français</i>, Paris, 1977.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="6#note28_">28. </a>Helmut <span class="sc">Schmidt</span>, <i class="i">Discours devant l’Assemblée du Conseil de l’Europe</i>, Strasbourg, avril 1978.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Cf. Alain <span class="sc">Peyrefitte</span>, <i class="i">Le Mal français</i>, Paris, 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb129">p. 129</a>
                         </div>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a><i class="i">The Ecologist</i>, special on the<i class="i"> Future of America</i>, sept. 1977.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a><i class="i">The Ecologist</i>, special on the<i class="i"> Future of America</i>, sept. 1977.</aside>
                       </div>
                     </section>
                   </article>
@@ -1597,67 +1771,67 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
                     <li class="here">
                       <a href="#">4. Les Régions</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-1">I. Émergence du problème</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-1-1">Naissance simultanée des Régions et de la Fédération européenne</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-1-2">Revendications et motivations</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-1-3">Ce qui a été fait jusqu’ici</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2">II. Crise de l’État centraliste</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-3">III. Solutions européennes</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-3-1">Repartir d’en bas</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-3-2">Progrès, parfois spectaculaires</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="6#body-6-3-3">Conditions requises</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -1671,10 +1845,39 @@
     <page path="/livres/ddr1979rpe/7" name="5. La défense de l’Europe" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 5. La défense de l’Europe</value>
+          <value>5. La défense de l’Europe (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. La défense de l’Europe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1683,7 +1886,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">5. La défense de l’Europe<a class="bookmark" href="7"> §</a></h1>
                     <section id="body-7-1" class="div level2 level2">
                       <h2 class="head">I. État de la question<a class="bookmark" href="7#body-7-1"> §</a></h2>
@@ -1806,43 +2009,43 @@
                     </section>
                     <section class="footnotes">
                       <div class="page">
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="7#note31_">31. </a>La droite nationaliste ne veut pas accepter de « dépendre des Américains », tout en comptant sur leur aide ; la gauche a peur d’irriter les maîtres de l’URSS, tout en sachant que d’eux viendrait le seul danger.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="7#note31_">31. </a>La droite nationaliste ne veut pas accepter de « dépendre des Américains », tout en comptant sur leur aide ; la gauche a peur d’irriter les maîtres de l’URSS, tout en sachant que d’eux viendrait le seul danger.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb138">p. 138</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="7#note32_">32. </a>Europe de l’Ouest : <i class="i">395 millions</i>. — URSS : 260 millions, plus Europe de l’Est : 128 millions, total : 388 millions.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="7#note32_">32. </a>Europe de l’Ouest : <i class="i">395 millions</i>. — URSS : 260 millions, plus Europe de l’Est : 128 millions, total : 388 millions.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb140">p. 140</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="7#note33_">33. </a>Général Robert <span class="sc">R. Close</span>, <i class="i">L’Europe sans défense</i> ?, Éditions Arts et Voyages, Bruxelles, 1977.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="7#note33_">33. </a>Général Robert <span class="sc">R. Close</span>, <i class="i">L’Europe sans défense</i> ?, Éditions Arts et Voyages, Bruxelles, 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb142">p. 142</a>
                         </div>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="7#note34_">34. </a>Interview du général <span class="sc">Steinhoff</span>, in <i class="i">Construire</i>, du 29 juin 1977, Lausanne.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="7#note34_">34. </a>Interview du général <span class="sc">Steinhoff</span>, in <i class="i">Construire</i>, du 29 juin 1977, Lausanne.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb143">p. 143</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="7#note35_">35. </a>Densité de la population au kilomètre carré : en URSS 11, en Europe de l’Ouest 127.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="7#note35_">35. </a>Densité de la population au kilomètre carré : en URSS 11, en Europe de l’Ouest 127.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb144">p. 144</a>
                         </div>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="7#note36_">36. </a>À l’exception de la bombe à neutrons tactique, utilisée contre les chars.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="7#note36_">36. </a>À l’exception de la bombe à neutrons tactique, utilisée contre les chars.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb147">p. 147</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="7#note37_">37. </a>Dans une première phase, où les États-nations existeraient encore seuls et absolus (par leurs prétentions au moins), la formule la plus simple serait de rendre les armements inversement proportionnels au quotient population-superficie d’un État. Ainsi l’URSS serait, par rapport à sa superficie et à sa densité de peuplement, moins armée que la Hollande. Mais cela n’est qu’une vue de l’esprit, possiblement éclairante.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="7#note37_">37. </a>Dans une première phase, où les États-nations existeraient encore seuls et absolus (par leurs prétentions au moins), la formule la plus simple serait de rendre les armements inversement proportionnels au quotient population-superficie d’un État. Ainsi l’URSS serait, par rapport à sa superficie et à sa densité de peuplement, moins armée que la Hollande. Mais cela n’est qu’une vue de l’esprit, possiblement éclairante.</aside>
                       </div>
                     </section>
                   </article>
@@ -1859,45 +2062,45 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
                     <li class="here">
                       <a href="#">5. La défense de l’Europe</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-1">I. État de la question</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-2">II. La crise</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-3">III. La défense de l’Europe sera l’œuvre des Européen eux-mêmes</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -1911,10 +2114,39 @@
     <page path="/livres/ddr1979rpe/8" name="6. L’Europe et le tiers monde" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 6. L’Europe et le tiers monde</value>
+          <value>6. L’Europe et le tiers monde (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. L’Europe et le tiers monde"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1923,7 +2155,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb149" id="pb149">[p. 149]</a>
                     <h1 class="head chapter">6. L’Europe et le tiers monde<a class="bookmark" href="8"> §</a></h1>
                     <section id="body-8-1" class="div level2 level2">
@@ -1988,7 +2220,7 @@
                         <div class="b note-page">
                           <a href="8#pb152">p. 152</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="8#note38_">38. </a>Jérôme <span class="sc">Deshusses</span>, <i class="i">Délivrez Prométhée</i>, Paris, 1978, d’après Gordon Rattray Taylor, <i class="fr i" lang="fr">The Doomsday Book</i>, Londres, 1970.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="8#note38_">38. </a>Jérôme <span class="sc">Deshusses</span>, <i class="i">Délivrez Prométhée</i>, Paris, 1978, d’après Gordon Rattray Taylor, <i class="fr i" lang="fr">The Doomsday Book</i>, Londres, 1970.</aside>
                       </div>
                     </section>
                   </article>
@@ -2005,45 +2237,45 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
                     <li class="here">
                       <a href="#">6. L’Europe et le tiers monde</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-1">I. État des problèmes</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-2">II. La crise mondialisée</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-3">III. Pas d’entente féconde avec le tiers monde sans une union préalable entre les Européens</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -2057,10 +2289,39 @@
     <page path="/livres/ddr1979rpe/9" name="7. Programme pour les Européens" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) 7. Programme pour les Européens</value>
+          <value>7. Programme pour les Européens (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "7. Programme pour les Européens"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2069,7 +2330,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">7. Programme pour les Européens<a class="bookmark" href="9"> §</a></h1>
                     <section id="body-9-1" class="div level3 level2">
                       <h2 class="head">L’Europe n’est pas un parti<a class="bookmark" href="9#body-9-1"> §</a></h2>
@@ -2164,13 +2425,13 @@
                         <div class="b note-page">
                           <a href="9#pb164">p. 164</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="9#note39_">39. </a>Exemple : Les gouvernements des Neuf et la Commission de la CEE peuvent tenir tous les discours qu’ils jugent opportuns sur l’intérêt tout à fait particulier, à leurs yeux, des énergies nouvelles et notamment de l’énergie solaire : quand on apprend que le budget 1978 accorde 66 millions d’unités de compte aux recherches nucléaires, contre 6 millions d’unités de compte aux recherches sur l’énergie solaire, chacun voit aussitôt ce qu’on veut en fait. Qui « on » ? La Commission qui a proposé ce budget, mais non moins le Parlement qui ne l’a pas modifié sur ce point.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="9#note39_">39. </a>Exemple : Les gouvernements des Neuf et la Commission de la CEE peuvent tenir tous les discours qu’ils jugent opportuns sur l’intérêt tout à fait particulier, à leurs yeux, des énergies nouvelles et notamment de l’énergie solaire : quand on apprend que le budget 1978 accorde 66 millions d’unités de compte aux recherches nucléaires, contre 6 millions d’unités de compte aux recherches sur l’énergie solaire, chacun voit aussitôt ce qu’on veut en fait. Qui « on » ? La Commission qui a proposé ce budget, mais non moins le Parlement qui ne l’a pas modifié sur ce point.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#pb168">p. 168</a>
                         </div>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="9#note40_">40. </a>De Guernesey, le 20 août 1878. Adresse à un meeting tenu à Paris par une association anglaise pour la Paix.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="9#note40_">40. </a>De Guernesey, le 20 août 1878. Adresse à un meeting tenu à Paris par une association anglaise pour la Paix.</aside>
                       </div>
                     </section>
                   </article>
@@ -2187,54 +2448,54 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
                     <li class="here">
                       <a href="#">7. Programme pour les Européens</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-1">L’Europe n’est pas un parti</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-2">Personne n’ose se dire contre l’union</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-3">Qu’avons-nous proposé dans ces pages ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-4">Que feront de ces propositions les députés que vous aurez élus ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-5">Confédération ou fédération ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="9#body-9-6">Vous déciderez</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Annexes</a>
                     </li>
                   </ul>
@@ -2248,10 +2509,39 @@
     <page path="/livres/ddr1979rpe/10" name="Annexes" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Rapport au peuple européen sur l’état de l’union de l’Europe (1979) Annexes</value>
+          <value>Annexes (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Annexes"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2260,7 +2550,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb169" id="pb169">[p. 169]</a>
                     <h1 class="head chapter">Annexes<a class="bookmark" href="10"> §</a></h1>
                     <section id="body-10-1" class="div level2 level2">
@@ -2545,7 +2835,7 @@
                         <div class="b note-page">
                           <a href="10#pb171">p. 171</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="10#note41_">41. </a>Source : <i class="i">Eurobaromètre</i> (édit. par la Commission de la CEE, Bruxelles), n° 10, janvier 1979.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="10#note41_">41. </a>Source : <i class="i">Eurobaromètre</i> (édit. par la Commission de la CEE, Bruxelles), n° 10, janvier 1979.</aside>
                       </div>
                     </section>
                   </article>
@@ -2562,65 +2852,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Introduction</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">1. L’économie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">2. L’énergie</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">3. L’environnement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">4. Les Régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">5. La défense de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">6. L’Europe et le tiers monde</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">7. Programme pour les Européens</a>
                     </li>
                     <li class="here">
                       <a href="#">Annexes</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-1">Annexe 1. Attitudes à l’égard de l’élection du Parlement européen</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-1-1">1. Intérêt pour la CEE</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-1-2">2. Intérêt pour l’élection du Parlement européen</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-1-3">3. Identité :rester soi-même</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-1-4">4. Solidarité : disposition à faire des sacrifices pour d’autres pays</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-2">Annexe 2. Inflation et chômage</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-2-1">Inflation</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="10#body-10-2-2">Chômage</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="10#body-10-3">Annexe 3. Évolution vers les Régions</a>
                         </li>
                       </ul>

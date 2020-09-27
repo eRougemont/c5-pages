@@ -4,10 +4,39 @@
     <page path="/livres/ddr1946lba1/1" name="Note de l’éditeur" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) Note de l’éditeur — Présentation</value>
+          <value>Note de l’éditeur (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Note de l’éditeur"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
                     <h1 class="head chapter">Note de l’éditeur<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Le lecteur trouvera en tête du dernier ouvrage de Denis de Rougemont publié en <i class="i">1944</i> par les <i class="i"><span class="sc">éditions françaises Brentano’s</span>, La Part du Diable, nouvelle version</i>, une notice sur l’auteur et son œuvre.</p>
@@ -32,7 +61,7 @@
                         <div class="b note-page">
                           <a href="1#p11">p. 11</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>André <span class="sc">Breton</span>, <i class="i">Le Surréalisme et la Peinture</i>, Brentano’s, 1945.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>André <span class="sc">Breton</span>, <i class="i">Le Surréalisme et la Peinture</i>, Brentano’s, 1945.</aside>
                       </div>
                     </section>
                   </article>
@@ -52,62 +81,62 @@
                     <li class="here">
                       <a href="#">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -117,13 +146,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/2" name="I. La nouvelle" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/2" name="1. La nouvelle" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) I. La nouvelle</value>
+          <value>1. La nouvelle (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. La nouvelle"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -132,9 +190,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p15" id="p15">[p. 15]</a>
-                    <h1 class="head chapter"><span class="num">I</span><br class="lb"/>La nouvelle<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head kicker chapter">I</h1>
+                    <h1 class="head chapter">La nouvelle<a class="bookmark" href="2"> §</a></h1>
                     <a class="pb" href="#p17" id="p17">[p. 17]</a>
                     <div class="dateline">Lake George (N. Y.), le 8 août 1945.</div>
                     <p class="p autofirst">Je vous écris des bords d’un lac où vit encore, au plus secret des bois, l’esprit d’Œil de Faucon et du Dernier des Mohicans. L’onde en est bleue comme dans mes souvenirs des lacs de Suisse et du Tyrol. La grande galerie ouverte où je suis installé, à l’ombre d’un rideau de pins qui sépare seul la maison du rivage, domine une jetée de bois, où parfois vient accoster en silence un canoë dont la rameuse est lasse. Vous ne sauriez imaginer lumière plus heureuse, ni plus paisible espace. Il paraît qu’il faisait ce temps-là, l’autre jour, à Hiroshima.</p>
@@ -172,65 +231,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">I</span>.  La nouvelle</a>
+                      <a href="#">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -240,13 +299,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/3" name="II. La guerre est morte" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/3" name="2. La guerre est morte" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) II. La guerre est morte</value>
+          <value>2. La guerre est morte (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. La guerre est morte"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -255,9 +343,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p23" id="p23">[p. 23]</a>
-                    <h1 class="head chapter"><span class="num">II</span><br class="lb"/>La guerre est morte<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">II</h1>
+                    <h1 class="head chapter">La guerre est morte<a class="bookmark" href="3"> §</a></h1>
                     <a class="pb" href="#p25" id="p25">[p. 25]</a>
                     <div class="dateline">Lake George (N. Y.), le 12 août 1945.</div>
                     <p class="p autofirst">On nous parle d’armistice depuis hier. Est-ce encore une de ces fausses nouvelles comme cette guerre en a vu tant, qui ne font qu’anticiper d’un ou deux jours sur la réalité ? La libération de Paris a été fêtée un soir à New York, démentie le lendemain, confirmée quelques jours plus tard. Effet manqué. C’était pourtant, d’une manière symbolique, la date capitale de la guerre. De même la victoire en Europe nous fut annoncée en deux temps, laissant la foule de Times Square perplexe. Cela n’est pas sans conséquences pour le moral de la population. Rien de plus malsain que de couper court à un élan de soulagement collectif, après des années de discipline et de souci. L’explosion vitale et délirante qui devait marquer la fin d’une ère, a fait long feu. On dit que les accidents de ce genre, dans divers ordres, sont souvent l’origine d’une névrose…</p>
@@ -291,65 +380,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">II</span>.  La guerre est morte</a>
+                      <a href="#">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -359,13 +448,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/4" name="III. Le point de vue moral" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/4" name="3. Le point de vue moral" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) III. Le point de vue moral</value>
+          <value>3. Le point de vue moral (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Le point de vue moral"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -374,9 +492,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p31" id="p31">[p. 31]</a>
-                    <h1 class="head chapter"><span class="num">III</span><br class="lb"/>Le point de vue moral<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">III</h1>
+                    <h1 class="head chapter">Le point de vue moral<a class="bookmark" href="4"> §</a></h1>
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
                     <div class="dateline">New York, fin septembre 1945.</div>
                     <p class="p autofirst">J’ai quitté les bords de mon lac. J’ai perdu cette lenteur et ce silence aimés. Je doute de les retrouver jamais dans cet « âge atomique » dont tout le monde parle. Est-ce que la paix serait morte en même temps que la guerre ?</p>
@@ -412,65 +531,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">III</span>.  Le point de vue moral</a>
+                      <a href="#">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -480,13 +599,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/5" name="IV. Utopies" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/5" name="4. Utopies" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) IV. Utopies</value>
+          <value>4. Utopies (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. Utopies"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -495,9 +643,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p37" id="p37">[p. 37]</a>
-                    <h1 class="head chapter"><span class="num">IV</span><br class="lb"/>Utopies<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">IV</h1>
+                    <h1 class="head chapter">Utopies<a class="bookmark" href="5"> §</a></h1>
                     <a class="pb" href="#p39" id="p39">[p. 39]</a>
                     <div class="dateline">New York, 3 octobre 1945.</div>
                     <p class="p autofirst">Allons-y, et imaginons ! Voici la base scientifique et officielle de quelques idées folles que je conçois.</p>
@@ -531,7 +680,7 @@
                         <div class="b note-page">
                           <a href="5#p40">p. 40</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="5#note2_">2. </a>« Plaise aux dieux que je meure conscient. »</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="5#note2_">2. </a>« Plaise aux dieux que je meure conscient. »</aside>
                       </div>
                     </section>
                   </article>
@@ -548,65 +697,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">IV</span>.  Utopies</a>
+                      <a href="#">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -616,13 +765,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/6" name="V. Ni secret, ni défense" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/6" name="5. Ni secret, ni défense" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) V. Ni secret, ni défense</value>
+          <value>5. Ni secret, ni défense (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. Ni secret, ni défense"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -631,9 +809,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p47" id="p47">[p. 47]</a>
-                    <h1 class="head chapter"><span class="num">V</span><br class="lb"/>Ni secret, ni défense<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">V</h1>
+                    <h1 class="head chapter">Ni secret, ni défense<a class="bookmark" href="6"> §</a></h1>
                     <a class="pb" href="#p49" id="p49">[p. 49]</a>
                     <div class="dateline">New York, 10 octobre 1945.</div>
                     <p class="p autofirst">Les hommes d’État, les généraux, et quelques vulgarisateurs en mal d’idées, ont trouvé deux moyens d’esquiver la question posée par la bombe atomique. Ils essaient d’enchaîner le monstre avec des agrafes de dossiers : c’est un secret que nous garderons, c’est un dépôt sacré, disent-ils. Et sans l’avis d’aucun savant autorisé, ils parlent de défenses possibles, si toutefois on leur laisse le commandement.</p>
@@ -667,65 +846,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">V</span>.  Ni secret, ni défense</a>
+                      <a href="#">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -735,13 +914,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/7" name="VI. Le savant et le général" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/7" name="6. Le savant et le général" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) VI. Le savant et le général</value>
+          <value>6. Le savant et le général (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. Le savant et le général"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -750,9 +958,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p55" id="p55">[p. 55]</a>
-                    <h1 class="head chapter"><span class="num">VI</span><br class="lb"/>Le savant et le général<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head kicker chapter">VI</h1>
+                    <h1 class="head chapter">Le savant et le général<a class="bookmark" href="7"> §</a></h1>
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
                     <div class="dateline">Princeton (N. J.) le 21 octobre 1945.</div>
                     <p class="p autofirst">À une heure de New York, à Princeton où je suis en train de m’installer, tout respire une paix claustrale. Les bâtiments de l’Université, en style néo-gothique d’Oxford, dernier confort, s’espacent dans des parcs dont l’automne encore tiède glorifie le luxe songeur. C’est dans ce cadre trop parfait, cette ambiance d’innocence, de sports et d’ombres vertes, que vivent et pensent quelques-uns des esprits qui auront le plus contribué à transformer la condition du siècle. Hier soir, au cinéma, un <i class="i">hello</i> derrière moi, et c’était l’un des as du très petit groupe de mathématiciens et de physiciens qui a mis au point la bombe atomique. Tout à l’heure, devant ma fenêtre, un homme en sweater bleu et pantalon de flanelle passait les cheveux au vent — deux belles touffes blanches en désordre « génial » — et c’était l’un de mes voisins, Albert Einstein, le patriarche du nouvel âge, le Moïse de la Terre atomique. Il passe ainsi chaque jour, vers 11 heures du matin. Quand il fait froid il porte un manteau noir. Sa chevelure m’indique la direction du vent, et son 
@@ -788,65 +997,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">VI</span>.  Le savant et le général</a>
+                      <a href="#">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -856,13 +1065,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/8" name="VII. Tout est changé, personne ne bouge" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/8" name="7. Tout est changé, personne ne bouge" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) VII. Tout est changé, personne ne bouge</value>
+          <value>7. Tout est changé, personne ne bouge (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "7. Tout est changé, personne ne bouge"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -871,9 +1109,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p63" id="p63">[p. 63]</a>
-                    <h1 class="head chapter"><span class="num">VII</span><br class="lb"/>Tout est changé, personne ne bouge<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head kicker chapter">VII</h1>
+                    <h1 class="head chapter">Tout est changé, personne ne bouge<a class="bookmark" href="8"> §</a></h1>
                     <a class="pb" href="#p65" id="p65">[p. 65]</a>
                     <div class="dateline">Princeton (N. J.) le 28 octobre 1945.</div>
                     <p class="p autofirst">Vos objections à ma thèse sur l’armée et la mort de la guerre militaire, m’obligent à vous demander de relire mes lettres. J’avais tout réfuté d’avance. Mais je m’aperçois que votre attitude est plus sentimentale que réaliste, et qu’en vertu de cette disposition, c’est le ton de ma correspondance qui a seul agi sur vous, et non mes arguments.</p>
@@ -906,65 +1145,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                      <a href="#">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -974,13 +1213,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/9" name="VIII. Un salon atomique" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/9" name="8. Un salon atomique" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) VIII. Un salon atomique</value>
+          <value>8. Un salon atomique (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "8. Un salon atomique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -989,9 +1257,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p69" id="p69">[p. 69]</a>
-                    <h1 class="head chapter"><span class="num">VIII</span><br class="lb"/>Un salon atomique<a class="bookmark" href="9"> §</a></h1>
+                    <h1 class="head kicker chapter">VIII</h1>
+                    <h1 class="head chapter">Un salon atomique<a class="bookmark" href="9"> §</a></h1>
                     <a class="pb" href="#p71" id="p71">[p. 71]</a>
                     <div class="dateline">Washington, le 2 novembre 1945.</div>
                     <p class="p autofirst">Cette capitale qui ne fait partie d’aucun des États de l’Union m’a toujours paru peu réelle : c’est comme une ville d’exposition qu’on aurait décidé de ne pas détruire. Je m’y perds régulièrement, cherchant d’un œil anxieux l’Obélisque, qui n’est même pas au centre. Faut-il vous donner toute la mesure du désespoir qui fond sur moi dès que je suis à Washington ? Je vous avouerai que je m’y réfugie dans les salons.</p>
@@ -1027,65 +1296,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">VIII</span>.  Un salon atomique</a>
+                      <a href="#">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1095,13 +1364,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/10" name="IX. Paralysie des hommes d’État" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/10" name="9. Paralysie des hommes d’État" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) IX. Paralysie des hommes d’État</value>
+          <value>9. Paralysie des hommes d’État (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "9. Paralysie des hommes d’État"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1110,9 +1408,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p77" id="p77">[p. 77]</a>
-                    <h1 class="head chapter"><span class="num">IX</span><br class="lb"/>Paralysie des hommes d’État<a class="bookmark" href="10"> §</a></h1>
+                    <h1 class="head kicker chapter">IX</h1>
+                    <h1 class="head chapter">Paralysie des hommes d’État<a class="bookmark" href="10"> §</a></h1>
                     <a class="pb" href="#p79" id="p79">[p. 79]</a>
                     <div class="dateline">Washington, le 10 novembre 1945.</div>
                     <p class="p autofirst">Notre monde du milieu du <span class="num">xx<sup class="sup">e</sup></span> siècle est gouverné par ceux qu’on nomme les Trois Grands. Ils se composent d’un loup déguisé en mouton et de deux moutons vêtus de leur vraie peau. C’est donc au nom du Petit Père, et du Brave Garçon, et de l’Esprit bourgeois, que la Bombe doit être administrée. Notez que si elle ne l’est pas, quelqu’un va nous l’administrer. L’alternative est entre ces deux sens du verbe. Et soudain je me demande pourquoi ces trois messieurs paraissent impuissants à décréter les moyens d’une paix pourtant facile à concevoir.</p>
@@ -1148,65 +1447,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                      <a href="#">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1216,13 +1515,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/11" name="X. La tâche politique du siècle" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/11" name="10. La tâche politique du siècle" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) X. La tâche politique du siècle</value>
+          <value>10. La tâche politique du siècle (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "10. La tâche politique du siècle"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1231,10 +1559,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p85" id="p85">[p. 85]</a>
-                    <h1 class="head chapter"><span class="num">X</span>.
-          <br class="lb"/>La tâche politique du siècle<a class="bookmark" href="11"> §</a></h1>
+                    <h1 class="head kicker chapter">X.</h1>
+                    <h1 class="head chapter">La tâche politique du siècle<a class="bookmark" href="11"> §</a></h1>
                     <a class="pb" href="#p87" id="p87">[p. 87]</a>
                     <div class="dateline">Princeton (N. J.), le 15 novembre 1945.</div>
                     <p class="p autofirst">Comme la paix, chère amie, serait monotone, s’il n’y avait pas les menaces de guerre ! Et que ferions-nous sans la Bombe ?</p>
@@ -1272,65 +1600,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">X</span>.   La tâche politique du siècle</a>
+                      <a href="#">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1340,13 +1668,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/12" name="XI. Tous démocrates" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/12" name="11. Tous démocrates" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XI. Tous démocrates</value>
+          <value>11. Tous démocrates (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "11. Tous démocrates"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1355,9 +1712,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p91" id="p91">[p. 91]</a>
-                    <h1 class="head chapter"><span class="num">XI</span><br class="lb"/>Tous démocrates<a class="bookmark" href="12"> §</a></h1>
+                    <h1 class="head kicker chapter">XI</h1>
+                    <h1 class="head chapter">Tous démocrates<a class="bookmark" href="12"> §</a></h1>
                     <a class="pb" href="#p93" id="p93">[p. 93]</a>
                     <div class="dateline">New York, le 20 novembre 1945.</div>
                     <p class="p autofirst">Vous n’avez pas donné dans le piège. Vous me répondez avec sérénité que l’Europe est prête à faire le bien, mais que des propositions aussi simplistes que la mienne méritent au mieux un sourire indulgent. « L’Amérique vous a contaminé » ajoutez-vous moins poliment. Et je relève dans votre lettre les termes attendus d’« idéalisme », d’« optimisme béat », de « fantaisies utopiques » et même de « <i class="i">ballyhoo</i> » (je vois qu’un gars de New York vous a donné des leçons de <i class="i">slang</i> !) qui caractérisent l’Amérique aux yeux des réalistes de l’Europe. (Mais pour autant, ils ne se font pas faute de dénoncer l’impérialisme des marchands et des industriels yankees. Ils se tirent de la contradiction en répétant : « hypocrisie anglo-saxonne ». Et les Yankees ripostent : « mauvaise foi latine ».)</p>
@@ -1395,65 +1753,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XI</span>.  Tous démocrates</a>
+                      <a href="#">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1463,13 +1821,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/13" name="XII. Les quatre libertés" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/13" name="12. Les quatre libertés" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XII. Les quatre libertés</value>
+          <value>12. Les quatre libertés (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "12. Les quatre libertés"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1478,9 +1865,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p99" id="p99">[p. 99]</a>
-                    <h1 class="head chapter"><span class="num">XII</span><br class="lb"/>Les quatre libertés<a class="bookmark" href="13"> §</a></h1>
+                    <h1 class="head kicker chapter">XII</h1>
+                    <h1 class="head chapter">Les quatre libertés<a class="bookmark" href="13"> §</a></h1>
                     <a class="pb" href="#p101" id="p101">[p. 101]</a>
                     <div class="dateline">New York, le 24 novembre 1945.</div>
                     <p class="p autofirst">Puisque j’ai pris une espèce d’habitude de vous entretenir des lieux-communs qui enchantent notre âge, comme la Bombe, la Guerre et la Paix, la Démocratie et le Gouvernement du Monde, vous ne m’en voudrez pas de revenir aujourd’hui sur le thème des Quatre Libertés. Sans doute vous autres réalistes européens jugerez-vous le sujet bien démodé : vous avez l’esprit si rapide, si vite occupé d’autre chose. Et l’Amérique a la mémoire si courte : cela produit parfois les mêmes effets… Les Quatre Libertés n’en furent pas moins le but de guerre idéal des Nations unies, comme elles restent l’idéal officiel de la paix. Mais j’ai remarqué qu’assez peu de personnes sont capables de les énumérer. Il semble qu’on se soit battu pour quelque chose qui n’était pas trop clair, ni bien facile à retenir dans l’esprit… Vous rappelez-vous ? C’était Roosevelt qui les avait énoncées le premier au début de 1942 dans son discours sur l’état de l’Union : <i class="i">freedom of speech, freedom of religion, freedom from want, freedom from fear</i>, ce qui se traduit un 
@@ -1520,65 +1908,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XII</span>.  Les quatre libertés</a>
+                      <a href="#">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1588,13 +1976,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/14" name="XIII. La pensée planétaire" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/14" name="13. La pensée planétaire" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XIII. La pensée planétaire</value>
+          <value>13. La pensée planétaire (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "13. La pensée planétaire"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1603,9 +2020,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p107" id="p107">[p. 107]</a>
-                    <h1 class="head chapter"><span class="num">XIII</span><br class="lb"/>La pensée planétaire<a class="bookmark" href="14"> §</a></h1>
+                    <h1 class="head kicker chapter">XIII</h1>
+                    <h1 class="head chapter">La pensée planétaire<a class="bookmark" href="14"> §</a></h1>
                     <a class="pb" href="#p109" id="p109">[p. 109]</a>
                     <div class="dateline">New York, le 30 novembre 1945.</div>
                     <p class="p autofirst">…Que je n’ai pris de front presque aucun des problèmes ? (Vous pensiez, je le suppose, à la démocratie.) Et que je m’amuse à jeter des pelures d’orange sous les pas solennels des Lieux Communs ? Oui, chère amie. N’oubliez pas qu’ils risquent de nous écraser. Mais vos critiques ne sont jamais perdues pour moi. Elles reflètent fidèlement les « mouvements divers » que j’observe parfois dans le public d’aujourd’hui : car il se féminise rapidement. La légèreté l’inquiète, ne serait-elle pas cynique ? Le sérieux l’endort vite. Mais il respecte la technique, aveuglément. Et qui saura jamais pourquoi il s’écrie tout d’un coup : « Comme c’est profond ! » Dites-moi si tout cela n’est pas très femme ? Et maintenant je vous parlerai de la planète.</p>
@@ -1641,65 +2059,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XIII</span>.  La pensée planétaire</a>
+                      <a href="#">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1709,13 +2127,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/15" name="XIV. Problème curieux que pose le Gouvernement mondial" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/15" name="14. Problème curieux que pose le Gouvernement mondial" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XIV. Problème curieux que pose le Gouvernement mondial</value>
+          <value>14. Problème curieux que pose le Gouvernement mondial (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "14. Problème curieux que pose le Gouvernement mondial"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1724,9 +2171,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p117" id="p117">[p. 117]</a>
-                    <h1 class="head chapter"><span class="num">XIV</span><br class="lb"/>Problème curieux que pose le Gouvernement mondial<a class="bookmark" href="15"> §</a></h1>
+                    <h1 class="head kicker chapter">XIV</h1>
+                    <h1 class="head chapter">Problème curieux que pose le Gouvernement mondial<a class="bookmark" href="15"> §</a></h1>
                     <a class="pb" href="#p119" id="p119">[p. 119]</a>
                     <div class="dateline">Princeton (N. J.), le 6 décembre 1945.</div>
                     <p class="p autofirst">Vous me dites que ce n’est point par mauvaise volonté, mais que vous avez grand peine à vous représenter « pratiquement » un pouvoir mondial, et à vous en former une image convaincante. Voici comment j’explique, pour ma part, cette difficulté que nous éprouvons tous.</p>
@@ -1751,7 +2199,7 @@
                         <div class="b note-page">
                           <a href="15#p122">p. 122</a>
                         </div>
-                        <aside id="note3" class="note bottomnote">
+                        <aside id="note3" role="note" class="note bottomnote">
                           <a class="noteback" href="15#note3_">3. </a>
                           <a href="3#p25" title="3#p25">Voir page 25.</a>
                         </aside>
@@ -1771,65 +2219,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                      <a href="#">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1839,13 +2287,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/16" name="XV. L’État-nation" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/16" name="15. L’État-nation" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XV. L’État-nation</value>
+          <value>15. L’État-nation (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "15. L’État-nation"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1854,9 +2331,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p125" id="p125">[p. 125]</a>
-                    <h1 class="head chapter"><span class="num">XV</span><br class="lb"/>L’État-nation<a class="bookmark" href="16"> §</a></h1>
+                    <h1 class="head kicker chapter">XV</h1>
+                    <h1 class="head chapter">L’État-nation<a class="bookmark" href="16"> §</a></h1>
                     <a class="pb" href="#p127" id="p127">[p. 127]</a>
                     <div class="dateline">Princeton (N. J.), le 16 décembre 1945.</div>
                     <p class="p autofirst">Non, je n’en veux pas un instant à votre ami le colonel. Dites-lui que je respecte la cavalerie : elle a fait ses preuves sous Murat. Je ne parlais du poker qu’au figuré. Enfin, il semble qu’il n’ait rien compris… Mais revenons au <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
@@ -1896,65 +2374,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XV</span>.  L’État-nation</a>
+                      <a href="#">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1964,13 +2442,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/17" name="XVI. Le goût de la guerre" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/17" name="16. Le goût de la guerre" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XVI. Le goût de la guerre</value>
+          <value>16. Le goût de la guerre (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "16. Le goût de la guerre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1979,9 +2486,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p133" id="p133">[p. 133]</a>
-                    <h1 class="head chapter"><span class="num">XVI</span><br class="lb"/>Le goût de la guerre<a class="bookmark" href="17"> §</a></h1>
+                    <h1 class="head kicker chapter">XVI</h1>
+                    <h1 class="head chapter">Le goût de la guerre<a class="bookmark" href="17"> §</a></h1>
                     <a class="pb" href="#p135" id="p135">[p. 135]</a>
                     <div class="dateline">Princeton (N. J.), le 19 décembre 1945.</div>
                     <p class="p autofirst">Enfin ! Après quinze lettres nous y sommes. Je tiens l’aveu : « Que voulez-vous, j’aime l’armée ! » écrivez-vous.</p>
@@ -2031,65 +2539,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                      <a href="#">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2099,13 +2607,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/18" name="XVII. La fin du monde" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/18" name="17. La fin du monde" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XVII. La fin du monde</value>
+          <value>17. La fin du monde (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "17. La fin du monde"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2114,9 +2651,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p143" id="p143">[p. 143]</a>
-                    <h1 class="head chapter"><span class="num">XVII</span><br class="lb"/>La fin du monde<a class="bookmark" href="18"> §</a></h1>
+                    <h1 class="head kicker chapter">XVII</h1>
+                    <h1 class="head chapter">La fin du monde<a class="bookmark" href="18"> §</a></h1>
                     <a class="pb" href="#p145" id="p145">[p. 145]</a>
                     <div class="dateline">Princeton (N. J.), le 24 décembre 1945.</div>
                     <p class="p autofirst">Voulez-vous une nouvelle toute fraîche ? La fin du monde pourrait bien se produire avant la fin de l’an prochain. Je tiens ma petite information d’un physicien des plus remarquables. Il n’en fait pas de secret, mais ne la publiez pas : le colonel dirait encore que c’est « au moins prématuré ».</p>
@@ -2148,65 +2686,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XVII</span>.  La fin du monde</a>
+                      <a href="#">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2216,13 +2754,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/19" name="XVIII. La paix ou la mort" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/19" name="18. La paix ou la mort" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) XVIII. La paix ou la mort</value>
+          <value>18. La paix ou la mort (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "18. La paix ou la mort"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2231,9 +2798,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p149" id="p149">[p. 149]</a>
-                    <h1 class="head chapter"><span class="num">XVIII</span><br class="lb"/>La paix ou la mort<a class="bookmark" href="19"> §</a></h1>
+                    <h1 class="head kicker chapter">XVIII</h1>
+                    <h1 class="head chapter">La paix ou la mort<a class="bookmark" href="19"> §</a></h1>
                     <a class="pb" href="#p151" id="p151">[p. 151]</a>
                     <div class="dateline">Princeton (N. J.), fin d’année 1945.</div>
                     <p class="p autofirst">Notre monde est sans doute perdu, et c’est la raison de Noël. Dans cette nuit la plus longue de l’année, parce qu’il n’y avait plus qu’à désespérer, l’espoir est né. Démonstration d’une puissance indémontrable, et dont la touche ne saurait être enregistrée que par <i class="i">le tout</i> de l’homme qu’elle suscite : voilà pourquoi nos instruments, et nos fonctions mentales ou sensorielles en seront toujours incapables. Ce drôle de petit cri dans la paille m’indique tout autrement que les formules d’Einstein que notre univers est fini, et que les seuls messages d’espoir qui passent encore sont ceux qui vont de personne à personne. Me voici libéré de mes dernières craintes, et tout libre d’imaginer, de choisir et de m’orienter personnellement vers la paix ou la mort. Disposition favorable, je crois, à des réflexions réalistes.</p>
@@ -2273,65 +2841,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                      <a href="#">La paix ou la mort</a>
                     </li>
-                    <li>
-                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                    <li class="collateral">
+                      <a href="20"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2341,13 +2909,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946lba1/20" name="Appendice. Les cochons en uniforme – ou le nouveau déluge" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946lba1/20" name="Appendice. Les cochons en uniforme, ou le nouveau déluge" package="ddr1946lba1" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres sur la bombe atomique (1946) Appendice. Les cochons en uniforme – ou le nouveau déluge</value>
+          <value>Appendice. Les cochons en uniforme, ou le nouveau déluge (1946, Lettres sur la bombe atomique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres sur la bombe atomique (1946)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Appendice. Les cochons en uniforme, ou le nouveau déluge"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2356,7 +2953,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p159" id="p159">[p. 159]</a>
                     <h1 class="head chapter"><span class="sc">Appendice</span><br class="lb"/>Les cochons en uniforme
           <br class="lb"/>ou le nouveau déluge<a class="bookmark" href="20"> §</a></h1>
@@ -2386,65 +2983,65 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
-                    <li>
-                      <a href="2"><span class="num">I</span>.  La nouvelle</a>
+                    <li class="collateral">
+                      <a href="2">La nouvelle</a>
                     </li>
-                    <li>
-                      <a href="3"><span class="num">II</span>.  La guerre est morte</a>
+                    <li class="collateral">
+                      <a href="3">La guerre est morte</a>
                     </li>
-                    <li>
-                      <a href="4"><span class="num">III</span>.  Le point de vue moral</a>
+                    <li class="collateral">
+                      <a href="4">Le point de vue moral</a>
                     </li>
-                    <li>
-                      <a href="5"><span class="num">IV</span>.  Utopies</a>
+                    <li class="collateral">
+                      <a href="5">Utopies</a>
                     </li>
-                    <li>
-                      <a href="6"><span class="num">V</span>.  Ni secret, ni défense</a>
+                    <li class="collateral">
+                      <a href="6">Ni secret, ni défense</a>
                     </li>
-                    <li>
-                      <a href="7"><span class="num">VI</span>.  Le savant et le général</a>
+                    <li class="collateral">
+                      <a href="7">Le savant et le général</a>
                     </li>
-                    <li>
-                      <a href="8"><span class="num">VII</span>.  Tout est changé, personne ne bouge</a>
+                    <li class="collateral">
+                      <a href="8">Tout est changé, personne ne bouge</a>
                     </li>
-                    <li>
-                      <a href="9"><span class="num">VIII</span>.  Un salon atomique</a>
+                    <li class="collateral">
+                      <a href="9">Un salon atomique</a>
                     </li>
-                    <li>
-                      <a href="10"><span class="num">IX</span>.  Paralysie des hommes d’État</a>
+                    <li class="collateral">
+                      <a href="10">Paralysie des hommes d’État</a>
                     </li>
-                    <li>
-                      <a href="11"><span class="num">X</span>.   La tâche politique du siècle</a>
+                    <li class="collateral">
+                      <a href="11">La tâche politique du siècle</a>
                     </li>
-                    <li>
-                      <a href="12"><span class="num">XI</span>.  Tous démocrates</a>
+                    <li class="collateral">
+                      <a href="12">Tous démocrates</a>
                     </li>
-                    <li>
-                      <a href="13"><span class="num">XII</span>.  Les quatre libertés</a>
+                    <li class="collateral">
+                      <a href="13">Les quatre libertés</a>
                     </li>
-                    <li>
-                      <a href="14"><span class="num">XIII</span>.  La pensée planétaire</a>
+                    <li class="collateral">
+                      <a href="14">La pensée planétaire</a>
                     </li>
-                    <li>
-                      <a href="15"><span class="num">XIV</span>.  Problème curieux que pose le Gouvernement mondial</a>
+                    <li class="collateral">
+                      <a href="15">Problème curieux que pose le Gouvernement mondial</a>
                     </li>
-                    <li>
-                      <a href="16"><span class="num">XV</span>.  L’État-nation</a>
+                    <li class="collateral">
+                      <a href="16">L’État-nation</a>
                     </li>
-                    <li>
-                      <a href="17"><span class="num">XVI</span>.  Le goût de la guerre</a>
+                    <li class="collateral">
+                      <a href="17">Le goût de la guerre</a>
                     </li>
-                    <li>
-                      <a href="18"><span class="num">XVII</span>.  La fin du monde</a>
+                    <li class="collateral">
+                      <a href="18">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="19"><span class="num">XVIII</span>.  La paix ou la mort</a>
+                    <li class="collateral">
+                      <a href="19">La paix ou la mort</a>
                     </li>
                     <li class="here">
-                      <a href="#"><span class="sc">Appendice</span>.  Les cochons en uniforme  –  ou le nouveau déluge</a>
+                      <a href="#"><span class="sc">Appendice</span>.  Les cochons en uniforme,  ou le nouveau déluge</a>
                     </li>
                   </ul>
                 ]]></content>

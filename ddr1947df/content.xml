@@ -4,10 +4,39 @@
     <page path="/livres/ddr1947df/1" name="Orientation" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Orientation</value>
+          <value>Orientation (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Orientation"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p9" id="p9">[p. 9]</a>
                     <h1 class="head chapter">Orientation<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Les mythes racontent le réel comme un événement permanent. Et leurs fables illustrent les drames réguliers de la vie affective et spirituelle, c’est-à-dire proprement humaine, tandis que les équations de la physique traduisent les structures de l’énergie considérée comme objective. Ces deux approches du réel, l’une dramatique et l’autre statistique, me paraissent également valables. Mais il se peut que la seconde se ramène un beau jour à la première, dont elle serait un cas particulier.</p>
@@ -42,52 +71,52 @@
                     <li class="here">
                       <a href="#">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -98,13 +127,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/2" name="Premier dialogue sur la carte postale – La pluie et le beau temps" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/2" name="1. Premier dialogue sur la carte postale. La pluie et le beau temps" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Premier dialogue sur la carte postale – La pluie et le beau temps</value>
+          <value>1. Premier dialogue sur la carte postale. La pluie et le beau temps (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Premier dialogue sur la carte postale. La pluie et le beau temps"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -113,9 +171,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Premier dialogue sur la carte postale <br class="lb"/><i class="i">La pluie et le beau temps</i><a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Premier dialogue sur la carte postale
+          <br class="lb"/><i class="i">La pluie et le beau temps</i><a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst"><i class="i">Lord Artur</i>. Je voudrais vous poser une question, Sonnette. Une question assez grave. Une question qui signifie, en somme : êtes-vous un être capable d’aimer, ou seulement une apparence adorable ? Voici ma question : préférez-vous la pluie ou le beau temps ?</p>
                     <p class="p"><i class="i">Sonnette</i>. Vous êtes drôle. C’est moi qui fais la pluie et le beau temps !</p>
                     <p class="p"><i class="i">Lord Artur</i>. Certes, la réponse serait sage, si seulement vous saviez ce que vous dites. Mais, en vérité, que signifient pour vous le beau temps et la pluie ? Est-ce que c’est rire et pleurer ? Est-ce que c’est le bonheur et la tristesse ? Est-ce que vous préférez l’un à l’autre ?</p>
@@ -150,55 +209,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
                     <li class="here">
-                      <a href="#">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                      <a href="#">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -209,13 +268,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/3" name="Deuxième dialogue sur la carte postale – La beauté physique" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/3" name="2. Deuxième dialogue sur la carte postale. La beauté physique" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Deuxième dialogue sur la carte postale – La beauté physique</value>
+          <value>2. Deuxième dialogue sur la carte postale. La beauté physique (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Deuxième dialogue sur la carte postale. La beauté physique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -224,9 +312,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p15" id="p15">[p. 15]</a>
-                    <h1 class="head chapter">Deuxième dialogue sur la carte postale <br class="lb"/><i class="i">La beauté physique</i><a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">Deuxième dialogue sur la carte postale
+          <br class="lb"/><i class="i">La beauté physique</i><a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst"><i class="i">Un peintre, riant</i>, … et il disait en rajustant ses écailles oculaires de critique d’art : Ça n’est pas étonnant que votre <i class="i">Léda</i> en soit réduite à se faire aimer par son cygne. Quel homme voudrait d’une femme pareille ?</p>
                     <p class="p"><i class="i">Un mari</i>. Vous lui avez répondu ?…</p>
                     <p class="p"><i class="i">Le peintre</i>. Naturellement, je lui ai dit que mon cygne n’avait pas besoin de lunettes.</p>
@@ -290,7 +379,7 @@
                         <div class="b note-page">
                           <a href="3#p16">p. 16</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="3#note1_">1. </a>Le peintre fait ici allusion à une conversation au cours de laquelle le mari et lui se sont mis d’accord sur ce point : que la morale et l’esthétique ne sont pas deux réalités opposables, et qu’au sens plein de ces deux mots, on les peut employer l’un pour l’autre. Dans l’un et l’autre cas, il s’agit de savoir « ce qui convient ». Mais cette convenance embrasse-t-elle des images ou des existences ?</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="3#note1_">1. </a>Le peintre fait ici allusion à une conversation au cours de laquelle le mari et lui se sont mis d’accord sur ce point : que la morale et l’esthétique ne sont pas deux réalités opposables, et qu’au sens plein de ces deux mots, on les peut employer l’un pour l’autre. Dans l’un et l’autre cas, il s’agit de savoir « ce qui convient ». Mais cette convenance embrasse-t-elle des images ou des existences ?</aside>
                       </div>
                     </section>
                   </article>
@@ -307,55 +396,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
                     <li class="here">
-                      <a href="#">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                      <a href="#">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -366,13 +455,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/4" name="Troisième dialogue sur la carte postale – L’homme sans ressemblance" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/4" name="3. Troisième dialogue sur la carte postale. L’homme sans ressemblance" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Troisième dialogue sur la carte postale – L’homme sans ressemblance</value>
+          <value>3. Troisième dialogue sur la carte postale. L’homme sans ressemblance (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Troisième dialogue sur la carte postale. L’homme sans ressemblance"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -381,9 +499,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p25" id="p25">[p. 25]</a>
-                    <h1 class="head chapter">Troisième dialogue sur la carte postale <br class="lb"/><i class="i">L’homme sans ressemblance</i><a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">Troisième dialogue sur la carte postale
+          <br class="lb"/><i class="i">L’homme sans ressemblance</i><a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst"><i class="i">L’agent publicitaire</i>. Vous connaissez, Monsieur, sans aucun doute la série de portraits en couleurs que publient nos grands magazines : <i class="i">The Man of Distinction</i>, l’homme distingué. Je suis venu solliciter l’honneur de vous photographier pour cette série.</p>
                     <p class="p"><i class="i">X., une célébrité du jour</i>. Je suppose que je devrais m’asseoir dans un fauteuil, croiser les jambes, regarder l’objectif, et tenir à la main un grand verre de whiskey ?</p>
                     <p class="p"><i class="i">L’agent</i>. Précisément… Veuillez me permettre… Ces six bouteilles sont un présent de notre maison. Il y a longtemps que nous désirions vous voir, et seuls les nombreux déplacements que nécessite votre carrière…</p>
@@ -438,55 +557,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
                     <li class="here">
-                      <a href="#">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                      <a href="#">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -497,13 +616,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/5" name="Quatrième dialogue sur la carte postale – Ars prophetica – ou – D’un langage qui ne veut pas être clair" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/5" name="4. Quatrième dialogue sur la carte postale. Ars prophetica, ou. D’un langage qui ne veut pas être clair" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Quatrième dialogue sur la carte postale – Ars prophetica – ou – D’un langage qui ne veut pas être clair</value>
+          <value>4. Quatrième dialogue sur la carte postale. Ars prophetica, ou. D’un langage qui ne veut pas être clair (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. Quatrième dialogue sur la carte postale. Ars prophetica, ou. D’un langage qui ne veut pas être clair"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -512,9 +660,12 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
-                    <h1 class="head chapter">Quatrième dialogue sur la carte postale <br class="lb"/><i class="i">Ars prophetica <br class="lb"/>ou <br class="lb"/>D’un langage qui ne veut pas être clair</i><a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">Quatrième dialogue sur la carte postale
+          <br class="lb"/><i class="i">Ars prophetica
+            <br class="lb"/>ou
+            <br class="lb"/>D’un langage qui ne veut pas être clair</i><a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst"><i class="i">Un critique</i>. J’ai lu vos trois dialogues sur la Carte Postale, je les aime bien… Enfin il n’est pas exact que je les aime bien. Ils m’irritent et m’agacent. Mais je ne les oublie pas.</p>
                     <p class="p"><i class="i">L’auteur</i>. La mémoire des offenses est la plus sûre. Il me semble parfois qu’il n’est pas de louange préférable à celle-ci : qu’on me fasse grief de mes écrits. J’y voudrais voir la preuve d’une certaine grièveté qu’ils présentent, comme cela se dit d’une blessure…</p>
                     <p class="p"><i class="i">Le critique</i>. Oui, oui… Mais ne tirez pas argument d’une exagération de ma critique. Ce qui me gênait, je crois, c’est qu’à mon sens vous n’êtes pas encore assez clair.</p>
@@ -587,55 +738,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
                     <li class="here">
-                      <a href="#">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                      <a href="#">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -646,13 +797,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/6" name="Miroirs – ou – Comment on perd Eurydice et soi-même" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/6" name="5. Miroirs, ouComment on perd Eurydice et soi-même" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Miroirs – ou – Comment on perd Eurydice et soi-même</value>
+          <value>5. Miroirs, ouComment on perd Eurydice et soi-même (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. Miroirs, ouComment on perd Eurydice et soi-même"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -661,9 +841,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p45" id="p45">[p. 45]</a>
-                    <h1 class="head chapter">Miroirs <br class="lb"/><i class="i">ou <br class="lb"/>Comment on perd Eurydice et soi-même</i><a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Miroirs
+          <br class="lb"/>ou <i class="i">Comment on perd Eurydice et soi-même</i><a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">Stéphane est maniaque, comme tous les jeunes gens de sa génération. Seulement chez lui, cela ne s’est pas porté sur les voitures. Il préfère s’intéresser aux divers types humains. On lui sait peu de gré de sa curiosité. Cela ne serait rien, si elle-même ne le décevait. Sans doute est-il trop impatient, demande-t-il aux êtres plus qu’ils ne peuvent donner… D’ailleurs on ne lui doit rien, n’est-ce pas ?</p>
                     <p class="p">Il ne tombe d’accord ; accepte d’attendre comme un enfant sage que le monde lui donne, en son temps, sa petite part. On lui a expliqué qu’il fallait la mériter et tâcher de devenir quelqu’un. Il ne lui reste plus qu’à 
 <a class="pb" href="#p46" id="p46">[p. 46]</a>
@@ -704,7 +885,7 @@
                         <div class="b note-page">
                           <a href="6#p47">p. 47</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="6#note2_">2. </a><i class="i">Consolari</i> signifie proprement « rendre entier » (<i class="i">Littré</i>).</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="6#note2_">2. </a><i class="i">Consolari</i> signifie proprement « rendre entier » (<i class="i">Littré</i>).</aside>
                       </div>
                     </section>
                   </article>
@@ -721,55 +902,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
                     <li class="here">
-                      <a href="#">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                      <a href="#">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -780,13 +961,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/7" name="L’ombre perdue" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/7" name="6. L’ombre perdue" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) L’ombre perdue</value>
+          <value>6. L’ombre perdue (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. L’ombre perdue"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -795,7 +1005,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p51" id="p51">[p. 51]</a>
                     <h1 class="head chapter">L’ombre perdue<a class="bookmark" href="7"> §</a></h1>
                     <section id="body-7-1" class="div level2 level2">
@@ -862,7 +1072,7 @@
                         <div class="b note-page">
                           <a href="7#p56">p. 56</a>
                         </div>
-                        <aside id="note3" class="note bottomnote">
+                        <aside id="note3" role="note" class="note bottomnote">
                           <p class="noindent"><a class="noteback" href="7#note3_">3. </a><i class="i">Trois Essais sur la Théorie de la Sexualité</i>. La définition de <i class="i">normal</i> est donc ici : <i class="i">adapté au milieu</i>.</p>
                           <p class="p">Vérité d’expérience, nous dit Freud, et à ce titre elle a sa valeur. Mais qui ne voit ce que pourraient en tirer les conformismes « totalitaires », si l’on faisait une règle de cette constatation. On ne doit accepter une vérité de ce genre qu’en insistant sur son contraire : « l’anormal » peut être créateur d’un nouveau type de rapports sociaux, c’est-à-dire d’une nouvelle normalité.</p>
                         </aside>
@@ -871,19 +1081,19 @@
                         <div class="b note-page">
                           <a href="7#p57">p. 57</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="7#note4_">4. </a>Dans le conte intitulé <i class="i">L’Ombre</i>, Andersen raconte comment un philosophe « venant des froides régions du nord » et voyageant aux pays chauds, perd son ombre, à force de rêver à une jeune femme qu’il aperçoit de sa fenêtre. « Mais dans ces climats chauds, dit Andersen, les choses croissent très vite ; et après qu’une semaine eut passé, il vit, à sa grande joie, qu’une nouvelle ombre partant de ses pieds commençait à croître lorsqu’il se promenait dans le soleil. » Ici donc, pas de fixation morbide, comme dans Schlemihl. Aussi bien le Diable n’est-il pas à l’origine de l’affaire, cette fois.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="7#note4_">4. </a>Dans le conte intitulé <i class="i">L’Ombre</i>, Andersen raconte comment un philosophe « venant des froides régions du nord » et voyageant aux pays chauds, perd son ombre, à force de rêver à une jeune femme qu’il aperçoit de sa fenêtre. « Mais dans ces climats chauds, dit Andersen, les choses croissent très vite ; et après qu’une semaine eut passé, il vit, à sa grande joie, qu’une nouvelle ombre partant de ses pieds commençait à croître lorsqu’il se promenait dans le soleil. » Ici donc, pas de fixation morbide, comme dans Schlemihl. Aussi bien le Diable n’est-il pas à l’origine de l’affaire, cette fois.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p58">p. 58</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="7#note5_">5. </a>Selon Paracelse, la semence se distingue de la <i class="i">Liquor vitae</i> « comme l’écume d’une soupe ». La créativité se purifie en l’écartant. Il paraît donc que le freudisme ne s’occupe que de l’écume d’une soupe ? Ou bien l’appelle-t-il libido ?</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="7#note5_">5. </a>Selon Paracelse, la semence se distingue de la <i class="i">Liquor vitae</i> « comme l’écume d’une soupe ». La créativité se purifie en l’écartant. Il paraît donc que le freudisme ne s’occupe que de l’écume d’une soupe ? Ou bien l’appelle-t-il libido ?</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p61">p. 61</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="7#note6_">6. </a>Cette petite étude était écrite depuis un an lorsque je découvris dans les <i class="i">Cahiers</i> de Barrès (tome VIII, p. 86) deux lettres d’un petit-neveu de Chamisso qui paraissait infirmer par avance mon interprétation. Leur auteur, un M. de Rubulles, estime — comme Barrès d’ailleurs — que dans <i class="i">Schlemihl</i>, Chamisso « laisse deviner sa destinée tragique d’homme incomplet et sans patrie ». Voici quelques souvenirs curieux sur le grand-oncle : « C’était, paraît-il, un paquet de nerfs, impressionnable à l’excès, avec un fond de tristesse en quelque sorte permanent, une désespérance perpétuelle. <i class="i">Peter Schlemihl</i> est certainement, sinon une autobiographie, au moins un essai moral que ses propres sentiments avaient inspiré. Un état d’âme, dirions-nous aujourd’hui. Le qualificatif « d’homme ayant perdu son ombre » fut trouvé par M. de Rubulles qui, le voyant dans un de ses noirs habituels, lui dit en riant qu’il ressemblait à un chevalier ayant tout perdu, même l’ombre de lui-même. Le mot le frappa et le retint. » — Outre que cette interprétation rationaliste (non toute absurde) n’explique aucune particularité du conte, il est permis de penser que « l’état d’âme » de Chamisso a joué dans cette affaire un rôle plus décisif que « l’à peu près » du gentilhomme.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="7#note6_">6. </a>Cette petite étude était écrite depuis un an lorsque je découvris dans les <i class="i">Cahiers</i> de Barrès (tome VIII, p. 86) deux lettres d’un petit-neveu de Chamisso qui paraissait infirmer par avance mon interprétation. Leur auteur, un M. de Rubulles, estime — comme Barrès d’ailleurs — que dans <i class="i">Schlemihl</i>, Chamisso « laisse deviner sa destinée tragique d’homme incomplet et sans patrie ». Voici quelques souvenirs curieux sur le grand-oncle : « C’était, paraît-il, un paquet de nerfs, impressionnable à l’excès, avec un fond de tristesse en quelque sorte permanent, une désespérance perpétuelle. <i class="i">Peter Schlemihl</i> est certainement, sinon une autobiographie, au moins un essai moral que ses propres sentiments avaient inspiré. Un état d’âme, dirions-nous aujourd’hui. Le qualificatif « d’homme ayant perdu son ombre » fut trouvé par M. de Rubulles qui, le voyant dans un de ses noirs habituels, lui dit en riant qu’il ressemblait à un chevalier ayant tout perdu, même l’ombre de lui-même. Le mot le frappa et le retint. » — Outre que cette interprétation rationaliste (non toute absurde) n’explique aucune particularité du conte, il est permis de penser que « l’état d’âme » de Chamisso a joué dans cette affaire un rôle plus décisif que « l’à peu près » du gentilhomme.</aside>
                       </div>
                     </section>
                   </article>
@@ -900,69 +1110,69 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
                     <li class="here">
                       <a href="#">L’ombre perdue</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-1">L’énigme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-2">Psychologie de Peter Schlemihl</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-3">Tentative d’interprétation</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="7#body-7-4">Suite et fin de la fable</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -973,13 +1183,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/8" name="Angérone" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/8" name="7. Angérone" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Angérone</value>
+          <value>7. Angérone (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "7. Angérone"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -988,7 +1227,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p63" id="p63">[p. 63]</a>
                     <h1 class="head chapter">Angérone<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">En plein polémique avec le mystère, il arrive à certains de s’oublier jusqu’à donner de l’amour une ou plusieurs définitions. Ah ! puissions-nous aimer l’amour assez pour ne jamais avoir recours à ces remèdes, car définir l’amour ce n’est point le connaître, mais limiter sa part dans notre vie, et nul amour ne peut survivre à cette méfiance ou à cette avarice anxieuse.</p>
@@ -1036,60 +1275,60 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
                     <li class="here">
                       <a href="#">Angérone</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="8#body-8-1">Tristesse platonicienne</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1100,13 +1339,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/9" name="Contribution à l’étude du coup de foudre" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/9" name="8. Contribution à l’étude du coup de foudre" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Contribution à l’étude du coup de foudre</value>
+          <value>8. Contribution à l’étude du coup de foudre (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "8. Contribution à l’étude du coup de foudre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1115,7 +1383,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p69" id="p69">[p. 69]</a>
                     <h1 class="head chapter">Contribution à l’étude du coup de foudre<a class="bookmark" href="9"> §</a></h1>
                     <p class="p autofirst">Un regard dans un regard et les voilà fixés, cloués sur place, comme le coq est cloué sur la ligne de craie tirée devant son bec. Ce serait trop bête si ce n’était trop beau. Mais rien ne sert de n’y pas croire. C’est un fait, nous l’avons subi, et nous avons tous dit : je n’y puis rien. Avec autant de sincérité, nous semblait-il, qu’un croyant décrivant sa conversion en termes de grâce et de prédestination. Mais s’il est vain de nier le fait, il ne l’est point de mettre en doute son caractère de destinée fatale. Cette espèce de passivité que l’on allègue, ne serait-elle point un alibi ?</p>
@@ -1164,55 +1432,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
                     <li class="here">
                       <a href="#">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1223,13 +1491,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/10" name="Don Juan" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/10" name="9. Don Juan" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Don Juan</value>
+          <value>9. Don Juan (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "9. Don Juan"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1238,7 +1535,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p77" id="p77">[p. 77]</a>
                     <h1 class="head chapter">Don Juan<a class="bookmark" href="10"> §</a></h1>
                     <p class="p autofirst">Lorsqu’il paraît brillant d’or et de soie, dressé sur ses ergots de grand ténor, l’on est tenté de ne voir en lui que le feu naturel du désir, une espèce d’animalité véhémente, et comme innocente… Mais jamais la Nature n’a rien produit de pareil.</p>
@@ -1289,55 +1586,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
                     <li class="here">
                       <a href="#">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1348,13 +1645,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/11" name="La gloire" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/11" name="10. La gloire" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) La gloire</value>
+          <value>10. La gloire (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "10. La gloire"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1363,7 +1689,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p85" id="p85">[p. 85]</a>
                     <h1 class="head chapter">La gloire<a class="bookmark" href="11"> §</a></h1>
                     <p class="p autofirst">
@@ -1419,55 +1745,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
                     <li class="here">
                       <a href="#">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1478,13 +1804,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/12" name="Le nœud gordien renoué" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/12" name="11. Le nœud gordien renoué" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Le nœud gordien renoué</value>
+          <value>11. Le nœud gordien renoué (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "11. Le nœud gordien renoué"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1493,7 +1848,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p93" id="p93">[p. 93]</a>
                     <h1 class="head chapter">Le nœud gordien renoué<a class="bookmark" href="12"> §</a></h1>
                     <p class="p autofirst">Un oracle avait annoncé que serait roi celui qui, debout sur son char, pénétrerait au grand galop dans le temple de Jupiter. Les quelques-uns qui le savaient étaient exclus de la compétition par leur science même : on exigeait l’innocence de l’âme. Quant au peuple, il vaquait à ses travaux.</p>
@@ -1546,55 +1901,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
                     <li class="here">
                       <a href="#">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1605,13 +1960,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/13" name="Le supplice de Tantale" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/13" name="12. Le supplice de Tantale" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Le supplice de Tantale</value>
+          <value>12. Le supplice de Tantale (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "12. Le supplice de Tantale"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1620,7 +2004,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p99" id="p99">[p. 99]</a>
                     <h1 class="head chapter">Le supplice de Tantale<a class="bookmark" href="13"> §</a></h1>
                     <p class="p autofirst">L’eau fuit ses lèvres, la branche fuit sa main, et le rocher qui surplombe sa tête va tomber mais ne tombe jamais. Pour l’observateur non prévenu, tout se passe comme si le désir de Tantale suffisait à repousser les objets qu’il désire, et sa crainte l’objet qu’il redoute. Quand il se penche vers la surface de la rivière où il baigne à mi-corps, quand il lève le bras vers ces fruits mûrs qui font ployer la branche au-dessus de son front, on dirait que son geste même déclenche un mécanisme qui l’annule. Mais on dirait aussi que son regard, dès qu’il l’élève avec angoisse vers le rocher, retient le rocher. Étrange lieu que ce coin du Tartare, où la pesante logique de la matière est abolie 
@@ -1666,7 +2050,7 @@
                         <div class="b note-page">
                           <a href="13#p103">p. 103</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="13#note7_">7. </a>Dans les <i class="i">Flegeljahre</i>.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="13#note7_">7. </a>Dans les <i class="i">Flegeljahre</i>.</aside>
                       </div>
                     </section>
                   </article>
@@ -1683,55 +2067,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
                     <li class="here">
                       <a href="#">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1742,13 +2126,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/14" name="La fin du monde" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/14" name="13. La fin du monde" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) La fin du monde</value>
+          <value>13. La fin du monde (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "13. La fin du monde"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1757,7 +2170,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p107" id="p107">[p. 107]</a>
                     <h1 class="head chapter">La fin du monde<a class="bookmark" href="14"> §</a></h1>
                     <p class="p autofirst">Parmi toutes les libertés que la pensée se donne lorsque, se dégageant de notre condition, elle imagine des idées qui détruisent l’homme, l’on rencontre sans trop d’effroi l’idée de l’homme détruit ; l’idée de l’homme qui pense cette idée, détruit ; l’idée que vous, et qui pensez, un jour ne serez plus, un jour serez un mort.</p>
@@ -1848,15 +2261,15 @@
                       <p class="p">Commence l’œuvre du Pardon.</p>
                       <p class="p">« Et que celui qui a soif vienne, que celui qui veut prenne de l’eau de la vie, gratuitement. »</p>
                       <p class="p">Car maintenant tout est payé. Tout est gratuit.</p>
-                      <p class="p">…………………………………………………………………………………………………...</p>
-                      <p class="p">Et c’est alors que toutes les voix des justes confondues clameront l’harmonie violente et bienheureuse du mot sacrement de toute la création, son terme monumental à la gloire du Dieu Tout-Puissant, — l’Amen du Temps qui s’agenouille et s’abîme éternellement.</p>
+                      <hr class="dots"/>
+                      <p class="p autofirst">Et c’est alors que toutes les voix des justes confondues clameront l’harmonie violente et bienheureuse du mot sacrement de toute la création, son terme monumental à la gloire du Dieu Tout-Puissant, — l’Amen du Temps qui s’agenouille et s’abîme éternellement.</p>
                     </section>
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
                           <a href="14#p117">p. 117</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="14#note8_">8. </a>Sœren Kierkegaard, d’après une caricature.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="14#note8_">8. </a>Sœren Kierkegaard, d’après une caricature.</aside>
                       </div>
                     </section>
                   </article>
@@ -1873,78 +2286,78 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
                     <li class="here">
                       <a href="#">La fin du monde</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-1">Ontologie de la fin</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-2">La crise</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-3">Avertissement</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-4">Péripétie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-5">Premier jugement, par la lumière</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-6">Second jugement ou sommation</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="14#body-14-7">Troisième jugement ou le pardon</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -1955,13 +2368,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/15" name="L’eau – ou – L’esprit de la tempête" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/15" name="14. L’eau ou L’esprit de la tempête" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) L’eau – ou – L’esprit de la tempête</value>
+          <value>14. L’eau ou L’esprit de la tempête (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "14. L’eau ou L’esprit de la tempête"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1970,9 +2412,9 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p119" id="p119">[p. 119]</a>
-                    <h1 class="head chapter">L’eau <br class="lb"/>ou <br class="lb"/>L’esprit de la tempête<a class="bookmark" href="15"> §</a></h1>
+                    <h1 class="head chapter">L’eau ou L’esprit de la tempête<a class="bookmark" href="15"> §</a></h1>
                     <p class="p">1. — L’Esprit dansait à la surface des eaux, car la Tempête n’avait pas encore pénétré dans les profondeurs. Quand l’Esprit s’apaisait, les eaux mouraient, heureuses.</p>
                     <p class="p">2. — Lorsque l’Esprit descendit sur les eaux, et que sa danse fut noyée dans la substance sous-marine, la Tempête devint l’âme des eaux.</p>
                     <p class="p">3. — Les grandes eaux portaient à leur surface l’Arche de Paix, mais les hommes qui voulaient encore la danse pour danser furent noyés : ils allèrent la chercher dans cette profondeur où l’Esprit pour la paix l’avait un temps abandonnée. Trouvant la mort aux tempêtes profondes.</p>
@@ -1998,55 +2440,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
                     <li class="here">
-                      <a href="#">L’eau  –  ou  –  L’esprit de la tempête</a>
+                      <a href="#">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -2057,13 +2499,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/16" name="Antée – ou – La terre" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/16" name="15. Antée ou La terre" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Antée – ou – La terre</value>
+          <value>15. Antée ou La terre (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "15. Antée ou La terre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2072,16 +2543,16 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p121" id="p121">[p. 121]</a>
-                    <h1 class="head chapter">Antée <br class="lb"/>ou <br class="lb"/>La terre<a class="bookmark" href="16"> §</a></h1>
+                    <h1 class="head chapter">Antée ou La terre<a class="bookmark" href="16"> §</a></h1>
                     <p class="p autofirst">Antée géant, champion du monde, subit la hantise des forts, qui est de ne point faire honneur constamment à sa force. Noblesse oblige au tout ou rien : s’il perd une fois, c’en est fini. Jamais il ne se sent plus angoissé qu’à la veille d’une épreuve mondiale, au terme du plus rigoureux des entraînements. Son manager l’a séquestré pendant des mois, ni vin, ni femmes, ni journées de paresse ou de promenade à l’aventure. Vie à l’horaire, chronométrée, sans rien d’impur. Et pourtant il se sent impur et affaibli. Allégé physiquement par un régime sévère, tous ses muscles jouant aisément, ou se gonflant à bloc en un clin d’œil, son poids exact et sa vue nette, il s’éprouve cependant 
 <a class="pb" href="#p122" id="p122">[p. 122]</a>
  chargé d’une fièvre. Ce n’est pas l’impatience de combattre, mais au contraire un besoin obsédant d’abandon à quelque délire et de dissolution incontrôlée.</p>
                     <p class="p">Ces dispositions, bien connues du manager, ont été qualifiées par lui, devant les journalistes, de « tendance névrotique due à l’hypersensibilité de notre ami », déclaration qui n’a pas peu contribué à la popularité du champion. La foule moderne adore que ses héros soient un peu détraqués, ces faiblesses les rendant plus humains, selon le langage courant.</p>
                     <p class="p">Le fait est qu’Antée, jusqu’ici, déployant des trésors d’astuce à faire pâlir tous ses triomphes musculaires, a toujours réussi à s’évader, pour quelques heures, à la veille d’une épreuve décisive. Mais le lendemain il reparaît peu avant le match, affreux à voir, le visage taché de boue, les vêtements en loques, les mains couvertes d’éraflures et les ongles rognés ou cassés. Epuisé, semble-t-il, haletant et suant, il se jette dans la lutte et le voici vainqueur.</p>
                     <p class="p">(Nous donnons ici quelques Extraits des notes de l’analyste qui a bien voulu se charger du cas, sur la demande répétée du manager.)</p>
-                    <p class="p">« …………………………………………………………………………………………………Complexe d’Œdipe : me suis vu contraint de renoncer à cette hypothèse, après deux ans de travail acharné… Vie des parents normale, je dirai même exemplaire<a class="noteref" href="16#note9" id="note9_"><sup>9</sup></a>… Vie sexuelle du patient normale, sauf quelques périodes d’abstinence prolongée, coïncidant avec les périodes d’entraînement… Légère répugnance pour les géantes qu’on voudrait lui faire rencontrer… Cauchemar typique : il 
+                    <p class="p">« … … …Complexe d’Œdipe : me suis vu contraint de renoncer à cette hypothèse, après deux ans de travail acharné… Vie des parents normale, je dirai même exemplaire<a class="noteref" href="16#note9" id="note9_"><sup>9</sup></a>… Vie sexuelle du patient normale, sauf quelques périodes d’abstinence prolongée, coïncidant avec les périodes d’entraînement… Légère répugnance pour les géantes qu’on voudrait lui faire rencontrer… Cauchemar typique : il 
 <a class="pb" href="#p123" id="p123">[p. 123]</a>
  se promène dans une grande ville déserte… Phobie du macadam, du béton armé, des constructions métalliques… Phobie de perdre pied…</p>
                     <p class="p">Tout cela ne m’eût pas mené très loin. Mais comme il nous arrive parfois de le constater, c’est le patient lui- même qui a fini par me donner la clé de son mystère.</p>
@@ -2096,7 +2567,7 @@
                         <div class="b note-page">
                           <a href="16#p122">p. 122</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="16#note9_">9. </a>Antée est le fils de Poséidon et de la Terre. Depuis la séparation des Eaux, leurs disputes se réduisent à de légers frottements. Les rapports entre la Terre et le Feu sont beaucoup plus dramatiques.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="16#note9_">9. </a>Antée est le fils de Poséidon et de la Terre. Depuis la séparation des Eaux, leurs disputes se réduisent à de légers frottements. Les rapports entre la Terre et le Feu sont beaucoup plus dramatiques.</aside>
                       </div>
                     </section>
                   </article>
@@ -2113,55 +2584,55 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
                     <li class="here">
-                      <a href="#">Antée  –  ou  –  La terre</a>
+                      <a href="#">Antée ou La terre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="17">Le feu</a>
                     </li>
                   </ul>
@@ -2172,13 +2643,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947df/17" name="Le feu" package="ddr1947df" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947df/17" name="16. Le feu" package="ddr1947df" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Doctrine fabuleuse (1947) Le feu</value>
+          <value>16. Le feu (1947, Doctrine fabuleuse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Doctrine fabuleuse (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947df",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "16. Le feu"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2187,7 +2687,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p125" id="p125">[p. 125]</a>
                     <h1 class="head chapter">Le feu<a class="bookmark" href="17"> §</a></h1>
                     <p class="p autofirst">Quelquefois au coin du feu un grand silence appelle une autre histoire, car il met le vide sur les têtes. Le vide est quelque chose d’insatiable…</p>
@@ -2221,53 +2721,53 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Orientation</a>
                     </li>
-                    <li>
-                      <a href="2">Premier dialogue sur la carte postale  –  <i>La pluie et le beau temps</i></a>
+                    <li class="collateral">
+                      <a href="2">Premier dialogue sur la carte postale.  <i>La pluie et le beau temps</i></a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième dialogue sur la carte postale  –  <i>La beauté physique</i></a>
+                    <li class="collateral">
+                      <a href="3">Deuxième dialogue sur la carte postale.  <i>La beauté physique</i></a>
                     </li>
-                    <li>
-                      <a href="4">Troisième dialogue sur la carte postale  –  <i>L’homme sans ressemblance</i></a>
+                    <li class="collateral">
+                      <a href="4">Troisième dialogue sur la carte postale.  <i>L’homme sans ressemblance</i></a>
                     </li>
-                    <li>
-                      <a href="5">Quatrième dialogue sur la carte postale  –  <i>Ars prophetica  –  ou  –  D’un langage qui ne veut pas être clair</i></a>
+                    <li class="collateral">
+                      <a href="5">Quatrième dialogue sur la carte postale.  <i>Ars prophetica,  ou.  D’un langage qui ne veut pas être clair</i></a>
                     </li>
-                    <li>
-                      <a href="6">Miroirs  –  <i>ou  –  Comment on perd Eurydice et soi-même</i></a>
+                    <li class="collateral">
+                      <a href="6">Miroirs,  ou<i>Comment on perd Eurydice et soi-même</i></a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">L’ombre perdue</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">Angérone</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="9">Contribution à l’étude du coup de foudre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="10">Don Juan</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="11">La gloire</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="12">Le nœud gordien renoué</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="13">Le supplice de Tantale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="14">La fin du monde</a>
                     </li>
-                    <li>
-                      <a href="15">L’eau  –  ou  –  L’esprit de la tempête</a>
+                    <li class="collateral">
+                      <a href="15">L’eau ou L’esprit de la tempête</a>
                     </li>
-                    <li>
-                      <a href="16">Antée  –  ou  –  La terre</a>
+                    <li class="collateral">
+                      <a href="16">Antée ou La terre</a>
                     </li>
                     <li class="here">
                       <a href="#">Le feu</a>

@@ -4,10 +4,39 @@
     <page path="/livres/ddr1950lde/1" name="Première lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres aux députés européens (1950) Première lettre</value>
+          <value>Première lettre (1950, Lettres aux députés européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres aux députés européens (1950)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Première lettre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">Première lettre<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Messieurs les députés européens,</p>
@@ -58,16 +87,16 @@
                     <li class="here">
                       <a href="#">Première lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Deuxième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Troisième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Quatrième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Cinquième lettre</a>
                     </li>
                   </ul>
@@ -81,10 +110,39 @@
     <page path="/livres/ddr1950lde/2" name="Deuxième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres aux députés européens (1950) Deuxième lettre</value>
+          <value>Deuxième lettre (1950, Lettres aux députés européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres aux députés européens (1950)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Deuxième lettre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -93,7 +151,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p12" id="p12">[p. 12]</a>
                     <h1 class="head chapter">Deuxième lettre<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Messieurs les Députés,</p>
@@ -137,19 +195,19 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Première lettre</a>
                     </li>
                     <li class="here">
                       <a href="#">Deuxième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Troisième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Quatrième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Cinquième lettre</a>
                     </li>
                   </ul>
@@ -163,10 +221,39 @@
     <page path="/livres/ddr1950lde/3" name="Troisième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres aux députés européens (1950) Troisième lettre</value>
+          <value>Troisième lettre (1950, Lettres aux députés européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres aux députés européens (1950)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Troisième lettre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -175,7 +262,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p17" id="p17">[p. 17]</a>
                     <h1 class="head chapter">Troisième lettre<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">Messieurs les Députés européens,</p>
@@ -212,19 +299,19 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Première lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Deuxième lettre</a>
                     </li>
                     <li class="here">
                       <a href="#">Troisième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Quatrième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Cinquième lettre</a>
                     </li>
                   </ul>
@@ -238,10 +325,39 @@
     <page path="/livres/ddr1950lde/4" name="Quatrième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres aux députés européens (1950) Quatrième lettre</value>
+          <value>Quatrième lettre (1950, Lettres aux députés européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres aux députés européens (1950)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Quatrième lettre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -250,7 +366,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p22" id="p22">[p. 22]</a>
                     <h1 class="head chapter">Quatrième lettre<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">Messieurs de l’Assemblée consultative,</p>
@@ -293,19 +409,19 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Première lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Deuxième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Troisième lettre</a>
                     </li>
                     <li class="here">
                       <a href="#">Quatrième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">Cinquième lettre</a>
                     </li>
                   </ul>
@@ -319,10 +435,39 @@
     <page path="/livres/ddr1950lde/5" name="Cinquième lettre" package="ddr1950lde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettres aux députés européens (1950) Cinquième lettre</value>
+          <value>Cinquième lettre (1950, Lettres aux députés européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettres aux députés européens (1950)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Cinquième lettre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -331,7 +476,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p28" id="p28">[p. 28]</a>
                     <h1 class="head chapter">Cinquième lettre<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">Messieurs les députés de l’Europe à sauver !</p>
@@ -385,16 +530,16 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Première lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Deuxième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">Troisième lettre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">Quatrième lettre</a>
                     </li>
                     <li class="here">

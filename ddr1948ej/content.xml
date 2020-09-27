@@ -4,10 +4,39 @@
     <page path="/livres/ddr1948ej/1" name="I" package="ddr1948ej" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948) I</value>
+          <value>I (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948ej",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">
                       <span class="num">I</span>
@@ -233,7 +262,7 @@
                         <div class="b note-page">
                           <a href="1#p49">p. 49</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Voir <i class="i">L’Esprit européen</i>, Neuchâtel, La Baconnière, 1947, p. 205.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Voir <i class="i">L’Esprit européen</i>, Neuchâtel, La Baconnière, 1947, p. 205.</aside>
                       </div>
                     </section>
                   </article>
@@ -255,25 +284,25 @@
                         <span class="num">I</span>
                       </a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-1">Les maladies de l’Europe</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="1#body-1-2">Choisir l’Europe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">
                         <span class="num">II</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">
                         <span class="num">III</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">
                         <span class="num">IV</span>
                       </a>
@@ -289,10 +318,39 @@
     <page path="/livres/ddr1948ej/2" name="II" package="ddr1948ej" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948) II</value>
+          <value>II (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948ej",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -301,7 +359,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
                     <h1 class="head chapter">
                       <span class="num">II</span>
@@ -513,7 +571,7 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
                       </a>
@@ -523,37 +581,37 @@
                         <span class="num">II</span>
                       </a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">L’attitude fédéraliste</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">Clichés mortels</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">L’Europe nécessaire</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-1">Quelques faits</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-2">Notre vocation</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-3">L’opposition</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="2#body-2-3-4">Un grand but commun</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">
                         <span class="num">III</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">
                         <span class="num">IV</span>
                       </a>
@@ -569,10 +627,39 @@
     <page path="/livres/ddr1948ej/3" name="III" package="ddr1948ej" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948) III</value>
+          <value>III (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948ej",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -581,7 +668,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p97" id="p97">[p. 97]</a>
                     <h1 class="head chapter">
                       <span class="num">III</span>
@@ -830,43 +917,43 @@
                         <div class="b note-page">
                           <a href="3#p98">p. 98</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a>Le <i class="i">Comité de coordination</i> groupait les quatre mouvements suivants : <i class="i">Union européenne des Fédéralistes</i> (président H. Brugmans) ; <i class="i">United Europe Committee</i> (président Winston Churchill) ; <i class="i">Ligue indépendante de coopération européenne</i> (président Paul van Zeeland) ; <i class="i">Mouvement français pour l’Europe unie</i> (président Raoul Dautry). Les <i class="i">Nouvelles équipes internationales</i> et l’<i class="i">Union parlementaire européenne</i> y adhérèrent quelques mois plus tard.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a>Le <i class="i">Comité de coordination</i> groupait les quatre mouvements suivants : <i class="i">Union européenne des Fédéralistes</i> (président H. Brugmans) ; <i class="i">United Europe Committee</i> (président Winston Churchill) ; <i class="i">Ligue indépendante de coopération européenne</i> (président Paul van Zeeland) ; <i class="i">Mouvement français pour l’Europe unie</i> (président Raoul Dautry). Les <i class="i">Nouvelles équipes internationales</i> et l’<i class="i">Union parlementaire européenne</i> y adhérèrent quelques mois plus tard.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p121">p. 121</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>Ces mots sont de Winston Churchill, dans une lettre adressée à Léon Blum, et à laquelle l’article cité répondait.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>Ces mots sont de Winston Churchill, dans une lettre adressée à Léon Blum, et à laquelle l’article cité répondait.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p127">p. 127</a>
                         </div>
-                        <aside id="note4" class="note endnote"><a class="noteback" href="3#note4_">4. </a>Vérifier la fermeture de la parenthèse (NdE).</aside>
+                        <aside id="note4" role="note" class="note endnote"><a class="noteback" href="3#note4_">4. </a>Vérifier la fermeture de la parenthèse (NdE).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p133">p. 133</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Par contre, le projet de Conseil politique, proposé par des unionistes, n’a pas été retenu par l’assemblée.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Par contre, le projet de Conseil politique, proposé par des unionistes, n’a pas été retenu par l’assemblée.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p134">p. 134</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Cette phrase figure dans la résolution économique du Congrès.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Cette phrase figure dans la résolution économique du Congrès.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p137">p. 137</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Sauf Churchill.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Sauf Churchill.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p139">p. 139</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Mais il faudrait deux députés au lieu d’un par million d’habitants ; et modifier plusieurs constitutions.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="3#note8_">8. </a>Mais il faudrait deux députés au lieu d’un par million d’habitants ; et modifier plusieurs constitutions.</aside>
                       </div>
                     </section>
                   </article>
@@ -883,12 +970,12 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">
                         <span class="num">II</span>
                       </a>
@@ -898,15 +985,15 @@
                         <span class="num">III</span>
                       </a>
                       <ul>
-                        <li>
-                          <a href="3#body-3-1">L’aventure du <span class="num">xx<sup>e</sup></span> siècle</a>
+                        <li class="collateral">
+                          <a href="3#body-3-1">L’aventure du<span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">Le Congrès de La Haye ou la voix de l’Europe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">
                         <span class="num">IV</span>
                       </a>
@@ -922,10 +1009,39 @@
     <page path="/livres/ddr1948ej/4" name="IV" package="ddr1948ej" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948) IV</value>
+          <value>IV (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Europe en jeu. Trois discours suivis de Documents de La Haye (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948ej",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -934,7 +1050,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p143" id="p143">[p. 143]</a>
                     <h1 class="head chapter">
                       <span class="num">IV</span>
@@ -1188,17 +1304,17 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">
                         <span class="num">II</span>
                       </a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">
                         <span class="num">III</span>
                       </a>
@@ -1208,42 +1324,42 @@
                         <span class="num">IV</span>
                       </a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">Pour un Centre européen de la culture (documents de La Haye)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-1">Préambule</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-2">La conception européenne de l’homme</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-3">Diversité et division des nations et des idéologies</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-4">La liberté et les droits de l’homme</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-5">Cour suprême</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-6">Centre européen de la culture</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-2-7">Conclusion : l’universalisme européen</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">Message aux Européens</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">Quelques chiffres</a>
                         </li>
                       </ul>

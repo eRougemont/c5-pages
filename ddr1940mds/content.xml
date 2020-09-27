@@ -4,10 +4,39 @@
     <page path="/livres/ddr1940mds/1" name="Avertissement" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) Avertissement</value>
+          <value>Avertissement (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Ceci n’est pas un livre, mais un recueil de conférences et d’essais sur des sujets variés en apparence : protestantisme, culture, neutralité, fédéralisme et défense de la Suisse.</p>
@@ -40,7 +69,7 @@
                         <div class="b note-page">
                           <a href="1#p9">p. 9</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Vers d’un poète anglais, cités par le roi Georges VI en conclusion de son message de Noël 1939.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Vers d’un poète anglais, cités par le roi Georges VI en conclusion de son message de Noël 1939.</aside>
                       </div>
                     </section>
                   </article>
@@ -60,23 +89,23 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -86,13 +115,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/2" name="Le protestantisme créateur de personnes" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/2" name="1. Le protestantisme créateur de personnes" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) Le protestantisme créateur de personnes</value>
+          <value>1. Le protestantisme créateur de personnes (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Le protestantisme créateur de personnes"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -101,9 +159,9 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter"> Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a><a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a><a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Je souhaite que beaucoup d’entre vous, apercevant le titre de cette conférence, aient ressenti quelque méfiance. Je souhaite que beaucoup aient tenu le petit raisonnement que voici : Pour les Réformateurs, l’homme devant Dieu égale zéro. Pour les modernes, un protestant égale une personnalité. Que peut bien signifier cette contradiction affligeante ?</p>
                     <p class="p">Je serais heureux que la question vous ait paru curieuse, ou peut-être grave, ou en tout cas digne de réflexion, car c’est à elle précisément que je me propose de répondre ici.</p>
                     <p class="p">Comment passer du zéro de l’homme devant 
@@ -269,62 +327,62 @@
                         <div class="b note-page">
                           <a href="2#p11">p. 11</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Conférence prononcée au mois de janvier 1939 dans les Aulas des Universités de Neuchâtel, Lausanne et Genève, sous les auspices des <i class="i">Amis de la pensée protestante</i>, ainsi qu’à l’Aula de l’Université de Bâle, sur la demande de l’Association générale des étudiants de cette ville.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Conférence prononcée au mois de janvier 1939 dans les Aulas des Universités de Neuchâtel, Lausanne et Genève, sous les auspices des <i class="i">Amis de la pensée protestante</i>, ainsi qu’à l’Aula de l’Université de Bâle, sur la demande de l’Association générale des étudiants de cette ville.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p13">p. 13</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Il s’agit de septembre 1938 : « la paix de Munich ».</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Il s’agit de septembre 1938 : « la paix de Munich ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p14">p. 14</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>En Suisse, Emil Brunner (<i class="i">Der Mensch im Widerspruch</i>), et Gonzague de Reynold (<i class="i">Conscience de la Suisse</i>).</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>En Suisse, Emil Brunner (<i class="i">Der Mensch im Widerspruch</i>), et Gonzague de Reynold (<i class="i">Conscience de la Suisse</i>).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p28">p. 28</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>À partir de la fin du <span class="num">xii<sup class="sup">e</sup></span> siècle surtout.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>À partir de la fin du <span class="num">xii<sup class="sup">e</sup></span> siècle surtout.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p39">p. 39</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>Je rappelle que ce texte date de janvier 1939. L’occupation de Prague eut lieu en mars.</aside>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Même rappel que ci-dessus. Le « Pacte d’acier » s’étant révélé un pacte ordinaire, les amis de l’Italie ont eu plutôt tendance, durant les premiers mois de la guerre, à souligner ce qui la distingue des autres dictatures.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>Je rappelle que ce texte date de janvier 1939. L’occupation de Prague eut lieu en mars.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Même rappel que ci-dessus. Le « Pacte d’acier » s’étant révélé un pacte ordinaire, les amis de l’Italie ont eu plutôt tendance, durant les premiers mois de la guerre, à souligner ce qui la distingue des autres dictatures.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p42">p. 42</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Qu’on ne déduise pas de ces remarques que les trois Églises citées sont <i class="i">responsables</i> des trois mouvements totalitaires, mais bien que ces mouvements ont revêtu les erreurs de chacune de ces églises pour en faire la forme de leur doctrine. Encore le phénomène s’est-il limité aux <i class="i">grands</i> pays. Les États balkaniques orthodoxes ne sont pas communistes ; les États Scandinaves luthériens ne sont pas nationaux-socialistes ; la Belgique catholique n’est pas fasciste.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Qu’on ne déduise pas de ces remarques que les trois Églises citées sont <i class="i">responsables</i> des trois mouvements totalitaires, mais bien que ces mouvements ont revêtu les erreurs de chacune de ces églises pour en faire la forme de leur doctrine. Encore le phénomène s’est-il limité aux <i class="i">grands</i> pays. Les États balkaniques orthodoxes ne sont pas communistes ; les États Scandinaves luthériens ne sont pas nationaux-socialistes ; la Belgique catholique n’est pas fasciste.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p44">p. 44</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Sur la distinction, d’une importance capitale, entre les deux termes soulignés dans cette phrase, voir <cite class="title">Penser avec les mains</cite>, II<sup class="sup">e</sup> partie : <i class="i">La vertu d’autorité</i>, pages 209 et suivantes.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Sur la distinction, d’une importance capitale, entre les deux termes soulignés dans cette phrase, voir <cite class="title">Penser avec les mains</cite>, II<sup class="sup">e</sup> partie : <i class="i">La vertu d’autorité</i>, pages 209 et suivantes.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p51">p. 51</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Max Weber, luthérien « détaché », attribue l’essor du capitalisme à la Réforme ; Labriola, catholique « détaché », l’attribue aux accumulations de capitaux dans les couvents anglais ; selon Werner Sombart, tout vient des Juifs ; selon Marx, tout vient des bourgeois… Ce qui est certain, c’est que l’invention du système est antérieure de plusieurs siècles à la Réforme, et son triomphe postérieur de quatre siècles. Ce qui n’empêchera pas le premier ignare venu d’attribuer le tout à Calvin. On attribue bien l’hitlérisme à Luther !</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Max Weber, luthérien « détaché », attribue l’essor du capitalisme à la Réforme ; Labriola, catholique « détaché », l’attribue aux accumulations de capitaux dans les couvents anglais ; selon Werner Sombart, tout vient des Juifs ; selon Marx, tout vient des bourgeois… Ce qui est certain, c’est que l’invention du système est antérieure de plusieurs siècles à la Réforme, et son triomphe postérieur de quatre siècles. Ce qui n’empêchera pas le premier ignare venu d’attribuer le tout à Calvin. On attribue bien l’hitlérisme à Luther !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p53">p. 53</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Je dis bien <i class="i">le type même</i> de sûre doctrine, et non pas <i class="i">la seule</i> doctrine, et non pas le seul remède efficace <i class="i">dans l’immédiat</i>. La doctrine de la Réforme représente à mes yeux la santé chrétienne. Un régime sain prévient le mal. Mais pour guérir une maladie, il faut des remèdes ou une opération. Et les remèdes sont souvent composés de poisons…</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Je dis bien <i class="i">le type même</i> de sûre doctrine, et non pas <i class="i">la seule</i> doctrine, et non pas le seul remède efficace <i class="i">dans l’immédiat</i>. La doctrine de la Réforme représente à mes yeux la santé chrétienne. Un régime sain prévient le mal. Mais pour guérir une maladie, il faut des remèdes ou une opération. Et les remèdes sont souvent composés de poisons…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p55">p. 55</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Cette devise rend un son « suisse » à mon oreille. Et c’est ici le lieu de le rappeler : le mot huguenot vient de « Eidguenot » ou « Eygenot » (par Genève), c’est-à-dire de « Eidgenossen », ou <i class="i">Confédérés suisses</i>. Les Huguenots français voulaient la liberté religieuse d’abord, mais ils voulaient aussi, comme l’écrivait l’un deux : « <i class="i">vivre en la liberté des Suisses et de faire cantons</i> ». (Fédéralisme calviniste !)</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Cette devise rend un son « suisse » à mon oreille. Et c’est ici le lieu de le rappeler : le mot huguenot vient de « Eidguenot » ou « Eygenot » (par Genève), c’est-à-dire de « Eidgenossen », ou <i class="i">Confédérés suisses</i>. Les Huguenots français voulaient la liberté religieuse d’abord, mais ils voulaient aussi, comme l’écrivait l’un deux : « <i class="i">vivre en la liberté des Suisses et de faire cantons</i> ». (Fédéralisme calviniste !)</aside>
                       </div>
                     </section>
                   </article>
@@ -341,26 +399,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#"> Le protestantisme créateur de personnes</a>
+                      <a href="#">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -370,13 +428,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/3" name="La bataille de la culture" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/3" name="2. La bataille de la culture" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) La bataille de la culture</value>
+          <value>2. La bataille de la culture (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. La bataille de la culture"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -385,9 +472,9 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
-                    <h1 class="head chapter"> La bataille de la culture<a class="noteref" href="3#note13" id="note13_"><sup>13</sup></a><a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">La bataille de la culture<a class="noteref" href="3#note13" id="note13_"><sup>13</sup></a><a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">Lorsque je me mis à réfléchir à ce que je vous dirais ce soir, je me trouvais quelque part en Suisse, dans une ferme montagnarde, au fond d’une chambre assez sombre et glaciale. Sur les parois boisées, je distinguais vaguement quelques versets bibliques en lettres lumineuses, et sur la table, devant moi, mon casque et la blancheur d’un carré de papier. Je serrais un crayon dans mes doigts engourdis, et j’essayais de me rendre compte… Au dehors, la neige et la brume. Plus loin, la frontière, des tranchées, des hommes en train de tuer et en train de mourir… Et puis, flottant dans d’autres brumes, dernier îlot d’un autre monde, une salle éclairée, un public dont j’ignorais et le visage et les soucis, et devant lequel je m’étais engagé à disserter de la culture…</p>
                     <p class="p">Un sentiment d’absurdité et d’impuissance m’envahit. Quel rapport pouvait-il y avoir entre ces 
 <a class="pb" href="#p58" id="p58">[p. 58]</a>
@@ -403,7 +490,7 @@
                     <p class="p">Je voudrais vous montrer ce soir que cette crise n’est pas théorique ; qu’elle a des conséquences pratiques ; qu’elle est l’une des origines de la présente guerre ; et que cette guerre n’est, en fin de compte, malgré tous ses prétextes matériels, qu’un épisode tragique d’une bataille bien plus vaste, la millénaire bataille de la culture.</p>
                     <section id="body-3-1" class="div level2 level2">
                       <a class="pb" href="#p60" id="p60">[p. 60]</a>
-                      <h2 class="head"> L’adversaire est en nous<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                      <h2 class="head">L’adversaire est en nous<a class="bookmark" href="3#body-3-1"> §</a></h2>
                       <p class="p autofirst">S’il y a bataille, c’est donc qu’il y a deux adversaires. Quels sont-ils ?</p>
                       <p class="p">Mais d’abord, essayons d’écarter un malentendu menaçant. La bataille dont je vais vous parler n’est pas une bataille politique. Les adversaires ne sont nullement les actuels belligérants, et il n’est pas question, ici, de confondre l’un des partis avec la cause de la culture, l’autre étant le parti de l’anti-culture. Ce genre d’opposition est très tentant, je l’avoue, et aujourd’hui plus que jamais… C’est malgré tout un procédé de propagande de guerre. Un fameux général autrichien, Conrad von Hötzendorf, avait coutume de dire : « <i class="i">Tout ce qui n’est pas aussi simple qu’une gifle ne vaut rien pour la guerre.</i> » Grâce à Dieu, nous sommes encore neutres, et nous avons encore le droit de ne pas nous livrer à ce genre de simplifications brutales. Notre premier devoir me paraît, au contraire, de défendre l’intelligence contre un certain primitivisme qui se réveille toujours en temps de guerre.</p>
                       <p class="p">
@@ -535,7 +622,7 @@
                     </section>
                     <section id="body-3-7" class="div level2 level2">
                       <a class="pb" href="#p90" id="p90">[p. 90]</a>
-                      <h2 class="head"> Raisons d’espérer : la culture et les groupes<a class="bookmark" href="3#body-3-7"> §</a></h2>
+                      <h2 class="head">Raisons d’espérer : la culture et les groupes<a class="bookmark" href="3#body-3-7"> §</a></h2>
                       <p class="p autofirst">Je voudrais vous dire, maintenant, les raisons que j’ai d’espérer, après avoir tant critiqué. Je voudrais vous énumérer les premiers succès remportés, dans la bataille de la culture moderne, par l’esprit créateur sur l’esprit fataliste.</p>
                       <p class="p">Ce qui paralysait les intellectuels qui sentaient le besoin d’agir sur les destinées de la cité, c’était depuis Hegel, Auguste Comte, et Marx, l’idée que l’Histoire obéit à des lois contre lesquelles l’homme ne peut rien. Conception très lugubre, mais commode, car elle justifiait l’inaction ou la retraite dans les bibliothèques. Or cette idée de lois fatales avait été empruntée à la science et transportée abusivement dans les domaines plus humains de l’histoire, de la sociologie et même de la psychologie. Et voici que cette idée paralysante est en train de subir certains coups décisifs : ce sont précisément les hommes de science qui, les premiers, cessent d’y croire. Ils ont reconnu, depuis quelques années, que la 
 <a class="pb" href="#p91" id="p91">[p. 91]</a>
@@ -595,25 +682,25 @@
                         <div class="b note-page">
                           <a href="3#p57">p. 57</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>Conférence prononcée le 15 janvier 1940 au Rathaus de Zurich, sous les auspices du <i class="i">Leserzirkel Hottingen</i>, et dans plusieurs villes de Hollande.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>Conférence prononcée le 15 janvier 1940 au Rathaus de Zurich, sous les auspices du <i class="i">Leserzirkel Hottingen</i>, et dans plusieurs villes de Hollande.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p62">p. 62</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>Je tiens à préciser que cette déclaration ne tend nullement à justifier « les autres » — on sait qui — et à tout fourrer dans le même sac, comme semblait le faire en septembre 1939 le manifeste intitulé « Nous sommes tous coupables ». Je veux dire ceci : nous sommes coupables dans la mesure où nous ne condamnons pas en nous aussi, et en nous d’abord, la mentalité totalitaire.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>Je tiens à préciser que cette déclaration ne tend nullement à justifier « les autres » — on sait qui — et à tout fourrer dans le même sac, comme semblait le faire en septembre 1939 le manifeste intitulé « Nous sommes tous coupables ». Je veux dire ceci : nous sommes coupables dans la mesure où nous ne condamnons pas en nous aussi, et en nous d’abord, la mentalité totalitaire.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p74">p. 74</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Il serait juste d’ajouter ici les noms de deux grands Suisses : Jacob Burckhardt (<i class="i">Considérations sur l’histoire du monde</i> et <i class="i">Correspondance</i>) et Alexandre Vinet, qui sut très bien montrer que la démocratie sans spiritualité chrétienne aboutirait à la tyrannie.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Il serait juste d’ajouter ici les noms de deux grands Suisses : Jacob Burckhardt (<i class="i">Considérations sur l’histoire du monde</i> et <i class="i">Correspondance</i>) et Alexandre Vinet, qui sut très bien montrer que la démocratie sans spiritualité chrétienne aboutirait à la tyrannie.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p80">p. 80</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Cf. <cite class="title">Penser avec les mains</cite>, où ces idées sont développées plus au long.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Cf. <cite class="title">Penser avec les mains</cite>, où ces idées sont développées plus au long.</aside>
                       </div>
                     </section>
                   </article>
@@ -630,52 +717,52 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="here">
-                      <a href="#"> La bataille de la culture</a>
+                      <a href="#">La bataille de la culture</a>
                       <ul>
-                        <li>
-                          <a href="3#body-3-1"> L’adversaire est en nous</a>
+                        <li class="collateral">
+                          <a href="3#body-3-1">L’adversaire est en nous</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">Disharmonie de nos activités et impuissance de l’esprit</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">L’esprit de Ponce-Pilate</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">Décadence de la communauté</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">L’appel au dictateur</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6">À la recherche de l’homme réel</a>
                         </li>
-                        <li>
-                          <a href="3#body-3-7"> Raisons d’espérer : la culture et les groupes</a>
+                        <li class="collateral">
+                          <a href="3#body-3-7">Raisons d’espérer : la culture et les groupes</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8">La solution fédéraliste</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -685,13 +772,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/4" name="Neutralité oblige – (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/4" name="3. Neutralité oblige, (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) Neutralité oblige – (1937)</value>
+          <value>3. Neutralité oblige, (1937) (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Neutralité oblige, (1937)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -700,7 +816,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p103" id="p103">[p. 103]</a>
                     <h1 class="head chapter">Neutralité oblige <br class="lb"/>(1937)<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">C’est un redoutable questionneur que C.-F. Ramuz<a class="noteref" href="4#note17" id="note17_"><sup>17</sup></a>. Vous croyez tout d’abord qu’il interroge simplement par curiosité, ou par une sorte de prudence, pour voir venir, et puis vous vous apercevez que ce sont vos réponses elles-mêmes, celles que déjà vous étiez prêt à lui donner, qui se trouvent mises en question par sa méfiance paysanne. Cela n’est pas sans irriter certains. Pour moi, je ne sais rien de plus salutaire, parfois de plus libérateur, que <i class="i">cette manière</i> de poser des questions, et de jouer le scepticisme, dans un pays où tant de choses vont de soi. Il nous faut un homme comme Ramuz pour nous tirer de l’optimisme épais où s’endorment les jeunes Suisses, 
@@ -791,80 +907,80 @@
                         <div class="b note-page">
                           <a href="4#p103">p. 103</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Cette étude, publiée en octobre 1937 dans un numéro de la revue<i class="i"> Esprit</i> consacré à la Suisse, répondait à la fois à la <i class="i">Lettre</i> que C.-F. Ramuz m’adressait en tête de ce même numéro, et au volume qu’il venait d’intituler : <i class="i">Questions</i>. (Note de 1940.)</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Cette étude, publiée en octobre 1937 dans un numéro de la revue<i class="i"> Esprit</i> consacré à la Suisse, répondait à la fois à la <i class="i">Lettre</i> que C.-F. Ramuz m’adressait en tête de ce même numéro, et au volume qu’il venait d’intituler : <i class="i">Questions</i>. (Note de 1940.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p109">p. 109</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Les guerres qui nous menacent n’opposeront pas seulement des colonnes motorisées, mais des conceptions de l’homme, de l’État, et des religions, des partis-pris spirituels bien plus puissants que les armées.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Les guerres qui nous menacent n’opposeront pas seulement des colonnes motorisées, mais des conceptions de l’homme, de l’État, et des religions, des partis-pris spirituels bien plus puissants que les armées.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p110">p. 110</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Par exemple : les droits des communes et ceux du canton ; les droits des cantons et ceux de la Confédération ; les droits de la Suisse et ceux de l’Europe ; images et conséquences à la fois de l’équilibre fondamental entre les droits de la personne et ceux de la communauté.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Par exemple : les droits des communes et ceux du canton ; les droits des cantons et ceux de la Confédération ; les droits de la Suisse et ceux de l’Europe ; images et conséquences à la fois de l’équilibre fondamental entre les droits de la personne et ceux de la communauté.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p111">p. 111</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="4#note20_">20. </a>On pourrait signaler aussi la garde de la papauté, en tant qu’institution d’intérêt universel et non-national. Mais c’est plutôt une survivance historique qu’un aspect de la mission commune à <i class="i">tous</i> les Suisses. Notons encore que le siège du Conseil œcuménique de toutes les Églises non-romaines a été fixé à Genève. Ici, il s’agit plutôt d’un germe, d’un avenir.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="4#note20_">20. </a>On pourrait signaler aussi la garde de la papauté, en tant qu’institution d’intérêt universel et non-national. Mais c’est plutôt une survivance historique qu’un aspect de la mission commune à <i class="i">tous</i> les Suisses. Notons encore que le siège du Conseil œcuménique de toutes les Églises non-romaines a été fixé à Genève. Ici, il s’agit plutôt d’un germe, d’un avenir.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p112">p. 112</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Quant à la civilisation britannique, elle fut, pour nous, de la Réforme jusqu’au <span class="num">xix<sup class="sup">e</sup></span> siècle, une quatrième voisine spirituelle.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Quant à la civilisation britannique, elle fut, pour nous, de la Réforme jusqu’au <span class="num">xix<sup class="sup">e</sup></span> siècle, une quatrième voisine spirituelle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p113">p. 113</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="4#note22_">22. </a>Je rappelle que ces pages datent de 1937.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="4#note22_">22. </a>Je rappelle que ces pages datent de 1937.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p116">p. 116</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="4#note23_">23. </a>À l’est de la Suisse <i class="i">romande</i>, s’entend.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="4#note23_">23. </a>À l’est de la Suisse <i class="i">romande</i>, s’entend.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p117">p. 117</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="4#note24_">24. </a>En passant : nos grands artistes ou écrivains ont souvent dispersé leur génie dans plusieurs domaines, s’interdisant peut-être, de la sorte, d’égaler les maîtres de première grandeur. Nicolas Manuel fut peintre, architecte, soldat, dramaturge et homme d’État ; Gottfried Keller peintre et romancier ; Rousseau musicien, philosophe et éducateur.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="4#note24_">24. </a>En passant : nos grands artistes ou écrivains ont souvent dispersé leur génie dans plusieurs domaines, s’interdisant peut-être, de la sorte, d’égaler les maîtres de première grandeur. Nicolas Manuel fut peintre, architecte, soldat, dramaturge et homme d’État ; Gottfried Keller peintre et romancier ; Rousseau musicien, philosophe et éducateur.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p119">p. 119</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>La Genève des beaux jours de la SDN semblait devoir renouveler ce rayonnement. Asile ou lieu d’élection d’Européens comme Ferrero ou Thibaudet ; agence de liaison de nos cultures grâce à la très remarquable <i class="i">Revue de Genève</i> de Robert de Traz ; centre du renouveau calviniste ; laboratoire de pédagogie (Institut Rousseau) et de psychanalyse, siège d’innombrables institutions internationales… Le caractère factice de la SDN devait par malheur compromettre dès le germe cette renaissance.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>La Genève des beaux jours de la SDN semblait devoir renouveler ce rayonnement. Asile ou lieu d’élection d’Européens comme Ferrero ou Thibaudet ; agence de liaison de nos cultures grâce à la très remarquable <i class="i">Revue de Genève</i> de Robert de Traz ; centre du renouveau calviniste ; laboratoire de pédagogie (Institut Rousseau) et de psychanalyse, siège d’innombrables institutions internationales… Le caractère factice de la SDN devait par malheur compromettre dès le germe cette renaissance.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p121">p. 121</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Il est curieux de noter, à ce propos, que le groupe de l’<i class="i">Ordre Nouveau</i> avait déduit, de ses principes fondamentaux, un projet d’organisation tout analogue pour l’armée d’un état personnaliste.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Il est curieux de noter, à ce propos, que le groupe de l’<i class="i">Ordre Nouveau</i> avait déduit, de ses principes fondamentaux, un projet d’organisation tout analogue pour l’armée d’un état personnaliste.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p123">p. 123</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>« La Suisse a dû prendre au cours de ces dernières années, pour sa défense militaire et économique, des mesures d’une ampleur auparavant inconnue. Cependant les milieux les plus divers reconnaissent qu’il n’est plus possible de s’en tenir à cette seule défense. » <i class="i">Message</i> du Conseil fédéral, du 9 nov. 1938. (Note de 1940.)</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>« La Suisse a dû prendre au cours de ces dernières années, pour sa défense militaire et économique, des mesures d’une ampleur auparavant inconnue. Cependant les milieux les plus divers reconnaissent qu’il n’est plus possible de s’en tenir à cette seule défense. » <i class="i">Message</i> du Conseil fédéral, du 9 nov. 1938. (Note de 1940.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p124">p. 124</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="4#note28_">28. </a>Ce vœu que j’émettais en 1937 s’est vu exaucé l’année suivante. Voir le très remarquable <i class="i">Message</i> du Conseil fédéral du 9 nov. 1938, annonçant et commentant l’institution de la Fondation <i class="i">Pro Helvetia</i>. L’instrument existe. Il s’agit maintenant de s’en servir, largement, et vite. (Note de 1940.)</aside>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="4#note29_">29. </a>Ce fut le cas en 1814-1815, lorsque les députés de la Confédération demandèrent au Congrès de Vienne la reconnaissance de leur neutralité : on craignait que de nouvelles guerres franco-allemandes ne dissociassent le lien des cantons, et l’on avait par trop souffert de la grande politique des voisins.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="4#note28_">28. </a>Ce vœu que j’émettais en 1937 s’est vu exaucé l’année suivante. Voir le très remarquable <i class="i">Message</i> du Conseil fédéral du 9 nov. 1938, annonçant et commentant l’institution de la Fondation <i class="i">Pro Helvetia</i>. L’instrument existe. Il s’agit maintenant de s’en servir, largement, et vite. (Note de 1940.)</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="4#note29_">29. </a>Ce fut le cas en 1814-1815, lorsque les députés de la Confédération demandèrent au Congrès de Vienne la reconnaissance de leur neutralité : on craignait que de nouvelles guerres franco-allemandes ne dissociassent le lien des cantons, et l’on avait par trop souffert de la grande politique des voisins.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#p126">p. 126</a>
                         </div>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="4#note30_">30. </a>Dans toutes les classes sociales, bien entendu !</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="4#note30_">30. </a>Dans toutes les classes sociales, bien entendu !</aside>
                       </div>
                     </section>
                   </article>
@@ -881,26 +997,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="here">
-                      <a href="#">Neutralité oblige  –  (1937)</a>
+                      <a href="#">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -910,13 +1026,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/5" name="La Suisse que nous devons défendre" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/5" name="4. La Suisse que nous devons défendre" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) La Suisse que nous devons défendre</value>
+          <value>4. La Suisse que nous devons défendre (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. La Suisse que nous devons défendre"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -925,7 +1070,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p129" id="p129">[p. 129]</a>
                     <h1 class="head chapter">La Suisse que nous devons défendre<a class="noteref" href="5#note31" id="note31_"><sup>31</sup></a><a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2 level2">
@@ -1104,19 +1249,19 @@
                         <div class="b note-page">
                           <a href="5#p129">p. 129</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="5#note31_">31. </a>Conférence prononcée le 28 janvier 1940 au Camp de Tavannes des UCJG.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="5#note31_">31. </a>Conférence prononcée le 28 janvier 1940 au Camp de Tavannes des UCJG.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p153">p. 153</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="5#note32_">32. </a>Cette phrase prend toute son importance <i class="i">historique</i> si l’on se rappelle que les Waldstätten, déjà, furent libérés de tout vasselage <i class="i">dans l’intérêt du St-Empire</i>, et non point parce que l’empereur tenait à leur faire un petit plaisir ! Ainsi le fondement même de la Confédération est sa mission <i class="i">européenne</i>.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="5#note32_">32. </a>Cette phrase prend toute son importance <i class="i">historique</i> si l’on se rappelle que les Waldstätten, déjà, furent libérés de tout vasselage <i class="i">dans l’intérêt du St-Empire</i>, et non point parce que l’empereur tenait à leur faire un petit plaisir ! Ainsi le fondement même de la Confédération est sa mission <i class="i">européenne</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#p161">p. 161</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="5#note33_">33. </a>En Russie, évidemment, chère Anastasie.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="5#note33_">33. </a>En Russie, évidemment, chère Anastasie.</aside>
                       </div>
                     </section>
                   </article>
@@ -1133,46 +1278,46 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="here">
                       <a href="#">La Suisse que nous devons défendre</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">Les voix que rien n’arrête</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">Nos privilèges</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">Sommes-nous « à la hauteur » de notre nature ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">Sommes-nous vraiment libres ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-5">Devons-nous rester neutres ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-6">Vocation de la Suisse</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1182,13 +1327,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/6" name="Esquisses d’une politique fédéraliste" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/6" name="5. Esquisses d’une politique fédéraliste" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) Esquisses d’une politique fédéraliste</value>
+          <value>5. Esquisses d’une politique fédéraliste (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. Esquisses d’une politique fédéraliste"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1197,7 +1371,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p169" id="p169">[p. 169]</a>
                     <h1 class="head chapter">Esquisses d’une politique fédéraliste<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">Il se peut que le fédéralisme n’ait été à son origine qu’une nécessité naturelle. Il se peut que durant des siècles, il soit demeuré une pratique terre à terre, et n’en ait que mieux fonctionné. Ce qui est certain, c’est qu’une <i class="i">praxis</i> ne peut rayonner et créer qu’avec l’appui d’une <i class="i">theoria</i>, à partir d’un certain moment.</p>
@@ -1333,37 +1507,37 @@
                         <div class="b note-page">
                           <a href="6#p173">p. 173</a>
                         </div>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>Voir là-dessus les travaux du professeur zurichois Karl Meyer. Le Pacte de 1291 est le dernier d’une longue série, dont le pacte de la Torre, au Tessin, fut l’un des premiers : 1182.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>Voir là-dessus les travaux du professeur zurichois Karl Meyer. Le Pacte de 1291 est le dernier d’une longue série, dont le pacte de la Torre, au Tessin, fut l’un des premiers : 1182.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p182">p. 182</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Voir sur ce point capital Richard Feller : <i class="de i" lang="de">Von der alten Eidgenossenschaft</i>, Rektoratsrede, Berne 1937.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Voir sur ce point capital Richard Feller : <i class="de i" lang="de">Von der alten Eidgenossenschaft</i>, Rektoratsrede, Berne 1937.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p183">p. 183</a>
                         </div>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>Laquelle est à la fois ou alternativement jacobine, raciste, nationaliste, marxiste, et toujours étatiste. Je ne parle pas des <i class="i">intentions</i> (souvent personnalistes, parfois même anarchisantes) mais des <i class="i">réalisations historiques</i>.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>Laquelle est à la fois ou alternativement jacobine, raciste, nationaliste, marxiste, et toujours étatiste. Je ne parle pas des <i class="i">intentions</i> (souvent personnalistes, parfois même anarchisantes) mais des <i class="i">réalisations historiques</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p188">p. 188</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>Cf. p. 88 de ce volume.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>Cf. p. 88 de ce volume.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p189">p. 189</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Il s’agirait d’instituer un <i class="i">service civil industriel</i> de quelques mois, assurant à chaque entreprise libre une main-d’œuvre à bas prix ou gratuite. D’où possibilité de supprimer la condition prolétarienne ; suppression du chômage périodique et technologique ; possibilité d’adapter la production à la consommation sans créer de troubles sociaux ou de nomadisme ; éducation sociale et morale des participants (cf. service militaire) etc., etc.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Il s’agirait d’instituer un <i class="i">service civil industriel</i> de quelques mois, assurant à chaque entreprise libre une main-d’œuvre à bas prix ou gratuite. D’où possibilité de supprimer la condition prolétarienne ; suppression du chômage périodique et technologique ; possibilité d’adapter la production à la consommation sans créer de troubles sociaux ou de nomadisme ; éducation sociale et morale des participants (cf. service militaire) etc., etc.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p194">p. 194</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="6#note39_">39. </a>Ce sont les successeurs pacifiques des officiers au service étranger d’autres siècles. On n’ignore pas les services décisifs que cette classe a rendus au pays, par ceux d’entre les siens qui y ont rapporté les richesses de lointaines expériences.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="6#note39_">39. </a>Ce sont les successeurs pacifiques des officiers au service étranger d’autres siècles. On n’ignore pas les services décisifs que cette classe a rendus au pays, par ceux d’entre les siens qui y ont rapporté les richesses de lointaines expériences.</aside>
                       </div>
                     </section>
                   </article>
@@ -1380,34 +1554,34 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="here">
                       <a href="#">Esquisses d’une politique fédéraliste</a>
                       <ul>
-                        <li>
-                          <a href="6#body-6-1">I  –  D’où vient le fédéralisme ?</a>
+                        <li class="collateral">
+                          <a href="6#body-6-1">I.  D’où vient le fédéralisme ?</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-2">II  –  Où va le fédéralisme ?</a>
+                        <li class="collateral">
+                          <a href="6#body-6-2">II.  Où va le fédéralisme ?</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="7">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                    <li class="collateral">
+                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1417,13 +1591,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/7" name="Appendice – ou « in cauda venenum » – Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/7" name="Appendice, ou « in cauda venenum ». Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Mission ou démission de la Suisse (1940) Appendice – ou « in cauda venenum » – Auto-critique de la Suisse</value>
+          <value>Appendice, ou « in cauda venenum ». Auto-critique de la Suisse (1940, Mission ou démission de la Suisse)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Mission ou démission de la Suisse (1940)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1940mds",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Appendice, ou « in cauda venenum ». Auto-critique de la Suisse"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1432,7 +1635,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p197" id="p197">[p. 197]</a>
                     <h1 class="head chapter">Appendice <br class="lb"/>ou « in cauda venenum » <br class="lb"/>Auto-critique de la Suisse<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">Nul pays, à ma connaissance, n’a été plus souvent expliqué à lui-même et au monde que la Suisse. C’est qu’il en a besoin plus que nul autre. Sa devise est un paradoxe qu’il n’a pas toujours bien compris. Elle exclut en principe toute doctrine unitaire, et suppose donc la connaissance très vivante d’une autre espèce d’union, sans cesse à recréer. Or l’inertie des masses et l’à peu près intellectuel s’opposent sans cesse à cette reprise de conscience. D’où la nécessité d’une vigilante auto-critique, si l’on ne veut pas déchoir ou se laisser dissoudre, si l’on veut durer et surtout, si l’on prétend se donner en exemple.</p>
@@ -1534,26 +1737,26 @@
                         <div class="b note-page">
                           <a href="7#p200">p. 200</a>
                         </div>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Peut-être me croira-t-on si je déclare, après la page qu’on vient de lire, que je n’ai pas d’ambitions politiques !</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Peut-être me croira-t-on si je déclare, après la page qu’on vient de lire, que je n’ai pas d’ambitions politiques !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p205">p. 205</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="7#note41_">41. </a>Intéressante précision du langage ! Un « drôle », c’est à la fois un comique et un malandrin.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="7#note41_">41. </a>Intéressante précision du langage ! Un « drôle », c’est à la fois un comique et un malandrin.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p212">p. 212</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>Ceci ne veut pas dire que nous devons préférer la mort à l’interdiction de proclamer des sottises. Je m’excuse de tant de lourdeur dans la précision, mais je m’avance ici sur un terrain miné. Je sais d’ailleurs ce que je risque. Ce qui me permet d’approuver pleinement cette déclaration de Spitteler : « N’est-ce pas un spectacle grotesque que celui d’une feuille de chou qui, sûre de son inviolabilité, vitupère en style de cabaret une grande puissance européenne, comme s’il s’agissait d’une paisible élection municipale ! Si la censure accourt alors avec une muselière, elle accomplit un acte de décence. »</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>Ceci ne veut pas dire que nous devons préférer la mort à l’interdiction de proclamer des sottises. Je m’excuse de tant de lourdeur dans la précision, mais je m’avance ici sur un terrain miné. Je sais d’ailleurs ce que je risque. Ce qui me permet d’approuver pleinement cette déclaration de Spitteler : « N’est-ce pas un spectacle grotesque que celui d’une feuille de chou qui, sûre de son inviolabilité, vitupère en style de cabaret une grande puissance européenne, comme s’il s’agissait d’une paisible élection municipale ! Si la censure accourt alors avec une muselière, elle accomplit un acte de décence. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#p214">p. 214</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a>Cf. à ce sujet les vues très exactes du grand théoricien de l’État totalitaire, Carl Schmitt, juriste catholique devenu national-socialiste.</aside>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="7#note44_">44. </a>« Nous ne sommes pas gouvernés, nous sommes seulement administrés » répète avec raison G. de Reynold. — À propos de cet écrivain : on me demande sans cesse en quoi et pourquoi mes positions diffèrent des siennes. Je répondrai : 1° que Reynold est catholique, et je suis calviniste ; 2° que lorsqu’il écrit : « Faire du socialisme, c’est faire la moitié du national-socialisme », je note en marge : « Faire du nationalisme, c’est faire l’autre moitié… » Nous sommes d’accord pour condamner le tout.</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a>Cf. à ce sujet les vues très exactes du grand théoricien de l’État totalitaire, Carl Schmitt, juriste catholique devenu national-socialiste.</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="7#note44_">44. </a>« Nous ne sommes pas gouvernés, nous sommes seulement administrés » répète avec raison G. de Reynold. — À propos de cet écrivain : on me demande sans cesse en quoi et pourquoi mes positions diffèrent des siennes. Je répondrai : 1° que Reynold est catholique, et je suis calviniste ; 2° que lorsqu’il écrit : « Faire du socialisme, c’est faire la moitié du national-socialisme », je note en marge : « Faire du nationalisme, c’est faire l’autre moitié… » Nous sommes d’accord pour condamner le tout.</aside>
                       </div>
                     </section>
                   </article>
@@ -1570,26 +1773,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2"> Le protestantisme créateur de personnes</a>
+                    <li class="collateral">
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
-                    <li>
-                      <a href="3"> La bataille de la culture</a>
+                    <li class="collateral">
+                      <a href="3">La bataille de la culture</a>
                     </li>
-                    <li>
-                      <a href="4">Neutralité oblige  –  (1937)</a>
+                    <li class="collateral">
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">La Suisse que nous devons défendre</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice  –  ou « in cauda venenum »  –  Auto-critique de la Suisse</a>
+                      <a href="#">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>

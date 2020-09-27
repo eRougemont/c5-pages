@@ -17,6 +17,11 @@ class C5pack
     array_shift($_SERVER['argv']); // shift first arg, the script filepath
     if (!count($_SERVER['argv'])) exit("
       php c5pack.php  ../ddr-articles/ddr-espr.xml\n");
+    
+    if($_SERVER['argv'][0] == "titles") {
+      self::titles();
+    }
+    
     $force = false;
     $first = true;
     foreach ($_SERVER['argv'] as $glob) {
@@ -94,7 +99,15 @@ class C5pack
     $xml = str_replace(array("<content>", "</content>"), array("<content><![CDATA[", "]]></content>"), $xml);
     file_put_contents($dstdir.'/content.xml', $xml);
     
-    if ($doctype == "livres") self::transform(dirname(__FILE__).'/_engine/c5-toc.xsl', $dom, $dstdir."/".$package.'_toc.html', array('bookname' => $bookname ));
+    if ($doctype == "livres") {
+      $dstfile = $dstdir."/".$package.'_toc.html';
+      $html = self::transform(dirname(__FILE__).'/_engine/c5-toc.xsl', $dom, null, array('bookname' => $bookname ));
+      // supprimer première et dernière ligne (conteneur)
+      $html = trim($html);
+      $html = substr($html, strpos($html, "\n") + 1);
+      $html = substr($html, 0, strrpos($html, "\n"));
+      file_put_contents($dstfile, $html);
+    }
   }
 
 
@@ -162,6 +175,17 @@ class C5pack
       foreach ($pars as $key => $value) $trans->removeParameter(null, $key);
     }
     return $ret;
+  }
+  
+  public static function titles($glob = "ddr19*/content.xml")
+  {
+    foreach(glob($glob) as $srcfile) {
+      $text = file_get_contents($srcfile);
+      preg_match_all('@<attributekey handle="meta_title">\s*<value>(.*)</value>@', $text, $matches);
+      echo "\n";
+      echo implode("\n", $matches[1]);
+      echo "\n";
+    }
   }
 
 }

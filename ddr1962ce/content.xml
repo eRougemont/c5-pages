@@ -4,10 +4,39 @@
     <page path="/livres/ddr1962ce/1" name="Avertissement" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) Avertissement</value>
+          <value>Avertissement (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Les conférences réunies dans ce petit volume ont été prononcées à l’Aula de l’Université de Genève, dans le cadre des cours de <i class="i">studium generale</i> destinés aux étudiants de toutes les facultés et ouverts au public. Le thème m’en avait été proposé par le professeur Éric Martin, Recteur de l’Université, auquel je dis ici ma gratitude. En m’invitant à occuper, les quatre jeudis du mois de mai cette chaire comparable à plus d’un égard au « siège périlleux » dont parlent les romans bretons, il me proposait une épreuve d’une séduisante difficulté. Présenter en quelques quarts d’heure l’aventure millénaire des Européens, c’était en soi courir une « aventure ». Bien plus, il s’agissait de répondre à la question que le titre posait d’une manière implicite, et de risquer un pronostic sur l’avenir prochain de l’Europe, devant un public jeune dont je croyais connaître certaines tendances à ne tenir pour sérieux que les constats de crise sans issue, exprimés dans le jargon à la mode de naguère. Je me trompais sur ce dernier point. La patience et la sympathie des étudiants m’en ont finalement convaincu. C’est donc à eux que je dédie ces quatre brefs essais sur l’espoir de l’Europe.</p>
@@ -38,19 +67,19 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’aventure mondiale des Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. Secret du dynamisme européen</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III. L’Europe s’unit</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Les nouvelles chances de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Appendice : Sartre contre l’Europe</a>
                     </li>
                   </ul>
@@ -64,10 +93,39 @@
     <page path="/livres/ddr1962ce/2" name="I. L’aventure mondiale des Européens" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) I. L’aventure mondiale des Européens</value>
+          <value>I. L’aventure mondiale des Européens (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. L’aventure mondiale des Européens"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -76,7 +134,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <h1 class="head chapter">I. L’aventure mondiale des Européens<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Je voudrais vous parler de l’Europe non pas comme d’une cause à défendre ou d’une patrie plus vaste à glorifier, mais comme d’une <i class="i">aventure décisive pour l’humanité tout entière.</i> Je voudrais vous parler de l’Europe comme de cette partie-là du monde qui a fait « le Monde », ayant été le foyer de l’idée de « genre humain », ayant été aussi la condition instrumentale et nécessaire d’une véritable histoire universelle — celle où nous sommes bel et bien engagés dans cette seconde moitié du <span class="num">xx<sup class="sup">e</sup></span> siècle, en sorte que les chances de l’Europe dans l’avenir se confondent pratiquement, désormais, avec celles de la civilisation née de ses œuvres, qu’elle a propagée sans prudence ni plan d’ensemble, dont elle n’est plus propriétaire, mais dont elle garde encore certains secrets vitaux. Je n’aurai pas trop de quatre leçons pour établir cette thèse centrale, cette <i class="i">définition de l’Europe par sa fonction mondialisante.</i> Car cela revient en somme à définir le phénomène européen par ses <i class="i">effets</i>, alors qu’on s’est toujours efforcé jusqu’ici de l’expliquer par certaines <i class="i">causes</i>, qui seraient tantôt, selon les auteurs et selon les modes, géographiques ou climatiques, économiques ou démographiques.</p>
                     <p class="p">Ce que j’appelle le phénomène européen se signale, dans l’histoire du monde, par quelques traits absolument originaux dont je donne tout de suite trois exemples :</p>
@@ -155,54 +213,54 @@ Pour tenter de prévoir maintenant les suites de l’aventure européenne et si 
                         <div class="b note-page">
                           <a href="2#pb8">p. 8</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Hippocrate est le premier auteur, à notre connaissance, qui ait décrit l’Europe comme une entité, en la contrastant avec l’Asie, dans le <i class="i">Traité des airs, des eaux et des lieux</i>, chapitre V, qui date de la fin du <span class="num">v<sup class="sup">e</sup></span> siècle avant J.-C., et qui fut peut-être rédigé par l’un de ses disciples. Un demi-siècle plus tard, Aristote reprend ce parallèle dans sa <i class="i">Politique</i>, livre VII, chapitre 6, et ajoute que « la race des Grecs », parce qu’elle réunit les caractères des Nordiques, courageux mais sans organisation, et des Orientaux intelligents mais lâches devant le despote, « demeure libre et conserve le meilleur des gouvernements ». Et il ajoute : « Elle pourrait soumettre à son obéissance toutes les nations, si elle se réunissait en un seul État ».</aside>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Strabon, Grec du Pont (né en 66 av. J.-C., mort sous Tibère), a laissé une description des pays connus, de la péninsule Ibérique aux pays de l’Asie au-delà du Taurus. Il insiste sur la <i class="i">variété</i> des conditions de vie favorisant des échanges féconds entre les peuples de l’Europe.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Hippocrate est le premier auteur, à notre connaissance, qui ait décrit l’Europe comme une entité, en la contrastant avec l’Asie, dans le <i class="i">Traité des airs, des eaux et des lieux</i>, chapitre V, qui date de la fin du <span class="num">v<sup class="sup">e</sup></span> siècle avant J.-C., et qui fut peut-être rédigé par l’un de ses disciples. Un demi-siècle plus tard, Aristote reprend ce parallèle dans sa <i class="i">Politique</i>, livre VII, chapitre 6, et ajoute que « la race des Grecs », parce qu’elle réunit les caractères des Nordiques, courageux mais sans organisation, et des Orientaux intelligents mais lâches devant le despote, « demeure libre et conserve le meilleur des gouvernements ». Et il ajoute : « Elle pourrait soumettre à son obéissance toutes les nations, si elle se réunissait en un seul État ».</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Strabon, Grec du Pont (né en 66 av. J.-C., mort sous Tibère), a laissé une description des pays connus, de la péninsule Ibérique aux pays de l’Asie au-delà du Taurus. Il insiste sur la <i class="i">variété</i> des conditions de vie favorisant des échanges féconds entre les peuples de l’Europe.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb11">p. 11</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a><i class="i">Géographie universelle</i>, par E. Mantelle et Malte-Brun, Paris, 1816. Le passage cité de Paul Valéry se trouve dans <i class="i">Variété I</i>. « La Crise de l’Esprit », Paris, 1924.</aside>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Ces chiffres sont nécessairement imprécis et ne peuvent indiquer que des ordres de grandeur. Les estimations de la population actuelle de la Chine varient entre 480 et 750 millions, selon la tendance politique des démographes. L’Europe de l’Ouest (Finlande et Yougoslavie incluses) compte environ 335 millions d’habitants, les pays satellites de l’URSS 95 millions. Selon qu’on ajoute ou non à ce total la Russie qu’on appelait « d’Europe » (jusqu’à l’Oural et à la mer Caspienne) on obtient des chiffres supérieurs ou inférieurs à ceux de la Chine. À la population de l’Inde (400 millions en 1959) il convient d’ajouter celle du Pakistan, ce qui donne un total d’environ 500 millions.</aside>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Charles <span class="sc">Morazé</span>, <i class="i">Essai sur l’Occident</i>, Paris, Armand Colin, 1950, p. 76 : « La grande enquête de 1328 attribue à la France le même chiffre de population que celui proposé par Vauban… à la fin du règne de Louis XIV ».</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a><i class="i">Géographie universelle</i>, par E. Mantelle et Malte-Brun, Paris, 1816. Le passage cité de Paul Valéry se trouve dans <i class="i">Variété I</i>. « La Crise de l’Esprit », Paris, 1924.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>Ces chiffres sont nécessairement imprécis et ne peuvent indiquer que des ordres de grandeur. Les estimations de la population actuelle de la Chine varient entre 480 et 750 millions, selon la tendance politique des démographes. L’Europe de l’Ouest (Finlande et Yougoslavie incluses) compte environ 335 millions d’habitants, les pays satellites de l’URSS 95 millions. Selon qu’on ajoute ou non à ce total la Russie qu’on appelait « d’Europe » (jusqu’à l’Oural et à la mer Caspienne) on obtient des chiffres supérieurs ou inférieurs à ceux de la Chine. À la population de l’Inde (400 millions en 1959) il convient d’ajouter celle du Pakistan, ce qui donne un total d’environ 500 millions.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Charles <span class="sc">Morazé</span>, <i class="i">Essai sur l’Occident</i>, Paris, Armand Colin, 1950, p. 76 : « La grande enquête de 1328 attribue à la France le même chiffre de population que celui proposé par Vauban… à la fin du règne de Louis XIV ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb12">p. 12</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>La population de la Chine vers 1850 était estimée à 400 millions, celle du globe à 1 200 millions, donc la Chine représentait alors un tiers du genre humain. En admettant que les Chinois sont aujourd’hui 650 millions, la population totale du globe étant de 2 800 millions, cela donne pour la Chine un peu moins d’un quart. Estimations pour l’an 2000 : Chine 1 100 millions, Monde 5 600 millions.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>La population de la Chine vers 1850 était estimée à 400 millions, celle du globe à 1 200 millions, donc la Chine représentait alors un tiers du genre humain. En admettant que les Chinois sont aujourd’hui 650 millions, la population totale du globe étant de 2 800 millions, cela donne pour la Chine un peu moins d’un quart. Estimations pour l’an 2000 : Chine 1 100 millions, Monde 5 600 millions.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb13">p. 13</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Karl <span class="sc">Jaspers</span>, <i class="i">Nietzsche et le Christianisme</i>, traduction française par Jeanne Hersch, Éditions de Minuit, Paris, 1949. Voir aussi mon <a href="file:///var/www/html/Rougemont/tests/livres/ddr1957aoh"><i class="i">Aventure occidentale de l’homme</i></a>, Albin Michel, Paris, 1957, chap. VII, l’Exploration de la matière.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Karl <span class="sc">Jaspers</span>, <i class="i">Nietzsche et le Christianisme</i>, traduction française par Jeanne Hersch, Éditions de Minuit, Paris, 1949. Voir aussi mon <a href="file:///var/www/html/Rougemont/tests/livres/ddr1957aoh"><i class="i">Aventure occidentale de l’homme</i></a>, Albin Michel, Paris, 1957, chap. VII, l’Exploration de la matière.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb14">p. 14</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Cf. André <span class="sc">Varagnac</span>, « Comment est née l’Europe ? », <i class="i">La Table ronde</i>, n<sup class="sup">o</sup> 113, Paris, 1957, et <i class="i">L’Homme avant l’écriture</i>, Armand Colin, Paris, 1959, tableau p. 374. Voir aussi les ouvrages classiques de <span class="sc">V. Gordon Childe</span>, notamment <i class="i">L’Aube de la civilisation européenne</i>, traduction française Payot, Paris, 1949.</aside>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Sur l’étymologie d’Europe, cf. mes <a href="file:///var/www/html/Rougemont/tests/livres/ddr1961vhse"><i class="i">Vingt-huit siècles d’Europe</i></a>, Payot, Paris, 1961, p. 28 à 33. La vérité historique de la légende de l’Enlèvement d’Europe vient d’être corroborée une fois de plus par le déchiffrement des inscriptions crétoises en « linéaire A » par des savants anglais et américains : il s’agit d’un langage phénicien écrit en caractères grecs.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Cf. André <span class="sc">Varagnac</span>, « Comment est née l’Europe ? », <i class="i">La Table ronde</i>, n<sup class="sup">o</sup> 113, Paris, 1957, et <i class="i">L’Homme avant l’écriture</i>, Armand Colin, Paris, 1959, tableau p. 374. Voir aussi les ouvrages classiques de <span class="sc">V. Gordon Childe</span>, notamment <i class="i">L’Aube de la civilisation européenne</i>, traduction française Payot, Paris, 1949.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Sur l’étymologie d’Europe, cf. mes <a href="file:///var/www/html/Rougemont/tests/livres/ddr1961vhse"><i class="i">Vingt-huit siècles d’Europe</i></a>, Payot, Paris, 1961, p. 28 à 33. La vérité historique de la légende de l’Enlèvement d’Europe vient d’être corroborée une fois de plus par le déchiffrement des inscriptions crétoises en « linéaire A » par des savants anglais et américains : il s’agit d’un langage phénicien écrit en caractères grecs.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb15">p. 15</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Sur la légende de Cadmus, voir Robert <span class="sc">Graves</span>, <i class="i">The Greek Myths</i>, 2 vol., Penguin Books, Londres, 1955, I, p. 194-197. Sur l’établissement des Phéniciens en Béotie, cf. Victor <span class="sc">Bérard</span>, <i class="i">La Résurrection d’Homère</i>, p. 190 et 191, Paris, 1930.</aside>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Genèse, 9, 20 à 27, et tout le chapitre 10, forment la base des spéculations des Pères. On en trouvera une discussion très détaillée dans Jürgen <span class="sc">Fischer</span>, <i class="i">Oriens, Occulens, Europa, Begriff und Gedanke « Europa » in der späten Antike und im früheren Mittelalter</i>, F. Steiner Verlag, Wiesbaden, 1957.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Sur la légende de Cadmus, voir Robert <span class="sc">Graves</span>, <i class="i">The Greek Myths</i>, 2 vol., Penguin Books, Londres, 1955, I, p. 194-197. Sur l’établissement des Phéniciens en Béotie, cf. Victor <span class="sc">Bérard</span>, <i class="i">La Résurrection d’Homère</i>, p. 190 et 191, Paris, 1930.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Genèse, 9, 20 à 27, et tout le chapitre 10, forment la base des spéculations des Pères. On en trouvera une discussion très détaillée dans Jürgen <span class="sc">Fischer</span>, <i class="i">Oriens, Occulens, Europa, Begriff und Gedanke « Europa » in der späten Antike und im früheren Mittelalter</i>, F. Steiner Verlag, Wiesbaden, 1957.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb18">p. 18</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Les titres de Colomb (ou Colón) lui furent donnés dans une lettre écrite de Barcelone par Ferdinand et Isabelle le 30 mars 1493 : « Don Cristobal » rentrait des « Indes » en triomphateur. Sur les origines du Grand Amiral de la mer Océane, sur les recherches scientifiques portugaises, italiennes et allemandes qui sont à la base de ses calculs, et sur le « fantastique édifice biblico-cosmographique » qu’il composera plus tard pour expliquer ses découvertes, il faut lire l’admirable et savant <i class="i">Christophe Colomb</i> de Salvador de <span class="sc">Madariaga</span>, Calmann-Lévy, Paris, 1952.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Les titres de Colomb (ou Colón) lui furent donnés dans une lettre écrite de Barcelone par Ferdinand et Isabelle le 30 mars 1493 : « Don Cristobal » rentrait des « Indes » en triomphateur. Sur les origines du Grand Amiral de la mer Océane, sur les recherches scientifiques portugaises, italiennes et allemandes qui sont à la base de ses calculs, et sur le « fantastique édifice biblico-cosmographique » qu’il composera plus tard pour expliquer ses découvertes, il faut lire l’admirable et savant <i class="i">Christophe Colomb</i> de Salvador de <span class="sc">Madariaga</span>, Calmann-Lévy, Paris, 1952.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb20">p. 20</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a>Des Irlandais arrivent en Islande dès 795. Cent ans plus tard, les Normands ou Vikings, encore païens, découvrent dans cette île, nommée par eux Thulé (Tyli), une implantation chrétienne décrite par le <i class="i">Landnamabok</i> rédigé vers 1200. La première expédition scandinave relatée par les chroniques remonte à 870. Elle est le fait de Norvégiens fuyant la tyrannie d’un roi local, Harald aux cheveux blonds. De l’Islande, les Vikings vont explorer et coloniser le Groenland, où Éric le Rouge règne à la fin du <span class="num">x<sup class="sup">e</sup></span> siècle. De là, ils découvrent le Labrador, puis la Nouvelle-Écosse, enfin le Nord des États-Unis, qu’ils baptisent <i class="i">Vinland</i>, « pays de la vigne » ; ce sont les côtes du Maine. Une pierre runique, découverte en 1898 dans le Minnesota, atteste l’expédition faite en 1362 par des Suédois et des Norvégiens chargés par la cour de Norvège « de retrouver et de ramener au christianisme les colons du Groenland qui avaient disparu ». (Rapport du Musée national de Washington, cité par Paul <span class="sc">Herrmann</span>, <i class="i">L’Homme à la découverte du monde</i>, traduction française Plon, Paris, 1954.)</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a>Des Irlandais arrivent en Islande dès 795. Cent ans plus tard, les Normands ou Vikings, encore païens, découvrent dans cette île, nommée par eux Thulé (Tyli), une implantation chrétienne décrite par le <i class="i">Landnamabok</i> rédigé vers 1200. La première expédition scandinave relatée par les chroniques remonte à 870. Elle est le fait de Norvégiens fuyant la tyrannie d’un roi local, Harald aux cheveux blonds. De l’Islande, les Vikings vont explorer et coloniser le Groenland, où Éric le Rouge règne à la fin du <span class="num">x<sup class="sup">e</sup></span> siècle. De là, ils découvrent le Labrador, puis la Nouvelle-Écosse, enfin le Nord des États-Unis, qu’ils baptisent <i class="i">Vinland</i>, « pays de la vigne » ; ce sont les côtes du Maine. Une pierre runique, découverte en 1898 dans le Minnesota, atteste l’expédition faite en 1362 par des Suédois et des Norvégiens chargés par la cour de Norvège « de retrouver et de ramener au christianisme les colons du Groenland qui avaient disparu ». (Rapport du Musée national de Washington, cité par Paul <span class="sc">Herrmann</span>, <i class="i">L’Homme à la découverte du monde</i>, traduction française Plon, Paris, 1954.)</aside>
                       </div>
                     </section>
                   </article>
@@ -219,22 +277,22 @@ Pour tenter de prévoir maintenant les suites de l’aventure européenne et si 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’aventure mondiale des Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. Secret du dynamisme européen</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III. L’Europe s’unit</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Les nouvelles chances de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Appendice : Sartre contre l’Europe</a>
                     </li>
                   </ul>
@@ -248,10 +306,39 @@ Pour tenter de prévoir maintenant les suites de l’aventure européenne et si 
     <page path="/livres/ddr1962ce/3" name="II. Secret du dynamisme européen" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) II. Secret du dynamisme européen</value>
+          <value>II. Secret du dynamisme européen (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. Secret du dynamisme européen"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -260,7 +347,7 @@ Pour tenter de prévoir maintenant les suites de l’aventure européenne et si 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb25" id="pb25">[p. 25]</a>
                     <h1 class="head chapter">II. Secret du dynamisme européen<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">J’ai retracé l’aventure inouïe des habitants du cap occidental de l’Asie, étendant leur puissance sur tous les continents successivement, de la Renaissance jusqu’aux deux guerres mondiales, et ce reflux qui sous nos yeux s’achève, ramenant l’Europe à ses limites du <span class="num">xv<sup class="sup">e</sup></span> siècle. Et je vous ai laissés sur cette question : serait-ce la fin de l’Aventure ?</p>
@@ -351,38 +438,38 @@ J’entends par là : saura-t-il rassembler à temps ses forces vives, pour fai
                         <div class="b note-page">
                           <a href="3#pb26">p. 26</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>Les premiers travaux sur « l’hémisphère privilégié » remontent à 1906 : Philipson et Neumann en Allemagne, Mackinder en Angleterre. Le grand géographe anglais publie en 1930 une étude plus approfondie. Enfin Parker van Zandt aux USA en 1944 et H. Taylor en 1945, pour les services de l’Armée de l’air britannique, envisagent le problème du point de vue des communications aériennes. On trouvera une bonne carte de l’hémisphère privilégié dans l’ouvrage de Parker van <span class="sc">Zandt</span>, <i class="i">Strategy of an Air Age</i>, The Brookings Institution, Washington D.C., 1944.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>Les premiers travaux sur « l’hémisphère privilégié » remontent à 1906 : Philipson et Neumann en Allemagne, Mackinder en Angleterre. Le grand géographe anglais publie en 1930 une étude plus approfondie. Enfin Parker van Zandt aux USA en 1944 et H. Taylor en 1945, pour les services de l’Armée de l’air britannique, envisagent le problème du point de vue des communications aériennes. On trouvera une bonne carte de l’hémisphère privilégié dans l’ouvrage de Parker van <span class="sc">Zandt</span>, <i class="i">Strategy of an Air Age</i>, The Brookings Institution, Washington D.C., 1944.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb27">p. 27</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Bartolomé de Las Casas, évangéliste des Indiens, défend leur cause devant le Roi et le fils de Colomb, dès 1519. Sa <i class="i">Brevissima relación de la destrucción de las Indias</i>, publiée à Séville en 1552, est le premier acte d’accusation contre le colonialisme, et fonde une longue tradition, jusqu’à nos jours tradition européenne, soulignons-le. Le célèbre moine Francisco de Vitoria, dans son <i class="i">De Indis</i>, 1532, établit le droit des Indiens à la possession de leur territoire, et n’accorde aux Espagnols que le droit de voyager aux Indes pour y aller convertir les païens. Un autre moine espagnol, le jésuite Francisco Suarez (1548-1617), et le calviniste libéral Hugo Grotius (1583-1645), partant de bases d’ailleurs très différentes, sont considérés, avec Vitoria, comme les fondateurs du<i class="i"> ius gentium</i> occidental.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="3#note15_">15. </a>Bartolomé de Las Casas, évangéliste des Indiens, défend leur cause devant le Roi et le fils de Colomb, dès 1519. Sa <i class="i">Brevissima relación de la destrucción de las Indias</i>, publiée à Séville en 1552, est le premier acte d’accusation contre le colonialisme, et fonde une longue tradition, jusqu’à nos jours tradition européenne, soulignons-le. Le célèbre moine Francisco de Vitoria, dans son <i class="i">De Indis</i>, 1532, établit le droit des Indiens à la possession de leur territoire, et n’accorde aux Espagnols que le droit de voyager aux Indes pour y aller convertir les païens. Un autre moine espagnol, le jésuite Francisco Suarez (1548-1617), et le calviniste libéral Hugo Grotius (1583-1645), partant de bases d’ailleurs très différentes, sont considérés, avec Vitoria, comme les fondateurs du<i class="i"> ius gentium</i> occidental.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb32">p. 32</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Les premières <i class="i">bandes dessinées</i>, journal illustré de l’époque, sont l’œuvre d’Albert Dürer (1471-1528). Il les gravait, les tirait et les sous-titrait lui-même, et sa femme allait les vendre sur la <i class="i">place</i>, au <i class="i">marché</i> et dans les <i class="i">tavernes</i>.</aside>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>En Inde, point de cérémonies communautaires, en dehors des grandes processions. Mais des centaines de milliers de petits temples, où devant une idole de proportions réduites, une seule femme, un seul homme, prie debout.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Les premières <i class="i">bandes dessinées</i>, journal illustré de l’époque, sont l’œuvre d’Albert Dürer (1471-1528). Il les gravait, les tirait et les sous-titrait lui-même, et sa femme allait les vendre sur la <i class="i">place</i>, au <i class="i">marché</i> et dans les <i class="i">tavernes</i>.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>En Inde, point de cérémonies communautaires, en dehors des grandes processions. Mais des centaines de milliers de petits temples, où devant une idole de proportions réduites, une seule femme, un seul homme, prie debout.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb33">p. 33</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="3#note18_">18. </a>Cf. mon essai intitulé « <a href="file:///var/www/html/Rougemont/tests/articles/ddr1960bcec">La règle d’or, ou principe de l’éducation européenne</a> », <a href="file:///var/www/html/Rougemont/tests/dossiers/bcec"><i class="i">Bulletin du Centre européen de la culture</i></a>, n° 3, 1960-1961, p. 1-11. Substance d’une conférence donnée à la Faculté des Lettres, chaire de pédagogie, de l’Université de Genève.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="3#note18_">18. </a>Cf. mon essai intitulé « <a href="file:///var/www/html/Rougemont/tests/articles/ddr1960bcec">La règle d’or, ou principe de l’éducation européenne</a> », <a href="file:///var/www/html/Rougemont/tests/dossiers/bcec"><i class="i">Bulletin du Centre européen de la culture</i></a>, n° 3, 1960-1961, p. 1-11. Substance d’une conférence donnée à la Faculté des Lettres, chaire de pédagogie, de l’Université de Genève.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb37">p. 37</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="3#note19_">19. </a>Je renvoie, pour plus de développements sur ce point capital, à l’étude mentionnée dans la note 20. Je me basais, concernant l’URSS, sur les recherches poursuivies à Harvard par le professeur Nicolas de Witt, et qui décrivaient le point extrême de la spécialisation atteint vers 1950-1955. Depuis lors, l’Institut d’études soviétiques de Harvard a pu suivre et faire connaître les progrès de l’évolution russe vers le rétablissement des études générales. Voir aussi, dans le même sens, l’ouvrage plus polémique (contre les États-Unis), mais très documenté, du professeur Arthur <span class="sc">S. Trace</span>, <i class="i">What Ivan knows that Sammy doesn’t</i>, Random House, New York, 1961, étude comparée de l’enseignement primaire et secondaire aux USA et en URSS.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="3#note19_">19. </a>Je renvoie, pour plus de développements sur ce point capital, à l’étude mentionnée dans la note 20. Je me basais, concernant l’URSS, sur les recherches poursuivies à Harvard par le professeur Nicolas de Witt, et qui décrivaient le point extrême de la spécialisation atteint vers 1950-1955. Depuis lors, l’Institut d’études soviétiques de Harvard a pu suivre et faire connaître les progrès de l’évolution russe vers le rétablissement des études générales. Voir aussi, dans le même sens, l’ouvrage plus polémique (contre les États-Unis), mais très documenté, du professeur Arthur <span class="sc">S. Trace</span>, <i class="i">What Ivan knows that Sammy doesn’t</i>, Random House, New York, 1961, étude comparée de l’enseignement primaire et secondaire aux USA et en URSS.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb38">p. 38</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="3#note20_">20. </a><i class="i">L’Union des villes et des pouvoirs locaux</i>, dont le siège est à La Haye, a organisé de nombreux congrès de maires et publié quelques ouvrages importants sur l’état des problèmes municipaux dans nos pays, notamment <i class="i">Die Grosse Stadt und die Kleine Gemeinde</i>, Wiener Kongress, juin 1953, et les <i class="i">Communes de l’Europe</i>, par les ministres Pierre <span class="sc">Wigny</span> (Belgique) et H.-J. von <span class="sc">Merkatz</span> (République fédérale), La Haye, 1955. <i class="i">Le Conseil des communes d’Europe</i>, plus nettement fédéraliste par sa doctrine, s’est fondé à Genève en 1951 et groupe environ 40 000 communes. Son siège est à Paris, et ses principaux animateurs sont Français (MM. J. Chaban-Delmas, maire de Bordeaux, et G. Deferre, maire de Marseille, notamment). Il publie une revue intitulée <i class="i">Communes d’Europe</i>. Sous les auspices du CCE, de très nombreux jumelages de villes ont été réalisés, donnant lieu a des manifestations populaires de solidarité européenne. Enfin, une <i class="i">Commission européenne des pouvoirs locaux</i> a été constituée au Conseil de l’Europe, à Strasbourg.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="3#note20_">20. </a><i class="i">L’Union des villes et des pouvoirs locaux</i>, dont le siège est à La Haye, a organisé de nombreux congrès de maires et publié quelques ouvrages importants sur l’état des problèmes municipaux dans nos pays, notamment <i class="i">Die Grosse Stadt und die Kleine Gemeinde</i>, Wiener Kongress, juin 1953, et les <i class="i">Communes de l’Europe</i>, par les ministres Pierre <span class="sc">Wigny</span> (Belgique) et H.-J. von <span class="sc">Merkatz</span> (République fédérale), La Haye, 1955. <i class="i">Le Conseil des communes d’Europe</i>, plus nettement fédéraliste par sa doctrine, s’est fondé à Genève en 1951 et groupe environ 40 000 communes. Son siège est à Paris, et ses principaux animateurs sont Français (MM. J. Chaban-Delmas, maire de Bordeaux, et G. Deferre, maire de Marseille, notamment). Il publie une revue intitulée <i class="i">Communes d’Europe</i>. Sous les auspices du CCE, de très nombreux jumelages de villes ont été réalisés, donnant lieu a des manifestations populaires de solidarité européenne. Enfin, une <i class="i">Commission européenne des pouvoirs locaux</i> a été constituée au Conseil de l’Europe, à Strasbourg.</aside>
                       </div>
                     </section>
                   </article>
@@ -399,22 +486,22 @@ J’entends par là : saura-t-il rassembler à temps ses forces vives, pour fai
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’aventure mondiale des Européens</a>
                     </li>
                     <li class="here">
                       <a href="#">II. Secret du dynamisme européen</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III. L’Europe s’unit</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Les nouvelles chances de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Appendice : Sartre contre l’Europe</a>
                     </li>
                   </ul>
@@ -428,10 +515,39 @@ J’entends par là : saura-t-il rassembler à temps ses forces vives, pour fai
     <page path="/livres/ddr1962ce/4" name="III. L’Europe s’unit" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) III. L’Europe s’unit</value>
+          <value>III. L’Europe s’unit (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III. L’Europe s’unit"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -440,7 +556,7 @@ J’entends par là : saura-t-il rassembler à temps ses forces vives, pour fai
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb45" id="pb45">[p. 45]</a>
                     <h1 class="head chapter">III. L’Europe s’unit<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">Les organes vitaux de notre société, pris un à un, me paraissent donc en assez bon état. Reste à savoir si le sujet Europe possède encore une volonté de vivre suffisante pour remplir les fonctions nouvelles qui lui sont assignées désormais, dans le monde.</p>
@@ -564,89 +680,89 @@ que pourra s’opérer la transmutation indispensable de la volonté militante d
                         <div class="b note-page">
                           <a href="4#pb47">p. 47</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Les citations des plans européens qu’on trouvera plus bas sont toutes empruntées à cet ouvrage, auquel on pourra se reporter pour le contexte.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Les citations des plans européens qu’on trouvera plus bas sont toutes empruntées à cet ouvrage, auquel on pourra se reporter pour le contexte.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb49">p. 49</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="4#note22_">22. </a><span class="sc">Dante</span>, <i class="i">De Monarchia</i>, écrit en 1308, en latin, cité d’après la traduction française de B. Landry, Alcan, Paris, 1933.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="4#note22_">22. </a><span class="sc">Dante</span>, <i class="i">De Monarchia</i>, écrit en 1308, en latin, cité d’après la traduction française de B. Landry, Alcan, Paris, 1933.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb50">p. 50</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="4#note23_">23. </a>Pierre <span class="sc">Dubois</span>, <i class="i">De recuperatione Terra Sancte</i>, composé en 1306, et adressé sous forme de lettre circulaire à tous les princes de la chrétienté.</aside>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="4#note24_">24. </a>Christian <span class="sc">L. Lange</span>, <i class="i">Histoire de l’internationalisme</i>, Christiania, 1919, tome I, chapitre IV.</aside>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>Le Traité de Georges Podiébrad (1420-1471) fut écrit en latin, l’an 1463. Son texte est reproduit dans les Mémoires de Philippe de Comines, où il est annoncé par ce titre français : Traité d’alliance et confédération entre le roy Louis IX, Georges roy de Bohème et la Seigneurie de Venise, pour résister au Turc.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="4#note23_">23. </a>Pierre <span class="sc">Dubois</span>, <i class="i">De recuperatione Terra Sancte</i>, composé en 1306, et adressé sous forme de lettre circulaire à tous les princes de la chrétienté.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="4#note24_">24. </a>Christian <span class="sc">L. Lange</span>, <i class="i">Histoire de l’internationalisme</i>, Christiania, 1919, tome I, chapitre IV.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>Le Traité de Georges Podiébrad (1420-1471) fut écrit en latin, l’an 1463. Son texte est reproduit dans les Mémoires de Philippe de Comines, où il est annoncé par ce titre français : Traité d’alliance et confédération entre le roy Louis IX, Georges roy de Bohème et la Seigneurie de Venise, pour résister au Turc.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb51">p. 51</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Aeneas Silvius Piccolomini (1405-1464), De Constantinopolitana clade ac bello contra Turcos congregando. Podiébrad monte sur le trône en 1462, l’année même où Aeneas Silvius devient le pape Pie II. Ces deux contemporains poursuivent le même dessein, mais l’antagonisme entre la Papauté et les Princes oblige Pie II à condamner le projet de Podiébrad, qui d’ailleurs est anticlérical.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Aeneas Silvius Piccolomini (1405-1464), De Constantinopolitana clade ac bello contra Turcos congregando. Podiébrad monte sur le trône en 1462, l’année même où Aeneas Silvius devient le pape Pie II. Ces deux contemporains poursuivent le même dessein, mais l’antagonisme entre la Papauté et les Princes oblige Pie II à condamner le projet de Podiébrad, qui d’ailleurs est anticlérical.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb52">p. 52</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>Émeric <span class="sc">Crucé</span> († 1648), <i class="i">Le Nouveau Cynée ou discours d’État représentant les occasions et moyens d’établir une paix générale et la liberté du commerce par tout le monde</i>. Publié à Paris, en 1623.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>Émeric <span class="sc">Crucé</span> († 1648), <i class="i">Le Nouveau Cynée ou discours d’État représentant les occasions et moyens d’établir une paix générale et la liberté du commerce par tout le monde</i>. Publié à Paris, en 1623.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb53">p. 53</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="4#note28_">28. </a>Les <i class="i">Mémoires</i> de Maximilien de Béthune, duc de Sully (leur titre complet compte une dizaine de lignes) n’ont paru qu’en 1662, quoique leur achèvement remonte à 1638 pour les deux premières parties. L’abbé de l’Écluse en publie un digeste qui touche un vaste public, en 1745.</aside>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="4#note29_">29. </a>Amos Comenius (nom latinisé de Komenski), 1592-1670, écrivit sa <i class="i">Panegersia</i> ou <i class="i">Réveil universel</i> en 1645 et la publia en 1666. La phrase citée est extraite de la « Praefatio ad Europeos ».</aside>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="4#note30_">30. </a>L’<i class="i">Essay towards the Present and Future Peace of Europe</i> fut composé de 1692 à 1694, pendant une interruption de la carrière de William Penn comme gouverneur.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="4#note28_">28. </a>Les <i class="i">Mémoires</i> de Maximilien de Béthune, duc de Sully (leur titre complet compte une dizaine de lignes) n’ont paru qu’en 1662, quoique leur achèvement remonte à 1638 pour les deux premières parties. L’abbé de l’Écluse en publie un digeste qui touche un vaste public, en 1745.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="4#note29_">29. </a>Amos Comenius (nom latinisé de Komenski), 1592-1670, écrivit sa <i class="i">Panegersia</i> ou <i class="i">Réveil universel</i> en 1645 et la publia en 1666. La phrase citée est extraite de la « Praefatio ad Europeos ».</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="4#note30_">30. </a>L’<i class="i">Essay towards the Present and Future Peace of Europe</i> fut composé de 1692 à 1694, pendant une interruption de la carrière de William Penn comme gouverneur.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb54">p. 54</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="4#note31_">31. </a>Le <i class="i">Projet pour rendre la Paix perpétuelle</i> en Europe parut d’abord à Cologne en 1712, puis à Utrecht en 1713, sans nom d’auteur. En 1729, l’abbé de Saint-Pierre en compose un <i class="i">Abrégé</i> qu’il signe cette fois.</aside>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="4#note32_">32. </a>L’<i class="i">Extrait du Projet de paix perpétuelle de M. l’Abbé de Saint-Pierre, par J.-J. Rousseau</i>, citoyen de Genève parut à Amsterdam en 1761.</aside>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="4#note33_">33. </a>C’est dans les <i class="i">Principles of international Law</i>, terminés en 1789, publiés en 1843, bien après la mort de l’auteur, que Jeremy Bentham inclut <i class="i">A Plan for an Universal and Perpetual Peace</i>, traitant de la question européenne.</aside>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="4#note34_">34. </a>Henri de <span class="sc">Saint-Simon</span>, <i class="i">De la réorganisation de la société européenne ou de la nécessité de rassembler les peuples de l’Europe en un seul corps politique, en conservant à chacun son indépendance nationale</i>, Paris, 1814.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="4#note31_">31. </a>Le <i class="i">Projet pour rendre la Paix perpétuelle</i> en Europe parut d’abord à Cologne en 1712, puis à Utrecht en 1713, sans nom d’auteur. En 1729, l’abbé de Saint-Pierre en compose un <i class="i">Abrégé</i> qu’il signe cette fois.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="4#note32_">32. </a>L’<i class="i">Extrait du Projet de paix perpétuelle de M. l’Abbé de Saint-Pierre, par J.-J. Rousseau</i>, citoyen de Genève parut à Amsterdam en 1761.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="4#note33_">33. </a>C’est dans les <i class="i">Principles of international Law</i>, terminés en 1789, publiés en 1843, bien après la mort de l’auteur, que Jeremy Bentham inclut <i class="i">A Plan for an Universal and Perpetual Peace</i>, traitant de la question européenne.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="4#note34_">34. </a>Henri de <span class="sc">Saint-Simon</span>, <i class="i">De la réorganisation de la société européenne ou de la nécessité de rassembler les peuples de l’Europe en un seul corps politique, en conservant à chacun son indépendance nationale</i>, Paris, 1814.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb56">p. 56</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="4#note35_">35. </a>Victor <span class="sc">Hugo</span>, <i class="i">Œuvres complètes</i>, Actes et Paroles, tome I, p. 425-427.</aside>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="4#note36_">36. </a>Victor <span class="sc">Hugo</span>, <i class="i">op. cit.</i>, I, p. 475-486.</aside>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="4#note37_">37. </a>Pierre-Joseph <span class="sc">Proudhon</span>. <i class="i">Œuvres complètes</i>, tome VIII : <i class="i">Du Principe fédératif</i>, Paris, 1868, p. 177.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="4#note35_">35. </a>Victor <span class="sc">Hugo</span>, <i class="i">Œuvres complètes</i>, Actes et Paroles, tome I, p. 425-427.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="4#note36_">36. </a>Victor <span class="sc">Hugo</span>, <i class="i">op. cit.</i>, I, p. 475-486.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="4#note37_">37. </a>Pierre-Joseph <span class="sc">Proudhon</span>. <i class="i">Œuvres complètes</i>, tome VIII : <i class="i">Du Principe fédératif</i>, Paris, 1868, p. 177.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb57">p. 57</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="4#note38_">38. </a>Victor <span class="sc">Hugo</span>, <i class="i">op. cit.</i>, tome IV, p. 295. Article intitulé : <i class="i">L’Avenir</i>.</aside>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="4#note39_">39. </a>Friedrich <span class="sc">Nietzsche</span>, <i class="i">Par-delà le Bien et le Mal</i>, § 256, puis fragment posthume (que nous citons) sur le même thème.</aside>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="4#note40_">40. </a>Jean <span class="sc">Variot</span>, <i class="i">Propos de Georges Sorel</i>, Paris, 1935.</aside>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="4#note41_">41. </a>Paul <span class="sc">Valéry</span>, <i class="i">Variété I, La Crise de l’esprit</i> (écrit en 1919), Paris, 1924.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="4#note38_">38. </a>Victor <span class="sc">Hugo</span>, <i class="i">op. cit.</i>, tome IV, p. 295. Article intitulé : <i class="i">L’Avenir</i>.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="4#note39_">39. </a>Friedrich <span class="sc">Nietzsche</span>, <i class="i">Par-delà le Bien et le Mal</i>, § 256, puis fragment posthume (que nous citons) sur le même thème.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="4#note40_">40. </a>Jean <span class="sc">Variot</span>, <i class="i">Propos de Georges Sorel</i>, Paris, 1935.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="4#note41_">41. </a>Paul <span class="sc">Valéry</span>, <i class="i">Variété I, La Crise de l’esprit</i> (écrit en 1919), Paris, 1924.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb58">p. 58</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="4#note42_">42. </a>Le comte Richard Coudenhove-Kalergi lançait dès 1922 dans la presse autrichienne et allemande un premier appel à créer la « Paneurope ». En 1924 paraissait son <i class="i">Manifeste paneuropéen.</i> Aristide Briand, convaincu par le jeune Autrichien, décide en 1928 de soumettre à la SDN un projet de confédération européenne. Et c’est à Alexis Léger, son plus proche collaborateur, qu’il confie la rédaction du <i class="i">Mémorandum sur l’organisation d’un régime d’union fédérale européenne</i>, daté du 1<sup class="sup">er</sup> mai 1930 (republié par les <i class="i">Cahiers de la Pléiade</i>, numéro d’Hommage à Saint-John Perse — pseudonyme d’Alexis Léger — Paris, 1950).</aside>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="4#note43_">43. </a>Voir le texte complet de cette déclaration des Résistances dans <i class="i">L’Europe de demain</i>, La Baconnière, Neuchâtel, 1945 ; qui donne un récit détaillé des rencontres clandestines de Genève.</aside>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="4#note44_">44. </a>Les documents du Congrès de Montreux, 27-31 août 1947, organisé par Henri Brugmans, Raymond Silva et Alexandre Marc, ont paru en un volume, <i class="i">Rapport du premier congrès annuel de l’union européenne des fédéralistes</i>, Genève, 1947, hors commerce.</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="4#note42_">42. </a>Le comte Richard Coudenhove-Kalergi lançait dès 1922 dans la presse autrichienne et allemande un premier appel à créer la « Paneurope ». En 1924 paraissait son <i class="i">Manifeste paneuropéen.</i> Aristide Briand, convaincu par le jeune Autrichien, décide en 1928 de soumettre à la SDN un projet de confédération européenne. Et c’est à Alexis Léger, son plus proche collaborateur, qu’il confie la rédaction du <i class="i">Mémorandum sur l’organisation d’un régime d’union fédérale européenne</i>, daté du 1<sup class="sup">er</sup> mai 1930 (republié par les <i class="i">Cahiers de la Pléiade</i>, numéro d’Hommage à Saint-John Perse — pseudonyme d’Alexis Léger — Paris, 1950).</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="4#note43_">43. </a>Voir le texte complet de cette déclaration des Résistances dans <i class="i">L’Europe de demain</i>, La Baconnière, Neuchâtel, 1945 ; qui donne un récit détaillé des rencontres clandestines de Genève.</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="4#note44_">44. </a>Les documents du Congrès de Montreux, 27-31 août 1947, organisé par Henri Brugmans, Raymond Silva et Alexandre Marc, ont paru en un volume, <i class="i">Rapport du premier congrès annuel de l’union européenne des fédéralistes</i>, Genève, 1947, hors commerce.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb59">p. 59</a>
                         </div>
-                        <aside id="note45" class="note bottomnote"><a class="noteback" href="4#note45_">45. </a>Voici la phrase par laquelle W. Churchill fait entendre que l’Angleterre ne sera pas membre de l’Union qu’il propose : « … de ce travail urgent, la France et l’Allemagne doivent prendre la direction ensemble. La Grande-Bretagne, l’Empire britannique, la puissante Amérique, et j’en suis sûr, la Russie soviétique — car alors tout irait bien — doivent être amis et garants de la nouvelle Europe et défendre son droit à la vie ». (Cf. « <a href="file:///var/www/html/Rougemont/tests/articles/ddr1961bcec_n6">Généalogie des Grands desseins européens</a> », <i class="i">Bulletin du Centre européen de la culture</i>, n° 6, 1960-1961, p. 81.)</aside>
-                        <aside id="note46" class="note bottomnote"><a class="noteback" href="4#note46_">46. </a>Sur la carrière de J. H. Retinger, voir <a href="file:///var/www/html/Rougemont/tests/bcec1961n5"><i class="i">Hommage à un grand Européen, J. H. Retinger</i></a>, par le prince Bernhard des Pays-Bas, l’ambassadeur P. Quaroni, le peintre F. Topolski, K. Jelenski, D. de Rougemont, etc., <i class="i">Bulletin du CEC</i>, n° 5, 1960-1961.</aside>
-                        <aside id="note47" class="note bottomnote"><a class="noteback" href="4#note47_">47. </a>Texte du Manifeste in <a href="file:///var/www/html/Rougemont/tests/livres/ddr1948ej"><i class="i">L’Europe en jeu</i></a>, par Denis de <span class="sc">Rougemont</span>, La Baconnière, Neuchâtel, 1948. Le congrès de l’Europe se tint du 7 au 11 mai à La Haye, sous la présidence d’honneur (effective) de W. Churchill, le chairman étant Duncan Sandys. Les présidents et rapporteurs des trois commissions étaient, pour la politique Paul Ramadier, René Courtin et R. W. G. Mackay ; pour l’économique Paul van Zeeland, D. Serruys et Lord Layton ; pour la culturelle Salvador de Madariaga et Denis de Rougemont.</aside>
+                        <aside id="note45" role="note" class="note bottomnote"><a class="noteback" href="4#note45_">45. </a>Voici la phrase par laquelle W. Churchill fait entendre que l’Angleterre ne sera pas membre de l’Union qu’il propose : « … de ce travail urgent, la France et l’Allemagne doivent prendre la direction ensemble. La Grande-Bretagne, l’Empire britannique, la puissante Amérique, et j’en suis sûr, la Russie soviétique — car alors tout irait bien — doivent être amis et garants de la nouvelle Europe et défendre son droit à la vie ». (Cf. « <a href="file:///var/www/html/Rougemont/tests/articles/ddr1961bcec_n6">Généalogie des Grands desseins européens</a> », <i class="i">Bulletin du Centre européen de la culture</i>, n° 6, 1960-1961, p. 81.)</aside>
+                        <aside id="note46" role="note" class="note bottomnote"><a class="noteback" href="4#note46_">46. </a>Sur la carrière de J. H. Retinger, voir <a href="file:///var/www/html/Rougemont/tests/bcec1961n5"><i class="i">Hommage à un grand Européen, J. H. Retinger</i></a>, par le prince Bernhard des Pays-Bas, l’ambassadeur P. Quaroni, le peintre F. Topolski, K. Jelenski, D. de Rougemont, etc., <i class="i">Bulletin du CEC</i>, n° 5, 1960-1961.</aside>
+                        <aside id="note47" role="note" class="note bottomnote"><a class="noteback" href="4#note47_">47. </a>Texte du Manifeste in <a href="file:///var/www/html/Rougemont/tests/livres/ddr1948ej"><i class="i">L’Europe en jeu</i></a>, par Denis de <span class="sc">Rougemont</span>, La Baconnière, Neuchâtel, 1948. Le congrès de l’Europe se tint du 7 au 11 mai à La Haye, sous la présidence d’honneur (effective) de W. Churchill, le chairman étant Duncan Sandys. Les présidents et rapporteurs des trois commissions étaient, pour la politique Paul Ramadier, René Courtin et R. W. G. Mackay ; pour l’économique Paul van Zeeland, D. Serruys et Lord Layton ; pour la culturelle Salvador de Madariaga et Denis de Rougemont.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb60">p. 60</a>
                         </div>
-                        <aside id="note48" class="note bottomnote"><a class="noteback" href="4#note48_">48. </a>Voir Raymond <span class="sc">Racine</span>, <i class="i">Les Institutions culturelles européennes, inventaire de leurs activités dressé pour la « Fondation européenne de la culture »</i>, Genève, 1959 (ronéotypé, 100 exemplaires). On y trouvera la description de 60 organismes gouvernementaux et privés, Instituts universitaires d’enseignement et de recherches, ou de relations internationales, fondations, jurys de prix européens, etc. Bien d’autres instituts ont été créés depuis lors.</aside>
+                        <aside id="note48" role="note" class="note bottomnote"><a class="noteback" href="4#note48_">48. </a>Voir Raymond <span class="sc">Racine</span>, <i class="i">Les Institutions culturelles européennes, inventaire de leurs activités dressé pour la « Fondation européenne de la culture »</i>, Genève, 1959 (ronéotypé, 100 exemplaires). On y trouvera la description de 60 organismes gouvernementaux et privés, Instituts universitaires d’enseignement et de recherches, ou de relations internationales, fondations, jurys de prix européens, etc. Bien d’autres instituts ont été créés depuis lors.</aside>
                       </div>
                     </section>
                   </article>
@@ -663,22 +779,22 @@ que pourra s’opérer la transmutation indispensable de la volonté militante d
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’aventure mondiale des Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. Secret du dynamisme européen</a>
                     </li>
                     <li class="here">
                       <a href="#">III. L’Europe s’unit</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Les nouvelles chances de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Appendice : Sartre contre l’Europe</a>
                     </li>
                   </ul>
@@ -692,10 +808,39 @@ que pourra s’opérer la transmutation indispensable de la volonté militante d
     <page path="/livres/ddr1962ce/5" name="IV. Les nouvelles chances de l’Europe" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) IV. Les nouvelles chances de l’Europe</value>
+          <value>IV. Les nouvelles chances de l’Europe (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV. Les nouvelles chances de l’Europe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -704,7 +849,7 @@ que pourra s’opérer la transmutation indispensable de la volonté militante d
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb65" id="pb65">[p. 65]</a>
                     <h1 class="head chapter">IV. Les nouvelles chances de l’Europe<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">Donc l’Europe est en train de s’unir, nous avons vu pour quelles raisons, à la fois séculaires et modernes. Trois écoles, il est vrai, s’opposent encore quand il s’agit d’en venir à l’union politique. Celle de l’alliance des États, celle de l’intégration totale, et celle de la fédération. Mais une raison nouvelle doit forcer leur accord : c’est la nécessité matérielle et morale de répondre aux appels que le monde nous adresse, par sa faim, par sa peur et même par sa haine. C’est la nécessité de nous porter enfin à la hauteur de notre vocation universelle.</p>
@@ -810,46 +955,46 @@ Cette vocation fera notre force principale, si nous l’assumons dès maintenant
                         <div class="b note-page">
                           <a href="5#pb70">p. 70</a>
                         </div>
-                        <aside id="note49" class="note bottomnote"><a class="noteback" href="5#note49_">49. </a>En 1916, Lénine déclarait, dans <i class="i">L’Impérialisme, stade suprême du capitalisme</i>, que la Russie était la deuxième puissance coloniale du monde par la superficie de son empire, et il énumérait ses possessions : Azerbaïdjan, Arménie, Géorgie, Ouzbékistan, Kazakhstan, Turkménistan, Tadjikistan, Kirghizie. Depuis lors, l’URSS a ajouté trois colonies à son empire, les États Baltes, et Staline a fortement aggravé la mise au pas des petites « républiques sœurs ». Dans le même temps, l’Europe « décolonisait », non pas à cause du communisme — qui n’a joué un certain rôle dans le processus qu’au Viet-Minh — mais au nom de ses propres principes généraux. Ainsi la Russie des héritiers de Lénine a passé au rang incontesté de <i class="i">première</i> puissance coloniale du monde. Elle sera bientôt, aussi, quoique dans un autre sens, la seule et dernière.</aside>
+                        <aside id="note49" role="note" class="note bottomnote"><a class="noteback" href="5#note49_">49. </a>En 1916, Lénine déclarait, dans <i class="i">L’Impérialisme, stade suprême du capitalisme</i>, que la Russie était la deuxième puissance coloniale du monde par la superficie de son empire, et il énumérait ses possessions : Azerbaïdjan, Arménie, Géorgie, Ouzbékistan, Kazakhstan, Turkménistan, Tadjikistan, Kirghizie. Depuis lors, l’URSS a ajouté trois colonies à son empire, les États Baltes, et Staline a fortement aggravé la mise au pas des petites « républiques sœurs ». Dans le même temps, l’Europe « décolonisait », non pas à cause du communisme — qui n’a joué un certain rôle dans le processus qu’au Viet-Minh — mais au nom de ses propres principes généraux. Ainsi la Russie des héritiers de Lénine a passé au rang incontesté de <i class="i">première</i> puissance coloniale du monde. Elle sera bientôt, aussi, quoique dans un autre sens, la seule et dernière.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb71">p. 71</a>
                         </div>
-                        <aside id="note50" class="note bottomnote"><a class="noteback" href="5#note50_">50. </a>Voir les documents du congrès que la Fondation européenne de la culture a tenu en avril 1962 à Bruxelles, dans <i class="i">Caractère et culture de l’Europe</i>, n<sup class="sup">o</sup> 7.</aside>
+                        <aside id="note50" role="note" class="note bottomnote"><a class="noteback" href="5#note50_">50. </a>Voir les documents du congrès que la Fondation européenne de la culture a tenu en avril 1962 à Bruxelles, dans <i class="i">Caractère et culture de l’Europe</i>, n<sup class="sup">o</sup> 7.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb72">p. 72</a>
                         </div>
-                        <aside id="note51" class="note bottomnote"><a class="noteback" href="5#note51_">51. </a>Cf. <i class="i">La Décadence de l’Occident</i>, par Oswald Spengler, traduction, Gallimard, Paris, et <i class="i">Le Monde et l’Occident</i>, par Arnold Toynbee, traduction française, Paris, 1953. — Georges Sorel disait en 1908 : « L’Europe est par excellence la terre des cataclysmes guerriers… Elle n’a pas de chance… Malheureuse Europe ! Pourquoi lui cacher ce qui l’attend ? Avant dix ans elle sombrera dans la guerre et l’anarchie. » Et en 1912 : « Rien n’améliorera le sort de l’Europe… l’Europe, ce cimetière… ». Cinquante ans plus tard, J.-P. Sartre écrit : « L’Europe est foutue… Elle est en grand danger de crever… Elle fait eau de toutes parts… C’est la fin. » (Voir en appendice : « <a href="file:///var/www/html/Rougemont/tests/livres/ddr1962ce">Sartre contre l’Europe</a> ».)</aside>
+                        <aside id="note51" role="note" class="note bottomnote"><a class="noteback" href="5#note51_">51. </a>Cf. <i class="i">La Décadence de l’Occident</i>, par Oswald Spengler, traduction, Gallimard, Paris, et <i class="i">Le Monde et l’Occident</i>, par Arnold Toynbee, traduction française, Paris, 1953. — Georges Sorel disait en 1908 : « L’Europe est par excellence la terre des cataclysmes guerriers… Elle n’a pas de chance… Malheureuse Europe ! Pourquoi lui cacher ce qui l’attend ? Avant dix ans elle sombrera dans la guerre et l’anarchie. » Et en 1912 : « Rien n’améliorera le sort de l’Europe… l’Europe, ce cimetière… ». Cinquante ans plus tard, J.-P. Sartre écrit : « L’Europe est foutue… Elle est en grand danger de crever… Elle fait eau de toutes parts… C’est la fin. » (Voir en appendice : « <a href="file:///var/www/html/Rougemont/tests/livres/ddr1962ce">Sartre contre l’Europe</a> ».)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb73">p. 73</a>
                         </div>
-                        <aside id="note52" class="note bottomnote"><a class="noteback" href="5#note52_">52. </a>Lettre de Melchior Grimm à Catherine II, écrite en 1790, l’année où Grimm quitte Paris pour se mettre au service de la Russie.</aside>
-                        <aside id="note53" class="note bottomnote"><a class="noteback" href="5#note53_">53. </a><span class="sc">Sainte-Beuve</span>, <i class="i">Cahiers</i>, note de 1847. On trouvera dans mes <a href="file:///var/www/html/Rougemont/tests/livres/ddr1961vhse"><i class="i">Vingt-huit siècles d’Europe</i></a> des prophéties analogues de Jean de Müller en 1797, de Napoléon (<i class="i">Mémorial de Sainte-Hélène</i>), de l’abbé de Pradt en 1823 (« Au-delà de la Vistule tombe un rideau… »), de Carlo Cattaneo en 1848, de E. von Lasaulx en 1856, de Henry Adams en 1900, et surtout de Tocqueville dès 1856. (« Il y a aujourd’hui sur la terre deux grands peuples… chacun d’eux semble appelé à tenir un jour dans ses mains les destinées de la moitié du monde. »), cf. p. 268 à 276 de l’<i class="i">op. cit.</i></aside>
-                        <aside id="note54" class="note bottomnote"><a class="noteback" href="5#note54_">54. </a>Les chiffres de population pour l’Europe de l’Ouest varient de plusieurs millions selon les sources. Si l’on se réfère à un ouvrage aussi consciencieusement documenté que celui publié en novembre 1961 par le Twentieth Century Fund, à New York : <i class="i">Europe’s Needs and Resources</i>, on trouve les données suivantes : <i class="i">en 1952</i> : 289,16 millions ; <i class="i">en 1955</i> : 295,17 ; <i class="i">en 1958</i> : 302,16. Le rythme d’accroissement s’accélérant, nous aurions (même selon les données de cet ouvrage, en général inférieures à la réalité, et qui se révèlent déjà trop prudentes dans la prévision) un total de plus de 313 millions en 1962. J’y ajoute la Yougoslavie, 17 millions. Cela fait 330 millions. En tenant compte des résultats des derniers recensements accomplis en 1961, comme celui de la France, on estimera ces chiffres trop faibles de quelques millions. Quant à l’Europe de l’Est (les sept pays satellites de l’URSS), on évalue leur population globale actuelle à 95 millions. Les derniers chiffres de population donnés pour les USA et l’URSS sont de 179,5 et de 220 millions.</aside>
+                        <aside id="note52" role="note" class="note bottomnote"><a class="noteback" href="5#note52_">52. </a>Lettre de Melchior Grimm à Catherine II, écrite en 1790, l’année où Grimm quitte Paris pour se mettre au service de la Russie.</aside>
+                        <aside id="note53" role="note" class="note bottomnote"><a class="noteback" href="5#note53_">53. </a><span class="sc">Sainte-Beuve</span>, <i class="i">Cahiers</i>, note de 1847. On trouvera dans mes <a href="file:///var/www/html/Rougemont/tests/livres/ddr1961vhse"><i class="i">Vingt-huit siècles d’Europe</i></a> des prophéties analogues de Jean de Müller en 1797, de Napoléon (<i class="i">Mémorial de Sainte-Hélène</i>), de l’abbé de Pradt en 1823 (« Au-delà de la Vistule tombe un rideau… »), de Carlo Cattaneo en 1848, de E. von Lasaulx en 1856, de Henry Adams en 1900, et surtout de Tocqueville dès 1856. (« Il y a aujourd’hui sur la terre deux grands peuples… chacun d’eux semble appelé à tenir un jour dans ses mains les destinées de la moitié du monde. »), cf. p. 268 à 276 de l’<i class="i">op. cit.</i></aside>
+                        <aside id="note54" role="note" class="note bottomnote"><a class="noteback" href="5#note54_">54. </a>Les chiffres de population pour l’Europe de l’Ouest varient de plusieurs millions selon les sources. Si l’on se réfère à un ouvrage aussi consciencieusement documenté que celui publié en novembre 1961 par le Twentieth Century Fund, à New York : <i class="i">Europe’s Needs and Resources</i>, on trouve les données suivantes : <i class="i">en 1952</i> : 289,16 millions ; <i class="i">en 1955</i> : 295,17 ; <i class="i">en 1958</i> : 302,16. Le rythme d’accroissement s’accélérant, nous aurions (même selon les données de cet ouvrage, en général inférieures à la réalité, et qui se révèlent déjà trop prudentes dans la prévision) un total de plus de 313 millions en 1962. J’y ajoute la Yougoslavie, 17 millions. Cela fait 330 millions. En tenant compte des résultats des derniers recensements accomplis en 1961, comme celui de la France, on estimera ces chiffres trop faibles de quelques millions. Quant à l’Europe de l’Est (les sept pays satellites de l’URSS), on évalue leur population globale actuelle à 95 millions. Les derniers chiffres de population donnés pour les USA et l’URSS sont de 179,5 et de 220 millions.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb74">p. 74</a>
                         </div>
-                        <aside id="note55" class="note bottomnote"><a class="noteback" href="5#note55_">55. </a>Cf. Léo <span class="sc">Moulin</span>, « La nationalité des prix Nobel de science de 1901 à 1960, essai d’analyse sociologique », <i class="i">Cahiers internationaux de sociologie</i>, PUF, 1961.</aside>
+                        <aside id="note55" role="note" class="note bottomnote"><a class="noteback" href="5#note55_">55. </a>Cf. Léo <span class="sc">Moulin</span>, « La nationalité des prix Nobel de science de 1901 à 1960, essai d’analyse sociologique », <i class="i">Cahiers internationaux de sociologie</i>, PUF, 1961.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb75">p. 75</a>
                         </div>
-                        <aside id="note56" class="note bottomnote"><a class="noteback" href="5#note56_">56. </a>Voir là-dessus les fameux mémoires du marquis de Custine, publiés à Paris en 1843 : <i class="i">La Russie en 1839</i>, qui donnent une abondance d’exemples très précis de mesures policières tzaristes identiques aux mesures staliniennes, de délires bureaucratiques, de falsifications de l’histoire, et en général de domestication des esprits : « Ici, les esprits eux-mêmes sont tirés au cordeau… Ici mentir c’est protéger la société, dire la vérité c’est bouleverser l’État… Le gouvernement domine tout et ne vivifie rien… Tout le monde pense à ce que personne ne dit… », etc.</aside>
-                        <aside id="note57" class="note bottomnote"><a class="noteback" href="5#note57_">57. </a>Les quelque 500 articles que Marx, aidé par Engels, envoya au <i class="i">Herald</i> de New York — plus tard devenu le <i class="i">New York Herald Tribune</i> — de 1851 à 1861, ont été réédités en 1897 sous le titre <i class="i">The Eastern Question</i>, et viennent de faire l’objet de plusieurs études critiques aux États-Unis.</aside>
+                        <aside id="note56" role="note" class="note bottomnote"><a class="noteback" href="5#note56_">56. </a>Voir là-dessus les fameux mémoires du marquis de Custine, publiés à Paris en 1843 : <i class="i">La Russie en 1839</i>, qui donnent une abondance d’exemples très précis de mesures policières tzaristes identiques aux mesures staliniennes, de délires bureaucratiques, de falsifications de l’histoire, et en général de domestication des esprits : « Ici, les esprits eux-mêmes sont tirés au cordeau… Ici mentir c’est protéger la société, dire la vérité c’est bouleverser l’État… Le gouvernement domine tout et ne vivifie rien… Tout le monde pense à ce que personne ne dit… », etc.</aside>
+                        <aside id="note57" role="note" class="note bottomnote"><a class="noteback" href="5#note57_">57. </a>Les quelque 500 articles que Marx, aidé par Engels, envoya au <i class="i">Herald</i> de New York — plus tard devenu le <i class="i">New York Herald Tribune</i> — de 1851 à 1861, ont été réédités en 1897 sous le titre <i class="i">The Eastern Question</i>, et viennent de faire l’objet de plusieurs études critiques aux États-Unis.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb78">p. 78</a>
                         </div>
-                        <aside id="note58" class="note bottomnote"><a class="noteback" href="5#note58_">58. </a>Dans <a href="file:///var/www/html/Rougemont/tests/bcec1962n1"><i class="i">Le Dialogue des cultures</i></a> récemment publié par le CEC aux Éditions de la Baconnière, on trouvera de bons exemples de ces processus, tant politiques qu’économiques, cités et commentés notamment par le professeur Ibrahim Madkour et par Bertrand de Jouvenel.</aside>
+                        <aside id="note58" role="note" class="note bottomnote"><a class="noteback" href="5#note58_">58. </a>Dans <a href="file:///var/www/html/Rougemont/tests/bcec1962n1"><i class="i">Le Dialogue des cultures</i></a> récemment publié par le CEC aux Éditions de la Baconnière, on trouvera de bons exemples de ces processus, tant politiques qu’économiques, cités et commentés notamment par le professeur Ibrahim Madkour et par Bertrand de Jouvenel.</aside>
                       </div>
                     </section>
                   </article>
@@ -866,22 +1011,22 @@ Cette vocation fera notre force principale, si nous l’assumons dès maintenant
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’aventure mondiale des Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. Secret du dynamisme européen</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III. L’Europe s’unit</a>
                     </li>
                     <li class="here">
                       <a href="#">IV. Les nouvelles chances de l’Europe</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Appendice : Sartre contre l’Europe</a>
                     </li>
                   </ul>
@@ -895,10 +1040,39 @@ Cette vocation fera notre force principale, si nous l’assumons dès maintenant
     <page path="/livres/ddr1962ce/6" name="Appendice : Sartre contre l’Europe" package="ddr1962ce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Les Chances de l’Europe (1962) Appendice : Sartre contre l’Europe</value>
+          <value>Appendice : Sartre contre l’Europe (1962, Les Chances de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Les Chances de l’Europe (1962)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Appendice : Sartre contre l’Europe"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -907,7 +1081,7 @@ Cette vocation fera notre force principale, si nous l’assumons dès maintenant
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb83" id="pb83">[p. 83]</a>
                     <h1 class="head chapter">Appendice : Sartre contre l’Europe<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst"><i class="i">Pendant que je préparais mes conférences, l’hebdomadaire</i> Arts<i class="i"> me demanda de répondre à la violente attaque contre l’Europe qu’est la préface de J.-P. Sartre au livre de Frantz Fanon</i>, Les Damnés de la Terre<i class="i">. Cet article illustre un des points que je n’ai pu toucher qu’en passant dans ma IV<sup class="sup">e</sup> leçon, et trouve donc sa place ici.</i></p>
@@ -961,19 +1135,19 @@ non pas contre l’Europe, mais <i class="i">au nom des valeurs européennes</i>
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’aventure mondiale des Européens</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. Secret du dynamisme européen</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III. L’Europe s’unit</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Les nouvelles chances de l’Europe</a>
                     </li>
                     <li class="here">

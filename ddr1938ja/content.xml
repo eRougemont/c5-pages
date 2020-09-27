@@ -4,10 +4,39 @@
     <page path="/livres/ddr1938ja/1" name="Avertissement" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) Avertissement</value>
+          <value>Avertissement (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Voici des notes qui, par leurs dates, prennent la suite du <a><cite class="title">Journal d’un intellectuel en chômage</cite></a>. Mais il ne s’agit plus de chômage. L’auteur vit en Allemagne hitlérienne, et il y vit de son travail. (Des cours à l’Université d’une ville que l’on n’a pas jugé utile de nommer.)</p>
@@ -43,20 +72,20 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">I  –  Journal (1935-1936)</a>
+                    <li class="collateral">
+                      <a href="2">Journal (1935-1936)</a>
                     </li>
-                    <li>
-                      <a href="3">II  –  Conclusion 1938</a>
+                    <li class="collateral">
+                      <a href="3">Conclusion 1938</a>
                     </li>
-                    <li>
-                      <a href="4">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                    <li class="collateral">
+                      <a href="4">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
-                    <li>
-                      <a href="5">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                    <li class="collateral">
+                      <a href="5">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
-                    <li>
-                      <a href="6">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                    <li class="collateral">
+                      <a href="6">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -66,13 +95,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/2" name="I – Journal (1935-1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/2" name="1. Journal (1935-1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) I – Journal (1935-1936)</value>
+          <value>1. Journal (1935-1936) (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Journal (1935-1936)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -81,9 +139,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb9" id="pb9">[p. 9]</a>
-                    <h1 class="head chapter">I <br class="lb"/>Journal (1935-1936)<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head kicker chapter">I</h1>
+                    <h1 class="head chapter">Journal (1935-1936)<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level2">
                       <h2 class="head">Fin d’octobre 1935<a class="bookmark" href="2#body-2-1"> §</a></h2>
                       <p class="p autofirst">Des amis se sont étonnés de me voir accepter ce poste, offert par le hasard d’une rencontre, un beau soir de juillet aux Deux-Magots. Je leur réponds qu’on ne m’a pas nommé dans l’ignorance de mes opinions : c’est ce qui assure ici ma liberté. Mon premier livre dit assez mon amour de l’Europe centrale ; et mon deuxième, l’idée que je me fais des régimes totalitaires. Je ne sais si l’on espère me convertir en m’offrant d’en voir un de près. Quand cela serait, pourquoi me dérober ? S’ils sont dans le vrai, il est urgent de le dire, et de me dédire. Et s’ils se trompent, je saurai mieux pourquoi. De toutes façons, vivre à l’époque d’Hitler, et n’aller point l’entendre et voir, quand une nuit de chemin de fer y suffirait, c’est se priver de certains rudiments de toute compréhension de notre temps. Mais encore, ce serait peu que le voir de ses yeux. Il faudrait le voir comme à travers son peuple, par les yeux de ses sectateurs et par les yeux de ses victimes, tel qu’on le crée et tel qu’on le subit… J’ai donc accepté pour un an.</p>
@@ -193,7 +252,13 @@
                       <blockquote class="quote">
                         <p class="p autofirst left">
 <a class="pb" href="#pb23" id="pb23">[p. 23]</a>
-J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminaire. <br class="lb"/>J’ai sacrifié un demi-sou à la criante misère du peuple <br class="lb"/>et je n’ai pas manqué le service<a class="noteref" href="2#note7" id="note7_"><sup>7</sup></a>, ce soir. <br class="lb"/>J’ai fait attester ma présence et j’ai lu avec enthousiasme le <i class="i">VB</i><a class="noteref" href="2#note8" id="note8_"><sup>8</sup></a>. <br class="lb"/>J’ai payé aujourd’hui ma cotisation à la SA. <br class="lb"/>Car je suis un ami de l’ordre. — Amen.</p>
+J’ai suivi mes cours avec zèle
+              <br class="lb"/>et j’ai brillé au séminaire.
+              <br class="lb"/>J’ai sacrifié un demi-sou à la criante misère du peuple
+              <br class="lb"/>et je n’ai pas manqué le service<a class="noteref" href="2#note7" id="note7_"><sup>7</sup></a>, ce soir.
+              <br class="lb"/>J’ai fait attester ma présence et j’ai lu avec enthousiasme le <i class="i">VB</i><a class="noteref" href="2#note8" id="note8_"><sup>8</sup></a>.
+              <br class="lb"/>J’ai payé aujourd’hui ma cotisation à la SA.
+              <br class="lb"/>Car je suis un ami de l’ordre. — Amen.</p>
                       </blockquote>
                       <p class="p autofirst">Dans un autre numéro, l’article de tête est intitulé : <i class="i">Arrogance académique.</i> J’en traduis quelques passages :</p>
                       <blockquote class="quote">
@@ -440,8 +505,8 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
                       <h2 class="head">13-21 mars 1936<a class="bookmark" href="2#body-2-19"> §</a></h2>
                       <p class="p autofirst"><i class="i">Huit jours à Paris.</i> — Extrême difficulté de faire comprendre ici <i class="i">la chose</i> qui est en jeu là-bas : il m’a fallu, sur place, des mois pour la comprendre. Je m’étonne après coup de mon aveuglement, comme 
 <a class="pb" href="#pb50" id="pb50">[p. 50]</a>
- l’initié qui se souvient de ses vaines frayeurs, de ses questions naïves quand il passait par les premières épreuves ; et maintenant tout s’éclaire et s’enchaîne. Je collectionnais des observations de détail et des interprétations théoriques, vraies et vraisemblables une à une, mais dont l’ensemble me laissait une impression assez confuse. Capitalisme et socialisme, bellicisme et passivité, esprit spartiate et goût du confort, jeunesse cynique et vieux bateaux réactionnaires, bourgeois inquiets, opposants complices. Et seuls mes amis juifs me donnaient du régime une interprétation étonnamment conforme aux préjugés français-moyen, comme s’ils ne sentaient rien de ce qui se vivait autour d’eux, comme s’ils ne sentaient pas ce je ne sais quoi dans l’atmosphère qui faisait que toutes les descriptions « objectives » de nos journalistes paraissaient, vues d’ici, décrire un monde factice, où nul Allemand ne pouvait reconnaître ni ses souffrances secrètes ni son espoir. « Il doit y avoir une clé », écrivais-je à ce moment. Je l’ai trouvée, cette clé, mais à présent, comment faire sentir aux Français ce que j’ai senti, ce que j’ai <i class="i">miterlebt</i> ? (Le mot n’est même pas traduisible.) Les plus puissantes réalités de l’époque sont affectives et religieuses, et l’on ne me parle que d’économie, de technique politique et de droit. Lorsque j’essaye d’évoquer ce discours qui m’a révélé « leur » secret, pour peu de passion que j’y mette, on m’apprend que je suis hitlérien ! C’est que les hommes de notre temps ne croient pas au jugement de l’esprit mais seulement au frisson des tripes. N’allez pas leur décrire un massacre à la mitrailleuse dans le tas : loin de
-            s’indigner, ils vous en redemanderont. Ainsi, me jugeant d’après eux, ils n’imaginent pas un instant qu’ayant éprouvé ce que j’ai dit, à ce degré d’intensité, je n’aime pas cela comme ils l’aiment déjà.</p>
+ l’initié qui se souvient de ses vaines frayeurs, de ses questions naïves quand il passait par les premières épreuves ; et maintenant tout s’éclaire et s’enchaîne. Je collectionnais des observations de détail et des interprétations théoriques, vraies et vraisemblables une à une, mais dont l’ensemble me laissait une impression assez confuse. Capitalisme et socialisme, bellicisme et passivité, esprit spartiate et goût du confort, jeunesse cynique et vieux bateaux réactionnaires, bourgeois inquiets, opposants complices. Et seuls mes amis juifs me donnaient du régime une interprétation étonnamment conforme aux préjugés français-moyen, comme s’ils ne sentaient rien de ce qui se vivait autour d’eux, comme s’ils ne sentaient pas ce je ne sais quoi dans l’atmosphère qui faisait que toutes les descriptions « objectives » de nos journalistes paraissaient, vues d’ici, décrire un monde factice, où nul Allemand ne pouvait reconnaître ni ses souffrances secrètes ni son espoir. « Il doit y avoir une clé », écrivais-je à ce moment. Je l’ai trouvée, cette clé, mais à présent, comment faire sentir aux Français ce que j’ai senti, ce que j’ai <i class="i">miterlebt</i> ? (Le mot n’est même pas traduisible.) Les plus puissantes réalités de l’époque sont affectives et religieuses, et l’on ne me parle que d’économie, de technique politique et de droit. Lorsque j’essaye d’évoquer ce discours qui m’a révélé « leur » secret, pour peu de passion que j’y mette, on m’apprend que je suis hitlérien ! C’est que les hommes de notre temps ne croient pas au jugement de l’esprit mais seulement au frisson des tripes. N’allez pas leur décrire un massacre à la mitrailleuse dans le tas : loin de s’indigner, ils vous en redemanderont. Ainsi, me
+            jugeant d’après eux, ils n’imaginent pas un instant qu’ayant éprouvé ce que j’ai dit, à ce degré d’intensité, je n’aime pas cela comme ils l’aiment déjà.</p>
                       <p class="p center"> </p>
                       <p class="p autofirst"><i class="i">Hitler.</i> — On me questionne sur le Führer. Je ne 
 <a class="pb" href="#pb51" id="pb51">[p. 51]</a>
@@ -485,7 +550,8 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
  vingtaine de visages d’ouvriers, éclatants de santé et de joie. Au milieu, cette devise :</p>
                       <blockquote class="quote">
                         <div class="l center">
-                          <i class="i">Honneur, paix et liberté dans le monde. <br class="lb"/>Communauté, égalité et pain pour le Peuple.</i>
+                          <i class="i">Honneur, paix et liberté dans le monde.
+                <br class="lb"/>Communauté, égalité et pain pour le Peuple.</i>
                         </div>
                       </blockquote>
                       <p class="p autofirst">N’oublions pas, dans nos démocraties, que la grande majorité du peuple allemand <i class="i">croit</i> cela, et vit dans cette croyance. Et ensuite, mais ensuite seulement, traduisons chacun de ces termes par la réalité qu’il cache. <i class="i">Liberté</i> veut dire réarmement. <i class="i">Paix</i> veut dire Anschluss sans opposition de la France. <i class="i">Honneur</i> veut dire mépris des traités. Et ce qu’on souhaite au peuple — et qu’on lui donne — c’est le droit de se nourrir, mais mal ; de travailler beaucoup, mais pour peu de salaire ; et de ne pas penser davantage que le voisin, qui est bien trop prudent pour penser. Programme communiste atténué.</p>
@@ -515,8 +581,8 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
  situation devant laquelle le jugement humain se dérobe avec une sorte de honte ou de révolte. Car le jugement humain ne saurait voir que des raisons de se taire, d’attendre encore, de ménager ses chances ; ou ce qui serait peut-être encore plus sage : de s’en remettre à la Providence !… Mais voici que cette Providence m’abandonnera, sera contre moi, si je me tais !</p>
                       <p class="p">La propagande nationale-socialiste répand le bruit que l’Église confessionnelle est le refuge de l’opposition démocratique et socialiste. Et il se peut que les chefs nazis le croient vraiment<a class="noteref" href="2#note17" id="note17_"><sup>17</sup></a>. (De même qu’ils croient qu’en enfermant Niemöller ils abattront la résistance des chrétiens : ils se figurent que le christianisme est un parti.) La vérité est autrement tragique. La vérité est que le très grand nombre des fidèles de cette Église sont des « nationaux » convaincus, politiquement d’accord avec Hitler. On trouve même parmi eux beaucoup de vieux membres du NSDAP d’avant 1933. Le Parti ne leur en sait aucun gré. Le Parti n’aime pas les chrétiens. Ils sont là comme l’œil de Caïn dans la tombe, — la tombe autarchique. Peu à peu, on leur a fait comprendre que ce régime, qu’ils servaient loyalement, ne pouvait se contenter de leur zèle, qu’il était jaloux de leur foi<a class="noteref" href="2#note18" id="note18_"><sup>18</sup></a>. Peu à peu, on les a contraints à distinguer l’Église de la Nation. Malgré eux, à leur cœur défendant, contre leurs traditions les plus chères, ils ont dû dire non à l’État. Parce que l’État brimait la Liberté ou les « valeurs spirituelles » 
 <a class="pb" href="#pb61" id="pb61">[p. 61]</a>
- des libéraux ? Non, c’était plus sérieux que cela. Ils ont dit non parce que l’État prétendait modifier et limiter la prédication de l’Évangile. Je ne sais si tous ont compris la profondeur de cette opposition, et sa logique
-            impitoyable. Je crains que certains ne se figurent encore qu’elle résulte d’abus de pouvoir de la part des chefs du régime ; alors que la lutte actuelle n’est que le premier affrontement de l’Église chrétienne et d’un système « total » dont les chefs ont beau jeu de prouver qu’on ne peut accepter les lois sans accepter l’esprit qui les édicte… Car telle est la misère du temps : <i class="i">César ne sait plus gouverner s’il n’usurpe les droits de Dieu.</i> Rendre à Dieu ce qui est à Dieu, cela s’appelle alors du sabotage, et cela conduit au camp de concentration.</p>
+ des libéraux ? Non, c’était plus sérieux que cela. Ils ont dit non parce que l’État prétendait modifier et limiter la prédication de l’Évangile. Je ne sais si tous
+            ont compris la profondeur de cette opposition, et sa logique impitoyable. Je crains que certains ne se figurent encore qu’elle résulte d’abus de pouvoir de la part des chefs du régime ; alors que la lutte actuelle n’est que le premier affrontement de l’Église chrétienne et d’un système « total » dont les chefs ont beau jeu de prouver qu’on ne peut accepter les lois sans accepter l’esprit qui les édicte… Car telle est la misère du temps : <i class="i">César ne sait plus gouverner s’il n’usurpe les droits de Dieu.</i> Rendre à Dieu ce qui est à Dieu, cela s’appelle alors du sabotage, et cela conduit au camp de concentration.</p>
                       <p class="p">Je regarde ce grand auditoire recueilli. Il n’y aura pas de <i class="i">heil</i> ! hurlés quand Niemöller aura fini de parler. Mais un <i class="i">amen</i> à mi-voix de la foule. Je ne veux pas chercher autour de moi les faces d’agents de la Gestapo, qu’on sait nombreux. Rien n’empêchera que nous soyons ici des frères en communion avec l’Église universelle. Rien n’empêchera que dans ce lieu où le néant de l’homme est déclaré, Dieu n’ait retrouvé des humains.</p>
                     </section>
                     <section id="body-2-24" class="div level2">
@@ -553,94 +619,94 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
                         <div class="b note-page">
                           <a href="2#pb11">p. 11</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>« Propagande de haine » : on désigne ainsi, en Allemagne, les ouvrages anti-hitlériens.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>« Propagande de haine » : on désigne ainsi, en Allemagne, les ouvrages anti-hitlériens.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb12">p. 12</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Je me rends compte après coup du caractère symbolique de cette petite anecdote. Toutes les conversations que j’ai eues depuis avec des hitlériens reproduisent le schéma de ce premier échange. (Note de 1938.)</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Je me rends compte après coup du caractère symbolique de cette petite anecdote. Toutes les conversations que j’ai eues depuis avec des hitlériens reproduisent le schéma de ce premier échange. (Note de 1938.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb13">p. 13</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>De 6 à 12 ans, les garçons fort partie du <i class="i">Jungvolk</i> ; de 12 à 18 ans, de la <i class="i">Hitlerjugend</i> ; à 18 ans, ils deviennent SA ou SS (<i class="i">Schutzstaffeln</i>, troupe d’élite et de police). Les filles font partie du <i class="i">BDM</i> (<i class="i">Bund Deutscher Mädel)</i> puis du <i class="i">NS Frauenverein</i>, qui correspond aux SA.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>De 6 à 12 ans, les garçons fort partie du <i class="i">Jungvolk</i> ; de 12 à 18 ans, de la <i class="i">Hitlerjugend</i> ; à 18 ans, ils deviennent SA ou SS (<i class="i">Schutzstaffeln</i>, troupe d’élite et de police). Les filles font partie du <i class="i">BDM</i> (<i class="i">Bund Deutscher Mädel)</i> puis du <i class="i">NS Frauenverein</i>, qui correspond aux SA.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb14">p. 14</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a><i class="i">Winterhilfswerk</i> : œuvre du secours d’hiver.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a><i class="i">Winterhilfswerk</i> : œuvre du secours d’hiver.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb16">p. 16</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>On a supprimé, pour la présente publication, bon nombre de remarques sur des personnes privées, et quelques interrogations « naïves » auxquelles la suite répond suffisamment. (Note de 1938.)</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>On a supprimé, pour la présente publication, bon nombre de remarques sur des personnes privées, et quelques interrogations « naïves » auxquelles la suite répond suffisamment. (Note de 1938.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb20">p. 20</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>Dans <a href="https://www.unige.ch/rougemont/livres/ddr1936pm"><cite class="title">Penser avec les mains</cite></a>, ouvrage terminé au cours de cet hiver allemand, et sous le coup des questions les plus gênantes que ne cessait de me poser l’hitlérisme.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>Dans <a href="https://www.unige.ch/rougemont/livres/ddr1936pm"><cite class="title">Penser avec les mains</cite></a>, ouvrage terminé au cours de cet hiver allemand, et sous le coup des questions les plus gênantes que ne cessait de me poser l’hitlérisme.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb23">p. 23</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Le service des SA qui a lieu deux soirs par semaine, a. </aside>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a><i class="i">Völkischer beobachter</i>, quotidien officiel du Parti.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Le service des SA qui a lieu deux soirs par semaine, a. </aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a><i class="i">Völkischer beobachter</i>, quotidien officiel du Parti.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p299">p. 299</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>(Note de 1938.) Cet étudiant vient d’entrer dans le Parti.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>(Note de 1938.) Cet étudiant vient d’entrer dans le Parti.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb25">p. 25</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>C’est la tête de M. Seiss-Inquart et de M. Henlein. (Note de 1938.)</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>C’est la tête de M. Seiss-Inquart et de M. Henlein. (Note de 1938.)</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb34">p. 34</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Le temple a été brûlé par les bolcheviks, comme il se doit. Mais ces « pieux » germains le détruisent bien mieux en esprit.</aside>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a><i class="i">Wehrsport</i> : sport des armes. Exercices de marche en campagne auxquels se livrent une fois par semaine les SA.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Le temple a été brûlé par les bolcheviks, comme il se doit. Mais ces « pieux » germains le détruisent bien mieux en esprit.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a><i class="i">Wehrsport</i> : sport des armes. Exercices de marche en campagne auxquels se livrent une fois par semaine les SA.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb41">p. 41</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a>Gouverneur de la province.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a>Gouverneur de la province.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb42">p. 42</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="2#note14_">14. </a>« <a><cite class="title">Le silence de Goethe</cite> »</a>, NRF de mars 1932.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="2#note14_">14. </a>« <a><cite class="title">Le silence de Goethe</cite> »</a>, NRF de mars 1932.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb51">p. 51</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="2#note15_">15. </a>Personnellement je le trouverais plutôt sympathique comme individu. Vous, au contraire… Nous voilà bien avancés !</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="2#note15_">15. </a>Personnellement je le trouverais plutôt sympathique comme individu. Vous, au contraire… Nous voilà bien avancés !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb54">p. 54</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="2#note16_">16. </a>(Note de 1938.) De la part d’un étranger, on accepte de tels écarts. Grande différence avec le régime russe. Mon cours fut écouté avec un intérêt courtois, vaguement étonné il est vrai…</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="2#note16_">16. </a>(Note de 1938.) De la part d’un étranger, on accepte de tels écarts. Grande différence avec le régime russe. Mon cours fut écouté avec un intérêt courtois, vaguement étonné il est vrai…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb60">p. 60</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="2#note17_">17. </a>(Note de 1938.) Niemöller arrêté on 1937 a été jugé après plusieurs mois de prison. Libéré par le tribunal, il a été aussitôt reconduit dans un camp sous le prétexte de « protection de la Nation ». Les organisations anti-fascistes de l’étranger, intervenant publiquement en sa faveur, dans un dessein de propagande politique et humanitaire totalement étranger à sa foi, ont contribué à aggraver sa situation, qui apparaît désormais sans issue. — Au dernier moment, j’apprends que Niemöller est déclaré prisonnier personnel du Führer pour dix ans.</aside>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="2#note18_">18. </a><a href="https://www.unige.ch/rougemont/livres/ddr1938ja/4">Voir l’Appendice I</a>.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="2#note17_">17. </a>(Note de 1938.) Niemöller arrêté on 1937 a été jugé après plusieurs mois de prison. Libéré par le tribunal, il a été aussitôt reconduit dans un camp sous le prétexte de « protection de la Nation ». Les organisations anti-fascistes de l’étranger, intervenant publiquement en sa faveur, dans un dessein de propagande politique et humanitaire totalement étranger à sa foi, ont contribué à aggraver sa situation, qui apparaît désormais sans issue. — Au dernier moment, j’apprends que Niemöller est déclaré prisonnier personnel du Führer pour dix ans.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="2#note18_">18. </a><a href="https://www.unige.ch/rougemont/livres/ddr1938ja/4">Voir l’Appendice I</a>.</aside>
                       </div>
                     </section>
                   </article>
@@ -657,100 +723,100 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#">I  –  Journal (1935-1936)</a>
+                      <a href="#">Journal (1935-1936)</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">Fin d’octobre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">5 novembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">6 novembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4">9 novembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-5">11 novembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-6">Fin de novembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-7">Fin de Décembre 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-8">2 janvier 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-9">3 janvier 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-10">10 janvier 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-11">15 janvier 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-12">25 janvier 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-13">Février 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-14">7 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-15">9 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-16">Nuit du 10 au 11 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-17">11 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-18">12 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-19">13-21 mars 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-20">Avril 1936 (De retour en Allemagne.)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-21">1<sup>er</sup> mai 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-22">10 mai 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-23">11 juin 1936</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-24">21 juin 1936, nuit</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-25">30 juin 1936. Départ</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="3">II  –  Conclusion 1938</a>
+                    <li class="collateral">
+                      <a href="3">Conclusion 1938</a>
                     </li>
-                    <li>
-                      <a href="4">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                    <li class="collateral">
+                      <a href="4">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
-                    <li>
-                      <a href="5">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                    <li class="collateral">
+                      <a href="5">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
-                    <li>
-                      <a href="6">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                    <li class="collateral">
+                      <a href="6">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -760,13 +826,42 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/3" name="II – Conclusion 1938" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/3" name="2. Conclusion 1938" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) II – Conclusion 1938</value>
+          <value>2. Conclusion 1938 (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Conclusion 1938"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -775,9 +870,10 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb67" id="pb67">[p. 67]</a>
-                    <h1 class="head chapter">II <br class="lb"/>Conclusion 1938<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">II</h1>
+                    <h1 class="head chapter">Conclusion 1938<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">Deux années se sont écoulées depuis la fin de ce Journal. Je ne vois pas qu’elles aient rien apporté qui puisse motiver des retouches. Il est un point toutefois que certains événements se sont chargés de me rendre encore plus clair, et sur lequel on n’insistera jamais assez : la nature religieuse de l’hitlérisme. Ce n’est plus une découverte, tous les journaux en parlent aujourd’hui. Mais je crains qu’on n’en parle un peu vite, par image, par ouï-dire, ou par manière de dire. Il faut en parler sérieusement.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Il y a du bon et du mauvais dans ce régime, dites-vous ? À prendre les choses une à une, j’y trouve même plus de bon que de mauvais, si toutefois je parviens à me placer aux environs du point de vue d’un Allemand — et je ne dis pas d’un fanatique, pas même d’un nationaliste, non : d’un Allemand de bon sens et de bonne foi.</p>
@@ -839,23 +935,23 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">I  –  Journal (1935-1936)</a>
+                    <li class="collateral">
+                      <a href="2">Journal (1935-1936)</a>
                     </li>
                     <li class="here">
-                      <a href="#">II  –  Conclusion 1938</a>
+                      <a href="#">Conclusion 1938</a>
                     </li>
-                    <li>
-                      <a href="4">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                    <li class="collateral">
+                      <a href="4">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
-                    <li>
-                      <a href="5">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                    <li class="collateral">
+                      <a href="5">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
-                    <li>
-                      <a href="6">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                    <li class="collateral">
+                      <a href="6">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -865,13 +961,42 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/4" name="Appendice i. Instruction spirituelle donnée aux étudiants hitlériens. (Extrait de lettre d’un étudiant allemand)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/4" name="i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) Appendice i. Instruction spirituelle donnée aux étudiants hitlériens. (Extrait de lettre d’un étudiant allemand)</value>
+          <value>i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand) (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -880,9 +1005,11 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
-                    <h1 class="head chapter">Appendice <span class="num">i</span><br class="lb"/>Instruction spirituelle donnée aux étudiants hitlériens<br class="lb"/>(Extrait de lettre d’un étudiant allemand)<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">Appendice I</h1>
+                    <h1 class="head chapter">Instruction spirituelle donnée aux étudiants hitlériens
+          <br class="lb"/>(Extrait de lettre d’un étudiant allemand)<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">« J’ai été convoqué par ma corporation à un camp d’instruction de deux semaines organisé à X. par le NSDStB<a class="noteref" href="4#note19" id="note19_"><sup>19</sup></a>, du… au… Les cours ne commencèrent que le second jour, avec une conférence de Y. chargé de l’instruction de la province. Sujet : “Notre sang, notre conception du monde.” Il débuta en rappelant les présuppositions sur lesquelles les participants doivent évidemment être au clair. Il s’exprima comme il suit — je sténographiai les formules marquantes.</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Il importe de distinguer entre les membres du parti et les nationaux-socialistes ou porteurs de notre conception du monde… Le Führer en effet a déclaré à la journée du Parti de 1935 : « Le national-socialisme est une conception du monde. » Cette conception du monde est décrite dans <i class="i">Le Mythe du <span class="num">xx<sup class="sup">e</sup></span> siècle</i> de Rosenberg… Dans les camps du NSDStB il s’agit de forger une troupe d’assaut pour Rosenberg, en vue de la lutte qui s’engagera sans doute l’hiver prochain, lutte pour l’âme allemande dans l’esprit et selon la 
@@ -903,7 +1030,7 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
                         <div class="b note-page">
                           <a href="4#pb77">p. 77</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Association des étudiants nationaux-socialistes.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Association des étudiants nationaux-socialistes.</aside>
                       </div>
                     </section>
                   </article>
@@ -920,23 +1047,23 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">I  –  Journal (1935-1936)</a>
+                    <li class="collateral">
+                      <a href="2">Journal (1935-1936)</a>
                     </li>
-                    <li>
-                      <a href="3">II  –  Conclusion 1938</a>
+                    <li class="collateral">
+                      <a href="3">Conclusion 1938</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="#">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
-                    <li>
-                      <a href="5">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                    <li class="collateral">
+                      <a href="5">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
-                    <li>
-                      <a href="6">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                    <li class="collateral">
+                      <a href="6">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -946,13 +1073,42 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/5" name="Appendice ii Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/5" name="ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) Appendice ii Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)</value>
+          <value>ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936) (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -961,9 +1117,11 @@ J’ai suivi mes cours avec zèle <br class="lb"/>et j’ai brillé au séminair
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb80" id="pb80">[p. 80]</a>
-                    <h1 class="head chapter">Appendice <span class="num">ii</span><a class="noteref" href="5#note20" id="note20_"><sup>20</sup></a><br class="lb"/>Plébiscite et démocratie<br class="lb"/>(À propos des « élections » au Reichstag, 29 mars 1936)<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">Appendice ii<a class="noteref" href="5#note20" id="note20_"><sup>20</sup></a></h1>
+                    <h1 class="head chapter">Plébiscite et démocratie
+          <br class="lb"/>(À propos des « élections » au Reichstag, 29 mars 1936)<a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2">
                       <h2 class="head">1. En quoi le plébiscite diffère des élections parlementaires<a class="bookmark" href="5#body-5-1"> §</a></h2>
                       <p class="p autofirst">Pour la mentalité française actuelle, les récentes « élections » nationales-socialistes doivent logiquement apparaître soit comme un truquage monumental, soit comme une manifestation de puissance au moins superflue. Les « élections » au Reichstag, à la suite du 7 mars, ne consistaient nullement en une concurrence libre de groupes ou d’opinions : un seul parti présentait des candidats, et le seul ministre de l’Intérieur était en droit de nommer définitivement les députés. Le vote revenait donc à dire oui ou non à la politique nationale-socialiste, c’est-à-dire au Führer en personne. En fait, il ne s’agissait pas d’élections, au sens parlementaire, mais de plébiscite. Il ne s’agissait pas de doser les opinions, mais au contraire d’obtenir l’<i class="i">unanimité</i> de la nation sur une question vitale. La « lutte 
@@ -1007,7 +1165,7 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                         <div class="b note-page">
                           <a href="5#pb80">p. 80</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a>Les deux articles qui suivent ont été écrits à l’époque de ce journal, pour la revue <i class="i">L’Ordre nouveau</i>. Ils dégagent des jugements restés implicites dans mes notes.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a>Les deux articles qui suivent ont été écrits à l’époque de ce journal, pour la revue <i class="i">L’Ordre nouveau</i>. Ils dégagent des jugements restés implicites dans mes notes.</aside>
                       </div>
                     </section>
                   </article>
@@ -1024,37 +1182,37 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">I  –  Journal (1935-1936)</a>
+                    <li class="collateral">
+                      <a href="2">Journal (1935-1936)</a>
                     </li>
-                    <li>
-                      <a href="3">II  –  Conclusion 1938</a>
+                    <li class="collateral">
+                      <a href="3">Conclusion 1938</a>
                     </li>
-                    <li>
-                      <a href="4">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                    <li class="collateral">
+                      <a href="4">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="#">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">1. En quoi le plébiscite diffère des élections parlementaires</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">2. Plébiscite et démocratie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">3. Nécessité du plébiscite</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">4. La France a passé l’âge des plébiscites</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="6">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                    <li class="collateral">
+                      <a href="6">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1064,13 +1222,42 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/6" name="Appendice iii Les jacobins en chemise brune" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/6" name="iii. Les jacobins en chemise brune" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’Allemagne (1938) Appendice iii Les jacobins en chemise brune</value>
+          <value>iii. Les jacobins en chemise brune (1938, Journal d’Allemagne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’Allemagne (1938)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "iii. Les jacobins en chemise brune"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1079,11 +1266,10 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb86" id="pb86">[p. 86]</a>
-                    <h1 class="head chapter">Appendice <span class="num">iii</span>
-          <br class="lb"/>Les jacobins en chemise brune
-        <a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">Appendice <span class="num">iii</span></h1>
+                    <h1 class="head chapter">Les jacobins en chemise brune <a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">Au Français qui s’étonne et s’inquiète, ou s’indigne de certaines tournures que prend le national-socialisme, il n’est pas rare qu’un membre du parti d’Hitler réponde : « Vous êtes bien mal venu à critiquer ce qui se fait ici ! Vous condamnez notre centralisme, notre nationalisme, notre passion unitaire, notre éloquence démagogique, et vous ne voyez même pas que tout cela, chez vous, existe pareillement, sinon à un plus haut degré, depuis votre Révolution ! Tâchez donc de comprendre une bonne fois que l’Allemagne n’a pas eu de Révolution française, et qu’elle doit rattraper son retard, à tout prix. Vous avez, vous Français, une conscience nationale unitaire qui nous a toujours fait défaut. Tous vos manuels et tous vos historiens vantent les bienfaits de cette unité. Elle est passée dans vos mœurs, à tel point que vous n’en êtes plus même conscients. Vous criez au nationalisme, c’est-à-dire à l’orgueil impérialiste je pense, dès qu’un peuple à côté de vous, que ce soit l’Italie ou l’Allemagne, essaye de faire ce que vous avez fait, et dont vous paraissez si fiers ! »</p>
                     <p class="p">Je note d’abord que ces propos m’ont été tenus spontanément, par des personnes très favorables à Hitler, 
 <a class="pb" href="#pb87" id="pb87">[p. 87]</a>
@@ -1118,14 +1304,14 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                         <div class="b note-page">
                           <a href="6#pb88">p. 88</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="6#note21_">21. </a>L’opération a si bien réussi qu’on entend fréquemment des partisans d’Hitler déclarer que le racisme n’est en <i class="i">réalité</i> que la lutte contre les juifs. Ils restent assez sceptiques quant aux 5
-            théories racistes contradictoires qu’on leur fait apprendre à l’école.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="6#note21_">21. </a>L’opération a si bien réussi qu’on entend fréquemment des partisans d’Hitler déclarer que le racisme n’est en <i class="i">réalité</i> que la lutte contre les juifs. Ils restent assez sceptiques quant aux 5 théories racistes
+            contradictoires qu’on leur fait apprendre à l’école.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb89">p. 89</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="6#note22_">22. </a>L’État totalitaire, <i class="i">c’est l’état de guerre</i>, et de même on peut affirmer qu’une idéologie née du seul combat (<i class="i">Mein Kampf</i>) sera forcément d’allure totalitaire.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="6#note22_">22. </a>L’État totalitaire, <i class="i">c’est l’état de guerre</i>, et de même on peut affirmer qu’une idéologie née du seul combat (<i class="i">Mein Kampf</i>) sera forcément d’allure totalitaire.</aside>
                       </div>
                     </section>
                   </article>
@@ -1142,23 +1328,23 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">I  –  Journal (1935-1936)</a>
+                    <li class="collateral">
+                      <a href="2">Journal (1935-1936)</a>
                     </li>
-                    <li>
-                      <a href="3">II  –  Conclusion 1938</a>
+                    <li class="collateral">
+                      <a href="3">Conclusion 1938</a>
                     </li>
-                    <li>
-                      <a href="4">Appendice <span class="num">i</span>.  Instruction spirituelle donnée aux étudiants hitlériens.  (Extrait de lettre d’un étudiant allemand)</a>
+                    <li class="collateral">
+                      <a href="4">Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
-                    <li>
-                      <a href="5">Appendice <span class="num">ii</span>  Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                    <li class="collateral">
+                      <a href="5">Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice <span class="num">iii</span>    Les jacobins en chemise brune </a>
+                      <a href="#">Les jacobins en chemise brune</a>
                     </li>
                   </ul>
                 ]]></content>

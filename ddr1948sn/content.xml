@@ -4,10 +4,39 @@
     <page path="/livres/ddr1948sn/1" name="I" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) I</value>
+          <value>I (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p9" id="p9">[p. 9]</a>
                     <h1 class="head chapter">I<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">On se trompe en croyant qu’un voyageur à longueur de chemin perd sa patrie : c’est souvent elle qu’il découvre le mieux quand il parcourt le globe et vit chez l’étranger. Non qu’il y pense toujours, mais 
@@ -66,25 +95,25 @@
                     <li class="here">
                       <a href="#">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -98,10 +127,39 @@
     <page path="/livres/ddr1948sn/2" name="II" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) II</value>
+          <value>II (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -110,7 +168,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p17" id="p17">[p. 17]</a>
                     <h1 class="head chapter">II<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">L’irruption du souvenir est aussi mystérieuse que celle de l’invention, dans notre esprit. Peu s’en faut, si j’y pense, que je ne les distingue plus. Tout se passe comme si la mémoire inventait soudain quelque 
@@ -142,28 +200,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
                     <li class="here">
                       <a href="#">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -177,10 +235,39 @@
     <page path="/livres/ddr1948sn/3" name="III" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) III</value>
+          <value>III (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -189,7 +276,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p23" id="p23">[p. 23]</a>
                     <h1 class="head chapter">III<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">C’est l’un des traits les moins connus de notre pays que la <i class="i">continuité</i> de ses familles, ailleurs rompue par des révolutions ou de fréquents changements de condition sociale. Nos archives sont intactes, 
@@ -250,28 +337,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
                     <li class="here">
                       <a href="#">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -285,10 +372,39 @@
     <page path="/livres/ddr1948sn/4" name="IV" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) IV</value>
+          <value>IV (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -297,7 +413,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p35" id="p35">[p. 35]</a>
                     <h1 class="head chapter">IV<a class="bookmark" href="4"> §</a></h1>
                     <p class="p autofirst">…Une lignée. Une famille parmi d’autres, et qui n’a guère cherché d’illustration en dehors des limites de la communauté qu’elle a servie pendant cinq siècles.</p>
@@ -369,28 +485,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
                     <li class="here">
                       <a href="#">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -404,10 +520,39 @@
     <page path="/livres/ddr1948sn/5" name="V" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) V</value>
+          <value>V (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "V"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -416,7 +561,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p49" id="p49">[p. 49]</a>
                     <h1 class="head chapter">V<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">J’ai refermé les livres, les mémoires. L’année finit. J’écris sans hâte. Quel silence ! Et je m’attarde à suivre encore ces harmoniques, comme à l’écoute clandestine, l’oreille au son d’un passé qui faiblit 
@@ -467,28 +612,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
                     <li class="here">
                       <a href="#">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -502,10 +647,39 @@
     <page path="/livres/ddr1948sn/6" name="VI" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) VI</value>
+          <value>VI (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "VI"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -514,7 +688,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p59" id="p59">[p. 59]</a>
                     <h1 class="head chapter">VI<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">Ces retours sur l’histoire d’un pays, où je cherchais à mieux situer les miens, m’ont proposé chemin faisant quelques énigmes, et permis d’entrevoir quelques réponses. Voici pourtant un fait que je m’explique 
@@ -558,28 +732,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
                     <li class="here">
                       <a href="#">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -593,10 +767,39 @@
     <page path="/livres/ddr1948sn/7" name="VII" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) VII</value>
+          <value>VII (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "VII"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -605,7 +808,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p69" id="p69">[p. 69]</a>
                     <h1 class="head chapter">VII<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">« Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre, et filtrent entre les roseaux. » (<i class="i">L’Immoraliste</i>.)</p>
@@ -670,28 +873,28 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
                     <li class="here">
                       <a href="#">VII</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="8">VIII</a>
                     </li>
                   </ul>
@@ -705,10 +908,39 @@
     <page path="/livres/ddr1948sn/8" name="VIII" package="ddr1948sn" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Suite neuchâteloise (1948) VIII</value>
+          <value>VIII (1948, Suite neuchâteloise)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Suite neuchâteloise (1948)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "VIII"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -717,7 +949,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p83" id="p83">[p. 83]</a>
                     <h1 class="head chapter">VIII<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">On peut écrire aussi contre les lacs, ces endormeurs, et porter sa louange à des lieux plus sévères. Mais plutôt il convient d’alterner ces agréments et ces vertus. Qui nous parlera des forêts ? Pour ma part, 
@@ -773,25 +1005,25 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">III</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">IV</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">V</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">VI</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="7">VII</a>
                     </li>
                     <li class="here">

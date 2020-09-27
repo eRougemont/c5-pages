@@ -4,10 +4,39 @@
     <page path="/livres/ddr1953ch/1" name="Introduction (par Lucien Febvre)" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Introduction (par Lucien Febvre)</value>
+          <value>Introduction (par Lucien Febvre) (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Introduction (par Lucien Febvre)"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Introduction (par Lucien Febvre)<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Révélation de la Suisse : j’intitulerais volontiers ainsi, pour ma part, le beau travail de M. Denis de Rougemont. Que de choses, et précieuses à savoir, il apprendra à la masse internationale des hommes qui, pour avoir traversé le Léman de Genève à Villeneuve, admiré le bleu étonnant du lac de Thoune, contemplé d’Interlaken la Jungfrau et peut-être suivi, à la lunette, la marche audacieuse et prudente sur les glaciers d’une caravane d’encordés — à la question : « Vous connaissez la Suisse ? » — peuvent répondre en conscience : « Bien sûr ! »</p>
@@ -27,7 +56,8 @@
 <a class="pb" href="#pb9" id="pb9">[p. 9]</a>
  l’intelligence — car l’essai qu’on va lire fait merveilleusement comprendre ce que représente aujourd’hui, sur la palette des États, ce petit pays qui ne compte pas plus d’habitants, en tout, que le « Grand Paris » à lui seul : mais il joue cependant dans la vie européenne un rôle qui, tout discret qu’il soit, dépasse en importance, mille fois, ceux que portent à bout de bras des vedettes flamboyantes. Pourtant, pourtant, ce n’est point par dilettantisme (il serait périmé) que je regrette un peu (c’est du reste la seule chose qu’il me laisse à regretter) que l’Essai de Denis de Rougemont demeure trop constamment abstrait. Les paysages sont, eux aussi, des agents de l’histoire. Il semble que les Suisses aient pudeur d’en parler. Compartiments, oui. Et qui, souvent, assez malgracieusement, évoquent la prison : songeons aux pays rhétiques. Mais qui ne voit l’histoire de la Suisse que d’en bas, du creux, du fond même du compartiment, la voit mal. Car les bergers de bonne heure sont montés sur l’Alpe. D’où se voit, d’où se découvre un monde immense de pics, de sommets, de glaciers. Un mont tout blanc ou tout rose, au gré du soleil, mais dont l’appel muet fait battre le cœur, même des plus simples gens. Un monde immaculé qu’on ignore d’en bas ; mais si les gens de telle vallée close se sont de bonne heure unis, de proche en proche, aux gens de cette autre vallée — s’il s’est formé peu à peu un agrégat de compartiments clos qui s’est nommé la Suisse — c’est que les gens d’en bas étaient montés en haut. Pour le pâturage, pour la chasse, mais aussi pour le simple plaisir de monter. Et qu’arrivés au but, ils ont goûté l’ivresse 
 <a class="pb" href="#pb10" id="pb10">[p. 10]</a>
- des sommets, libéré en eux ces puissances héroïques que l’homme puise dans la nature, repu leurs yeux de merveilleux horizons, purs, libres et tangibles, dès qu’on dépasse les 2 000 mètres ; et dit : « Ceci est à nous. Ceci sera Nous. »</p>
+ des sommets, libéré en eux ces puissances héroïques que l’homme puise dans la nature, repu leurs yeux de merveilleux horizons, purs, libres et tangibles, dès qu’on dépasse
+          les 2 000 mètres ; et dit : « Ceci est à nous. Ceci sera Nous. »</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Si proche de nous, cette Suisse : je veux dire de la France, de l’Italie, de l’Autriche, de l’Allemagne rhénane — et si différente cependant de tout ce que nous sommes les uns et les autres. Si vraiment originale en tout ; et d’abord, en son mode de formation.</p>
                     <p class="p">La Suisse, c’est la boule de neige. Trois petits cantons qui se donnent la main. Et puis, une oscillation vers l’Ouest — et quand la boule reprend son équilibre, elle s’est grossie de Lucerne. Une seconde oscillation, vers l’Est cette fois, et c’est Glaris, c’est Saint Gall, qui restent collés au flanc de la masse compacte. Quelques mouvements de bascule encore, et voilà finalement agglomérés les treize cantons. Qui n’ont pas à élever de monuments au « Rassembleur de la Terre helvétique », il n’en existe pas. Mais ils doivent un culte (et ils ne le nient point) aux trois anonymes du Grütli qui, la main dans la main, scellèrent le pacte initial de loyauté. Une des plus belles œuvres de l’homme par là-même, cette confédération. Cherchez, d’instinct, la « famille royale » qui « fit la Suisse ». Vous ne trouverez même pas de familles qui en aient « fait » les cantons.</p>
@@ -41,7 +71,8 @@
  Vaud et Genève où l’on parle français souderaient ainsi la Franche-Comté à la Savoie par-dessus le Léman. Mais sans aller plus loin, le Valais ? À qui le Valais ? Au-delà de Sion il est de langue germanique. On le couperait en deux ? Merci, mais les Valaisans donneraient à on quelque fil à retordre. Et le reste, à qui ? les 200 000 Suisses italiens ? et les 3 millions de Suisses alémaniques ? — on détruirait la Suisse ? Peut-être, mais sitôt l’opération terminée, la Suisse se reformerait. Ou plus exactement, la Confédération se reconstituerait comme elle s’est constituée : par le lien fédéral.</p>
                     <p class="p">On va disant, avec un haussement d’épaule : « C’est un petit pays. Un État joujou, un timbre-poste ». Non. Réduite à la platitude ambiante et projetée dans les steppes de l’Eurasie — ce serait en effet, à leur image, un minuscule territoire. 270 kilomètres de Genève à Constance. À cent à l’heure, en terrain plat, sur une bonne piste, 3 heures de parcours. Mais je dis bien : réduite à la platitude. Compte non tenu de ces perpétuelles dénivellations qui vous transportent des 197 mètres de Locarno aux 4 638 du Pic Dufour. Et il n’y a pas de platitudes que géographiques. Tous les 30 à 40 kilomètres en moyenne on passe une frontière en Suisse — et on change d’État. Ne dites pas que c’est jouer sur les mots. On change de gendarmes et de policiers, d’écusson et d’étendard, de tribunaux et d’universités surtout. Il y en a sept actuellement — sept pour ces 4 millions d’hommes dispersés sur des 40 000 kilomètres carrés de collines et de montagnes ; sept absolument indépendantes l’une de l’autre, dépendant uniquement des autorités 
 <a class="pb" href="#pb13" id="pb13">[p. 13]</a>
- d’un canton — et émouvantes quand on pense à la somme de sacrifices que chacune d’elles représente, à l’effort que représente, pour un canton comme celui de Fribourg, la création et l’activité d’une université de style moderne, original et assez saisissant — n’oublions pas que Le Corbusier est Suisse — et ce que je dis de Fribourg, il faut le redire de toutes les autres, Bâle et Zurich, Berne, Lausanne, Genève… Et le peuple suisse tient à ce pluralisme universitaire, comme il tient à l’intégrité de ses langues ; il en reconnaissait trois en 1937, l’allemand, le français, l’italien ; au lieu de tendre à les réduire, il en a reconnu une nouvelle en 1938 ; le réto-roman, avec ses deux branches, le romanche de la haute vallée de Min — et le ladin de la haute vallée de l’Inn. De « question des langues » dans la Confédération, il n’y en a point, et jamais la majorité alémanique n’a pensé à faire disparaître, forte de ses trois millions de ressortissants, la langue française ni la langue italienne, ni même les patois réto-romans, au contraire. Tout cela empêche, ou devrait empêcher les ignorants de tous les pays de parler toujours de « la petite Suisse » avec un accent de supériorité comique. Développez et étalez sur un plan horizontal ses accidents verticaux, développez et étalez sur l’échelle commune des États d’Europe ses institutions cantonales ; vous avez autre chose que le « timbre-poste » dont vous vous gaussez. La plus vigoureuse des démonstrations dans sa simplicité, le plus fort des États dans son absence complète de centralisation. Ne cherchez pas la preuve dans des considérations théoriques. Dites-vous simplement qu’il 
+ d’un canton — et émouvantes quand on pense à la somme de sacrifices que chacune d’elles représente, à l’effort que représente, pour un canton comme celui de Fribourg, la création et l’activité d’une université de style moderne, original et assez saisissant — n’oublions pas que Le Corbusier est Suisse — et ce que je dis de Fribourg, il faut le redire de toutes les autres, Bâle et Zurich, Berne, Lausanne, Genève… Et le peuple suisse tient à ce pluralisme universitaire, comme il tient à l’intégrité de ses langues ; il en reconnaissait trois en 1937, l’allemand, le français, l’italien ; au lieu de tendre à les réduire, il en a reconnu une nouvelle en 1938 ; le réto-roman, avec ses deux branches, le romanche de la haute vallée de Min — et le ladin de la haute vallée de l’Inn. De « question des langues » dans la Confédération, il n’y en a point, et jamais la majorité alémanique n’a pensé à faire disparaître, forte de ses trois
+          millions de ressortissants, la langue française ni la langue italienne, ni même les patois réto-romans, au contraire. Tout cela empêche, ou devrait empêcher les ignorants de tous les pays de parler toujours de « la petite Suisse » avec un accent de supériorité comique. Développez et étalez sur un plan horizontal ses accidents verticaux, développez et étalez sur l’échelle commune des États d’Europe ses institutions cantonales ; vous avez autre chose que le « timbre-poste » dont vous vous gaussez. La plus vigoureuse des démonstrations dans sa simplicité, le plus fort des États dans son absence complète de centralisation. Ne cherchez pas la preuve dans des considérations théoriques. Dites-vous simplement qu’il 
 <a class="pb" href="#pb14" id="pb14">[p. 14]</a>
  a survécu, sans changement, aux deux premières guerres mondiales. Et qu’il y a eu, cependant, du mérite.</p>
                     <p class="p">Faut-il ajouter un mot ? Pays de gens moyens, Denis de Rougemont ne se fait pas faute de le dire et de le répéter. Il est vrai, les Suisses ne se font pas remarquer. À telle enseigne qu’ils n’ont jamais intéressé les caricaturistes. Voyez la petite Belgique ; toute une armée de détracteurs (des Français surtout, et pas des moindres, de Baudelaire à Verlaine) s’est exercée sur elle. Avec âcreté parfois et injustice flagrante. Les Suisses ? Ils ne se sont même pas créé de Beulemans. Et personne n’a songé à faire d’eux des caricatures. Ils se sont caricaturés eux-mêmes, au temps de Töpffer. Et ce n’était pas méchant. Un peu niais simplement. Quelques gambades et grimaces de vieil enfant. — Pays de gens moyens, oui.</p>
@@ -64,26 +95,26 @@
                     <li class="here">
                       <a href="#">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -96,10 +127,39 @@
     <page path="/livres/ddr1953ch/2" name="Note de l’auteur" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Note de l’auteur</value>
+          <value>Note de l’auteur (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Note de l’auteur"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -108,7 +168,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb15" id="pb15">[p. 15]</a>
                     <h1 class="head chapter">Note de l’auteur<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Ce petit ouvrage, écrit en mars 1949, fait partie d’une série d’études sur les nations modernes, entreprise sous la responsabilité de la Conférence permanente des hautes études internationales, dans le cadre du programme de l’Unesco.</p>
@@ -132,29 +192,29 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
                     <li class="here">
                       <a href="#">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -164,13 +224,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/3" name="Chapitre I. Le peuple et son histoire" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/3" name="1. Le peuple et son histoire" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre I. Le peuple et son histoire</value>
+          <value>1. Le peuple et son histoire (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Le peuple et son histoire"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -179,9 +268,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb19" id="pb19">[p. 19]</a>
-                    <h1 class="head chapter">Chapitre I. Le peuple et son histoire<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre I.</h1>
+                    <h1 class="head chapter">Le peuple et son histoire<a class="bookmark" href="3"> §</a></h1>
                     <p class="p autofirst">L’image conventionnelle de la Suisse semble avoir été fixée par le vers célèbre de Victor Hugo :</p>
                     <blockquote class="quote">
                       <div class="l">Le Suisse trait sa vache et vit paisiblement.</div>
@@ -267,7 +357,7 @@
                     <p class="p">Nicolas de Flue (canonisé en 1947) représente la plus authentique tradition suisse : réalisme, sobriété, spiritualité, fidélité à l’Alliance primitive. Au solitaire laïque s’oppose trait pour trait cet ambitieux prince de l’Église que fut Mathieu Schiner. Fils de paysans valaisans, s’élevant avec ténacité et astuce lentement jusqu’aux plus hauts honneurs ; cardinal, homme d’État, grand stratège enfin, Schiner incarne la tentation impérialiste contre laquelle Nicolas n’avait cessé de mettre en garde les cantons. Son rêve était de constituer au centre du continent un grand État qui eût englobé la Bourgogne, la Lombardie et la Souabe, sous la domination des Confédérés. La puissance militaire des Suisses, à ce moment, paraissait justifier l’entreprise. Mais son succès même eût signifié la fin de la Confédération. Car un État puissant, centré sur le Gothard, eût été une menace permanente pour les nations voisines, alors en formation, et surtout pour la France, que Schiner haïssait. Cet État se fût mêlé à toutes les luttes pour l’hégémonie européenne. Afin d’y faire face, il eût été contraint de se donner un pouvoir fort et unifié. Or, depuis deux siècles, la Confédération avait su vivre sans capitale ni centre légal, et sans autre constitution écrite que les Pactes. Sa Diète, formée de délégués des gouvernements cantonaux, se réunissait selon l’urgence dans une ville ou une autre, et ne possédait pas de pouvoirs nettement définis. C’était tout ce système souple, organique, coutumier et non légal, reposant sur le sens civique 
 <a class="pb" href="#pb36" id="pb36">[p. 36]</a>
  inné des Confédérés et non pas sur des textes, c’était en un mot l’esprit même du fédéralisme helvétique que l’ambition de Schiner mettait en péril.</p>
-                    <p class="p">Il eut d’abord de grands succès, en conduisant les troupes suisses en Italie au cours de plusieurs expéditions foudroyantes. À la bataille de Novare (1509), le roi François I<sup class="sup">er</sup> fut complètement battu. Mais à Marignan, en 1515, les Suisses furent contraints de quitter le terrain après deux jours d’une bataille géante pour l’époque. Leur retraite, lente et solennelle — ils emportaient leurs morts et leurs blessés, tout en luttant pied à pied — fut le dernier fait d’armes de l’ancienne Confédération. Le crépuscule sanglant de Marignan marque la fin du rêve héroïque de Schiner. Mais cet échec militaire n’eût pas suffi à lui seul à ramener les Suisses dans leurs limites. Un phénomène d’un tout autre ordre allait les y contraindre, de l’intérieur : la<samp class="space note tab">    </samp>     Réformation.</p>
+                    <p class="p">Il eut d’abord de grands succès, en conduisant les troupes suisses en Italie au cours de plusieurs expéditions foudroyantes. À la bataille de Novare (1509), le roi François I<sup class="sup">er</sup> fut complètement battu. Mais à Marignan, en 1515, les Suisses furent contraints de quitter le terrain après deux jours d’une bataille géante pour l’époque. Leur retraite, lente et solennelle — ils emportaient leurs morts et leurs blessés, tout en luttant pied à pied — fut le dernier fait d’armes de l’ancienne Confédération. Le crépuscule sanglant de Marignan marque la fin du rêve héroïque de Schiner. Mais cet échec militaire n’eût pas suffi à lui seul à ramener les Suisses dans leurs limites. Un phénomène d’un tout autre ordre allait les y contraindre, de l’intérieur : la<samp class="space note tab"> </samp>  Réformation.</p>
                     <p class="p">Les historiens modernes accusent parfois Zwingli d’avoir brisé l’essor de la Confédération, son élan vers la mer et l’aventure. En vérité, Zwingli et sa Réforme ont sauvé la Suisse en la ramenant au sens de sa mission exceptionnelle.</p>
                     <p class="p">Zwingli avait grandi dans le désordre de cette période de guerres, de corruption générale, de fièvres ambitieuses. Il en avait vu de près les effets, comme aumônier dans les campagnes d’Italie. C’était un humaniste, un esprit plus rationaliste que mystique, et un homme d’État né : autant de traits qui le distinguent de Luther. Il se signala d’abord par ses prêches violents contre le mercenariat et contre les 
 <a class="pb" href="#pb37" id="pb37">[p. 37]</a>
@@ -300,7 +390,8 @@
  offrir les services aux princes étrangers. Il ne s’agissait pas de mercenaires. Les nobles qui possédaient un régiment ne se louaient pas à un gouvernement, mais s’alliaient avec lui par des traités nommés « capitulations ». Ils formaient souvent la garde royale. C’est ainsi que les gardes suisses furent les derniers à protéger Louis XVI contre l’émeute populaire, le 10 août 1792, et se firent presque tous massacrer sur les marches du palais du Louvre, le roi leur ayant interdit de tirer sur la foule.</p>
                     <p class="p">On trouvait des troupes des cantons au service des rois de France, de Prusse, d’Angleterre et d’Espagne, des États généraux de Hollande et des princes d’Orange, du royaume de Naples et des Deux-Siciles, des empereurs d’Autriche. C’est à la période du service étranger que se rapporte le proverbe : « Pas d’argent, pas de Suisse. » Il est en partie calomnieux<a class="noteref" href="3#note3" id="note3_"><sup>3</sup></a>. Comme un prince français disait un jour au Maréchal de camp des Suisses, qui voulait faire payer ses troupes : « Avec l’argent que nous vous avons déjà donné, l’on pourrait paver une route allant de Paris à Bâle », le maréchal répliqua : « Avec le sang que nos hommes ont versé pour la France, on pourrait remplir un canal allant de Bâle à Paris. » Il convient toutefois d’ajouter que les 700 généraux, et les milliers d’officiers supérieurs que la Suisse donna aux armées européennes, 
 <a class="pb" href="#pb43" id="pb43">[p. 43]</a>
- ne revinrent pas tous les mains vides dans leur pays. Beaucoup rapportaient de leurs campagnes exotiques, de l’or et de l’argenterie, des vaisselles rares, des meubles et des bijoux. De considérables richesses s’accumulèrent ainsi dans les châteaux suisses. Beaucoup aussi revenaient mariés à des filles de seigneurs étrangers. L’aristocratie suisse devint ainsi l’une des plus internationales de l’Europe, tant par les allégeances que par le sang. Quant aux soldats, une fois leur engagement expiré, ils redevenaient paysans dans leur village, ou boutiquiers dans leurs villes, ils racontaient leurs souvenirs sous le tilleul de la place publique, décrivaient les terres et les mœurs étrangères, et apprenaient à leurs enfants des chansons du régiment. Un folklore musical considérable, riche en chefs-d’œuvre charmants, narquois ou mélancoliques, naquit du service étranger. Il s’est perpétué jusqu’à nos jours dans les campagnes.</p>
+ ne revinrent pas tous les mains vides dans leur pays. Beaucoup rapportaient de leurs campagnes exotiques, de l’or et de l’argenterie, des vaisselles rares, des meubles et des bijoux. De considérables richesses s’accumulèrent ainsi dans les châteaux suisses. Beaucoup aussi revenaient mariés à des filles de seigneurs étrangers. L’aristocratie suisse devint ainsi l’une des plus internationales de l’Europe, tant par les allégeances que par le sang. Quant aux soldats, une fois leur engagement expiré, ils redevenaient paysans dans leur village, ou boutiquiers dans leurs villes, ils racontaient leurs souvenirs sous le tilleul de la place publique, décrivaient les terres et les mœurs étrangères, et apprenaient à leurs enfants des chansons du régiment. Un folklore musical considérable, riche en chefs-d’œuvre charmants, narquois ou mélancoliques, naquit du
+          service étranger. Il s’est perpétué jusqu’à nos jours dans les campagnes.</p>
                     <p class="p">L’épopée du service étranger devait trouver son couronnement en même temps que son crépuscule dans une retraite mémorable : elle se termina sur les bords glacés de la Bérézina en 1813, comme l’épopée de l’ancienne Suisse s’était terminée trois siècles auparavant sur la plaine de Marignan.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Lorsque éclata la Révolution française, la Suisse se vit brusquement dépassée par les événements, et prit figure d’État « réactionnaire ». Privée d’armée unifiée comme de pouvoir central — les États restaient 
@@ -340,7 +431,8 @@
                     <p class="p">D’autre part, ces mêmes conditions topographiques jouent dans le sens de l’autonomie politique des petites communautés. Enfin, la résultante de cette double nécessité d’autonomie et de coopération s’est trouvée coïncider — à la faveur de l’ouverture du col du Gothard — avec les intérêts de l’Empire, puis de l’Europe, c’est-à-dire avec une mission de grand-garde au cœur de notre continent, à la fois autonome à l’égard de toute puissance particulière, et prête à coopérer au bien de l’ensemble.</p>
                     <p class="p">Ces considérations, il est vrai, ne pouvaient être formulées qu’<i class="i">a posteriori</i>, dans notre siècle, au terme d’une série d’expériences empiriques dont le sens, l’orientation permanente mais presque inconsciente, n’apparaissaient pas nécessairement aux yeux de ceux qui les vécurent. À regarder de très près les circonstances de l’histoire suisse et les motifs des actes principaux qui la jalonnent, on est tenté de conclure à un utilitarisme assez étroit, que l’on pourrait qualifier de mesquin autant que de réaliste. Par exemple, le refus 
 <a class="pb" href="#pb52" id="pb52">[p. 52]</a>
- permanent de s’agrandir, qui caractérise la politique générale de la Confédération, peut être ramené à des raisons nettement intéressées et témoignant d’une certaine pauvreté ou timidité de conception. Les avertissements de Nicolas de Flue contre l’impérialisme repris par Zwingli au début du <span class="num">xvi<sup class="sup">e</sup></span> siècle, et la défaite de Marignan elle-même n’eussent peut-être pas suffi, si les divisions religieuses et surtout les jalousies entre les cantons citadins et campagnards n’avaient contraint la Confédération à une politique de repliement et de resserrement territorial. De même, au <span class="num">xx<sup class="sup">e</sup></span> siècle, on a vu le peuple suisse refuser de s’annexer le Vorarlberg, qui avait pourtant plébiscité son rattachement à la Confédération, et ce refus semblait motivé beaucoup moins par une sagesse à longues vues que par la crainte, chez la majorité protestante, de voir s’augmenter le nombre des catholiques. Il n’en reste pas moins qu’au total les réflexes du peuple et de ses autorités ont constamment joué dans le même sens : aux dépens de la puissance matérielle et en faveur d’un équilibre pacifique, qui se trouvait être « dans les vrais intérêts de la politique de l’Europe tout entière ». C’est un Suisse, Benjamin Constant, qui observait que les gouvernements, lorsqu’ils parlent d’arrondir leurs frontières, l’entendent toujours « au dehors ». Aucun, ajoutait-il, n’a sacrifié, que l’on sache, une portion de son territoire, pour donner au reste une plus grande régularité géométrique… Il semble que la Suisse soit l’un des rares pays qui ait sacrifié des avantages territoriaux non point à la régularité de sa forme, mais bien à sa santé civique.</p>
+ permanent de s’agrandir, qui caractérise la politique générale de la Confédération, peut être ramené à des raisons nettement intéressées et témoignant d’une certaine pauvreté ou timidité de conception. Les avertissements de Nicolas de Flue contre l’impérialisme repris par Zwingli au début du <span class="num">xvi<sup class="sup">e</sup></span> siècle, et la défaite de Marignan elle-même n’eussent peut-être pas suffi, si les divisions religieuses et surtout les jalousies entre les cantons citadins et campagnards n’avaient contraint la Confédération à une politique de repliement et de resserrement territorial. De même, au <span class="num">xx<sup class="sup">e</sup></span> siècle, on a vu le peuple suisse refuser de s’annexer le Vorarlberg, qui avait pourtant plébiscité son rattachement à la Confédération, et ce refus semblait motivé beaucoup moins par une sagesse à longues vues que par la crainte, chez la majorité protestante, de voir s’augmenter le nombre des catholiques. Il n’en reste pas moins qu’au total les réflexes du peuple et de ses autorités ont constamment joué dans le même sens : aux dépens de la puissance matérielle et en faveur d’un équilibre pacifique, qui se trouvait être « dans les vrais intérêts de la politique de l’Europe tout entière ». C’est un Suisse, Benjamin Constant, qui observait que les gouvernements, lorsqu’ils parlent d’arrondir leurs frontières, l’entendent toujours « au dehors ». Aucun, ajoutait-il,
+          n’a sacrifié, que l’on sache, une portion de son territoire, pour donner au reste une plus grande régularité géométrique… Il semble que la Suisse soit l’un des rares pays qui ait sacrifié des avantages territoriaux non point à la régularité de sa forme, mais bien à sa santé civique.</p>
                     <p class="p">
 <a class="pb" href="#pb53" id="pb53">[p. 53]</a>
  Un autre trait qui se dégage à l’examen de l’histoire suisse, c’est une curieuse absence d’idéologie directrice, une méfiance prononcée à l’égard de tout système politique logiquement formulé<a class="noteref" href="3#note6" id="note6_"><sup>6</sup></a>. Le terme de fédéralisme n’apparaît dans les écrits politiques suisses qu’à une époque toute récente. Les anciens chroniqueurs ignorent le mot, quand la chose est partout dans les faits qu’ils rapportent. D’où le paradoxe d’une histoire parfaitement cohérente, mais dont les acteurs semblent éviter avec soin d’avouer le principe animateur. D’où encore une volonté constante de n’alléguer que des motifs terre à terre, là où d’autres eussent parlé de doctrine, d’idéalisme, de grandeur nationale.</p>
@@ -360,43 +452,43 @@
                         <div class="b note-page">
                           <a href="3#pb24">p. 24</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="3#note1_">1. </a>Les Habsbourg, comme on sait, devinrent empereurs. Ils s’efforcèrent de réduire les Waldstätten en les entourant d’un cercle de châteaux. C’est au cours de la lutte des cantons contre les baillis des Habsbourg que se place l’épisode de Guillaume Tell, contesté par les historiens du <span class="num">xix<sup class="sup">e</sup></span> siècle, confirmé par la plus récente critique.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="3#note1_">1. </a>Les Habsbourg, comme on sait, devinrent empereurs. Ils s’efforcèrent de réduire les Waldstätten en les entourant d’un cercle de châteaux. C’est au cours de la lutte des cantons contre les baillis des Habsbourg que se place l’épisode de Guillaume Tell, contesté par les historiens du <span class="num">xix<sup class="sup">e</sup></span> siècle, confirmé par la plus récente critique.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb27">p. 27</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a><span class="sc">E. Gagliardi</span>, <i class="i">Histoire de la Suisse</i>, 1925, p. 79.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a><span class="sc">E. Gagliardi</span>, <i class="i">Histoire de la Suisse</i>, 1925, p. 79.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb42">p. 42</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>L’expression apparaît pour la première fois dans un factum de l’époque de la Fronde rédigé par des soldats suisses, qui se plaignaient de n’être pas payés pour leurs services. « Les Suisses ne se payent pas de paroles ! » écrivait Montluc.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="3#note3_">3. </a>L’expression apparaît pour la première fois dans un factum de l’époque de la Fronde rédigé par des soldats suisses, qui se plaignaient de n’être pas payés pour leurs services. « Les Suisses ne se payent pas de paroles ! » écrivait Montluc.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb44">p. 44</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="3#note4_">4. </a>[NdE] Par inadvertance, il est écrit « Australiens » dans le texte imprimé.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="3#note4_">4. </a>[NdE] Par inadvertance, il est écrit « Australiens » dans le texte imprimé.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb47">p. 47</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Le fédéralisme, en effet, n’est pas seulement le régionalisme ni seulement, à l’inverse, l’union des régions autour d’un centre, mais l’équilibre vivant entre les droits particuliers et les devoirs vis-à-vis de l’ensemble, entre l’<i class="i">un pour tous</i> et le<i class="i"> tous pour un</i>.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="3#note5_">5. </a>Le fédéralisme, en effet, n’est pas seulement le régionalisme ni seulement, à l’inverse, l’union des régions autour d’un centre, mais l’équilibre vivant entre les droits particuliers et les devoirs vis-à-vis de l’ensemble, entre l’<i class="i">un pour tous</i> et le<i class="i"> tous pour un</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb53">p. 53</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Cette observation reste valable même pour la période qui a précédé l’adoption de la Constitution fédérale en 1848. L’idéologie radicale, centralisatrice, affirmée avec une certaine intransigeance dans les discours, a toujours cédé aux compromis dans la rédaction des articles du Pacte.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="3#note6_">6. </a>Cette observation reste valable même pour la période qui a précédé l’adoption de la Constitution fédérale en 1848. L’idéologie radicale, centralisatrice, affirmée avec une certaine intransigeance dans les discours, a toujours cédé aux compromis dans la rédaction des articles du Pacte.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb54">p. 54</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Bien que l’adjectif « national » se soit introduit dans le vocabulaire politique de Quarante-huit, et désigne par exemple le Conseil des députés élus par le peuple. Mais cet emploi du mot demeure exceptionnel, et n’éveille pas du tout chez les Suisses l’ensemble de sentiments et de passions qu’éveille le mot « nation » chez un Français.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="3#note7_">7. </a>Bien que l’adjectif « national » se soit introduit dans le vocabulaire politique de Quarante-huit, et désigne par exemple le Conseil des députés élus par le peuple. Mais cet emploi du mot demeure exceptionnel, et n’éveille pas du tout chez les Suisses l’ensemble de sentiments et de passions qu’éveille le mot « nation » chez un Français.</aside>
                       </div>
                     </section>
                   </article>
@@ -413,29 +505,29 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre I. Le peuple et son histoire</a>
+                      <a href="#">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -445,13 +537,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/4" name="Chapitre II. Les institutions politiques" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/4" name="2. Les institutions politiques" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre II. Les institutions politiques</value>
+          <value>2. Les institutions politiques (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Les institutions politiques"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -460,9 +581,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
-                    <h1 class="head chapter">Chapitre II. Les institutions politiques<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre II.</h1>
+                    <h1 class="head chapter">Les institutions politiques<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2 level2">
                       <h2 class="head">a) La Commune<a class="bookmark" href="4#body-4-1"> §</a></h2>
                       <p class="p autofirst">Comment devient-on Suisse ? En obtenant l’agrégation à une commune dans un canton. Ce fait très simple contient en germe la plupart des distinctions fondamentales qu’il y aurait lieu de marquer entre le régime fédéraliste de la Suisse et les régimes centralistes de la plupart des États modernes.</p>
@@ -505,9 +627,11 @@
 <a class="pb" href="#pb66" id="pb66">[p. 66]</a>
  protocolairement par la formule : « Très estimé Monsieur le Landamann, très affectionnés et dignes de confiance compatriotes. » C’est une discussion de famille, tournée vers la pratique autant qu’inspirée par la passion politique… Et pourtant il s’agit d’une société politique de notre temps, dans un canton fort évolué : sur les 35 000 habitants qu’il contient, un quart seulement sont des paysans et plus de la moitié vivent de l’industrie.</p>
                       </blockquote>
-                      <p class="p autofirst">Avec moins de pittoresque et de politesse patriarcale, c’est dans une atmosphère assez semblable que se déroulent les débats des Grands Conseils. L’influence des mœurs politiques latines, l’éloquence, le sectarisme des partis, ne se manifestent guère que dans les parlements des cantons à prédominance citadine, comme Genève. Partout ailleurs, les considérations pratiques priment, et l’équilibre est respecté, d’un accord tacite, entre les intérêts plus ou moins divergents des classes, des régions, de la paysannerie, des ouvriers et des bourgeois. « Ce qu’il y a d’intéressant à noter, écrit encore M. Siegfried, c’est que pareil équilibre semble régner au sein des individus eux-mêmes, en raison du développement traditionnel d’une vie corporative : tel ouvrier raisonnera non pas exclusivement en ouvrier, mais en membre de la commune religieuse, ou de la commune “bourgeoise”, ou encore en membre de telle ou telle localité. » Cette dernière remarque est importante : elle nous fait entrevoir la condition des libertés civiques dans un régime fédéraliste, et c’est <i class="i">l’appartenance simultanée à plusieurs groupes ou communautés, dont les limites</i> 
+                      <p class="p autofirst">Avec moins de pittoresque et de politesse patriarcale, c’est dans une atmosphère assez semblable que se déroulent les débats des Grands Conseils. L’influence des mœurs politiques latines, l’éloquence, le sectarisme des partis, ne se manifestent guère que dans les parlements des cantons à prédominance citadine, comme Genève. Partout ailleurs, les considérations pratiques priment, et l’équilibre est respecté, d’un accord tacite, entre les intérêts plus ou moins divergents des classes, des régions, de la paysannerie, des ouvriers et des bourgeois. « Ce qu’il y a d’intéressant à noter, écrit encore M. Siegfried, c’est que pareil équilibre semble régner au sein des individus eux-mêmes, en raison du développement traditionnel d’une vie corporative : tel ouvrier raisonnera non pas exclusivement en ouvrier, mais en membre de la commune religieuse, ou de la commune “bourgeoise”, ou encore en membre de telle ou telle localité. » Cette dernière remarque est importante : elle nous fait entrevoir la condition des libertés civiques dans un régime fédéraliste, et c’est <i class="i">l’appartenance simultanée à plusieurs groupes ou communautés, dont les limites</i>
+            
 <a class="pb" href="#pb67" id="pb67">[p. 67]</a>
- <i class="i">ne sont pas les mêmes</i>. La formule du régime totalitaire, c’est la coïncidence exacte et imposée des frontières de tous les domaines dont relève normalement un citoyen : frontières communes pour la langue, la culture, la race, la religion, les mœurs, le droit, l’économie, le parti politique au pouvoir. En Suisse au contraire, toutes les combinaisons et permutations de ces diverses allégeances, augmentées des allégeances communales et cantonales, sont non seulement possibles, mais courantes. Car les frontières des langues ne sont pas celles des religions ; celles des cantons ne sont pas celles des régions économiques ; et celles des cultures ne sont pas même celles de la Confédération. C’est dans le <i class="i">jeu</i> ménagé entre ces éléments, dans la tolérance nécessaire que développent la dispersion et l’interpénétration de ces groupes, dans la faculté de choix qui se trouve laissée à chacun, que le citoyen suisse court chaque jour les chances d’une liberté réelle, dont il ne prend d’ailleurs pas davantage conscience que de l’air qu’il respire.</p>
+
+            <i class="i">ne sont pas les mêmes</i>. La formule du régime totalitaire, c’est la coïncidence exacte et imposée des frontières de tous les domaines dont relève normalement un citoyen : frontières communes pour la langue, la culture, la race, la religion, les mœurs, le droit, l’économie, le parti politique au pouvoir. En Suisse au contraire, toutes les combinaisons et permutations de ces diverses allégeances, augmentées des allégeances communales et cantonales, sont non seulement possibles, mais courantes. Car les frontières des langues ne sont pas celles des religions ; celles des cantons ne sont pas celles des régions économiques ; et celles des cultures ne sont pas même celles de la Confédération. C’est dans le <i class="i">jeu</i> ménagé entre ces éléments, dans la tolérance nécessaire que développent la dispersion et l’interpénétration de ces groupes, dans la faculté de choix qui se trouve laissée à chacun, que le citoyen suisse court chaque jour les chances d’une liberté réelle, dont il ne prend d’ailleurs pas davantage conscience que de l’air qu’il respire.</p>
                     </section>
                     <section id="body-4-3" class="div level2 level2">
                       <h2 class="head">c) De la souveraineté cantonale à la Confédération<a class="bookmark" href="4#body-4-3"> §</a></h2>
@@ -557,7 +681,8 @@
                       <p class="p">« L’autorité directoriale et exécutive supérieure de la Confédération est exercée par un <i class="i">Conseil fédéral</i> composé de sept membres » dit l’article 95 de la Constitution. Ce collège qui remplit à la fois les fonctions d’un cabinet de ministres et celles d’un chef de l’État, est sans doute l’institution la plus originale de la Suisse. Ses membres sont élus pour quatre ans par l’Assemblée et sont immédiatement rééligibles. Chacun d’entre eux dirige un ministère ou département fédéral. L’un d’entre eux est élu chaque année président de la Confédération. Il ne peut exercer cet office deux années de suite, et la coutume s’est établie d’une rotation entre les sept conseillers : chacun devient président une fois tous les sept ans, par ordre d’ancienneté dans le collège.</p>
                       <p class="p">Le Conseil fédéral siège à Berne, et tous ses départements sont logés dans le même bâtiment, nommé Palais fédéral. C’est aussi dans ce Palais que siègent les deux Chambres. Berne, cependant, ne porte pas le titre de capitale, mais seulement de « ville fédérale ». Elle est en même temps le chef-lieu du canton auquel elle donne son nom. Ces détails de protocole sont significatifs d’une certaine méfiance — fédéraliste autant que proprement helvétique — à l’endroit des titres ronflants. C’est en vertu du même 
 <a class="pb" href="#pb76" id="pb76">[p. 76]</a>
- sentiment que le commandant d’une grande unité d’armée suisse n’est pas appelé général, mais colonel commandant de corps (ou de division, ou de brigade) ; que le général en chef, nommé par les Chambres, ne reçoit ce titre qu’en temps de guerre, tandis qu’en temps de paix l’armée dépend d’une commission de défense nationale ; et enfin que l’on aime à souligner le fait que le président de la Confédération n’est, en somme, qu’un <i class="i">primus inter pares</i>. À la vérité, le pouvoir, en Suisse, reste d’ordre essentiellement collégial, qu’il s’agisse des cantons ou de la Confédération. Les décisions importantes du gouvernement émanent du Conseil fédéral en son entier (même si elles n’ont été prises qu’à la majorité des voix), et la Constitution ne définit que collectivement les attributions des membres du Conseil, lesquelles sont essentiellement administratives et exécutives. Le Conseil fédéral « présente des projets de lois ou d’arrêtés à l’Assemblée fédérale et donne son préavis sur les propositions qui lui sont adressées par les conseils ou par les cantons » (art. 102, § 4 de la Constitution). Mais si les Chambres repoussent ses projets, ou refusent d’approuver la gestion d’un Département, il ne démissionne pas. La Suisse ne connaît pas les crises ministérielles et le ballet des portefeuilles qui caractérisent la vie politique de tant d’autres États européens. Elle ne connaît pas non plus, comme les États-Unis, le veto présidentiel et les fréquents changements de ministres choisis ou renvoyés par le chef de l’État. Il en résulte une stabilité gouvernementale sans exemple dans l’époque moderne.</p>
+ sentiment que le commandant d’une grande unité d’armée suisse n’est pas appelé général, mais colonel commandant de corps (ou de division, ou de brigade) ; que le général en chef, nommé par les Chambres, ne reçoit ce titre qu’en temps de guerre, tandis qu’en temps de paix l’armée dépend d’une commission de défense nationale ; et enfin que l’on aime à souligner le fait que le président de la Confédération n’est, en somme, qu’un <i class="i">primus inter pares</i>. À la vérité, le pouvoir, en Suisse, reste d’ordre essentiellement collégial, qu’il s’agisse des cantons ou de la Confédération. Les décisions importantes du gouvernement émanent du Conseil fédéral en son entier (même si elles n’ont été prises qu’à la majorité des voix), et la Constitution ne définit que collectivement les attributions des membres du Conseil, lesquelles sont essentiellement administratives et exécutives. Le Conseil fédéral « présente des projets de lois ou d’arrêtés à l’Assemblée fédérale et donne son préavis sur les propositions qui lui sont adressées par les conseils ou par les cantons » (art. 102, § 4 de la Constitution). Mais si les Chambres repoussent ses projets, ou refusent d’approuver la gestion d’un Département, il ne démissionne pas. La Suisse ne connaît pas les crises ministérielles et le ballet des portefeuilles qui caractérisent la vie politique de tant d’autres États européens. Elle ne connaît pas non plus, comme les États-Unis, le veto présidentiel
+            et les fréquents changements de ministres choisis ou renvoyés par le chef de l’État. Il en résulte une stabilité gouvernementale sans exemple dans l’époque moderne.</p>
                       <p class="p">
 <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
  Pratiquement, les conseillers fédéraux ne sont jamais renversés. Les Chambres les remplacent lorsqu’ils démissionnent ou décèdent. C’est ainsi qu’en cent ans, la Suisse n’a compté que 63 ministres, dont un seul n’a pas été réélu bien qu’il fût candidat. La durée moyenne de leur carrière a été de onze ans. Et l’un d’eux est demeuré en fonction pendant trente-deux ans. Dans tout autre pays de structure centralisée, cette inamovibilité pratique de l’exécutif eût conduit fatalement et très vite à une sorte de dictature de l’appareil gouvernemental. Ce danger existe en Suisse, mais il est en grande partie neutralisé par les droits des cantons et par le contrôle populaire (referendum). Au surplus, quelle que soit l’étendue de ses pouvoirs, le Conseil fédéral n’en demeure pas moins soumis à l’opinion publique, et se montre très soucieux de ne point la bousculer : fait d’autant plus remarquable que le mandat des Conseillers ne dépend pas directement des électeurs, des prébendes ou des poignées de main distribuées à gauche et à droite. On ne saurait guère imaginer magistrats plus démocratiques d’allure, plus fréquemment mêlés à la foule de midi sur les plates-formes de tramways, ni plus facilement accessibles aux visites et coups de téléphone.</p>
@@ -615,70 +740,70 @@
                         <div class="b note-page">
                           <a href="4#pb60">p. 60</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="4#note8_">8. </a><span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 101.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="4#note8_">8. </a><span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 101.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb61">p. 61</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="4#note9_">9. </a>Adolf <span class="sc">Gasser</span>, « Démocratie et Fédéralisme. Confédération, Canton, Commune », in <i class="i">La Démocratie suisse</i>, 1948, p. 135. Cf. du même auteur : <i class="i">L’Autonomie communale et la reconstruction de l’Europe</i>, trad. française, 1946.</aside>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="4#note10_">10. </a>Fritz <span class="sc">Fleiner</span>, <i class="de i" lang="de">Beamtenstaat und Volkstaat</i>, 1916.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="4#note9_">9. </a>Adolf <span class="sc">Gasser</span>, « Démocratie et Fédéralisme. Confédération, Canton, Commune », in <i class="i">La Démocratie suisse</i>, 1948, p. 135. Cf. du même auteur : <i class="i">L’Autonomie communale et la reconstruction de l’Europe</i>, trad. française, 1946.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="4#note10_">10. </a>Fritz <span class="sc">Fleiner</span>, <i class="de i" lang="de">Beamtenstaat und Volkstaat</i>, 1916.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb65">p. 65</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="4#note11_">11. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 145-146 et 148.</aside>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="4#note12_">12. </a>Président du Conseil d’État.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="4#note11_">11. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 145-146 et 148.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="4#note12_">12. </a>Président du Conseil d’État.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb69">p. 69</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>William <span class="sc">Martin</span>, <i class="i">Histoire de la Suisse</i>, 1940, p. 241.</aside>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">La Constitution fédérale de la Suisse</i>, 1948, pp. 43 à 49. On pense irrésistiblement aux accords bilatéraux ou multilatéraux qui se multiplient de nos jours (visas, protectionnisme, unions douanières) sans toucher à la cause du mal.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="4#note13_">13. </a>William <span class="sc">Martin</span>, <i class="i">Histoire de la Suisse</i>, 1940, p. 241.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="4#note14_">14. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">La Constitution fédérale de la Suisse</i>, 1948, pp. 43 à 49. On pense irrésistiblement aux accords bilatéraux ou multilatéraux qui se multiplient de nos jours (visas, protectionnisme, unions douanières) sans toucher à la cause du mal.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb70">p. 70</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Rossi représentait Genève à la Diète, en 1832. Cet Italien réfugié en Suisse au début de la Restauration, devint professeur à l’Université de Genève, député à la Diète fédérale, principal rédacteur du premier projet de Constitution dit Pacte Rossi ; puis il passa en France, où il fut créé Pair et Ambassadeur, et finalement mourut assassiné à Rome, étant alors chef du gouvernement pontifical de Pie IX : c’était en 1848, l’année qui vit le triomphe de ses idées en Suisse.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="4#note15_">15. </a>Rossi représentait Genève à la Diète, en 1832. Cet Italien réfugié en Suisse au début de la Restauration, devint professeur à l’Université de Genève, député à la Diète fédérale, principal rédacteur du premier projet de Constitution dit Pacte Rossi ; puis il passa en France, où il fut créé Pair et Ambassadeur, et finalement mourut assassiné à Rome, étant alors chef du gouvernement pontifical de Pie IX : c’était en 1848, l’année qui vit le triomphe de ses idées en Suisse.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb72">p. 72</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">op. cit</i>. p. 83 et pp. 224 et 225.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="4#note16_">16. </a>Cf. William <span class="sc">Rappard</span>, <i class="i">op. cit</i>. p. 83 et pp. 224 et 225.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb74">p. 74</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Ce qui donne 44 députés, puisqu’il y a 22 cantons, dont trois sont divisés en demi-cantons n’élisant chacun qu’un seul représentant.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="4#note17_">17. </a>Ce qui donne 44 députés, puisqu’il y a 22 cantons, dont trois sont divisés en demi-cantons n’élisant chacun qu’un seul représentant.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb75">p. 75</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Cf. <span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 142 et art. 91 de la Constitution actuelle (art. 79 de la Constitution de 1848) : « Les membres des deux conseils votent sans instructions. »</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>Cf. <span class="sc">G. Sauser-Hall</span>, <i class="i">Guide politique suisse</i>, 1947, p. 142 et art. 91 de la Constitution actuelle (art. 79 de la Constitution de 1848) : « Les membres des deux conseils votent sans instructions. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb79">p. 79</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Plinio <span class="sc">Bolla</span>, « Le Tribunal fédéral », in <i class="i">La Démocratie suisse 1848-1948</i>, p. 61.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="4#note19_">19. </a>Plinio <span class="sc">Bolla</span>, « Le Tribunal fédéral », in <i class="i">La Démocratie suisse 1848-1948</i>, p. 61.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb84">p. 84</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="4#note20_">20. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 154.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="4#note20_">20. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 154.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb87">p. 87</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Gonzague de <span class="sc">Reynold</span>,<i class="i">Conscience de la Suisse</i>, 1938.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="4#note21_">21. </a>Gonzague de <span class="sc">Reynold</span>,<i class="i">Conscience de la Suisse</i>, 1938.</aside>
                       </div>
                     </section>
                   </article>
@@ -695,46 +820,46 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre II. Les institutions politiques</a>
+                      <a href="#">Les institutions politiques</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">a) La Commune</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">b) Le canton</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">c) De la souveraineté cantonale à la Confédération</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">d) Les autorités fédérales</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">e) Les partis et la vie politique</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -744,13 +869,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/5" name="Chapitre III. Institutions et aspirations économiques" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/5" name="3. Institutions et aspirations économiques" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre III. Institutions et aspirations économiques</value>
+          <value>3. Institutions et aspirations économiques (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Institutions et aspirations économiques"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -759,9 +913,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb91" id="pb91">[p. 91]</a>
-                    <h1 class="head chapter">Chapitre III. Institutions et aspirations économiques<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre III.</h1>
+                    <h1 class="head chapter">Institutions et aspirations économiques<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst">Nous ne tenterons pas, dans ce chapitre, de donner un tableau complet de l’économie suisse, ni d’analyser ses problèmes actuels : certaines modifications de la situation européenne ou mondiale peuvent les transformer demain dans une mesure imprévisible. Nous nous attacherons plutôt à dégager quelques constantes naturelles, ainsi que les attitudes psychologiques qu’elles conditionnent ou qui, au contraire, se sont développées en réponse à ce <i class="i">challenge</i> : la pauvreté du sol suisse.</p>
                     <p class="p">On s’imagine volontiers la Suisse comme un pays de pâtres pittoresques qui chantent des jodels, font des trous dans le fromage, et vendent très cher aux étrangers le droit de contempler leurs paysages célèbres. En fait, c’est à peine si 22 % de la population vivent de 
 <a class="pb" href="#pb92" id="pb92">[p. 92]</a>
@@ -777,7 +932,7 @@
                     <p class="p">Mais la qualité du travail, si elle pouvait assurer la supériorité de la production suisse dans certaines branches de l’industrie et pour un certain temps, ne devait pas suffire à la longue pour soutenir la concurrence des grands voisins européens, ou de l’Amérique, qui ne cessaient de perfectionner la production de série. Au goût méticuleux de la belle ouvrage, à la conscience dans le travail et à la précision héréditaire du coup de main, les Suisses se virent contraints d’ajouter une qualité nouvelle, un nouveau moyen 
 <a class="pb" href="#pb95" id="pb95">[p. 95]</a>
  de compenser la quantité : l’ingéniosité technique, l’invention. Ce fut dès lors à leurs traditions scientifiques qu’ils firent appel.</p>
-                    <p class="p">Nous découvrons ici l’un des traits permanents du caractère des Suisses (Romands aussi bien qu’Alémaniques) : le besoin d’appliquer les résultats de leurs spéculations philosophiques ou scientifiques, de les concrétiser en techniques utiles ; et cela bien moins pour en tirer profit que par l’effet d’une conviction morale, souvent même religieuse, renforcée par un goût naturel de l’authenticité et de sa vérification méfiante. Les noms de Paracelse et de C. G. Jung illustrent cette disposition : ces deux<samp class="space note tab">    </samp>     « <samp class="space note tab">    </samp>    voyants » adonnés à l’étude des mystères et des mythes, en tirent tous les deux des techniques de guérison. De même, le grand mathématicien bâlois Léonard Euler, par ailleurs connu pour sa piété fervente, se passionne pour la technique, et prolongeant ses découvertes sur le calcul différentiel et intégral, trace les plans détaillés de la première turbine. À la même époque (<span class="num">xviii<sup class="sup">e</sup></span> siècle), les trois Bernouilli, de Bâle également, élaborent les lois fondamentales de la mécanique. Aujourd’hui même, comme le note André Siegfried,</p>
+                    <p class="p">Nous découvrons ici l’un des traits permanents du caractère des Suisses (Romands aussi bien qu’Alémaniques) : le besoin d’appliquer les résultats de leurs spéculations philosophiques ou scientifiques, de les concrétiser en techniques utiles ; et cela bien moins pour en tirer profit que par l’effet d’une conviction morale, souvent même religieuse, renforcée par un goût naturel de l’authenticité et de sa vérification méfiante. Les noms de Paracelse et de C. G. Jung illustrent cette disposition : ces deux<samp class="space note tab"> </samp>  « <samp class="space note tab"> </samp> voyants » adonnés à l’étude des mystères et des mythes, en tirent tous les deux des techniques de guérison. De même, le grand mathématicien bâlois Léonard Euler, par ailleurs connu pour sa piété fervente, se passionne pour la technique, et prolongeant ses découvertes sur le calcul différentiel et intégral, trace les plans détaillés de la première turbine. À la même époque (<span class="num">xviii<sup class="sup">e</sup></span> siècle), les trois Bernouilli, de Bâle également, élaborent les lois fondamentales de la mécanique. Aujourd’hui même, comme le note André Siegfried,</p>
                     <blockquote class="quote">
                       <p class="p autofirst">l’industrie travaille d’après les formules et les découvertes de ces mathématiciens, qui sont également à la base du régime des assurances, par l’utilisation rationnelle des méthodes statistiques. On ne dira jamais assez que la supériorité technique suisse est à base de culture : le fameux Polytechnicum de Zurich, dont la réputation est mondiale, plonge ses racines dans un terroir de haute science, qui ne doit 
 <a class="pb" href="#pb96" id="pb96">[p. 96]</a>
@@ -785,7 +940,8 @@
                     </blockquote>
                     <p class="p autofirst">Au <span class="num">xx<sup class="sup">e</sup></span> siècle, des relations entre la science pure et l’industrie sont devenues organiques. Les « bureaux d’étude » jouent un rôle essentiel dans toutes les grandes entreprises du pays. À Genève, la Société des instruments de physique naît à titre d’annexe des laboratoires de la Faculté des Sciences. Le cœur de la gigantesque entreprise Nestlé, c’est le laboratoire central de recherches et d’essais installé à Vevey, au siège d’une direction générale qui contrôle 125 sociétés affiliées, dans toutes les parties du monde. L’horlogerie doit une impulsion décisive à Charles Édouard Guillaume, prix Nobel de physique, qui invente l’invar, le balancier intégral et le spiral de compensation. L’Institut chronométrique de l’Observatoire de Neuchâtel, qui donne l’heure à toute la Suisse, collabore étroitement avec les fabricants d’horlogerie, en soumettant les chronomètres à des épreuves de position et de température, et en délivrant des bulletins de marche quand les résultats sont bons. L’Université de Neuchâtel a son laboratoire de recherches horlogères. De son côté, l’industrie chimique emploie un très grand nombre de savants (parfois professeurs d’Université et prix Nobel, eux aussi), chimistes, pharmacologues et biologistes. Le seul groupe Interpharma, de Bâle, disposait en 1939 de 35 instituts de recherches pour 57 fabriques. Un économiste anglais, H. N. 
 <a class="pb" href="#pb97" id="pb97">[p. 97]</a>
- Casson, a pu écrire que « proportionnellement à sa population, la Suisse est le premier pays du monde pour les inventions… Depuis 1925, on y a compté en moyenne 9,3 inventions pour 10 000 habitants »<a class="noteref" href="5#note24" id="note24_"><sup>24</sup></a>. Rappelons parmi les plus connues et populaires de celles qui sont nées dans les laboratoires industriels de la Suisse : la crémaillère, la poudre DDT, le nescafé, la fermeture-éclair. Et ajoutons enfin que la proportion des ingénieurs (formés par l’École d’ingénieurs de Lausanne, et par le Polytechnicum de Zurich) et celle des contremaîtres spécialisés, dépasse de très loin, dans les usines suisses, tout ce qu’on observe dans le reste du monde.</p>
+ Casson, a pu écrire que « proportionnellement à sa population, la Suisse est le premier pays du monde pour les inventions… Depuis 1925, on y a compté en moyenne 9,3 inventions pour 10 000 habitants »<a class="noteref" href="5#note24" id="note24_"><sup>24</sup></a>. Rappelons parmi les plus connues et populaires de celles qui sont nées dans les laboratoires industriels de la Suisse : la crémaillère, la poudre DDT, le nescafé, la
+          fermeture-éclair. Et ajoutons enfin que la proportion des ingénieurs (formés par l’École d’ingénieurs de Lausanne, et par le Polytechnicum de Zurich) et celle des contremaîtres spécialisés, dépasse de très loin, dans les usines suisses, tout ce qu’on observe dans le reste du monde.</p>
                     <p class="p">À cette stratégie efficace, à ces qualités de travail et d’invention, compensant des conditions de départ particulièrement défavorables, la nature suisse devait enfin venir en aide au <span class="num">xx<sup class="sup">e</sup></span> siècle, de la manière la plus imprévisible. Les parties désertiques du territoire, les glaciers, se transformèrent soudain en richesse naturelle. Le « château d’eau » des Alpes centrales devint une source inépuisable d’énergie.</p>
                     <p class="p">Il serait curieux de décrire en détail le contraste entre les pays de houille noire et les pays de houille blanche, entre ceux qui tirent l’énergie d’en bas, du sous-sol, et ceux qui la reçoivent d’en haut, des sommets. L’exploitation des mines a créé presque partout des masses prolétariennes relativement misérables, 
 <a class="pb" href="#pb98" id="pb98">[p. 98]</a>
@@ -818,7 +974,8 @@
 <a class="pb" href="#pb103" id="pb103">[p. 103]</a>
  Nous avons vu que la part de l’agriculture n’a pas cessé de diminuer, depuis cent ans, dans l’économie générale du pays. La population agricole s’est réduite en nombre absolu comme en pourcentage : 41 % en 1860, 22 % en 1946. Elle ne produisait, avant la guerre qu’un cinquième à peine du blé nécessaire au pays, la surface des emblavures ayant passé de 300 000 hectares en 1850 à 114 000 en 1914. Certes, les techniques agricoles se modernisaient, le confort des grandes fermes faisait l’étonnement des étrangers, le phénomène de désaffection des campagnes ne se faisait pas sentir avec autant d’acuité que dans les pays voisins, et le régime traditionnel de la petite et moyenne propriété ne subissait que peu de modifications. Mais tout cela ne compensait pas l’accroissement rapide de la population et de ses besoins alimentaires. Pour la Suisse, la menace d’une guerre européenne constituait donc une menace de famine rapide, même si la neutralité devait être une fois de plus respectée. C’est pourquoi, dès 1938, le Conseil fédéral demanda l’accroissement systématique des surfaces cultivées et la constitution de réserves alimentaires. Dès 1940, la Suisse se vit entièrement cernée par les puissances de l’Axe. Pour parer autant qu’il se pouvait à d’éventuelles mesures de blocus, le gouvernement décréta la mise en œuvre immédiate d’un plan de culture intensive et extensive, conçu par le D<sup class="sup">r</sup> Wahlen. Toute la population collabora au succès du Plan Wahlen, en labourant et ensemençant, jusqu’au dernier mètre carré de terrain disponible, pelouses, jardins et même jardins publics. Au bout de cinq ans, le 
 <a class="pb" href="#pb104" id="pb104">[p. 104]</a>
- plan Wahlen, s’il n’avait pas rendu la Suisse totalement autonome quant à son alimentation, n’en avait pas moins obtenu des résultats impressionnants : la production agricole (calculée en calories) passait de 52 à 80 % du total nécessaire à la consommation. Cet effort collectif, si intelligemment dirigé, a largement rétabli l’équilibre alimentaire de la Suisse.</p>
+ plan Wahlen, s’il n’avait pas rendu la Suisse totalement autonome quant à son alimentation, n’en avait pas moins obtenu des résultats impressionnants : la production agricole (calculée en calories) passait de 52 à 80 % du total nécessaire à la consommation. Cet effort collectif, si intelligemment dirigé, a largement rétabli
+          l’équilibre alimentaire de la Suisse.</p>
                     <p class="p">Cependant, l’avenir de la classe paysanne reste inquiétant, en dépit d’un certain nombre de facteurs favorables. Le gouvernement fédéral et les cantons subventionnent de diverses manières la production agricole. Les paysans peuvent aussi s’appuyer sur l’action de leurs coopératives locales, qui étaient au nombre de 17 584 en 1940. Et l’on peut ajouter que la structure fédérative du pays, la forte décentralisation des cantons et des foyers urbains, diminue l’isolement moral et physique du paysan, et par suite freine la désertion des campagnes.</p>
                     <p class="p">Il n’en reste pas moins que la Suisse doit importer plus qu’elle n’exporte, et nous avons dit qu’elle exportait, en dépit de tout, une part exceptionnellement élevée de sa production. L’appoint nécessaire ne peut être fourni, normalement, que par l’industrie du tourisme. C’est dire, une fois de plus, que le sort matériel de la Suisse dépend étroitement de l’équilibre européen et mondial. On imagine difficilement un pays pour lequel l’idée d’autarcie soit plus utopique.</p>
                     <div class="ab ornament">⁂</div>
@@ -944,43 +1101,43 @@
                         <div class="b note-page">
                           <a href="5#pb92">p. 92</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Les indices que nous avons trouvés dans différentes statistiques varient entre 22,2 % et 20,32 % pour les dernières années, et sont en baisse constante depuis 1860.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Les indices que nous avons trouvés dans différentes statistiques varient entre 22,2 % et 20,32 % pour les dernières années, et sont en baisse constante depuis 1860.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb96">p. 96</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>André <span class="sc">Siegfried</span>, <i class="i">op. cit</i>., p. 79, 82, 92.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>André <span class="sc">Siegfried</span>, <i class="i">op. cit</i>., p. 79, 82, 92.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb97">p. 97</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="5#note24_">24. </a>Cf. Alfred <span class="sc">Chapuis</span>, <i class="i">La Suisse dans le Monde</i>, 1939, p. 131, 148, 154, 159. La moyenne annuelle des brevets enregistrés est d’environ 5 600.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="5#note24_">24. </a>Cf. Alfred <span class="sc">Chapuis</span>, <i class="i">La Suisse dans le Monde</i>, 1939, p. 131, 148, 154, 159. La moyenne annuelle des brevets enregistrés est d’environ 5 600.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb98">p. 98</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="5#note25_">25. </a><i class="i">L’Annuaire Statistique de la Suisse</i> ajoute en note, après le chiffre concernant ces derniers appareils : « y compris les chaudrons pour la nourriture des porcs ».</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="5#note25_">25. </a><i class="i">L’Annuaire Statistique de la Suisse</i> ajoute en note, après le chiffre concernant ces derniers appareils : « y compris les chaudrons pour la nourriture des porcs ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb102">p. 102</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="5#note26_">26. </a>Exportations suisses en 1913 : vers l’Europe 75 % ; vers d’autres continents : 25 %. En 1946 : 56 % et 44 % (dont 31 % vers les USA). En 1948 : 59,8 % et 40,2 %.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="5#note26_">26. </a>Exportations suisses en 1913 : vers l’Europe 75 % ; vers d’autres continents : 25 %. En 1946 : 56 % et 44 % (dont 31 % vers les USA). En 1948 : 59,8 % et 40,2 %.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb106">p. 106</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="5#note27_">27. </a>II est intéressant de noter que la part de l’alimentation dans le budget a décru de 10 % pour l’ouvrier (12 % pour l’employé) depuis 1912, tandis que la part des assurances a augmenté de 4 %.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="5#note27_">27. </a>II est intéressant de noter que la part de l’alimentation dans le budget a décru de 10 % pour l’ouvrier (12 % pour l’employé) depuis 1912, tandis que la part des assurances a augmenté de 4 %.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb110">p. 110</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="5#note28_">28. </a>Union syndicale suisse : 367 119 ; syndicats chrétiens (catholiques) 44 720 ; Union suisse d’ouvriers et d’employés évangélique 13 368 ; Union syndicale des ouvriers indépendants : 15 492.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="5#note28_">28. </a>Union syndicale suisse : 367 119 ; syndicats chrétiens (catholiques) 44 720 ; Union suisse d’ouvriers et d’employés évangélique 13 368 ; Union syndicale des ouvriers indépendants : 15 492.</aside>
                       </div>
                     </section>
                   </article>
@@ -997,29 +1154,29 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre III. Institutions et aspirations économiques</a>
+                      <a href="#">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1029,13 +1186,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/6" name="Chapitre IV. La famille et l’éducation" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/6" name="4. La famille et l’éducation" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre IV. La famille et l’éducation</value>
+          <value>4. La famille et l’éducation (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. La famille et l’éducation"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1044,9 +1230,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb119" id="pb119">[p. 119]</a>
-                    <h1 class="head chapter">Chapitre IV. La famille et l’éducation<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre IV.</h1>
+                    <h1 class="head chapter">La famille et l’éducation<a class="bookmark" href="6"> §</a></h1>
                     <section id="body-6-1" class="div level2 level2">
                       <h2 class="head">La famille<a class="bookmark" href="6#body-6-1"> §</a></h2>
                       <p class="p autofirst">Dans tous les pays de structure sociale très composite, comme ceux qui appartiennent à la civilisation occidentale, il est classique de distinguer entre familles rurales et citadines, catholiques et protestantes, aisées et pauvres, etc. Le nombre des enfants ou la proportion des divorces varient selon la religion, le niveau de vie et l’habitat. En Suisse, la situation se trouve singulièrement compliquée par l’adjonction de facteurs cantonaux et racio-linguistiques. Il y aurait lieu d’étudier séparément au moins vingt types de familles suisses, si l’on s’en tenait aux seuls facteurs énumérés et à leurs combinaisons. Car il existe des familles catholiques en Suisse alémanique et en Suisse romande ; et dans chacun de ces domaines linguistiques, il en est de rurales et de citadines, les unes pauvres et les autres riches, ce qui donne huit types. Autant de familles catholiques au Tessin.</p>
@@ -1054,8 +1241,7 @@
 <a class="pb" href="#pb120" id="pb120">[p. 120]</a>
  dans le maniement des données générales sur « la famille suisse ». L’<i class="i">Annuaire statistique de la Suisse</i> indique par exemple pour le nombre d’enfants vivants en 1941 par femme mariée : 2,31. Mais nous voyons aussitôt que cette moyenne, prise sur l’ensemble du pays tombe à 1,48 si l’on ne prend que les villes de plus de 25 000 habitants. Si l’on compare deux demi-cantons contigus, qui se trouvent être à la fois de langue allemande, ruraux, relativement pauvres, et qui ne diffèrent donc que par la religion, nous trouvons que la moyenne est de 2,56 pour Appenzell Rhodes-Extérieures (protestant), et de 4,10 pour Appenzell Rhodes-Intérieures (catholique).</p>
                       <p class="p">Dans l’ensemble du pays, en 1946, la famille d’ouvriers comptait en moyenne 4 personnes (4,5 en 1912), la famille d’employés ou de fonctionnaires 3,8 (4,5 en 1912). Trois exemples précis vont nous faire entrevoir la complexité et les écarts extrêmes que cachent de telles moyennes.</p>
-                      <p class="p"><i class="i">Sur 1000 femmes mariées, en 1941, nombre des femmes ayant eu (x) enfants</i> :
-</p>
+                      <p class="p"><i class="i">Sur 1000 femmes mariées, en 1941, nombre des femmes ayant eu (x) enfants</i> : </p>
                       <table class="table left">
                         <colgroup>
                           <col class="span col col1" style="width: 42%"/>
@@ -1136,8 +1322,7 @@
 <a class="pb" href="#pb121" id="pb121">[p. 121]</a>
  Il nous semble que ces données ne diffèrent pas notablement de celles qu’on pourrait recueillir dans les provinces françaises ou autrichiennes, allemandes ou italiennes voisines de la Suisse, et que les mêmes régularités se vérifient ici comme là : les familles catholiques, germaniques, rurales et pauvres réunissent toutes les chances d’avoir le plus d’enfants, les familles protestantes, latines, citadines et moyennement aisées, d’en avoir le moins. Ce qui est particulier à la Suisse, c’est la juxtaposition de ces extrêmes, entre lesquels s’échelonnent toutes les combinaisons que nous avons vues possibles.</p>
                       <p class="p">Si nous cherchons maintenant quelle est la proportion des divorces, nous trouverons pour les trois communautés citées plus haut :</p>
-                      <p class="p"><i class="i">Pour 1000 femmes mariées, nombre de divorces</i> :
-</p>
+                      <p class="p"><i class="i">Pour 1000 femmes mariées, nombre de divorces</i> : </p>
                       <table class="table left">
                         <colgroup>
                           <col class="span col col1" style="width: 50%"/>
@@ -1205,7 +1390,8 @@
  à « établir une Université et une école polytechnique ». Il est remarquable que seule la seconde ait été créée.</p>
                       <p class="p">Les universités cantonales, à vrai dire, sont fort nombreuses : sept pour un pays de 4,5 millions d’habitants, et pour un nombre d’étudiants relativement peu élevé, variant entre 450 et 3000 par établissement<a class="noteref" href="6#note35" id="note35_"><sup>35</sup></a>. Le fait qu’elles ne relèvent que des « petites patries » leur ménage une autonomie politique et morale aussi large que possible. Elles ne sont à aucun degré soumises à une doctrine d’État unifiée, mais reflètent fidèlement le <i class="i">genius loci</i> dans les différentes régions linguistiques et religieuses. Celles de Genève, Lausanne et Neuchâtel sont françaises et marquées par l’esprit protestant ; celle de Fribourg, catholique et bilingue ; celles de Bâle, Zurich et Berne, allemandes. Si, dans ces conditions, la Confédération avait pu créer l’« Université suisse » prévue par la Constitution, l’on eût assisté à la naissance d’un premier modèle, en réduction, d’université européenne. Il faut croire que le besoin ne s’en est pas fait sentir assez fortement pour surmonter les tendances particularistes, qui demeurent extrêmement vivaces de nos jours. L’idée même de créer une université romande unique, qui engloberait celles de Neuchâtel, Lausanne et Genève, les moins dissemblables, ne ressurgit périodiquement que pour être repoussée aussitôt, avec une sorte d’indignation, 
 <a class="pb" href="#pb133" id="pb133">[p. 133]</a>
- par l’opinion publique des trois cantons. Cependant, tout en sauvegardant avec vigilance leurs caractères locaux, les universités suisses s’efforcent de plus en plus d’attirer les étudiants étrangers. Elles organisent des séries de cours sur les relations internationales et sur le patrimoine commun à tous les Européens. Elles forment des ingénieurs qui iront bâtir des ponts aux États-Unis, des médecins qui pratiqueront en Afrique ou en Amérique du Sud, des juristes qui introduiront dans la législation des pays les plus lointains et les plus neufs les principes fédéralistes de la Constitution helvétique<a class="noteref" href="6#note36" id="note36_"><sup>36</sup></a>.</p>
+ par l’opinion publique des trois cantons. Cependant, tout en sauvegardant avec vigilance leurs caractères locaux, les universités suisses s’efforcent de plus en plus d’attirer les étudiants étrangers. Elles organisent des séries de cours sur les relations internationales et sur le patrimoine commun à tous les Européens. Elles forment des ingénieurs qui iront bâtir des ponts aux États-Unis, des médecins qui pratiqueront en Afrique ou en Amérique du Sud, des
+            juristes qui introduiront dans la législation des pays les plus lointains et les plus neufs les principes fédéralistes de la Constitution helvétique<a class="noteref" href="6#note36" id="note36_"><sup>36</sup></a>.</p>
                       <p class="p">Il est caractéristique que le seul établissement qui dépende de l’État fédéral, l’École polytechnique de Zurich, soit un institut de recherches et de préparation pratique, dans lequel, par définition, l’idéologie officielle ne pourrait jouer de rôle notable. Quelques-uns des plus grands mathématiciens modernes, dont Einstein, y ont professé ou y professent encore. Mais la science pure y demeure en contact étroit avec les applications industrielles, les instituts fédéraux, les banques et les établissements techniques de tout le pays. Là encore, on s’apercevra que la « fédéralisation » répond en Suisse aux exigences de l’efficacité, bien plus qu’à celles d’une doctrine ou d’une idéologie politique.</p>
                       <p class="p">Le nombre élevé des établissements d’études 
 <a class="pb" href="#pb134" id="pb134">[p. 134]</a>
@@ -1232,61 +1418,61 @@
                         <div class="b note-page">
                           <a href="6#pb122">p. 122</a>
                         </div>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Cette aggravation, d’ailleurs générale, est très inégalement ressentie par les pays qui ont fait la guerre et les neutres. En 1946, l’indice des divorces pour la Suisse était de 4,8 %, soit un divorce pour neuf mariages conclus, tandis qu’aux US on comptait, un divorce pour 2 ½ mariages conclus.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Cette aggravation, d’ailleurs générale, est très inégalement ressentie par les pays qui ont fait la guerre et les neutres. En 1946, l’indice des divorces pour la Suisse était de 4,8 %, soit un divorce pour neuf mariages conclus, tandis qu’aux US on comptait, un divorce pour 2 ½ mariages conclus.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb125">p. 125</a>
                         </div>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a>L’adjectif helvétique désigne dans le présent ouvrage le commun dénominateur des Suisses de tous les cantons, des deux religions et des quatre langues.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a>L’adjectif helvétique désigne dans le présent ouvrage le commun dénominateur des Suisses de tous les cantons, des deux religions et des quatre langues.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb126">p. 126</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="6#note31_">31. </a>Un des plus fins moralistes du <span class="num">xix<sup class="sup">e</sup></span> siècle en Suisse, Félix Bovet, écrivait : « Cet enfant m’inquiète, il est trop avancé, il se développe trop… Il faudra le mettre à l’école, dit le père. »</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="6#note31_">31. </a>Un des plus fins moralistes du <span class="num">xix<sup class="sup">e</sup></span> siècle en Suisse, Félix Bovet, écrivait : « Cet enfant m’inquiète, il est trop avancé, il se développe trop… Il faudra le mettre à l’école, dit le père. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb127">p. 127</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="6#note32_">32. </a>Théologien et critique vaudois du <span class="num">xix<sup class="sup">e</sup></span> siècle.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="6#note32_">32. </a>Théologien et critique vaudois du <span class="num">xix<sup class="sup">e</sup></span> siècle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb130">p. 130</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="6#note33_">33. </a><span class="sc">V. Moine</span>, « Les écoles suisses », in <i class="i">La Démocratie suisse</i>, 1948, p. 329.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="6#note33_">33. </a><span class="sc">V. Moine</span>, « Les écoles suisses », in <i class="i">La Démocratie suisse</i>, 1948, p. 329.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb131">p. 131</a>
                         </div>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>En 1882, le peuple suisse a rejeté le projet de loi instituant un secrétariat scolaire fédéral, qui eût été chargé de préparer une loi uniforme sur l’enseignement primaire. Cette tentative centralisatrice n’a pas été renouvelée.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>En 1882, le peuple suisse a rejeté le projet de loi instituant un secrétariat scolaire fédéral, qui eût été chargé de préparer une loi uniforme sur l’enseignement primaire. Cette tentative centralisatrice n’a pas été renouvelée.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb132">p. 132</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Pendant la saison d’hiver 1946-1947, il y avait un peu moins de 15 000 étudiants en tout dans les sept universités (dont 3250 étudiantes) Un cinquième environ étaient étrangers.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Pendant la saison d’hiver 1946-1947, il y avait un peu moins de 15 000 étudiants en tout dans les sept universités (dont 3250 étudiantes) Un cinquième environ étaient étrangers.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb133">p. 133</a>
                         </div>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>C’est ainsi que la Constitution turque actuellement en vigueur est l’œuvre d’un professeur de droit de Neuchâtel, M. G. Sauser-Hall.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>C’est ainsi que la Constitution turque actuellement en vigueur est l’œuvre d’un professeur de droit de Neuchâtel, M. G. Sauser-Hall.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb134">p. 134</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>Aux sept universités mentionnées, il faut ajouter l’École polytechnique, l’École d’ingénieurs de Lausanne, l’Université commerciale de Saint-Gall, l’Institut des hautes études internationales de Genève : soit onze établissements de rang universitaire.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>Aux sept universités mentionnées, il faut ajouter l’École polytechnique, l’École d’ingénieurs de Lausanne, l’Université commerciale de Saint-Gall, l’Institut des hautes études internationales de Genève : soit onze établissements de rang universitaire.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb135">p. 135</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Un sur 4 au Danemark, sur 7 en France, sur 2 ½ aux US.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="6#note38_">38. </a>Un sur 4 au Danemark, sur 7 en France, sur 2 ½ aux US.</aside>
                       </div>
                     </section>
                   </article>
@@ -1303,40 +1489,40 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre IV. La famille et l’éducation</a>
+                      <a href="#">La famille et l’éducation</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-1">La famille</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2">L’éducation</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-3">L’armée</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1346,13 +1532,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/7" name="Chapitre V. La vie religieuse" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/7" name="5. La vie religieuse" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre V. La vie religieuse</value>
+          <value>5. La vie religieuse (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "5. La vie religieuse"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1361,9 +1576,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb141" id="pb141">[p. 141]</a>
-                    <h1 class="head chapter">Chapitre V. La vie religieuse<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre V.</h1>
+                    <h1 class="head chapter">La vie religieuse<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">Sur les origines du christianisme en Suisse, l’historien ne dispose que de récits légendaires. Il semble que dès le <span class="num">iii<sup class="sup">e</sup></span> siècle, la nouvelle doctrine s’introduisit dans la partie occidentale du pays, apportée par des artisans, des marchands et des légionnaires venus de la vallée inférieure du Rhône. Au <span class="num">iv<sup class="sup">e</sup></span> siècle, une communauté chrétienne est établie à Genève, Bâle est déjà le siège d’un évêché, de même que Martigny en Valais. Au <span class="num">v<sup class="sup">e</sup></span> siècle, ces territoires romanisés sont envahis par les Burgondes, peuplade germanique naguère battue par Aetius et refoulée jusqu’en Savoie, d’où elle s’est répandue sur la Bourgogne actuelle pour y fonder un royaume indépendant. Les Burgondes professent l’arianisme et ne se mêleront avec la population celte et les colons romains que lorsqu’ils auront adopté la religion catholique, au <span class="num">vi<sup class="sup">e</sup></span> siècle.</p>
                     <p class="p">Cependant, le paganisme fait un retour en force avec la poussée des Alamans, venus du Nord-Est, 
 <a class="pb" href="#pb142" id="pb142">[p. 142]</a>
@@ -1382,7 +1598,7 @@
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Lors du dernier recensement (1941), la population de la Suisse, résidents étrangers compris, offrait la composition confessionnelle que voici :</p>
                     <p class="p">
-                      <i class="i">Nombres absolus pour 1000 <samp class="space note tab">    </samp>    habitants</i>
+                      <i class="i">Nombres absolus pour 1000 <samp class="space note tab"> </samp> habitants</i>
                     </p>
                     <table class="table left">
                       <colgroup>
@@ -1449,13 +1665,15 @@
                     <p class="p autofirst">Existe-t-il un esprit protestant et un esprit catholique de nuance proprement helvétique ? La question n’est pas sans intérêt, car elle soulève celle des rapports entre le régime fédéraliste et la religion.</p>
                     <p class="p">La Réforme, en Suisse, fut l’œuvre personnelle de Zwingli, et dans l’ensemble, le protestantisme suisse est resté beaucoup plus zwinglien que calviniste. Non point qu’on lise encore les œuvres du Réformateur de Zurich, ni que ses doctrines soient enseignées. Mais il a proposé aux Suisses la forme de religion qui convenait le mieux au tempérament du plus grand nombre d’entre eux. Calvin, dès son arrivée à Genève, s’est heurté à des résistances typiquement suisses, et ne les a jamais surmontées. Les formes liturgiques qu’il préconisait n’ont pas été adoptées. Sa rigueur doctrinale, toute latine, est restée étrangère à un peuple qui se méfie des positions tranchées, des antithèses irréductibles. Son esprit juridique, son souci de bien distinguer les prérogatives de l’Église de celles de l’État, n’ont jamais été bien compris. Le culte zwinglien, au contraire, correspond au « démocratisme » profond et inné dont nous avons vu qu’il se manifeste, en Suisse, par une résistance instinctive à l’égard des titres, des formes et des autorités trop affirmées. Réduit à la prière et au sermon (le choral luthérien et le psaume calviniste n’y sont entrés que plus tard), ce culte paraît d’autant plus pur qu’il est plus dépouillé. Les cérémonies pompeuses, les 
 <a class="pb" href="#pb150" id="pb150">[p. 150]</a>
- vêtements ecclésiastiques, les fêtes, les symboles, les hiérarchies, sont taxés d’« hypocrisie »<a class="noteref" href="7#note42" id="note42_"><sup>42</sup></a>. L’extrême appauvrissement des formes culturelles, chez les protestants suisses, ne saurait être attribué à la seule influence de Zwingli. Il traduit d’une part la volonté originelle de se distinguer du catholicisme romain, d’autre part une tournure d’esprit positive et volontiers simpliste, une horreur congénitale de la rhétorique sous toutes ses formes, un égalitarisme intransigeant, et aussi une pudeur profonde. Le Suisse est plus naturellement porté qu’aucun autre Européen à traiter de « singerie » toute expression tant soit peu spontanée de la ferveur religieuse, et toute dévotion publique lui paraît « théâtrale ». Ce n’est pas que le sentiment, ni même le sentimentalisme, soit absent des cérémonies les plus dépouillées qu’il tolère : le mouvement du Réveil, dans la première moitié du <span class="num">xix<sup class="sup">e</sup></span> siècle, a doté les églises suisses de cantiques anglo-saxons aux rythmes tantôt allègres, tantôt traînants et nostalgiques, et d’un vocabulaire mystique (« patois de Chanaan ») dont l’habitude seule fait oublier le manque de sobriété.</p>
+ vêtements ecclésiastiques, les fêtes, les symboles, les hiérarchies, sont taxés d’« hypocrisie »<a class="noteref" href="7#note42" id="note42_"><sup>42</sup></a>. L’extrême appauvrissement des formes culturelles, chez les protestants suisses, ne saurait être attribué à la seule influence de Zwingli. Il traduit d’une part la volonté originelle de se distinguer du catholicisme romain, d’autre
+          part une tournure d’esprit positive et volontiers simpliste, une horreur congénitale de la rhétorique sous toutes ses formes, un égalitarisme intransigeant, et aussi une pudeur profonde. Le Suisse est plus naturellement porté qu’aucun autre Européen à traiter de « singerie » toute expression tant soit peu spontanée de la ferveur religieuse, et toute dévotion publique lui paraît « théâtrale ». Ce n’est pas que le sentiment, ni même le sentimentalisme, soit absent des cérémonies les plus dépouillées qu’il tolère : le mouvement du Réveil, dans la première moitié du <span class="num">xix<sup class="sup">e</sup></span> siècle, a doté les églises suisses de cantiques anglo-saxons aux rythmes tantôt allègres, tantôt traînants et nostalgiques, et d’un vocabulaire mystique (« patois de Chanaan ») dont l’habitude seule fait oublier le manque de sobriété.</p>
                     <p class="p">L’organisation des églises protestantes est calquée sur la structure fédéraliste du pays. Elle est presbytérienne, comme l’autre est collégiale. Liées à l’État, ou libres et vivant des dons des fidèles, les églises 
 <a class="pb" href="#pb151" id="pb151">[p. 151]</a>
  forment des unités cantonales, gouvernées par des synodes régionaux. L’autonomie de la paroisse reste considérable, sous la direction du pasteur assisté par un « conseil d’église ». Il en résulte que « l’Église suisse » comme telle n’existe guère, n’est qu’une fédération assez lâche d’Églises cantonales, et pourrait difficilement prendre une décision qui l’engage tout entière. On comprendra dès lors qu’il n’y ait pas en Suisse de parti politique protestant.</p>
                     <p class="p">Il existe au contraire un parti catholique, nombreux et discipliné, de tendance conservatrice<a class="noteref" href="7#note43" id="note43_"><sup>43</sup></a> et « fédéraliste ». (Précisons une fois de plus que l’adjectif évoque généralement en Suisse non pas le lien fédéral, mais l’autonomie des cantons. Chez certains auteurs, comme Ramuz, il devient presque synonyme de séparatiste.) Alors que les églises protestantes, de par leur structure même, sont non seulement décentralisées, mais anti-unitaires — ce qui n’empêche pas que les partis centralisateurs se recrutent surtout dans les villes protestantes — l’Église catholique est « fédéraliste » pour des raisons historiques bien déterminées, mais qui ne sont pas dictées nécessairement par sa doctrine. Du point de vue de l’organisation, elle est unitaire, comme ailleurs. Ses diocèses dépendent de Rome. Du point de vue politique, elle défend la traditionnelle liberté des cantons, car elle y voit la garantie la plus certaine de ses droits contre les empiétements éventuels du pouvoir central, institué en 
 <a class="pb" href="#pb152" id="pb152">[p. 152]</a>
- 1848 et contrôlé jusqu’à nos jours par la majorité protestante. Il convient d’ajouter toutefois que l’attitude des théoriciens du parti catholique n’est pas seulement inspirée par le statut minoritaire de leur confession. Il existe une doctrine catholique spécifiquement suisse de l’État et du fédéralisme, illustrée par les œuvres de Ph. A. de Segesser et de Gonzague de Reynold : elle rejoint d’ailleurs sur bien des points essentiels la pensée éthico-politique des auteurs protestants les plus influents du <span class="num">xix<sup class="sup">e</sup></span> et du <span class="num">xx<sup class="sup">e</sup></span> siècle, Alexandre Vinet, Hilty, Emil Brunner, voire Karl Barth. Les uns et les autres s’accordent sur une définition de l’homme à la fois libre et solidaire, sur une conception de la « liberté d’obéissance » aussi éloignée de l’individualisme sans frein que des fausses disciplines totalitaires, et sur une doctrine de l’État qui prévient l’extension illimitée de ses pouvoirs et sauvegarde la pleine autonomie de l’Église. Ils s’accordent aussi pour préférer à l’idéologie démocratique les libertés concrètes du citoyen, inséparables de ses responsabilités sociales et spirituelles.</p>
+ 1848 et contrôlé jusqu’à nos jours par la majorité protestante. Il convient d’ajouter toutefois que l’attitude des théoriciens du parti catholique n’est pas seulement inspirée par le statut minoritaire de leur confession. Il existe une doctrine catholique spécifiquement suisse de l’État et du fédéralisme, illustrée par les œuvres de Ph. A. de Segesser et de Gonzague de Reynold : elle rejoint d’ailleurs sur bien des points essentiels la pensée éthico-politique des auteurs protestants les plus influents du <span class="num">xix<sup class="sup">e</sup></span> et du <span class="num">xx<sup class="sup">e</sup></span> siècle, Alexandre Vinet, Hilty, Emil Brunner, voire Karl Barth. Les uns et les autres s’accordent sur une définition de l’homme à la fois libre et solidaire, sur une conception de la « liberté d’obéissance » aussi éloignée de l’individualisme sans frein que des fausses
+          disciplines totalitaires, et sur une doctrine de l’État qui prévient l’extension illimitée de ses pouvoirs et sauvegarde la pleine autonomie de l’Église. Ils s’accordent aussi pour préférer à l’idéologie démocratique les libertés concrètes du citoyen, inséparables de ses responsabilités sociales et spirituelles.</p>
                     <p class="p">Le fédéralisme, au sens complet du terme cette fois-ci, constitue donc le commun dénominateur de la pensée catholique et de la pensée réformée dans le domaine politique, si bien qu’il n’existe pas en Suisse d’antagonismes profonds et essentiels quant à la doctrine de l’État, ni d’écoles ou de factions irréductibles, comme celles dont les luttes séculaires ont déchiré tant d’autres nations européennes.</p>
                     <p class="p">Toutefois, en dépit de la quasi-unanimité des plus grands penseurs chrétiens du pays, l’État et la 
 <a class="pb" href="#pb153" id="pb153">[p. 153]</a>
@@ -1470,31 +1688,31 @@
                         <div class="b note-page">
                           <a href="7#pb142">p. 142</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="7#note39_">39. </a>Chez les anciens Germains, le mot <i class="i">Ring</i> désignait à la fois le sacrifice cultuel, l’assemblée du peuple, et le marché.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="7#note39_">39. </a>Chez les anciens Germains, le mot <i class="i">Ring</i> désignait à la fois le sacrifice cultuel, l’assemblée du peuple, et le marché.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb144">p. 144</a>
                         </div>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Cf. <span class="sc">F. Hausler</span>, <i class="de i" lang="de">Die Geburt der Eidgenossenschaft aus der geistigen Urschweiz</i>, 1939, p. 181 sq.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="7#note40_">40. </a>Cf. <span class="sc">F. Hausler</span>, <i class="de i" lang="de">Die Geburt der Eidgenossenschaft aus der geistigen Urschweiz</i>, 1939, p. 181 sq.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb148">p. 148</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="7#note41_">41. </a>Abbé <span class="sc">C. Lugon</span>, in <i class="i">Esprit</i>, octobre 1937.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="7#note41_">41. </a>Abbé <span class="sc">C. Lugon</span>, in <i class="i">Esprit</i>, octobre 1937.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb150">p. 150</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>Cf. <span class="sc">J. Courvoisier</span>, <i class="i">Zwingli</i>, 1947, p. 94. Remarquons que les protestants suisses qui n’accepteraient jamais d’avoir des évêques — comme en ont les Allemands, les Hongrois, les Anglais — sont aussi impressionnés par un Monseigneur romain que les farouches républicains français par un roi d’Angleterre en visite à Paris.</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="7#note42_">42. </a>Cf. <span class="sc">J. Courvoisier</span>, <i class="i">Zwingli</i>, 1947, p. 94. Remarquons que les protestants suisses qui n’accepteraient jamais d’avoir des évêques — comme en ont les Allemands, les Hongrois, les Anglais — sont aussi impressionnés par un Monseigneur romain que les farouches républicains français par un roi d’Angleterre en visite à Paris.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="7#pb151">p. 151</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a>Les syndicats catholiques sont indépendants de ce parti, et beaucoup plus progressistes.</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="7#note43_">43. </a>Les syndicats catholiques sont indépendants de ce parti, et beaucoup plus progressistes.</aside>
                       </div>
                     </section>
                   </article>
@@ -1511,29 +1729,29 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre V. La vie religieuse</a>
+                      <a href="#">La vie religieuse</a>
                     </li>
-                    <li>
-                      <a href="8">Chapitre VI. Le peuple suisse et le monde</a>
+                    <li class="collateral">
+                      <a href="8">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1543,13 +1761,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1953ch/8" name="Chapitre VI. Le peuple suisse et le monde" package="ddr1953ch" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1953ch/8" name="6. Le peuple suisse et le monde" package="ddr1953ch" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>La Confédération helvétique (1953) Chapitre VI. Le peuple suisse et le monde</value>
+          <value>6. Le peuple suisse et le monde (1953, La Confédération helvétique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "La Confédération helvétique (1953)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "6. Le peuple suisse et le monde"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1558,9 +1805,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb157" id="pb157">[p. 157]</a>
-                    <h1 class="head chapter">Chapitre VI. Le peuple suisse et le monde<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head kicker chapter">Chapitre VI.</h1>
+                    <h1 class="head chapter">Le peuple suisse et le monde<a class="bookmark" href="8"> §</a></h1>
                     <p class="p autofirst">Nous pensons en avoir assez dit, dans les chapitres précédents, pour établir en toute clarté que la Suisse n’est pas une nation, au sens que le terme a pris pendant le <span class="num">xix<sup class="sup">e</sup></span> siècle, et qu’en conséquence, il serait vain de chercher, dans son peuple ou sa littérature, les témoignages d’un sentiment proprement national, comparable à celui que les Français, les Italiens, les Espagnols ou les Irlandais éprouvent à l’endroit de leur patrie. La race, la religion, la langue, la culture, parfois même la doctrine du parti au pouvoir, coïncident, dans tous ces pays, avec les limites du territoire, et se recouvrent l’une l’autre assez exactement pour créer un sens unitaire ; dans ce cas, les minorités ne jouent plus qu’un rôle négligeable, et souvent se sentent quelque peu étrangères à l’âme nationale : tout au moins, la majorité le leur fait sentir sans scrupules. En Suisse, nous l’avons dit, le problème des minorités ne se pose pas : chaque groupe étant 
 <a class="pb" href="#pb158" id="pb158">[p. 158]</a>
  simultanément minoritaire par rapport à l’ensemble des autres, et majoritaire dans un canton, une région, un domaine essentiel de la vie commune. Il arrive même que les majorités conjuguent leurs efforts pour secourir une minorité et favoriser sa survivance. C’est en vertu de ce système de « prime à la minorité » que la Confédération a non seulement reconnu comme langue nationale le romanche (parlé par moins de 40 000 habitants) mais, par ses subventions, a donné un regain de vitalité au petit groupe qui le parlait, et qui se voyait menacé de décadence rapide.</p>
@@ -1604,7 +1852,8 @@
                     <p class="p">Alémaniques et Romands descendent respectivement des Alamans et des Burgondes, et l’Aar, qui séparait ceux-ci, délimite encore aujourd’hui, <i class="i">grosso modo</i> après 1300 ans, l’aire de l’allemand et celle du français<a class="noteref" href="8#note45" id="note45_"><sup>45</sup></a>. Mais d’autre part, le Rhin marque la limite entre Alémaniques et Allemands, le Jura entre Romands et Français. Entre Aar et Rhin vivent 3 millions d’habitants ; entre Aar et Jura, 900 000.</p>
                     <p class="p">Les Alémaniques donnent aux Français l’impression qu’ils sont Allemands, mais ne la donnent pas aux Allemands. Ils sont rarement blonds, souvent noirs de cheveux et bruns de peau. Dans la vie courante, grands bourgeois ou paysans, ils parlent leurs dialectes, dont ils possèdent au moins un par canton, l’allemand officiel (<i class="i">Hochdeutsch</i> ou <i class="i">Schriftdeutsch</i>) étant réservé aux journaux, à la littérature et aux universités. Le dialecte a gagné du terrain dans les écoles, à partir de 1933, en manière de protestation contre l’Allemagne 
 <a class="pb" href="#pb164" id="pb164">[p. 164]</a>
- hitlérisée. Il crée entre les citoyens d’un même canton une communauté très vivante, faite de nuances familières, d’allusions locales, d’humour intraduisible. Néanmoins, du point de vue culturel, la Suisse alémanique n’a rien de « provincial » au regard de l’Allemagne, beaucoup moins centralisée que la France en ce domaine. Dès le <span class="num">xviii<sup class="sup">e</sup></span> siècle, elle a tenu sa part, au moins à égalité, dans le concert des voix germaniques. Bodmer et « l’école suisse », Jean de Haller, Gessner, Lavater, ont dominé pendant plusieurs décades la vie littéraire des Allemagnes. Au milieu du <span class="num">xix<sup class="sup">e</sup></span> siècle, un Conrad Ferdinand Meyer, un Gottfried Keller, un Jeremias Gotthelf, un Jakob Burckhardt, tiennent le premier rang dans la poésie, le roman, la philosophie de l’histoire. De nos jours, la théologie allemande doit sa vitalité à la pensée du Bâlois Karl Barth, et C. J. Jung demeure sans rival dans la psychologie analytique. Il y aurait certes beaucoup à dire sur la parenté inconsciente qui transparaît dans des œuvres si diverses, sur leur helvétisme au sein du germanisme. Mais les différences majeures entre Alémaniques et Allemands ne doivent pas être cherchées sur ce plan. Elles se manifestent beaucoup plus clairement dans la psychologie des deux peuples : l’Allemand indéterminé, toujours prêt à suivre un Führer, le Suisse particularisé de la manière la plus précise — de même que son pays est compartimenté — et congénitalement méfiant à l’égard des chefs politiques, des mouvements de masse ; l’Allemand du Nord plus ou moins slavisé, le Suisse formé par une tradition chrétienne beaucoup plus ancienne, et fortement 
+ hitlérisée. Il crée entre les citoyens d’un même canton une communauté très vivante, faite de nuances familières, d’allusions locales, d’humour intraduisible. Néanmoins, du point de vue culturel, la Suisse alémanique n’a rien de « provincial » au regard de l’Allemagne, beaucoup moins centralisée que la France en ce domaine. Dès le <span class="num">xviii<sup class="sup">e</sup></span> siècle, elle a tenu sa part, au moins à égalité, dans le concert des voix germaniques. Bodmer et « l’école suisse », Jean de Haller, Gessner, Lavater, ont dominé pendant plusieurs décades la vie littéraire des Allemagnes. Au milieu du <span class="num">xix<sup class="sup">e</sup></span> siècle, un Conrad Ferdinand Meyer, un Gottfried Keller, un Jeremias Gotthelf, un Jakob Burckhardt, tiennent le premier rang dans la poésie, le roman, la philosophie de l’histoire. De nos jours, la théologie allemande doit sa vitalité à la pensée du Bâlois Karl Barth, et C. J. Jung demeure sans rival dans la psychologie analytique. Il y aurait certes beaucoup à dire sur la parenté inconsciente qui transparaît dans des œuvres si diverses, sur leur helvétisme au sein du germanisme. Mais les différences majeures entre Alémaniques et Allemands ne doivent pas être cherchées sur ce plan. Elles se manifestent beaucoup plus clairement dans la psychologie des deux peuples : l’Allemand indéterminé, toujours prêt à suivre un Führer, le Suisse particularisé de la
+          manière la plus précise — de même que son pays est compartimenté — et congénitalement méfiant à l’égard des chefs politiques, des mouvements de masse ; l’Allemand du Nord plus ou moins slavisé, le Suisse formé par une tradition chrétienne beaucoup plus ancienne, et fortement 
 <a class="pb" href="#pb165" id="pb165">[p. 165]</a>
  romanisée au Moyen Âge ; l’Allemand volontiers « catastrophique », le Suisse calculateur, empirique et posé. L’opposition entre Luther et Zwingli résume tout cela : l’un génial, mystique, excessif, et dépourvu de sagesse politique ; l’autre, rationaliste, mesuré, lucide, citoyen autant que chrétien.</p>
                     <p class="p">À mesure que l’Allemagne s’unifiait sous la férule de la Prusse, la Suisse alémanique s’en distinguait davantage par son climat moral et ses institutions. Certes, l’esprit réalisateur et moderne de l’industrie et du commerce allemands provoquait encore l’admiration des classes dirigeantes de Zurich et de Bâle. Pendant la guerre de 14-18, la Suisse neutre fut divisée en deux camps, l’un pro-allemand à l’est de l’Aar, l’autre pro-allié à l’ouest. Mais l’arrivée de Hitler au pouvoir provoqua un renversement complet des sympathies alémaniques. C’est vers l’Amérique, aujourd’hui, que regardent les hommes d’affaires et les industriels suisses. Quant aux milieux intellectuels, coupés de leurs bases depuis 1933, ils se sont vu devenir subitement les derniers dépositaires de la culture germanique, et c’est en son nom qu’ils ont manifesté à l’égard du national-socialisme une hostilité beaucoup plus profonde et virulente que celle de leurs confédérés romands.</p>
@@ -1633,7 +1882,8 @@
                     </blockquote>
                     <p class="p autofirst">L’origine permanente de la <i class="i">neutralité suisse</i> est clairement désignée dans cette page. Comment un pays dont l’essence consiste en la conciliation des grandes cultures dont il dépend, pourrait-il prendre part aux luttes qui opposent ces cultures dans le reste de l’Europe ? Il serait aussitôt dissocié. Il a su vaincre dans son sein le principe même des antagonismes mortels si longtemps déchaînés autour de lui : la volonté d’hégémonie, tantôt latine et tantôt germanique. Quelles que soient les idéologies, d’ailleurs variables, dont se réclament alternativement les deux groupes, la Confédération commettrait un suicide en épousant la cause de l’un ou de l’autre, puisque son être et sa formule sont justement de les unir. Et ce qui est vrai pour les cultures nationales, dans toute la mesure où elles sont devenues nationalistes, l’était encore davantage pour les confessions religieuses au temps où elles étaient partisanes : c’est bien pourquoi la neutralité suisse s’est affirmée comme principe politique permanent au cours de la guerre de Trente ans. Mais il faut remonter plus haut encore, pour découvrir la justification primordiale de cette attitude. Il faut remonter à l’origine précise de la première alliance fédérale : le Gothard, « montagne qui sépare et col qui unit ». C’est en effet pour garder le col au nom de l’Empire que les Waldstätten ont reçu leurs 
 <a class="pb" href="#pb171" id="pb171">[p. 171]</a>
- chartes, au <span class="num">xiii<sup class="sup">e</sup></span> siècle, et qu’ils se sont unis par un Pacte perpétuel. Ces Chartes les rendaient « immédiats à l’Empire », et donc indépendants de leurs puissants voisins : condition nécessaire de leur mission européenne. En effet, cette mission ne pouvait être accomplie qu’en renonçant à prendre une part active aux querelles entre les voisins, tout de même qu’une grand-garde, en toute armée, a l’ordre de ne se laisser détourner sous aucun prétexte de sa vigilance, et donc de ne point participer aux actions qui viendraient à se dérouler dans son voisinage immédiat : elle doit se réserver pour l’éventualité d’une attaque sur le point qu’elle protège.</p>
+ chartes, au <span class="num">xiii<sup class="sup">e</sup></span> siècle, et qu’ils se sont unis par un Pacte perpétuel. Ces Chartes les rendaient « immédiats à l’Empire », et donc indépendants de leurs puissants voisins : condition nécessaire de leur mission européenne. En effet, cette mission ne pouvait être accomplie qu’en renonçant à prendre une part active aux querelles entre les voisins, tout de même qu’une grand-garde, en toute armée, a l’ordre de ne se laisser détourner sous aucun prétexte de sa vigilance, et donc de ne point participer aux actions qui viendraient à se dérouler dans son
+          voisinage immédiat : elle doit se réserver pour l’éventualité d’une attaque sur le point qu’elle protège.</p>
                     <p class="p">Cette mission de <i class="i">grand-garde</i> au cœur même de l’Europe — d’abord physique, puis symbolique — est antérieure, soulignons-le, à la diversité des langues et des religions, diversité qui contraignit la Suisse moderne à une neutralité seconde, pour la <i class="i">sauvegarde</i>, cette fois, du lien confédéral. Il y a donc eu d’abord la mission impériale, ensuite l’obligation de préserver l’alliance. La neutralité affirmée lors de la paix de Westphalie, en 1648, n’est pas absolument la même que celle qui résultait implicitement des chartes primitives, mais elle en est cependant une conséquence pratique. Et les traités de 1815, qui le confirment, synthétisent ces deux motifs, lorsqu’ils reconnaissent que « l’inviolabilité de la Suisse et son indépendance de toute influence étrangère, sont dans les vrais intérêts de la politique de l’Europe entière ».</p>
                     <p class="p">Ainsi, « l’appartenance de la Suisse à trois grandes civilisations » devient la raison même de son « indépendance de toute influence étrangère ».</p>
                     <p class="p">
@@ -1656,7 +1906,8 @@
  par le Genevois Henry Dunant en 1863, ait adopté pour pavillon celui de la Suisse, en intervertissant simplement ses couleurs. On sait que le Comité international de la Croix-Rouge, qui siège à Genève, est constitué uniquement par des Suisses : son autorité, si peu contestée pendant les deux dernières guerres, procède en grande partie du fait de l’impartialité que lui assure sa composition.</p>
                     <p class="p">Un autre témoignage de l’interdépendance de la neutralité suisse et de la solidarité européenne, se révèle dans le choix de la Suisse comme siège d’un très grand nombre d’institutions internationales. La première en date fut la Croix-Rouge, bientôt suivie par l’Union postale universelle, l’Union internationale des télécommunications, l’Office central des transports internationaux par chemin de fer, et les deux Bureaux de la propriété intellectuelle. Le climat de neutralité semblait à cette époque (de 1864 à 1918) offrir des garanties d’indépendance à ces organismes naissants. En 1919, Genève fut choisie comme siège de la Société des Nations et du Bureau international du travail. Ainsi, de même que les cantons catholiques avaient mérité du pape Jules II le titre perpétuel de « défenseurs du Saint-Siège », de même que les villes de Calvin, de Zwingli et d’Œcolampade avaient été les « citadelles de la Réforme », de même que le Conseil œcuménique des Églises allait s’installer à Genève, la Suisse devenait la gardienne du premier organisme politique universel, au sein duquel elle bénéficiait d’un statut spécial, dans la suite de sa tradition d’« immédiateté impériale ». Pendant la guerre de 
 <a class="pb" href="#pb176" id="pb176">[p. 176]</a>
- 1939-1945, le gouvernement suisse accepta de défendre les intérêts de 43 États belligérants sur le territoire de leurs ennemis, et fut obligé de créer à cette fin une sorte de ministère annexe en marge de son Département politique. Des millions d’hommes se trouvaient ainsi dépendre de la protection helvétique. Au lendemain de la guerre, le Palais des Nations restant vide, par suite de la dissolution de la SDN, fut racheté par les Nations unies qui en ont fait le siège de leur Office européen. L’Organisation mondiale de la santé, et l’Office international des réfugiés y ont été adjoints. Pour la seule année 1946, on a compté que 127 institutions, commissions ou conférences internationales ont tenu leurs assises en Suisse, et ce nombre s’accroît rapidement d’année en année.</p>
+ 1939-1945, le gouvernement suisse accepta de défendre les intérêts de 43 États belligérants sur le territoire de leurs ennemis, et fut obligé de créer à cette fin une sorte de ministère annexe en marge de son Département politique. Des millions d’hommes se trouvaient ainsi dépendre de la protection helvétique. Au lendemain de la guerre, le Palais des Nations restant vide, par suite de la dissolution de la SDN, fut racheté par les Nations unies qui en ont fait le siège de leur Office européen. L’Organisation mondiale de la santé, et l’Office international des réfugiés y ont été adjoints. Pour la seule année 1946, on a compté que 127 institutions, commissions ou conférences internationales ont tenu leurs assises en Suisse, et ce nombre s’accroît rapidement
+          d’année en année.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Tous ces faits démontrent qu’en Suisse — prototype d’une Fédération d’États autonomes et librement associés — neutralité et collaboration internationale ne sont pas antinomiques ; et que, de plus, un petit pays neutre offre aux entreprises d’union des peuples un climat politique particulièrement favorable ; à tout le moins, il les soustrait aux pressions que de grandes puissances risqueraient d’exercer sur elles, en les hébergeant.</p>
                     <p class="p">Mais la participation de la Suisse aux entreprises même qu’elle accueille, pose un problème bien différent.</p>
@@ -1672,7 +1923,8 @@
  que le Pacte stipulait en faveur des vainqueurs, de même qu’elle refusa plus tard de participer aux sanctions économiques contre tel ou tel État. En 1938, elle reprit son statut de neutralité absolue. L’échec de la Société des Nations vint justifier, l’année suivante, cette prudence que des considérations idéologiques avaient pu faire paraître scandaleuse à bien des esprits.</p>
                     <p class="p">Cette même volonté de se réserver pour certaines tâches précises et réalisables, et de ne point sacrifier le principe vital de la neutralité, même à des entreprises dont la paix est le but, mais dont l’efficacité ou l’impartialité ne sont pas certaines, explique le fait que la Suisse n’ait pas encore adhéré à l’Organisation des Nations unies. Elle est entrée dans toutes les institutions d’ordre culturel, juridique, humanitaire, ou même économique dépendant de l’ONU (telles que l’Unesco, l’OMS, l’OIR, le BIT) et dans la Cour de La Haye. Mais il demeure plus que probable que la population rejetterait toute loi visant à l’entrée dans l’ONU, et cela non seulement parce que la neutralité se verrait alors compromise, mais parce que les Suisses connaissent, en vertu d’une longue expérience, les conditions d’une véritable fédération, et qu’ils doutent que celles-ci se trouvent réunies dans le cas de l’ONU. L’hégémonie des « Grands », le droit de veto, le maintien jaloux des souverainetés nationales illimitées, les luttes de puissances et de groupes de puissances dans l’impuissance générale, tout tend à confirmer, aux yeux des Suisses, que l’heure n’est pas encore venue de sacrifier la raison d’être de leur 
 <a class="pb" href="#pb180" id="pb180">[p. 180]</a>
- État, au profit d’une Ligue plus vaste qui, loin d’adapter à l’échelle mondiale les principes formateurs de la Confédération, semble les renier ou les ignorer en fait comme en droit. À tort ou à raison, nous n’avons pas à en juger ici, l’échec de la SDN, dont ils furent les témoins les plus proches, induit la majorité des Suisses à persister dans une position d’attente. « Chat échaudé craint même l’eau froide. » Cependant, le Conseil fédéral saisit chaque occasion de collaborer dans des secteurs strictement limités, après s’être assuré soigneusement que ces secteurs sont légalement étanches, et qu’aucune implication militaire ou politique ne menace à l’arrière-plan. Jusqu’à quel point ces distinctions sont-elles réelles dans l’ère des guerres totales, nous l’ignorons. Mais le maintien d’un principe n’est pas vain.</p>
+ État, au profit d’une Ligue plus vaste qui, loin d’adapter à l’échelle mondiale les principes formateurs de la Confédération, semble les renier ou les ignorer en fait comme en droit. À tort ou à raison, nous n’avons pas à en juger ici, l’échec de la SDN, dont ils furent les témoins les plus proches, induit la majorité des Suisses à persister dans une position d’attente. « Chat échaudé craint même l’eau froide. » Cependant, le Conseil fédéral saisit chaque occasion de collaborer dans des secteurs strictement limités, après s’être assuré soigneusement que ces secteurs sont légalement étanches, et qu’aucune implication militaire ou politique ne menace à l’arrière-plan. Jusqu’à quel point ces distinctions sont-elles réelles dans l’ère des guerres
+          totales, nous l’ignorons. Mais le maintien d’un principe n’est pas vain.</p>
                     <p class="p">Un problème analogue, mais plus brûlant encore, ne manquera pas de se poser à la Suisse au cours des années qui viennent, dans le plan plus restreint de l’Europe. La constitution d’un Conseil de l’Europe et d’une Assemblée consultative ne peut laisser indifférents les « gardiens du Gothard » et les dépositaires du prototype réduit de l’Europe fédérée. Mais sous quelle forme peuvent-ils s’y associer ?</p>
                     <p class="p">Ici, la position de la Suisse devient au plus haut point paradoxale. Car, d’une part, on l’offre en exemple aux fédérateurs de l’Europe ; elle a déjà réalisé leur idéal ; mais, d’autre part, c’est elle qui manifeste le plus de scepticisme et de réticences lorsqu’on lui propose les plans d’une fédération de dimensions continentales.</p>
                     <p class="p">
@@ -1686,38 +1938,38 @@
                         <div class="b note-page">
                           <a href="8#pb160">p. 160</a>
                         </div>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="8#note44_">44. </a>Gottfried Keller (1819-1890) prit une part active aux luttes politiques qui marquèrent l’avènement de l’État fédéral en 1848. Nietzsche le cite comme un des trois ou quatre auteurs qui aient su écrire la langue allemande.</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="8#note44_">44. </a>Gottfried Keller (1819-1890) prit une part active aux luttes politiques qui marquèrent l’avènement de l’État fédéral en 1848. Nietzsche le cite comme un des trois ou quatre auteurs qui aient su écrire la langue allemande.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb163">p. 163</a>
                         </div>
-                        <aside id="note45" class="note bottomnote"><a class="noteback" href="8#note45_">45. </a>À vrai dire, l’allemand déborde à l’ouest jusqu’à la Sarine, et au nord-ouest jusqu’à la Birse. La ligne de démarcation est jalonnée par Delémont, Bienne, Fribourg, Sierre.</aside>
+                        <aside id="note45" role="note" class="note bottomnote"><a class="noteback" href="8#note45_">45. </a>À vrai dire, l’allemand déborde à l’ouest jusqu’à la Sarine, et au nord-ouest jusqu’à la Birse. La ligne de démarcation est jalonnée par Delémont, Bienne, Fribourg, Sierre.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb166">p. 166</a>
                         </div>
-                        <aside id="note46" class="note bottomnote"><a class="noteback" href="8#note46_">46. </a>C. F. Ramuz est un cas singulier, plus vaudois d’ailleurs que romand.</aside>
-                        <aside id="note47" class="note bottomnote"><a class="noteback" href="8#note47_">47. </a>Là encore, il faut faire exception pour Fribourg, qui se tient à l’écart de la vie culturelle des cités protestantes, et se rattache plus étroitement à une France traditionnelle et romaine.</aside>
+                        <aside id="note46" role="note" class="note bottomnote"><a class="noteback" href="8#note46_">46. </a>C. F. Ramuz est un cas singulier, plus vaudois d’ailleurs que romand.</aside>
+                        <aside id="note47" role="note" class="note bottomnote"><a class="noteback" href="8#note47_">47. </a>Là encore, il faut faire exception pour Fribourg, qui se tient à l’écart de la vie culturelle des cités protestantes, et se rattache plus étroitement à une France traditionnelle et romaine.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb167">p. 167</a>
                         </div>
-                        <aside id="note48" class="note bottomnote"><a class="noteback" href="8#note48_">48. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 60.</aside>
+                        <aside id="note48" role="note" class="note bottomnote"><a class="noteback" href="8#note48_">48. </a>André <span class="sc">Siegfried</span>, <i class="i">La Suisse, démocratie-témoin</i>, 1948, p. 60.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb173">p. 173</a>
                         </div>
-                        <aside id="note49" class="note bottomnote"><a class="noteback" href="8#note49_">49. </a>Max <span class="sc">Petitpierre</span>, Conseiller fédéral, « Propos sur la Neutralité », in <i class="i">La Démocratie suisse</i>, 1948, p. 176.</aside>
+                        <aside id="note49" role="note" class="note bottomnote"><a class="noteback" href="8#note49_">49. </a>Max <span class="sc">Petitpierre</span>, Conseiller fédéral, « Propos sur la Neutralité », in <i class="i">La Démocratie suisse</i>, 1948, p. 176.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb174">p. 174</a>
                         </div>
-                        <aside id="note50" class="note bottomnote"><a class="noteback" href="8#note50_">50. </a>En 1941, l’UNRRA ne disposait pas d’un montant supérieur, pour un total de 44 pays des Nations unies.</aside>
+                        <aside id="note50" role="note" class="note bottomnote"><a class="noteback" href="8#note50_">50. </a>En 1941, l’UNRRA ne disposait pas d’un montant supérieur, pour un total de 44 pays des Nations unies.</aside>
                       </div>
                     </section>
                   </article>
@@ -1734,29 +1986,29 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">Note de l’auteur</a>
                     </li>
-                    <li>
-                      <a href="3">Chapitre I. Le peuple et son histoire</a>
+                    <li class="collateral">
+                      <a href="3">Le peuple et son histoire</a>
                     </li>
-                    <li>
-                      <a href="4">Chapitre II. Les institutions politiques</a>
+                    <li class="collateral">
+                      <a href="4">Les institutions politiques</a>
                     </li>
-                    <li>
-                      <a href="5">Chapitre III. Institutions et aspirations économiques</a>
+                    <li class="collateral">
+                      <a href="5">Institutions et aspirations économiques</a>
                     </li>
-                    <li>
-                      <a href="6">Chapitre IV. La famille et l’éducation</a>
+                    <li class="collateral">
+                      <a href="6">La famille et l’éducation</a>
                     </li>
-                    <li>
-                      <a href="7">Chapitre V. La vie religieuse</a>
+                    <li class="collateral">
+                      <a href="7">La vie religieuse</a>
                     </li>
                     <li class="here">
-                      <a href="#">Chapitre VI. Le peuple suisse et le monde</a>
+                      <a href="#">Le peuple suisse et le monde</a>
                     </li>
                   </ul>
                 ]]></content>

@@ -4,10 +4,39 @@
     <page path="/livres/ddr1937jic/1" name="Préambule" package="ddr1937jic" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’un intellectuel en chômage (1937) Préambule</value>
+          <value>Préambule (1937, Journal d’un intellectuel en chômage)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’un intellectuel en chômage (1937)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Préambule"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">Préambule<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Une vague vient se jeter sur la bâche qui couvre l’avant du bateau, et de l’eau gicle sur nos visages glacés. « Tire le gramophone entre tes jambes, là, sous ton imperméable, que le cuir ne soit pas mouillé. » (C’est qu’on nous l’a prêté, il faut le soigner…) Nous sortons du port, et tout de suite la mer est forte. Un éclair sur l’eau verte, un gros coup de vent : voilà nos compagnons de voyage, le médecin de l’île et trois représentants de commerce, qui se précipitent dans la cabine de la cale par une espèce de trappe. Nous restons seuls sur le pont, ma femme et moi, à entasser nos valises tant bien que mal à l’abri. Un autre éclair siffle et claque tout près. La tempête est venue brusquement avec l’aube. Depuis une heure nous battions la semelle sur les quais déserts de ce port fantomatique, sans ville derrière lui, vaguement américain et militaire, sous un ciel bas couleur d’acier où rien ne bougeait, et voilà tout d’un coup cet orage de novembre qui crible et bat les flots durant la courte traversée, puis s’apaise non moins subitement à 
@@ -50,14 +79,14 @@ faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque par
                     <li class="here">
                       <a href="#">Préambule</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  N’habitez pas les villes !</a>
+                    <li class="collateral">
+                      <a href="2">N’habitez pas les villes !</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Pauvre province</a>
+                    <li class="collateral">
+                      <a href="3">Pauvre province</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  L’été parisien</a>
+                    <li class="collateral">
+                      <a href="4">L’été parisien</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -67,13 +96,42 @@ faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque par
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1937jic/2" name="Première partie – N’habitez pas les villes !" package="ddr1937jic" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1937jic/2" name="I. N’habitez pas les villes !" package="ddr1937jic" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’un intellectuel en chômage (1937) Première partie – N’habitez pas les villes !</value>
+          <value>I. N’habitez pas les villes ! (1937, Journal d’un intellectuel en chômage)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’un intellectuel en chômage (1937)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. N’habitez pas les villes !"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -82,9 +140,10 @@ faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque par
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Première partie <br class="lb"/>N’habitez pas les villes !<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head kicker chapter">Première partie</h1>
+                    <h1 class="head chapter">N’habitez pas les villes !<a class="bookmark" href="2"> §</a></h1>
                     <section id="body-2-1" class="div level2">
                       <a class="pb" href="#p13" id="p13">[p. 13]</a>
                       <h2 class="head">Début de novembre 1933<a class="bookmark" href="2#body-2-1"> §</a></h2>
@@ -236,8 +295,8 @@ aveugles ? Ou bien est-ce ma gêne qui est absurde ? Essayer de confronter la 
 des gestes lents, hallucinants, à grands sauts ralentis — le courant électrique n’étant sans doute pas assez fort pour faire tourner l’appareil au rythme normal. Tout le monde a l’air très content, bien que le film m’apparaisse à peu près incompréhensible.</p>
                       <p class="p">La course au flambeau terminée, on rallume. L’instituteur monte à sa chaire et annonce qu’il va prononcer, comme chaque semaine désormais, un petit discours. « Je serai bref ! » C’est un jeune homme d’allure énergique et de visage intelligent, la chevelure noire en bataille qu’il saisit à pleines mains dans les moments pathétiques. Il annonce le sujet de ce soir : <i class="fr i" lang="fr">Qu’est-ce qu’être laïque</i> ? — « Messieurs, chers amis ! Je vous rappellerai tout d’abord les circonstances qui m’ont fait choisir ce sujet. Il y a… tout près d’ici… quelqu’un — je ne veux pas le nommer, je n’attaquerai personne, moi ! — il y a, dis-je, quelqu’un qui a osé prétendre que je suis un empoisonneur des consciences ! » Récit détaillé des calomnies que le curé répand sur son compte, dans les foyers et jusque dans la presse<a class="noteref" href="2#note1" id="note1_"><sup>1</sup></a> ! « Je n’ai pas cherché la guerre, moi ! Eh bien ! je saurai me défendre ! Et malgré les persécutions de ceux qui ont intérêt à étouffer la vérité, etc. » La chevelure s’agite, les bras s’agitent, la voix s’enfle. « J’étais au dernier Congrès des instituteurs qui s’est tenu à Paris, et bien ! citoyens ! lors de ce Congrès, il a été stipulé qu’à l’avenir… » La fin de la phrase
 <a class="pb" href="#p36" id="p36">[p. 36]</a>
-étant particulièrement sonore, des applaudissements éclatent au fond de la salle. Le jeune orateur électrisé se lance dans une définition vibrante de la laïcité. « Être laïque, c’est vouloir la Justice et l’Égalité pour tous ! Être laïque, c’est vouloir l’instruction libre et gratuite pour tous, sans distinction de fortune ou de religion ! Être laïque… » Ah ! surtout être laïque, ce n’est pas combattre les religions, comme le prétend le voisin, « car je les respecte toutes, les religions, sauf quand elles viennent m’attaquer dans mon activité professionnelle,
-            que je considère comme sacrée ! » En somme, être laïque, c’est être religieux au vrai sens du mot, selon les paroles de Gambetta, d’Ernest Lavisse et de quelques autres. Être laïque, c’est finalement « aimer son prochain » ! Je n’ai pas plus tôt soufflé à l’oreille de ma femme « C’est un sermon ! » que l’orateur, au comble de son éloquence, s’écrie : « Et, <i class="fr i" lang="fr">mes frères</i> ! si l’on vient encore vous dire que je suis un empoisonneur des consciences, vous saurez maintenant me défendre ! etc. »</p>
+étant particulièrement sonore, des applaudissements éclatent au fond de la salle. Le jeune orateur électrisé se lance dans une définition vibrante de la laïcité. « Être laïque, c’est vouloir la Justice et l’Égalité pour tous ! Être laïque, c’est vouloir l’instruction libre et gratuite pour tous, sans distinction de fortune ou de religion ! Être laïque… » Ah ! surtout être laïque, ce n’est pas combattre les religions, comme le prétend le voisin, « car je les respecte toutes, les religions, sauf quand elles viennent m’attaquer dans mon activité professionnelle, que
+            je considère comme sacrée ! » En somme, être laïque, c’est être religieux au vrai sens du mot, selon les paroles de Gambetta, d’Ernest Lavisse et de quelques autres. Être laïque, c’est finalement « aimer son prochain » ! Je n’ai pas plus tôt soufflé à l’oreille de ma femme « C’est un sermon ! » que l’orateur, au comble de son éloquence, s’écrie : « Et, <i class="fr i" lang="fr">mes frères</i> ! si l’on vient encore vous dire que je suis un empoisonneur des consciences, vous saurez maintenant me défendre ! etc. »</p>
                       <p class="p">C’est fini. L’instituteur s’éponge. Les hommes du fond ont applaudi brièvement. Mellouin a même crié : Très bien ! Les jeunes trouvent qu’« il cause bien ». Pour terminer la soirée, on passe un dessin animé, le <i class="fr i" lang="fr">Petit Poucet</i>, qui remporte un gros succès.</p>
                       <p class="p">En sortant, nous passons devant la salle du curé, qui donne aussi ce soir une séance de cinéma. On entend rire des enfants.</p>
                       <p class="p">J’ai rencontré le curé ce matin, suivi comme
@@ -837,49 +896,49 @@ des choses » dont la moitié des hommes tire tout ce qu’elle a de contenteme
                         <div class="b note-page">
                           <a href="2#p35">p. 35</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Deux petits journaux paraissent dans l’île. L’un est aux mains de M. T…, député de droite, et des « curés ». L’autre est « républicain et antifasciste ».</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Deux petits journaux paraissent dans l’île. L’un est aux mains de M. T…, député de droite, et des « curés ». L’autre est « républicain et antifasciste ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p42">p. 42</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Village à l’autre extrémité de l’île.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="2#note2_">2. </a>Village à l’autre extrémité de l’île.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p51">p. 51</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Combien d’ailleurs savent que ce mot peut désigner autre chose qu’un « Je m’en fichiste » ?</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="2#note3_">3. </a>Combien d’ailleurs savent que ce mot peut désigner autre chose qu’un « Je m’en fichiste » ?</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p73">p. 73</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>(Note de 1937). — J’avais raison de marquer ce doute. Un agriculteur auquel je viens de raconter ce petit fait m’explique qu’avec un manche court « on travaille plus vite et plus efficacement qu’avec un manche long, surtout dans un terrain sablonneux ». Reste la question de savoir s’il est normal de se déformer le corps pour gagner un peu plus. Or ils y sont, pour la plupart, contraints.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="2#note4_">4. </a>(Note de 1937). — J’avais raison de marquer ce doute. Un agriculteur auquel je viens de raconter ce petit fait m’explique qu’avec un manche court « on travaille plus vite et plus efficacement qu’avec un manche long, surtout dans un terrain sablonneux ». Reste la question de savoir s’il est normal de se déformer le corps pour gagner un peu plus. Or ils y sont, pour la plupart, contraints.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p77">p. 77</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Le fils de la mère Renaud s’occupe à faire la statistique du village : 45 personnes sont âgées de 80 à 90 ans, sur une population de 450 âmes.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Le fils de la mère Renaud s’occupe à faire la statistique du village : 45 personnes sont âgées de 80 à 90 ans, sur une population de 450 âmes.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p87">p. 87</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>On voit que ce n’est pas seulement le « grand capitalisme » qui cultive le chantage légal. J’ai appris depuis que dans certaines régions du Midi, de véritables « écumeurs de lignes » exploitent systématiquement ce filon. Ils arrivent à se faire de grosses fortunes en très peu de temps, parfois sans dépenser un seul bidon d’essence. Simplement, ils vendent la <i class="fr i" lang="fr">menace</i> d’utiliser le parcours d’une compagnie en exercice.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="2#note6_">6. </a>On voit que ce n’est pas seulement le « grand capitalisme » qui cultive le chantage légal. J’ai appris depuis que dans certaines régions du Midi, de véritables « écumeurs de lignes » exploitent systématiquement ce filon. Ils arrivent à se faire de grosses fortunes en très peu de temps, parfois sans dépenser un seul bidon d’essence. Simplement, ils vendent la <i class="fr i" lang="fr">menace</i> d’utiliser le parcours d’une compagnie en exercice.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p105">p. 105</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Idolâtrie de Goethe : ce goût de l’utilité <i class="fr i" lang="fr">pure</i>, de la « qualité d’être utile » prise en soi, qui rejoindrait la gratuité par un détour que maints esprits modernes ne manqueront pas de juger sublime !</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Idolâtrie de Goethe : ce goût de l’utilité <i class="fr i" lang="fr">pure</i>, de la « qualité d’être utile » prise en soi, qui rejoindrait la gratuité par un détour que maints esprits modernes ne manqueront pas de juger sublime !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p110">p. 110</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Le Werther de Goethe succombe parce qu’il s’est livré à son vertige individuel, rompant avec l’ordre social. Un Werther d’aujourd’hui, ce serait l’homme qui céderait au vertige du social démesuré, rompant avec son ordre individuel. Le suicide de Maïakovski ou d’Essénine après une tentative sincère et passionnée de servir la cause soviétique, c’est la réplique moderne et inversée du geste de Werther. </aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Le Werther de Goethe succombe parce qu’il s’est livré à son vertige individuel, rompant avec l’ordre social. Un Werther d’aujourd’hui, ce serait l’homme qui céderait au vertige du social démesuré, rompant avec son ordre individuel. Le suicide de Maïakovski ou d’Essénine après une tentative sincère et passionnée de servir la cause soviétique, c’est la réplique moderne et inversée du geste de Werther. </aside>
                       </div>
                     </section>
                   </article>
@@ -896,190 +955,190 @@ des choses » dont la moitié des hommes tire tout ce qu’elle a de contenteme
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préambule</a>
                     </li>
                     <li class="here">
-                      <a href="#">Première partie  –  N’habitez pas les villes !</a>
+                      <a href="#">N’habitez pas les villes !</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">Début de novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">10 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">Du 10 au 17 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4">19 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-5">20 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-6">21 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-7">26 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-8">28 novembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-9">1<sup>er</sup> décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-10">2 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-11">4 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-12">5 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-13">6 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-14">10 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-15">11 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-16">12 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-17">13 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-18">15 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-19">16 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-20">18 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-21">20 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-22">23 décembre 1933</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-23">Janvier 1934. (En séjour chez un ami près de Taillefer.)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-24">21 janvier 1934 (dans l’île)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-25">23 janvier 1934 (écrit sur la dune)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-26">Fin de janvier 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-27">Février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-28">13 février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-29">15 février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-30">19 février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-31">Fin février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-32">28 février 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-33">1<sup>er</sup> mars 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-34">15 mars 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-35">16 mars 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-36">17 mars 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-37">Fin mars 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-38">2 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-39">3 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-40">7 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-41">10 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-42">15 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-43">16 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-44">17 avril 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-45">Mai 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-46">14-16 mai 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-47">21 mai 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-48">22 mai 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-49">24 mai 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-50">5 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-51">10 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-52">14 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-53">15 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-54">16 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-55">20 juin 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-56">2 juillet 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-57">10 juillet 1934</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Pauvre province</a>
+                    <li class="collateral">
+                      <a href="3">Pauvre province</a>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  L’été parisien</a>
+                    <li class="collateral">
+                      <a href="4">L’été parisien</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1089,13 +1148,42 @@ des choses » dont la moitié des hommes tire tout ce qu’elle a de contenteme
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1937jic/3" name="Deuxième partie – Pauvre province" package="ddr1937jic" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1937jic/3" name="II. Pauvre province" package="ddr1937jic" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’un intellectuel en chômage (1937) Deuxième partie – Pauvre province</value>
+          <value>II. Pauvre province (1937, Journal d’un intellectuel en chômage)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’un intellectuel en chômage (1937)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. Pauvre province"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1104,9 +1192,10 @@ des choses » dont la moitié des hommes tire tout ce qu’elle a de contenteme
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p133" id="p133">[p. 133]</a>
-                    <h1 class="head chapter">Deuxième partie <br class="lb"/>Pauvre province<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">Deuxième partie</h1>
+                    <h1 class="head chapter">Pauvre province<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2">
                       <a class="pb" href="#p135" id="p135">[p. 135]</a>
                       <h2 class="head">22 septembre 1934. A… (Gard)<a class="bookmark" href="3#body-3-1"> §</a></h2>
@@ -1801,43 +1890,43 @@ rocheux. Soudain la girouette fait entendre un long cri presque humain.</p>
                         <div class="b note-page">
                           <a href="3#p141">p. 141</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a>Descartes, Spinoza, Hegel.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="3#note9_">9. </a>Descartes, Spinoza, Hegel.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p157">p. 157</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>L’équivalent de l’ouvrage du vieux médecin sur l’île.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="3#note10_">10. </a>L’équivalent de l’ouvrage du vieux médecin sur l’île.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p163">p. 163</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>Je n’ai pas suivi le conseil de cet homme, et n’ai pas lu le livre. Je lui laisse donc la responsabilité du compte rendu qu’il m’en a fait.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="3#note11_">11. </a>Je n’ai pas suivi le conseil de cet homme, et n’ai pas lu le livre. Je lui laisse donc la responsabilité du compte rendu qu’il m’en a fait.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p165">p. 165</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Monsieur X… « orateur distingué », disait la convocation.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="3#note12_">12. </a>Monsieur X… « orateur distingué », disait la convocation.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p166">p. 166</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>La stratégie qu’inaugurèrent les généraux de la Révolution, et qui fut celle de Bonaparte, n’est en somme que l’application du style français à la chose militaire.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="3#note13_">13. </a>La stratégie qu’inaugurèrent les généraux de la Révolution, et qui fut celle de Bonaparte, n’est en somme que l’application du style français à la chose militaire.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p181">p. 181</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>À Montmartre, il y a deux ou trois ans, j’assistais à une conférence contradictoire contre le christianisme. « Ils prétendent qu’ils ne croient qu’à un seul Dieu, s’écriait l’orateur, et ils adorent la Trinité ! Ils disent que le Père, le Fils et le Saint-Esprit ne font qu’un. Vous voyez que l’Église est réfutée par l’arithmétique. En effet, prenez l’addition : un plus un, plus un, cela fait trois, si je ne me trompe, et non pas un. » Prenez la multiplication ! cria l’abbé V… qui était dans la salle.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="3#note14_">14. </a>À Montmartre, il y a deux ou trois ans, j’assistais à une conférence contradictoire contre le christianisme. « Ils prétendent qu’ils ne croient qu’à un seul Dieu, s’écriait l’orateur, et ils adorent la Trinité ! Ils disent que le Père, le Fils et le Saint-Esprit ne font qu’un. Vous voyez que l’Église est réfutée par l’arithmétique. En effet, prenez l’addition : un plus un, plus un, cela fait trois, si je ne me trompe, et non pas un. » Prenez la multiplication ! cria l’abbé V… qui était dans la salle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p198">p. 198</a>
                         </div>
-                        <aside id="note15" class="note bottomnote">
+                        <aside id="note15" role="note" class="note bottomnote">
                           <a class="noteback" href="3#note15_">15. </a>
                           <a href="https://www.unige.ch/rougemont/livres/ddr1937jic/2#p59">Voir plus haut, p. 59-65.</a>
                         </aside>
@@ -1846,13 +1935,13 @@ rocheux. Soudain la girouette fait entendre un long cri presque humain.</p>
                         <div class="b note-page">
                           <a href="3#p202">p. 202</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Que ne connaît pas le grand conférencier littéraire ou politique « en tournée ».</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="3#note16_">16. </a>Que ne connaît pas le grand conférencier littéraire ou politique « en tournée ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p207">p. 207</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>Ils ont donc au moins 65 ans aujourd’hui, où l’article paraît.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="3#note17_">17. </a>Ils ont donc au moins 65 ans aujourd’hui, où l’article paraît.</aside>
                       </div>
                     </section>
                   </article>
@@ -1869,208 +1958,208 @@ rocheux. Soudain la girouette fait entendre un long cri presque humain.</p>
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préambule</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  N’habitez pas les villes !</a>
+                    <li class="collateral">
+                      <a href="2">N’habitez pas les villes !</a>
                     </li>
                     <li class="here">
-                      <a href="#">Deuxième partie  –  Pauvre province</a>
+                      <a href="#">Pauvre province</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">22 septembre 1934. A… (Gard)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">23 septembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">25 septembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">5 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">8 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6">9 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-7">10 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8">15 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-9">16 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-10">30 octobre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-11">1<sup>er</sup> novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-12">3 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-13">4 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-14">10 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-15">11 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-16">12 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-17">15 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-18">21 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-19">25 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-20">28 novembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-21">1<sup>er</sup> décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-22">3 décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-23">16 décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-24">17 décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-25">20 décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-26">22 décembre 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-27">Noël 1934</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-28">Palavas-les-Flots, 6 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-29">8 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-30">12 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-31">15 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-32">20 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-33">28 janvier 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-34">2 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-35">3 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-36">25 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-37">17 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-38">21 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-39">23 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-40">28 février 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-41">1<sup>er</sup> mars 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-42">Mars 1935 (à Marseille)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-43">3-4 mars 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-44">8 mars 1935 (de retour à A…)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-45">10 mars 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-46">21 mars 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-47">31 mars 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-48">Vendredi Saint (avril 1935)</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-49">Nuit de Pâques 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-50">Matinée du lundi de Pâques, 7 heures</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-51">15 avril 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-52">17 avril 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-53">21 avril 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-54">25 avril 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-55">28 avril 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-56">2 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-57">6 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-58">7 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-59">8 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-60">9 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-61">15 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-62">18 mai 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-63">5 juin 1935</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="4">Troisième partie  –  L’été parisien</a>
+                    <li class="collateral">
+                      <a href="4">L’été parisien</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2080,13 +2169,42 @@ rocheux. Soudain la girouette fait entendre un long cri presque humain.</p>
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1937jic/4" name="Troisième partie – L’été parisien" package="ddr1937jic" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1937jic/4" name="III. L’été parisien" package="ddr1937jic" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Journal d’un intellectuel en chômage (1937) Troisième partie – L’été parisien</value>
+          <value>III. L’été parisien (1937, Journal d’un intellectuel en chômage)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Journal d’un intellectuel en chômage (1937)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III. L’été parisien"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2095,9 +2213,10 @@ rocheux. Soudain la girouette fait entendre un long cri presque humain.</p>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#p235" id="p235">[p. 235]</a>
-                    <h1 class="head chapter">Troisième partie <br class="lb"/>L’été parisien<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">Troisième partie</h1>
+                    <h1 class="head chapter">L’été parisien<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2">
                       <a class="pb" href="#p237" id="p237">[p. 237]</a>
                       <h2 class="head">2 juillet 1935<a class="bookmark" href="4#body-4-1"> §</a></h2>
@@ -2215,7 +2334,10 @@ divagation souterraine de lueurs et de visages superposés dans les vitres fuyan
                       </p>
                       <p class="p center">
                         <a class="pb" href="#p251" id="p251">[p. 251]</a>
-                        <i class="i">Moyens de communication : <br class="lb"/>2 autobus pour venir de Chartres. <br class="lb"/>2 autobus pour retourner à Chartres. <br class="lb"/>Le samedi 3 dans les deux sens.</i>
+                        <i class="i">Moyens de communication :
+              <br class="lb"/>2 autobus pour venir de Chartres.
+              <br class="lb"/>2 autobus pour retourner à Chartres.
+              <br class="lb"/>Le samedi 3 dans les deux sens.</i>
                       </p>
                       <p class="p"> </p>
                       <p class="p right">1933-1935</p>
@@ -2225,7 +2347,7 @@ divagation souterraine de lueurs et de visages superposés dans les vitres fuyan
                         <div class="b note-page">
                           <a href="4#p249">p. 249</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>« Que l’homme est né pour le bonheur, certes, toute la nature l’enseigne » (Gide).</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="4#note18_">18. </a>« Que l’homme est né pour le bonheur, certes, toute la nature l’enseigne » (Gide).</aside>
                       </div>
                     </section>
                   </article>
@@ -2242,58 +2364,58 @@ divagation souterraine de lueurs et de visages superposés dans les vitres fuyan
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Préambule</a>
                     </li>
-                    <li>
-                      <a href="2">Première partie  –  N’habitez pas les villes !</a>
+                    <li class="collateral">
+                      <a href="2">N’habitez pas les villes !</a>
                     </li>
-                    <li>
-                      <a href="3">Deuxième partie  –  Pauvre province</a>
+                    <li class="collateral">
+                      <a href="3">Pauvre province</a>
                     </li>
                     <li class="here">
-                      <a href="#">Troisième partie  –  L’été parisien</a>
+                      <a href="#">L’été parisien</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">2 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">5 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">7 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">10 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">Soir du 14 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-6">Après les cortèges du 14 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-7">18 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-8">21 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-9">28 juillet 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-10">Août 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-11">Août 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-12">Août 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-13">Août 1935</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-14">Fin août 1935</a>
                         </li>
                       </ul>

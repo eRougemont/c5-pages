@@ -40,6 +40,7 @@
     <xsl:variable name="chapid">
       <xsl:call-template name="id"/>
     </xsl:variable>
+    <!--
     <xsl:variable name="title">
       <xsl:variable name="rich">
         <xsl:copy-of select="$doctitle"/>
@@ -61,16 +62,29 @@
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>
+    -->
     <xsl:variable name="name">
       <xsl:variable name="rich">
+        <xsl:if test="@n">
+          <xsl:value-of select="@n"/>
+          <xsl:text> </xsl:text>
+        </xsl:if>
         <xsl:apply-templates select="." mode="title"/>
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>
+    <xsl:variable name="title">
+      <xsl:value-of select="$name"/>
+      <xsl:text> (</xsl:text>
+      <xsl:value-of select="$docdate"/>
+      <xsl:text>, </xsl:text>
+      <xsl:value-of select="$doctitle"/>
+      <xsl:text>)</xsl:text>
+    </xsl:variable>   
     <page path="{$bookpath}/{$chapid}" name="{$name}" package="{$package}" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <!--  TODO ?
         <attributekey handle="bookid">
@@ -84,34 +98,70 @@
             <xsl:value-of select="$title"/>
           </value>
         </attributekey>
+        <attributekey handle="meta_ld">
+          <!-- 
+Chapter n’est pas reconnu par Google
+{
+  "@context": "https://schema.org/",
+  "url": "https://www.unige.ch/rougemont/<xsl:value-of select="$bookpath"/>/<xsl:value-of select="$chapid"/>"
+  "@type": "Chapter",
+  "name": "<xsl:value-of select="$title"/>"
+  "breadcrumb": "Rougemont > Livres > <xsl:value-of select="$doctitle"/>",
+  "author": {
+    "@type": "Person",
+    "name": "<xsl:value-of select="$author1"/>"
+  },
+  "datePublished": "<xsl:value-of select="$docdate"/>",
+  "isPartOf": {
+    "@type": "Book",
+    "@id": "<xsl:value-of select="$bookpath"/>",
+    "url": "https://www.unige.ch/rougemont/<xsl:value-of select="$bookpath"/>",
+    "name": "<xsl:value-of select="$doctitle"/>",
+    "author": "<xsl:value-of select="$author1"/>",
+    "bookEdition": "<xsl:value-of select="/tei:TEI/tei:teiHeader[1]/tei:fileDesc[1]/tei:editionStmt[1]/tei:edition[1]"/>",
+    "datePublished": "<xsl:value-of select="$docdate"/>",
+    "inLanguage": "<xsl:value-of select="$lang"/>",
+    "license": "<xsl:value-of select="/tei:TEI/tei:teiHeader[1]/tei:fileDesc[1]/tei:publicationStmt[1]/tei:availability[1]/tei:licence[1]/@target"/>"
+  }
+  "isAccessibleForFree": "True"
+}
+          -->
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "<xsl:value-of select="$doctitle"/> (<xsl:value-of select="$docdate"/>)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont<xsl:value-of select="$bookpath"/>",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "<xsl:value-of select="$name"/>"
+  }]
+}
+          </value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
-          <!-- ???
-           <block type="page_title" name="">
-             <data table="btPageTitle">
-               <record>
-                 <useCustomTitle><![CDATA[0]]></useCustomTitle>
-                 <titleText><![CDATA[Chapitre 1]]></titleText>
-               </record>
-             </data>
-           </block>
-           </block>
-          <xsl:call-template name="prevnext"/>
-          <a class="booktitle" href=".">
-            <i>
-              <xsl:copy-of select="$doctitle"/>
-            </i>
-            <xsl:text> (</xsl:text>
-            <xsl:value-of select="$docdate"/>
-            <xsl:text>)</xsl:text>
-          </a>
-           -->
           <block type="content">
             <data table="btContentLocal">
               <record>
                 <content>
-                  <article>
+                  <article role="article">
                     <xsl:apply-templates>
                       <xsl:with-param name="level" select="1"/>
                     </xsl:apply-templates>

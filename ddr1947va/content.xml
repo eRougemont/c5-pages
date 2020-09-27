@@ -4,10 +4,39 @@
     <page path="/livres/ddr1947va/1" name="Avertissement" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) Avertissement</value>
+          <value>Avertissement (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Avertissement"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">Je ne pensais pas écrire sur l’Amérique, parce que j’y avais vécu cinq ans — et l’on sait bien qu’il faut un séjour de trois semaines ou toute une vie pour oser parler d’un pays — quand Gérard Boutelleau, de passage à New York, me demanda quelques articles pour un hebdomadaire français.</p>
@@ -34,7 +63,7 @@
                         <div class="b note-page">
                           <a href="1#pb8">p. 8</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>La plupart des articles ici réunis ont été publiés en première version par les journaux et revues dont les noms suivent : <i class="i">Carrefour</i>, le <i class="i">Littéraire</i>, le <i class="i">Figaro</i>, le <i class="i">Journal de Genève</i>, la <i class="i">Gazette de Lausanne, Réforme, Temps présent, Fontaine, Esprit</i>, la <i class="i">Revue de Paris</i>, la <i class="i">Nef</i>.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>La plupart des articles ici réunis ont été publiés en première version par les journaux et revues dont les noms suivent : <i class="i">Carrefour</i>, le <i class="i">Littéraire</i>, le <i class="i">Figaro</i>, le <i class="i">Journal de Genève</i>, la <i class="i">Gazette de Lausanne, Réforme, Temps présent, Fontaine, Esprit</i>, la <i class="i">Revue de Paris</i>, la <i class="i">Nef</i>.</aside>
                       </div>
                     </section>
                   </article>
@@ -54,23 +83,23 @@
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -80,13 +109,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/2" name="Prologue – Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/2" name="Prologue. Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) Prologue – Sentiment de l’Amérique</value>
+          <value>Prologue. Sentiment de l’Amérique (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Prologue. Sentiment de l’Amérique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -95,9 +153,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb11" id="pb11">[p. 11]</a>
-                    <h1 class="head chapter">Prologue <br class="lb"/>Sentiment de l’Amérique<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Prologue
+          <br class="lb"/>Sentiment de l’Amérique<a class="bookmark" href="2"> §</a></h1>
                     <p class="p autofirst">Cinq ans déjà, et chaque matin je m’étonne encore de me réveiller en Amérique. J’ai vécu en Suisse, en Autriche, en Italie, en Allemagne et en France : quelques mois et j’étais acclimaté. J’oubliais que le pays n’était pas le mien. C’était l’Europe. C’est ici l’Amérique, et je n’ai pas fini de m’en ébahir. Ce Nouveau Monde m’apparaît à chaque pas, sinon neuf, du moins différent de ce que mes réflexes attendaient.</p>
                     <p class="p">Des amis débarquant de France me disent : « Alors, qu’en pensez-vous ? » De l’Amérique ? Tout ce que je vais vous en dire, tout ce que l’on peut en dire en général sera vrai selon les temps et les lieux, et tout sera contradictoire, et rien ne sera suffisant.</p>
                     <p class="p">New York a les plus hauts gratte-ciel du monde, c’est vrai. Mais Le Corbusier, promené pendant une heure dans la ville par des 
@@ -142,26 +201,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#">Prologue  –  Sentiment de l’Amérique</a>
+                      <a href="#">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -171,13 +230,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/3" name="I – Vie politique" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/3" name="1. Vie politique" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) I – Vie politique</value>
+          <value>1. Vie politique (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "1. Vie politique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -186,9 +274,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb19" id="pb19">[p. 19]</a>
-                    <h1 class="head chapter">I <br class="lb"/>Vie politique<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head kicker chapter">I</h1>
+                    <h1 class="head chapter">Vie politique<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2 level2">
                       <a class="pb" href="#pb21" id="pb21">[p. 21]</a>
                       <h2 class="head">Le rêve américain<a class="bookmark" href="3#body-3-1"> §</a></h2>
@@ -382,7 +471,7 @@
                         <div class="b note-page">
                           <a href="3#pb25">p. 25</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a><i class="i">Drugstore</i>, littéralement droguerie, désigne un magasin où l’on vend des produits pharmaceutiques, des produits de beauté, mais aussi des ice-creams, des jus de fruit et des sandwiches sur un bar, des journaux et des cigarettes.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="3#note2_">2. </a><i class="i">Drugstore</i>, littéralement droguerie, désigne un magasin où l’on vend des produits pharmaceutiques, des produits de beauté, mais aussi des ice-creams, des jus de fruit et des sandwiches sur un bar, des journaux et des cigarettes.</aside>
                       </div>
                     </section>
                   </article>
@@ -399,43 +488,43 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="here">
-                      <a href="#">I  –  Vie politique</a>
+                      <a href="#">Vie politique</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">Le rêve américain</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">Santé de la démocratie américaine</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">Maladies de la démocratie américaine</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">Une bureaucratie sans ronds-de-cuir</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">Impérialisme américain ?</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -445,13 +534,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/4" name="II – Vie culturelle et religieuse" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/4" name="2. Vie culturelle et religieuse" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) II – Vie culturelle et religieuse</value>
+          <value>2. Vie culturelle et religieuse (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "2. Vie culturelle et religieuse"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -460,9 +578,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
-                    <h1 class="head chapter">II <br class="lb"/>Vie culturelle et religieuse<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head kicker chapter">II</h1>
+                    <h1 class="head chapter">Vie culturelle et religieuse<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2 level2">
                       <a class="pb" href="#pb61" id="pb61">[p. 61]</a>
                       <h2 class="head">Une presse qui informe ses lecteurs<a class="bookmark" href="4#body-4-1"> §</a></h2>
@@ -739,71 +858,71 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
                     <li class="here">
-                      <a href="#">II  –  Vie culturelle et religieuse</a>
+                      <a href="#">Vie culturelle et religieuse</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">Une presse qui informe ses lecteurs</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">Hollywood n’a plus d’idées</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">Condition des écrivains et éditeurs</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">Esquisse d’une rhétorique américaine</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-4-1">
                                 <span class="num">i</span>
                               </a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-4-2">
                                 <span class="num">ii</span>
                               </a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-4-3">
                                 <span class="num">iii</span>
                               </a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="4#body-4-4-4">
                                 <span class="num">iv</span>
                               </a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">Vue générale des églises de New York</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-6">Religion et vie publique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-7">Une spiritualité engagée dans le siècle</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -813,13 +932,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/5" name="III – Vie privée" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/5" name="3. Vie privée" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) III – Vie privée</value>
+          <value>3. Vie privée (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "3. Vie privée"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -828,9 +976,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb113" id="pb113">[p. 113]</a>
-                    <h1 class="head chapter">III <br class="lb"/>Vie privée<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head kicker chapter">III</h1>
+                    <h1 class="head chapter">Vie privée<a class="bookmark" href="5"> §</a></h1>
                     <section id="body-5-1" class="div level2 level2">
                       <a class="pb" href="#pb115" id="pb115">[p. 115]</a>
                       <h2 class="head">La Guerre des sexes en Amérique<a class="bookmark" href="5#body-5-1"> §</a></h2>
@@ -926,13 +1075,13 @@
                         <div class="b note-page">
                           <a href="5#pb115">p. 115</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="5#note3_">3. </a><i class="i">Courtiser</i> traduirait trop faiblement ce terme courant en Amérique, même dans la bouche des prédicateurs qui le dénoncent.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="5#note3_">3. </a><i class="i">Courtiser</i> traduirait trop faiblement ce terme courant en Amérique, même dans la bouche des prédicateurs qui le dénoncent.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb126">p. 126</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="5#note4_">4. </a>Sauf dans le domaine intellectuel, où l’on pourrait fort bien soutenir la thèse inverse. Je l’ai fait ailleurs.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="5#note4_">4. </a>Sauf dans le domaine intellectuel, où l’on pourrait fort bien soutenir la thèse inverse. Je l’ai fait ailleurs.</aside>
                       </div>
                     </section>
                   </article>
@@ -949,43 +1098,43 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
                     <li class="here">
-                      <a href="#">III  –  Vie privée</a>
+                      <a href="#">Vie privée</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">La Guerre des sexes en Amérique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">De la passion</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">Du matriarcat, du mariage et des « moms »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">Du divorce</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-5">De la sexualité</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -995,13 +1144,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/6" name="IV – Conseil à un Français pour vivre en Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/6" name="4. Conseil à un Français pour vivre en Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) IV – Conseil à un Français pour vivre en Amérique</value>
+          <value>4. Conseil à un Français pour vivre en Amérique (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "4. Conseil à un Français pour vivre en Amérique"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1010,12 +1188,14 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb135" id="pb135">[p. 135]</a>
-                    <h1 class="head chapter">IV <br class="lb"/>Conseil à un Français pour vivre en Amérique<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head kicker chapter">IV</h1>
+                    <h1 class="head chapter">Conseil à un Français pour vivre en Amérique<a class="bookmark" href="6"> §</a></h1>
                     <section id="body-6-1" class="div level2 level2">
                       <a class="pb" href="#pb137" id="pb137">[p. 137]</a>
-                      <h2 class="head">1. <br class="lb"/>Comment on entre en Amérique<a class="bookmark" href="6#body-6-1"> §</a></h2>
+                      <h2 class="head">1.
+            <br class="lb"/>Comment on entre en Amérique<a class="bookmark" href="6#body-6-1"> §</a></h2>
                       <p class="p autofirst">Tous les Américains, sauf les Indiens, seuls « premiers possesseurs du bois et du rocher », sont des anciens Européens. Des gens qui ont voulu oublier leur patrie (pays des pères ou <i class="i">Vaterland</i>) pour habiter une puérie (pays des enfants, ou <i class="i">Kinderland</i> comme disait Nietzsche). Vous qui entrez, ne pensez plus, avec le proverbe latin, qu’il est doux et honorable de mourir pour la terre des ancêtres, mais, au contraire, qu’il est décent de vivre pour sa descendance.</p>
                       <p class="p">Les deux pays tournés vers l’avenir et qui détermineront le cours du siècle, la Confédération américaine et la Confédération soviétique, sont aujourd’hui ceux qui paraissent craindre le plus l’intrusion des Européens. Pour entrer dans l’un, il faut être communiste ; 
 <a class="pb" href="#pb138" id="pb138">[p. 138]</a>
@@ -1037,8 +1217,7 @@
 <a class="pb" href="#pb141" id="pb141">[p. 141]</a>
  qui est le seul trait qu’elles possèdent en commun.</p>
                       <p class="p">De fait, New York est une ville de contrastes violents, de population composite à l’extrême, répartie en une douzaine de quartiers nationaux ou raciaux — chinois, allemand, italien, tchèque, nègre, juif, etc. — qui n’ont de commun que la saleté et l’ordonnance géométrique des rues. Et le reste des États-Unis ! Drugstore à part (et ces magasins clairs, où l’on peut s’asseoir au bar et déjeuner, n’ont rien que de plaisant) les différentes régions de l’Amérique se ressemblent bien moins entre elles que la Nouvelle-Angleterre, par exemple, ne ressemble à l’Europe.</p>
-                      <p class="p"><i class="i">Toutes les maisons sont pareilles, fabriquées en série. On se trompe de porte en croyant rentrer chez soi</i>.
-          </p>
+                      <p class="p"><i class="i">Toutes les maisons sont pareilles, fabriquées en série. On se trompe de porte en croyant rentrer chez soi</i>. </p>
                       <p class="p">Tout d’abord, les cottages américains, en bois blanc, entourés de gazon, et qui vous accueillent par une allée de grandes dalles propres, sont en règle générale beaucoup plus jolis que nos villas de macaron ocré, trop hautes et maigres, hérissées de pierres en relief et de balcons de fer, enfermées dans des barrières de barbelés rébarbatives. Ces cottages sont d’une infinie variété d’architecture, et s’ils se ressemblent tous à l’intérieur par le confort, je n’ai jamais observé qu’un Américain, même saoul, ne reconnaisse pas son 
 <a class="pb" href="#pb142" id="pb142">[p. 142]</a>
  porch, sa large cheminée de briques, ses volets bleus ou rouges, son jardin sans rocaille ni clôtures. Et je parle des maisons d’ouvriers, de petits bourgeois, de gens qui n’auraient en Europe qu’un « pavillon » grisâtre, semblable à tous les autres. Le nombre des petits propriétaires qui se font bâtir une maison à leur idée a été centuplé depuis une quinzaine d’années, grâce aux mesures du <i class="i">New Deal</i> et au système de prêts et hypothèques inauguré par Henry Wallace.</p>
@@ -1058,9 +1237,9 @@
                     </section>
                     <section id="body-6-3" class="div level2 level2">
                       <a class="pb" href="#pb146" id="pb146">[p. 146]</a>
-                      <h2 class="head">3. <br class="lb"/><i class="i">Second traité</i> : Bien vu ou mal vu<a class="bookmark" href="6#body-6-3"> §</a></h2>
-                      <p class="p autofirst center"><i class="i">Quelques points de comparaison entre les mœurs de l’Amérique et de l’Europe</i>.
-          </p>
+                      <h2 class="head">3.
+            <br class="lb"/><i class="i">Second traité</i> : Bien vu ou mal vu<a class="bookmark" href="6#body-6-3"> §</a></h2>
+                      <p class="p autofirst center"><i class="i">Quelques points de comparaison entre les mœurs de l’Amérique et de l’Europe</i>. </p>
                       <p class="p">Les jugements de la morale courante, et non les lois (qui en résultent souvent, mais qui ne les créent presque jamais) déterminent l’atmosphère d’une civilisation et le degré de liberté concrète qu’elle nous ménage. Et je ne sais pas de meilleure méthode pour définir une civilisation que de rechercher ce qui est « bien vu » ou « mal vu » par ses usagers. Tentons ici un catalogue rapide des standards de l’Américain, que nous supposerons moyen pour l’occasion. Il est vrai que l’homme moyen n’est qu’une fiction : les romanciers modernes nous l’ont assez montré, c’est leur métier. Mais ils partent de cette fiction, pour la combattre. Partons-en, par commodité. Et bornons-nous à quelques sujets brûlants.</p>
                       <p class="p"><i class="i">Les impôts</i>. — En France, il est bien vu de tricher 
 <a class="pb" href="#pb147" id="pb147">[p. 147]</a>
@@ -1100,12 +1279,14 @@
                     </section>
                     <section id="body-6-4" class="div level2 level2">
                       <a class="pb" href="#pb153" id="pb153">[p. 153]</a>
-                      <h2 class="head">4. <br class="lb"/>Comment ils accueillent un étranger<a class="bookmark" href="6#body-6-4"> §</a></h2>
+                      <h2 class="head">4.
+            <br class="lb"/>Comment ils accueillent un étranger<a class="bookmark" href="6#body-6-4"> §</a></h2>
                       <p class="p autofirst">Le grand bourgeois de Paris et ses fils, lorsqu’ils rencontrent une tête nouvelle, ne sourient guère. Ils tendent une main précise, accompagnée d’un regard qui jauge cet adversaire ou ce partenaire possible. Qui va prendre avantage sur l’autre ? Ainsi se présentent-ils, comme s’ils venaient de tirer une invisible fermeture éclair.</p>
                       <p class="p">L’Américain s’ouvre, au contraire, comme sa bouche sur des dents éclatantes, et comme s’il n’avait attendu que votre arrivée, justement, pour donner enfin libre cours à ses puissances instinctives de cordialité et d’hospitalité.</p>
                     </section>
                     <section id="body-6-5" class="div level2 level2">
-                      <h2 class="head">5. <br class="lb"/>Comment ils deviennent amis<a class="bookmark" href="6#body-6-5"> §</a></h2>
+                      <h2 class="head">5.
+            <br class="lb"/>Comment ils deviennent amis<a class="bookmark" href="6#body-6-5"> §</a></h2>
                       <p class="p autofirst">À la deuxième rencontre, ou tout de suite, l’Américain vous dit votre prénom, vous raconte sa vie sentimentale et l’état de ses affaires, enfin vous invite pour un week-end.</p>
                       <p class="p">
 <a class="pb" href="#pb154" id="pb154">[p. 154]</a>
@@ -1115,13 +1296,15 @@
                     </section>
                     <section id="body-6-6" class="div level2 level2">
                       <a class="pb" href="#pb155" id="pb155">[p. 155]</a>
-                      <h2 class="head">6. <br class="lb"/>Comment ils s’unissent et se divisent<a class="bookmark" href="6#body-6-6"> §</a></h2>
+                      <h2 class="head">6.
+            <br class="lb"/>Comment ils s’unissent et se divisent<a class="bookmark" href="6#body-6-6"> §</a></h2>
                       <p class="p autofirst">En France, il y a les catholiques et les laïcs, c’est simple ; mais il y a d’autre part trente-six partis et sous-partis, tendances et nuances politiques.</p>
                       <p class="p">En Amérique, il y a les républicains et les démocrates, c’est simple ; mais il y a d’autre part trente-six « stocks » d’immigrants, et trente-six églises différentes, sous-églises, sectes et sous-sectes, transportées jadis ou naguère par des réfugiés religieux.</p>
                       <p class="p">Mais les Américains changent facilement d’église, selon leur domicile ou leur cercle d’amis, tandis que le Français donne l’impression qu’il ne changerait pas plus de parti que de passé.</p>
                     </section>
                     <section id="body-6-7" class="div level2 level2">
-                      <h2 class="head">7. <br class="lb"/>Comment ils prennent la vie<a class="bookmark" href="6#body-6-7"> §</a></h2>
+                      <h2 class="head">7.
+            <br class="lb"/>Comment ils prennent la vie<a class="bookmark" href="6#body-6-7"> §</a></h2>
                       <p class="p autofirst">Le Français est profondément sérieux, c’est même à mon avis l’espèce d’homme la plus sérieuse de la planète. Cependant ses chansons, son théâtre d’avant-guerre, ses 
 <a class="pb" href="#pb156" id="pb156">[p. 156]</a>
  romans à succès et ses produits d’exportation, humains ou commerciaux, le font passer pour plus léger que l’air. Il a fallu le Général de Gaulle et les récits de la Résistance pour que certains Américains pressentent enfin que la France est le pays du sérieux sobre, de l’intransigeance réaliste, des provinciaux vêtus de noir — « le noir, la couleur nationale ! » s’écrie un personnage de Giraudoux — sans parler des débats sur la laïcité ou les écoles confessionnelles.</p>
@@ -1130,7 +1313,8 @@
  de « manque de sérieux », qu’ils ne cesseront pas d’échanger, sur la foi des caricatures traditionnelles.</p>
                     </section>
                     <section id="body-6-8" class="div level2 level2">
-                      <h2 class="head">8. <br class="lb"/>Comment ils inventent<a class="bookmark" href="6#body-6-8"> §</a></h2>
+                      <h2 class="head">8.
+            <br class="lb"/>Comment ils inventent<a class="bookmark" href="6#body-6-8"> §</a></h2>
                       <p class="p autofirst">Un ingénieur français, débarquant à New York, déclare que son pays vient de construire l’avion le plus rapide du monde. L’industrie française a tenu le coup, elle se remonte même si rapidement qu’elle bat déjà l’américaine sur le terrain le plus favorable à cette dernière. Mais tout compte fait, l’avion le plus rapide du monde n’existe qu’à un seul exemplaire. Et pendant qu’on le construisait, l’Amérique a produit quelques milliers d’appareils plus lourds et plus lents, qui n’ont d’autre avantage que de fonctionner sur toutes les grandes lignes du monde.</p>
                       <p class="p">Curieuse impatience du génie français : il invente sans relâche, et cent fois plus que le génie américain ; mais aussitôt il généralise son invention, son prototype ; c’est à ses yeux un stade atteint et dépassé, c’est comme si tous les avions de série étaient déjà faits ; il en est fatigué d’avance, et passe à l’invention suivante.</p>
                       <p class="p">
@@ -1138,7 +1322,8 @@
  Vue d’Amérique, l’Europe apparaît comme une petite région de la planète proprement stupéfiante par la densité de ses inventions, tandis que l’Amérique vue d’Europe stupéfie par sa production standardisée. C’est que l’Européen s’ennuie plus vite et supporte moins de s’ennuyer. Tandis que l’Américain se contente plus longtemps des mêmes idées, des mêmes types d’appareils, parce qu’il les utilise vraiment, parce qu’il en vit, et qu’il ne spécule pas à leur sujet.</p>
                     </section>
                     <section id="body-6-9" class="div level2 level2">
-                      <h2 class="head">9. <br class="lb"/>Comment ils construisent<a class="bookmark" href="6#body-6-9"> §</a></h2>
+                      <h2 class="head">9.
+            <br class="lb"/>Comment ils construisent<a class="bookmark" href="6#body-6-9"> §</a></h2>
                       <p class="p autofirst">En Europe, terre des cathédrales, on demande à Le Corbusier de bâtir des églises en verre et en ciment : je me souviens du temple protestant de Drancy, et de vingt églises en style aérodynamique construites par les Allemands avant Hitler, ou par les Suisses ou par les Hollandais. Mais en Amérique, on copie le gothique, tant pour les églises que pour les universités. On pousse le raffinement jusqu’à construire le chœur en style roman, et la nef en style ogival ; jusqu’à reproduire les tours <i class="i">non terminées</i> des cathédrales européennes. Et les résidences 
 <a class="pb" href="#pb159" id="pb159">[p. 159]</a>
  luxueuses de la campagne ou de la ville sont régulièrement — sauf dans le Sud — de style Tudor, de style Renaissance, de style hollandais ou espagnol…</p>
@@ -1146,14 +1331,16 @@
                       <p class="p">Quant aux gratte-ciel, l’ère en est bien passée. Sauf à New York, ils ne sont pas rentables.</p>
                     </section>
                     <section id="body-6-10" class="div level2 level2">
-                      <h2 class="head">10. <br class="lb"/>Comment ils sont scrupuleux ou non<a class="bookmark" href="6#body-6-10"> §</a></h2>
+                      <h2 class="head">10.
+            <br class="lb"/>Comment ils sont scrupuleux ou non<a class="bookmark" href="6#body-6-10"> §</a></h2>
                       <p class="p autofirst">L’Américain ne pardonne pas une erreur de 2 cents dans un compte, mais se trompe joyeusement d’un pays quand il bombarde, d’un siècle quand il cite l’histoire, d’un ordre spirituel quand il critique un livre.</p>
                       <p class="p">Ce qu’il ne tolère pas, c’est le mensonge, et là précisément où le Français le considère comme allant de soi, j’entends vis-à-vis de l’État. Quand vous entrez en Amérique, on vous demande de remplir des questionnaires comportant des questions de ce genre : « Buvez-vous ? Modérément ? À l’excès ? Fumez-vous ? Avez-vous d’autres vices ? Êtes-vous partisan de doctrines tendant au 
 <a class="pb" href="#pb160" id="pb160">[p. 160]</a>
  renversement des institutions américaines ? » Vous pouvez répondre que vous êtes alcoolique et anarchiste, on vous laissera entrer. Mais si vous dites <i class="i">sous la foi du serment</i>, que vous ne l’êtes pas, et que votre vie plus tard prouve que vous l’êtes, l’amende ou la peine de prison seront triplées. Tout repose ici sur la parole donnée, seul fondement d’une réelle démocratie. Je mets à part le cas de l’<i class="i">Immigration Service</i>, déjà nommé, institution spécifiquement américaine dans ce sens qu’on n’en connaît point ailleurs l’équivalent, et cependant bien faite pour exciter l’indignation de l’Américain moyen s’il en soupçonnait les coutumes. Ce qui ne risque guère de se produire jamais, puisqu’aucun journaliste n’est admis à enquêter sur les mystères d’Ellis Island.</p>
                     </section>
                     <section id="body-6-11" class="div level2 level2">
-                      <h2 class="head">11. <br class="lb"/>Comment ils se battent<a class="bookmark" href="6#body-6-11"> §</a></h2>
+                      <h2 class="head">11.
+            <br class="lb"/>Comment ils se battent<a class="bookmark" href="6#body-6-11"> §</a></h2>
                       <p class="p autofirst">Voici le contraste le plus profond entre l’Ancien et le Nouveau Monde : leur manière de réagir à la souffrance. Prenons l’exemple de la mort à la guerre.</p>
                       <p class="p">Le Français, élevé dans l’idée que <i class="i">dulce et decorum est pro patria mori</i>, accepte de se 
 <a class="pb" href="#pb161" id="pb161">[p. 161]</a>
@@ -1163,7 +1350,8 @@
                     </section>
                     <section id="body-6-12" class="div level2 level2">
                       <a class="pb" href="#pb162" id="pb162">[p. 162]</a>
-                      <h2 class="head">12. <br class="lb"/>Comment ils élèvent leurs enfants, ou non<a class="bookmark" href="6#body-6-12"> §</a></h2>
+                      <h2 class="head">12.
+            <br class="lb"/>Comment ils élèvent leurs enfants, ou non<a class="bookmark" href="6#body-6-12"> §</a></h2>
                       <p class="p autofirst">La journée d’école s’ouvre par une cérémonie patriotique et religieuse. Un des enfants préside, debout devant la classe. Il lit le premier verset d’un psaume, la classe répond par le second, il lit le troisième, etc. À l’antiphone succède le Notre Père, puis le chant du <i class="i">Star Spangled Banner</i>, et enfin le serment au drapeau. <i class="i">I’m proud to be an American</i> ! (Ceci dans les écoles publiques du New Jersey. Cette coutume varie beaucoup selon les États et selon les directeurs d’école.) Le reste de la journée n’est guère fatigant, et les devoirs à domicile s’expédient en moins d’une demi-heure. Quant aux notes, elles ne sont pas chiffrées. C’est : excellent, bon, suffisant ou défectueux. Et elles ne portent pas seulement sur l’histoire et l’arithmétique, mais sur le « sens social », « l’adaptation au milieu », les sports, les qualités d’initiative, et l’intérêt pris aux leçons. Les petits étrangers sont mal vus, et fréquemment persécutés, sous l’œil apparemment aveugle de l’institutrice. Tous les parents européens qui le peuvent font passer leurs 
 <a class="pb" href="#pb163" id="pb163">[p. 163]</a>
  enfants, après un an d’essai, dans une école privée.</p>
@@ -1173,7 +1361,8 @@
                       <p class="p">Les Européens qui persistent dans leurs méthodes d’éducation européenne ne tardent pas à recevoir la visite de voisins avides de s’instruire : cette façon d’exiger le respect des enfants, de les faire travailler et lire, et même de leur donner des ordres, ne serait-ce pas un système nouveau, qu’il serait criminel d’ignorer ?</p>
                     </section>
                     <section id="body-6-13" class="div level2 level2">
-                      <h2 class="head">13. <br class="lb"/>Comment vous réussirez ou non en Amérique<a class="bookmark" href="6#body-6-13"> §</a></h2>
+                      <h2 class="head">13.
+            <br class="lb"/>Comment vous réussirez ou non en Amérique<a class="bookmark" href="6#body-6-13"> §</a></h2>
                       <p class="p autofirst">L’Américain moyen vit encore sur l’idée qu’il a tout comme un autre sa chance de devenir riche. Cette idée, réfutée par toutes les statistiques, lui est inculquée dès le Kindergarten. Le cinéma l’entretient et l’exporte. Vous pensez donc, quand vous entrez en Amérique, que c’est là que se cachait cette fortune qu’un juste sort vous doit et vous tient en réserve. Or vous avez beaucoup moins de chance de la trouver qu’un indigène, qui lui-même, n’en a qu’une sur mille.</p>
                       <p class="p">Voici la liste de vos handicaps Vous savez mal l’anglais. Vous vous fâchez trop vite. Vous tenez à ceci plutôt qu’à cela. Vous travaillez trop bien ou peut-être trop vite. Vous n’êtes pas ponctuel. Vous croyez aux passe-droits et aux coupe-file. Vous prenez trop de temps pour déjeuner. Vous vous expliquez trop et vous manquez de cette espèce de brutalité froide et contenue qui vous ferait prendre au sérieux. De plus, les hommes se méfieront de vous, s’ils sont mariés, à cause de la réputation que leurs femmes 
 <a class="pb" href="#pb165" id="pb165">[p. 165]</a>
@@ -1187,7 +1376,8 @@
                       <p class="p">Aux femmes de toute condition qui débarquent dans leur pays, les Américains recommandent : prenez un avocat, un docteur, un dentiste, un compte en banque et une police d’assurance. Vous serez alors à toute épreuve, et respectée.</p>
                     </section>
                     <section id="body-6-14" class="div level2 level2">
-                      <h2 class="head">14. <br class="lb"/>Comment on y devient fou<a class="bookmark" href="6#body-6-14"> §</a></h2>
+                      <h2 class="head">14.
+            <br class="lb"/>Comment on y devient fou<a class="bookmark" href="6#body-6-14"> §</a></h2>
                       <p class="p autofirst">Dans les grandes villes, et à New York surtout, vous prenez une telle habitude de n’être pas regardé, <i class="i">pas vu</i>, et pas jugé, que vous en profitez naturellement pour devenir fou.</p>
                       <p class="p">Il en va bien différemment dans les villages. Vous y deviendrez fou aussi, mais pour des raisons toutes contraires. Par compression sociale, irrésistiblement et cordialement intransigeante.</p>
                       <p class="p">J’ai observé souvent l’espèce de vertige qui s’empare des Européens après quelques mois d’Amérique, précisons : de grande ville américaine. Les mesures ont changé autour d’eux. Les cadres sociaux n’y sont plus, pour 
@@ -1198,7 +1388,8 @@
                     </section>
                     <section id="body-6-15" class="div level2 level2">
                       <a class="pb" href="#pb168" id="pb168">[p. 168]</a>
-                      <h2 class="head">15. <br class="lb"/>Comment un Américain moyen juge la France<a class="bookmark" href="6#body-6-15"> §</a></h2>
+                      <h2 class="head">15.
+            <br class="lb"/>Comment un Américain moyen juge la France<a class="bookmark" href="6#body-6-15"> §</a></h2>
                       <p class="p autofirst">Au lendemain de la démission d’un énième cabinet à Paris, un Américain me disait :</p>
                       <p class="p">— En France, n’importe quel problème d’ajustement économique devient aussitôt politique, c’est-à-dire qu’il provoque des discours plus ou moins littéraires, un torrent de clichés qui n’ont aucun rapport avec la question, et des affirmations grandiloquentes d’attachement indéfectible aux principes généraux de la gauche ou de la droite. Posez la question d’une répartition des huiles et savons par l’État, et vous serez bientôt en plein délire : tous les partis nommeront des commissions pour savoir si l’usage du savon favorise sournoisement le fascisme, ou bien la mainmise moscoutaire. Ces commissions d’ailleurs ne seront occupées qu’à clamer, la cravate en bataille, des résolutions farouchement patriotiques, ou républicaines jusqu’à la mort. Plus question du savon. Brossez-vous.</p>
                       <p class="p">Nous ne posons pas de question de principe à propos de ce produit utile et hygiénique. S’il y a crise dans la fabrication et dans la répartition de l’article, nous étudions 
@@ -1215,7 +1406,8 @@
                       <p class="p">Avec tout cela, je me demande bien pourquoi nous adorons la France comme une femme ! Pour sa grâce et pour ses faiblesses de grande coquette blessée, peut-être. Mais aussi pour une certaine sagesse, une certaine retenue ou rigueur, un certain équilibre élégant et hardi, qui nous en imposent encore… Nous faisons à la France un crédit démesuré, plus qu’à nul autre pays au monde. Le sentez-vous ? À vous de n’en point abuser. C’est d’ailleurs très facile, me semble-t-il. Soyez honnêtes dans les négociations, comme le fut votre Herriot, que nous respectons. Et cessez de répéter sur notre compte des sottises pittoresques ou méprisantes. Nous sommes adultes.</p>
                     </section>
                     <section id="body-6-16" class="div level2 level2">
-                      <h2 class="head">16. <br class="lb"/>Comment un Américain moyen voit le monde<a class="bookmark" href="6#body-6-16"> §</a></h2>
+                      <h2 class="head">16.
+            <br class="lb"/>Comment un Américain moyen voit le monde<a class="bookmark" href="6#body-6-16"> §</a></h2>
                       <p class="p autofirst">Quels sont, se dit-il, les pays qui marchent le mieux en Europe ?</p>
                       <p class="p">
 <a class="pb" href="#pb172" id="pb172">[p. 172]</a>
@@ -1234,7 +1426,8 @@
                       <p class="p"><i class="i">To sum up</i> : Liberté, Prospérité et Poursuite du Bonheur, ce sont là mes trois idéaux. Et je ne les vois réalisés qu’en Amérique.</p>
                     </section>
                     <section id="body-6-17" class="div level2 level2">
-                      <h2 class="head">17. <br class="lb"/>Comment l’Europe peut aider l’Amérique<a class="bookmark" href="6#body-6-17"> §</a></h2>
+                      <h2 class="head">17.
+            <br class="lb"/>Comment l’Europe peut aider l’Amérique<a class="bookmark" href="6#body-6-17"> §</a></h2>
                       <p class="p autofirst">Comme je m’en veux de chacun de mes 
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  articles trop favorables ou trop critiques sur l’Amérique ! Car le contraire, chaque fois, peut aussi être vrai.</p>
@@ -1255,7 +1448,8 @@
                       <p class="p">Le krach de 1929, Hitler, la guerre, et quelques privations ont causé les premières fissures dans cet édifice d’inconscience que chacun s’ingéniait à rendre étanche, — inconsciemment. Ce sont là des secousses extérieures. Qui sait si une loi de l’esprit ne les rend pas d’autant plus fortes et fréquentes que les poussées intimes de la conscience sont plus méthodiquement refoulées ? Qui sait quels malheurs historiques un réveil spirituel de l’Amérique ne pourrait pas lui épargner ? Si l’Europe peut y contribuer, elle aura bien mérité de la planète.</p>
                     </section>
                     <section id="body-6-18" class="div level2 level2">
-                      <h2 class="head">18. <br class="lb"/>Comment l’Amérique peut aider l’Europe<a class="bookmark" href="6#body-6-18"> §</a></h2>
+                      <h2 class="head">18.
+            <br class="lb"/>Comment l’Amérique peut aider l’Europe<a class="bookmark" href="6#body-6-18"> §</a></h2>
                       <p class="p autofirst">Seuls, les Européens — je connais leurs complexes — trouveront trop dures pour 
 <a class="pb" href="#pb179" id="pb179">[p. 179]</a>
  l’Amérique les quelques pages qui précèdent. L’Amérique a les reins solides. Elle a, sur tout autre pays que je connaisse, l’avantage d’accueillir les critiques avec mieux que de la tolérance : avec une volonté souriante mais sérieuse d’apprendre et de s’améliorer. J’y vois le signe de sa force.</p>
@@ -1273,7 +1467,7 @@
                         <div class="b note-page">
                           <a href="6#pb139">p. 139</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="6#note5_">5. </a>Les grands et petits transatlantiques américains et français ont tous été transformés pendant la guerre en transports de troupes. Tels quels, ils servent aujourd’hui aux civils. Comme la demande est forte, les compagnies de navigation ne se pressent pas trop d’améliorer les bâtiments. Elles logent 12 passagers dans une cabine de deux, 25 ou 150 dans un dortoir de fortune, pour le prix d’une première classe d’avant-guerre. Ces camps de concentration flottants sont donc d’un excellent rapport. Quant aux avions, toutes les places y sont prises plusieurs mois à l’avance, et l’on ne vous permettra d’y emporter que 30 kilos de bagages.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="6#note5_">5. </a>Les grands et petits transatlantiques américains et français ont tous été transformés pendant la guerre en transports de troupes. Tels quels, ils servent aujourd’hui aux civils. Comme la demande est forte, les compagnies de navigation ne se pressent pas trop d’améliorer les bâtiments. Elles logent 12 passagers dans une cabine de deux, 25 ou 150 dans un dortoir de fortune, pour le prix d’une première classe d’avant-guerre. Ces camps de concentration flottants sont donc d’un excellent rapport. Quant aux avions, toutes les places y sont prises plusieurs mois à l’avance, et l’on ne vous permettra d’y emporter que 30 kilos de bagages.</aside>
                       </div>
                     </section>
                   </article>
@@ -1290,82 +1484,82 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
                     <li class="here">
-                      <a href="#">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                      <a href="#">Conseil à un Français pour vivre en Amérique</a>
                       <ul>
-                        <li>
-                          <a href="6#body-6-1">1.   Comment on entre en Amérique</a>
+                        <li class="collateral">
+                          <a href="6#body-6-1">1.  Comment on entre en Amérique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="6#body-6-2">2.<i>  Premier traité</i> : Ce qu’il ne faut plus dire ni penser de l’Amérique</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-3">3.   <i>Second traité</i> : Bien vu ou mal vu</a>
+                        <li class="collateral">
+                          <a href="6#body-6-3">3.  <i>Second traité</i> : Bien vu ou mal vu</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-4">4.   Comment ils accueillent un étranger</a>
+                        <li class="collateral">
+                          <a href="6#body-6-4">4.  Comment ils accueillent un étranger</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-5">5.   Comment ils deviennent amis</a>
+                        <li class="collateral">
+                          <a href="6#body-6-5">5.  Comment ils deviennent amis</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-6">6.   Comment ils s’unissent et se divisent</a>
+                        <li class="collateral">
+                          <a href="6#body-6-6">6.  Comment ils s’unissent et se divisent</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-7">7.   Comment ils prennent la vie</a>
+                        <li class="collateral">
+                          <a href="6#body-6-7">7.  Comment ils prennent la vie</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-8">8.   Comment ils inventent</a>
+                        <li class="collateral">
+                          <a href="6#body-6-8">8.  Comment ils inventent</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-9">9.   Comment ils construisent</a>
+                        <li class="collateral">
+                          <a href="6#body-6-9">9.  Comment ils construisent</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-10">10.   Comment ils sont scrupuleux ou non</a>
+                        <li class="collateral">
+                          <a href="6#body-6-10">10.  Comment ils sont scrupuleux ou non</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-11">11.   Comment ils se battent</a>
+                        <li class="collateral">
+                          <a href="6#body-6-11">11.  Comment ils se battent</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-12">12.   Comment ils élèvent leurs enfants, ou non</a>
+                        <li class="collateral">
+                          <a href="6#body-6-12">12.  Comment ils élèvent leurs enfants, ou non</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-13">13.   Comment vous réussirez ou non en Amérique</a>
+                        <li class="collateral">
+                          <a href="6#body-6-13">13.  Comment vous réussirez ou non en Amérique</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-14">14.   Comment on y devient fou</a>
+                        <li class="collateral">
+                          <a href="6#body-6-14">14.  Comment on y devient fou</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-15">15.   Comment un Américain moyen juge la France</a>
+                        <li class="collateral">
+                          <a href="6#body-6-15">15.  Comment un Américain moyen juge la France</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-16">16.   Comment un Américain moyen voit le monde</a>
+                        <li class="collateral">
+                          <a href="6#body-6-16">16.  Comment un Américain moyen voit le monde</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-17">17.   Comment l’Europe peut aider l’Amérique</a>
+                        <li class="collateral">
+                          <a href="6#body-6-17">17.  Comment l’Europe peut aider l’Amérique</a>
                         </li>
-                        <li>
-                          <a href="6#body-6-18">18.   Comment l’Amérique peut aider l’Europe</a>
+                        <li class="collateral">
+                          <a href="6#body-6-18">18.  Comment l’Amérique peut aider l’Europe</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
-                      <a href="7">Épilogue  –  La route américaine</a>
+                    <li class="collateral">
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1375,13 +1569,42 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/7" name="Épilogue – La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/7" name="Épilogue. La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Vivre en Amérique (1947) Épilogue – La route américaine</value>
+          <value>Épilogue. La route américaine (1947, Vivre en Amérique)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Vivre en Amérique (1947)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1947va",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Épilogue. La route américaine"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1390,9 +1613,10 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb181" id="pb181">[p. 181]</a>
-                    <h1 class="head chapter">Épilogue <br class="lb"/>La route américaine<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">Épilogue
+          <br class="lb"/>La route américaine<a class="bookmark" href="7"> §</a></h1>
                     <p class="p autofirst">L’Européen parle parfois de sa conception de la vie ; l’Américain (l’Anglais aussi) de son <i class="i">way of life</i>, littéralement : de sa route de vie. Ce qui est pour le Latin concept, forme arrêtée, devient chez eux chemin, voie et mouvement.</p>
                     <p class="p">C’est pourquoi je prendrai les routes d’Amérique comme un symbole du rêve et de la volonté du Nouveau Monde.</p>
                     <p class="p">On croyait close l’ère des pionniers, l’ère des défricheurs de savanes qui firent reculer la frontière de décade en décade, à travers le Far West, jusqu’à ce qu’ils eussent rejoint les terres du Pacifique. On ne pouvait plus rien ajouter aux plus hauts gratte-ciel de New York, à ces grandiloquents témoins de la Crise de 1929, où les affaires périssent et les bureaux se vident au-dessus du 50<sup class="sup">e</sup> étage, pour peu que la pression baisse à Wall Street. Un grand malaise étreignait l’âme américaine, 
@@ -1419,26 +1643,26 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
-                    <li>
-                      <a href="2">Prologue  –  Sentiment de l’Amérique</a>
+                    <li class="collateral">
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
-                    <li>
-                      <a href="3">I  –  Vie politique</a>
+                    <li class="collateral">
+                      <a href="3">Vie politique</a>
                     </li>
-                    <li>
-                      <a href="4">II  –  Vie culturelle et religieuse</a>
+                    <li class="collateral">
+                      <a href="4">Vie culturelle et religieuse</a>
                     </li>
-                    <li>
-                      <a href="5">III  –  Vie privée</a>
+                    <li class="collateral">
+                      <a href="5">Vie privée</a>
                     </li>
-                    <li>
-                      <a href="6">IV  –  Conseil à un Français pour vivre en Amérique</a>
+                    <li class="collateral">
+                      <a href="6">Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="here">
-                      <a href="#">Épilogue  –  La route américaine</a>
+                      <a href="#">Épilogue.  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>

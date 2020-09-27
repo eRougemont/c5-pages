@@ -4,10 +4,39 @@
     <page path="/livres/ddr1970loe/1" name="Lettre ouverte" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) Lettre ouverte</value>
+          <value>Lettre ouverte (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Lettre ouverte"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
                     <h1 class="head chapter">Lettre ouverte<a class="bookmark" href="1"> §</a></h1>
                     <blockquote class="epigraph">
@@ -222,32 +251,32 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
                         <div class="b note-page">
                           <a href="1#pb7">p. 7</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Nom ancien des Bulgares en français. « Étym. Bulgarus » (Littré). Ex. : « Un bon bougre ! »</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Nom ancien des Bulgares en français. « Étym. Bulgarus » (Littré). Ex. : « Un bon bougre ! »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb8">p. 8</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Car je ne puis m’adresser nommément aux nations qui n’ont plus ou pas encore d’État, aux Basques et aux Catalans, aux Bretons et aux Alsaciens, aux Provençaux, aux Corses, aux Sardes, aux Siciliens, aux Bessarabiens et aux Ruthènes, aux Sudètes et aux Lusaciens, aux Bavarois, aux Schleswig-Holsteiniens et aux Frisons, aux Écossais et aux Gallois — pour ne rien dire des Jurassiens bernois, des Tyroliens et Triestins, des citoyens de Monaco, du Liechtenstein, d’Andorre ou de San-Marino, de leurs épouses et de leurs filles, et de cent autres communautés, cités, nations, régions, évêchés, clubs, ordres et sociétés publiques ou secrètes. Mais il va de soi que tous ces noms sont implicites et en un certain sens mobilisables : nous sommes prêts à les réciter du même ton que les hippies, aux États-Unis, lisant en temps et hors de temps le rôle des tués au Vietnam : ce serait le rôle des régions annexées par la force ou la ruse aux Puissances qui appellent ça « réunir »…</aside>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>Par exemple, faut-il dire <i class="i">Belgesse</i> au féminin, comme on dit Suissesse pour Suisse et princesse pour prince ? <i class="i">Bougre</i> n’est-il pas démodé ? Peut-on risquer <i class="i">Yougoslavone</i> ? etc. </aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Car je ne puis m’adresser nommément aux nations qui n’ont plus ou pas encore d’État, aux Basques et aux Catalans, aux Bretons et aux Alsaciens, aux Provençaux, aux Corses, aux Sardes, aux Siciliens, aux Bessarabiens et aux Ruthènes, aux Sudètes et aux Lusaciens, aux Bavarois, aux Schleswig-Holsteiniens et aux Frisons, aux Écossais et aux Gallois — pour ne rien dire des Jurassiens bernois, des Tyroliens et Triestins, des citoyens de Monaco, du Liechtenstein, d’Andorre ou de San-Marino, de leurs épouses et de leurs filles, et de cent autres communautés, cités, nations, régions, évêchés, clubs, ordres et sociétés publiques ou secrètes. Mais il va de soi que tous ces noms sont implicites et en un certain sens mobilisables : nous sommes prêts à les réciter du même ton que les hippies, aux États-Unis, lisant en temps et hors de temps le rôle des tués au Vietnam : ce serait le rôle des régions annexées par la force ou la ruse aux Puissances qui appellent ça « réunir »…</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>Par exemple, faut-il dire <i class="i">Belgesse</i> au féminin, comme on dit Suissesse pour Suisse et princesse pour prince ? <i class="i">Bougre</i> n’est-il pas démodé ? Peut-on risquer <i class="i">Yougoslavone</i> ? etc. </aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb14">p. 14</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a>Ce « plan » d’union, d’une cohérence problématique, a été composé par les commentateurs à partir d’une trentaine de passages dispersés dans les <i class="i">Mémoires des sages et royales œconomies</i> de Sully, qui, avec un sens très sûr de la publicité, en attribue l’idée première à Henri IV.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a>Ce « plan » d’union, d’une cohérence problématique, a été composé par les commentateurs à partir d’une trentaine de passages dispersés dans les <i class="i">Mémoires des sages et royales œconomies</i> de Sully, qui, avec un sens très sûr de la publicité, en attribue l’idée première à Henri IV.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb16">p. 16</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="1#note5_">5. </a>Il s’agit surtout d’<i class="i">Esprit</i> et de <i class="i">L’Ordre nouveau</i> en France, en Suisse et en Belgique, des <i class="i">Gegner</i> et du <i class="i">Schwarze Front</i> en Allemagne, de <i class="i">New Europe</i> à Londres et des éléments qui, dix ans plus tard, se regrouperont dans la Résistance, notamment au confino de Ventotene (îles Lipari) et au camp d’otages de Saint-Michel-Gestel en Hollande.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="1#note5_">5. </a>Il s’agit surtout d’<i class="i">Esprit</i> et de <i class="i">L’Ordre nouveau</i> en France, en Suisse et en Belgique, des <i class="i">Gegner</i> et du <i class="i">Schwarze Front</i> en Allemagne, de <i class="i">New Europe</i> à Londres et des éléments qui, dix ans plus tard, se regrouperont dans la Résistance, notamment au confino de Ventotene (îles Lipari) et au camp d’otages de Saint-Michel-Gestel en Hollande.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb20">p. 20</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="1#note6_">6. </a>Une clause autorisant et prévoyant la cession de certains droits souverains à un futur pouvoir européen avait été introduite dans les constitutions de l’Italie et de la France, au lendemain de la guerre de 39-45. L’actuelle constitution française l’a supprimée par les soins diligents des légistes gaullistes, qui rappellent ceux de Philippe le Bel affirmant pour le compte de leur maître que « le roi de France est empereur en son royaume » et ne reconnaît « aucun supérieur sur la terre ».</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="1#note6_">6. </a>Une clause autorisant et prévoyant la cession de certains droits souverains à un futur pouvoir européen avait été introduite dans les constitutions de l’Italie et de la France, au lendemain de la guerre de 39-45. L’actuelle constitution française l’a supprimée par les soins diligents des légistes gaullistes, qui rappellent ceux de Philippe le Bel affirmant pour le compte de leur maître que « le roi de France est empereur en son royaume » et ne reconnaît « aucun supérieur sur la terre ».</aside>
                       </div>
                     </section>
                   </article>
@@ -267,19 +296,19 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
                     <li class="here">
                       <a href="#">Lettre ouverte</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’unité de culture</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III La puissance ou la liberté</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
                   </ul>
@@ -293,10 +322,39 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
     <page path="/livres/ddr1970loe/2" name="I. L’unité de culture" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) I. L’unité de culture</value>
+          <value>I. L’unité de culture (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. L’unité de culture"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -305,7 +363,7 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb25" id="pb25">[p. 25]</a>
                     <h1 class="head chapter">I. L’unité de culture<a class="bookmark" href="2"> §</a></h1>
                     <blockquote class="epigraph">
@@ -846,86 +904,86 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
                         <div class="b note-page">
                           <a href="2#pb26">p. 26</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Emmanuel <span class="sc">Berl</span>, dans <i class="i">La Table ronde</i>, janvier 1957.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="2#note7_">7. </a>Emmanuel <span class="sc">Berl</span>, dans <i class="i">La Table ronde</i>, janvier 1957.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb27">p. 27</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Cf. <i class="it i" lang="it">Monumenta Germaniae</i>, chronica minora, vol. Il, p. 362.</aside>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Denys <span class="sc">Hay</span>, dans <i class="i">Diogène</i>, n° 17, 1957.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="2#note8_">8. </a>Cf. <i class="it i" lang="it">Monumenta Germaniae</i>, chronica minora, vol. Il, p. 362.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="2#note9_">9. </a>Denys <span class="sc">Hay</span>, dans <i class="i">Diogène</i>, n° 17, 1957.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb42">p. 42</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Johan <span class="sc">Huizinga</span>, dans <i class="i">Le Déclin du Moyen Age</i>, a bien montré que dès les premiers écrits sur la chevalerie, au <span class="num">xiii<sup class="sup">e</sup></span> siècle, on déplore son irrémédiable décadence.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="2#note10_">10. </a>Johan <span class="sc">Huizinga</span>, dans <i class="i">Le Déclin du Moyen Age</i>, a bien montré que dès les premiers écrits sur la chevalerie, au <span class="num">xiii<sup class="sup">e</sup></span> siècle, on déplore son irrémédiable décadence.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb44">p. 44</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Thèse-antithèse-synthèse, mais aussi <i class="i">an sich-für sich-an und für sich</i> (en soi-pour soi-en soi et pour soi) chez Hegel.</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="2#note11_">11. </a>Thèse-antithèse-synthèse, mais aussi <i class="i">an sich-für sich-an und für sich</i> (en soi-pour soi-en soi et pour soi) chez Hegel.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb57">p. 57</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Paul <span class="sc">Valéry</span>, <i class="i">Variétés I</i>, 1925.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="2#note12_">12. </a>Paul <span class="sc">Valéry</span>, <i class="i">Variétés I</i>, 1925.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb58">p. 58</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a><span class="sc">Mantelle</span> et <span class="sc">Brun</span>, <i class="i">Géographie universelle</i>, 1816.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="2#note13_">13. </a><span class="sc">Mantelle</span> et <span class="sc">Brun</span>, <i class="i">Géographie universelle</i>, 1816.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb67">p. 67</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="2#note14_">14. </a><span class="sc">E. R. Curtius</span>, <i class="de i" lang="de">Europäische Literatur und lateinisches Mittelalter</i>, Introduction, Francke Verlag, Berne, 1948.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="2#note14_">14. </a><span class="sc">E. R. Curtius</span>, <i class="de i" lang="de">Europäische Literatur und lateinisches Mittelalter</i>, Introduction, Francke Verlag, Berne, 1948.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb70">p. 70</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="2#note15_">15. </a>Cf. <i class="it i" lang="it">Arti e Lettere in Europa</i>, Milan, 1966.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="2#note15_">15. </a>Cf. <i class="it i" lang="it">Arti e Lettere in Europa</i>, Milan, 1966.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb71">p. 71</a>
                         </div>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="2#note16_">16. </a><i class="en i" lang="en">Notes towards the Definition of Culture, Appendice</i> : The Unity of European Culture, Faber et Faber, Londres, 1948, p. 123.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="2#note16_">16. </a><i class="en i" lang="en">Notes towards the Definition of Culture, Appendice</i> : The Unity of European Culture, Faber et Faber, Londres, 1948, p. 123.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb73">p. 73</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="2#note17_">17. </a>Cf. <i class="i">Bulletin du Centre européen de la culture</i> : <a href="file:///var/www/html/Rougemont/tests/bcec1963b"><i class="i">Enquête sur l’enseignement civique dans les pays européens</i></a>, Genève, n° 5, mai 1963.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="2#note17_">17. </a>Cf. <i class="i">Bulletin du Centre européen de la culture</i> : <a href="file:///var/www/html/Rougemont/tests/bcec1963b"><i class="i">Enquête sur l’enseignement civique dans les pays européens</i></a>, Genève, n° 5, mai 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb81">p. 81</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="2#note18_">18. </a><i class="en i" lang="en">Retreat from Learning</i>, par Joan <span class="sc">Dunne</span>, McKay, 1955.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="2#note18_">18. </a><i class="en i" lang="en">Retreat from Learning</i>, par Joan <span class="sc">Dunne</span>, McKay, 1955.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb82">p. 82</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="2#note19_">19. </a>Voir le Rapport du Pr. Nicholas De Witt, du Harvard’s Russian Research Center, publié en 1955 par la National Science Foundation : <i class="i">Soviet Professional Manpower: Its Education, Training and Supply</i>.</aside>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="2#note19_">19. </a>Voir le Rapport du Pr. Nicholas De Witt, du Harvard’s Russian Research Center, publié en 1955 par la National Science Foundation : <i class="i">Soviet Professional Manpower: Its Education, Training and Supply</i>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb91">p. 91</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="2#note20_">20. </a>J’offre cette illustration de ses théories sur le pouvoir des <i class="i">media</i> à mon ami Marshall McLuhan.</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="2#note20_">20. </a>J’offre cette illustration de ses théories sur le pouvoir des <i class="i">media</i> à mon ami Marshall McLuhan.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#pb96">p. 96</a>
                         </div>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="2#note21_">21. </a>[NdE] Rougemont avait écrit Tchingis-Khan.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="2#note21_">21. </a>[NdE] Rougemont avait écrit Tchingis-Khan.</aside>
                       </div>
                     </section>
                   </article>
@@ -942,99 +1000,99 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’unité de culture</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-1">1. L’Europe est-elle jamais née ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-2">2. Une unité non unitaire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-3">3. Les options de base</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-4">4. Les « trois sources »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-5">5. L’arc et la lyre d’Héraclite</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-6">6. Patrie de la discorde créatrice</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-7">7. Une valeur absolue : la personne</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-8">8. Révolution et passion</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-9">9. Originalité et humour</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-10">10. Mesure du progrès par le risque</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-11">11. Vraie nature de nos diversités</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-12">12. L’Europe comme source d’énergie</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-13">13. Diversités fécondes et divisions anarchiques</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-14">14. Il n’y a pas de « cultures nationales »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-15">15. Vingt langues, une littérature</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-16">16. Mais la diversité des langues ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-17">17. Pour un Petit Livre Rouge européen</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-18">18. L’éducation européenne</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-19">19. Parabole des trois colombes</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-20">20. L’Europe a-t-elle tout inventé ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-21">21. L’Europe et le monde : position du problème</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-22">22. L’Asie sourde à nos mélodies</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-23">23. Les prophètes de la décadence</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-24">24. Où sont les candidats à la relève ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="2#body-2-25">25. Le péril blanc</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III La puissance ou la liberté</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
                   </ul>
@@ -1048,10 +1106,39 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
     <page path="/livres/ddr1970loe/3" name="II. L’union fédérale" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) II. L’union fédérale</value>
+          <value>II. L’union fédérale (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. L’union fédérale"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1060,7 +1147,7 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb108" id="pb108">[p. 108]</a>
                     <h1 class="head chapter">II. L’union fédérale<a class="bookmark" href="3"> §</a></h1>
                     <section id="body-3-1" class="div level2 level2">
@@ -1204,19 +1291,19 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
                         <div class="b note-page">
                           <a href="3#pb118">p. 118</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="3#note22_">22. </a>[NdE] Nous corrigeons ici une erreur manifeste de l’édition de 1970, qui avait mis « théologie » pour « théorie ».</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="3#note22_">22. </a>[NdE] Nous corrigeons ici une erreur manifeste de l’édition de 1970, qui avait mis « théologie » pour « théorie ».</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb120">p. 120</a>
                         </div>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="3#note23_">23. </a>Pierre Duclos écrivait en 1962, dans son excellent ouvrage en collaboration avec Henri Brugmans, <i class="i">Le Fédéralisme contemporain</i> : « Le fédéralisme est présence au pouvoir global des éléments particuliers — demeurant distincts et reconnaissables — dont se compose la fédération. Il est une symbiose <i class="i">sans confusion ni disparition des spécificités</i>. »</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="3#note23_">23. </a>Pierre Duclos écrivait en 1962, dans son excellent ouvrage en collaboration avec Henri Brugmans, <i class="i">Le Fédéralisme contemporain</i> : « Le fédéralisme est présence au pouvoir global des éléments particuliers — demeurant distincts et reconnaissables — dont se compose la fédération. Il est une symbiose <i class="i">sans confusion ni disparition des spécificités</i>. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#pb128">p. 128</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="3#note24_">24. </a><span class="sc">H. Brugmans</span> et <span class="sc">P. Duclos</span>, <i class="i">Le Fédéralisme contemporain</i>, Paris, 1963, p. l51.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="3#note24_">24. </a><span class="sc">H. Brugmans</span> et <span class="sc">P. Duclos</span>, <i class="i">Le Fédéralisme contemporain</i>, Paris, 1963, p. l51.</aside>
                       </div>
                     </section>
                   </article>
@@ -1233,48 +1320,48 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’unité de culture</a>
                     </li>
                     <li class="here">
                       <a href="#">II. L’union fédérale</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-1">26. Traduire l’unité en union</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-2">27. Fédéralisme et sens de l’histoire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-3">28. Malentendus tragiques et ridicules sur le sens du « fédéralisme »</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-4">29. Deux en un, sans confusion ni séparation</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-5">30. Solitaire et solidaire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-6">31. Principes de l’analyse fédéraliste</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-7">32. Les unités de base</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="3#body-3-8">33. Le fédéralisme commence</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III La puissance ou la liberté</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
                   </ul>
@@ -1288,10 +1375,39 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
     <page path="/livres/ddr1970loe/4" name="III La puissance ou la liberté" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) III La puissance ou la liberté</value>
+          <value>III La puissance ou la liberté (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "III La puissance ou la liberté"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1300,7 +1416,7 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb129" id="pb129">[p. 129]</a>
                     <h1 class="head chapter">III La puissance ou la liberté<a class="bookmark" href="4"> §</a></h1>
                     <section id="body-4-1" class="div level2 level2">
@@ -1420,19 +1536,19 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                         <div class="b note-page">
                           <a href="4#pb130">p. 130</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>Les Basques de l’Est et de l’Ouest, les Catalans de Perpignan et de Barcelone, ne sont pas séparés par les Pyrénées, mais par les décrets de Paris et de Madrid, forçant les uns à parler français, les autres à parler espagnol. On parle provençal sur les deux rives du Rhône, allemand sur les deux rives du Rhin, français sur les deux versants du Jura et italien (ou allemand de nouveau) sur les deux versants des Alpes. Décréter que le Rhin sépare et que le Rhône unit donne la mesure de l’honnêteté des manuels imposés par les États-nations. Quant à l’Oural, ces modestes sommets et cet affluent de la Volga sont au centre de la région la plus industrielle de l’URSS, quelque chose d’assez comparable à la Ruhr !</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="4#note25_">25. </a>Les Basques de l’Est et de l’Ouest, les Catalans de Perpignan et de Barcelone, ne sont pas séparés par les Pyrénées, mais par les décrets de Paris et de Madrid, forçant les uns à parler français, les autres à parler espagnol. On parle provençal sur les deux rives du Rhône, allemand sur les deux rives du Rhin, français sur les deux versants du Jura et italien (ou allemand de nouveau) sur les deux versants des Alpes. Décréter que le Rhin sépare et que le Rhône unit donne la mesure de l’honnêteté des manuels imposés par les États-nations. Quant à l’Oural, ces modestes sommets et cet affluent de la Volga sont au centre de la région la plus industrielle de l’URSS, quelque chose d’assez comparable à la Ruhr !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb134">p. 134</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Encore que, dans un sens particulier, je puisse tenir ma langue pour ma patrie, mais ce n’est plus celle de mon enfance, c’est celle que j’emporte avec mes livres.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="4#note26_">26. </a>Encore que, dans un sens particulier, je puisse tenir ma langue pour ma patrie, mais ce n’est plus celle de mon enfance, c’est celle que j’emporte avec mes livres.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb146">p. 146</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>Déclaration de M. Georges Pompidou à la revue <i class="i">Réalités</i>, juin 1970.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="4#note27_">27. </a>Déclaration de M. Georges Pompidou à la revue <i class="i">Réalités</i>, juin 1970.</aside>
                       </div>
                     </section>
                   </article>
@@ -1449,39 +1565,39 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’unité de culture</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
                     </li>
                     <li class="here">
                       <a href="#">III La puissance ou la liberté</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-1">34. L’obstacle à toute union possible</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-2">35. Critique fédéraliste du nationalisme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-3">36. Une solution pratique</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-4">37. La puissance ou la liberté</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="4#body-4-5">38. Défaire et dépasser l’État-nation</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
                   </ul>
@@ -1495,10 +1611,39 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
     <page path="/livres/ddr1970loe/5" name="IV. Vers une fédération des régions" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) IV. Vers une fédération des régions</value>
+          <value>IV. Vers une fédération des régions (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV. Vers une fédération des régions"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1507,7 +1652,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb148" id="pb148">[p. 148]</a>
                     <h1 class="head chapter">IV. Vers une fédération des régions<a class="bookmark" href="5"> §</a></h1>
                     <p class="p autofirst center">
@@ -1917,119 +2062,119 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                         <div class="b note-page">
                           <a href="5#pb149">p. 149</a>
                         </div>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="5#note28_">28. </a><i class="i">Gazette littéraire</i>, Lausanne, 28 octobre 1967.</aside>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="5#note29_">29. </a>Propos cités par J.-J. Servan-Schreiber, <i class="i">L’Express</i>, 30 octobre-5 novembre 1967.</aside>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="5#note30_">30. </a>Il est évident que les « nations » dont parle Malraux sont en réalité les États-nations tels que les a formés le <span class="num">xix<sup class="sup">e</sup></span> siècle, et pas du tout les nations au sens premier — peuples, régions, ethnies ; elles sont du type France, Espagne, Grande-Bretagne, non du type Bretagne, Catalogne, Pays de Galles ; elles sont donc des États impérialistes, non des communautés qui revendiquent contre leur État-nation l’autonomie dont il les a frustrées.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="5#note28_">28. </a><i class="i">Gazette littéraire</i>, Lausanne, 28 octobre 1967.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="5#note29_">29. </a>Propos cités par J.-J. Servan-Schreiber, <i class="i">L’Express</i>, 30 octobre-5 novembre 1967.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="5#note30_">30. </a>Il est évident que les « nations » dont parle Malraux sont en réalité les États-nations tels que les a formés le <span class="num">xix<sup class="sup">e</sup></span> siècle, et pas du tout les nations au sens premier — peuples, régions, ethnies ; elles sont du type France, Espagne, Grande-Bretagne, non du type Bretagne, Catalogne, Pays de Galles ; elles sont donc des États impérialistes, non des communautés qui revendiquent contre leur État-nation l’autonomie dont il les a frustrées.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb158">p. 158</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="5#note31_">31. </a>« Quand il s’agit de nations comme celles de la vieille Europe (…), qui pourrait admettre de bonne foi, à moins d’être un imbécile, qu’une seule d’entre elles consentira jamais à remettre une part de ses pouvoirs à une autorité supranationale ? » écrivait François Mauriac, dans le <i class="i">Figaro Littéraire</i> du 11 décembre 1967.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="5#note31_">31. </a>« Quand il s’agit de nations comme celles de la vieille Europe (…), qui pourrait admettre de bonne foi, à moins d’être un imbécile, qu’une seule d’entre elles consentira jamais à remettre une part de ses pouvoirs à une autorité supranationale ? » écrivait François Mauriac, dans le <i class="i">Figaro Littéraire</i> du 11 décembre 1967.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb159">p. 159</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="5#note32_">32. </a>Cf. Remarques de M. Louis Armand, en annexe au <i class="i">Défi américain</i> de J.-J. Servan-Schreiber.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="5#note32_">32. </a>Cf. Remarques de M. Louis Armand, en annexe au <i class="i">Défi américain</i> de J.-J. Servan-Schreiber.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb160">p. 160</a>
                         </div>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="5#note33_">33. </a>Cf. <a href="file:///var/www/html/Rougemont/tests/articles/ddr1967ee"><i class="i">Janus</i>, n° 15, été 1967, p. 84</a>.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="5#note33_">33. </a>Cf. <a href="file:///var/www/html/Rougemont/tests/articles/ddr1967ee"><i class="i">Janus</i>, n° 15, été 1967, p. 84</a>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb162">p. 162</a>
                         </div>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="5#note34_">34. </a>L’URSS devra bien restituer un jour ou l’autre à la libre disposition de leurs habitants : les trois États baltes, de vastes régions de la Pologne et de la Finlande et la Bessarabie, annexées purement et simplement, sans l’ombre d’un droit ni d’une consultation des peuples.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="5#note34_">34. </a>L’URSS devra bien restituer un jour ou l’autre à la libre disposition de leurs habitants : les trois États baltes, de vastes régions de la Pologne et de la Finlande et la Bessarabie, annexées purement et simplement, sans l’ombre d’un droit ni d’une consultation des peuples.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb164">p. 164</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="5#note35_">35. </a>Cf. <i class="i">Pour une métropole régionale Aix-Marseille-Étang de Berre</i>, Neuchâtel, La Baconnière, 1963 et le <a href="file:///var/www/html/Rougemont/tests/bcec1963c"><i class="i">Bulletin du Centre européen de la culture</i></a> portant le même titre</aside>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="5#note36_">36. </a>Parmi les titres caractéristiques : <i class="i">Paris et le désert français</i> de Jean-François Gravier, qui ouvre les feux dès 1947, et <i class="i">La Question régionale</i>, du même, qui fait le point vingt-deux ans plus tard ; <i class="i">Décoloniser les provinces</i> de Patrick de Ruffray, qui a fourni le slogan de l’action régionaliste ; <i class="i">La gauche et les régions</i> de M. Phlipponneau, qui dédouane la région de l’embargo maurrassien et <i class="i">La Révolution régionaliste</i> de Robert Lafont, un titre-programme… On y ajoutera <i class="i">Comment peut-on être breton</i> ? par Morvan Lebesque, qui est sans doute de tous ces ouvrages le plus actif, émouvant, convaincant.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="5#note35_">35. </a>Cf. <i class="i">Pour une métropole régionale Aix-Marseille-Étang de Berre</i>, Neuchâtel, La Baconnière, 1963 et le <a href="file:///var/www/html/Rougemont/tests/bcec1963c"><i class="i">Bulletin du Centre européen de la culture</i></a> portant le même titre</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="5#note36_">36. </a>Parmi les titres caractéristiques : <i class="i">Paris et le désert français</i> de Jean-François Gravier, qui ouvre les feux dès 1947, et <i class="i">La Question régionale</i>, du même, qui fait le point vingt-deux ans plus tard ; <i class="i">Décoloniser les provinces</i> de Patrick de Ruffray, qui a fourni le slogan de l’action régionaliste ; <i class="i">La gauche et les régions</i> de M. Phlipponneau, qui dédouane la région de l’embargo maurrassien et <i class="i">La Révolution régionaliste</i> de Robert Lafont, un titre-programme… On y ajoutera <i class="i">Comment peut-on être breton</i> ? par Morvan Lebesque, qui est sans doute de tous ces ouvrages le plus actif, émouvant, convaincant.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb165">p. 165</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="5#note37_">37. </a><i class="i">France et Progrès</i>, n° 1, novembre 1967.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="5#note37_">37. </a><i class="i">France et Progrès</i>, n° 1, novembre 1967.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb168">p. 168</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="5#note38_">38. </a>Cf. <i class="i">Le Monde</i> (dont on cite ici la version), puis <i class="i">Actes du Colloque sur l’organisation départementale et communale à l’épreuve du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Administration, n° 59, 1966.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="5#note38_">38. </a>Cf. <i class="i">Le Monde</i> (dont on cite ici la version), puis <i class="i">Actes du Colloque sur l’organisation départementale et communale à l’épreuve du <span class="num">xx<sup class="sup">e</sup></span> siècle</i>, Administration, n° 59, 1966.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb169">p. 169</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="5#note39_">39. </a><i class="i">Polis</i> donne <i class="i">politique</i> et <i class="i">civitas</i> donne <i class="i">civisme</i>, synonymes réels qui devraient être perçus et vécus comme tels… Que pourrait donner <i class="i">regio</i>, sans évoquer jamais le concept essentiellement français-centraliste de « provincialisme » ?</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="5#note39_">39. </a><i class="i">Polis</i> donne <i class="i">politique</i> et <i class="i">civitas</i> donne <i class="i">civisme</i>, synonymes réels qui devraient être perçus et vécus comme tels… Que pourrait donner <i class="i">regio</i>, sans évoquer jamais le concept essentiellement français-centraliste de « provincialisme » ?</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb170">p. 170</a>
                         </div>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="5#note40_">40. </a>Cf. <i class="i">Qu’est-ce qu’une Nation</i> ?, Paris, 1882.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="5#note40_">40. </a>Cf. <i class="i">Qu’est-ce qu’une Nation</i> ?, Paris, 1882.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb171">p. 171</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="5#note41_">41. </a><i class="i">Documents de la Conférence sur les économies régionales</i>, Bruxelles, 6-8 décembre 1961, vol. II, p. 68.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="5#note41_">41. </a><i class="i">Documents de la Conférence sur les économies régionales</i>, Bruxelles, 6-8 décembre 1961, vol. II, p. 68.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb173">p. 173</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="5#note42_">42. </a>Cf. Remarques de M. Louis Armand, en annexe au <i class="i">Défi américain</i>, de J.-J. Servan-Schreiber.</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="5#note42_">42. </a>Cf. Remarques de M. Louis Armand, en annexe au <i class="i">Défi américain</i>, de J.-J. Servan-Schreiber.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb176">p. 176</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="5#note43_">43. </a>Cf. mon <a href="file:///var/www/html/Rougemont/tests/livres/ddr1968jde"><i class="i">Journal d’une Époque</i></a>, Paris, Gallimard, 1968, notamment p. 107.</aside>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="5#note44_">44. </a>[NdE] Il s’agit de « <a href="file:///var/www/html/Rougemont/tests/articles/ddr19630510futur">Orientation vers une Europe fédérale </a>», paru dans <i class="i">Futuribles</i> de mai 1963.</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="5#note43_">43. </a>Cf. mon <a href="file:///var/www/html/Rougemont/tests/livres/ddr1968jde"><i class="i">Journal d’une Époque</i></a>, Paris, Gallimard, 1968, notamment p. 107.</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="5#note44_">44. </a>[NdE] Il s’agit de « <a href="file:///var/www/html/Rougemont/tests/articles/ddr19630510futur">Orientation vers une Europe fédérale </a>», paru dans <i class="i">Futuribles</i> de mai 1963.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb177">p. 177</a>
                         </div>
-                        <aside id="note45" class="note bottomnote"><a class="noteback" href="5#note45_">45. </a>« Le patriotisme actuel consiste en une équation entre le bien et une collectivité correspondant à un espace territorial, à savoir la France ; quiconque change dans sa pensée le terme territorial de l’équation, et met à la place un terme plus petit, comme la Bretagne, ou plus grand, comme l’Europe, est regardé comme un traître. Pourquoi cela ? C’est tout à fait arbitraire » (Simone <span class="sc">Weil</span>, <i class="i">L’Enracinement</i>, p. 126).</aside>
+                        <aside id="note45" role="note" class="note bottomnote"><a class="noteback" href="5#note45_">45. </a>« Le patriotisme actuel consiste en une équation entre le bien et une collectivité correspondant à un espace territorial, à savoir la France ; quiconque change dans sa pensée le terme territorial de l’équation, et met à la place un terme plus petit, comme la Bretagne, ou plus grand, comme l’Europe, est regardé comme un traître. Pourquoi cela ? C’est tout à fait arbitraire » (Simone <span class="sc">Weil</span>, <i class="i">L’Enracinement</i>, p. 126).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb178">p. 178</a>
                         </div>
-                        <aside id="note46" class="note bottomnote"><a class="noteback" href="5#note46_">46. </a>Cet argument me paraît juste. Mais quand Malraux dit que la nation est le phénomène dominant du <span class="num">xx<sup class="sup">e</sup></span> siècle, on doute qu’il pense d’abord à autre chose qu’à la France.</aside>
+                        <aside id="note46" role="note" class="note bottomnote"><a class="noteback" href="5#note46_">46. </a>Cet argument me paraît juste. Mais quand Malraux dit que la nation est le phénomène dominant du <span class="num">xx<sup class="sup">e</sup></span> siècle, on doute qu’il pense d’abord à autre chose qu’à la France.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb181">p. 181</a>
                         </div>
-                        <aside id="note47" class="note bottomnote"><a class="noteback" href="5#note47_">47. </a>Les auteurs de <i class="i">tous</i> nos manuels s’inspirent <i class="i">exclusivement</i> de cette tradition unitaire : Machiavel, Jean Bodin, Thomas Hobbes, le Rousseau mal entendu par les Jacobins, Marx, Lénine, Hitler, Staline, Mao… Ils ignorent délibérément la tradition démocratique et libertaire qui a fait la grandeur de l’Europe : Vitoria, Comenius, Althusius, Locke, Montesquieu, le vrai Rousseau (celui qui exalte la petite cité), Saint-Simon, le jeune Marx, Bakounine et Proudhon — d’où procèdent les personnalistes du <span class="num">xx<sup class="sup">e</sup></span> siècle.</aside>
+                        <aside id="note47" role="note" class="note bottomnote"><a class="noteback" href="5#note47_">47. </a>Les auteurs de <i class="i">tous</i> nos manuels s’inspirent <i class="i">exclusivement</i> de cette tradition unitaire : Machiavel, Jean Bodin, Thomas Hobbes, le Rousseau mal entendu par les Jacobins, Marx, Lénine, Hitler, Staline, Mao… Ils ignorent délibérément la tradition démocratique et libertaire qui a fait la grandeur de l’Europe : Vitoria, Comenius, Althusius, Locke, Montesquieu, le vrai Rousseau (celui qui exalte la petite cité), Saint-Simon, le jeune Marx, Bakounine et Proudhon — d’où procèdent les personnalistes du <span class="num">xx<sup class="sup">e</sup></span> siècle.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb186">p. 186</a>
                         </div>
-                        <aside id="note48" class="note bottomnote"><a class="noteback" href="5#note48_">48. </a>Déduction faite des Bretons, Alsaciens, Flamands, Basques, Catalans, Corses, Provençaux et Occitans, qui persistent à parler leur langue maternelle au lieu de la langue officielle imposée par François I<sup class="sup">er</sup>, et qui était celle de l’Île-de-France.</aside>
+                        <aside id="note48" role="note" class="note bottomnote"><a class="noteback" href="5#note48_">48. </a>Déduction faite des Bretons, Alsaciens, Flamands, Basques, Catalans, Corses, Provençaux et Occitans, qui persistent à parler leur langue maternelle au lieu de la langue officielle imposée par François I<sup class="sup">er</sup>, et qui était celle de l’Île-de-France.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb189">p. 189</a>
                         </div>
-                        <aside id="note49" class="note bottomnote"><a class="noteback" href="5#note49_">49. </a>L’Agence économique restant à Bruxelles et le Tribunal des Droits de l’homme à Luxembourg, les autres pourraient s’installer à Nice, Milan, Munich et Vienne, par exemple — et/ou en Suisse : j’ai proposé dès 1964 que la Suisse devienne le District fédéral européen (équivalent de Washington D.C.), et que la plupart des agences fédérales européennes siègent à Zurich, Bâle et Lausanne, Genève restant ville internationale et Berne ville fédérale suisse (cf. <a href="file:///var/www/html/Rougemont/tests/livres/ddr1970shph"><i class="i">La Suisse, ou l’histoire d’un peuple heureux</i></a>).</aside>
+                        <aside id="note49" role="note" class="note bottomnote"><a class="noteback" href="5#note49_">49. </a>L’Agence économique restant à Bruxelles et le Tribunal des Droits de l’homme à Luxembourg, les autres pourraient s’installer à Nice, Milan, Munich et Vienne, par exemple — et/ou en Suisse : j’ai proposé dès 1964 que la Suisse devienne le District fédéral européen (équivalent de Washington D.C.), et que la plupart des agences fédérales européennes siègent à Zurich, Bâle et Lausanne, Genève restant ville internationale et Berne ville fédérale suisse (cf. <a href="file:///var/www/html/Rougemont/tests/livres/ddr1970shph"><i class="i">La Suisse, ou l’histoire d’un peuple heureux</i></a>).</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb193">p. 193</a>
                         </div>
-                        <aside id="note50" class="note bottomnote"><a class="noteback" href="5#note50_">50. </a>Jacob <span class="sc">Burckhardt</span>, <i class="i">Considérations sur l’Histoire universelle</i>, Genève, Droz, 1965. (L’ouvrage date de 1868-1871.)</aside>
+                        <aside id="note50" role="note" class="note bottomnote"><a class="noteback" href="5#note50_">50. </a>Jacob <span class="sc">Burckhardt</span>, <i class="i">Considérations sur l’Histoire universelle</i>, Genève, Droz, 1965. (L’ouvrage date de 1868-1871.)</aside>
                       </div>
                     </section>
                   </article>
@@ -2046,92 +2191,92 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’unité de culture</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III La puissance ou la liberté</a>
                     </li>
                     <li class="here">
                       <a href="#">IV. Vers une fédération des régions</a>
                       <ul>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-1">39. Le siècle des nations ?</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-2">40. Nations en crise</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-3">41. Origines de l’État-nation</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-4">42. L’État-nation : un empire manqué</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-5">43. Trop petits et trop grands à la fois</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-6">44. Double dilemme</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-7">45. Une règle d’or du fédéralisme</a>
                         </li>
-                        <li>
-                          <a href="5#body-5-8">46. Invention de la région au <span class="num">xx<sup>e</sup></span> siècle</a>
+                        <li class="collateral">
+                          <a href="5#body-5-8">46. Invention de la région au<span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-9">47. Frontières effacées, régions libérées</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-10">48. Montée des régions</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-11">49. Des régions à la fédération</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-12">50. Mutations de pensée et de vocabulaire</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-13">51. Vers une politique des régions</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-14">52. Objections courantes</a>
                           <ul>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-14-1">Objections mythologiques ou prospectives</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-14-2">Objections tactiques</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-14-3">Résistances conditionnées par l’éducation stato-nationaliste</a>
                             </li>
-                            <li>
+                            <li class="collateral">
                               <a href="5#body-5-14-4">Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)</a>
                             </li>
                           </ul>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-15">53. La région n’est pas un État-nation en réduction</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-16">54. De la pluralité des allégeances</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-17">55. Vers une formule fédéraliste de l’État</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="5#body-5-18">56. Passage de l’Europe des mythes nationaux à l’Europe des réalités</a>
                         </li>
                       </ul>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
                   </ul>
@@ -2145,10 +2290,39 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
     <page path="/livres/ddr1970loe/6" name="Lettre ouverte, suite et fin" package="ddr1970loe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Lettre ouverte aux Européens (1970) Lettre ouverte, suite et fin</value>
+          <value>Lettre ouverte, suite et fin (1970, Lettre ouverte aux Européens)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Lettre ouverte aux Européens (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "Lettre ouverte, suite et fin"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -2157,7 +2331,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb197" id="pb197">[p. 197]</a>
                     <h1 class="head chapter">Lettre ouverte, suite et fin<a class="bookmark" href="6"> §</a></h1>
                     <p class="p autofirst">
@@ -2241,7 +2415,7 @@ Si l’on me dit maintenant que c’est une utopie que de vouloir dépasser l’
                         <div class="b note-page">
                           <a href="6#pb206">p. 206</a>
                         </div>
-                        <aside id="note51" class="note bottomnote"><a class="noteback" href="6#note51_">51. </a>Roger <span class="sc">D. Masters</span>, « La révolte des étudiants », in <i class="i">Preuves</i>, n° 215-216, Paris, 1969.</aside>
+                        <aside id="note51" role="note" class="note bottomnote"><a class="noteback" href="6#note51_">51. </a>Roger <span class="sc">D. Masters</span>, « La révolte des étudiants », in <i class="i">Preuves</i>, n° 215-216, Paris, 1969.</aside>
                       </div>
                     </section>
                   </article>
@@ -2258,19 +2432,19 @@ Si l’on me dit maintenant que c’est une utopie que de vouloir dépasser l’
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">I. L’unité de culture</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="4">III La puissance ou la liberté</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
                     </li>
                     <li class="here">

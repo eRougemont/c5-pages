@@ -4,10 +4,39 @@
     <page path="/livres/ddr1970udce/1" name="I. Pour une nouvelle définition du fédéralisme" package="ddr1970udce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Un et le Divers ou la Cité européenne (1970) I. Pour une nouvelle définition du fédéralisme</value>
+          <value>I. Pour une nouvelle définition du fédéralisme (1970, L’Un et le Divers ou la Cité européenne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Un et le Divers ou la Cité européenne (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970udce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "I. Pour une nouvelle définition du fédéralisme"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -16,7 +45,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb8" id="pb8">[p. 8]</a>
                     <h1 class="head chapter">I. Pour une nouvelle définition du fédéralisme<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a><a class="bookmark" href="1"> §</a></h1>
                     <p class="p autofirst">
@@ -133,25 +162,25 @@
                         <div class="b note-page">
                           <a href="1#pb8">p. 8</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Texte d’une communication à l’Académie des sciences morales et politiques, Paris, mars 1969.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="1#note1_">1. </a>Texte d’une communication à l’Académie des sciences morales et politiques, Paris, mars 1969.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb26">p. 26</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Pierre Duclos écrivait, en 1962, dans son excellent ouvrage en collaboration avec Henri Brugmans <i class="i">Le Fédéralisme contemporain</i> : « Le fédéralisme est présence au pouvoir global des éléments particuliers — demeurant distincts et reconnaissables — dont se compose la fédération. Il est une symbiose <i class="i">sans confusion ni disparition des spécificités. »</i></aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="1#note2_">2. </a>Pierre Duclos écrivait, en 1962, dans son excellent ouvrage en collaboration avec Henri Brugmans <i class="i">Le Fédéralisme contemporain</i> : « Le fédéralisme est présence au pouvoir global des éléments particuliers — demeurant distincts et reconnaissables — dont se compose la fédération. Il est une symbiose <i class="i">sans confusion ni disparition des spécificités. »</i></aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb35">p. 35</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>« <a href="../../../../../../Users/nicolas/Documents/Tout_est_la_13_09_2018/Rougemont2.0/rougemont2.0_ocerisation/articles/ddr193711rpar">Université et universalité</a> », <i class="i">Revue de Paris</i>, n° 11, novembre 1965, p. 1-13.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="1#note3_">3. </a>« <a href="../../../../../../Users/nicolas/Documents/Tout_est_la_13_09_2018/Rougemont2.0/rougemont2.0_ocerisation/articles/ddr193711rpar">Université et universalité</a> », <i class="i">Revue de Paris</i>, n° 11, novembre 1965, p. 1-13.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="1#pb37">p. 37</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a><span class="sc">H. Brugmans</span> et <span class="sc">P. Duclos</span>, <i class="i">Le Fédéralisme contemporain</i>, Paris, 1963, p. 151.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="1#note4_">4. </a><span class="sc">H. Brugmans</span> et <span class="sc">P. Duclos</span>, <i class="i">Le Fédéralisme contemporain</i>, Paris, 1963, p. 151.</aside>
                       </div>
                     </section>
                   </article>
@@ -171,7 +200,7 @@
                     <li class="here">
                       <a href="#">I. Pour une nouvelle définition du fédéralisme</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="2">II. La Cité européenne</a>
                     </li>
                   </ul>
@@ -185,10 +214,39 @@
     <page path="/livres/ddr1970udce/2" name="II. La Cité européenne" package="ddr1970udce" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
-          <value>Chapitre</value>
+          <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>L’Un et le Divers ou la Cité européenne (1970) II. La Cité européenne</value>
+          <value>II. La Cité européenne (1970, L’Un et le Divers ou la Cité européenne)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "L’Un et le Divers ou la Cité européenne (1970)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1970udce",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "II. La Cité européenne"
+  }]
+}
+          </value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -197,7 +255,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <article>
+                  <article role="article">
                     <a class="pb" href="#pb40" id="pb40">[p. 40]</a>
                     <h1 class="head chapter">II. La Cité européenne<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a><a class="bookmark" href="2"> §</a></h1>
                     <a class="pb" href="#pb41" id="pb41">[p. 41]</a>
@@ -312,7 +370,7 @@
                         <div class="b note-page">
                           <a href="2#pb40">p. 40</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Discours prononcé à l’université de Bonn, le 15 avril 1970, pour la réception du prix Robert Schumann décerné par la fondation FVS.</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="2#note5_">5. </a>Discours prononcé à l’université de Bonn, le 15 avril 1970, pour la réception du prix Robert Schumann décerné par la fondation FVS.</aside>
                       </div>
                     </section>
                   </article>
@@ -329,7 +387,7 @@
               <record>
                 <content><![CDATA[
                   <ul>
-                    <li>
+                    <li class="collateral">
                       <a href="1">I. Pour une nouvelle définition du fédéralisme</a>
                     </li>
                     <li class="here">
