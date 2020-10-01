@@ -65,10 +65,6 @@
     -->
     <xsl:variable name="name">
       <xsl:variable name="rich">
-        <xsl:if test="@n">
-          <xsl:value-of select="@n"/>
-          <xsl:text> </xsl:text>
-        </xsl:if>
         <xsl:apply-templates select="." mode="title"/>
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>

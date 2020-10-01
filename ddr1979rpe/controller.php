@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1979rpe';
-  protected $pkgVersion = '20.09.28';
+  protected $pkgVersion = '20.10.01';
   protected $title = 'Rapport au peuple européen sur l’état de l’union de l’Europe';
   protected $bookpath = '/livres/ddr1979rpe';
 

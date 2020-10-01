@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1961ctm';
-  protected $pkgVersion = '20.09.28';
+  protected $pkgVersion = '20.10.01';
   protected $title = 'Comme toi-même. Essais sur les mythes de l’amour';
   protected $bookpath = '/livres/ddr1961ctm';
 

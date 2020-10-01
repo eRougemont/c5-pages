@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1965shph';
-  protected $pkgVersion = '20.09.28';
+  protected $pkgVersion = '20.10.01';
   protected $title = 'La Suisse ou l’histoire d’un peuple heureux';
   protected $bookpath = '/livres/ddr1965shph';
 
