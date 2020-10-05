@@ -69,8 +69,7 @@
       </xsl:variable>
       <xsl:value-of select="normalize-space($rich)"/>
     </xsl:variable>
-    <xsl:variable name="title">
-      <xsl:value-of select="$name"/>
+    <xsl:variable name="booktitle">
       <xsl:text> (</xsl:text>
       <xsl:value-of select="$docdate"/>
       <xsl:text>, </xsl:text>
@@ -91,37 +90,11 @@
         -->
         <attributekey handle="meta_title">
           <value>
-            <xsl:value-of select="$title"/>
+            <xsl:value-of select="$name"/>
+            <xsl:value-of select="$booktitle"/>
           </value>
         </attributekey>
         <attributekey handle="meta_ld">
-          <!-- 
-Chapter n’est pas reconnu par Google
-{
-  "@context": "https://schema.org/",
-  "url": "https://www.unige.ch/rougemont/<xsl:value-of select="$bookpath"/>/<xsl:value-of select="$chapid"/>"
-  "@type": "Chapter",
-  "name": "<xsl:value-of select="$title"/>"
-  "breadcrumb": "Rougemont > Livres > <xsl:value-of select="$doctitle"/>",
-  "author": {
-    "@type": "Person",
-    "name": "<xsl:value-of select="$author1"/>"
-  },
-  "datePublished": "<xsl:value-of select="$docdate"/>",
-  "isPartOf": {
-    "@type": "Book",
-    "@id": "<xsl:value-of select="$bookpath"/>",
-    "url": "https://www.unige.ch/rougemont/<xsl:value-of select="$bookpath"/>",
-    "name": "<xsl:value-of select="$doctitle"/>",
-    "author": "<xsl:value-of select="$author1"/>",
-    "bookEdition": "<xsl:value-of select="/tei:TEI/tei:teiHeader[1]/tei:fileDesc[1]/tei:editionStmt[1]/tei:edition[1]"/>",
-    "datePublished": "<xsl:value-of select="$docdate"/>",
-    "inLanguage": "<xsl:value-of select="$lang"/>",
-    "license": "<xsl:value-of select="/tei:TEI/tei:teiHeader[1]/tei:fileDesc[1]/tei:publicationStmt[1]/tei:availability[1]/tei:licence[1]/@target"/>"
-  }
-  "isAccessibleForFree": "True"
-}
-          -->
           <value>
 {
   "@context": "https://schema.org/",
@@ -150,6 +123,33 @@ Chapter n’est pas reconnu par Google
 }
           </value>
         </attributekey>
+        <xsl:if test="tei:div">
+          <attributekey handle="meta_description">
+            <value>
+              <xsl:for-each select=".//tei:div">
+                <xsl:variable name="subhead">
+                  <xsl:call-template name="title"/>
+                </xsl:variable>
+                <xsl:value-of select="normalize-space($subhead)"/>
+                <xsl:if test="position() != last()"> – </xsl:if>
+              </xsl:for-each>
+            </value>
+          </attributekey>
+          <attributekey handle="subheads">
+            <value>
+              <xsl:for-each select=".//tei:div">
+                <xsl:variable name="subhead">
+                  <xsl:call-template name="title"/>
+                </xsl:variable>
+                <xsl:call-template name="id"/>
+                <xsl:value-of select="$tab"/>
+                <xsl:value-of select="normalize-space($subhead)"/>
+                <xsl:value-of select="$booktitle"/>
+                <xsl:value-of select="$lf"/>
+              </xsl:for-each>
+            </value>
+          </attributekey>
+        </xsl:if>
       </attributes>
       <area name="Main">
         <blocks>

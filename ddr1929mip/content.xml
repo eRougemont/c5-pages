@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
-                    <h1 class="head chapter">Avant-propos<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Avant-propos</h1>
                     <p class="p autofirst">Le dire une bonne fois.</p>
                     <p class="p">Il ne faut pas songer à décrire en 40 petites pages tous les méfaits de l’instruction publique. C’est à peine assez pour indiquer leur ordre de grandeur ; à quoi je me bornerai.</p>
                     <p class="p">Il a paru sur le sujet de l’instruction publique deux petits livres<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a> excellents dont je considère les thèses comme acquises : <i class="i">L’Éloge de l’ignorance</i>, de M. Abel Bonnard, et <i class="i">Le Pédagogue n’aime pas les enfants</i>, d’Henri Roorda. Le premier montre que la science apprise à l’école appauvrit l’homme de tout ce que son ignorance respectait, et ne lui donne à la place que des laideurs et de la prétention. L’autre, avec l’ironie tranquille du bon sens bafoué et qui s’en moque, décrit la stupidité de l’enseignement tel qu’il est pratiqué dans nos collèges.</p>
@@ -180,7 +180,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p10" id="p10">[p. 10]</a>
-                    <h1 class="head chapter">1. Mes prisons<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">1. Mes prisons</h1>
                     <p class="p autofirst">Il existe des gens qui s’attendrissent sur leurs souvenirs de classe. C’est qu’ils les confondent avec ceux de leur enfance et les font indûment participer de la même grâce. Voyez Péguy, quand il essaye de nous faire croire qu’« il n’y a rien au-dessus » de la tâche des instituteurs :</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Faire de ces belles analyses logiques, et grammaticales, où tout retombait droit… Et de ces beaux problèmes d’arithmétique où il fallait si soigneusement séparer les calculs du <i class="i">raisonnement</i>, par une barre verticale, et où il y avait toujours des robinets qui coulaient pour emplir ou pour vider un bassin (et souvent les deux), (pour emplir et vider ensemble), (drôle d’occupation), (<i class="i">après combien d’heures</i>…) ; et il y avait toujours des appartements à meubler. Et on multipliait le tapissier par le prix du mètre courant.</p>
@@ -312,7 +312,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p15" id="p15">[p. 15]</a>
-                    <h1 class="head chapter">2. Description du monstre<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">2. Description du monstre</h1>
                     <p class="p autofirst">Le service militaire me permit de retrouver quelques-unes de ces réalités. J’y retrouvai aussi plusieurs têtes connues d’anciens camarades d’école primaire. Comme ils avaient changé ! On s’entendait d’autant mieux qu’on était devenus plus différents. Car ces différences sont les premières marques de la vie vécue et l’on aime à y découvrir la seule fraternité véritable. Mais c’est en caserne aussi que je devais retrouver les instituteurs. Ceux-là n’avaient pas bougé. Et pour cause : ils n’étaient jamais sortis de l’école. Rien ne ressemble plus à un bon élève qu’un instituteur : de l’un à l’autre il n’y a pas de solution de continuité, la différence n’étant qu’une question d’âge, non d’expérience vécue.</p>
                     <p class="p">Ce que je vais dire est sans doute injuste et faux dans un très grand nombre de cas, mais pourquoi ai-je envie de le dire ? L’instituteur sous l’uniforme peut être défini par son incompréhension méthodique des hommes et son mépris pour les paysans. Qu’il soit officier ou troupier, on le reconnaît à une façon pédante d’être consciencieux, à une façon blessante d’être supérieur, à une façon livresque d’expliquer les choses, à une façon théorique de juger les êtres. Ces distributeurs automatiques (brevetés par le gouvernement) de la manne égalitaire — ne se prennent pas pour de la petite bière. Ils ont conscience d’appartenir à une élite responsable, cela se voit de loin. Il faut dire que ce ridicule n’échappe pas à ceux qu’ils méprisent le plus, et ils auraient souvent l’occasion de s’en douter s’ils étaient sensibles aux finesses de l’ironie paysanne.</p>
                     <p class="p">
@@ -416,6 +416,20 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>3.1. Le programme – 3.2. Les examens – 3.3. 3. L’égalitarisme des connaissances – 3.4. Le gavage – 3.5. La discipline – 3.6. La préparation civique – 3.7. L’idéal du bon élève – 3.8. Le dilemme</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	3.1. Le programme (1929, Les Méfaits de l’Instruction publique)
+body-4-2	3.2. Les examens (1929, Les Méfaits de l’Instruction publique)
+body-4-3	3.3. 3. L’égalitarisme des connaissances (1929, Les Méfaits de l’Instruction publique)
+body-4-4	3.4. Le gavage (1929, Les Méfaits de l’Instruction publique)
+body-4-5	3.5. La discipline (1929, Les Méfaits de l’Instruction publique)
+body-4-6	3.6. La préparation civique (1929, Les Méfaits de l’Instruction publique)
+body-4-7	3.7. L’idéal du bon élève (1929, Les Méfaits de l’Instruction publique)
+body-4-8	3.8. Le dilemme (1929, Les Méfaits de l’Instruction publique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -425,15 +439,15 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p19" id="p19">[p. 19]</a>
-                    <h1 class="head chapter">3. Anatomie du monstre<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">3. Anatomie du monstre</h1>
                     <p class="p autofirst">Ayant épanché un peu de ma rancune, à seule fin de montrer pour quelles raisons j’ai entrepris de combattre l’instruction publique — on ne me contestera pas ces raisons puisqu’elles me sont absolument personnelles et qu’elles ont la valeur d’un témoignage, ni plus ni moins — il est temps que je fasse passer un petit examen aux principes de cette institution passionnément détestée. Vous allez voir comme il bafouillent leur « par cœur non compris ».</p>
                     <p class="p">Aux yeux de beaucoup de gens, la passion est aveuglante : cela tient pour une bonne part à ce que ces personnes ont les yeux faibles. Il serait plus juste de dire que la passion n’a qu’une clairvoyance intéressée : mais celles-là sont les plus vives.</p>
                     <p class="p">Enfin, je tiens à reconnaître qu’ici je ne cherche point <i class="i">l’équité</i>. Pas plus que vous qui défendez de parti pris ce que j’attaque. L’esprit d’équité, avec son préjugé pacifiste n’est pas toujours l’esprit de vérité, il s’en faut. Or je ne suis pas de ceux qui subordonnent la vérité à la tranquillité bourgeoise. Je tiens le « gain de paix » pour illusoire : il consiste à repousser la difficulté dans l’avenir, d’une ou deux générations. Pendant ce temps elle s’aggrave, et nous voici avec l’héritage de cinquante ans de radicalisme sur les bras. L’écheveau est tellement embrouillé que déjà plusieurs proposent de trancher le nœud.</p>
                     <p class="p">Je me bornerai à l’examen des caractères les plus 
 <a class="pb" href="#p20" id="p20">[p. 20]</a>
  généraux de l’instruction publique, ceux que n’atteignent dans leur principe ni les réformes de détail ni les modalités locales de réalisations pratiques.</p>
-                    <section id="body-4-1" class="div level2 level2">
-                      <h2 class="head">1. Le programme<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                    <section id="body-4-1" class="div level2">
+                      <h2 class="head">Le programme</h2>
                       <p class="p autofirst">a) <i class="i">l’horaire</i> : c’est un cadre, ou plutôt un moule, dans lequel on verse les matières les plus hétéroclites, sans égard à leurs qualités propres. De 8 à 9 arithmétique ; de 9 à 10 composition, etc. Ces disciplines se succèdent sans transition, dans un ordre absolument fortuit, de manière à prévenir toute concentration de l’esprit.</p>
                       <p class="p">b) <i class="i">plan d’études</i>. On a divisé l’enseignement en branches bien distinctes. On attribue à chacune un certain nombre d’heures par semaines, au jugé. On s’arrange à faire tenir dans cette classification le plus possible de « connaissances » qui dès lors deviennent obligatoires. La somme et l’arrangement des parties doivent être identiques pour tous les écoliers. Ce plan régit les huit années réglementaires de la scolarité, et englobe la totalité de la science nécessaire à tout citoyen, dans une vue aussi large que simplifiée.</p>
                       <p class="p">Remarquons qu’il suffit pour établir ce programme de disposer d’une ou deux feuilles de papier, d’un crayon et d’une règle (pour diviser la page en casiers rectangulaires, bien proprement.) Évidemment, il est préférable de savoir aussi les noms des sciences élémentaires. Mais il n’est en aucune façon nécessaire de connaître la psychologie des enfants, ni même le contenu des sciences dont on écrit les noms dans les casiers. Est-ce que l’étude du trapézoïde est particulièrement indiquée pour préparer les élèves à une composition française ? Question oiseuse et saugrenue, — naïve.</p>
@@ -444,8 +458,8 @@
                       <p class="p">— Mais on fausse l’esprit de ces enfants…</p>
                       <p class="p">— Mais on nous paye, et ils n’en meurent pas.</p>
                     </section>
-                    <section id="body-4-2" class="div level2 level2">
-                      <h2 class="head">2. Les examens<a class="bookmark" href="4#body-4-2"> §</a></h2>
+                    <section id="body-4-2" class="div level2">
+                      <h2 class="head">Les examens</h2>
                       <p class="p autofirst">Ce sont en principe des « contrôles » comparables à ceux que l’on établit lors des grandes épreuves cyclistes. Les participants du Tour de Science doivent s’inscrire au terme de chaque trimestre. Ceux qui arrivent après la clôture ont à refaire l’étape. On obtient par ce moyen un peloton homogène, facile à surveiller.</p>
                       <p class="p">Mais en matière de sport, la tricherie est difficile, tandis qu’à l’école elle est de règle. Car la qualité et la quantité des réponses « fournies » par le prévenu (l’élève examiné) n’a qu’un lointain rapport avec la qualité et la quantité des efforts « fournis » au cours du trimestre. Ce phénomène déconcertant s’explique justement par cette psychologie de l’enfant dont je disais tout à l’heure que la connaissance n’est pas exigée de ceux qui établissent les programmes et les examens.</p>
                       <p class="p">« Les examens faussent complètement l’esprit de l’enseignement », lit-on jusque sous la plume de divers maîtres primaires et secondaires.</p>
@@ -453,8 +467,8 @@
 <a class="pb" href="#p22" id="p22">[p. 22]</a>
  subordonne tout, plaisir, goût au travail, qualité du travail, santé, liberté, sens de la justice et autres balivernes, instruction véritable et autres plaisanteries de gros calibre, car à la vérité ce n’est pas d’enseigner qu’il s’agit, mais de soumettre les esprits au contrôle de l’État, voyons donc, — n’avez-vous pas honte de vous faire rappeler sans cesse des vérités aussi élémentaires.</p>
                     </section>
-                    <section id="body-4-3" class="div level2 level2">
-                      <h2 class="head">3. L’égalitarisme des connaissances<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                    <section id="body-4-3" class="div level2">
+                      <h2 class="head">3. L’égalitarisme des connaissances</h2>
                       <p class="p autofirst">De l’existence des programmes, qui est un fait, et de l’existence de la Démocratie, qui est une prétention (réservons le mot d’idéal), découle cette exigence théorique : tous les enfants doivent à tout instant être en mesure 1° d’ingurgiter la même quantité de « matière » ; 2° d’en rendre compte de la même façon, dans le même temps.</p>
                       <p class="p">Contentons-nous de remarquer que ce principe est à la base du système ; qui repose donc sur une tranquille méconnaissance de la nature humaine. L’histoire enregistre bien une ou deux autres bêtises de cette épaisseur, mais il faut reconnaître que jamais on n’avait songé à leur donner une extension universelle et un caractère obligatoire.</p>
                       <p class="p">L’école exige donc que les meilleurs ralentissent et que les plus faibles se forcent. Elle ne convient qu’aux médiocres, dont elle assure le triomphe.</p>
@@ -462,23 +476,23 @@
 <a class="pb" href="#p23" id="p23">[p. 23]</a>
  crime quotidien, et se félicitent du régime des lumières et des compteurs à gaz. Mais ils se fâchent tout rouge quand on leur dit que la Suisse est caractérisée, aux yeux de l’étranger impartial, par sa culture intensive et extensive des veaux et des médiocres.</p>
                     </section>
-                    <section id="body-4-4" class="div level2 level2">
-                      <h2 class="head">4. Le gavage<a class="bookmark" href="4#body-4-4"> §</a></h2>
+                    <section id="body-4-4" class="div level2">
+                      <h2 class="head">Le gavage</h2>
                       <p class="p autofirst">Moyen de réaliser les précédents. Plus ou moins rationalisé. Son instrument le plus parfait s’appelle le <i class="i">manuel</i>. Un bon manuel est un résumé clair et portatif des résultats actuels d’une science.</p>
                       <p class="p">Le bon sens voudrait qu’on étudie d’abord la science dans sa réalité, puis qu’on se réfère au résumé comme à un aide-mémoire. Mais l’école veut qu’on commence par apprendre le résumé. D’ailleurs elle s’arrête là.</p>
                       <p class="p">Les manuels ne correspondent à aucune réalité. Ils ne renferment rien qui soit de première main, rien qui soit authentique. Ils négligent toutes les particularités, toutes les « prises » où pourrait s’accrocher l’intérêt. Ils dispensent de tout contact direct avec ce dont ils traitent. Or la valeur éducative des choses n’apparaît qu’à celui qui entre en commerce intime avec elles. On apprend plus de deux que de mille, dit un sage oriental dont j’ai oublié le nom.</p>
                       <p class="p">Une autre conséquence du gavage, c’est qu’on ne peut laisser aux élèves le temps qu’il faut pour assimiler ce qu’ils apprennent. Ils sont <i class="i">forcés</i> de gâcher leur travail. Or ce travail n’a qu’une valeur <i class="i">éducatrice</i> : s’il n’est pas modèle, il est absurde. Mais où sont à l’école les modèles de ce qu’on nommait autrefois la belle ouvrage ? On va supprimer les leçons de calligraphie.</p>
                     </section>
-                    <section id="body-4-5" class="div level2 level2">
-                      <h2 class="head">5. La discipline<a class="bookmark" href="4#body-4-5"> §</a></h2>
+                    <section id="body-4-5" class="div level2">
+                      <h2 class="head">La discipline</h2>
                       <p class="p autofirst">On conçoit que la réalisation d’un programme entièrement contre nature exige une discipline sévère. D’où notre conception pénitentiaire de l’école.</p>
                       <p class="p">
 <a class="pb" href="#p24" id="p24">[p. 24]</a>
  Mais, s’il est des disciplines qui renforcent, il en est d’autres qui amoindrissent. La discipline scolaire consiste à faire tenir les enfants immobiles et muets 6 heures par jour durant 8 ans. Il paraît que cela facilite le travail du maître. Il se peut. Tout dépend de ce qu’on attend de ce travail. Je doute qu’il soit de nature à légitimer l’énormité de l’effort qu’on demande à ces petits. Là encore il y a une exagération absurde, une généralisation si schématique et superficielle que la discipline perd tout son sens éducatif et n’est plus qu’une entrave énervante, un système de vexations mesquines, propres à étouffer toute spontanéité chez un peuple qui vraiment ne péchait point par l’excès de cette vertu.</p>
                       <p class="p">La discipline primaire forme des gobeurs et des inertes, fournit des moutons aux partis et prédispose les citoyens suisses à prendre au sérieux les innombrables <i class="i">défense de</i>, petites crottes noires et blanches qui marquent un peu partout le passage de l’État, et dont la vue permet à ceux qui tombent du ciel sur notre sol de s’écrier sans hésiter : « Liberté, liberté chérie, voilà bien ta patrie. »</p>
                     </section>
-                    <section id="body-4-6" class="div level2 level2">
-                      <h2 class="head">6. La préparation civique<a class="bookmark" href="4#body-4-6"> §</a></h2>
+                    <section id="body-4-6" class="div level2">
+                      <h2 class="head">La préparation civique</h2>
                       <p class="p autofirst">Tous les pontifes de l’instruction publique sont d’accord sur ce point : l’école primaire doit être une école de Démocratie. Ils insistent sur le fait que les leçons d’instruction civique sont insuffisantes pour former le petit citoyen : il faut que l’enseignement tout entier soit occasion de développer les vertus sociales de l’élève. « Une classe est une société en miniature. »</p>
                       <p class="p">Ceci est une énorme bourde. Juxtaposez trente enfants sur les bancs d’une salle d’école, vous n’aurez rien qui ressemble en quoi que ce soit à aucun état social existant. Ce qui est vrai, c’est que le fait, absolument nouveau dans 
 <a class="pb" href="#p25" id="p25">[p. 25]</a>
@@ -488,8 +502,8 @@
                       <p class="p">Je ne parle pas des manuels d’histoire, dont il est aujourd’hui démontré qu’ils donnent une image mensongère de l’ancienne Suisse, à l’usage du peuple souverain qui ne manque pas d’en être flatté.</p>
                       <p class="p">Et puis, quelle est cette préparation à la vie qui commence par nous soustraire à l’influence de la vie ? Quelle est cette éducation sociale qui enlève l’enfant à la famille ?<a class="noteref" href="4#note5" id="note5_"><sup>5</sup></a> Quel est cet instrument de perfectionnement civique qui assure l’écrasement des plus délicats par les plus vulgaires ?</p>
                     </section>
-                    <section id="body-4-7" class="div level2 level2">
-                      <h2 class="head">7. L’idéal du bon élève<a class="bookmark" href="4#body-4-7"> §</a></h2>
+                    <section id="body-4-7" class="div level2">
+                      <h2 class="head">L’idéal du bon élève</h2>
                       <p class="p autofirst">Le bon sens voudrait que le bon élève soit celui qui sait utiliser pour son profit humain la petite somme de 
 <a class="pb" href="#p26" id="p26">[p. 26]</a>
  connaissances indispensables qu’on lui donne à l’école. (Cet argent de poche, ni plus ni moins.) Ou encore : que le bon élève soit celui qui supporte le mieux le traitement scolaire ; celui dont la valeur humaine subsiste intacte au milieu des conditions anormales créées par l’école publique. Mais l’idéal de l’école est autre ; il est même tout contraire. On ne peut pas exiger qu’il soit tout de noblesse, de vertu et de grandeur. Mais on peut s’étonner de voir qu’il n’est que ridicule et mesquinerie. Il y a là une préméditation de médiocrité que je ne puis m’empêcher de trouver suspecte.</p>
@@ -499,8 +513,8 @@
                       <p class="p">On m’objectera sans doute quelques « brillantes carrières » fournies par d’ex-forts-en-thème, voire par d’ex-instituteurs. À la vérité, il s’agit de réussites qui, pour avoir enivré l’espoir et enflammé l’ambition d’un grand nombre de régents, ne laissent pas que d’être assez spéciales. Il arrive en effet que nos petits futurs grrrands citoyens ayant accompli de « fortes études primaires et secondaires » (témoignage suffisant de leurs aptitudes à la compromission sociale établie) et cueilli au passage un grade universitaire, prennent leur essor de chérubins du parti au cours de ces nombreux banquets de cercles locaux où se fondent les réputations, où se « baptisent » les hommes d’avenir. Un jour on voit s’étaler en première page des illustrés la face épanouie quoique énergique d’un de ces coqs de village qu’on vient de jucher sur la flèche de l’édifice administratif. Et c’est ce qui s’appelle une belle carrière.</p>
                       <p class="p">Mais ces brillants météores ne troublent pas beaucoup ma superstition, par ailleurs fort grande. Tous ceux qui ont eu l’occasion de comparer les bons élèves de diverses classes d’un collège ont été frappés de constater que la force et l’originalité de leur jugement sont en raison inverse du nombre d’années d’instruction publique qu’ils ont subies.</p>
                     </section>
-                    <section id="body-4-8" class="div level2 level2">
-                      <h2 class="head">Le dilemme<a class="bookmark" href="4#body-4-8"> §</a></h2>
+                    <section id="body-4-8" class="div level2">
+                      <h2 class="head">Le dilemme</h2>
                       <p class="p autofirst">J’ai indiqué que les principes de l’instruction publique ne coïncident qu’accidentellement avec ceux du bon sens. Je m’en tiendrai là, renonçant pour cette fois à démontrer, ce qui serait facile, qu’ils constituent une inversion méthodique de toutes les lois divines et humaines. C’est-à-dire : <span class="sc">une méthode d’abâtardissement de la race</span>.</p>
                       <p class="p">D’autre part, il est aisé de voir que tous ces principes dérivent <i class="i">nécessairement</i> du fait que l’école est publique, obligatoire, et soumise au contrôle de l’État.</p>
                       <p class="p">
@@ -557,28 +571,28 @@
                       <a href="#">3. Anatomie du monstre</a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-4-1">1. Le programme</a>
+                          <a href="4#body-4-1">3.1. Le programme</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-2">2. Les examens</a>
+                          <a href="4#body-4-2">3.2. Les examens</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-3">3. L’égalitarisme des connaissances</a>
+                          <a href="4#body-4-3">3.3. 3. L’égalitarisme des connaissances</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-4">4. Le gavage</a>
+                          <a href="4#body-4-4">3.4. Le gavage</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-5">5. La discipline</a>
+                          <a href="4#body-4-5">3.5. La discipline</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-6">6. La préparation civique</a>
+                          <a href="4#body-4-6">3.6. La préparation civique</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-7">7. L’idéal du bon élève</a>
+                          <a href="4#body-4-7">3.7. L’idéal du bon élève</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-8">Le dilemme</a>
+                          <a href="4#body-4-8">3.8. Le dilemme</a>
                         </li>
                       </ul>
                     </li>
@@ -651,7 +665,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p29" id="p29">[p. 29]</a>
-                    <h1 class="head chapter">4. L’illusion réformiste<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">4. L’illusion réformiste</h1>
                     <p class="p autofirst">Bien entendu, tout cela a été dit. (Un peu autrement, j’en conviens.) On n’a pas attendu ma colère pour entreprendre ce travail de démolition. Il suffit pour s’en convaincre de parcourir l’abondante littérature publiée sur le « problème de l’<i class="i">école nouvelle</i> ».</p>
                     <p class="p">On appelle école nouvelle tout établissement où l’on s’efforce d’enseigner selon des principes tirés de l’observation des enfants, c’est-à-dire : en contradiction sur toute la ligne avec l’enseignement officiel.</p>
                     <p class="p">Les promoteurs de ces mouvements tentent la gageure de réformer l’école primaire sans toucher au principe de l’instruction publique.</p>
@@ -781,7 +795,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p33" id="p33">[p. 33]</a>
-                    <h1 class="head chapter">5. La machine à fabriquer des électeurs<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">5. La machine à fabriquer des électeurs</h1>
                     <p class="p autofirst">Je crois à l’absurdité de <i class="i">fait</i> de l’instruction publique. Je crois aussi qu’on ne peut réformer l’absurde. Je demande seulement qu’on m’explique pourquoi il triomphe et se perpétue ; de quel <i class="i">droit</i> il nous écrase.</p>
                     <p class="p">La réponse est simple, terriblement simple : du droit de la Démocratie.</p>
                     <p class="p">L’instruction publique et la Démocratie sont sœurs siamoises. Elles sont nées en même temps. Elles ont cru et embelli d’un même mouvement. Morigéner l’une c’est faire pleurer l’autre. Écouter ce que dit l’une, c’est savoir ce que l’autre pense. Elles ne mourront qu’ensemble. Il n’y aura qu’une oraison. Laïque.</p>
@@ -910,7 +924,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p37" id="p37">[p. 37]</a>
-                    <h1 class="head chapter">6. La trahison de l’Instruction publique<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">6. La trahison de l’Instruction publique</h1>
                     <p class="p autofirst">(Ici, le procureur prit un ton plus grave.)</p>
                     <p class="p">L’école s’est vendue à des intérêts politiques. C’était là, nous venons de le voir, son unique moyen de parvenir. Elle participe donc sur une vaste échelle à cette « Trahison des clercs » décrite par M. Julien Benda. Notre époque paiera cher ce crime contre la civilisation. Elle ne croit plus qu’au péché contre les lois sociales, eh bien ! elle apprendra que le seul péché qui n’a pas de pardon c’est le péché contre l’Esprit. Aujourd’hui qu’il suffit d’un peu de bon sens et d’information pour jouer au prophète, on nous promet de tous côtés de belles catastrophes. Je suis de ceux qui s’en réjouissent mauvaisement. (« C’est bien fait. C’était trop laid ».)</p>
                     <p class="p">À peine capable de nous instruire, l’École prétend ouvertement nous éduquer. D’ailleurs elle y est obligée dans la mesure où elle réalise son ambition : soustraire les enfants à l’Église et à la famille.</p>
@@ -1021,7 +1035,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p40" id="p40">[p. 40]</a>
-                    <h1 class="head chapter">7. L’Instruction publique contre le progrès<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head chapter">7. L’Instruction publique contre le progrès</h1>
                     <p class="p autofirst">Un beau titre. Et qui a meilleure façon que le reste, pensez-vous. Il faut avouer qu’avec ce je ne sais quoi de déclamatoire, de… journalistique, de bedonnant creux, cela vous a un petit air démocratique, hé ! hé !… et d’ailleurs vous aimez les idées généreuses, n’est-ce pas ? J’en étais sûr.</p>
                     <p class="p">Cependant j’ai peur que mon progrès ne soit pas le vôtre, et même que sa nature ne l’entraîne dans une direction tout opposée.</p>
                     <p class="p">C’est très malin d’avoir inventé un instrument de progrès : encore faut-il le mettre en marche. Et où le conduire ? Il y a beaucoup de routes, mais vous n’aimez pas le risque, vous préférez le sur-place. Ainsi l’instruction publique s’est arrêtée aux environs de 1880 et depuis lors n’a guère bougé. Le moteur n’en continue pas moins de consommer, de ronfler et de tout empester. Et peu à peu le public s’aperçoit que « l’instrument de progrès » n’est qu’un camouflage à l’abri duquel on distille du radicalisme intégral. On me fera observer que beaucoup des servants de la machine sont socialistes : voilà qui ne change pas le rendement, j’imagine, ni la nature des produits excrétés.</p>
@@ -1150,7 +1164,7 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
               <record>
                 <content><![CDATA[
                   <article role="article">
-                    <h1 class="head chapter">Appendice. Utopie<a class="bookmark" href="9"> §</a></h1>
+                    <h1 class="head chapter">Appendice. Utopie</h1>
                     <p class="p autofirst">Un os à la meute.</p>
                     <p class="p">(Et figurez-vous que j’ai la ferme intention de vous faire rigoler, si cela peut vous rassurer quant à ma santé mentale.)</p>
                     <p class="p">La question est de savoir si nous serons des hommes de chair et d’esprit, ou des pantins articulés. (Qui tiendra les ficelles, peu importe.)</p>
@@ -1184,28 +1198,18 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
                     <p class="p">Cependant, je ne crois pas qu’il soit bon que tous progressent de la même manière. Dans un système de culture spirituelle, les différences s’accuseraient, mais se légitimeraient du même coup ; car sur ce plan elles ne font que traduire la diversité des besoins individuels.</p>
                     <p class="p">Méditez un peu ces truismes : On apprend plus d’une chose longuement contemplée que de mille aperçues au passage. <i class="i">Ab uno disce omnes</i>. Une minute de concentration intense dégage dans l’individu plus d’énergie que des heures d’exercices gémissants. De même, le bien supérieur de quelques-uns est plus utile à tous que le bien médiocre de beaucoup. La valeur vaut mieux que le nombre parce qu’elle le contient en puissance. Et c’est pourquoi l’aristocratie de l’esprit est nécessaire au bien public.</p>
                     <p class="p">Certains proposent en rougissant de leur hardiesse quelque chose comme l’instruction privée : et moi je la voudrais secrète. Vous verrez bien. Cela se fera sans vous. Déjà revient le temps des mages : ils comprennent les théories d’Einstein, ils composent de la poésie pure, ils mesurent des sensibilités secondes et tout un arc-en-ciel de sentiments dont les accords imitent la blancheur éclatante de l’amour… Que dirons-nous ?… Par la force des choses et de l’Esprit, l’homme sera-t-il sauvé de sa folie démocratique ?</p>
-                    <p class="p"> </p>
-                    <p class="p autofirst right">
-                      <i class="i">AREUSE, 26 décembre 1928 — 10 janvier 1929.</i>
-                    </p>
-                    <p class="p"> </p>
-                    <section id="body-9-1" class="div level2 level2">
-                      <a class="pb" href="#p51" id="p51">[p. 51]</a>
-                      <h2 class="head">NOTE A<a class="bookmark" href="9#body-9-1"> §</a></h2>
-                      <p class="p autofirst">On est toujours tenté d’attribuer à ses adversaires des intentions noires et consciemment criminelles. Ce travers a été développé jusqu’au ridicule par la démocratie. Les journaux, les cercles, les coulisses de parlements et autres potinières ne vivent que de semblables accusations. Du moment que n’importe qui juge et contrôle n’importe quoi, il faut bien inventer des dessous pour redonner quelque saveur à ses jugements.</p>
-                      <p class="p">C’est pourquoi l’on ne peut plus attaquer un fonctionnaire dans son activité publique sans que des personnes bien intentionnées viennent vous dire : « Mais Monsieur, M. Machin que vous attaquez est pourtant un très brave homme, il fait partie du conseil de la paroisse, etc. » — Il semble qu’en attaquant ses idées et leurs réalisations ont ait porté atteinte à la dignité morale de ce M. Machin, membre du conseil de paroisse.</p>
-                      <p class="p">Je préciserai donc : je tiens l’École pour criminelle. Mais je ne tiens pas tous les instituteurs pour gibier de potence. Ils font beaucoup de mal, mais ils sont les premières victimes du système qu’il propagent et qui les fait vivre. La question se complique dès que l’instituteur prend conscience de la nocivité de son action…</p>
-                      <p class="p">Ils sont consciencieux, certes, mais sont-ils dans la même mesure conscients des fins qu’on assigne à leur activité ?</p>
-                      <p class="p">Un peu de rigueur dans la pensée empêcherait souvent des catastrophes que beaucoup de rigueur morale ne saurait même pas prévoir.</p>
-                    </section>
-                    <section id="body-9-2" class="div level2 level2">
-                      <h2 class="head">NOTE B<a class="bookmark" href="9#body-9-2"> §</a></h2>
-                      <p class="p autofirst">La culture de notre sensibilité nous aiderait à retrouver l’accord avec l’ordre naturel. La culture de notre force de pensée nous rendrait une liberté sans laquelle nos efforts resteront vains pour instaurer cette nouvelle attitude de l’âme. Mais ces méthodes ne prendraient tout leur sens et toute leur efficace que dans un système religieux. Pour quiconque a une foi et la conscience de cette foi, il n’est d’enseignement véritable que religieux. Mais les questions confessionnelles enrayent et faussent tout. Imaginez une culture spirituelle indépendante de toute destination religieuse particulière. On peut faire des haltères et rester pacifiste.</p>
-                    </section>
-                    <section id="body-9-3" class="div level2 level2">
-                      <h2 class="head">NOTE C<a class="bookmark" href="9#body-9-3"> §</a></h2>
-                      <p class="p autofirst">Vous parlez de la grande vulgarité de mes attaques. Ce qui est vulgaire, au plein sens du mot, c’est le genre distingué de la bourgeoisie qui se monte le cou.</p>
-                    </section>
+                    <div class="dateline">AREUSE, 26 décembre 1928 — 10 janvier 1929.</div>
+                    <a class="pb" href="#p51" id="p51">[p. 51]</a>
+                    <p class="label">NOTE A</p>
+                    <p class="p autofirst">On est toujours tenté d’attribuer à ses adversaires des intentions noires et consciemment criminelles. Ce travers a été développé jusqu’au ridicule par la démocratie. Les journaux, les cercles, les coulisses de parlements et autres potinières ne vivent que de semblables accusations. Du moment que n’importe qui juge et contrôle n’importe quoi, il faut bien inventer des dessous pour redonner quelque saveur à ses jugements.</p>
+                    <p class="p">C’est pourquoi l’on ne peut plus attaquer un fonctionnaire dans son activité publique sans que des personnes bien intentionnées viennent vous dire : « Mais Monsieur, M. Machin que vous attaquez est pourtant un très brave homme, il fait partie du conseil de la paroisse, etc. » — Il semble qu’en attaquant ses idées et leurs réalisations ont ait porté atteinte à la dignité morale de ce M. Machin, membre du conseil de paroisse.</p>
+                    <p class="p">Je préciserai donc : je tiens l’École pour criminelle. Mais je ne tiens pas tous les instituteurs pour gibier de potence. Ils font beaucoup de mal, mais ils sont les premières victimes du système qu’il propagent et qui les fait vivre. La question se complique dès que l’instituteur prend conscience de la nocivité de son action…</p>
+                    <p class="p">Ils sont consciencieux, certes, mais sont-ils dans la même mesure conscients des fins qu’on assigne à leur activité ?</p>
+                    <p class="p">Un peu de rigueur dans la pensée empêcherait souvent des catastrophes que beaucoup de rigueur morale ne saurait même pas prévoir.</p>
+                    <p class="label">NOTE B</p>
+                    <p class="p autofirst">La culture de notre sensibilité nous aiderait à retrouver l’accord avec l’ordre naturel. La culture de notre force de pensée nous rendrait une liberté sans laquelle nos efforts resteront vains pour instaurer cette nouvelle attitude de l’âme. Mais ces méthodes ne prendraient tout leur sens et toute leur efficace que dans un système religieux. Pour quiconque a une foi et la conscience de cette foi, il n’est d’enseignement véritable que religieux. Mais les questions confessionnelles enrayent et faussent tout. Imaginez une culture spirituelle indépendante de toute destination religieuse particulière. On peut faire des haltères et rester pacifiste.</p>
+                    <p class="label">NOTE C</p>
+                    <p class="p autofirst">Vous parlez de la grande vulgarité de mes attaques. Ce qui est vulgaire, au plein sens du mot, c’est le genre distingué de la bourgeoisie qui se monte le cou.</p>
                     <section class="footnotes">
                       <div class="page">
                         <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="9#note13_">13. </a>Économistes et philosophes : ces Messieurs n’apparaissent ici que pour impressionner le public. Je n’ai pas besoin de leurs <i class="i">attendus</i> pour juger.</aside>
@@ -1269,17 +1273,6 @@ L’instruction publique est la forme la plus commune de la peste rationaliste q
                     </li>
                     <li class="here">
                       <a href="#">Appendice. Utopie</a>
-                      <ul>
-                        <li class="collateral">
-                          <a href="9#body-9-1">NOTE A</a>
-                        </li>
-                        <li class="collateral">
-                          <a href="9#body-9-2">NOTE B</a>
-                        </li>
-                        <li class="collateral">
-                          <a href="9#body-9-3">NOTE C</a>
-                        </li>
-                      </ul>
                     </li>
                   </ul>
                 ]]></content>

@@ -38,6 +38,21 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.1.a. Qu’est-ce qu’un problème ? – I.1.b. Multitude des problèmes – I.1.c. Moment de la révolution – I.1.d. Critiquer pour construire – I.1.e. Insuffisance de nos refus – I.1.f. Parti pris de ce livre – I.1.g. Décadence ou abaissement ? – I.1.h. D’un symptôme de décadence – I.1.i. Importance des « questions de mots »</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-1-1-1	I.1.a. Qu’est-ce qu’un problème ? (1936, Penser avec les mains)
+body-1-1-2	I.1.b. Multitude des problèmes (1936, Penser avec les mains)
+body-1-1-3	I.1.c. Moment de la révolution (1936, Penser avec les mains)
+body-1-1-4	I.1.d. Critiquer pour construire (1936, Penser avec les mains)
+body-1-1-5	I.1.e. Insuffisance de nos refus (1936, Penser avec les mains)
+body-1-1-6	I.1.f. Parti pris de ce livre (1936, Penser avec les mains)
+body-1-1-7	I.1.g. Décadence ou abaissement ? (1936, Penser avec les mains)
+body-1-1-8	I.1.h. D’un symptôme de décadence (1936, Penser avec les mains)
+body-1-1-9	I.1.i. Importance des « questions de mots » (1936, Penser avec les mains)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -48,9 +63,9 @@
                   <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head kicker chapter">I</h1>
-                    <h1 class="head chapter">Le problème de la culture<a class="bookmark" href="1"> §</a></h1>
-                    <section id="body-1-1-1" class="div level3 level2">
-                      <h2 class="head">Qu’est-ce qu’un problème ?<a class="bookmark" href="1#body-1-1-1"> §</a></h2>
+                    <h1 class="head chapter">Le problème de la culture</h1>
+                    <section id="body-1-1-1" class="div level2">
+                      <h2 class="head">Qu’est-ce qu’un problème ?</h2>
                       <p class="p autofirst">Je me propose d’envisager dans cet ouvrage le problème de la culture.</p>
                       <p class="p">Lorsque l’on entreprend de lire un livre qui traite d’un « problème » précis, il est prudent de se demander d’abord si vraiment ce problème se pose — ou si l’auteur tout simplement s’est amusé à le poser. Il ne serait pas mauvais non plus de savoir si l’on cherche, en lisant, un passe-temps, un vertige ou une <i class="i">réponse</i>. Mais l’invention de l’imprimerie a multiplié les problèmes dans une telle proportion qu’il n’est pas raisonnable d’espérer qu’un lecteur d’aujourd’hui soit bien au clair sur ses besoins quand il entre chez son libraire pour acheter « le livre dont on parle ». Et voilà, par exemple, une situation qui nous pose un problème réel ! Mais après tout, qu’est-ce qu’un problème ?</p>
                       <p class="p">Est-il sûr que tout le monde le sache bien, et 
@@ -60,8 +75,8 @@
                       <p class="p">Pour le croyant, Dieu n’est pas un problème, ni la solution d’un problème, mais il est la présence réelle qu’on connaît avec assurance dès l’instant qu’on lui obéit. C’est lorsque la foi disparaît que le problème de Dieu se pose — éternellement insoluble. Ou bien Dieu est présent, et c’est un ordre souverain ; ou bien il se retire, et devient un problème.</p>
                       <p class="p"><i class="i">Problème</i> signifie donc absence, recherche anxieuse d’une réalité qui se dérobe et qui ne commande plus rien à l’homme.</p>
                     </section>
-                    <section id="body-1-1-2" class="div level3 level2">
-                      <h2 class="head">Multitude des problèmes<a class="bookmark" href="1#body-1-1-2"> §</a></h2>
+                    <section id="body-1-1-2" class="div level2">
+                      <h2 class="head">Multitude des problèmes</h2>
                       <p class="p autofirst">Les choses humaines ne comportent pas cette alternative absolue. Ni totalement souveraines, ni totalement problématiques, même au faîte de leur pouvoir, même au comble de leur présence, quand elles font leur plein dans nos vies, elles laissent toujours une petite place à notre doute, à nos questions, à notre sentiment privé. Il ne faut donc pas s’étonner de la multitude des problèmes que nous sommes en état de poser, sinon de résoudre du tout. (Mais la vie ne s’arrête pas pour si peu.) La nature des choses humaines permet qu’au sein de l’ordre le plus ferme, notre esprit trouve lieu de s’ébattre autour des forces et des faits qui l’animent, et qui le soutiennent. Nous avons tout loisir de jouer le jeu de grandes questions métaphysiques sans ébranler l’autorité spirituelle ou politique qui nous commande — tant qu’elle nous commande vraiment.</p>
                       <p class="p">
 <a class="pb" href="#p9" id="p9">[p. 9]</a>
@@ -69,22 +84,22 @@
                       <p class="p">Ce renversement d’équilibre n’est pas facile à définir, ni surtout à localiser. Il me semble qu’il est d’abord éprouvé par le sentiment, comme une espèce de tragique dont on distingue mal les causes, la naissance, et l’ampleur véritable. Ainsi la nuit surprend les hommes, ainsi les crises et les paniques s’installent. Métamorphose imperceptible au plus grand nombre, qui n’en perçoit que les effets, quand c’est trop tard. Il ne s’agit que d’un plus ou d’un moins, d’un glissement de la confiance à la méfiance, mais bien des choses et bien des actes en dépendent.</p>
                       <p class="p">Entre autres, la révolution.</p>
                     </section>
-                    <section id="body-1-1-3" class="div level3 level2">
-                      <h2 class="head">Moment de la révolution<a class="bookmark" href="1#body-1-1-3"> §</a></h2>
+                    <section id="body-1-1-3" class="div level2">
+                      <h2 class="head">Moment de la révolution</h2>
                       <p class="p autofirst">On abuse pas mal de ce mot, trop souvent et trop aisément défini comme une utopie. Je ne veux en garder ici que le sens le plus général, celui de changement d’autorité. Et pour marquer le point de la durée où sa réalité entre en vigueur, 
 <a class="pb" href="#p10" id="p10">[p. 10]</a>
  je me borne à constater ceci : la révolution est ouverte quand se pose soudain la question du uhlan de la guerre de Bohême : il s’arrête au milieu de la campagne et demande : « De quoi s’agit-il ? » Or, c’était justement la question qu’on avait décidé de ne pas poser, en vertu de cette confiance sans laquelle on ne peut gouverner. Qu’un homme en vienne à poser cette question, c’est que la confiance a cessé de régner. Et c’est le signe indubitable d’une décadence des lieux communs qui jusqu’alors avaient régi l’action.</p>
                       <p class="p">Quand la masse des problèmes qui se posent se révèle soudain <i class="i">plus</i> pesante que les forces qui sont encore vives dans l’ordre social par exemple, les chances et la nécessité d’une révolution se font jour. Et c’est pourquoi le simple fait qu’un problème se pose, et qu’on l’avoue, est souvent beaucoup plus important que les solutions qu’on lui propose. Ainsi le problème de la culture. (Quelqu’un demande : <i class="i">à quoi sert-elle</i> ? et déjà la crise est ouverte.)</p>
                     </section>
-                    <section id="body-1-1-4" class="div level3 level2">
-                      <h2 class="head">Critiquer pour construire<a class="bookmark" href="1#body-1-1-4"> §</a></h2>
+                    <section id="body-1-1-4" class="div level2">
+                      <h2 class="head">Critiquer pour construire</h2>
                       <p class="p autofirst">Il faut insister tout d’abord sur l’existence parmi nous de ce problème, sur l’inquiétude qu’il trahit, sur la crise de confiance qu’il révèle.</p>
                       <p class="p">Mais en même temps, et non moins fortement, il faut dire que cette inquiétude ne peut être avouée aujourd’hui qu’en vertu d’une vision nouvelle, d’une confiance déjà restaurée dans le cœur et l’esprit de plusieurs. Si j’entreprends d’écrire ce livre, ce n’est pas pour la joie mauvaise 
 <a class="pb" href="#p11" id="p11">[p. 11]</a>
  d’inventorier les vices d’une culture : tant d’autres ont su décrire avant moi notre crise. Au travers des critiques qu’à mon tour il me faudra bien formuler, je voudrais que ceux qui me lisent distinguent ou pressentent une grande affirmation, une raison nouvelle d’espérer. Si je n’en avais pas, je me tairais. Ou bien j’écrirais des histoires pour distraire mes contemporains. Mais je crois qu’il est encore temps de dévisager le péril : il ne prendra la force d’un destin que le jour où nous refuserons de connaître sa vraie nature.</p>
                     </section>
-                    <section id="body-1-1-5" class="div level3 level2">
-                      <h2 class="head">Insuffisance de nos refus<a class="bookmark" href="1#body-1-1-5"> §</a></h2>
+                    <section id="body-1-1-5" class="div level2">
+                      <h2 class="head">Insuffisance de nos refus</h2>
                       <p class="p autofirst">Si la culture nous pose un problème, c’est donc, et tout d’abord, qu’elle est en décadence.</p>
                       <p class="p">Or, on n’arrête pas une décadence en essayant de résoudre les faux problèmes ou les problèmes sans issue qu’elle a fait naître. C’est ce que la sagesse populaire traduit à sa manière en affirmant qu’on n’améliore pas la peste. On n’arrête pas non plus une décadence, en décrivant minutieusement tous ses méfaits avec une amertume voilée de complaisance.</p>
                       <p class="p">Au point où nous voici, la seule chose possible, c’est de repartir avec une grande passion sévère dans une direction toute nouvelle. Il importe qu’on entende bien le sens complet de ce mot : repartir. Il faut le sauver de la banalité. Repartir, ce n’est pas réformer, ni redresser, ni accélérer le cours des choses ; c’est changer de <i class="i">but</i>, et mettre en œuvre au service d’un but nouveau une force intacte, endormie jusqu’ici. Ce 
@@ -94,32 +109,32 @@
 <a class="pb" href="#p13" id="p13">[p. 13]</a>
  pure critique<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a> ; elle veut être valable en soi, elle prétend ne rien préjuger de cet avenir qu’il faut pourtant <i class="i">former</i> ! ou alors qui s’en chargera ? À l’élite bourgeoise avancée qui se complaît dans le tableau d’une décadence dont elle vit encore, adressons ce rappel élémentaire : il est dangereux de confondre goût du désordre avec révolution ; goût du suicide avec libération ; pénitence avec obéissance à une nouvelle vocation créatrice.</p>
                     </section>
-                    <section id="body-1-1-6" class="div level3 level2">
-                      <h2 class="head">Parti pris de ce livre<a class="bookmark" href="1#body-1-1-6"> §</a></h2>
+                    <section id="body-1-1-6" class="div level2">
+                      <h2 class="head">Parti pris de ce livre</h2>
                       <p class="p autofirst">Cette mise au point me paraît nécessaire pour situer la critique qui va suivre. Il est nécessaire de marquer que cette critique ne se fonde pas dans l’humeur d’un clerc que la crise aurait rendu neurasthénique, ni dans la nostalgie d’un amateur de paradis perdu. Il est nécessaire de marquer qu’elle procède au contraire d’un parti pris de création dont j’espère bien que le lecteur éprouvera çà et là la poussée, le coup de pouce simplificateur. Méfions-nous des critiques « impartiales », des « je vous parle en toute sincérité » : l’homme n’est pas un point de vue abstrait, mais un animal créateur ; et ce n’est pas ce qu’il pense de sa sincérité qui m’intéresse, mais ce qu’il veut, et pourquoi il le veut.</p>
                       <p class="p">Ce que je veux faire, en écrivant ce livre, c’est chercher les moyens d’<i class="i">action</i> dont l’esprit 
 <a class="pb" href="#p14" id="p14">[p. 14]</a>
  de l’homme dispose ; c’est montrer que l’esprit n’est réel et ne mérite que l’on s’inquiète à son sujet que lorsqu’il s’abaisse au niveau des hommes concrets, des ouvriers au sens premier du mot : ceux qui ont prise sur les choses et qui « étreignent la réalité rugueuse », comme dit Rimbaud, ceux qui œuvrent ; et ceux qui ouvrent. L’esprit n’est vrai que lorsqu’il <i class="i">manifeste</i> sa présence, et dans le mot manifester il y a <i class="i">main</i>. L’esprit n’est vrai que dans son acte, que nos clercs qualifient d’abaissement. C’est en effet un abaissement pour l’esprit pur que de descendre à la portée des hommes, mais c’est là qu’il cesse d’être un mensonge. L’amour est le comble de l’esprit, et l’amour du prochain est un acte, c’est-à-dire une main tendue, non pas un sentiment drapé, non pas un <i class="i">idéal</i> qui passe sur le chemin de Jéricho, devant l’homme dépouillé par les brigands.</p>
                     </section>
-                    <section id="body-1-1-7" class="div level3 level2">
-                      <h2 class="head">Décadence ou abaissement ?<a class="bookmark" href="1#body-1-1-7"> §</a></h2>
+                    <section id="body-1-1-7" class="div level2">
+                      <h2 class="head">Décadence ou abaissement ?</h2>
                       <p class="p autofirst">Mais je m’avise d’une espèce d’équivoque, sait-on jamais, qui pourrait s’insinuer dans l’esprit du lecteur. C’est une occupation pénible à laquelle sont soumis ceux qui écrivent au <span class="num">xx<sup class="sup">e</sup></span> siècle que de faire la chasse aux gros malentendus qui parcourent en tous sens la jungle du vocabulaire. J’ai dit que la culture est en pleine décadence. Et maintenant je demande qu’elle s’abaisse ! Guérir une décadence par un abaissement, voilà qui peut paraître une opération délicate. Je voudrais prudemment insister.</p>
                       <p class="p">La décadence de notre culture provient à mon avis d’un ensemble de causes économiques, politiques et morales, dont les « intellectuels » 
 <a class="pb" href="#p15" id="p15">[p. 15]</a>
  m’apparaissent responsables pour une part qui n’est pas la moindre : j’essaierai de la mesurer. La faute que je leur impute, n’est pas d’avoir mal conduit l’opinion, mais d’avoir <i class="i">refusé</i> de la conduire, et cela sous l’éternel prétexte invoqué par toutes nos lâchetés : le prétexte de l’impuissance. « Une aussi sotte race que l’espèce humaine » (Renan) ne mérite pas le sacrifice de l’esprit pur. Sacrifice inutile au reste : la science ne nous apprend-elle pas que les lois de l’histoire sont des lois, et que l’esprit ne peut rien y changer ? Que l’esprit plane donc, sublime et décanté. Apportez-moi de quoi écrire et de quoi me laver les mains. Voilà nos clercs.</p>
                       <p class="p">C’est pour avoir refusé de s’abaisser à hauteur d’homme, au niveau du réel, que notre culture se défait. Immortalité académique<a class="noteref" href="1#note2" id="note2_"><sup>2</sup></a>, faux sublime officiel, envolées à la gloire d’un Descartes symbolique, on renonce à la comparaison trop belle du vol d’Icare. Il suffira de dire tout simplement que la culture, faute de s’être montrée « à la hauteur » d’une tâche humaine a voulu se hisser au sublime, où le siècle bien trop heureux d’être débarrassé de son contrôle, la laisse poliment dépérir, en attendant de lui bâtir un mausolée<a class="noteref" href="1#note3" id="note3_"><sup>3</sup></a>. Au mythe d’Icare, je ne vais pas opposer le mythe d’Antée, remède matérialiste. Mais à l’une et à l’autre erreur, au fait du prince et au fait de l’esclave, j’opposerai le fait de l’homme. Voilà le sens et la limite de l’abaissement que je demande.</p>
                     </section>
-                    <section id="body-1-1-8" class="div level3 level2">
+                    <section id="body-1-1-8" class="div level2">
                       <a class="pb" href="#p16" id="p16">[p. 16]</a>
-                      <h2 class="head">D’un symptôme de décadence<a class="bookmark" href="1#body-1-1-8"> §</a></h2>
+                      <h2 class="head">D’un symptôme de décadence</h2>
                       <p class="p autofirst">Pour mesurer la décadence de la culture, considérons d’abord le train banal des choses. Tâchons de prendre sur le fait le clerc qui ne se croit pas observé, le laïc adonné à ses superstitions laïques les plus grossières. Tout ceci dans un seul exemple.</p>
                       <p class="p">L’homme politique, l’industriel, le meneur et le journaliste n’ont pas coutume d’admettre la légère ironie qu’on pourrait opposer à leurs affaires sous prétexte que le vrai tragique est de l’ordre du spirituel. Qu’un intellectuel refuse absolument de s’intéresser à quelque loi fiscale ou militaire dont le projet surexcite l’opinion ; qu’il dise au financier : « Entre nous, cher monsieur, tout cela n’a guère d’importance, c’est une simple question d’argent ! » — ou qu’il écrive de la loi de deux ans : « vaine querelle de défense nationale » — l’opinion unanime l’accusera de démence, ou au contraire d’intelligence avec l’ennemi. (À moins qu’il n’ait laissé entendre qu’il faisait de la fantaisie.) Et je ne dis pas que cela ne soit dans l’ordre. Mais je remarque d’autre part que les clercs admettent fort bien qu’un politique ou qu’un brasseur d’actions traite les problèmes spirituels les plus graves de « <i class="i">simples questions de mots</i> », et les écarte avec la fumée de son cigare. Et c’est cela qui n’est pas dans l’ordre.</p>
                       <p class="p">Cette tolérance serait-elle d’aventure une sorte d’ironie philosophique ? « Parle toujours, tu as la force pour toi, mais moi je sais le sens des mots et leur valeur ! » — Non, non, nulle ironie dans la politesse de ces clercs. Preuve en soit 
 <a class="pb" href="#p17" id="p17">[p. 17]</a>
  la manière dont ils usent entre eux, sans éveiller la méfiance de leurs pairs, de l’argument « simple question de mots ». Et cela dans des débats où, cependant, le sens des mots devrait primer tout autre souci plus médiat. Comment ne voient-ils pas que si les mots n’ont plus de sens, que si la convention qui fixe leur valeur se voit tacitement dénoncée, et que si l’on convient de mettre au second plan le débat des définitions, considéré comme byzantin — on met du coup au second plan le travail spécifique de la pensée, on la prive de ses résistances, on sabote ses instruments qui sont les mots, on réduit la mission de l’écrivain à celle du propagandiste, chargé de ressasser les à-peu-près du jour ?</p>
                     </section>
-                    <section id="body-1-1-9" class="div level3 level2">
-                      <h2 class="head">Importance des « questions de mots »<a class="bookmark" href="1#body-1-1-9"> §</a></h2>
+                    <section id="body-1-1-9" class="div level2">
+                      <h2 class="head">Importance des « questions de mots »</h2>
                       <p class="p autofirst">Que ceux qui doutent de la portée d’une aussi quotidienne observation acceptent, ne fût-ce qu’un instant, de se demander si leur doute ne fournit pas une preuve supplémentaire de la décadence que j’affirme. Douter de l’importance des « questions de mots », c’est en effet le premier moment de cette décadence. Mais avec lui la catastrophe est déjà virtuellement consommée.</p>
                       <p class="p">Car si l’on doute de l’importance des mots, c’est que l’on doute en réalité de la <i class="i">commune mesure</i> de la culture et de l’importance qu’il y aurait à la traduire avec fidélité. En d’autres termes, si l’on néglige le langage, on néglige la culture elle-même. Et l’on néglige surtout ses <i class="i">avertissements</i>.</p>
                       <p class="p">Comment les entendrait-on, en effet, si l’on a privé le langage de ce qui fait sa poignante saveur : la rigoureuse et passionnée définition du 
@@ -162,37 +177,37 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="here">
                           <a href="#">I.1. Le problème de la culture</a>
                           <ul>
                             <li class="collateral">
-                              <a href="1#body-1-1-1">Qu’est-ce qu’un problème ?</a>
+                              <a href="1#body-1-1-1">I.1.a. Qu’est-ce qu’un problème ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-2">Multitude des problèmes</a>
+                              <a href="1#body-1-1-2">I.1.b. Multitude des problèmes</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-3">Moment de la révolution</a>
+                              <a href="1#body-1-1-3">I.1.c. Moment de la révolution</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-4">Critiquer pour construire</a>
+                              <a href="1#body-1-1-4">I.1.d. Critiquer pour construire</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-5">Insuffisance de nos refus</a>
+                              <a href="1#body-1-1-5">I.1.e. Insuffisance de nos refus</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-6">Parti pris de ce livre</a>
+                              <a href="1#body-1-1-6">I.1.f. Parti pris de ce livre</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-7">Décadence ou abaissement ?</a>
+                              <a href="1#body-1-1-7">I.1.g. Décadence ou abaissement ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-8">D’un symptôme de décadence</a>
+                              <a href="1#body-1-1-8">I.1.h. D’un symptôme de décadence</a>
                             </li>
                             <li class="collateral">
-                              <a href="1#body-1-1-9">Importance des « questions de mots »</a>
+                              <a href="1#body-1-1-9">I.1.i. Importance des « questions de mots »</a>
                             </li>
                           </ul>
                         </li>
@@ -233,12 +248,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -306,7 +321,7 @@
                   <article role="article">
                     <a class="pb" href="#p20" id="p20">[p. 20]</a>
                     <h1 class="head kicker chapter">II</h1>
-                    <h1 class="head chapter">D’une culture qui parle dans le vide<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">D’une culture qui parle dans le vide</h1>
                     <p class="p autofirst">Un critique allemand, E. R. Curtius, écrit<a class="noteref" href="2#note4" id="note4_"><sup>4</sup></a> : « Il y a dans notre langue peu de mots aussi usés, aussi éventés que celui de culture ; il y en a peu que l’on emploie avec autant d’irréflexion. Une société de gymnastique tenant sa réunion annuelle inscrit à son programme de discussion : “la gymnastique est de la culture”, voilà où nous en sommes. La majeure partie de ce que l’on dit aujourd’hui sur la culture est du même niveau. » La situation est-elle plus réjouissante en France ? Et ne faut-il pas craindre que certaines tentatives de restauration culturelle qui s’amorcent ici depuis peu ne soient rapidement déprimées par la difficulté qu’il y a à définir simplement la culture ? Sait-on bien de quoi il s’agit 
 <a class="pb" href="#p21" id="p21">[p. 21]</a>
  quand on dit : la culture se meurt, ou : il faut sauver la culture ?</p>
@@ -396,7 +411,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -438,12 +453,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -511,7 +526,7 @@
                   <article role="article">
                     <a class="pb" href="#p31" id="p31">[p. 31]</a>
                     <h1 class="head kicker chapter">III</h1>
-                    <h1 class="head chapter">Fatalités du rationalisme bourgeois<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">Fatalités du rationalisme bourgeois</h1>
                     <p class="p autofirst">Si l’on se demande quel est le principe central de notre société bourgeoise, son lieu commun fondamental, son arme défensive et offensive, enfin sa norme de vérité et d’action, il me semble qu’on ne peut éviter un mot qui rend compte de tout cela avec plus ou moins de bonheur selon les définitions qu’on en donne, mais avec une espèce d’évidence jaillie de toutes les images historiques et polémiques qu’il évoque : c’est le mot de <i class="i">rationalisme</i>.</p>
                     <p class="p">De même que le principe central, la vertu décisive et première de la société féodale fut l’honneur, vérité de la force et de la confiance jurée, de même le fondement du régime et de la mentalité bourgeoise, c’est la raison, vérité « générale » hostile à toute foi incontrôlable. Je pense que tous les historiens (de gauche, de droite ou de Moscou) s’accorderont à reconnaître que l’arme de la bourgeoisie, dans ses luttes sociales et morales, scientifiques et religieuses, ce fut 
 <a class="pb" href="#p32" id="p32">[p. 32]</a>
@@ -563,7 +578,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -605,12 +620,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -678,7 +693,7 @@
                   <article role="article">
                     <a class="pb" href="#p37" id="p37">[p. 37]</a>
                     <h1 class="head kicker chapter">IV</h1>
-                    <h1 class="head chapter">Hegel, Comte, Marx, ou la rationalisation<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">Hegel, Comte, Marx, ou la rationalisation</h1>
                     <p class="p autofirst">Constituée bien avant la Renaissance sous le signe de la raison utilitaire, la culture de la bourgeoisie a confondu tous ses <i class="i">progrès</i> avec ceux de la raison scientifique. Les marxistes voient en Copernic l’initiateur de la révolution bourgeoise : il y a là davantage qu’un symbole. La raison de Descartes, la logique de Condillac, l’utopie d’une mathématique sociale telle que la rêva Condorcet<a class="noteref" href="4#note11" id="note11_"><sup>11</sup></a>, voilà ce qui donne aux revendications politiques de la bourgeoisie cette base philosophique, cette espérance quasi religieuse, cette conscience d’aller dans le sens d’un grandiose Progrès de l’esprit, bref cet idéalisme sans lequel toute révolution s’étranglerait au stade de l’émeute. Le virus révolutionnaire, il n’est pas dans le bon sens calculateur des bourgeois, mais bien dans l’audace méthodique des « producteurs » de la culture nouvelle. Toutefois 
 <a class="pb" href="#p38" id="p38">[p. 38]</a>
  la décision n’appartiendra qu’à ceux qui sauront incarner la collusion intéressée des deux « raisons » que le vocabulaire confond déjà<a class="noteref" href="4#note12" id="note12_"><sup>12</sup></a>. C’est l’équipe des Encyclopédistes, — à la fois démagogues et philosophes — qui saura vivifier le paradoxe d’un rationalisme enthousiaste, c’est elle qui gagnera la vraie bataille. Et la Révolution française, à la considérer dans ses aboutissements sociaux et juridiques, n’a fait en somme qu’ajuster les faits au niveau du nouvel idéal conquis par l’élite culturelle.</p>
@@ -755,7 +770,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -797,12 +812,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -870,7 +885,7 @@
                   <article role="article">
                     <a class="pb" href="#p45" id="p45">[p. 45]</a>
                     <h1 class="head kicker chapter">V</h1>
-                    <h1 class="head chapter">Importance de la notion de commune mesure<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">Importance de la notion de commune mesure</h1>
                     <p class="p autofirst">Ce raccourci d’une évolution séculaire est sans nul doute stylisé : on n’aurait pas de peine à nuancer, à corriger, à compliquer ce tracé trop aisément logique des fatalités rationnelles. Mais il ne s’agissait ici que de mettre en relief un fait dont la simplicité peut échapper à l’historien méticuleux. Voici ce fait : la raison à la fois utilitaire et scientifique, qui fut le principe efficace de la culture bourgeoise militante, est <i class="i">aussi</i> le principe corrupteur de la culture bourgeoise triomphante. En d’autres termes, la révolution bourgeoise qui était fondée sur la raison s’est résolue dès le lendemain de son succès, en une pratique qui est une tyrannie, tandis que la doctrine, évadée du réel, se flattait d’une absurde liberté.</p>
                     <p class="p">Or nous voyons que cette pratique et cette doctrine n’ont plus entre elles de rapport appréciable de hiérarchie ou de contradiction. L’une ignore les fins de l’autre : il n’y a plus de fin commune. Elles se craignent et elles se méprisent. Elles ne 
 <a class="pb" href="#p46" id="p46">[p. 46]</a>
@@ -903,7 +918,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -945,12 +960,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -1018,7 +1033,7 @@
                   <article role="article">
                     <a class="pb" href="#p49" id="p49">[p. 49]</a>
                     <h1 class="head kicker chapter">VI</h1>
-                    <h1 class="head chapter">L’Arche de l’Alliance<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">L’Arche de l’Alliance</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Suis-je pour une autre fin que pour rechercher l’alliance du Seigneur ?</p>
                       <div class="bibl"><span class="sc">Cl. de St-Martin.</span> (<cite class="title">L’Homme de désir</cite>.)</div>
@@ -1112,7 +1127,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -1154,12 +1169,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -1227,7 +1242,7 @@
                   <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
                     <h1 class="head kicker chapter">VII</h1>
-                    <h1 class="head chapter">Sur le déclin du Moyen Âge<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">Sur le déclin du Moyen Âge</h1>
                     <p class="p autofirst">Personne ne croit encore sérieusement qu’aucun siècle du Moyen Âge ait jamais été dominé par une seule théologie. Les doctrines de Thomas d’Aquin, à l’apogée du <span class="num">xiii<sup class="sup">e</sup></span> siècle, sont combattues par des écoles puissantes et sont bien loin d’avoir conquis la majorité du clergé. Jamais l’Europe catholique n’a connu l’espèce d’unité que certaine polémique primaire reproche à la Réforme et à la Renaissance d’avoir rompue. Les ruines des grandes abbayes d’où rayonna la civilisation bénédictine sont un suffisant témoignage des luttes qui déchirèrent l’Église aux plus beaux temps de sa puissance.</p>
                     <p class="p">Et pourtant, ce que l’on ne peut dire d’une théologie catholique, on peut et on doit l’affirmer de la théologie en général. Elle fut bien le sous-entendu que les clercs et le siècle entendaient et vénéraient sans discussion possible. Ici, les luttes mêmes qu’elle fit naître témoignent de sa primauté. Et la mesure du Moyen Âge, c’est justement cette primauté théologique.</p>
                     <p class="p">
@@ -1330,7 +1345,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -1372,12 +1387,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -1445,7 +1460,7 @@
                   <article role="article">
                     <a class="pb" href="#p66" id="p66">[p. 66]</a>
                     <h1 class="head kicker chapter">VIII</h1>
-                    <h1 class="head chapter">Décadence des lieux communs<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head chapter">Décadence des lieux communs</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Je ne trouve pas ce jeu juste du tout, dit Alice. Ils se disputent tous tellement qu’ils vous assourdissent. Ils ne suivent pas la règle du jeu et je ne sais même pas s’ils savent qu’il y en a une.</p>
                       <div class="bibl">Alice au pays des merveilles</div>
@@ -1522,7 +1537,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -1564,12 +1579,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -1637,7 +1652,7 @@
                   <article role="article">
                     <a class="pb" href="#p76" id="p76">[p. 76]</a>
                     <h1 class="head kicker chapter">IX</h1>
-                    <h1 class="head chapter">Tentatives de restauration d’une commune mesure<a class="bookmark" href="9"> §</a></h1>
+                    <h1 class="head chapter">Tentatives de restauration d’une commune mesure</h1>
                     <p class="p autofirst">Au cours des analyses historiques qui précèdent, nous avons vu comment les grandes cultures, et les communautés nationales fécondes dans le domaine de l’esprit, apparaissent et se défont en même temps que la mesure qui les anime. Car la mesure est le constant rappel des fins communes à la pensée et à l’action. Et la conscience de ces fins est la vraie force animatrice d’une société. Les génies sont ceux qui l’incarnent, soit qu’ils la créent contre une ancienne mesure défaillante (prophètes et révolutionnaires) soit qu’ils la maintiennent vivante et renouvelant ses grands symboles de vérité, de force et de beauté. (Philosophes, savants et artistes.)</p>
                     <p class="p">À partir du <span class="num">xix<sup class="sup">e</sup></span> siècle, on voit paraître des génies d’une espèce toute différente : des génies qui n’incarnent rien que leur refus individuel, des génies destructeurs de toute communauté, affirmateurs d’une vérité individuelle anti-sociale, des prophètes sans message pour le 
 <a class="pb" href="#p77" id="p77">[p. 77]</a>
@@ -1669,7 +1684,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -1711,12 +1726,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -1784,7 +1799,7 @@
                   <article role="article">
                     <a class="pb" href="#p80" id="p80">[p. 80]</a>
                     <h1 class="head kicker chapter">X</h1>
-                    <h1 class="head chapter">La mesure soviétique<a class="bookmark" href="10"> §</a></h1>
+                    <h1 class="head chapter">La mesure soviétique</h1>
                     <p class="p autofirst">La plupart des erreurs que l’on commet lorsqu’on se mêle de porter un jugement sur l’immense aventure soviétique, proviennent de ce qu’on oublie ou méconnaît le rôle de l’un ou de l’autre des deux facteurs qui la commandent : la réalité russe et la doctrine marxiste. Tantôt l’on reproche au marxisme des erreurs qu’il condamne lui-même, et dont l’apparition dans le développement de l’URSS est le fait des seules circonstances, là où elles sont plus fortes que les hommes. Tantôt on lui attribue des succès colossaux qui ne furent rendus possibles que par la nature du pays, ou de ses habitants. Mais d’autre part, soit qu’on l’attaque ou qu’on la loue, on est souvent tenté de méconnaître dans la construction soviétique le rôle qu’y joua la doctrine marxiste, tout au moins comme choc initial, et par la direction qu’elle imprima, dans les premières années, à l’entreprise.</p>
                     <p class="p">
 <a class="pb" href="#p81" id="p81">[p. 81]</a>
@@ -1903,7 +1918,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -1945,12 +1960,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -2018,7 +2033,7 @@
                   <article role="article">
                     <a class="pb" href="#p94" id="p94">[p. 94]</a>
                     <h1 class="head kicker chapter">XI</h1>
-                    <h1 class="head chapter">La mesure nationale-socialiste<a class="bookmark" href="11"> §</a></h1>
+                    <h1 class="head chapter">La mesure nationale-socialiste</h1>
                     <p class="p autofirst">L’élite française s’est fait depuis quelques années une géographie de l’esprit dont le caractère frappant est d’être en complet désaccord avec la géographie physique. À lire nos revues, à écouter les débats les plus acharnés qui surexcitent les intellectuels, on se ferait une image de l’Europe telle que l’URSS se trouverait située entre la France et l’Allemagne.</p>
                     <p class="p">En fait, et qu’elle le veuille ou non, l’URSS met psychologiquement un continent de malentendus entre la France et ses voisins réels.</p>
                     <p class="p">Il a paru en France nombre d’ouvrages excellents sur l’œuvre culturelle des Russes. Beaucoup de ces Russes sont venus à Paris vanter leur dictature, sa production industrielle, son armée, sa jeunesse, ses métros, et ses diverses « réalisations ». Mais que sait-on de l’œuvre inaugurée par la révolution nationale-socialiste ? À peu près ce que nous savions de la Russie vers les années 1920 : ce qu’en rapportent 
@@ -2115,7 +2130,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -2157,12 +2172,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -2230,7 +2245,7 @@
                   <article role="article">
                     <a class="pb" href="#p107" id="p107">[p. 107]</a>
                     <h1 class="head kicker chapter">XII</h1>
-                    <h1 class="head chapter">Leçon des dictatures<a class="bookmark" href="12"> §</a></h1>
+                    <h1 class="head chapter">Leçon des dictatures</h1>
                     <p class="p autofirst">De tout ce qui précède, il serait ridicule et vain de tirer une « condamnation » des conceptions culturelles russes ou allemandes. Ces entreprises, d’une envergure sans précédent, ne sont pas justiciables des critiques qu’on leur adresse d’ordinaire en France, au nom de quelques lieux communs plus vénérables que vivants. L’anarchie n’a le droit de critiquer l’ordre que lorsqu’elle est consciemment anarchique, en vertu d’une volonté et d’un idéal déclarés. Le libéralisme n’a le droit de critiquer la dictature que lorsqu’il assure une liberté réelle et plus féconde que la contrainte. Les surréalistes sont fondés à parler du « vent de crétinisation qui souffle de l’URSS », mais les magnats de l’industrie lourde sont hypocrites quand ils payent des auteurs pour dénoncer le « sans-dieuisme » soviétique. Il faudrait aussi se garder d’une certaine facilité sénile, dont la jeunesse française n’est pas toujours indemne, facilité qui 
 <a class="pb" href="#p108" id="p108">[p. 108]</a>
  consiste à assimiler dictature et crime, discipline sociale et brutalité, volonté de servir et trahison des clercs, etc., tout cela au nom d’une conception de l’esprit pur, dont la faiblesse philosophique égale l’hypocrisie pratique. <i class="i">Enfin il serait sage de se garder de tout pronostic global quant à l’avenir culturel des deux régimes totalitaires dont j’ai parlé</i>. Rosenberg a beau dire que les dix premiers pas d’un parti comme le sien décident de tout son avenir : l’exemple du récent changement de front opéré par le stalinisme prouve que tout est possible aux dictateurs opportunistes. Le vague même des dernières déclarations de Rosenberg ouvre le champ aux possibilités les plus inattendues<a class="noteref" href="12#note51" id="note51_"><sup>51</sup></a>. Le composé hitlérien d’irrationalisme romantique et de positivisme jacobin, et d’autre part les ressources humaines colossales et jamais exploitées dont dispose l’URSS ; la pression des nouvelles générations, dont les chefs qui les ont formées avouent qu’elles leur paraissent « incompréhensibles » ; les transformations économiques et morales incalculables provoquées par le socialisme d’État ; enfin le défaut complet, jusqu’à présent, de grandes œuvres représentatives des nouvelles conceptions proclamées — voilà autant de facteurs d’indétermination.</p>
@@ -2284,7 +2299,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -2326,12 +2341,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -2399,7 +2414,7 @@
                   <article role="article">
                     <a class="pb" href="#p114" id="p114">[p. 114]</a>
                     <h1 class="head kicker chapter">XIII</h1>
-                    <h1 class="head chapter">Commune mesure et acte de foi<a class="bookmark" href="13"> §</a></h1>
+                    <h1 class="head chapter">Commune mesure et acte de foi</h1>
                     <p class="p autofirst">Parmi toutes les mesures que les hommes ont su donner à leurs pensées et à leurs actes, certaines ont perdu leur pouvoir parce que ceux qui devaient l’exercer ont failli à leur vocation. Tel fut le cas de la mesure des Juifs, et de la mesure médiévale. C’est la vraie trahison des clercs : l’idolâtrie, la simonie ou la sécularisation.</p>
                     <p class="p">Il est d’autres mesures qui se détruisent d’elles-mêmes, malgré toute la fidélité de ceux qui sacrifient leur vie pour les maintenir. C’est qu’elles portent en elles une division secrète, un principe de dissolution. Alors, c’est l’avènement des fins qu’elles préparaient, c’est l’épanouissement même de leur succès qui dénonce leur insuffisance. Tel fut le cas de la mesure rationaliste qui conduisit la bourgeoisie à son triomphe, puis à sa négation ; tel est le cas des mesures politiques que s’imposent les dictatures.</p>
                     <p class="p">Du court destin de la culture soviétique, depuis vingt ans, ou de la culture nationale-socialiste 
@@ -2464,7 +2479,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -2506,12 +2521,12 @@
                           <a href="#">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -2532,13 +2547,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1936pm/14" name="I.14. L’appel à la commune mesure, ou l’Europe duxxe siècle" package="ddr1936pm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1936pm/14" name="I.14. L’appel à la commune mesure, ou l’Europe du xxe siècle" package="ddr1936pm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.14. L’appel à la commune mesure, ou l’Europe duxxe siècle (1936, Penser avec les mains)</value>
+          <value>I.14. L’appel à la commune mesure, ou l’Europe du xxe siècle (1936, Penser avec les mains)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2564,7 +2579,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "I.14. L’appel à la commune mesure, ou l’Europe duxxe siècle"
+    "name": "I.14. L’appel à la commune mesure, ou l’Europe du xxe siècle"
   }]
 }
           </value>
@@ -2579,7 +2594,7 @@
                   <article role="article">
                     <a class="pb" href="#p123" id="p123">[p. 123]</a>
                     <h1 class="head kicker chapter">XIV</h1>
-                    <h1 class="head chapter">L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle<a class="bookmark" href="14"> §</a></h1>
+                    <h1 class="head chapter">L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Je ne connais qu’un moyen de résister à l’Europe, c’est de lui opposer le génie de la liberté.</p>
                       <div class="bibl">Saint-Just (Discours du 12 février 1793)</div>
@@ -2683,7 +2698,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="ancestor">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -2725,12 +2740,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="here">
-                          <a href="#">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="#">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -2797,7 +2812,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p141" id="p141">[p. 141]</a>
-                    <h1 class="head chapter">Préambule<a class="bookmark" href="15"> §</a></h1>
+                    <h1 class="head chapter">Préambule</h1>
                     <p class="p autofirst">L’objet de la seconde partie de cet ouvrage risquerait d’être mal compris, si je n’écartais dès l’abord deux malentendus très courants dans les débats contemporains.</p>
                     <p class="p">Je ne cherche pas à bâtir un système dans l’absolu : je veux être utile.</p>
                     <p class="p">Mais je ne cherche pas non plus à servir un régime politique actuel, ou une classe, ou un groupe d’intérêts : je veux être vrai.</p>
@@ -2842,7 +2857,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="collateral">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -2884,12 +2899,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="ancestor">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="here">
                           <a href="#">II. Préambule</a>
@@ -2947,6 +2962,27 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>II.1.a. L’exigence fondamentale – II.1.b. L’esprit s’est « distingué » – II.1.c. Les mains – II.1.d. D’où vient l’initiative ? – II.1.e. Deux sens du mot penser – II.1.f. Définition d’un esprit « moderne » – II.1.g. « Réciter l’homme », ou le former ? – II.1.h. L’appareil intellectuel – II.1.i. Machines à penser – II.1.j. La pensée prolétarisée – II.1.k. Psychologie du clerc prolétarisé – II.1.l. La pensée sans douleur – II.1.m. Les disciplines de la pensée prolétarisée – II.1.n. Pensée bourgeoise et doctrines étatistes – II.1.n. Petit panorama d’une grande démission</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-2-1	II.1.a. L’exigence fondamentale (1936, Penser avec les mains)
+body-2-2-2	II.1.b. L’esprit s’est « distingué » (1936, Penser avec les mains)
+body-2-2-3	II.1.c. Les mains (1936, Penser avec les mains)
+body-2-2-4	II.1.d. D’où vient l’initiative ? (1936, Penser avec les mains)
+body-2-2-5	II.1.e. Deux sens du mot penser (1936, Penser avec les mains)
+body-2-2-6	II.1.f. Définition d’un esprit « moderne » (1936, Penser avec les mains)
+body-2-2-7	II.1.g. « Réciter l’homme », ou le former ? (1936, Penser avec les mains)
+body-2-2-8	II.1.h. L’appareil intellectuel (1936, Penser avec les mains)
+body-2-2-9	II.1.i. Machines à penser (1936, Penser avec les mains)
+body-2-2-10	II.1.j. La pensée prolétarisée (1936, Penser avec les mains)
+body-2-2-11	II.1.k. Psychologie du clerc prolétarisé (1936, Penser avec les mains)
+body-2-2-12	II.1.l. La pensée sans douleur (1936, Penser avec les mains)
+body-2-2-13	II.1.m. Les disciplines de la pensée prolétarisée (1936, Penser avec les mains)
+body-2-2-14	II.1.n. Pensée bourgeoise et doctrines étatistes (1936, Penser avec les mains)
+body-2-2-15	II.1.n. Petit panorama d’une grande démission (1936, Penser avec les mains)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -2957,13 +2993,13 @@
                   <article role="article">
                     <a class="pb" href="#p145" id="p145">[p. 145]</a>
                     <h1 class="head kicker chapter">I</h1>
-                    <h1 class="head chapter">La pensée prolétarisée<a class="bookmark" href="16"> §</a></h1>
+                    <h1 class="head chapter">La pensée prolétarisée</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">La pensée ne vaut rien pour penser.</p>
                       <div class="bibl"><span class="sc">Goethe</span>.</div>
                     </blockquote>
-                    <section id="body-2-2-1" class="div level3 level2">
-                      <h2 class="head">1. L’exigence fondamentale<a class="bookmark" href="16#body-2-2-1"> §</a></h2>
+                    <section id="body-2-2-1" class="div level2">
+                      <h2 class="head">L’exigence fondamentale</h2>
                       <p class="p autofirst">Toute œuvre qui ne met pas en question notre situation personnelle dans l’univers ne sert de rien à l’humanité, reste en dehors de la question. Et de même, toute pensée est vaine, qui n’a pas mis d’abord son auteur à la question, en sorte que sa plainte ou son triomphe constitue le centre même de son œuvre, et non plus sa réussite émouvante ou flatteuse, mais bien cette lutte et cette prière jaculatoire, cette lutte d’où il sortira peut-être écrasé, et cette prière qu’il parviendra peut-être à maintenir secrète au cœur de l’acte.</p>
                       <p class="p">S’il faut poser cette exigence exorbitante, (oui, si durement injuste pour tant d’œuvres que j’aime, et de toute ma faiblesse peut-être), c’est que des siècles d’abandon charmant, derrière 
 <a class="pb" href="#p146" id="p146">[p. 146]</a>
@@ -2975,8 +3011,8 @@
  bons esprits, les professeurs, pour lesquels la pensée est un art d’agrément, un héritage, une carrière libérale, ou un capital bien placé. Cerveaux sans mains ! et qui jugent de haut, mais de loin, et toujours après coup, la multitude des mains sans cerveaux qui travaillent sans fin par le monde, peinant peut-être en pure perte, si ce n’est pour notre perte à tous. Or, ces gens forment l’opinion, sans aucun doute, et ils le savent. Toute l’opinion du monde en est à peu près là, que la pensée ne peut venir qu’<i class="i">à la remorque</i> d’événements fatals et qui n’ont cure de ses arrêts. C’est que l’on confond la pensée avec l’usage inoffensif de ce que des créateurs ont pensé, au prix de leur vie souvent, et toujours par un acte initiateur et révolutionnaire.</p>
                       <p class="p">Les uns pensent, dit-on, les autres agissent ! Mais la vraie condition de l’homme, c’est de penser avec ses mains.</p>
                     </section>
-                    <section id="body-2-2-2" class="div level3 level2">
-                      <h2 class="head">2. L’esprit s’est « distingué »<a class="bookmark" href="16#body-2-2-2"> §</a></h2>
+                    <section id="body-2-2-2" class="div level2">
+                      <h2 class="head">L’esprit s’est « distingué »</h2>
                       <p class="p autofirst">Remarquons qu’une formule telle que « penser avec les mains » a d’abord une valeur polémique, et qu’en ce sens elle est exacte dans la mesure où elle provoque. Tournons sa pointe vers un adversaire qui va se désigner lui-même sans retard.</p>
                       <p class="p">Toute l’astuce d’une certaine critique me paraît en effet s’exercer au détriment de la gravité de penser. D’où les refus que cette critique ne manque pas de prononcer dès qu’elle flaire dans une formule la volonté de modifier les conditions de son repos. « Si c’est avec tes mains que tu te proposes de penser, que vas-tu faire de ton cerveau ? » nous dit ce bon esprit au nom de 
 <a class="pb" href="#p148" id="p148">[p. 148]</a>
@@ -2984,9 +3020,9 @@
                       <p class="p">L’esprit moderne a poussé loin la distinction : c’est bien là sa vulgarité. <i class="i">Et c’est sa malfaisance particulière que de se vouloir inoffensif et impuissant</i>. Nous l’avons dit souvent déjà, et nous aurons sans doute l’occasion d’y revenir avec toute l’insistance que requiert une vérité si importante<a class="noteref" href="16#note56" id="note56_"><sup>56</sup></a>, — car elle a le malheur d’être évidente, et il n’en faut pas davantage pour qu’on la néglige aujourd’hui. Toute l’ambition de cet ouvrage n’est-elle pas justement de confondre, ou tout au moins de marquer une volonté de confondre ce que des siècles de culture bourgeoise nous ont appris à distinguer et opposer : le cerveau et les mains dans le corps, la foi et les œuvres dans l’âme, mais aussi cette âme et ce corps, cette pensée profonde et ce qui la révèle au jour, cet esprit qu’on dit pur, et l’acte qui l’atteste.</p>
                       <p class="p">Le moteur ni les roues ne sont faits pour eux-mêmes : ils n’ont de raison d’être que par l’acte qui les unit. Il est temps d’embrayer, disons-nous. Il est grand temps que l’on s’avise de penser avec les mains.</p>
                     </section>
-                    <section id="body-2-2-3" class="div level3 level2">
+                    <section id="body-2-2-3" class="div level2">
                       <a class="pb" href="#p149" id="p149">[p. 149]</a>
-                      <h2 class="head">3. Les mains<a class="bookmark" href="16#body-2-2-3"> §</a></h2>
+                      <h2 class="head">Les mains</h2>
                       <p class="p autofirst">Quelles mains ? Notre siècle « à mains » ne serait-il pas assez maniaque comme cela ? Oui, tout à fait assez. Mais l’essentielle vanité de l’activisme, de l’agio, est trop vite jugée par celle des distingués aux mains prudentes, et qui n’auront jamais fini de soupeser leurs doutes opportuns. Il nous faut des mains maîtrisées, mais qui pèsent.</p>
                       <p class="p">Non pas ces mains qui manient et manipulent, mains de joueurs et de maniaques, mains machinales et qu’aucun charme ne soumet : ce sont les mains des agités, et non point de ceux qui agissent. Non pas ces mains lentes et sèches à la surface des objets, mains rêveuses ou mains obsédées, mains incertaines, circonspectes, tâtonnantes et minutieuses, mains de pensifs et non pas de penseurs.</p>
                       <p class="p">Que les penseurs aient les mains larges et dures ! Des mains faites pour prendre et peser. Des mains qui sachent, qui accomplissent et qui sculptent ; des mains qui créent.</p>
@@ -2995,16 +3031,16 @@
 <a class="pb" href="#p150" id="p150">[p. 150]</a>
  profiteur de grandeurs qu’ils ne savent pas marquer, mais tout juste ternir de leur empreinte.</p>
                     </section>
-                    <section id="body-2-2-4" class="div level3 level2">
-                      <h2 class="head">4. D’où vient l’initiative ?<a class="bookmark" href="16#body-2-2-4"> §</a></h2>
+                    <section id="body-2-2-4" class="div level2">
+                      <h2 class="head">D’où vient l’initiative ?</h2>
                       <p class="p autofirst">Cependant, ne soyons pas dupe de notre image. N’allons pas lui permettre de se préciser à sa façon, au détriment d’une vérité plus générale qu’elle est simplement destinée à illustrer.</p>
                       <p class="p">Penser avec les mains ne veut pas dire qu’il faut cesser de penser pour se livrer à des activités artisanales, piocher la terre, scier du bois, ou monter des jouets mécaniques ; ne veut pas dire non plus que le contact professionnel avec le matériau, la terre, le métal, apporte nécessairement à l’intellectuel une connaissance plus organique du cosmos et de plus saines disciplines de pensée<a class="noteref" href="16#note58" id="note58_"><sup>58</sup></a>. Je ne vais pas recommander à notre culture décadente une cure de petits travaux manuels, quand nous avons besoin d’abord d’un gros œuvre intellectuel. Louis XVI n’a pas sauvé un régime moins malade que le nôtre en forgeant sur son enclume des pièces de serrurerie.</p>
                       <p class="p">Si la pensée, selon le mot de Goethe, ne vaut rien pour penser, il convient d’ajouter ici, dans le même sens, que la main seule ne vaut rien 
 <a class="pb" href="#p151" id="p151">[p. 151]</a>
  pour agir. « L’homme possède par nature la raison et une main. » (Thomas d’Aquin.) Cette raison raisonne mal si elle n’engage pas la main. Cette main travaille en vain si la raison ne s’engage pas dans son travail. La main n’est ici qu’un symbole de l’action proprement humaine, qui est celle qu’initie le cerveau lorsqu’il a su en concevoir la fin. La main n’est rien que l’instrument qui réalise une vision. Penser avec les mains, c’est penser en puissance d’action, c’est penser dans l’action où l’esprit se voit actuellement compromis et sommé de juger, de choisir, de transformer les conditions qui lui sont faites, — qu’il refuse. Penser avec les mains, c’est concevoir en actes, et cela s’oppose à la notion rationaliste d’une pensée qui ne serait rien qu’un commentaire tardif aux actions faites par les autres. Enfin, penser avec les mains n’est pas non plus l’exact équivalent d’<i class="i">agir par sa pensée</i>. Car ce n’est pas l’action d’abord qui importe — et la pensée serait son adjuvant — mais au contraire, si je veux penser en actes, c’est que la pensée ne me paraît juste et parfaite qu’au moment où l’acte l’atteste et la convainc de gravité. Il n’est d’acte réel que celui que l’on <i class="i">pense</i>, et ma formule implique la primauté de la pensée en toute action, non moins que la nécessité de cette action par la pensée.</p>
                     </section>
-                    <section id="body-2-2-5" class="div level3 level2">
-                      <h2 class="head">5. Deux sens du mot penser<a class="bookmark" href="16#body-2-2-5"> §</a></h2>
+                    <section id="body-2-2-5" class="div level2">
+                      <h2 class="head">Deux sens du mot penser</h2>
                       <p class="p autofirst">Les plus grands malheurs de l’humanité naissent de malentendus, et non pas comme le veut la polémique partisane, de la perversité des uns triomphant de la bonté naturelle des autres. 
 <a class="pb" href="#p152" id="p152">[p. 152]</a>
  Mais les pires malentendus, à leur tour, naissent de confusions faites sur les mots. Il n’y a pas de « questions de mots » au sens futile, accoutumé, parce que tout est <i class="i">d’abord</i> question de mots, au sens précis et décisif de l’expression. Si nous ne partons pas, dès nos premières démarches, d’une définition concrète des mots en jeu, la partie est perdue d’avance ou plutôt elle va se jouer dans un domaine où ne subsistent plus ni sanctions ni arbitrage ; où chacun peut prétendre avoir gagné ; où la victoire de l’un n’est pour l’autre que tricherie. J’appelle sanction le simple jugement de vérité ou d’erreur, dans un domaine où quelques vérités fondamentales sont reconnues. Je doute qu’il en existe de cette sorte parmi nous. Mais au moins trouverons-nous un arbitre qui rende à notre jeu quelque sérieux, fût-il tout provisoire ?</p>
@@ -3017,9 +3053,9 @@
                       <p class="p">Les conséquences de l’un et l’autre choix sont infinies. Elles sont infiniment contradictoires. Rien n’est plus important pour le dessein de ce livre que d’en suivre le déroulement, non point pour les opposer terme à terme, mais au contraire pour découvrir les « lois » de l’une, et la liberté créatrice qui éclate en l’autre à tout coup.</p>
                       <p class="p">Et ceci dictera le plan de cette section de notre recherche. Nous suivrons d’une part la <i class="i">logique</i> de la pensée qui n’est que descriptive — pensée balance. Et d’autre part, nous essaierons d’énumérer les <i class="i">conditions</i> que la pensée en actes — pensée pesante — requiert de l’homme qui prétend l’exercer comme sa vocation <i class="i">créatrice</i>.</p>
                     </section>
-                    <section id="body-2-2-6" class="div level3 level2">
+                    <section id="body-2-2-6" class="div level2">
                       <a class="pb" href="#p154" id="p154">[p. 154]</a>
-                      <h2 class="head">6. Définition d’un esprit « moderne »<a class="bookmark" href="16#body-2-2-6"> §</a></h2>
+                      <h2 class="head">Définition d’un esprit « moderne »</h2>
                       <p class="p autofirst">« Je m’étais fait un mode d’existence qu’on pourrait appeler <i class="i">potentiel</i>. Mon humeur m’inclinait à borner mon action à l’épreuve de laboratoire de ces moyens<a class="noteref" href="16#note60" id="note60_"><sup>60</sup></a>. » — « Une seule chose m’intéresse dans la littérature : les moyens et la conscience que l’on en prend<a class="noteref" href="16#note61" id="note61_"><sup>61</sup></a>. »</p>
                       <p class="p">Une seule chose intéresse André Gide lorsqu’il écrit son premier roman<a class="noteref" href="16#note62" id="note62_"><sup>62</sup></a> : les moyens du romancier et la conscience qu’il en prend — plutôt que l’usage qu’il peut en faire, indéfiniment ajourné.</p>
                       <p class="p">Une seule chose intéresse les surréalistes lorsqu’ils se livrent à l’écriture automatique : les moyens du subconscient et la conscience honteuse qu’ils en prennent ; (honteuse, car ce qu’ils nomment subversif et qu’ils recherchent, c’est justement ce qui n’a pas de sens actuellement acceptable). (Puis ils retournent cette erreur comme un gant, et se font communistes.)</p>
@@ -3037,8 +3073,8 @@
                       <p class="p">C’est donc de cette situation que nous partons. C’est parce qu’elle existe autour de nous, et nous en elle sans trop le savoir peut-être, c’est parce qu’elle affecte l’existence même de la pensée, et par suite, la communauté que cette pensée devait régir, qu’il n’est pas vain de l’envisager.</p>
                       <p class="p">Mais il faudra, pour la mieux voir, en rechercher les origines. Car elle n’est guère que le dernier aboutissement d’erreurs pour le moins centenaires.</p>
                     </section>
-                    <section id="body-2-2-7" class="div level3 level2">
-                      <h2 class="head">7. « Réciter l’homme », ou le former ?<a class="bookmark" href="16#body-2-2-7"> §</a></h2>
+                    <section id="body-2-2-7" class="div level2">
+                      <h2 class="head">« Réciter l’homme », ou le former ?</h2>
                       <p class="p autofirst">Entre les deux définitions de la pensée que nous avons formulées tout à l’heure, l’élite bourgeoise a choisi. Elle est pour la pondération, et elle n’appelle « sérieuse » qu’une pensée pondérée. Le comble du sérieux, ce sera donc pour elle le comble de la pondération, c’est-à-dire, à la limite, l’équivalence parfaite des idées, l’équilibre de la balance, ce qui peut encore s’exprimer, en termes non moins objectifs, par l’indifférence de la balance à l’égard de ce qu’elle pèse.</p>
                       <p class="p">« Les autres forment l’homme, je le récite. » Ainsi parlait Montaigne, ainsi pourrait parler l’élite bourgeoise du <span class="num">xix<sup class="sup">e</sup></span> au <span class="num">xx<sup class="sup">e</sup></span> siècle, en tant qu’elle révère et pratique la pensée distinguée de l’action. Voilà sa modestie, — et le siècle passé n’a pas manqué de qualifier cette vertu de scientifique. Soyons donc rigoureux dans l’examen d’une maxime dont l’apparence inoffensive ne 
 <a class="pb" href="#p157" id="p157">[p. 157]</a>
@@ -3051,9 +3087,9 @@
                       <p class="p">Mais où se cache le secret d’une époque ? Apparemment là où personne n’aura l’idée d’aller le chercher : dans cette convention la plus généralement admise, dans ce sous-entendu que personne n’entend plus et qui domine la morale et la pensée d’un siècle, dans ces réalités dont une sagesse terrible dit justement qu’elles crèvent les yeux. Dans la bonne conscience de l’époque, et non dans ses débordements, dans ses raisons, et non dans ses excès : « … vu que l’erreur, écrit Descartes<a class="noteref" href="16#note64" id="note64_"><sup>64</sup></a> ne consiste qu’en ce qu’elle ne paraît pas telle ».</p>
                       <p class="p">Rien ne paraît plus « naturel » à l’intellectuel bourgeois que son souci d’impartialité méthodique, vertu de laboratoire, dont on fait à peu près le synonyme d’honnêteté, une louange assez commune. Qu’on puisse et que l’on doive y voir en même temps le synonyme d’une certaine lâcheté, d’un certain refus d’être humain, d’une certaine révolte inconsciente contre la condition qui nous est faite, voilà ce qu’il faudrait expliquer maintenant.</p>
                     </section>
-                    <section id="body-2-2-8" class="div level3 level2">
+                    <section id="body-2-2-8" class="div level2">
                       <a class="pb" href="#p159" id="p159">[p. 159]</a>
-                      <h2 class="head">8. L’appareil intellectuel<a class="bookmark" href="16#body-2-2-8"> §</a></h2>
+                      <h2 class="head">L’appareil intellectuel</h2>
                       <p class="p autofirst">L’impartialité du penseur qui se conçoit comme je viens de le dire, suppose un certain détachement, que j’ai nommé sa distinction. Il y a les autres, et il y a le clerc, le clerc armé de sa balance. Il y a ceux qui agissent, d’un côté, et de l’autre ceux qui s’occupent à peser les actions et les pensées d’autrui. (Et c’est encore le meilleur cas : la plupart s’occupant surtout à peser leur poids et à commenter leur balance.) Entre le clerc et tous ces autres, il y a donc cette fameuse balance, ce fameux appareil intellectuel. C’est un ensemble des plus composites de conventions techniques, de conventions de langage, de méthodes, d’instruments de travail, d’usages sociaux, de contrôles officiels (examens, diplômes et titres) qu’on ne saurait définir clairement parce qu’il est fait d’une foule d’éléments précis, pour la plupart très valables en soi, mais hétérogènes au possible, si l’on considère leur total — ce qu’on préfère évidemment ne jamais faire. On parle volontiers, mais vaguement, de culture. Nous avons vu quel est alors le sens du mot : c’est héritage, patrimoine, chose faite et subie, qu’il s’agit de transmettre intacte, et qui dicte au penseur ses normes.</p>
                       <p class="p">Ce beau complexe tire une bonne part de son autorité auprès du public « cultivé », de ce qu’il est toujours sous-entendu et par essence insaisissable. C’est une espèce de Providence des clercs laïques. Elle a souffert peu de blasphèmes jusqu’ici. Le scepticisme à son égard est encore loin 
 <a class="pb" href="#p160" id="p160">[p. 160]</a>
@@ -3070,8 +3106,8 @@
 <a class="pb" href="#p163" id="p163">[p. 163]</a>
  Je ne dirai pas de mal de nos outils. Mais je les voudrais utilisables.</p>
                     </section>
-                    <section id="body-2-2-9" class="div level3 level2">
-                      <h2 class="head">9. Machines à penser<a class="bookmark" href="16#body-2-2-9"> §</a></h2>
+                    <section id="body-2-2-9" class="div level2">
+                      <h2 class="head">Machines à penser</h2>
                       <p class="p autofirst">Il faut rendre justice aux balances, et pendant qu’on y est, aux poids et aux mesures. Certes, car eux aussi naquirent d’un acte autorisé. Si des penseurs se sont fait de leurs mains ces appareils de quelque utilité, nous saurons bien à notre tour les approprier à nos fins.</p>
                       <p class="p">C’est un romantisme assez plat, un archéologisme heureusement démodé (voir Ruskin) qui se refuserait aux aides mécaniques par lesquelles l’acte de création spirituelle peut s’insérer dans le donné, s’assurer une vitesse de choc. La main qui connaît son outil n’est pas vulgaire si l’outil ne la mène. Encyclopédies et fichiers, répertoires d’arguments, traités de rhétorique, histoire de la philosophie, table de logarithmes, statistiques, commentaires, Larousse même ! Je vous ai couverts de mes signes, cornés, grattés, glosés, aimés et truffés d’insolence. Celui qui veut agir doit aimer ses outils. Non, je ne vais pas demander qu’on détruise les machines et je n’ai pas le moindre mépris pour les balances, surtout si elles sont justes. Mais je demande qu’on prenne tous ces outils pour ce qu’ils sont, et non plus pour des règles et pour des normes de pensée.</p>
                       <p class="p">Or je constate que la pensée moderne a pris ses balances pour normes ; et qu’en vertu de la définition de cette pensée par elle-même, l’opération est parfaitement logique. Imaginez la révolte de la balance contre son créateur, qui seul connaît le sens et la valeur relative des pesées. La balance exigerait désormais que rien ne soit 
@@ -3095,8 +3131,8 @@
  qu’on puisse traiter de révolutionnaire un pâle frénétique qui vous condamne Goethe pour n’avoir pas, cette fois, renoncé assez tôt.</p>
                       <p class="p">Cent autres faits aussi médiocres en soi, et non moins graves en tant que signes, nous prouvent que l’élite établie a perdu le sens des hiérarchies ; qu’elle l’a perdu volontairement, par l’effet d’une révolte méthodique contre toutes les valeurs qui réellement l’autorisaient, et la chargeaient d’une mission directrice.</p>
                     </section>
-                    <section id="body-2-2-10" class="div level3 level2">
-                      <h2 class="head">10. La pensée prolétarisée<a class="bookmark" href="16#body-2-2-10"> §</a></h2>
+                    <section id="body-2-2-10" class="div level2">
+                      <h2 class="head">La pensée prolétarisée</h2>
                       <p class="p autofirst">Un très petit fait spirituel est plus grand que la ruine des banques, s’il détient le secret de cette ruine, et de bien d’autres d’une portée plus longue. Pour illustrer cette inversion des hiérarchies qui soumet l’homme à ses outils, et la pensée à ses contrôles, rien de plus frappant aujourd’hui que le destin de notre économie. C’est qu’entre la crise matérielle et la crise de la pensée, il y a plus qu’un parallélisme. Elles ont une origine commune. De même que la crise sociale est suspendue à une certaine confusion du travailleur réel et responsable avec le prolétaire mécanisé, la crise de la pensée, moins visible et pourtant plus radicale, cette crise d’impuissance et de honte est suspendue à l’abdication de nos « maîtres » devant les normes et devant l’appareil d’une sécurité fatale à la vie qu’elle abrite.</p>
                       <p class="p">Nous avons décelé dans la logique interne d’un certain rationalisme<a class="noteref" href="16#note71" id="note71_"><sup>71</sup></a> l’origine de cette complicité tacite qui lie depuis un siècle les clercs sans risque et les meneurs du jeu économique. C’est bien la même erreur sur l’homme et sa mission, 
 <a class="pb" href="#p169" id="p169">[p. 169]</a>
@@ -3114,8 +3150,8 @@
                       <p class="p">« Les autres forment l’homme, je le récite. » Les autres agissent, moi je classe, les autres jouent, moi je marque les points. Je ne suis après tout que le gardien d’un appareil enregistreur dont je n’ai pas à connaître la destination, mais simplement le maniement. Admirable désintéressement de l’élite ! Il nous oblige, hélas, maintenant, par une injuste et nécessaire révolte, à la ranger, elle et ses beaux outils, sous un vocable à jamais décrié, à tristement la qualifier de pensée prolétarisée.</p>
                       <p class="p">En vérité, c’est une dure ironie qui fit glisser nos maîtres distingués, par le détour de cette distinction même, à la condition déprimante dont ils méprisent plus que quiconque l’étiquette, sinon la pâtée. Mais ils riraient, je crois, de ma pitié. On les décore comme devant, les chaires sont là, et les fauteuils sont là ; et la Coupole ignore tout ce qu’elle couvre. Dirait-on pas que la dignité de ces maîtres s’est même accrue depuis qu’ils portent la livrée ? Cela se sent, à de petits riens, à je ne sais quelle affectation de modestie… à je ne sais quelles insolences, en passant, quand il s’agit de travailleurs indépendants. Mais j’en ai assez dit là-dessus.</p>
                     </section>
-                    <section id="body-2-2-11" class="div level3 level2">
-                      <h2 class="head">11. Psychologie du clerc prolétarisé<a class="bookmark" href="16#body-2-2-11"> §</a></h2>
+                    <section id="body-2-2-11" class="div level2">
+                      <h2 class="head">Psychologie du clerc prolétarisé</h2>
                       <p class="p autofirst">Fallait-il donc qu’ils allassent dans la rue, qu’ils entrassent dans la bagarre, et fissent de la politique ? — Certes, ils ne s’en sont pas privés. Mais c’est aussi leur plus mauvaise excuse. Ils ont fait de la politique comme en font les politiciens. Dans les mêmes termes, avec les mêmes 
 <a class="pb" href="#p173" id="p173">[p. 173]</a>
  critères. Ils ont cru que l’esprit pouvait corriger après coup ce qu’il avait laissé les autres entreprendre. Ou qu’il y avait de l’honneur à justifier les passions d’une classe ou d’une nation. Mais l’esprit n’a pas de pouvoir, s’il refuse d’être initiateur. L’esprit est impuissant sur les choses telles qu’elles vont. Son unique puissance est d’impulsion originelle.</p>
@@ -3135,9 +3171,9 @@
                       <p class="p">Et voilà bien l’usage « exquis » qu’on les voit faire des instruments de la culture : comme ils récitent correctement ! Mais dans leur style, tout est prudence, tout est refus, et mes affirmations ou mes questions seraient, à les en croire, naïves, prématurées, grossières, insuffisamment étayées. Ce qu’ils appellent étayer un point de vue, c’est l’encadrer de références à des lois ou à des écoles, c’est démontrer que ce point de vue ne se fonde pas dans un élan « arbitraire » de la personne, mais bien dans un complexe de questions admises, possédant des papiers en règle, et destiné <i class="i">ad aeternum</i> à rester des questions insolubles.</p>
                       <p class="p">Le tableau resterait incomplet si je ne mentionnais l’extraordinaire susceptibilité de ces victimes du sérieux scientifique. Ils supportent au plus mal la polémique. Ils préfèrent les rosseries chuchotées. Que l’on pose des questions, soit, c’est là leur métier, mais pas de ces questions grossières qui contraindraient à prendre position personnellement. Si l’on se mettait soi-même dans la balance, on courrait le risque de la faire sauter. Or c’est la balance qui importe, et non pas ces menus objets qu’ils ont coutume d’y déposer. Mais je me moque, et il faudrait les plaindre : car c’est aux hommes qui n’ont plus de pitié, de bonhomie ni de violence — ces trois vertus seront toujours liées — que doit s’adresser la pitié.</p>
                     </section>
-                    <section id="body-2-2-12" class="div level3 level2">
+                    <section id="body-2-2-12" class="div level2">
                       <a class="pb" href="#p177" id="p177">[p. 177]</a>
-                      <h2 class="head">12. La pensée sans douleur<a class="bookmark" href="16#body-2-2-12"> §</a></h2>
+                      <h2 class="head">La pensée sans douleur</h2>
                       <p class="p autofirst">Cette sobriété méfiante et cette absence de pétulance intellectuelle ne sont encore qu’apparences psychologiques, et peut-être trompeuses. Ces prudents ne sont pas toujours sages, en effet. Vous les voyez parfois, perdant toute mesure, s’élancer dans des envolées délirantes qui les portent jusqu’aux étoiles. L’un d’entre eux prétendait même, on s’en souvient peut-être, en avoir éteint quelques-unes. Mais on aurait bien tort de craindre qu’ils se rompent le col à cette gymnastique. Elle reste purement figurée, purement verbale. Car il est entendu que le verbe est la chose du monde qui s’incarne le moins ; les plus primaires savent cela. Dogme nouveau ? Prudence élémentaire, simplement, au siècle de la presse et de l’éloquence électorale. Si l’on se mettait à vivre sa morale, il n’y aurait plus de morale ; où irait-on !</p>
                       <p class="p">Pourtant l’on parle de morale, il le faut bien, surtout dans un monde laïque. Mais c’est d’une morale idéale « sans obligations ni sanctions », une morale de rhéteurs et non d’apôtres. Nous voici donc à ce point d’étrangeté où l’on oppose la pensée et l’action jusque sur le plan de l’éthique<a class="noteref" href="16#note74" id="note74_"><sup>74</sup></a>. Or un homme qui professe cette distinction, essentiellement moderne et cartésienne, admet ainsi d’une part, que notre conduite peut 
 <a class="pb" href="#p178" id="p178">[p. 178]</a>
@@ -3159,8 +3195,8 @@
 <a class="pb" href="#p181" id="p181">[p. 181]</a>
  Par quel détour une éthique fondée sur l’inactualité des décrets de l’esprit — premier paradoxe — a-t-elle pu s’imposer à des peuples entiers, alors que — second paradoxe — les clercs qui la défendent paraissent irrémédiablement séparés de leur peuple et de ses plus profonds instincts ? Le problème est nouveau. Il est mieux qu’amusant.</p>
                     </section>
-                    <section id="body-2-2-13" class="div level3 level2">
-                      <h2 class="head">13. Les disciplines de la pensée prolétarisée<a class="bookmark" href="16#body-2-2-13"> §</a></h2>
+                    <section id="body-2-2-13" class="div level2">
+                      <h2 class="head">Les disciplines de la pensée prolétarisée</h2>
                       <p class="p autofirst">Le système du penseur distingué, qui ne veut plus former les hommes, mais qui préfère les réciter ; c’est la description « pure et simple ». Pure, marque ici la volonté de ne pas juger, c’est-à-dire de ne pas s’engager ; simple, traduit le ressentiment anti-poétique, la volonté de tout ramener à quelque chose d’homogène, de scientifique. « La mentalité du poète lyrique <i class="i">se ramène</i> à celle du primitif… » « La foi <i class="i">n’est pas autre chose</i> que… » etc.</p>
                       <p class="p">Posez au clerc une question politique, il répondra en faisant de l’histoire ; posez-lui une question morale, il parlera psychologie. Abordez le domaine philosophique, il ne veut y connaître qu’une seule discipline : la théorie de la connaissance. Ces trois activités, tout à fait typiques de la mentalité que je décris, ont ceci de commun 
 <a class="pb" href="#p182" id="p182">[p. 182]</a>
@@ -3178,8 +3214,8 @@
                       <p class="p">« Les autres forment l’homme… » Qui sont ces autres ? Nous le savons maintenant : ce sont ces <i class="i">lois</i> nées du dessaisissement de la pensée.</p>
                       <p class="p">On ne récite pas l’homme. On le forme, et si l’on s’y refuse, on le forme quand même, moyennant une hypocrisie, à l’image déformée de l’homme non-créateur. Et c’est ainsi que les clercs distingués ont formé des générations à se concevoir en toute honnêteté irresponsables de leur destinée.</p>
                     </section>
-                    <section id="body-2-2-14" class="div level3 level2">
-                      <h2 class="head">14. Pensée bourgeoise et doctrines étatistes<a class="bookmark" href="16#body-2-2-14"> §</a></h2>
+                    <section id="body-2-2-14" class="div level2">
+                      <h2 class="head">Pensée bourgeoise et doctrines étatistes</h2>
                       <p class="p autofirst">Au terme de cette brève analyse de la logique interne du désordre régnant, il sera bon d’insister quelque peu sur les suites politiques qu’elle implique. Je vois le risque de ce développement ; et je crains qu’il n’emporte certaines adhésions, ou ne provoque certains refus dont les motifs seraient bien étrangers à la thèse que je soutiens. Si je passe outre à ce scrupule, afin de mieux fixer, par exemple, les idées d’un lecteur sympathique, je tiens à marquer toutefois que le complexe auquel je touche ici n’est pour moi qu’une conséquence accessoire des erreurs que je viens de décrire. C’est un certain péché contre l’esprit que je redoute, et non point un certain système de répartition des richesses. Celui qui ne possède rien n’a rien à craindre pour sa liberté tant que les moyens politiques ne prétendent pas 
 <a class="pb" href="#p185" id="p185">[p. 185]</a>
  le couper des origines et des fins spirituelles où réside cette liberté. Mais qu’une doctrine de l’État en vienne à s’attaquer aux seuls biens qu’il connaisse, je pense qu’il a le droit de dire non, et même un peu plus fort que d’autres.</p>
@@ -3205,8 +3241,8 @@
                       <p class="p">Le sort du monde n’est pas dans les fatalités. Il est aux mains des seuls penseurs qui refusent pesamment le monde — pour le faire.</p>
                       <p class="p">Car ce refus nous tient debout et rassemblés. Et c’est là notre vocation d’hommes qui pensent, notre partialité fondamentale et créatrice. Partialité de l’homme debout, et qui s’avance.</p>
                     </section>
-                    <section id="body-2-2-15" class="div level3 level2">
-                      <h2 class="head">15. Petit panorama d’une grande démission<a class="bookmark" href="16#body-2-2-15"> §</a></h2>
+                    <section id="body-2-2-15" class="div level2">
+                      <h2 class="head">Petit panorama d’une grande démission</h2>
                       <p class="p autofirst">L’Histoire parle beaucoup de la force des choses. Elle oublie qu’il n’est d’action que par l’acte de l’homme, que par les mains de l’homme ; et que la pensée n’agit jamais sur une époque, mais sur les hommes qui pensent avec leurs mains ; sur quelques-uns.</p>
                       <p class="p">Et comment atteindre les hommes, les persuader, les émouvoir et les mouvoir, si l’on vitupère des doctrines sans dénoncer leur origine permanente dans telle déficience morale, dans tel refus précis dont nous sommes responsables aujourd’hui ? L’implication <i class="i">éthique</i> de la serve pensée est seule passible d’une mise en question réelle, irritante et peut-être féconde.</p>
                       <p class="p">Où sont les responsables ? Ce ne sont pas des partis, ce ne sont pas des classes, ni des gouvernements et autres mythes collectifs. Ce sont des hommes, un à un.</p>
@@ -3366,7 +3402,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="collateral">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -3408,12 +3444,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="ancestor">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -3422,49 +3458,49 @@
                           <a href="#">II.1. La pensée prolétarisée</a>
                           <ul>
                             <li class="collateral">
-                              <a href="16#body-2-2-1">1. L’exigence fondamentale</a>
+                              <a href="16#body-2-2-1">II.1.a. L’exigence fondamentale</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-2">2. L’esprit s’est « distingué »</a>
+                              <a href="16#body-2-2-2">II.1.b. L’esprit s’est « distingué »</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-3">3. Les mains</a>
+                              <a href="16#body-2-2-3">II.1.c. Les mains</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-4">4. D’où vient l’initiative ?</a>
+                              <a href="16#body-2-2-4">II.1.d. D’où vient l’initiative ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-5">5. Deux sens du mot penser</a>
+                              <a href="16#body-2-2-5">II.1.e. Deux sens du mot penser</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-6">6. Définition d’un esprit « moderne »</a>
+                              <a href="16#body-2-2-6">II.1.f. Définition d’un esprit « moderne »</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-7">7. « Réciter l’homme », ou le former ?</a>
+                              <a href="16#body-2-2-7">II.1.g. « Réciter l’homme », ou le former ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-8">8. L’appareil intellectuel</a>
+                              <a href="16#body-2-2-8">II.1.h. L’appareil intellectuel</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-9">9. Machines à penser</a>
+                              <a href="16#body-2-2-9">II.1.i. Machines à penser</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-10">10. La pensée prolétarisée</a>
+                              <a href="16#body-2-2-10">II.1.j. La pensée prolétarisée</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-11">11. Psychologie du clerc prolétarisé</a>
+                              <a href="16#body-2-2-11">II.1.k. Psychologie du clerc prolétarisé</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-12">12. La pensée sans douleur</a>
+                              <a href="16#body-2-2-12">II.1.l. La pensée sans douleur</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-13">13. Les disciplines de la pensée prolétarisée</a>
+                              <a href="16#body-2-2-13">II.1.m. Les disciplines de la pensée prolétarisée</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-14">14. Pensée bourgeoise et doctrines étatistes</a>
+                              <a href="16#body-2-2-14">II.1.n. Pensée bourgeoise et doctrines étatistes</a>
                             </li>
                             <li class="collateral">
-                              <a href="16#body-2-2-15">15. Petit panorama d’une grande démission</a>
+                              <a href="16#body-2-2-15">II.1.n. Petit panorama d’une grande démission</a>
                             </li>
                           </ul>
                         </li>
@@ -3518,6 +3554,29 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>II.2.a. Révolution culturelle – II.2.b. Mission de la culture – II.2.c. Qu’est-ce que l’acte ? – II.2.d. Première vertu : le réalisme – II.2.e. Deuxième vertu : la violence – II.2.f. Troisième vertu : l’autorité – II.2.g. Quatrième vertu : le goût du risque – II.2.h. Cinquième vertu : l’originalité – II.2.i. Sixième vertu : d’un certain ascétisme de l’expression – II.2.j. Dialectique de l’incarnation – II.2.k. Septième vertu : l’imagination – II.2.l. Huitième vertu : le style – II.2.m. La mesure occidentale – II.2.n. Incarnation de la mesure occidentale : la personne – II.2.o. De l’héroïsme – II.2.p. Enchaînement des valeurs – II.2.q. Sens de la liberté, ou la conquête de la personne</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-3-1	II.2.a. Révolution culturelle (1936, Penser avec les mains)
+body-2-3-2	II.2.b. Mission de la culture (1936, Penser avec les mains)
+body-2-3-3	II.2.c. Qu’est-ce que l’acte ? (1936, Penser avec les mains)
+body-2-3-4	II.2.d. Première vertu : le réalisme (1936, Penser avec les mains)
+body-2-3-5	II.2.e. Deuxième vertu : la violence (1936, Penser avec les mains)
+body-2-3-6	II.2.f. Troisième vertu : l’autorité (1936, Penser avec les mains)
+body-2-3-7	II.2.g. Quatrième vertu : le goût du risque (1936, Penser avec les mains)
+body-2-3-8	II.2.h. Cinquième vertu : l’originalité (1936, Penser avec les mains)
+body-2-3-9	II.2.i. Sixième vertu : d’un certain ascétisme de l’expression (1936, Penser avec les mains)
+body-2-3-10	II.2.j. Dialectique de l’incarnation (1936, Penser avec les mains)
+body-2-3-11	II.2.k. Septième vertu : l’imagination (1936, Penser avec les mains)
+body-2-3-12	II.2.l. Huitième vertu : le style (1936, Penser avec les mains)
+body-2-3-13	II.2.m. La mesure occidentale (1936, Penser avec les mains)
+body-2-3-14	II.2.n. Incarnation de la mesure occidentale : la personne (1936, Penser avec les mains)
+body-2-3-15	II.2.o. De l’héroïsme (1936, Penser avec les mains)
+body-2-3-16	II.2.p. Enchaînement des valeurs (1936, Penser avec les mains)
+body-2-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1936, Penser avec les mains)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -3528,7 +3587,7 @@
                   <article role="article">
                     <a class="pb" href="#p193" id="p193">[p. 193]</a>
                     <h1 class="head kicker chapter">II</h1>
-                    <h1 class="head chapter">Éléments d’une morale de la pensée<a class="bookmark" href="17"> §</a></h1>
+                    <h1 class="head chapter">Éléments d’une morale de la pensée</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Je veux que tu me dises ta pensée maîtresse, et non que tu t’es échappé d’un joug.</p>
                       <div class="bibl"><span class="sc">Nietzsche</span>. </div>
@@ -3540,8 +3599,8 @@
  comme résultant d’une tension donnée, soit comme obéissant à l’appel d’une fin. Soit par ses causes, soit par son but.</p>
                     <p class="p">Et lorsqu’on veut décrire un mouvement, ou quelque réalité en mouvement, comme par exemple notre mesure nouvelle, on peut décrire la situation d’où le mouvement résulte, ou la fin vers laquelle il tend, mais on ne décrira jamais son <i class="i">sens</i> qu’en sous-entendant constamment la situation quand on parle de la fin, ou la fin quand on parle de la situation. Sinon la description est <i class="i">insensée</i>.</p>
                     <p class="p">J’ai décrit ce que je refuse, au nom d’une attitude finale. Il s’agit maintenant de dépasser ces refus — et c’est le meilleur moyen de les préciser — en affirmant directement l’attitude dont ils découlaient.</p>
-                    <section id="body-2-3-1" class="div level3 level2">
-                      <h2 class="head">Révolution culturelle<a class="bookmark" href="17#body-2-3-1"> §</a></h2>
+                    <section id="body-2-3-1" class="div level2">
+                      <h2 class="head">Révolution culturelle</h2>
                       <p class="p autofirst">La décadence de la culture en Occident nous pose pour la première fois dans notre histoire le problème global de la culture : d’où vient-elle ? — qu’est-elle ? — où va-t-elle ? Si nous persévérons dans notre état, certaines imitations de fascisme ou de communisme en tireront bientôt chez nous les conclusions inévitables. Je crains ces renaissances toutes corrompues en germe par les vices qu’elles voulaient combattre et qui leur ont dicté leurs réactions. Et cette crainte n’est pas théorique. Car si notre culture libérale se révèle impuissante à ressaisir les secrets de sa force, et la conscience de sa mission, les jeunes empires qui la défient sont prêts à enregistrer cette carence historique. Tout dépend aujourd’hui de l’attitude de quelques pays — France, Angleterre, 
 <a class="pb" href="#p195" id="p195">[p. 195]</a>
  Suisse, Belgique — qui disposent encore du recul nécessaire par rapport aux crises matérielles pour mener une critique radicale des causes profondes du désordre. Eux seuls <i class="i">peuvent</i> concevoir des solutions nouvelles et en amorcer l’expérience. Ils se sont bornés jusqu’ici à proclamer la liberté de la pensée. Il serait temps qu’ils usent de cette liberté. Il serait temps, en particulier, que la France renoue sa vraie tradition, qui est une tradition d’initiatives et de synthèses, et non pas de conservation des biens acquis. La liberté de penser ne doit pas signifier que la pensée est libre au sens idéaliste, qu’on lui donne vacance, ou qu’elle n’a plus de condition concrète. <i class="i">La pensée qui agit n’est pas</i>
@@ -3553,8 +3612,8 @@
                       <p class="p">Je dis que la mission de la culture est de conduire une révolution qui, sinon, se fera contre elle. Faire la révolution, c’est concevoir et reconnaître dès maintenant une mesure nouvelle, une mesure qui soit commune à la pensée et à l’action, à l’élite et au peuple que cette élite devrait aider. C’est surtout incarner cette mesure par des actes, et transformer le monde à son image.</p>
                       <p class="p">Voilà sans doute de quoi décevoir largement les amateurs de panacée universelle. On a pris l’habitude du frisson politique : forte demande à la radio. On préfère l’appel aux armes à un appel à l’existence. On préfère l’idée d’un massacre à l’incarnation d’une idée ! Il faut en prendre son parti : cet écrit n’apportera rien qui nourrisse les haut-parleurs. Mais simplement une insistance à forcer les idées jusqu’aux lisières du concret, jusqu’au bord de l’action qui les éprouvera, jusqu’au danger.</p>
                     </section>
-                    <section id="body-2-3-2" class="div level3 level2">
-                      <h2 class="head">Mission de la culture<a class="bookmark" href="17#body-2-3-2"> §</a></h2>
+                    <section id="body-2-3-2" class="div level2">
+                      <h2 class="head">Mission de la culture</h2>
                       <p class="p autofirst">Si la démission de la culture tient, comme je l’ai démontré, à son <i class="i">refus</i> d’agir et de se risquer dans les conflits qui existent, ou que la pensée crée, la mission d’une culture nouvelle sera <i class="i">d’accepter</i> le combat, d’assumer les conflits vitaux, et de les résoudre en création.</p>
                       <p class="p">Voilà la grande opposition d’où nous partons. Il ne suffit pas de la poser. Il faut en exprimer successivement tous les aspects, en éclaircir autant que possible le mystère, en illustrer les conséquences morales.</p>
                       <p class="p">Si la culture refuse d’agir, c’est qu’elle estime 
@@ -3575,9 +3634,9 @@
                       <p class="p">« C’est votre affaire et non la mienne de régner sur l’absence », dit un poète.</p>
                       <p class="p">Mais « les autres » ont travaillé pendant ce temps ! Et s’ils ne menaçaient pas d’étendre à toute l’Europe leur règne matériel, je ne perdrais pas ma peine à définir l’erreur fondamentale d’une élite impuissante qu’ils ont bien fait de balayer de chez eux. Mais c’est qu’ils reprennent cette erreur qu’ils croient combattre, et qui vicie toute leur révolte…</p>
                     </section>
-                    <section id="body-2-3-3" class="div level3 level2">
+                    <section id="body-2-3-3" class="div level2">
                       <a class="pb" href="#p201" id="p201">[p. 201]</a>
-                      <h2 class="head">Qu’est-ce que l’acte ?<a class="bookmark" href="17#body-2-3-3"> §</a></h2>
+                      <h2 class="head">Qu’est-ce que l’acte ?</h2>
                       <p class="p autofirst">À la pensée-balance, et au jugement à la remorque des faits, s’oppose seul l’<i class="i">a priori</i> éthique : l’actualité de la pensée. Toute pensée réelle agit dans l’immédiat, au lieu de rêver dans l’avenir et le passé, domaine des lois. Penser avec les mains désigne ainsi un acte dont j’ai dit qu’il est le concret.</p>
                       <p class="p">Nous sommes ici au cœur de la difficulté de notre entreprise. Quel est cet acte ? Comment le définir ? Pourquoi l’appeler concret ? Ne serait-il pas tout au contraire un mythe abstrait ? Ou simplement un acte de l’esprit, un jugement, et ne serait-ce pas alors un calembour que de l’assimiler à l’acte matériel qui consiste par exemple à bâtir une maison, à tirer du canon, à donner un soufflet ou à planter des choux ?</p>
                       <p class="p">Je pourrais me borner à répondre que l’acte est quelque chose d’irrationnel ; que l’on ne peut pas le définir par des phrases ; qu’il ne se prouve qu’en se produisant ; et surtout qu’il ne peut être décrit en général, puisqu’il n’existe jamais que <i class="i">hic et nunc</i> et dans des circonstances toujours particulières. Mais je n’écris pas ce livre pour poser des énigmes et fatiguer le lecteur à force de paradoxes.</p>
@@ -3590,8 +3649,8 @@
                       <p class="p">Il est bien vrai que l’acte est ce <i class="i">quid</i> que l’on ne peut définir autrement qu’en le faisant. Il est bien vrai que c’est à partir de l’acte qu’il faut définir toute chose, sinon l’on n’arrivera jamais à rien d’actif. Mais la raison pourtant ne saurait être exclue de l’activité : elle ne suffit à rien, mais elle est nécessaire à presque tout. Surtout à l’écrivain qui parle de la culture ; à son discours. Nous allons donc raisonner à partir de cet acte indicible, et c’est la suite de ses contrecoups moraux qui nous permettra seul de le décrire. Un acte n’est rien s’il ne comporte des effets. La somme de ses effets ne le définit pas, mais le suppose, l’éclaire, le représente…</p>
                       <p class="p">La seule réponse adéquate aux questions que pose la maxime : <i class="i">penser avec les mains</i>, ce sera la description des attitudes morales qui favorisent l’actualité de la pensée, qui en résultent, et qui en témoignent. Mon ambition se borne donc ici à formuler quelques critères de la pensée qui est pensée avec les mains. Ce seront, si l’on veut, les « vertus » — ou « valeurs » au sens nietzschéen — qu’un critique devrait retrouver dans tel ouvrage qui s’ordonnerait à la mesure que nous cherchons.</p>
                     </section>
-                    <section id="body-2-3-4" class="div level3 level2">
-                      <h2 class="head">Première vertu : le réalisme<a class="bookmark" href="17#body-2-3-4"> §</a></h2>
+                    <section id="body-2-3-4" class="div level2">
+                      <h2 class="head">Première vertu : le réalisme</h2>
                       <p class="p autofirst">Tout le malheur de l’homme vient de ce qu’il ne pose pas les problèmes dans leur réalité, c’est-à-dire qu’il se pose de faux problèmes, qui admettent une infinité de solutions, tantôt purement figurées, tantôt brutales et écrasantes, dans l’un et l’autre cas non créatrices et non humaines. Car ce qui est proprement humain résulte d’un 
 <a class="pb" href="#p204" id="p204">[p. 204]</a>
  choix, d’un acte de foi à quoi ne peuvent conduire et obliger que les vrais problèmes, les problèmes insolubles, ceux qu’il faut être un <i class="i">homme</i> pour trancher. Tout le malheur de l’homme vient de ce qu’il fuit devant les alternatives absolues.</p>
@@ -3609,8 +3668,8 @@
 <a class="pb" href="#p207" id="p207">[p. 207]</a>
  limites extrêmes de notre condition. Mais il nous faut apprendre que ce qui est exagéré est le contraire de ce qui est extrême. Les extrêmes nous touchent, et c’était pour les fuir que nous nous évadions dans des excès imaginés.</p>
                     </section>
-                    <section id="body-2-3-5" class="div level3 level2">
-                      <h2 class="head">Deuxième vertu : la violence<a class="bookmark" href="17#body-2-3-5"> §</a></h2>
+                    <section id="body-2-3-5" class="div level2">
+                      <h2 class="head">Deuxième vertu : la violence</h2>
                       <p class="p autofirst">La violence est considérée par l’élite libérale d’aujourd’hui comme une brutalité, un <i class="i">veto</i> matériel, une coercition policière, ou une passion vulgaire ; ou enfin comme un refus de donner ses raisons, une espèce de mensonge insolent. Et il est vrai que la violence devient cela, dans un monde que la pensée abandonne à ses « lois », pour se retirer dans une sécurité où elle végète et récite ses problèmes inoffensifs.</p>
                       <p class="p">Et pourtant la violence véritable, qui n’est pas la brutalité, est proprement le fait de l’esprit, j’entends de l’esprit créateur. Tout acte créateur fait violence à un état de choses, qu’il s’agisse d’élever des blocs de pierre à la hauteur d’un cintre, de labourer la terre ou d’écrire un ouvrage dont la nécessité n’est sentie tout d’abord que par l’auteur qui l’imposera. Tout acte créateur contient une menace réelle pour l’homme qui l’ose. Et c’est par là qu’une œuvre touche le spectateur ou le lecteur, qu’elle l’émeut et qu’elle le meut. Si je ne sens pas, à la lecture d’un livre, que l’auteur a dû violenter ses habitudes, ou celles de son milieu, ses faiblesses, la règle admise d’un jeu stérile, je dis que cet auteur n’a rien créé<a class="noteref" href="17#note86" id="note86_"><sup>86</sup></a> et qu’il n’a fait que réciter.</p>
                       <p class="p">
@@ -3619,9 +3678,9 @@
                       <p class="p">L’élite intellectuelle, en France, pressent déjà que son affadissement vient de ce qu’elle a perdu le contact avec les menaces quotidiennes. Elle se tourne alors vers « le peuple », et j’ai dit avec quelle maladresse. Surtout, elle attend de l’extérieur les violences qu’elle n’ose pas initier. Elle attend avec une angoisse qui ressemble fort au désir, les bouleversements politiques qui lui donneront peut-être une foi nouvelle. Elle épie la Russie ou l’Allemagne, comme Lady Chatterley son garde-chasse. Passons sur l’impudeur de ces curiosités. Ce qui est plus grave, c’est qu’elle oublie — nécessairement — une « loi » humaine fondamentale : la violence ne profite qu’aux violents, et quant aux autres, elle les détruit.</p>
                       <p class="p">Si la pensée se refuse à peser, à violenter, elle s’expose à subir sans fruit toutes les brutalités que son absence a libérées.</p>
                     </section>
-                    <section id="body-2-3-6" class="div level3 level2">
+                    <section id="body-2-3-6" class="div level2">
                       <a class="pb" href="#p209" id="p209">[p. 209]</a>
-                      <h2 class="head">Troisième vertu : l’autorité<a class="bookmark" href="17#body-2-3-6"> §</a></h2>
+                      <h2 class="head">Troisième vertu : l’autorité</h2>
                       <p class="p autofirst">« Mais, dit le clerc, on se moquerait bien de ma violence spirituelle. Elle resterait purement théorique. Nous n’avons plus d’autorité, autant se taire si l’on ne veut pas crier avec les loups<a class="noteref" href="17#note87" id="note87_"><sup>87</sup></a> dans les meetings politiques. »</p>
                       <p class="p">Cette objection repose sur une croyance tenace en la distinction absolue de la théorie et de la pratique, croyance qu’il vaut la peine d’examiner ici, en tant que la culture que j’ai décrite la recommande.</p>
                       <p class="p">En effet, l’opposition courante du « théorique » et du « pratique » est en même temps l’origine et l’effet d’une pensée prolétarisée, non éthique. Sa permanence au cours de toute l’histoire serait propre à me faire douter de l’entreprise que je poursuis ici, si je pouvais un seul instant confondre la vérité et le succès. Je n’attaquerai pas d’ailleurs cette permanence en soi, ni la bêtise humaine en général : toutes les deux relèvent du péché, c’est-à-dire de la chute originelle, qui sépara la pensée de l’homme de la réalité totale de l’Éden, et lui permit de concevoir ce qu’il ne pouvait <i class="i">faire</i> dans ses limites. Dès cet instant, notre pensée se mit à mentir, à dire ce qui n’est pas et qu’on ne veut pas faire. Mais s’il est au pouvoir de la foi seule de supprimer radicalement l’hiatus entre la pensée et l’action, il appartient à une éthique « actuelle » de critiquer les mauvaises raisons par lesquelles la critique libérale a prétendu <i class="i">légitimer</i> ce mal.</p>
@@ -3641,8 +3700,8 @@
  l’autorité, ce sera le sens de l’immédiate prise de l’esprit.</p>
                       <p class="p">Cependant nous sommes dans le temps, et le temps nous sépare sans cesse de l’immédiat, de l’instant actuel, du risque vrai. Notre durée agit comme Une force centrifuge : nous remettons à demain les conclusions pratiques… D’où la nécessité d’un parti pris compensateur, d’un certain fanatisme spirituel, consistant à soumettre sans cesse l’automatisme de la pensée à sa volonté créatrice, et à revendiquer âprement la primauté du risque sur la sécurité, comme fondement de toutes nos hiérarchies intellectuelles.</p>
                     </section>
-                    <section id="body-2-3-7" class="div level3 level2">
-                      <h2 class="head">Quatrième vertu : le goût du risque<a class="bookmark" href="17#body-2-3-7"> §</a></h2>
+                    <section id="body-2-3-7" class="div level2">
+                      <h2 class="head">Quatrième vertu : le goût du risque</h2>
                       <p class="p autofirst">Pédagogie du risque : tout ce qui n’est pas dangereux est inutile ; tout ce qui est inutile se décompose et empoisonne ! Quand tu écris, il faut que ce soit à chaque instant comme si tu allais mourir, comme si tu allais vivre : une agonie ! Il faut poser cette <i class="i">limite</i>, il faut y <i class="i">tendre</i> sans relâche. Ne fût-ce que pour nous prémunir contre les tentations du réformisme. Et par exemple, craignons les médecins malades, ceux qui feignent de nous comprendre, ceux dont la sollicitude va seulement à ménager le patient — et c’est leur cruauté. Ceux qui concèdent : « On a trop séparé le penser et le faire. Vous avez bien raison, il faut penser en vue de l’action, agir en vue de l’idéal ! » N’allons pas croire qu’ils veuillent guérir, simplement ils ont peur du remède radical. Sans la menace révolutionnaire, qui songerait à des réformes ? Mais ces réformes visent à étouffer la santé nouvelle, bien davantage qu’à guérir des maux déjà anciens, et dont ces médecins-là 
 <a class="pb" href="#p214" id="p214">[p. 214]</a>
  s’accommodaient très bien. Penser <i class="i">en vue</i> de l’action ! Agir <i class="i">en vue</i> de l’idéal ! Comment croire que ces deux démarches atteignent jamais l’axe du concret ? Elles lui sont parallèles à l’infini. Elles restent séparées de l’être en chacun de leurs points, à chaque instant, parce qu’elles n’ont pas leur origine dans l’être. Parce qu’elles ne sont pas radicales. Parce que mes mains et ma pensée ne sont pas unies par ma vue, mais par mon acte ! Maximes infiniment inactuelles et inapplicables, parce qu’elles n’assument pas dans leur expression même, la coexistence concrète des éléments contradictoires de l’être<a class="noteref" href="17#note88" id="note88_"><sup>88</sup></a>. Parce qu’elles sont, dès leur origine et à jamais, sans nul pouvoir d’incarnation.</p>
@@ -3650,8 +3709,8 @@
 <a class="pb" href="#p215" id="p215">[p. 215]</a>
  de sérieux aux esprits libres. Je sais bien que ce vœu signifie pour beaucoup un appel aux « lois scélérates » ; pour d’autres, qu’il témoigne d’un goût romantique du scandale ; enfin qu’il évoque surtout la « mise au pas » des dictatures. Mais ce sont là brimades extérieures, dont l’injustice ou la sottise ne confèrent pas nécessairement quelque héroïsme à leurs victimes accidentelles. Ce que je veux dire, c’est que le danger de penser est immédiat à l’acte de penser, qui se forge ses fatalités et qui se crée ses propres risques et périls, si libéral que prétende être le régime. « La supériorité véritable produit elle-même la provision de force qui cause sa perte », dit Kierkegaard. Penser avec les mains ne peut être en tous temps qu’une activité subversive, non moins qu’ordonnatrice.</p>
                     </section>
-                    <section id="body-2-3-8" class="div level3 level2">
-                      <h2 class="head">Cinquième vertu : l’originalité<a class="bookmark" href="17#body-2-3-8"> §</a></h2>
+                    <section id="body-2-3-8" class="div level2">
+                      <h2 class="head">Cinquième vertu : l’originalité</h2>
                       <p class="p autofirst">Incarnation et risque ne sont pas séparables. L’origine même de l’homme est dans un risque. Et le progrès de l’homme n’est rien d’autre que l’approfondissement de son risque originel. Ce n’est point par la culture de l’« esprit » que l’individu se développe, mais par l’incarnation de plus en plus complexe du spirituel, c’est-à-dire par l’extension consciente du risque à toutes ses activités. C’est en ce sens que la pensée avec les mains est nécessairement une pensée originale, une pensée qui reproduit et qui aggrave l’acte instituant l’origine de l’homme.</p>
                       <p class="p">On a curieusement abusé du sens du mot original dans la littérature moderne. Le principe de cette altération est d’ailleurs symbolique du relâchement que nous avons décrit. On établit 
 <a class="pb" href="#p216" id="p216">[p. 216]</a>
@@ -3661,9 +3720,9 @@
               cherchaient pas d’abord, une connaissance plus réelle de l’homme).</p>
                       <p class="p">L’inertie qui résulte pratiquement de confusions pareilles est, hélas ! la plus vulgaire et la plus déprimante résistance que rencontre l’effort de l’esprit. Ajoutons que c’est une résistance anormale, maladive et qui appelle une action curatrice anormale elle aussi, en un certain sens. Elle constitue pour nous une tentation perpétuelle. Et déjà beaucoup pensent que la révolution ne pourrait être faite qu’avec des mains brutales, et non du bout des doigts. (Et pourtant la brutalité n’a rien en soi de révolutionnaire. Elle appartient plutôt, sous sa forme actuelle, au monde bourgeois, comme toute réaction à ce qui la provoque…) Ce qui est véritablement créé et créateur, ce qui possède une véritable nouveauté<a class="noteref" href="17#note90" id="note90_"><sup>90</sup></a>, ce n’est pas ce qu’on dit, ou ce qu’on pense, ni même ce qu’on gesticule pour la première fois ; mais bien ce qui, pour la première fois, est acte dans une vie. Cela peut être quelque chose de très ancien<a class="noteref" href="17#note91" id="note91_"><sup>91</sup></a> : c’est toujours quelque chose qui remonte à son origine permanente, à l’origine de l’autorité spirituelle.</p>
                     </section>
-                    <section id="body-2-3-9" class="div level3 level2">
+                    <section id="body-2-3-9" class="div level2">
                       <a class="pb" href="#p218" id="p218">[p. 218]</a>
-                      <h2 class="head">Sixième vertu : d’un certain ascétisme de l’expression<a class="bookmark" href="17#body-2-3-9"> §</a></h2>
+                      <h2 class="head">Sixième vertu : d’un certain ascétisme de l’expression</h2>
                       <p class="p autofirst">De tout ce qui précède, et surtout du dernier paragraphe, résultent quelques conséquences importantes pour le langage et l’expression en général.</p>
                       <p class="p">Le souci de savoir ce qu’on dit est un des moindres de l’époque. Il paraît même décroître dans la mesure où croît la quantité des discours, des journaux. Ce serait donc le premier office d’une pensée modestement technique, mais servant des fins créatrices, que d’élaborer de nouveau un dictionnaire des origines de nos mots. L’étymologie pourrait bien être une des sciences les plus subversives de l’âge du papier imprimé ! Mais ce n’est là qu’un aspect d’un problème plus vaste. Penser avec les mains suppose que le penseur rende au langage sa prise et son tranchant, sa vertu, son pouvoir d’ordonner et de <i class="i">toucher</i>. La révolution nécessaire, et non seulement dans le domaine de la culture, est d’abord une question de mots.</p>
                       <p class="p">On demande des mots d’ordre ? Encore faut-il que les mots aient un sens, un poids, une valeur d’appel. Qu’ils redeviennent littéralement des <i class="i">vocables</i>. Mais pourquoi donc ont-ils cessé de l’être ?</p>
@@ -3685,8 +3744,8 @@
  à son tour dans les bureaux d’une administration, même révolutionnaire, il faudrait être sûr qu’à l’origine de l’entreprise prévale un parti pris de style, une ardente finalité. Restaurer la valeur d’application des mots, c’est trop peu dire pour des oreilles modernes. On a tellement désarmé le langage, on l’a tellement décontenancé ! L’idéal, ce serait de rendre les mots dangereux, je dirai même insupportables, joyeusement, activement insupportables. Au bénéfice du silence, pour les bavards, et de l’action pour ceux qui pensent.</p>
                       <p class="p">Mais c’est encore, et tout de suite, l’affaire d’une éthique nouvelle, non point d’une ingéniosité.</p>
                     </section>
-                    <section id="body-2-3-10" class="div level3 level2">
-                      <h2 class="head">Dialectique de l’incarnation<a class="bookmark" href="17#body-2-3-10"> §</a></h2>
+                    <section id="body-2-3-10" class="div level2">
+                      <h2 class="head">Dialectique de l’incarnation</h2>
                       <p class="p autofirst">Tout ce que j’ai dit contre une certaine pensée, puis en faveur d’une certaine éthique, vise uniquement à désigner l’acte d’incarnation qu’est penser avec les mains. Or cet acte en définitive est un mystère, le mystère même de la Communion. On peut le désigner par ses effets, mais cela ne va jamais sans équivoques : car il transcende toujours ses effets. Pour prévenir les pires erreurs sur l’acte, nous disposons d’un seul moyen, et c’est la connaissance de ce qui, certainement, s’oppose à l’acte.</p>
                       <p class="p">Deux tentations perpétuelles menacent de déprimer en nous la volonté d’incarnation, c’est-à-dire de transformation du monde. Ce sont le <i class="i">conformisme</i> et l’<i class="i">évasion</i>.</p>
                       <p class="p">Il est probable que la plupart des hommes n’ont même jamais conçu clairement qu’une troisième attitude est possible, vis-à-vis de la réalité. Et 
@@ -3696,8 +3755,8 @@
 <a class="pb" href="#p224" id="p224">[p. 224]</a>
  invente ou qu’elle a vue. Car la pensée qui agit, c’est celle qui sait où elle va.</p>
                     </section>
-                    <section id="body-2-3-11" class="div level3 level2">
-                      <h2 class="head">Septième vertu : l’imagination<a class="bookmark" href="17#body-2-3-11"> §</a></h2>
+                    <section id="body-2-3-11" class="div level2">
+                      <h2 class="head">Septième vertu : l’imagination</h2>
                       <p class="p autofirst">En somme, la question du langage revient à celle de l’exacte incarnation des idées dans les mots : c’est d’abord une question de véracité. Toutefois, la véracité d’un créateur n’est pas une simple récitation. Il ne s’agit pas seulement de décrire ce qui est, il faut décrire ce qui doit être, ce que l’on veut qui soit, mais qui n’est pas encore, ce que l’on fait vrai. La probité technique ne saurait donc suffire, si elle est nécessaire. C’est l’imagination qui forme le langage en puissance d’acte ; c’est le style qui traduit le dynamisme de l’esprit formateur. C’est donc une certaine imagination, un certain style qui permettront de penser avec les mains. La dialectique du conformisme et de l’évasion nous indiquera au moins ce qu’ils ne doivent pas être.</p>
                       <p class="p">Il existe une espèce d’imagination que l’on peut qualifier de conformiste : elle se rapproche de la déduction automatique. Elle se laisse guider par des formes, des usages, des lois qui ne sont en réalité que les résidus de créations anciennes. L’esprit s’y engage à sa suite, persuadé qu’il pense le réel, alors qu’il suit tout simplement sa ligne de moindre résistance. Disons pour fixer les idées : cette imagination est celle de l’homme d’affaires moyen, ou encore du journaliste à la recherche de phrases toutes faites, ou de l’auteur de romans policiers combinant des situations cataloguées. Il ne s’agit dans tous ces cas que de jouer sur un clavier de mots, de gestes ou de situations que l’on n’a pas eu à inventer ou à 
 <a class="pb" href="#p225" id="p225">[p. 225]</a>
@@ -3716,8 +3775,8 @@
 <a class="pb" href="#p228" id="p228">[p. 228]</a>
  L’imagination du langage ne peut donc exercer son pouvoir qu’à la faveur d’un certain style de vie, tendre et tendu.</p>
                     </section>
-                    <section id="body-2-3-12" class="div level3 level2">
-                      <h2 class="head">Huitième vertu : le style<a class="bookmark" href="17#body-2-3-12"> §</a></h2>
+                    <section id="body-2-3-12" class="div level2">
+                      <h2 class="head">Huitième vertu : le style</h2>
                       <p class="p autofirst">Un style de vie ! On voit des condottieres. Il faudrait voir aussi des artisans. Une danseuse célèbre, mais non : plutôt cet homme dur qui cherche ses mots dans sa pipe, et le voilà joyeux parce qu’il a trouvé, et que cela touche d’autres hommes, qui ne savaient plus…</p>
                       <p class="p">Un style de vie : mais que celui qui le détient en vienne à s’exprimer, il n’est pas sûr que son style écrit traduira les catégories dans lesquelles il existe en réalité. Ou plutôt, il est presque certain qu’il les traduira dans les formes qui les trahissent. Nous retrouvons ici la division du mot et de la pensée, qui a pour premier effet de priver la pensée de son efficacité. C’est que nous avons pris l’habitude de penser, de parler et d’écrire sans tenir compte de nos données concrètes, soit que nous sacrifiions à un académisme, soit que nous oubliions les fins communes de la pensée. J’entends par données concrètes : les raisons qui poussent un homme à écrire, quelles qu’elles soient ; le public auquel il s’adresse ; le genre d’action qu’il entend exercer ; son lieu et sa date ; enfin le but dernier de son activité. Combien d’auteurs contemporains oseraient rendre un compte public de leurs motifs ? À supposer même qu’ils s’y risquent, combien pourraient justifier ces motifs par des exemples tirés de leurs œuvres ; et attester en particulier, que leur vocabulaire est adapté aux fins qu’ils déclarent poursuivre, que 
 <a class="pb" href="#p229" id="p229">[p. 229]</a>
@@ -3736,8 +3795,8 @@
  Qu’ils illustrent, dans leur structure, visible ou secrète, la dialectique joyeuse de la personne en acte. Que celui qui s’engage dans leur lecture éprouve de tout son être la présence d’une réalité éthique immédiate à chaque progrès du discours et qu’il n’en sorte pas intact ! « Ne rien écrire d’autre que ce qui pourrait désespérer l’espèce d’homme qui se hâte », écrivait Nietzsche. Nous dirions : Ne rien écrire d’autre que ce qui pourrait désespérer l’espèce d’homme qui demande à la lecture une évasion, un stupéfiant, une justification du monde injuste, une occasion de refuser le premier pas dans l’immédiat.</p>
                       <p class="p">Alors, n’acceptons-nous plus un seul maître ? Ce serait oublier ceux qui nous ont appris à nous méfier des maîtres. Je viens de nommer Nietzsche, — Nietzsche qui, le premier, substitua délibérément la notion de style à celle de correction dans les démarches de l’esprit. Il faudrait en nommer quelques autres : Pascal dont la phrase est brisée par cette raison qui brise la raison ; Descartes, dont la limpidité naît d’une ardente volonté d’expliquer et de justifier son intuition, rien qu’elle, dégagée de toute allusion impure ; Kierkegaard, si désespérément soumis aux intermittences de la foi, que l’ironie chez lui jaillit au point précis où soudain la joie cesse de soutenir son grand lyrisme ; Rimbaud enfin, celui de la <i class="i">Saison</i>, étreignant la « réalité rugueuse »… « Et allons !… » — Ils nous disent tous d’aller à<i class="i"> notre</i> vie.</p>
                     </section>
-                    <section id="body-2-3-13" class="div level3 level2">
-                      <h2 class="head">La mesure occidentale<a class="bookmark" href="17#body-2-3-13"> §</a></h2>
+                    <section id="body-2-3-13" class="div level2">
+                      <h2 class="head">La mesure occidentale</h2>
                       <p class="p autofirst">Depuis quelques milliers d’années que les peuples édifient des civilisations dont nous connaissons 
 <a class="pb" href="#p232" id="p232">[p. 232]</a>
  la chronique, il est frappant de voir qu’ils n’ont imaginé qu’un assez petit nombre de mesures communes réglant leur vie, leur pensée, leur action, leur lutte contre la mort et l’anarchie. Les Juifs ont eu la Loi et la prophétie ; les Grecs, l’homme dans la cité ; les Romains, l’ordre imposé par l’Empire ; le Moyen Âge, l’Église ; le siècle de Louis XIV, la raison d’État incarnée par le roi ; et nous voyons les Russes bâtir une mesure matérielle et les Allemands une mesure populaire, qui ne sont encore que des raisons d’État, perfectionnées infiniment par la technique et par la propagande. En somme, il n’y a guère que deux types de mesures : le <i class="i">principe spirituel</i> ou le <i class="i">cadre institutionnel</i>. Le grand prestige de l’Église catholique, et son miracle, ce fut d’unir entre ses mains, durant des siècles, l’autorité spirituelle et le pouvoir organisé. Nous ne reverrons pas ce miracle.</p>
@@ -3750,8 +3809,8 @@
 <a class="pb" href="#p234" id="p234">[p. 234]</a>
  les déviations d’une tradition qui se fondait sur la personne. Privation du pouvoir d’être une personne responsable, tel est le secret de l’angoisse individuelle et de la révolte des masses. Retour à la personne, tel est le sens de la philosophie « existentielle » sous toutes ses formes, et des mouvements théologiques et politiques qui préfigurent dès maintenant l’ordre nouveau, communautaire, que nous appelons.</p>
                     </section>
-                    <section id="body-2-3-14" class="div level3 level2">
-                      <h2 class="head">Incarnation de la mesure occidentale : la personne<a class="bookmark" href="17#body-2-3-14"> §</a></h2>
+                    <section id="body-2-3-14" class="div level2">
+                      <h2 class="head">Incarnation de la mesure occidentale : la personne</h2>
                       <p class="p autofirst">Je ne reprendrai pas ici la distinction fondamentale de la personne et de l’individu, ni la définition philosophique de la personne : il me suffit d’avoir, au cours des pages qui précèdent, cerné les caractères moraux de son activité, dans le domaine de la culture. Mais j’indiquerai les suites <i class="i">communautaires</i> du principe personnel, tel qu’il est défini d’une manière à peu près unanime par tous les écrivains qui s’en sont occupés<a class="noteref" href="17#note97" id="note97_"><sup>97</sup></a>.</p>
                       <p class="p">La personne, c’est pour nos contemporains la découverte non pas du <i class="i">moi</i>, mais bien du <i class="i">toi</i>. La découverte de l’existence concrète qu’exprime le pronom <i class="i">tu</i>. Découverte bouleversante dans un 
 <a class="pb" href="#p235" id="p235">[p. 235]</a>
@@ -3784,8 +3843,8 @@
 <a class="pb" href="#p241" id="p241">[p. 241]</a>
  qui le questionne<a class="noteref" href="17#note99" id="note99_"><sup>99</sup></a>. Face à face avec le prochain, responsable vis-à-vis de cette apparition concrète, et élémentaire de la communauté, je ne suis plus un isolé ; pourtant je reste un solitaire.</p>
                     </section>
-                    <section id="body-2-3-15" class="div level3 level2">
-                      <h2 class="head">De l’héroïsme<a class="bookmark" href="17#body-2-3-15"> §</a></h2>
+                    <section id="body-2-3-15" class="div level2">
+                      <h2 class="head">De l’héroïsme</h2>
                       <p class="p autofirst">C’est dans cette solitude menacée que viennent en fin de compte retentir tous les problèmes sociaux et spirituels. C’est en elle qu’ils provoquent un écho véritablement humain. C’est en elle enfin que s’opère la communion réelle de l’acte. La personne est un lieu d’héroïsme, et cela signifie qu’elle est le lieu, l’origine et la fin de toute incarnation, de toute création, de tout risque.</p>
                       <p class="p">La personne est aussi, par conséquent, l’individu moral et social par excellence ; mais dans son acte seulement, c’est-à-dire dans l’instant, non point dans la durée psychologique et descriptible. C’est pourquoi des généralités abstraites telles que morale, ou socialisme, entités que l’on peut considérer en soi comme des systèmes, indépendamment du rapport actuel d’un <i class="i">je</i> et d’un <i class="i">tu</i>, ne rendent pas compte de l’être personnel.</p>
                       <p class="p">Penser en acte, ce n’est pas « descendre au social », ni davantage trahir l’esprit pour des fins « bassement utilitaires », si l’on accepte l’héroïsme personnel. Un siècle bourgeois comme fut le <span class="num">xix<sup class="sup">e</sup></span>, n’osait imaginer de réalisations que sociales : car il faut bien qu’on s’y mette à plusieurs, rassurante perspective, puisqu’on sait qu’il 
@@ -3799,8 +3858,8 @@
                       <p class="p">Le sang, les songes, tour à tour nous poussent vers les êtres, et guident notre main. Par eux s’incarne la pensée, et c’est là l’héroïsme de l’esprit. Car toute incarnation s’opère au prix d’un héroïsme, d’une passion solitaire et féconde. Telle est la loi du monde, et il est admirable de l’aimer.</p>
                       <p class="p">Et la pensée même de Dieu ne s’est point soustraite à cette loi, c’est-à-dire à ce choix souverain de Dieu. C’est en s’y soumettant qu’elle se révèle à l’homme, lorsqu’elle s’incarne dans le Fils pour agoniser sur la Croix, qui est le signe de la condition humaine déchirée entre le temps et l’éternité.</p>
                     </section>
-                    <section id="body-2-3-16" class="div level3 level2">
-                      <h2 class="head">Enchaînement des valeurs<a class="bookmark" href="17#body-2-3-16"> §</a></h2>
+                    <section id="body-2-3-16" class="div level2">
+                      <h2 class="head">Enchaînement des valeurs</h2>
                       <p class="p autofirst">Partant d’une analyse impatiente de la logique interne du désordre régnant, — la pensée prolétarisée, — nous avons entrepris la description d’un nouvel ordre de valeurs éthiques, suspendu tout entier et relié en chacun de ses points, parfois sans autre transition logique, à <i class="i">l’acte créateur</i>. Nous avons constaté que cet acte fonde toute existence en tant qu’elle est<i class="i"> concrète</i> ; que le concret n’a lieu que dans l’immédiat dans l’instant. Tel est le sens et la nécessité de l’<i class="i">a priori éthique</i>. Il ne souffre aucune distance, ni dans le temps ni dans l’espace, ni de principe ni de fait, entre théorie et pratique. C’est là son <i class="i">réalisme</i> et sa <i class="i">violence</i> nécessaires. Mais aussi cette 
 <a class="pb" href="#p244" id="p244">[p. 244]</a>
  indistinction est <i class="i">l’autorité</i> même, en tant qu’elle s’exerce, soit qu’il s’agisse du commandement des armées, ou de la création géniale. L’autorité appartient à l’esprit, en tant qu’il entre en force dans le monde pour transformer ses conditions, faisant ainsi revêtir par l’objet la violence propre au sujet. Son exercice crée donc un <i class="i">risque</i>, que l’on ne saurait affronter si l’on n’est pas, dans le même temps, en puissance des sources <i class="i">originelles</i> de toute existence. Cette dynamique de l’incarnation, nous avons essayé d’en surprendre le fait dans l’expression écrite. Beaucoup de lettrés, peut-être aussi quelques primaires, se figurent qu’un tel problème ressortit aux règles de l’art. Nous l’avons ramené à des conflits éthiques.</p>
@@ -3811,8 +3870,8 @@
  Car si toutes les contradictions qui empêtrent nos vies et la vie des nations depuis cent ans restent stériles, c’est que l’humanité a perdu la vision du rapport humain authentique, celui qu’ici l’on nomme la Personne, celui que l’Évangile a révélé lorsqu’il nous a montré dans chaque homme le Prochain.</p>
                       <p class="p">Les contradictions du monde ne peuvent pas être supprimées, et toutes les doctrines qui s’y sont essayées n’ont pu en fin de compte engendrer que le désespoir, la tyrannie ou l’amertume nihiliste. Les contradictions du monde figurent dans l’équation fondamentale de toute existence. Mais l’illusion la plus terrible de l’humanité consiste à croire que cette équation comporte une solution générale. Il n’y a de solution que personnelle (encore est-ce d’abord une « question »). La personne, telle est la seule valeur qu’on puisse donner à l’<i class="i">x</i> de l’équation du monde. Or, la personne étant un acte créateur, elle introduit à chaque fois dans l’équation un élément irrationnel, incalculable, un élément de liberté.</p>
                     </section>
-                    <section id="body-2-3-17" class="div level3 level2">
-                      <h2 class="head">Sens de la liberté, ou la conquête de la personne<a class="bookmark" href="17#body-2-3-17"> §</a></h2>
+                    <section id="body-2-3-17" class="div level2">
+                      <h2 class="head">Sens de la liberté, ou la conquête de la personne</h2>
                       <p class="p autofirst">Et voici la question décisive : quel est le sens dernier de l’acte humain ? Pourquoi la liberté ? Et pourquoi tous les hommes la désirent-ils obscurément — non sans angoisse ! — de toute la force de l’<i class="i">humanitas</i> qui malgré tout subsiste en eux ?</p>
                       <p class="p">Répondre à cette question outrepasse sans nul doute les limites d’un ouvrage profane. D’autre part, il n’est pas mauvais d’éprouver parfois ces limites, au besoin d’y faire quelque brèche pour aller béer sur l’absurde, ou sur un de ces abîmes qui vous rappelle alors, par l’enseignement du 
 <a class="pb" href="#p246" id="p246">[p. 246]</a>
@@ -3981,7 +4040,7 @@
                 <content><![CDATA[
                   <ul>
                     <li class="collateral">
-                      <div>Première partie.  La commune mesure</div>
+                      <div>Première partie .  La commune mesure</div>
                       <ul>
                         <li class="collateral">
                           <a href="1">I.1. Le problème de la culture</a>
@@ -4023,12 +4082,12 @@
                           <a href="13">I.13. Commune mesure et acte de foi</a>
                         </li>
                         <li class="collateral">
-                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="14">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                       </ul>
                     </li>
                     <li class="ancestor">
-                      <div>Deuxième partie.  Penser avec les mains</div>
+                      <div>Deuxième partie .  Penser avec les mains</div>
                       <ul>
                         <li class="collateral">
                           <a href="15">II. Préambule</a>
@@ -4040,55 +4099,55 @@
                           <a href="#">II.2. Éléments d’une morale de la pensée</a>
                           <ul>
                             <li class="collateral">
-                              <a href="17#body-2-3-1">Révolution culturelle</a>
+                              <a href="17#body-2-3-1">II.2.a. Révolution culturelle</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-2">Mission de la culture</a>
+                              <a href="17#body-2-3-2">II.2.b. Mission de la culture</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-3">Qu’est-ce que l’acte ?</a>
+                              <a href="17#body-2-3-3">II.2.c. Qu’est-ce que l’acte ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-4">Première vertu : le réalisme</a>
+                              <a href="17#body-2-3-4">II.2.d. Première vertu : le réalisme</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-5">Deuxième vertu : la violence</a>
+                              <a href="17#body-2-3-5">II.2.e. Deuxième vertu : la violence</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-6">Troisième vertu : l’autorité</a>
+                              <a href="17#body-2-3-6">II.2.f. Troisième vertu : l’autorité</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-7">Quatrième vertu : le goût du risque</a>
+                              <a href="17#body-2-3-7">II.2.g. Quatrième vertu : le goût du risque</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-8">Cinquième vertu : l’originalité</a>
+                              <a href="17#body-2-3-8">II.2.h. Cinquième vertu : l’originalité</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-9">Sixième vertu : d’un certain ascétisme de l’expression</a>
+                              <a href="17#body-2-3-9">II.2.i. Sixième vertu : d’un certain ascétisme de l’expression</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-10">Dialectique de l’incarnation</a>
+                              <a href="17#body-2-3-10">II.2.j. Dialectique de l’incarnation</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-11">Septième vertu : l’imagination</a>
+                              <a href="17#body-2-3-11">II.2.k. Septième vertu : l’imagination</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-12">Huitième vertu : le style</a>
+                              <a href="17#body-2-3-12">II.2.l. Huitième vertu : le style</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-13">La mesure occidentale</a>
+                              <a href="17#body-2-3-13">II.2.m. La mesure occidentale</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-14">Incarnation de la mesure occidentale : la personne</a>
+                              <a href="17#body-2-3-14">II.2.n. Incarnation de la mesure occidentale : la personne</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-15">De l’héroïsme</a>
+                              <a href="17#body-2-3-15">II.2.o. De l’héroïsme</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-16">Enchaînement des valeurs</a>
+                              <a href="17#body-2-3-16">II.2.p. Enchaînement des valeurs</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-2-3-17">Sens de la liberté, ou la conquête de la personne</a>
+                              <a href="17#body-2-3-17">II.2.q. Sens de la liberté, ou la conquête de la personne</a>
                             </li>
                           </ul>
                         </li>

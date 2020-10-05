@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Note de l’éditeur<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Note de l’éditeur</h1>
                     <p class="p autofirst">La première version de <a class="i">La Part du Diable</a> parut à l’automne 1942. Elle s’est trouvée épuisée au moment où l’auteur terminait une version élargie de cet ouvrage qui lui avait été demandée par un autre éditeur pour la publication en langue anglaise.</p>
                     <p class="p">Cette version nouvelle que nous publions aujourd’hui avec une typographie et dans un format différents, contient, à peu de choses près, toute la substance du premier livre. Mais seize chapitres nouveaux sont venus s’y ajouter et un grand nombre des chapitres primitifs ont été élargis ou remaniés. Ces modifications et additions révèlent la préoccupation de l’auteur : rendre son livre plus indépendant de l’actualité immédiate. Ses jugements sur Hitler par exemple sont portés au passé, en vertu d’une légère anticipation déjà justifiée par les événements de ces trois derniers jours : la prise de Rome et le débarquement des Alliés sur la terre de France. Cette modification grammaticale suffit à elle seule à donner à cette section de l’ouvrage une portée générale, historique, à laquelle ne pouvait prétendre la polémique directe. Une série de chapitres sur <i class="i">La Diable dans la démocratie</i> achève de dissiper l’illusion qu’il s’agirait ici d’un effort d’élucidation limité au conflit actuel.</p>
                     <p class="p">
@@ -95,7 +95,7 @@
                       <a href="#">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -120,13 +120,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1944partdia/2" name="Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs" package="ddr1944partdia" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1944partdia/2" name="Introduction . Que la connaissance du vrai danger nous guérit des fausses peurs" package="ddr1944partdia" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1944, La Part du Diable)</value>
+          <value>Introduction . Que la connaissance du vrai danger nous guérit des fausses peurs (1944, La Part du Diable)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -152,7 +152,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs"
+    "name": "Introduction . Que la connaissance du vrai danger nous guérit des fausses peurs"
   }]
 }
           </value>
@@ -167,7 +167,7 @@
                   <article role="article">
                     <a class="pb" href="#pb13" id="pb13">[p. 13]</a>
                     <h1 class="head chapter">Introduction
-          <br class="lb"/>Que la connaissance du vrai danger nous guérit des fausses peurs<a class="bookmark" href="2"> §</a></h1>
+          <br class="lb"/>Que la connaissance du vrai danger nous guérit des fausses peurs</h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb15" id="pb15">[p. 15]</a>
  Au dessert nous étions d’accord : ce qui manque le plus aux démocraties en général, et à l’Amérique en particulier, c’est de croire au Diable. On sortit de table. C’était au club. Tandis que nous attendions l’ascenseur, je dis au Philosophe :</p>
@@ -212,7 +212,7 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="here">
-                      <a href="#">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="#">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -274,6 +274,26 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>1. Le premier tour – 2. L’Incognito – 3. Pour ceux qui n’en voient que la queue – 4. Réalité du mythe – 5. L’Ange déchu – 6. Le Prince de ce monde – 7. Le Tentateur – 8. « Connaissant le bien et le mal » – 9. Le Menteur – 10. L’Accusateur – 11. Légion – 12. Le sophisme – 13. Diable et péché – 14. Le psychanalyste confondu</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-1	1. Le premier tour (1944, La Part du Diable)
+body-2-2	2. L’Incognito (1944, La Part du Diable)
+body-2-3	3. Pour ceux qui n’en voient que la queue (1944, La Part du Diable)
+body-2-4	4. Réalité du mythe (1944, La Part du Diable)
+body-2-5	5. L’Ange déchu (1944, La Part du Diable)
+body-2-6	6. Le Prince de ce monde (1944, La Part du Diable)
+body-2-7	7. Le Tentateur (1944, La Part du Diable)
+body-2-8	8. « Connaissant le bien et le mal » (1944, La Part du Diable)
+body-2-9	9. Le Menteur (1944, La Part du Diable)
+body-2-10	10. L’Accusateur (1944, La Part du Diable)
+body-2-11	11. Légion (1944, La Part du Diable)
+body-2-12	12. Le sophisme (1944, La Part du Diable)
+body-2-13	13. Diable et péché (1944, La Part du Diable)
+body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -284,10 +304,10 @@
                   <article role="article">
                     <a class="pb" href="#pb19" id="pb19">[p. 19]</a>
                     <h1 class="head kicker chapter">Première partie</h1>
-                    <h1 class="head chapter">L’incognito et la révélation<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">L’incognito et la révélation</h1>
                     <section id="body-2-1" class="div level2">
                       <a class="pb" href="#pb21" id="pb21">[p. 21]</a>
-                      <h2 class="head"><span class="num">1</span><br class="lb"/>Le premier tour<a class="bookmark" href="3#body-2-1"> §</a></h2>
+                      <h2 class="head"><span class="num">1.</span><br class="lb"/>Le premier tour</h2>
                       <p class="p autofirst">C’est dans les <i class="i">Petits Poèmes en prose</i> de Baudelaire que l’on peut lire la phrase la plus profonde écrite par un moderne sur Satan :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">
@@ -296,7 +316,7 @@
                       </blockquote>
                     </section>
                     <section id="body-2-2" class="div level2">
-                      <h2 class="head"><span class="num">2</span><br class="lb"/>L’Incognito<a class="bookmark" href="3#body-2-2"> §</a></h2>
+                      <h2 class="head"><span class="num">2.</span><br class="lb"/>L’Incognito</h2>
                       <p class="p autofirst">Reconnaissons que ce tour n’a jamais mieux réussi que dans l’époque contemporaine. Même quand nous croyons « encore » en Dieu, nous croyons si peu au Diable que l’on m’accusera certainement d’obscurantisme, ou simplement de manque de sérieux, si je persiste en mon projet de lui consacrer tout un livre.</p>
                       <p class="p">Le premier tour du Diable est son <i class="i">incognito.</i></p>
                       <p class="p">Dieu dit : « Je suis celui qui suis ». Mais le Diable toujours jaloux d’imiter Dieu, fût-ce à rebours puisqu’il voit 
@@ -311,7 +331,7 @@
  — « Vous croyez donc au Diable ? Auquel ? Celui du Moyen Âge avec ses cornes rouges ? Ou un <i class="i">vrai</i> Diable ? » Ces questions sont inévitables à notre époque. Elles traduisent fort exactement nos attitudes de pensée les plus courantes. Négliger d’y répondre serait se condamner à baser tout un livre sur un quiproquo.</p>
                     </section>
                     <section id="body-2-3" class="div level2">
-                      <h2 class="head"><span class="num">3</span><br class="lb"/>Pour ceux qui n’en voient que la queue<a class="bookmark" href="3#body-2-3"> §</a></h2>
+                      <h2 class="head"><span class="num">3.</span><br class="lb"/>Pour ceux qui n’en voient que la queue</h2>
                       <p class="p autofirst">Abordons la difficulté par son aspect simple et banal, selon qu’elle se présente à nous dans ses apparences naïves.</p>
                       <p class="p">On nous dit « Dieu » et nous voyons un grand vieillard à barbe blanche, Père Éternel de Michel Ange tonnant au ciel violent de la Sixtine. On nous dit « Diable », et nous voyons un démon ricanant et cornu, qui circule dans l’ombre animé des plus mauvaises intentions. Ces réflexes d’optique intérieure ne prouvent rien sur Dieu, ni sur son existence. Mais chose curieuse, ils nous paraissent prouver quelque chose sur Satan : notamment qu’il n’existe pas, sinon comme accessoire des mystères médiévaux.</p>
                       <p class="p">Supposons un instant qu’il s’agisse là d’un camouflage prémédité du Diable. À première vue, il paraîtra rudimentaire, et pourtant il est fort habile : <i class="i">Satan se dissimule derrière sa propre image.</i> Il choisit de revêtir une apparence grotesque qui a pour effet certain de le rendre inoffensif aux yeux des personnes instruites. Car si le Diable est simplement 
@@ -326,7 +346,7 @@
                     </section>
                     <section id="body-2-4" class="div level2">
                       <a class="pb" href="#pb25" id="pb25">[p. 25]</a>
-                      <h2 class="head"><span class="num">4</span><br class="lb"/>Réalité du mythe<a class="bookmark" href="3#body-2-4"> §</a></h2>
+                      <h2 class="head"><span class="num">4.</span><br class="lb"/>Réalité du mythe</h2>
                       <p class="p autofirst">Mais si nous écartons ce voile grossier, que trouverons nous ? Un mythe ou une réalité ? Derrière l’image d’un pittoresque inefficace et désuet — y a-t-il quelqu’un ?</p>
                       <p class="p">Cette fois-ci, la question paraît grave pour nos esprits rationalo-matérialistes. Je la crois mal posée mais, dans le fait, c’est ainsi qu’elle se pose à nous. (Ou que le Diable nous la pose.)</p>
                       <p class="p">« Le Diable n’est qu’un mythe, nous dira l’historien. Preuve en soit que je puis vous tracer son histoire, de sa naissance antique jusqu’à sa mort dans l’esprit de nos contemporains. Les hommes ont créé ce fantôme.</p>
@@ -363,7 +383,7 @@
                     </section>
                     <section id="body-2-5" class="div level2">
                       <a class="pb" href="#pb31" id="pb31">[p. 31]</a>
-                      <h2 class="head"><span class="num">5</span><br class="lb"/>L’Ange déchu<a class="bookmark" href="3#body-2-5"> §</a></h2>
+                      <h2 class="head"><span class="num">5.</span><br class="lb"/>L’Ange déchu</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">Je voyais Satan tombes du ciel comme un éclair.</p>
                         <div class="bibl"><span class="sc">Luc</span> 10, 18.</div>
@@ -377,14 +397,14 @@
                       <p class="p">Ayant refusé de servir Dieu, de servir à Dieu, il est devenu celui qui sert le Rien, ne sert à Rien. Et tout ce qui ne sert à Rien, au sens spirituel, porte la marque diabolique. Mais <i class="i">Nobody</i> lui-même reste Quelqu’un. Il en sait plus que nous sur les mystères du monde et le secret des âmes qu’il abuse…</p>
                     </section>
                     <section id="body-2-6" class="div level2">
-                      <h2 class="head"><span class="num">6</span><br class="lb"/>Le Prince de ce monde<a class="bookmark" href="3#body-2-6"> §</a></h2>
+                      <h2 class="head"><span class="num">6.</span><br class="lb"/>Le Prince de ce monde</h2>
                       <p class="p autofirst">L’acte d’orgueil éblouissant et consumant qui transforma l’Ange de Lumière en Ange et Prince des Ténèbres, l’a condamné à un impérialisme sans limites, donc par définition désespéré. La perte de l’Unique Nécessaire fait naître une soif essentiellement inextinguible. Le monde entier ne saurait combler le vide que forme au cœur d’une créature la conscience d’avoir quitté sa juste place dans le monde. Tombé de l’éternel, Satan veut l’infini. Tombé de l’Être, il veut l’Avoir. Mais le problème est insoluble à tout jamais. Car pour avoir et posséder, il faudrait être, et il n’est plus. Tout ce qu’il s’annexe, il le détruit. (Le Néant néantit, dit Heidegger). 
 <a class="pb" href="#pb33" id="pb33">[p. 33]</a>
  Et certes, il pourra tout avoir, puisqu’il est appelé Prince de ce Monde dans l’Évangile — mais il n’aura jamais que <i class="i">ce monde-ci.</i> Il ne reconquerra jamais le Ciel, qui est proprement l’âme de ce monde et le mystère du transcendant dans l’immanence. Il n’aura de notre univers que la carcasse matérielle. Et c’est probablement de ces débris de la Maison désaffectée qu’il fera le bois de chauffage de son Enfer.</p>
                       <p class="p">Il le sait bien. C’est pourquoi son désir et sa jalousie forcenée se portent sur nos âmes individuelles. Il rôde autour de nous comme un lion rugissant en quête de sa proie, dit la Bible. Il rôde autour de nous comme un gangster obsédé par le kidnapping. Ses victoires, il est vrai, seront toujours stériles. Car on ne devient pas père en volant un enfant. On peut voler l’enfant, non la paternité. On peut voler le pouvoir, mais non l’autorité. Satan peut voler ce monde, non sa divinité. Et cependant, nous les humains, nous pouvons perdre toutes ces choses, qui sont notre héritage d’« enfants de Dieu ». C’est la seule chance du Diable. Il ne la manquera pas…</p>
                     </section>
                     <section id="body-2-7" class="div level2">
-                      <h2 class="head"><span class="num">7</span><br class="lb"/>Le Tentateur<a class="bookmark" href="3#body-2-7"> §</a></h2>
+                      <h2 class="head"><span class="num">7.</span><br class="lb"/>Le Tentateur</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Le serpent était le plus rusé de tous les animaux des champs que l’Éternel Dieu avait fait. Il dit à la femme<i class="i"> : —</i> Dieu a-t-il réellement dit : vous ne mangerez pas de tous les arbres du jardin ? La femme répondit au serpent : nous mangeons du fruit des arbres du jardin. Mais quant au fruit de l’arbre qui est au milieu du jardin, Dieu a dit : vous n’en 
 <a class="pb" href="#pb34" id="pb34">[p. 34]</a>
@@ -404,7 +424,7 @@
  Christ, lui propose trois utopies, trois moyens de gagner le monde par un plus court chemin que le sentier du Golgotha. À l’origine donc, le « méchant » n’est pas celui qui agit par méchanceté (à ses propres yeux tout au moins). Mais c’est celui qui se persuade que le bien qu’il a conçu vaut mieux que le vrai bien. « Le méchant fait une œuvre qui le trompe. » Or c’est parce qu’il se trompe d’abord que son œuvre va le tromper. La réalité méprisée se vengera automatiquement. Le péché est une faute, mais faute signifie tout à la fois erreur et chute.</p>
                     </section>
                     <section id="body-2-8" class="div level2">
-                      <h2 class="head"><span class="num">8</span><br class="lb"/>« Connaissant le bien et le mal »<a class="bookmark" href="3#body-2-8"> §</a></h2>
+                      <h2 class="head"><span class="num">8.</span><br class="lb"/>« Connaissant le bien et le mal »</h2>
                       <p class="p autofirst">C’est le privilège d’un Dieu, selon le récit de la Genèse, que de connaître le Bien et le Mal. Les psychologues et moralistes modernes, en nous montrant que notre bien et notre mal sont relatifs, ont prouvé qu’ils n’étaient pas des dieux, qu’ils ne prétendaient point se mettre à la place de Dieu, et qu’ils étaient par suite capables de bon sens. Le bien et le mal, tels que l’homme les conçoit, sont des coutumes relatives au temps, aux civilisations, et souvent même aux conditions physiques d’un pays. Le Bien et le Mal en soi ne sont réellement distincts qu’aux yeux de Dieu — pas même aux yeux du Diable, toujours la dupe d’un acte de charité qu’il tiendra pour une sottise. C’est que Dieu seul connaît le plan d’ensemble et l’intention dernière de toute sa 
 <a class="pb" href="#pb37" id="pb37">[p. 37]</a>
  Création. Et c’est seulement par rapport à ce plan et à cette intention — en partie révélés — que les actes des créatures pourraient être jugés sans erreur. « Ne jugez pas » dit l’Évangile.</p>
@@ -417,7 +437,7 @@
                     </section>
                     <section id="body-2-9" class="div level2">
                       <a class="pb" href="#pb39" id="pb39">[p. 39]</a>
-                      <h2 class="head"><span class="num">9</span><br class="lb"/>Le Menteur<a class="bookmark" href="3#body-2-9"> §</a></h2>
+                      <h2 class="head"><span class="num">9.</span><br class="lb"/>Le Menteur</h2>
                       <p class="p autofirst">Examinons maintenant d’un peu plus près, par le détail de notre vie présente, comment le Diable arrive à s’insérer dans les structures de l’être, donc du bien. J’ai dit qu’il doit passer par l’homme pour agir sur la réalité. Mais dans l’humain, par où va-t-il entrer ?</p>
                       <p class="p">L’homme seul, dans toute la Création, peut dire ce qui n’est pas, et mentir par un acte de sa volonté réfléchie.</p>
                       <p class="p">Le minéral repose où il fut composé, la plante pousse où se fixa la graine, les animaux muets sont prisonniers de l’ordre intarissablement prodigue de l’instinct. Mais l’homme a reçu le pouvoir de parler, de créer, et de dénaturer. Par la grâce du langage, il peut dire le vrai ; par la faute du langage, il peut y contredire. Il peut créer selon les perspectives de la Création, il peut aussi créer à tort et à travers. Il peut être un agent responsable de la nature naturante, mais il peut aussi faire la grève, se révolter, et fabriquer l’anti-nature ou <i class="i">dénature.</i></p>
@@ -436,7 +456,7 @@
  encore. Mais le mensonge diabolique nie le juge. Il ne part que de soi, et prolifère en autarcie, comme une cellule cancéreuse, introduisant dans l’univers ce sophisme de pure angoisse : le mensonge de nulle vérité.</p>
                     </section>
                     <section id="body-2-10" class="div level2">
-                      <h2 class="head"><span class="num">10</span><br class="lb"/>L’Accusateur<a class="bookmark" href="3#body-2-10"> §</a></h2>
+                      <h2 class="head"><span class="num">10.</span><br class="lb"/>L’Accusateur</h2>
                       <p class="p autofirst">Par le doute qu’il instille en notre cœur au sujet de l’ordre divin, Satan nous porte à désirer un meilleur bien, qu’il nous désigne. C’est encore un bien, pensons-nous. Mais ce mouvement de l’âme créatrice, dès qu’il est détourné des fins prévues par Dieu, nous jette au mal, qui est la torsion du bien et du réel vers le néant.</p>
                       <p class="p">Ce mal fait, Satan se dévoile comme un ennemi mortel de l’homme, qu’il avait abusé jusqu’ici en feignant de sympathiser avec l’idéalisme de sa révolte. Voici qu’il nous entraîne dans un nouveau tour de la spirale qui pointe vers l’Enfer : il nous accuse avec une angélique précision, sans laisser place à la pensée d’une possible réparation.</p>
                       <p class="p">Il est au monde une seule chose pire que de douter du bien et du réel, et c’est de douter du pardon, une fois qu’on a trahi le bien et le réel. Car douter du pardon nous replonge dans le mal, avec la sombre jouissance masochiste des « après moi le déluge » et des « tant pis pour moi ». Il faut croire au pardon pour oser confesser le mal qu’on a commis ; pour oser qualifier de faute sa propre faute ; et pour que puisse 
@@ -450,7 +470,7 @@
  pardonne. Elle ne laisse aux meilleures de ses victimes que l’héroïsme auto-sadique de la révolte.</p>
                     </section>
                     <section id="body-2-11" class="div level2">
-                      <h2 class="head"><span class="num">11</span><br class="lb"/>Légion<a class="bookmark" href="3#body-2-11"> §</a></h2>
+                      <h2 class="head"><span class="num">11.</span><br class="lb"/>Légion</h2>
                       <p class="p autofirst">Enfin, la Bible appelle le Diable : <i class="i">Légion.</i> Ici nous n’en finirions pas de commenter, conformément à la nature du sujet. Bornons-nous à marquer trois directions de pensée : nous les suivrons tout au travers du livre.</p>
                       <p class="p">Si le Diable est Légion, cela signifie d’abord que tout en étant un, il peut revêtir autant d’aspects divers qu’il y a d’individus de par le monde.</p>
                       <p class="p">Mais cela peut signifier aussi que le Diable est la masse anonyme.</p>
@@ -463,7 +483,7 @@
                     </section>
                     <section id="body-2-12" class="div level2">
                       <a class="pb" href="#pb46" id="pb46">[p. 46]</a>
-                      <h2 class="head"><span class="num">12</span><br class="lb"/>Le sophisme<a class="bookmark" href="3#body-2-12"> §</a></h2>
+                      <h2 class="head"><span class="num">12.</span><br class="lb"/>Le sophisme</h2>
                       <p class="p autofirst">L’Ange déchu nous dit : je suis ton ciel, il n’y a pas d’autre espérance. Le Prince de ce monde nous dit : il n’y a pas d’autre monde. Le Tentateur nous dit : il n’y a point de juge. L’Accusateur nous dit : il n’y a point de pardon. Le Menteur résume tout en nous offrant un monde sans obligations ni sanctions, fermé sur soi mais recréé sans cesse à l’image de nos complaisances : il n’y a pas de réalité. Enfin Légion dit le dernier blasphème : il n’y a Personne.</p>
                       <p class="p">Le monde moderne (et chacun de nous en lui) dans la mesure où il cultive un rêve de déification de l’homme par sa science ; où il nie toute transcendance ; où il s’enferme dans les autarcies de la puissance et de la passion ; où il noie finalement la vocation de la personne dans l’anonyme irresponsable, — le monde moderne (et chacun de nous en lui) se rend à la loi de Satan. Mais du même coup, il devient incapable de connaître celui qu’il sert !</p>
                       <p class="p">Satan veut nous faire croire qu’il n’y a pas d’autre monde. Si nous le croyons, il se trouve qu’aussitôt nous ne pouvons plus croire à Dieu <i class="i">ni à Satan</i> ! S’il n’y a pas de ciel, comme nous le dit Satan, il n’y a pas non plus d’enfer, ni de Maître de l’enfer. S’il n’y a pas de juge, il n’y a pas non plus de faute ni d’Auteur du mal. S’il n’y a pas de vérité, il n’y a pas non plus de mensonge ni de Menteur. S’il n’y a personne, enfin, il n’y a pas non plus <i class="i">lui</i> !</p>
@@ -475,7 +495,7 @@
                       <p class="p">Comment va-t-il s’y prendre, désormais, pour tromper cet œil averti, pour abuser ce sens du mal qu’éveille en nous la connaissance du Bien, comme le soleil fait renaître les ombres ?</p>
                     </section>
                     <section id="body-2-13" class="div level2">
-                      <h2 class="head"><span class="num">13</span><br class="lb"/>Diable et péché<a class="bookmark" href="3#body-2-13"> §</a></h2>
+                      <h2 class="head"><span class="num">13.</span><br class="lb"/>Diable et péché</h2>
                       <p class="p autofirst">Imaginez que le Diable aille se cacher dans le péché même, <i class="i">dans le péché en général</i>, tel que le conçoivent les prédicateurs et les moralistes d’aujourd’hui. Ce serait un excellent calcul, pour les deux raisons que voici : tout d’abord, nous serions induits à croire que le Diable n’est « rien d’autre » qu’une figuration naïve du péché ; en second lieu, nous n’aurions plus l’idée d’aller chercher le Diable dans nos vertus.</p>
                       <p class="p">
 <a class="pb" href="#pb48" id="pb48">[p. 48]</a>
@@ -496,7 +516,7 @@
  du camouflage, obéissant au principe fatal de son existence empruntée et parasitaire, il a choisi pour domicile permanent « les sépulcres blanchis » que maudissait le Christ. Je lui donne rendez-vous dans nos vertus.</p>
                     </section>
                     <section id="body-2-14" class="div level2">
-                      <h2 class="head"><span class="num">14</span><br class="lb"/>Le psychanalyste confondu<a class="bookmark" href="3#body-2-14"> §</a></h2>
+                      <h2 class="head"><span class="num">14.</span><br class="lb"/>Le psychanalyste confondu</h2>
                       <p class="p autofirst">Un dernier mot sur la réalité mythique de Satan : je voudrais corriger par la vertu d’un doute les conclusions trop rationnelles encore qu’un lecteur peut tirer, malgré moi, de ces pages.</p>
                       <p class="p">Dès que vous croyez apercevoir le Diable, parce qu’il en a fait un peu trop, dès que vous tentez de le démasquer dans le péché, il vous égare en vous faisant dire par les savants que le péché lui-même n’existe pas : trouble des glandes endocrines ou fantaisie du subconscient, maladie mentale ou conditionnement social insuffisant. Nous ne sommes responsables de rien. Nous ne sommes pas méchants, mais malades…</p>
                       <p class="p">La psychanalyse, considérée dans son ensemble et dans sa tendance générale — sans doute inconsciente — peut être définie comme une tentative de ramener le péché et le Mal à des mécanismes subjectifs, dont le médecin pourra se rendre le maître. Chaque époque a son utopie. Le Moyen Âge cherchait la pierre philosophale dans les cornues des alchimistes. Nous essayons de dissoudre le Diable dans les eaux troubles du subconscient. Ce n’est encore qu’une variante 
@@ -575,52 +595,52 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’incognito et la révélation</a>
                       <ul>
                         <li class="collateral">
-                          <a href="3#body-2-1"><span class="num">1</span>.  Le premier tour</a>
+                          <a href="3#body-2-1"><span class="num">1.</span>  Le premier tour</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-2"><span class="num">2</span>.  L’Incognito</a>
+                          <a href="3#body-2-2"><span class="num">2.</span>  L’Incognito</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-3"><span class="num">3</span>.  Pour ceux qui n’en voient que la queue</a>
+                          <a href="3#body-2-3"><span class="num">3.</span>  Pour ceux qui n’en voient que la queue</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-4"><span class="num">4</span>.  Réalité du mythe</a>
+                          <a href="3#body-2-4"><span class="num">4.</span>  Réalité du mythe</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-5"><span class="num">5</span>.  L’Ange déchu</a>
+                          <a href="3#body-2-5"><span class="num">5.</span>  L’Ange déchu</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-6"><span class="num">6</span>.  Le Prince de ce monde</a>
+                          <a href="3#body-2-6"><span class="num">6.</span>  Le Prince de ce monde</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-7"><span class="num">7</span>.  Le Tentateur</a>
+                          <a href="3#body-2-7"><span class="num">7.</span>  Le Tentateur</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-8"><span class="num">8</span>,  « Connaissant le bien et le mal »</a>
+                          <a href="3#body-2-8"><span class="num">8.</span>  « Connaissant le bien et le mal »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-9"><span class="num">9</span>.  Le Menteur</a>
+                          <a href="3#body-2-9"><span class="num">9.</span>  Le Menteur</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-10"><span class="num">10</span>.  L’Accusateur</a>
+                          <a href="3#body-2-10"><span class="num">10.</span>  L’Accusateur</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-11"><span class="num">11</span>.  Légion</a>
+                          <a href="3#body-2-11"><span class="num">11.</span>  Légion</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-12"><span class="num">12</span>.  Le sophisme</a>
+                          <a href="3#body-2-12"><span class="num">12.</span>  Le sophisme</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-13"><span class="num">13</span>.  Diable et péché</a>
+                          <a href="3#body-2-13"><span class="num">13.</span>  Diable et péché</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-2-14"><span class="num">14</span>.  Le psychanalyste confondu</a>
+                          <a href="3#body-2-14"><span class="num">14.</span>  Le psychanalyste confondu</a>
                         </li>
                       </ul>
                     </li>
@@ -681,6 +701,21 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>15. Où paraît la nécessité d’un alibi – 16. Le deuxième tour – 17. Hitler est-il l’Antéchrist ? – 18. Le Diable en chemise brune – 19. Le directeur d’inconscience – 20. Midas prolétarien – 21. Le Fléau de Dieu – 22. Le Faussaire – 23. Après Hitler</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	15. Où paraît la nécessité d’un alibi (1944, La Part du Diable)
+body-3-2	16. Le deuxième tour (1944, La Part du Diable)
+body-3-3	17. Hitler est-il l’Antéchrist ? (1944, La Part du Diable)
+body-3-4	18. Le Diable en chemise brune (1944, La Part du Diable)
+body-3-5	19. Le directeur d’inconscience (1944, La Part du Diable)
+body-3-6	20. Midas prolétarien (1944, La Part du Diable)
+body-3-7	21. Le Fléau de Dieu (1944, La Part du Diable)
+body-3-8	22. Le Faussaire (1944, La Part du Diable)
+body-3-9	23. Après Hitler (1944, La Part du Diable)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -691,10 +726,10 @@
                   <article role="article">
                     <a class="pb" href="#pb55" id="pb55">[p. 55]</a>
                     <h1 class="head kicker chapter">Deuxième partie</h1>
-                    <h1 class="head chapter">Hitler ou l’alibi<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">Hitler ou l’alibi</h1>
                     <section id="body-3-1" class="div level2">
                       <a class="pb" href="#pb57" id="pb57">[p. 57]</a>
-                      <h2 class="head"><span class="num">15</span><br class="lb"/>Où paraît la nécessité d’un alibi<a class="bookmark" href="4#body-3-1"> §</a></h2>
+                      <h2 class="head"><span class="num">15.</span><br class="lb"/>Où paraît la nécessité d’un alibi</h2>
                       <p class="p autofirst">Il est étrange de constater que depuis la fin du moyen-âge, depuis que Luther lui jeta son encrier en pleine figure, à la Wartburg, nous n’avons pas su composer une vision moderne du Diable. Seul Kierkegaard l’avait peut-être reconnu précisément sous les espèces de l’<i class="i">encre</i> d’imprimerie, lorsqu’il notait qu’on ne peut plus prêcher utilement le Christianisme dans un monde dominé par la presse quotidienne.</p>
                       <p class="p">Toutefois, l’incognito du Prince de ce Monde devint difficile à maintenir au cours du premier tiers de notre siècle, tandis que des catastrophes trop voyantes ébranlaient les bases de notre optimisme et de notre foi naïve dans l’élimination progressive du mal par la Science et la Prospérité.</p>
                       <p class="p">Sur nos têtes, au ciel de nos villes, de grands oiseaux tournaient avec un bourdonnement sinistre, et ces oiseaux nous attaquaient !</p>
@@ -704,12 +739,12 @@
                       <p class="p">— Si cela continue, se dit le Diable, les hommes s’apercevront que j’existe toujours. Or il faut que cela continue, mais je ne tiens pas à ce que l’on me reconnaisse. Délaissons donc cet insoutenable <i class="i">incognito</i> pour quelque prudent <i class="i">alibi…</i> La fausse piste la plus tentante, l’image la plus trompeuse du mal qu’ils chérissent au secret de leur cœur, et qu’il faut leur faire croire qu’ils détestent…</p>
                     </section>
                     <section id="body-3-2" class="div level2">
-                      <h2 class="head"><span class="num">16</span><br class="lb"/>Le deuxième tour<a class="bookmark" href="4#body-3-2"> §</a></h2>
+                      <h2 class="head"><span class="num">16.</span><br class="lb"/>Le deuxième tour</h2>
                       <p class="p autofirst">Et c’est ainsi qu’à partir de 1933, le Diable nous fit croire qu’il était simplement M. Adolf Hitler, et personne d’autre. Ce fut son second tour.</p>
                     </section>
                     <section id="body-3-3" class="div level2">
                       <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
-                      <h2 class="head"><span class="num">17</span><br class="lb"/>Hitler est-il l’Antéchrist ?<a class="bookmark" href="4#body-3-3"> §</a></h2>
+                      <h2 class="head"><span class="num">17.</span><br class="lb"/>Hitler est-il l’Antéchrist ?</h2>
                       <p class="p autofirst">Je tiens l’action d’Hitler pour plus réellement diabolique que ne l’imaginaient ceux qui ont cru voir en lui le Diable en personne. Si le Führer était le Diable ou l’Antéchrist, ce serait peut-être un peu trop simple. Il suffirait de le supprimer pour supprimer tout le mal qui est dans ce monde. Et, qu’on me pardonne, si le Diable était le Führer, il ne serait qu’un assez pauvre Diable.</p>
                       <p class="p">Quand nous nous figurons qu’Hitler est le Diable, nous faisons évidemment trop d’honneur à l’ex-caporal autrichien ; mais surtout nous nous faisons illusion sur la réelle stature de Satan. N’oublions pas que Satan est Légion ! Supprimer un dictateur ne suffirait nullement à débarrasser notre époque des maux profonds qui la travaillent.</p>
                       <p class="p">Il me souvient d’avoir entendu en Suisse, au début de la guerre, le grand théologien Karl Barth répondre à la fameuse question : Hitler est-il l’Antéchrist ? Voici ce qu’il disait en substance, et pour autant que ma mémoire ne le trahit pas : — « Cet homme qu’il est inutile de nommer, et dont la censure d’ailleurs m’a fait oublier le nom, ce n’est certainement pas l’Antéchrist. Car il n’a pas de pouvoir sur notre salut éternel. Le véritable Antéchrist ne se révélera qu’à la fin des temps, comme notre accusateur impitoyable. Et alors nous n’aurons plus d’autre intercesseur auprès de Dieu que Christ lui-même. Mais l’homme auquel vous pensez n’est encore qu’un petit monsieur, un premier avant-coureur de l’Antéchrist. Et la lutte qu’il mène contre les Églises et le monde chrétien n’est qu’un premier avertissement à nous 
@@ -718,7 +753,7 @@
                       <p class="p">Réponse dont je ne sais s’il faut admirer davantage la sévérité ou la dévastante modération. Mais ce « petit monsieur » et cet avertissement, nous fûmes bien forcés de les prendre au sérieux ! Pour n’être pas le Diable en personne, on peut être tout de même passablement diabolique. Et je vois peu d’aspects de l’action du Führer qui ne portent en évidence l’insigne satanique.</p>
                     </section>
                     <section id="body-3-4" class="div level2">
-                      <h2 class="head"><span class="num">18</span><br class="lb"/>Le Diable en chemise brune<a class="bookmark" href="4#body-3-4"> §</a></h2>
+                      <h2 class="head"><span class="num">18.</span><br class="lb"/>Le Diable en chemise brune</h2>
                       <p class="p autofirst">Certes, Hitler ne fut pas le grand <i class="i">ange déchu.</i> Mais certains pensent pour l’avoir éprouvé en sa présence par une espèce de frisson d’horreur sacrée, qu’il était le siège d’une « domination », d’un « trône » ou d’une « puissance », ainsi que St Paul désigne les esprits de second rang, qui peuvent aussi déchoir dans un corps d’homme quelconque et l’occuper comme une garnison.</p>
                       <p class="p">Je l’ai entendu prononcer l’un de ses grands discours, et je l’ai vu à la sortie de son culte, debout dans sa voiture qui longeait très lentement une rue étroite, mal éclairée. Une seule chaîne de SS le séparait de la foule. J’étais au premier rang, à deux mètres de lui. Un bon tireur l’eût descendu très facilement. Mais ce bon tireur ne s’est jamais trouvé, dans cent occasions analogues. Voilà le principal de ce que je sais sur Hitler. On peut réfléchir là-dessus. Réfléchir ou même délirer.</p>
                       <p class="p">
@@ -730,7 +765,7 @@
                       <p class="p">Un homme quelconque, transfiguré par sa ténébreuse « mission », — Schickelgruber habité par un trône… On a ri. On a cessé de rire. Et ce n’était pourtant qu’un petit envoyé…</p>
                     </section>
                     <section id="body-3-5" class="div level2">
-                      <h2 class="head"><span class="num">19</span><br class="lb"/>Le directeur d’inconscience<a class="bookmark" href="4#body-3-5"> §</a></h2>
+                      <h2 class="head"><span class="num">19.</span><br class="lb"/>Le directeur d’inconscience</h2>
                       <p class="p autofirst">L’hitlérisme s’est présenté à nous comme une catastrophe cosmique, comme un malheur plus étendu et plus profond que l’Histoire n’en connut depuis le Déluge. L’issue fatale de l’aventure n’affecte pas sa portée symbolique et son actualité profonde. Car le mouvement qu’Hitler sut enflammer au <span class="num">xx<sup class="sup">e</sup></span> siècle existait en puissance dans l’âme humaine depuis la formation de la première société ; et il existera sans aucun doute jusqu’à la fin de l’histoire de notre race. Hitler n’a fait que lui prêter figure et nom, à l’occasion d’une de ses éruptions les plus violentes. Pour nous, contemporains d’un paroxysme que nous avons souffert dans notre chair, il nous appartient de laisser une description valable de ce phénomène, pour les générations à venir.</p>
                       <p class="p">Je dis qu’avant la guerre de 1939, la majorité des hommes savaient qu’Hitler était le nom d’un désastre imminent et mondial. Pourtant on ne l’a pas arrêté. Voilà le point qu’il faut élucider.</p>
                       <p class="p">
@@ -751,7 +786,7 @@
  Qui ne voit qu’une telle religion hait mortellement la foi chrétienne, tournée vers le pardon, le futur éternel, le rachat du péché <i class="i">d’origine</i> ?</p>
                     </section>
                     <section id="body-3-6" class="div level2">
-                      <h2 class="head"><span class="num">20</span><br class="lb"/>Midas prolétarien<a class="bookmark" href="4#body-3-6"> §</a></h2>
+                      <h2 class="head"><span class="num">20.</span><br class="lb"/>Midas prolétarien</h2>
                       <p class="p autofirst">Le Prince de ce Monde peut tout avoir du monde sauf son âme, qui en fait le sens et le prix. De même Hitler, battant l’Europe entière, n’a jamais pu jouir de sa victoire. Gagnant tout, il n’a rien gagné. Car les religions de la terre sont religions de la mort. Vieille vérité théologique, que les malheurs du temps illustrent et raniment : « Ne craignez pas ceux qui tuent le corps et ne peuvent rien faire de plus. » Beaucoup ont découvert le sens de cette parole quand le Führer est entré dans Paris. Pour ma part, j’écrivis ce jour-là une page qui trouve ici son sens de parabole.</p>
                       <blockquote class="quote">
                         <p class="p autofirst">À cette heure où Paris exsangue voile sa face d’un nuage, et se tait, que son deuil soit le deuil du monde ! Nous sentons bien que nous sommes tous atteints.</p>
@@ -767,7 +802,7 @@
                     </section>
                     <section id="body-3-7" class="div level2">
                       <a class="pb" href="#pb68" id="pb68">[p. 68]</a>
-                      <h2 class="head"><span class="num">21</span><br class="lb"/>Le Fléau de Dieu<a class="bookmark" href="4#body-3-7"> §</a></h2>
+                      <h2 class="head"><span class="num">21.</span><br class="lb"/>Le Fléau de Dieu</h2>
                       <p class="p autofirst">S’ils ne savent pas ce qu’ils font, pitié pour eux, sans doute ? (Et pitié pour le Diable et son angoisse…) Mais le pardon ne nous appartient pas. Et le national-socialisme nous enseignait de le mépriser.</p>
                       <p class="p">Ce n’est pas l’aspect le moins diabolique de l’œuvre du Führer, que le caractère de <i class="i">châtiment sans pitié</i> des faiblesses du monde moderne, qu’a revêtu la violence hitlérienne.</p>
                       <p class="p">La tactique et la stratégie d’Hitler furent en somme très simples. Il est apparu dans le monde comme un maniaque qui entrerait dans une maison et qui essayerait d’ébranler tous les meubles. Si le meuble résiste, on n’insiste pas. Si le meuble craque, on pousse à fond, jusqu’à ce qu’il s’écroule. Ainsi, partout où quelque chose était vermoulu dans notre monde, dans son économie ou dans sa morale, Hitler a poussé à fond, jusqu’à ce que tout s’écroule. Partout où une faiblesse s’est révélée, il l’a châtiée sans scrupules ni pardon. Il a été le châtiment automatique, l’Attila de notre civilisation, — son Fléau de Dieu. Mais cette absence de pitié, justement, nous rappelle l’un des noms du Diable que nous citions plus haut : l’<i class="i">Accusateur.</i></p>
@@ -775,7 +810,7 @@
                     </section>
                     <section id="body-3-8" class="div level2">
                       <a class="pb" href="#pb69" id="pb69">[p. 69]</a>
-                      <h2 class="head"><span class="num">22</span><br class="lb"/>Le Faussaire<a class="bookmark" href="4#body-3-8"> §</a></h2>
+                      <h2 class="head"><span class="num">22.</span><br class="lb"/>Le Faussaire</h2>
                       <p class="p autofirst">Beaucoup de gens pensaient vers 1940 : « Le Führer doit être très méchant pour faire ainsi la guerre à tout le monde ». Mais ce n’était pas sa plus ou moins grande méchanceté qui était en cause. Ce n’est pas elle qui fut particulièrement diabolique, mais bien les justifications qu’il en donna, et l’espèce de douceur médiumnique dont il la revêtit aux yeux de son peuple.</p>
                       <p class="p">De l’aventure connue sous le nom d’hitlérisme, dégageons maintenant des conclusions valables pour bien d’autres époques de l’histoire.</p>
                       <p class="p">Ce n’est pas d’envahir un petit pays qui est diabolique cela s’est fait de tous les temps, c’était si l’on peut dire, égoïsme normal, soif de richesses, vulgaire impérialisme ; ce qui est diabolique, c’est d’appeler cela « consolider la paix » ou « fonder le nouvel ordre ». Ce n’est pas d’annexer la Tchécoslovaquie qui est diabolique, mais c’est de le faire au lendemain d’un discours où l’on invoque « le droit des peuples à disposer d’eux-mêmes ». Ce n’est pas de transformer le territoire du voisin en champ de carnage et de bombardement, mais c’est d’appeler ce champ de mort « espace vital ». Ce n’est pas de violer les Traités, mais c’est de vouloir s’innocenter en proclamant en tête d’un nouveau Code : « Le Droit est ce qui sert le peuple allemand ». Ce n’est pas d’attaquer les Églises, mais c’est de le faire en nationalisant la Providence, et en son nom. Ce qui est proprement diabolique, c’est moins de faire le mal que de le baptiser bien, quand on le fait. C’est de vider tous les 
@@ -783,7 +818,7 @@
  mots de leur sens, de les retourner et de les lire à rebours, selon la coutume des messes noires. C’est d’invertir et de ruiner par l’intérieur les critères mêmes de la vérité. Et c’est enfin d’aller loger le mensonge, de préférence, dans une parole de vérité !</p>
                     </section>
                     <section id="body-3-9" class="div level2">
-                      <h2 class="head"><span class="num">23</span><br class="lb"/>Après Hitler<a class="bookmark" href="4#body-3-9"> §</a></h2>
+                      <h2 class="head"><span class="num">23.</span><br class="lb"/>Après Hitler</h2>
                       <p class="p autofirst">Hitler s’est tu. L’aventure a pris fin dans la catastrophe prévue. Et devant le cadavre gisant de l’homme qui fit trembler tout l’univers, voici que nous nous écrions avec une stupéfaction mêlée de honte : « Comme il était petit ! » Il n’était grand, comme Satan lui-même, que de la grandeur de nos misères secrètes.</p>
                       <p class="p">En Hitler, le Diable avait trouvé l’alibi le plus populaire qu’il eût jamais imaginé. C’est une partie perdue, mais que lui importe ? Il sait qu’il a le temps pour lui, si Dieu garde l’éternité.</p>
                       <p class="p">Quel sera le nouveau plan stratégique du Malin ? Comment va-t-il tirer de sa défaite les avantages qu’il ne pouvait attendre d’une victoire par délégation ? Voyez-le, qui se frotte les mains. La paix, pour lui, n’est pas le malheur que l’on croit. C’est le temps où l’esprit va reprendre ses droits, pensent les hommes. Mais quand je suis fort, dit St Paul, c’est alors justement que je suis faible…</p>
@@ -857,7 +892,7 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -866,31 +901,31 @@
                       <a href="#">II. Hitler ou l’alibi</a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-3-1"><span class="num">15</span>.  Où paraît la nécessité d’un alibi</a>
+                          <a href="4#body-3-1"><span class="num">15.</span>  Où paraît la nécessité d’un alibi</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-2"><span class="num">16</span>.  Le deuxième tour</a>
+                          <a href="4#body-3-2"><span class="num">16.</span>  Le deuxième tour</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-3"><span class="num">17</span>.  Hitler est-il l’Antéchrist ?</a>
+                          <a href="4#body-3-3"><span class="num">17.</span>  Hitler est-il l’Antéchrist ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-4"><span class="num">18</span>.  Le Diable en chemise brune</a>
+                          <a href="4#body-3-4"><span class="num">18.</span>  Le Diable en chemise brune</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-5"><span class="num">19</span>.  Le directeur d’inconscience</a>
+                          <a href="4#body-3-5"><span class="num">19.</span>  Le directeur d’inconscience</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-6"><span class="num">20</span>.  Midas prolétarien</a>
+                          <a href="4#body-3-6"><span class="num">20.</span>  Midas prolétarien</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-7"><span class="num">21</span>.  Le Fléau de Dieu</a>
+                          <a href="4#body-3-7"><span class="num">21.</span>  Le Fléau de Dieu</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-8"><span class="num">22</span>.  Le Faussaire</a>
+                          <a href="4#body-3-8"><span class="num">22.</span>  Le Faussaire</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-3-9"><span class="num">23</span>.  Après Hitler</a>
+                          <a href="4#body-3-9"><span class="num">23.</span>  Après Hitler</a>
                         </li>
                       </ul>
                     </li>
@@ -948,6 +983,26 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>24. Erreur fatale des démocraties – 25. Notre primitivisme – 26. « Nous sommes tous coupables » – 27. Signalement du Diable déguisé en démocrate – 28. L’Humour et la démocratie – 29. Le démon de la liberté – 30. Le démon de la police – 31. Le démon de la sécurité – 32. Le démon de l’insignifiance – 33. Brève histoire d’un couple correct – 34. Le démon de la popularité – 35. Paradoxe de la démocratie – 36. La cinquième colonne de tous les temps – 37. Une bonne adresse</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	24. Erreur fatale des démocraties (1944, La Part du Diable)
+body-4-2	25. Notre primitivisme (1944, La Part du Diable)
+body-4-3	26. « Nous sommes tous coupables » (1944, La Part du Diable)
+body-4-4	27. Signalement du Diable déguisé en démocrate (1944, La Part du Diable)
+body-4-5	28. L’Humour et la démocratie (1944, La Part du Diable)
+body-4-6	29. Le démon de la liberté (1944, La Part du Diable)
+body-4-7	30. Le démon de la police (1944, La Part du Diable)
+body-4-8	31. Le démon de la sécurité (1944, La Part du Diable)
+body-4-9	32. Le démon de l’insignifiance (1944, La Part du Diable)
+body-4-10	33. Brève histoire d’un couple correct (1944, La Part du Diable)
+body-4-11	34. Le démon de la popularité (1944, La Part du Diable)
+body-4-12	35. Paradoxe de la démocratie (1944, La Part du Diable)
+body-4-13	36. La cinquième colonne de tous les temps (1944, La Part du Diable)
+body-4-14	37. Une bonne adresse (1944, La Part du Diable)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -958,10 +1013,10 @@
                   <article role="article">
                     <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
                     <h1 class="head kicker chapter">Troisième partie</h1>
-                    <h1 class="head chapter">Le Diable démocrate<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">Le Diable démocrate</h1>
                     <section id="body-4-1" class="div level2">
                       <a class="pb" href="#pb79" id="pb79">[p. 79]</a>
-                      <h2 class="head"><span class="num">24</span><br class="lb"/>Erreur fatale des démocraties<a class="bookmark" href="5#body-4-1"> §</a></h2>
+                      <h2 class="head"><span class="num">24.</span><br class="lb"/>Erreur fatale des démocraties</h2>
                       <p class="p autofirst">Avec une aisance alarmante, nous avons retrouvé, dans la figure qui symbolise toutes les terreurs du siècle, la plupart des aspects classiques du Démon : l’esprit tombé, le prince de l’ici-bas, le tentateur, l’accusateur et le menteur. Il reste à dépister Légion, celui qui dit toujours : ce n’est pas moi, c’est l’autre ! c’est la masse ! je n’y étais pas ! Celui qui n’est jamais où vous croyez le prendre, où les sanctions l’attendent, où le mal se confesse. Eh bien, ce sera vite fait, nous connaissons le tour : ce qu’il y eut finalement de plus diabolique chez Hitler, c’est la façon dont il persuada le peuple allemand que toutes ses misères venaient de l’extérieur, de l’étranger, du Traité de Versailles, ou des Juifs, ou des Soviets, ou des Ploutocrates anglo-saxons, donc <i class="i">des autres</i>, toujours des autres, — jamais du peuple allemand lui-même. C’est à ce procédé que l’on reconnaît le mieux la tactique de Satan chez tous ses délégués.</p>
                       <p class="p">Mais ici, prenons garde ! Ce livre est plein de pièges. Si l’on vient d’accepter les phrases qui précèdent, c’est peut-être assez grave pour nous.</p>
                       <p class="p">Car voici le point précis où tout se renverse, le point où nos accusations, délaissant nos ennemis abattus, vont porter de plein fouet contre nous-mêmes.</p>
@@ -971,7 +1026,7 @@
                       <p class="p">Le tour est joué. Nous voilà pris. Si le Diable est Hitler, nous sommes du bon côté ? C’est un ennemi battu, nous sommes donc quittes ? Le Diable n’en demandait pas plus : il adore notre bonne conscience. C’est la grande porte par laquelle il entre en nous de préférence, en se faisant annoncer sous un faux nom.</p>
                     </section>
                     <section id="body-4-2" class="div level2">
-                      <h2 class="head"><span class="num">25</span><br class="lb"/>Notre primitivisme<a class="bookmark" href="5#body-4-2"> §</a></h2>
+                      <h2 class="head"><span class="num">25.</span><br class="lb"/>Notre primitivisme</h2>
                       <p class="p autofirst">Chacun sait que les primitifs de la Mélanésie, victimes des plus célèbres études sociologiques du siècle, ont coutume de personnifier les forces mauvaises qui les menacent, les causes des crimes, des accidents, de la stérilité ou de la mort. Que ce soit un sorcier, un profanateur du sacré, un animal, un nuage, un bout de bois colorié, toujours la cause du mal dont souffrent ces sauvages est indépendante d’eux-mêmes, et doit donc être combattue et anéantie hors d’eux-mêmes.</p>
                       <p class="p">À l’inverse, le christianisme s’est efforcé depuis des siècles de nous faire comprendre que le Royaume de Dieu est en nous, que le Mal aussi est en nous, et que le champ de leur bataille n’est pas ailleurs que dans nos cœurs. Cette éducation a largement échoué. Nous persistons dans notre primitivisme. Nous rendons responsables de nos maux les gens 
 <a class="pb" href="#pb81" id="pb81">[p. 81]</a>
@@ -985,7 +1040,7 @@
                       <p class="p">Et c’est pourquoi je pense que le chrétien véritable, s’il existait, serait cet homme qui n’aurait d’autre ennemi à craindre que celui qu’il loge en lui-même.</p>
                     </section>
                     <section id="body-4-3" class="div level2">
-                      <h2 class="head"><span class="num">26</span><br class="lb"/>« Nous sommes tous coupables »<a class="bookmark" href="5#body-4-3"> §</a></h2>
+                      <h2 class="head"><span class="num">26.</span><br class="lb"/>« Nous sommes tous coupables »</h2>
                       <p class="p autofirst">Voici une remarque des plus simples : personne n’a jamais prétendu qu’il agissait par mauvaise volonté. Nous sommes tous, nos ennemis y compris, des « hommes de bonne volonté »<a class="noteref" href="5#note11" id="note11_"><sup>11</sup></a>. Pourtant voyez ce qui se passe dans le monde, et dites qui l’a fait ? Le Diable ? Oui, mais par nos mains et nos pensées. C’est ici le moment de nous rappeler notre slogan démocratique : Tous les hommes se valent ! Certes, il y a des degrés dans le mal, il y a des inégalités dans la responsabilité. Mais nous sommes tous dans le mal, nous sommes tous les complices des plus grands responsables du monde.</p>
                       <p class="p">Cependant, évitons à tous prix un malentendu menaçant. L’intention des remarques précédentes n’est nullement de justifier « les autres », que l’on avait d’abord accusés de tout le mal ; ni de nous fourrer tous dans le même sac, sans distinctions, comme semblait le faire en 1939 un manifeste 
 <a class="pb" href="#pb83" id="pb83">[p. 83]</a>
@@ -999,7 +1054,7 @@
  « Nous sommes tous coupables, me disent-ils, donc nous n’avons pas le droit moral de nous battre contre Hitler. » — Nous sommes tous coupables, certes, mais si nous en sommes persuadés, il ne nous reste plus qu’à combattre le mal, en nous et hors de nous, c’est le même mal ! En nous par des moyens spirituels et moraux, hors de nous par des moyens matériels et militaires, conformément à la nature du péril. Si quelqu’un met le feu à une maison, il faut des pompiers, coupables ou non, pour éteindre l’incendie ; et des policiers, coupables ou non, pour arrêter l’incendiaire. Or l’Histoire nous a mis, bon gré mal gré, dans le rôle technique des pompiers et des gendarmes. Cela ne fait pas de nous des saints. Cela n’implique même pas que nous soyons meilleurs que les autres. Mais nous serons sûrement pires si nous ne faisons pas notre métier.</p>
                     </section>
                     <section id="body-4-4" class="div level2">
-                      <h2 class="head"><span class="num">27</span><br class="lb"/>Signalement du Diable déguisé en démocrate<a class="bookmark" href="5#body-4-4"> §</a></h2>
+                      <h2 class="head"><span class="num">27.</span><br class="lb"/>Signalement du Diable déguisé en démocrate</h2>
                       <p class="p autofirst">N’ayant pas su reconnaître l’un des traits les plus précisément diaboliques chez Hitler — sa façon de localiser tout le mal à l’étranger, pour s’innocenter — nous sommes tombés dans la même erreur que lui : nous avons fait d’Hitler une image du Démon toute extérieure à notre réalité. Et pendant que nous la regardions, fascinés, le Démon est revenu par 
 <a class="pb" href="#pb85" id="pb85">[p. 85]</a>
  derrière nous tourmenter sous des déguisements qui ne pouvaient éveiller nos soupçons.</p>
@@ -1028,7 +1083,7 @@
                     </section>
                     <section id="body-4-5" class="div level2">
                       <a class="pb" href="#pb90" id="pb90">[p. 90]</a>
-                      <h2 class="head"><span class="num">28</span><br class="lb"/>L’Humour et la démocratie<a class="bookmark" href="5#body-4-5"> §</a></h2>
+                      <h2 class="head"><span class="num">28.</span><br class="lb"/>L’Humour et la démocratie</h2>
                       <p class="p autofirst">Il faut se moquer de la démocratie. D’abord parce qu’elle est le seul régime qui tolère une critique railleuse. Ensuite, parce que l’humour est nécessaire pour la bonne marche des institutions, dans un ordre social presque entièrement profane. Voici comment.</p>
                       <p class="p">Le Diable est sardonique et ironique à souhait, mais il ne supporte pas l’humour, et c’est par là, probablement, qu’il s’accorde le moins avec notre régime. Car la Démocratie étant basée sur cette supposition, elle-même humoristique, que tous les hommes sont égaux, elle ne peut fonctionner sans humour, non plus qu’une machine sans huile et sans jeu entre ses parties. C’est le sens de l’humour qui sauve les hommes vivant dans un État démocratique. Et de quoi les sauve-t-il ? De l’asphyxie par la proximité, qui serait le résultat fatal de notre destruction des hiérarchies. Grâce au sens de l’humour, une distance respirable et respectable peut être rétablie entre voisins, entre maris et femmes, ou entre fonctionnaires et victimes normales de l’État.</p>
                       <p class="p">Prenez en effet une démocratie quelconque. Supprimez toute espèce d’humour aussi bien dans sa vie quotidienne — rouspétance du citoyen — que dans sa vie proprement politique — farce des partis — et vous obtiendrez au terme de l’opération, si elle est énergiquement poussée, l’État totalitaire dans sa splendeur native.</p>
@@ -1037,7 +1092,7 @@
  marques d’un esprit totalitaire. Qu’ils se reconnaissent eux-mêmes à ce signe ! Je vais passer en revue les principaux démons que le Diable délègue au soin de faire de nos démocraties ses colonies-modèles.</p>
                     </section>
                     <section id="body-4-6" class="div level2">
-                      <h2 class="head"><span class="num">29</span><br class="lb"/>Le démon de la liberté<a class="bookmark" href="5#body-4-6"> §</a></h2>
+                      <h2 class="head"><span class="num">29.</span><br class="lb"/>Le démon de la liberté</h2>
                       <p class="p autofirst">Pourquoi n’a-t-on jamais aimé et célébré la Liberté autant qu’à l’époque moderne ? Serait-ce qu’elle est plus que jamais lointaine ? Ou au contraire parce qu’on la sent enfin proche et facile ? C’est l’un et l’autre, selon l’âme qu’on y porte, et le sens que l’on prête au mot.</p>
                       <p class="p">Pour la plupart de mes contemporains, la liberté, c’est le droit de ne pas obéir. Quand on le leur laisse, ils s’ennuient, et bientôt ils appellent un tyran. Mais dès que le tyran sévit, leur amour de la liberté les pousse aux sommets du courage. Et ainsi de suite : ce jeu de coquetterie profonde conditionne en partie l’Histoire. C’est dire que fonder un régime sur le beau mot de Liberté équivaut à substituer à la politique de puissance telle que la formula Machiavel, une politique du romanesque collectif. (Ainsi le mariage d’amour sentimental a pris la place du mariage de raison conclu par les parents et les notaires ; et c’est sans doute au détriment de la stabilité des mœurs.)</p>
                       <p class="p">Or ce système ne fonctionne pas sans illusions, compensées par autant de déceptions automatiques. La liberté pour laquelle 
@@ -1053,7 +1108,7 @@
                     </section>
                     <section id="body-4-7" class="div level2">
                       <a class="pb" href="#pb94" id="pb94">[p. 94]</a>
-                      <h2 class="head"><span class="num">30</span><br class="lb"/>Le démon de la police<a class="bookmark" href="5#body-4-7"> §</a></h2>
+                      <h2 class="head"><span class="num">30.</span><br class="lb"/>Le démon de la police</h2>
                       <p class="p autofirst">Le voyageur et l’émigré qui défilent en rade de New York devant le symbole dressé sur un ciel commercial de la Liberté aux yeux vides<a class="noteref" href="5#note15" id="note15_"><sup>15</sup></a>, ne tardent pas à recevoir un rappel aux réalités. C’est en effet ce moment précis que choisissent normalement les fonctionnaires des douanes et du Service d’immigration pour monter à bord du navire : nous approchons d’Ellis Island.</p>
                       <p class="p">En Europe et dans les deux Amériques, j’ai traversé durant cette guerre une bonne douzaine de frontières, et j’ai rempli quelques centaines de questionnaires, dont l’un au moins comportait 32 pages. Ces confessions générales m’ont valu, je dois le dire, autant d’absolutions. Mais loin de me procurer le sentiment d’une bonne conscience civique brevetée par l’État, elles me laissaient chaque fois un peu plus incertain quant à l’identité que je venais d’établir. De l’un à l’autre de ces questionnaires, un personnage conventionnel se précisait : il portait bien mon nom, mon âge et mes signes particuliers, mais plus je démontrais sa cohérence, plus s’estompait en moi la sensation d’être identique à mes données légales. C’était chaque fois un procès à gagner, une culpabilité virtuelle à démentir, un acquittement décerné par la chance. Je sentais s’approcher le moment où la Police estimerait en savoir plus que moi sur mon propre compte. Sourde aux protestations d’un moi réel, mais qui ne pourrait produire ses preuves dans le langage prévu par tous ces documents, elle allait me démontrer que j’étais un Rouge, 
 <a class="pb" href="#pb95" id="pb95">[p. 95]</a>
@@ -1067,7 +1122,7 @@
                       <p class="p">Je dis que le Diable a toutes les chances de mener le jeu partout où le sens s’évanouit, quand l’organisation perdant la tête se met à fonctionner contre les hommes sans que personne n’y puisse plus rien. Présentation de la police moderne.</p>
                     </section>
                     <section id="body-4-8" class="div level2">
-                      <h2 class="head"><span class="num">31</span><br class="lb"/>Le démon de la sécurité<a class="bookmark" href="5#body-4-8"> §</a></h2>
+                      <h2 class="head"><span class="num">31.</span><br class="lb"/>Le démon de la sécurité</h2>
                       <p class="p autofirst">Lorsque l’homme se trouve confronté avec un des périls normaux de l’existence, deux possibilités s’offrent à lui : ou bien il cherche à développer des forces supérieures à celles qui le menacent, ou bien il cherche à supprimer le péril. Notre choix est fait dès longtemps : c’est le désir de supprimer le péril, plutôt que de le dominer, qui définit l’attitude bourgeoise et l’esprit général de nos démocraties.</p>
                       <p class="p">
 <a class="pb" href="#pb97" id="pb97">[p. 97]</a>
@@ -1077,7 +1132,7 @@
                     </section>
                     <section id="body-4-9" class="div level2">
                       <a class="pb" href="#pb98" id="pb98">[p. 98]</a>
-                      <h2 class="head"><span class="num">32</span><br class="lb"/>Le démon de l’insignifiance<a class="bookmark" href="5#body-4-9"> §</a></h2>
+                      <h2 class="head"><span class="num">32.</span><br class="lb"/>Le démon de l’insignifiance</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">… neither having the accent of Christians, nor the gait of Christian, pagan, nor man.</p>
                         <div class="bibl">(<span class="sc"><i class="i">Hamlet</i></span> III, 2)</div>
@@ -1100,7 +1155,7 @@
                       <p class="p">Mais je voudrais donner un autre exemple des méfaits de l’insignifiance, créatrice de névroses dans la vie d’aujourd’hui.</p>
                     </section>
                     <section id="body-4-10" class="div level2">
-                      <h2 class="head"><span class="num">33</span><br class="lb"/>Brève histoire d’un couple correct<a class="bookmark" href="5#body-4-10"> §</a></h2>
+                      <h2 class="head"><span class="num">33.</span><br class="lb"/>Brève histoire d’un couple correct</h2>
                       <p class="p autofirst">Monsieur et Madame sont parfaitement corrects et presque suaves en famille. Scrupuleusement, ils entretiennent une atmosphère de paix dans le foyer. On n’injurie jamais les bonnes, d’ailleurs elles sont si rares. On ne fesse pas les enfants : cela pourrait leur donner des complexes. Jamais une scène de ménage à table, jamais une faute de tenue, un mot plus haut qu’un autre.</p>
                       <p class="p">« Réellement, docteur — et c’est Madame qui parle — je ne vois pas quel reproche nous aurions à nous faire à cet égard. S’il arrive qu’il y ait un différend entre mon mari et moi, nous ne l’avons jamais laissé percer devant les enfants. Non, docteur, ne cherchez pas de ce côté. Si ma petite Mary est folle, vraiment, ce n’est pas qu’elle souffre de l’atmosphère familiale. Mais je vais vous dire : du côté de mon mari, on n’a pas toujours été très équilibré. Entre nous, une de ses tantes est morte à l’asile. Cela se sent parfois chez lui.</p>
                       <p class="p">
@@ -1111,7 +1166,7 @@
                       <p class="p">— Je vous dis qu’ils savent tout sans rien entendre. Ce qu’ils entendent le mieux, c’est tout ce que vous ne dites pas, quand vous êtes devant eux à table, si polis. La petite Mary n’est pas folle, mais comment les nerfs d’un enfant supporteraient-ils le bruit et la fureur qui se déchaînent dans vos silences conjugaux, sans même que vous le sachiez, sauf quand une lampe s’éteint ?</p>
                     </section>
                     <section id="body-4-11" class="div level2">
-                      <h2 class="head"><span class="num">34</span><br class="lb"/>Le démon de la popularité<a class="bookmark" href="5#body-4-11"> §</a></h2>
+                      <h2 class="head"><span class="num">34.</span><br class="lb"/>Le démon de la popularité</h2>
                       <p class="p autofirst">De toutes les créatures qui aient jamais existé, le Diable est celle qui sait le mieux « <i class="i">how to win friends and influence people</i> ». C’est pourquoi la démocratie moderne est spécialement tentée d’écouter ses conseils.</p>
                       <p class="p">Le pouvoir d’un régime fondé sur le grand nombre dépend des caprices féminins de l’Opinion. Il en résulte fatalement que le problème majeur des dirigeants sera de rendre <i class="i">populaires</i>, plutôt que justes ou efficaces, les mesures gouvernementales. 
 <a class="pb" href="#pb103" id="pb103">[p. 103]</a>
@@ -1125,7 +1180,7 @@
                     </section>
                     <section id="body-4-12" class="div level2">
                       <a class="pb" href="#pb105" id="pb105">[p. 105]</a>
-                      <h2 class="head"><span class="num">35</span><br class="lb"/>Paradoxe de la démocratie<a class="bookmark" href="5#body-4-12"> §</a></h2>
+                      <h2 class="head"><span class="num">35.</span><br class="lb"/>Paradoxe de la démocratie</h2>
                       <p class="p autofirst">Avec beaucoup d’intelligence, les totalitaires ont mis la bêtise de leur côté. Sous leur régime, les imbéciles n’ont rien à perdre. Les âmes fortes y sont éliminées par le ressentiment brutal des plébéiens, les âmes faibles aisément convaincues qu’elles n’ont pas droit à l’existence personnelle, les âmes moyennes utilisées.</p>
                       <p class="p">Comme on le voit, le régime totalitaire n’est que la forme basse de la démocratie. Déchaînez parmi nous les démons que je viens de décrire, et nos démocraties ne se distingueront plus des régimes totalitaires que par un certain manque de rigueur, un désordre plus apparent, une phraséologie moins entraînante.</p>
                       <p class="p">La démocratie saine pour laquelle je lutterai n’est, comme la santé, qu’une utopie. Je l’imagine de la manière suivante : l’intelligence n’aurait rien à y perdre. Les âmes fortes y seraient à l’aise, les âmes faibles y seraient éduquées, les âmes moyennes s’y sentiraient gênées d’être moyennes et de faire nombre. On y verrait des élites dures, aux disciplines prestigieuses, le triomphe des petits groupes sur la masse, et l’État respectueux des vocations les plus étranges.</p>
@@ -1133,7 +1188,7 @@
                     </section>
                     <section id="body-4-13" class="div level2">
                       <a class="pb" href="#pb106" id="pb106">[p. 106]</a>
-                      <h2 class="head"><span class="num">36</span><br class="lb"/>La cinquième colonne de tous les temps<a class="bookmark" href="5#body-4-13"> §</a></h2>
+                      <h2 class="head"><span class="num">36.</span><br class="lb"/>La cinquième colonne de tous les temps</h2>
                       <p class="p autofirst">J’ai dit du mal de tout le monde, des totalitaires et des démocrates, des autres, de nous, et donc de moi aussi. Mais si le Diable est partout, sa figure se brouille. Et les définitions que j’en ai données successivement, à force de se compenser, finissent par se neutraliser. Le Diable n’est pas Hitler, qui pourtant est démoniaque ; il n’est pas non plus la démocratie, qui pourtant n’est pas sainte ; mais il agit partout, il est dans tout… Vos descriptions, me dira-t-on, ne sont pas bien claires. Pourquoi ne pas nous peindre une image nette et facilement reconnaissable de la personne de Satan ?</p>
                       <p class="p">C’est que le Diable, par nature, ne sera jamais clairement et honnêtement définissable. Il est celui qui s’arrange toujours pour être à la fois juge et partie dans le procès de sa définition. Un être paradoxal par essence. Il existe, bien sûr, mais il est dans tout être <i class="i">ce qui n’est pas</i>, ce qui tend au néant, ce qui souhaite secrètement la destruction de l’existence, — celle des autres ou la sienne propre. Sa qualité de n’être pas ceci ou cela de positif lui donne une liberté indéfinie d’action, d’incognito et d’alibis à perte de vue.</p>
                       <p class="p">Vulgaire et séduisant, pharisien et voyou, hypocrite et cynique à la fois, repoussant mais non moins fascinant, il est sans doute la créature la plus poétique du monde. Il est beau aux yeux des naïfs qui croient que le mal doit toujours être laid ; et il est d’une laideur irrésistiblement attirante aux yeux des désabusés ou des raffinés. En bref, il n’est jamais où vous pensiez le trouver. Il imite en la caricaturant l’action même du Saint Esprit, toujours ambiguë pour notre doute et déconcertante pour notre raison.</p>
@@ -1144,7 +1199,7 @@
                       <p class="p">— Mais alors ?…</p>
                     </section>
                     <section id="body-4-14" class="div level2">
-                      <h2 class="head"><span class="num">37</span><br class="lb"/>Une bonne adresse<a class="bookmark" href="5#body-4-14"> §</a></h2>
+                      <h2 class="head"><span class="num">37.</span><br class="lb"/>Une bonne adresse</h2>
                       <p class="p"><i class="i">—</i> Si vous voulez déjouer le premier tour du Diable, et son second tour du même coup, si vous tenez sérieusement à l’attraper je vais vous dire où vous le trouverez le plus sûrement : <i class="i">dans le fauteuil où vous êtes assis.</i></p>
                     </section>
                     <section class="footnotes">
@@ -1204,7 +1259,7 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -1216,46 +1271,46 @@
                       <a href="#">III. Le Diable démocrate</a>
                       <ul>
                         <li class="collateral">
-                          <a href="5#body-4-1"><span class="num">24</span>.  Erreur fatale des démocraties</a>
+                          <a href="5#body-4-1"><span class="num">24.</span>  Erreur fatale des démocraties</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-2"><span class="num">25</span>.  Notre primitivisme</a>
+                          <a href="5#body-4-2"><span class="num">25.</span>  Notre primitivisme</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-3"><span class="num">26</span>,  « Nous sommes tous coupables »</a>
+                          <a href="5#body-4-3"><span class="num">26.</span>  « Nous sommes tous coupables »</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-4"><span class="num">27</span>.  Signalement du Diable déguisé en démocrate</a>
+                          <a href="5#body-4-4"><span class="num">27.</span>  Signalement du Diable déguisé en démocrate</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-5"><span class="num">28</span>.  L’Humour et la démocratie</a>
+                          <a href="5#body-4-5"><span class="num">28.</span>  L’Humour et la démocratie</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-6"><span class="num">29</span>.  Le démon de la liberté</a>
+                          <a href="5#body-4-6"><span class="num">29.</span>  Le démon de la liberté</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-7"><span class="num">30</span>.  Le démon de la police</a>
+                          <a href="5#body-4-7"><span class="num">30.</span>  Le démon de la police</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-8"><span class="num">31</span>.  Le démon de la sécurité</a>
+                          <a href="5#body-4-8"><span class="num">31.</span>  Le démon de la sécurité</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-9"><span class="num">32</span>.  Le démon de l’insignifiance</a>
+                          <a href="5#body-4-9"><span class="num">32.</span>  Le démon de l’insignifiance</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-10"><span class="num">33</span>.  Brève histoire d’un couple correct</a>
+                          <a href="5#body-4-10"><span class="num">33.</span>  Brève histoire d’un couple correct</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-11"><span class="num">34</span>.  Le démon de la popularité</a>
+                          <a href="5#body-4-11"><span class="num">34.</span>  Le démon de la popularité</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-12"><span class="num">35</span>.  Paradoxe de la démocratie</a>
+                          <a href="5#body-4-12"><span class="num">35.</span>  Paradoxe de la démocratie</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-13"><span class="num">36</span>.  La cinquième colonne de tous les temps</a>
+                          <a href="5#body-4-13"><span class="num">36.</span>  La cinquième colonne de tous les temps</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-4-14"><span class="num">37</span>.  Une bonne adresse</a>
+                          <a href="5#body-4-14"><span class="num">37.</span>  Une bonne adresse</a>
                         </li>
                       </ul>
                     </li>
@@ -1310,6 +1365,33 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>38. Le diable dans nos dieux – 39. Le Diable dans l’Église – 40. Le Diable théologien – 41. Le Diable et le philanthrope – 42. Le Diable homme du monde – 43. Mr. Time, l’homme d’affaires pressé – 44. Le Diable auteur – 45. Le pacte avec le Diable – 46. Le Diable tire les cartes – 47. Le mal du siècle, la dépersonnalisation – 48. La Tour de Babel – 49. L’Ennui, sentiment moderne – 50. « Vital » et autres sophismes – 51. Le Diable au cœur – 52. La Passion – 53. Diable et sexe – 54. L’Éternel Féminin – 55. La bastonnade (dessin animé) – 56. Situations sans issue – 57. Le coup de pistolet – 58. Ce livre est-il sans issue ?</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	38. Le diable dans nos dieux (1944, La Part du Diable)
+body-5-2	39. Le Diable dans l’Église (1944, La Part du Diable)
+body-5-3	40. Le Diable théologien (1944, La Part du Diable)
+body-5-4	41. Le Diable et le philanthrope (1944, La Part du Diable)
+body-5-5	42. Le Diable homme du monde (1944, La Part du Diable)
+body-5-6	43. Mr. Time, l’homme d’affaires pressé (1944, La Part du Diable)
+body-5-7	44. Le Diable auteur (1944, La Part du Diable)
+body-5-8	45. Le pacte avec le Diable (1944, La Part du Diable)
+body-5-9	46. Le Diable tire les cartes (1944, La Part du Diable)
+body-5-10	47. Le mal du siècle, la dépersonnalisation (1944, La Part du Diable)
+body-5-11	48. La Tour de Babel (1944, La Part du Diable)
+body-5-12	49. L’Ennui, sentiment moderne (1944, La Part du Diable)
+body-5-13	50. « Vital » et autres sophismes (1944, La Part du Diable)
+body-5-14	51. Le Diable au cœur (1944, La Part du Diable)
+body-5-15	52. La Passion (1944, La Part du Diable)
+body-5-16	53. Diable et sexe (1944, La Part du Diable)
+body-5-17	54. L’Éternel Féminin (1944, La Part du Diable)
+body-5-18	55. La bastonnade (dessin animé) (1944, La Part du Diable)
+body-5-19	56. Situations sans issue (1944, La Part du Diable)
+body-5-20	57. Le coup de pistolet (1944, La Part du Diable)
+body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1320,10 +1402,10 @@
                   <article role="article">
                     <a class="pb" href="#pb109" id="pb109">[p. 109]</a>
                     <h1 class="head kicker chapter">Quatrième partie</h1>
-                    <h1 class="head chapter">Le Diable dans nos dieux et dans nos maladies<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Le Diable dans nos dieux et dans nos maladies</h1>
                     <section id="body-5-1" class="div level2">
                       <a class="pb" href="#pb111" id="pb111">[p. 111]</a>
-                      <h2 class="head"><span class="num">38</span><br class="lb"/>Le diable dans nos dieux<a class="bookmark" href="6#body-5-1"> §</a></h2>
+                      <h2 class="head"><span class="num">38.</span><br class="lb"/>Le diable dans nos dieux</h2>
                       <p class="p autofirst">Certes, il existe aussi un incognito divin, et c’est l’Incarnation, c’est-à-dire Dieu caché autant que révélé dans l’homme Jésus. Et quelques-uns seulement surent connaître le Christ dans le fils de Joseph, charpentier de village. Mais l’incognito et l’alibi du Diable sont exactement inverses : c’est dans l’image de nos dieux qu’il va se dissimuler, au cœur même de nos idéaux et de nos vérités trop humaines, dans les religions que nous confabulons en dehors de la foi révélée. Le Diable nous empêche de reconnaître Dieu dans Jésus-Christ, mais à l’inverse, il nous empêche aussi de nous reconnaître dans nos idoles.</p>
                       <p class="p">Voici comment les hommes s’enchaînent aux dieux qu’ils créent. Ceux qui ne l’ignoraient pas ont renié la Révélation. Dès lors ils en étaient réduits à inventer Dieu. Mais on n’invente que ce que l’on est sans le savoir. Ils ont donc inventé un « Dieu » qui était le moi conscient ou inconscient de ses croyants. Une image de leur impérialisme, ou une compensation rêvée de leurs défauts. Et ce fut le Dieu de la Raison pour les tempéraments rationalistes, le Dieu de l’Instinct et de la Passion pour les hyper-civilisés, le Dieu du Succès pour les robustes puritains, le Dieu philanthrope pour les avares et les timides, etc. Tout ceci pour la bourgeoisie et le siècle individualiste.</p>
                       <p class="p">Les suivants, nos contemporains, n’ont pas dit « Dieu », moins hypocrites. Mais ils ont dit Nation, ou Race, ou Classe. Dans ces trois entités divinisées, le <i class="i">moi</i> n’est plus déguisé qu’en un <i class="i">nous.</i></p>
@@ -1336,7 +1418,7 @@
                     </section>
                     <section id="body-5-2" class="div level2">
                       <a class="pb" href="#pb113" id="pb113">[p. 113]</a>
-                      <h2 class="head"><span class="num">39</span><br class="lb"/>Le Diable dans l’Église<a class="bookmark" href="6#body-5-2"> §</a></h2>
+                      <h2 class="head"><span class="num">39.</span><br class="lb"/>Le Diable dans l’Église</h2>
                       <p class="p autofirst">Un jour l’Église a été qualifiée de « Satan » par Jésus lui-même. Ce fut quelques minutes après sa fondation, et dans la personne même de celui sur lequel Jésus venait de la fonder : l’apôtre Pierre.</p>
                       <p class="p">
                         <i class="i">Jésus avait demandé à ses disciples : — Et vous, qui dites-vous que je suis ? «  Simon Pierre répondit : Tu es le Christ, le Fils du Dieu vivant. Jésus, reprenant la parole, lui dit : Tu es heureux, Simon, pis de Jonas ; car ce ne sont pas la chair et le sang qui t’ont révélé cela, mais c’est mon Père qui est dans les deux  » (Matthieu 16).</i>
@@ -1361,7 +1443,7 @@
                     </section>
                     <section id="body-5-3" class="div level2">
                       <a class="pb" href="#pb116" id="pb116">[p. 116]</a>
-                      <h2 class="head"><span class="num">40</span><br class="lb"/>Le Diable théologien<a class="bookmark" href="6#body-5-3"> §</a></h2>
+                      <h2 class="head"><span class="num">40.</span><br class="lb"/>Le Diable théologien</h2>
                       <p class="p autofirst">Mais tout cela, pensera-t-on, c’est de la théologie. Je connais peu d’occupations plus décriées dans notre siècle, peu de mots qui gardent moins d’appel pour nos contemporains, et je ne parle pas des incultes mais de l’élite intellectuelle. Vous rencontrez de grands savants, des philosophes, des moralistes, des écrivains connus dans le monde entier : neuf fois sur dix ces maîtres de la pensée moderne vous avouent sans la moindre rougeur, légèrement étonnés de la question, qu’ils n’ont pas lu de leur vie un seul traité théologique. On les étonnerait davantage en leur disant que cela se sent dans toute leur œuvre : ils ne verraient pas bien le rapport. Je pense qu’il s’agit là d’une attitude rétrograde, plus inquiétante pour la culture que les méfaits des hordes fascistes.</p>
                       <p class="p">La pensée de l’Occident et son vocabulaire sont nés des grands débats théologiques aux siècles de la primitive Église. Notre musique, notre sculpture, notre peinture sont nées dans le chœur des églises, tandis que notre poétique se composait dans l’atmosphère des sectes manichéennes. Il n’est pas jusqu’aux grandes philosophies modernes, Descartes et Kant, Hegel, Auguste Comte et Marx, qui n’aient été, à l’origine, des prises de position théologiques. Ignorer la théologie, c’est rompre avec la tradition la plus féconde de la culture occidentale. C’est donc se condamner à refaire sans le savoir les découvertes spirituelles mises en forme depuis plus de quinze cents ans par les Pères de l’Église et les grands hérétiques. La naïveté théologique de notre siècle est l’un des avantages les plus considérables de la nouvelle 
 <a class="pb" href="#pb117" id="pb117">[p. 117]</a>
@@ -1371,13 +1453,13 @@
                     </section>
                     <section id="body-5-4" class="div level2">
                       <a class="pb" href="#pb118" id="pb118">[p. 118]</a>
-                      <h2 class="head"><span class="num">41</span><br class="lb"/>Le Diable et le philanthrope<a class="bookmark" href="6#body-5-4"> §</a></h2>
+                      <h2 class="head"><span class="num">41.</span><br class="lb"/>Le Diable et le philanthrope</h2>
                       <p class="p autofirst">Un jour un Philanthrope marchait le long de la Cinquième Avenue. Il avait la tête et les poches pleines de projets philanthropiques, propres à réformer l’humanité au-delà de tout ce que je désirerais même imaginer. Il venait d’allumer un cigare de trente cents, dont la fumée montait comme un encens et devait être en bonne odeur à l’Éternel, car cet homme avait le cœur pur.</p>
                       <p class="p">À quelques mètres, derrière lui, suivaient le Diable et l’un de ses compères. Ils observaient le Philanthrope, d’un œil critique. Un pauvre homme l’arrêta pour lui demander une cigarette, dans un anglais de réfugié. Le Philanthrope sans hésiter lui remit un <i class="i">quarter</i>, et poursuivit son chemin. Il marchait dans la gloire, et sa conscience resplendissait comme un sou neuf. « Tu n’as pas peur de lui ? dit le compère au Diable, il m’a l’air terriblement bon ! Et ses plans sont irréprochables, paraît-il : intelligents et généreux, idéalistes, réalistes… » Le Diable ne répondit rien, il souriait, tout en lisant un bout de papier qu’il venait de ramasser sur le trottoir. Après quelques instants poussant du coude son compère : « Je fais mon affaire du bonhomme ! dit-il entre ses dents. Voici son plan qu’il a laissé tomber en donnant un <i class="i">quarter</i> au mendiant. Il est parfait, ce plan, comme tu le craignais. <i class="i">Mais moi je vais l’organiser</i> ! »</p>
                     </section>
                     <section id="body-5-5" class="div level2">
                       <a class="pb" href="#pb119" id="pb119">[p. 119]</a>
-                      <h2 class="head"><span class="num">42</span><br class="lb"/>Le Diable homme du monde<a class="bookmark" href="6#body-5-5"> §</a></h2>
+                      <h2 class="head"><span class="num">42.</span><br class="lb"/>Le Diable homme du monde</h2>
                       <p class="p autofirst">Qui donc disait que le Diable est un monsieur très bien ? Entre les gens du monde et le Prince de ce monde, les mots suggèrent, dans presque toutes nos langues, certaines complicités particulières. Et le peuple, inspiré peut-être par les traditionnels avertissements de la chaire chrétienne, a toujours vu dans la mondanité quelque chose de vaguement satanique. Il imaginerait volontiers un Diable en cravate blanche et monoclé.</p>
                       <p class="p">Le Diable, affirme un proverbe espagnol, n’est pas à craindre parce qu’il est si méchant, mais parce qu’il est si vieux. C’est ce que l’on peut penser aussi des gens du monde, et de la sagesse mondaine en général. Elle a son charme et son utilité ; mais elle est vieille, elle est trop avertie, elle offre trop de recettes éprouvées : elle finit par ne plus croire au bien, ni au sérieux, ni à la naïveté, cette insondable ruse des cœurs purs qui leur permet de passer au travers des cercles vicieux de la raison et de l’égoïsme « bien compris ».</p>
                       <p class="p">La fonction normale de la vie mondaine serait de maintenir et d’illustrer un certain nombre de devises d’élégance morale et de sagesse pratique. Il n’y a rien là de diabolique, tout au contraire. Le jeu mondain, s’il est bien joué, ménage autant de liberté qu’il ne suppose, dit-on, d’hypocrisie. Il a le charme reposant des formes fixes. Mais le mondain qui n’est que cela inspire une sorte d’effroi furtif, révélateur d’une présence perverse au sein même de l’insignifiance. L’exactitude impitoyable de ses jugements, qui ne portent d’ailleurs que sur les apparences ; sa capacité d’éliminer froidement ce 
@@ -1386,7 +1468,7 @@
                       <p class="p">Le milieu mondain le plus suavement correct et moral peut fort bien être préféré par le Diable à ces milieux bohèmes et de mœurs relâchées qui se croiraient volontiers damnés. C’est, je crois parce que, dans le monde, un miracle paraît plus qu’ailleurs improbable.</p>
                     </section>
                     <section id="body-5-6" class="div level2">
-                      <h2 class="head"><span class="num">43</span><br class="lb"/>Mr. Time, l’homme d’affaires pressé<a class="bookmark" href="6#body-5-6"> §</a></h2>
+                      <h2 class="head"><span class="num">43.</span><br class="lb"/>Mr. Time, l’homme d’affaires pressé</h2>
                       <p class="p autofirst">J’ai un ami dans les affaires, il s’appelle Mr. Time et tout le monde le connait.</p>
                       <p class="p">Mr. Time croit que le temps c’est de l’argent. Or il gagne beaucoup d’argent et pourtant il n’a jamais le temps. Serait-ce qu’il n’a de temps que pour l’argent, ce Mr. Time ? Ou bien la réciproque du fameux dicton n’est-elle pas vraie ? Assurément, elle ne l’est pas. L’argent n’est pas du temps, il en prend au contraire. Nous sommes donc en présence d’un phénomène à sens unique : la transmutation du temps en 
 <a class="pb" href="#pb121" id="pb121">[p. 121]</a>
@@ -1395,7 +1477,7 @@
                       <p class="p">On sait que le Diable est le Prince du Temps, comme Dieu le Roi de l’Éternité. Le temps sans fin, voilà l’Enfer. La présence parfaite, voilà l’Éternité.</p>
                     </section>
                     <section id="body-5-7" class="div level2">
-                      <h2 class="head"><span class="num">44</span><br class="lb"/>Le Diable auteur<a class="bookmark" href="6#body-5-7"> §</a></h2>
+                      <h2 class="head"><span class="num">44.</span><br class="lb"/>Le Diable auteur</h2>
                       <p class="p autofirst">« Point d’œuvre sans la collaboration du démon », dit André Gide, l’un des rares hommes que j’aie connus qui croie au Diable et qui en parle bien. La discussion de cette sentence inconfortable ne paraît que trop indiquée dans un livre qui, plus que tout autre, menace d’impliquer l’active complicité de son modèle.</p>
                       <p class="p">Jakob Boehme raconte qu’on demandait à Satan : Pourquoi 
 <a class="pb" href="#pb122" id="pb122">[p. 122]</a>
@@ -1418,7 +1500,7 @@
                       <p class="p">Un écrivain s’il est bon artisan, vaudra tout juste ce que vaut la <i class="i">mission</i> qu’il accepte et s’assigne. Le Diable y sera sans doute encore, dans tous les artifices du délire créateur, mais entraîné vers un but qu’il ignore ; car sa faiblesse unique est de ne pas croire au bien.</p>
                     </section>
                     <section id="body-5-8" class="div level2">
-                      <h2 class="head"><span class="num">45</span><br class="lb"/>Le pacte avec le Diable<a class="bookmark" href="6#body-5-8"> §</a></h2>
+                      <h2 class="head"><span class="num">45.</span><br class="lb"/>Le pacte avec le Diable</h2>
                       <p class="p autofirst">Peter Schlemihl ayant vendu son ombre au Diable devint très riche, mais perdit le goût de vivre. C’est l’une des plus belles fables de ce monde, l’une des plus tristes dans sa fantaisie géniale, et peu sont plus profondes avec autant de grâce.</p>
                       <p class="p">
 <a class="pb" href="#pb125" id="pb125">[p. 125]</a>
@@ -1434,7 +1516,7 @@
  but que l’on vise. Mais il faut bien rappeler que le plus grand succès de toute l’Histoire, ce fut la mort ignominieuse du Christ en croix. Ce sacrifice a rompu le Pacte entre le Diable et notre humanité. Et ce sang a racheté l’âme du monde, que nous avions vendue pour un peu de plaisir…</p>
                     </section>
                     <section id="body-5-9" class="div level2">
-                      <h2 class="head"><span class="num">46</span><br class="lb"/>Le Diable tire les cartes<a class="bookmark" href="6#body-5-9"> §</a></h2>
+                      <h2 class="head"><span class="num">46.</span><br class="lb"/>Le Diable tire les cartes</h2>
                       <p class="p autofirst">On pressent assez facilement pourquoi les arts divinatoires sont liés, dans l’imagination des peuples, avec un pacte satanique. Le devin en serait à la fois la victime et le bénéficiaire. En échange de sa pureté d’âme, il se verrait doté de pouvoirs extraordinaires, dont la source ne saurait être — ainsi pense-t-on communément — que dans les royaumes d’en-bas. C’est un hommage involontaire et l’on dirait presque instinctif que l’on rend à la science angélique de Satan. Il est vrai que sous le nom de Python, il représente le Devin, et sous le vocable hébreu de ’VB, l’esprit de la lumière descendante, pouvoir prophétique et magique. Mais l’assimilation de la clairvoyance en général avec cette puissance diabolique est une erreur que le Diable lui-même entretient soigneusement dans nos esprits. Car la divination n’est pas mauvaise en soi, bien au contraire. La Bible la condamne dans ses abus, comme elle condamne la prostitution tout en louant la volupté dans le plus beau de ses <i class="i">Cantiques.</i> Dieu lui-même ne cesse d’envoyer des songes prophétiques à ceux 
 <a class="pb" href="#pb128" id="pb128">[p. 128]</a>
  qui l’aiment, de Daniel à Jean de Pathmos. Et les premiers à découvrir et saluer le Christ naissant, ce furent les Mages.</p>
@@ -1446,7 +1528,7 @@
  La seconde chance du Diable est de flatter notre tendance à nous sentir irresponsables, par le moyen d’oracles prononcés au nom d’un destin sans appel. L’angoisse de l’homme moderne devant sa liberté peut se mesurer au nombre des tireuses de cartes et de leurs clients avides d’anesthésie morale. Nous touchons ici au secret du véritable Mal du siècle.</p>
                     </section>
                     <section id="body-5-10" class="div level2">
-                      <h2 class="head"><span class="num">47</span><br class="lb"/>Le mal du siècle, la dépersonnalisation<a class="bookmark" href="6#body-5-10"> §</a></h2>
+                      <h2 class="head"><span class="num">47.</span><br class="lb"/>Le mal du siècle, la dépersonnalisation</h2>
                       <p class="p autofirst">Le philanthrope ou le mondain, l’artiste, l’auteur, et l’homme qui réussit, cette galerie de victimes est classique au point d’en être presque démodée. Car Satan marche avec <i class="i">son</i> temps, et paraît se soucier de moins en moins de persuader l’individu, dans une époque où celui-ci n’existe guère. Son ambition se tourne vers les masses. Et c’est à leur échelle seulement que nous verrons se déployer la Grande Stratégie du Diable dans ce siècle.</p>
                       <p class="p">La meilleure interprétation des phénomènes collectifs d’aujourd’hui fut donnée vers 1848 par l’écrivain danois Soeren Kierkegaard, le penseur capital de notre ère. Voici ce que l’on peut lire dans son journal intime :</p>
                       <blockquote class="quote">
@@ -1474,7 +1556,7 @@
                       <p class="p">Certes, il n’y aurait pas de masses possibles, au sens précis de concentration d’hommes, sans la radio, les haut-parleurs, la presse et les transports rapides. Mais ces moyens techniques n’ont pas tout fait : l’homme les a faits d’abord, et ce n’est point par hasard qu’il a fait ceux-là et non d’autres. Les véritables causes et racines du phénomène moderne des masses sont dans notre attitude spirituelle. La foule n’est pas dans la rue seulement. Elle est dans la pensée des hommes de ce temps, elle a ses sources au plus intime des existences individuelles. Et c’est là seulement qu’on peut la dénoncer.</p>
                     </section>
                     <section id="body-5-11" class="div level2">
-                      <h2 class="head"><span class="num">48</span><br class="lb"/>La Tour de Babel<a class="bookmark" href="6#body-5-11"> §</a></h2>
+                      <h2 class="head"><span class="num">48.</span><br class="lb"/>La Tour de Babel</h2>
                       <p class="p autofirst">Si la personne se perd dans le monde moderne, c’est que les cadres sont devenus trop grands. Mais pourquoi les avoir agrandis, depuis un siècle, au-delà de toute mesure ? Pourquoi veut-on du grand, du plus grand à tout prix ? Sinon justement <i class="i">pour s’y perdre</i> !</p>
                       <p class="p">
 <a class="pb" href="#pb134" id="pb134">[p. 134]</a>
@@ -1498,7 +1580,7 @@
                       <p class="p">À vrai dire, on en rase pas mal, ces derniers temps.</p>
                     </section>
                     <section id="body-5-12" class="div level2">
-                      <h2 class="head"><span class="num">49</span><br class="lb"/>L’Ennui, sentiment moderne<a class="bookmark" href="6#body-5-12"> §</a></h2>
+                      <h2 class="head"><span class="num">49.</span><br class="lb"/>L’Ennui, sentiment moderne</h2>
                       <p class="p autofirst">La somme du bien et du mal dans chaque siècle est vraisemblablement la même : notre temps n’est pas pire qu’un autre, en dépit des triomphes du Progrès. Seule, la distribution des vices et des vertus se modifie, selon que le Diable renouvelle la stratégie des tentations. Je crois pourtant qu’un sentiment nouveau, et comme indépendant de nos catégories, se manifeste dans l’époque moderne. Au-delà du bien et du mal, nous avons découvert l’Ennui.</p>
                       <p class="p">Non pas le <i class="i">spleen</i> des poètes romantiques, non pas les <i class="i">blues.</i> Mais cette phrase entendue partout : « Je ne sais pas pourquoi je vis. »</p>
                       <p class="p">
@@ -1510,7 +1592,7 @@
                     </section>
                     <section id="body-5-13" class="div level2">
                       <a class="pb" href="#pb140" id="pb140">[p. 140]</a>
-                      <h2 class="head"><span class="num">50</span><br class="lb"/>« Vital » et autres sophismes<a class="bookmark" href="6#body-5-13"> §</a></h2>
+                      <h2 class="head"><span class="num">50.</span><br class="lb"/>« Vital » et autres sophismes</h2>
                       <p class="p autofirst">Tout le mal vient de vouloir s’échapper pour ne point s’avouer responsable, soit que l’on courre se cacher dans les arbres avec le sot espoir que Dieu nous y oublie, soit que l’on monte dans les nues ou qu’à l’inverse on se renfonce dans la stupidité bestiale.</p>
                       <p class="p">Qu’il aille se perdre dans les masses ou dans l’énorme, qu’il croie la science ou invoque le mystère, l’homme d’aujourd’hui montre une constante et masochiste propension à se vouloir irresponsable. Tout lui sert d’alibi, tout lui est bon pour prouver qu’il n’y était pas, que ce n’est pas lui, qu’il n’y peut rien. Sa science lui dit : tu étais déterminé, ce n’est pas ta faute ; et sa passion lui dit : c’était vital, il n’y a pas de faute.</p>
                       <p class="p">Ceux de mes contemporains qui se représentent l’homme comme un complexe de glandes endocrines, d’enzymes et de vitamines, ont de plus en plus de peine à concevoir que le jugement moral garde un sens, et que la personne existe comme un tout, à la fois autonome et responsable. Le mal ou le « péché » ne sont plus, à leur vue, que les effets d’un trouble temporaire ou chronique dans le régime des sécrétions internes. Ils ont lu cela quelque part. Chaque fois que nous découvrons un nouveau mécanisme de la vie, nous sommes aussitôt obsédés par l’idée que « cela explique tout ». Étrange psychose de l’homme moderne ! Quoi de plus sot que de prétendre expliquer la conduite et les décisions morales d’un tout par la description du fonctionnement de quelques-unes de ses parties, les dernières analysées toujours ? Qui vous 
@@ -1530,7 +1612,7 @@
                       <p class="p">N’est-ce pas ici le lieu de se demander au nom de quoi nos moralistes de la passion pourraient combattre les doctrines nationalistes ?</p>
                     </section>
                     <section id="body-5-14" class="div level2">
-                      <h2 class="head"><span class="num">51</span><br class="lb"/>Le Diable au cœur<a class="bookmark" href="6#body-5-14"> §</a></h2>
+                      <h2 class="head"><span class="num">51.</span><br class="lb"/>Le Diable au cœur</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">This passion hath its floods in very times of weakness.</p>
                         <div class="bibl">
@@ -1570,7 +1652,7 @@
                     </section>
                     <section id="body-5-15" class="div level2">
                       <a class="pb" href="#pb151" id="pb151">[p. 151]</a>
-                      <h2 class="head"><span class="num">52</span><br class="lb"/>La Passion<a class="bookmark" href="6#body-5-15"> §</a></h2>
+                      <h2 class="head"><span class="num">52.</span><br class="lb"/>La Passion</h2>
                       <p class="p autofirst">Je parlerai maintenant de l’amour même, non plus de ses contrefaçons. Je parlerai de la passion dans son éclat.</p>
                       <p class="p">L’amour-passion, signe particulier de la psyché occidentale, est né d’un retour de flamme du christianisme dans les marges de l’hérésie. Inconnu de l’Antiquité et de l’Orient, il ne peut exister que dans une civilisation marquée par la croyance en la valeur unique de chaque être. Il suppose un objet irremplaçable, et comme prédestiné par un acte divin. Croyance essentiellement chrétienne à l’origine, et dont cette phrase du <i class="i">Mystère de Jésus</i> nous donne peut-être l’expression la plus poignante : « Je pensais à toi dans mon agonie, j’ai versé telle goutte de sang pour toi. »</p>
                       <p class="p">Mais l’idée du divin dans un être, source et objet de tout amour profond, va faire naître l’idolâtrie pour peu que l’élan qu’elle suscite, emportant des ardeurs instinctives, s’alourdisse et s’arrête à l’image créée. Le désir infini de l’âme souffre alors des limitations d’un objet qui résiste et qui bientôt l’embrase. Secrètement déçu, mais fasciné, il attribue à cet objet les qualités qu’il cherchait au-delà. Il s’exalte et s’enfièvre lui-même. Il s’acharne à le posséder jusque dans ses derniers refuges, ou à se perdre en lui jusqu’à l’indistinction. Et finalement, passant les bornes de la réalité disqualifiée et de la vie jamais assez vivante, il se jette avec lui dans la mort. Extase des derniers instants de Tristan et d’Isolde, ou des amants de Vérone. La contradiction torturante que souffre l’infini désir séduit et arrêté par un être fini, ne peut se résoudre que dans l’évasion vers le néant.</p>
@@ -1597,7 +1679,7 @@
                       <p class="p">Dans ce dédale de nos enfers privés, quel talisman pourrions-nous emporter pour déjouer les ruses sataniques ? Il faudrait être un saint pour traverser une grande passion sans réjouir le Diable ou susciter les plus subtils de ses démons. Il faudrait une abnégation dont les plus grands mystiques furent seuls capables. Il faudrait surtout conserver la règle d’or de l’amour du prochain, de l’<i class="i">Agapé</i> qui seul peut brider notre <i class="i">eros</i> et le sauver de ses propres fureurs. Rien de moins ne saurait composer les exigences d’une passion avec celles de la déficiente réalité, avec la liberté de l’être aimé et le respect de son mystère. Rien de moins ne suffirait pour construire ce chef-d’œuvre de l’amour vrai : l’alliance de deux êtres qui s’acceptent, qui ne sont plus l’un pour l’autre des prétextes, ou des images du délire intime, mais des amis jurés dont l’amour est confiance. Contre cette alliance-là, le Diable ne peut rien. « L’amour parfait bannit la crainte. »</p>
                     </section>
                     <section id="body-5-16" class="div level2">
-                      <h2 class="head"><span class="num">53</span><br class="lb"/>Diable et sexe<a class="bookmark" href="6#body-5-16"> §</a></h2>
+                      <h2 class="head"><span class="num">53.</span><br class="lb"/>Diable et sexe</h2>
                       <p class="p autofirst">Le jeune lecteur qui parcourt le sommaire de ce livre se rue sur le chapitre 53. Voilà le point ! pense-t-il. Quel dommage ! J’ai peu de choses à dire, sur ce point-là, que je n’aie déjà dites sous d’autres formes.</p>
                       <p class="p">Il est vrai que tout le monde s’imagine que le péché par excellence réside dans la sexualité. L’illusion s’aperçoit d’une 
 <a class="pb" href="#pb157" id="pb157">[p. 157]</a>
@@ -1612,7 +1694,7 @@
  la jeunesse américaine par exemple, à l’égard des pudeurs et interdits qui prêtaient à l’acte sexuel la gravité d’un <i class="i">engagement</i>, cette espèce d’insouciance morale se traduit moins par une libération que par une flagrante indigence dans les rapports humains fondamentaux. En présence de cet affadissement, l’on serait tenté de regretter le temps où Satan proposait des combats plus féconds…</p>
                     </section>
                     <section id="body-5-17" class="div level2">
-                      <h2 class="head"><span class="num">54</span><br class="lb"/>L’Éternel Féminin<a class="bookmark" href="6#body-5-17"> §</a></h2>
+                      <h2 class="head"><span class="num">54.</span><br class="lb"/>L’Éternel Féminin</h2>
                       <p class="p autofirst">L’amour n’est pas un crime, mais le Diable s’en sert, et de préférence à toute autre passion, pour aveugler notre sens des valeurs. Le sexe n’est pas une honte, mais le Diable y trouve l’occasion la plus commune de nous faire abuser de notre liberté. Reste la femme, dont l’homme ne se lassera jamais de faire un ange ou un démon. « Instrument dont use le Diable pour posséder nos âmes », dit St. Cyprien, et Tertullien plus énergique : « Porte de l’Enfer ! » Mais Goethe et tous les romantiques la divinisent. Souvenez-vous de l’exaltation finale du <i class="i">Second Faust</i> : « L’Éternel Féminin nous entraîne vers les hauteurs »…</p>
                       <p class="p">En vérité, la femme n’est porte de l’Enfer que pour ceux qui se laissent aller à voir en elle une porte du Ciel. Montaigne le dit bien, contre les romantiques de tous les temps : « Entre nous, ce sont choses que j’ai toujours vues de singulier accord : les opinions supercélestes et les mœurs souterraines. »</p>
                       <p class="p">
@@ -1628,7 +1710,7 @@
  « c’est plus fort que moi ! », l’on voudrait dire cette chose très simple : — Cessez donc d’aimer « malgré vous » et sachez un peu ce que vous faites, c’est une question de tenue morale, et c’est la condition d’un amour authentique. N’imitez pas le mensonge féminin, sinon les femmes elles-mêmes finiront par s’y tromper, et le gâchis sera sans remède. Qu’elles rusent, bien, mais cela doit vous <i class="i">amuser.</i> Si vous le prenez trop au sérieux, vous les perdrez et vous perdrez. Comme le montre l’histoire suivante.</p>
                     </section>
                     <section id="body-5-18" class="div level2">
-                      <h2 class="head"><span class="num">55</span><br class="lb"/>La bastonnade (dessin animé)<a class="bookmark" href="6#body-5-18"> §</a></h2>
+                      <h2 class="head"><span class="num">55.</span><br class="lb"/>La bastonnade (dessin animé)</h2>
                       <p class="p autofirst">Ils s’aimaient tant qu’ils ne cessaient de dire : Comment peut-on s’aimer autant ? Un beau soir, elle se mit à le battre, et le laissa pour mort sur la descente de lit. Puis elle s’endormit, fatiguée. Le lendemain, il vivait encore. — Pourquoi t’ai-je battu ? lui dit-elle ? Si tu ne le sais pas, c’est que tu m’aimes bien mal. Défiguré par sa raclée, il ouvrit des yeux mornes et dit : — Je t’aime encore, épargne-moi. Elle se détourna pour cacher le sourire qui tordait ses lèvres, et pour pleurer.</p>
                       <p class="p">Le soir, elle le battit encore. Puis elle lui dit : — Ta révolte m’excède. Pourquoi me torturer ? Laisse-moi donc seule. Elle le jeta par la fenêtre.</p>
                       <p class="p">Lorsqu’il revint après quelques semaines, il dit : — Mon 
@@ -1647,13 +1729,13 @@
                     </section>
                     <section id="body-5-19" class="div level2">
                       <a class="pb" href="#pb164" id="pb164">[p. 164]</a>
-                      <h2 class="head"><span class="num">56</span><br class="lb"/>Situations sans issue<a class="bookmark" href="6#body-5-19"> §</a></h2>
+                      <h2 class="head"><span class="num">56.</span><br class="lb"/>Situations sans issue</h2>
                       <p class="p autofirst">L’histoire que l’on vient de lire peut être celle d’un couple, mais aussi, d’une certaine manière, celle des relations de l’Allemagne et de l’Europe, ou d’une masse quelconque et du Prince. Ou encore, elle figure le conflit permanent, dans le cœur d’un individu, entre le besoin d’anarchie et le besoin de conservation. Parabole de la démission des puissances d’ordre dans le monde moderne. Même histoire, mêmes conflits sur tous les plans, aujourd’hui que la crise mondiale s’identifie, parce qu’elle a les mêmes sources, avec la crise de nos vies privées. Nous sommes au centre de tout le mal dès que nous l’atteignons dans notre cœur. Lorsque nos circonstances individuelles ou politiques, nos drames intimes ou internationaux, se révèlent comme des situations <i class="i">sans issue</i>, reconnaissons l’œuvre du Diable. Il intervient, pour les porter au pire, dans les circonstances-limites où, pour ne point faillir, il eût fallu l’héroïque vigilance d’un saint. Ah ! mais jamais un saint ne se fût laissé tomber dans une situation pareille !</p>
                       <p class="p">Descendons maintenant au dernier cercle : dans cet enfer né du vertige et de l’effroi sinistre de l’orgueil, l’enfer de la passion qui n’a pas d’autre objet que le malheur qu’elle va créer, en vertu de sa logique folle et des sophismes du Néant qui néantit.</p>
                     </section>
                     <section id="body-5-20" class="div level2">
                       <a class="pb" href="#pb165" id="pb165">[p. 165]</a>
-                      <h2 class="head"><span class="num">57</span><br class="lb"/>Le coup de pistolet<a class="bookmark" href="6#body-5-20"> §</a></h2>
+                      <h2 class="head"><span class="num">57.</span><br class="lb"/>Le coup de pistolet</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">Je me crois en Enfer, donc j’y suis.</p>
                         <div class="bibl">
@@ -1674,7 +1756,7 @@
                     </section>
                     <section id="body-5-21" class="div level2">
                       <a class="pb" href="#pb167" id="pb167">[p. 167]</a>
-                      <h2 class="head"><span class="num">58</span><br class="lb"/>Ce livre est-il sans issue ?<a class="bookmark" href="6#body-5-21"> §</a></h2>
+                      <h2 class="head"><span class="num">58.</span><br class="lb"/>Ce livre est-il sans issue ?</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">Le monde va finir. La seule raison pour laquelle il pourrait durer, c’est qu’il existe. Que cette raison est faible, comparée à toutes celles qui annoncent le contraire, particulièrement à celle-ci : qu’est-ce que le monde à désormais à faire sous le ciel ?</p>
                         <div class="bibl">
@@ -1753,7 +1835,7 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -1768,67 +1850,67 @@
                       <a href="#">IV. Le Diable dans nos dieux et dans nos maladies</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-5-1"><span class="num">38</span>.  Le diable dans nos dieux</a>
+                          <a href="6#body-5-1"><span class="num">38.</span>  Le diable dans nos dieux</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-2"><span class="num">39</span>.  Le Diable dans l’Église</a>
+                          <a href="6#body-5-2"><span class="num">39.</span>  Le Diable dans l’Église</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-3"><span class="num">40</span>.  Le Diable théologien</a>
+                          <a href="6#body-5-3"><span class="num">40.</span>  Le Diable théologien</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-4"><span class="num">41</span>.  Le Diable et le philanthrope</a>
+                          <a href="6#body-5-4"><span class="num">41.</span>  Le Diable et le philanthrope</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-5"><span class="num">42</span>.  Le Diable homme du monde</a>
+                          <a href="6#body-5-5"><span class="num">42.</span>  Le Diable homme du monde</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-6"><span class="num">43</span>.  Mr. Time, l’homme d’affaires pressé</a>
+                          <a href="6#body-5-6"><span class="num">43.</span>  Mr. Time, l’homme d’affaires pressé</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-7"><span class="num">44</span>.  Le Diable auteur</a>
+                          <a href="6#body-5-7"><span class="num">44.</span>  Le Diable auteur</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-8"><span class="num">45</span>.  Le pacte avec le Diable</a>
+                          <a href="6#body-5-8"><span class="num">45.</span>  Le pacte avec le Diable</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-9"><span class="num">46</span>.  Le Diable tire les cartes</a>
+                          <a href="6#body-5-9"><span class="num">46.</span>  Le Diable tire les cartes</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-10"><span class="num">47</span>.  Le mal du siècle, la dépersonnalisation</a>
+                          <a href="6#body-5-10"><span class="num">47.</span>  Le mal du siècle, la dépersonnalisation</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-11"><span class="num">48</span>.  La Tour de Babel</a>
+                          <a href="6#body-5-11"><span class="num">48.</span>  La Tour de Babel</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-12"><span class="num">49</span>.  L’Ennui, sentiment moderne</a>
+                          <a href="6#body-5-12"><span class="num">49.</span>  L’Ennui, sentiment moderne</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-13"><span class="num">50</span>,  « Vital » et autres sophismes</a>
+                          <a href="6#body-5-13"><span class="num">50.</span>  « Vital » et autres sophismes</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-14"><span class="num">51</span>.  Le Diable au cœur</a>
+                          <a href="6#body-5-14"><span class="num">51.</span>  Le Diable au cœur</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-15"><span class="num">52</span>.  La Passion</a>
+                          <a href="6#body-5-15"><span class="num">52.</span>  La Passion</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-16"><span class="num">53</span>.  Diable et sexe</a>
+                          <a href="6#body-5-16"><span class="num">53.</span>  Diable et sexe</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-17"><span class="num">54</span>.  L’Éternel Féminin</a>
+                          <a href="6#body-5-17"><span class="num">54.</span>  L’Éternel Féminin</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-18"><span class="num">55</span>.  La bastonnade (dessin animé)</a>
+                          <a href="6#body-5-18"><span class="num">55.</span>  La bastonnade (dessin animé)</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-19"><span class="num">56</span>.  Situations sans issue</a>
+                          <a href="6#body-5-19"><span class="num">56.</span>  Situations sans issue</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-20"><span class="num">57</span>.  Le coup de pistolet</a>
+                          <a href="6#body-5-20"><span class="num">57.</span>  Le coup de pistolet</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-5-21"><span class="num">58</span>.  Ce livre est-il sans issue ?</a>
+                          <a href="6#body-5-21"><span class="num">58.</span>  Ce livre est-il sans issue ?</a>
                         </li>
                       </ul>
                     </li>
@@ -1880,6 +1962,20 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>59. La lutte contre le diable – 60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel – 61. L’exorcisme, ou l’ordre personnel – 62. L’ordre cosmique – 63. L’ordre social – 64. Le sens des mots – 65. Vertus – 66. Le bleu du ciel</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-6-1	59. La lutte contre le diable (1944, La Part du Diable)
+body-6-2	60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel (1944, La Part du Diable)
+body-6-3	61. L’exorcisme, ou l’ordre personnel (1944, La Part du Diable)
+body-6-4	62. L’ordre cosmique (1944, La Part du Diable)
+body-6-5	63. L’ordre social (1944, La Part du Diable)
+body-6-6	64. Le sens des mots (1944, La Part du Diable)
+body-6-7	65. Vertus (1944, La Part du Diable)
+body-6-8	66. Le bleu du ciel (1944, La Part du Diable)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1890,10 +1986,10 @@
                   <article role="article">
                     <a class="pb" href="#pb171" id="pb171">[p. 171]</a>
                     <h1 class="head kicker chapter">Cinquième partie</h1>
-                    <h1 class="head chapter">Le Bleu du ciel<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">Le Bleu du ciel</h1>
                     <section id="body-6-1" class="div level2">
                       <a class="pb" href="#pb173" id="pb173">[p. 173]</a>
-                      <h2 class="head"><span class="num">59</span><br class="lb"/>La lutte contre le diable<a class="bookmark" href="7#body-6-1"> §</a></h2>
+                      <h2 class="head"><span class="num">59.</span><br class="lb"/>La lutte contre le diable</h2>
                       <blockquote class="quote">
                         <div class="l">Ne réponds pas à l’insensé selon sa folie
               <br class="lb"/>De peur que tu ne lui ressembles toi-même.</div>
@@ -1918,7 +2014,7 @@
                       <p class="p">Qu’ai-je donc cru, qui m’ait permis d’articuler ce peu que j’ai pu dire de nos maux ? Et quelle est la vision qui m’éveille ? Je m’essayerai à la décrire, parlant désormais pour demain.</p>
                     </section>
                     <section id="body-6-2" class="div level2">
-                      <h2 class="head"><span class="num">60</span><br class="lb"/>Saint Michel, ou l’ordre céleste, aussi nommé spirituel<a class="bookmark" href="7#body-6-2"> §</a></h2>
+                      <h2 class="head"><span class="num">60.</span><br class="lb"/>Saint Michel, ou l’ordre céleste, aussi nommé spirituel</h2>
                       <p class="p autofirst">Le secret de la seule confiance qui ne soit pas une illusion réside dans la simple certitude que nous ne sommes pas des dieux, et que nous ne sommes pas Dieu. Car alors, <i class="i">tout</i> ne dépend pas de nous ! Le principe et la fin de l’Ordre, la sommation, le sens final, sont dans la main de Dieu, qui est le Bien. Si au contraire, tout était dans nos mains, comme 
 <a class="pb" href="#pb176" id="pb176">[p. 176]</a>
  le Serpent tentait de nous en persuader, tout serait bientôt gâché et dans les mains du Diable. Si nous étions des dieux, il n’y aurait plus d’espoir : la catastrophe présente étant notre œuvre à tous, l’échec des dieux serait avéré, leur faillibilité démontrée sans recours.</p>
@@ -1961,7 +2057,7 @@
                     </section>
                     <section id="body-6-3" class="div level2">
                       <a class="pb" href="#pb179" id="pb179">[p. 179]</a>
-                      <h2 class="head"><span class="num">61</span><br class="lb"/>L’exorcisme, ou l’ordre personnel<a class="bookmark" href="7#body-6-3"> §</a></h2>
+                      <h2 class="head"><span class="num">61.</span><br class="lb"/>L’exorcisme, ou l’ordre personnel</h2>
                       <p class="p autofirst">Le Diable et sa colonne d’anges noirs « <i class="i">qui n’ont pas conservé leur dignité, mais qui ont déserté leur propre demeure</i> » sont déjà dans l’étang de feu. Du point de vue de l’éternité, c’en est fait, la partie est gagnée. Mais ce qui nous importe dans ce siècle, c’est de nous rendre immédiatement participants de cette victoire.</p>
                       <p class="p">Un des prophètes mineurs de l’ère moderne, Joseph de Maistre, écrivait sous Napoléon : « Lorsqu’une puissance trop prépondérante épouvante l’univers, on s’irrite de ne trouver aucun moyen pour l’arrêter ; on se répand en reproches amers contre l’égoïsme et l’immoralité des gouvernements, qui les empêchent de se réunir pour conjurer le danger commun. Mais dans le fond, ces plaintes ne sont pas fondées. Une coalition entre souverains, faite sur les principes d’une morale pure et désintéressée, serait un miracle. Dieu, qui ne doit de miracle à personne et qui n’en fait point d’inutiles, emploie pour rétablir l’équilibre deux moyens plus simples : tantôt le géant s’égorge lui-même, tantôt une puissance bien inférieure jette sur son chemin un obstacle imperceptible, mais qui, on ne sait comment, grandit ensuite et devient insurmontable ; comme un faible roseau, arrêté dans le courant d’un fleuve, produit à la fin un amoncellement de terre qui le détourne. »</p>
                       <p class="p">Je dis que nous pouvons participer à cette victoire réellement <i class="i">totale</i> en devenant chacun pour notre compte cet « obstacle imperceptible » au mal, et ce « faible roseau » qui arrête le courant. Je dis que la condition de cette victoire, 
@@ -1976,7 +2072,7 @@
                       <p class="p">Or cet élément personnel doit s’encadrer dans un ordre cosmique, et se réaliser dans un ordre social ; le premier nous étant donné, le second étant à donner ; le premier figurant la condition de possibilité de tout ordre personnel, le second sa condition de fécondité.</p>
                     </section>
                     <section id="body-6-4" class="div level2">
-                      <h2 class="head"><span class="num">62</span><br class="lb"/>L’ordre cosmique<a class="bookmark" href="7#body-6-4"> §</a></h2>
+                      <h2 class="head"><span class="num">62.</span><br class="lb"/>L’ordre cosmique</h2>
                       <p class="p autofirst">Le développement aberrant de nos techniques et par elles de notre impérialisme rationnel, nous a fait perdre, depuis j quelques siècles, le <i class="i">sens cosmique</i>, c’est-à-dire la conscience immédiate de nos liens avec l’ensemble de l’Univers, ses lois connues et ses mystères. Dans le même temps le développement aberrant de nos morales rationalistes, puis individualistes, puis irrationalistes, tous ces systèmes s’entre-détruisant en théorie mais subsistant en fait côte-à-côte, indiscernablement mélangés dans nos vies, nous a fait perdre le <i class="i">sens moral</i> élémentaire, c’est-à-dire la conscience immédiate d’un absolu qui serait, hors de nous, le gage universel du bien et du mal. Et nous voici coupés des deux sources de l’Ordre, qui sont 
 <a class="pb" href="#pb182" id="pb182">[p. 182]</a>
  les lois ordonnées de la Création et les interventions ordonnatrices du Créateur. Nous avons cru pouvoir nous libérer de l’interdépendance de toutes les choses créées, et de notre dépendance de Dieu. Alors nous sommes entrés dans le monde de <i class="i">l’arbitraire</i>, où l’Arbitre tricheur nous affole à plaisir.</p>
@@ -1991,7 +2087,7 @@
                     </section>
                     <section id="body-6-5" class="div level2">
                       <a class="pb" href="#pb184" id="pb184">[p. 184]</a>
-                      <h2 class="head"><span class="num">63</span><br class="lb"/>L’ordre social<a class="bookmark" href="7#body-6-5"> §</a></h2>
+                      <h2 class="head"><span class="num">63.</span><br class="lb"/>L’ordre social</h2>
                       <p class="p autofirst">C’est au désert que le démon tenta le Christ, c’est toujours aux déserts qu’il habite, déserts de sables, d’eaux amères ou de rochers, déserts des foules, ou ceux que porte un cœur dénué d’amour et d’espérance.</p>
                       <p class="p">Il n’est pas bon que l’homme soit seul. Il n’est pas bon non plus que l’homme soit foule, c’est être seul encore, c’est être seuls en masse. La solitude est un état divin qui chez l’homme tourne vite au diabolique. « En la solitude un homme converse avec lui-même, et comme a dit un sage, il n’est pas toujours sûr qu’il ne converse point là avec son ennemi. »<a class="noteref" href="7#note27" id="note27_"><sup>27</sup></a></p>
                       <p class="p">Tout ordre social véritable repose sur le voisinage vécu, qui est la relation de prochain à prochain<a class="noteref" href="7#note28" id="note28_"><sup>28</sup></a>. Sans voisinage réel, vous n’êtes plus responsable de rien ni de personne. Mais sans le sentiment de la responsabilité de chacun envers autrui, il n’est point de liberté civique possible : la dictature devient inévitable dans toute société dont la maxime est le « chacun pour soi et Dieu pour tous » de ceux qui ne croient pas en Dieu.</p>
@@ -2016,7 +2112,7 @@
                     </section>
                     <section id="body-6-6" class="div level2">
                       <a class="pb" href="#pb188" id="pb188">[p. 188]</a>
-                      <h2 class="head"><span class="num">64</span><br class="lb"/>Le sens des mots<a class="bookmark" href="7#body-6-6"> §</a></h2>
+                      <h2 class="head"><span class="num">64.</span><br class="lb"/>Le sens des mots</h2>
                       <p class="p autofirst">Mais l’offensive suppose un plan. Un plan commun, clairement déterminé et compris de la même manière par tous ceux qui devront l’exécuter. Un plan qui s’exprime par des mots, et par des mots qui mettent de l’ordre dans nos volontés égarées : tous les mots clairs sont des mots <i class="i">d’ordre.</i></p>
                       <p class="p">Or que voyons-nous aujourd’hui ? « Liberté », « ordre », « esprit », « démocratie » prennent tous les sens que l’on voudra — et l’on s’entretue pour ces mots. Il semble même que l’on se batte pour eux avec d’autant plus de passion que l’on sait moins clairement ce qu’ils signifient.</p>
                       <p class="p">J’ai dit que <i class="i">l’ordre</i> véritable suppose la liberté de l’homme responsable. Mais combien de bourgeois apeurés s’obstinèrent à voir dans Hitler, cet homme des masses, « le rempart » de leur <i class="i">ordre</i> contre le bolchévisme ? D’autres se battaient au nom de leur <i class="i">liberté</i> contre un tyran qui menait sa guerre au nom de la <i class="i">liberté</i> du peuple allemand. Cet autocrate botté se proclamait un jour le seul <i class="i">démocrate</i> « véritable ». Mais l’autre dictateur s’est dressé contre lui au nom de la « vraie » <i class="i">démocratie</i>, celle des Soviets, en s’alliant d’autre part avec certaines nations qui s’intitulent très sincèrement <i class="i">démocraties</i>, mais qu’il tient pour des ploutocraties.</p>
@@ -2037,7 +2133,7 @@
  Car voici Pâques où la Parole est à jamais ressuscitée ; et dans la confusion des langues et des mensonges, quand la peur, la souffrance et la honte ne nous permettent plus d’articuler même une plainte intelligible, — c’est elle à présent qui nous parle !</p>
                     </section>
                     <section id="body-6-7" class="div level2">
-                      <h2 class="head"><span class="num">65</span><br class="lb"/>Vertus<a class="bookmark" href="7#body-6-7"> §</a></h2>
+                      <h2 class="head"><span class="num">65.</span><br class="lb"/>Vertus</h2>
                       <p class="p autofirst">J’ai désigné les dimensions de l’Ordre indestructible au sein duquel le drame de nos destins s’encadre. Ainsi armés et appuyés, nous pouvons porter sur Satan et sur ses sinistres desseins un regard qui toujours les déconcerte, et les fait parfois s’évanouir avec un dégagement de fumée noire qui obscurcit le ciel pour un temps, et peut-être nous fait pleurer, puis tout est clair et juste de nouveau.</p>
                       <p class="p">N’opposons pas au Diable des injures, qu’il prendrait pour autant d’hommages. Détournons-nous et regardons le Bien. Armons-nous de cette grande Confiance qui survit à la catastrophe, parce qu’en ayant sondé les causes, elle voit que celles-ci se détruisent par leurs propres effets, et que ni l’ordre, ni la joie, ni la grandeur et ni l’amour ne cessent d’attendre, intacts et souverains, notre désir. Il nous suffit de retrouver le courage d’être vertueux. Il nous suffit de rendre à la vertu sa <i class="i">gloire.</i></p>
                       <p class="p">Certes, nous avions fait de la vertu si triste chose qu’il paraissait mesquin de s’y tenir. Personne n’osait plus en parler : elle n’était plus que la moralité. Je ne sais quel 
@@ -2072,7 +2168,7 @@
                     </section>
                     <section id="body-6-8" class="div level2">
                       <a class="pb" href="#pb197" id="pb197">[p. 197]</a>
-                      <h2 class="head"><span class="num">66</span><br class="lb"/>Le bleu du ciel<a class="bookmark" href="7#body-6-8"> §</a></h2>
+                      <h2 class="head"><span class="num">66.</span><br class="lb"/>Le bleu du ciel</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">Ecce, fundabo te in sapphiris.</p>
                         <div class="bibl"><span class="sc">Ésaïe</span> 54,11.</div>
@@ -2165,7 +2261,7 @@
                       <a href="1">Note de l’éditeur</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
+                      <a href="2">Introduction .  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="collateral">
                       <a href="3">I. L’incognito et la révélation</a>
@@ -2183,28 +2279,28 @@
                       <a href="#">V. Le Bleu du ciel</a>
                       <ul>
                         <li class="collateral">
-                          <a href="7#body-6-1"><span class="num">59</span>.  La lutte contre le diable</a>
+                          <a href="7#body-6-1"><span class="num">59.</span>  La lutte contre le diable</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-2"><span class="num">60</span>.  Saint Michel, ou l’ordre céleste, aussi nommé spirituel</a>
+                          <a href="7#body-6-2"><span class="num">60.</span>  Saint Michel, ou l’ordre céleste, aussi nommé spirituel</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-3"><span class="num">61</span>.  L’exorcisme, ou l’ordre personnel</a>
+                          <a href="7#body-6-3"><span class="num">61.</span>  L’exorcisme, ou l’ordre personnel</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-4"><span class="num">62</span>.  L’ordre cosmique</a>
+                          <a href="7#body-6-4"><span class="num">62.</span>  L’ordre cosmique</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-5"><span class="num">63</span>.  L’ordre social</a>
+                          <a href="7#body-6-5"><span class="num">63.</span>  L’ordre social</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-6"><span class="num">64</span>.  Le sens des mots</a>
+                          <a href="7#body-6-6"><span class="num">64.</span>  Le sens des mots</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-7"><span class="num">65</span>.  Vertus</a>
+                          <a href="7#body-6-7"><span class="num">65.</span>  Vertus</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-6-8"><span class="num">66</span>.  Le bleu du ciel</a>
+                          <a href="7#body-6-8"><span class="num">66.</span>  Le bleu du ciel</a>
                         </li>
                       </ul>
                     </li>

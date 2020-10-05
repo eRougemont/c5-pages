@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Préface 1970<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Préface 1970</h1>
                     <p class="p autofirst">J’ai choisi le sous-titre de ce livre pour m’amuser à faire mentir un proverbe fameux et que je croyais connu de tout lecteur virtuel : <i class="i">Les peuples heureux n’ont pas d’histoire</i>. Hélas, j’ai découvert que mes contemporains, les jeunes surtout, mais combien d’autres, ignorent à la fois la sagesse proverbiale et les vertus du paradoxe. Avec tout le sérieux qu’on leur connaît, plutôt cynique à droite, moralisant à gauche, ils m’ont fait observer qu’ils ne sont pas heureux et qu’ils dénient le droit de l’être à tout citoyen suisse qui ne serait pas un « veau », pour reprendre une célèbre épithète. Il faut donc que je m’explique un peu sur ce que je croyais qui allait de soi.</p>
                     <p class="p">Le mot heureux, dans le proverbe sous-entendu par mon sous-titre, n’a pas le sens un peu hilare, un peu hippie, ou napolitain de carte postale, que beaucoup croient. Il signifie seulement que le pays est en paix, qu’il est prospère, et surtout que son régime politique et social est approuvé par une immense majorité des citoyens, cependant que la minorité contestataire se plaint surtout d’être minoritaire ! (Je viens de l’entendre dire à la radio par un jeune étudiant gauchiste, et c’est si beau qu’il faut que j’en croie mes oreilles.)</p>
                     <p class="p">Ces conditions de « bonheur » sont, de toute évidence, réunies par la Suisse et presque par elle seule sur notre continent européen, avec continuité et depuis plus d’un siècle. J’appelle heureux ce peuple — d’ailleurs non moins soucieux et aussi complexé qu’un autre — qui se dit satisfait de sa condition : 
@@ -201,7 +201,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb15" id="pb15">[p. 15]</a>
-                    <h1 class="head chapter">Introduction<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Introduction</h1>
                     <p class="p autofirst">Un beau jour on me demande un livre sur la Suisse. « Quel genre de livre ? Il y en a tant sur ce pays. J’en ai fait au moins deux moi-même. — Je sais. Je voudrais autre chose. Un livre à l’ancienne mode sur les paysages, les mœurs et les relations humaines. Si vous pouviez parler aussi du secret des banques, voilà qui intéresserait tout le monde… »</p>
                     <p class="p">Cette honnête et curieuse proposition émanait de Marcel Thiébaut, directeur d’une nouvelle collection sur les pays de toute la terre. Marcel Thiébaut passait à juste titre pour le critique le plus judicieux des années qui suivirent la dernière guerre. Quand il vous demandait un article pour cette <i class="i">Revue de Paris</i> qu’il faisait presque seul, on aimait se laisser convaincre de lui donner un texte qui allât dans le sens que suggérait son amitié : c’était probablement la formule adéquate, dosant ce que l’on savait faire et l’attente supposée du public. Mais un livre, c’est bien autre chose. Comment écrire à l’ancienne mode ? Et Marcel Thiébaut ajoutait : « Je n’attends pas de vous du Siegfried, vous voyez cela, mais quelque chose de plus intime, avec beaucoup de descriptions… »</p>
                     <p class="p">J’ai rouvert bien des livres sur la Suisse : ils tiennent tout un rayon de ma bibliothèque. Il m’a semblé que l’on avait tout dit. Non seulement sur l’histoire de cette nation, et de chacun de ses vingt-cinq États, mais sur les arts et les institutions, la nature et l’économie. Et non seulement avec science et talent dans la synthèse ou la monographie, mais encore avec une espèce 
@@ -315,6 +315,20 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.1. Puissance du mythe – I.2. « L’histoire suisse commence avec Guillaume Tell » – I.3. « La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien » – I.4. « Le pacte de 1291 a fondé la Suisse » – I.5. Ce « petit peuple pacifique… » – I.6. « Ce petit peuple égalitaire… » – I.7. « Un pays traditionnellement neutre » – I.8. « Il a fallu plus de six siècles pour fédérer les cantons suisses »</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	I.1. Puissance du mythe (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-2	I.2. « L’histoire suisse commence avec Guillaume Tell » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-3	I.3. « La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-4	I.4. « Le pacte de 1291 a fondé la Suisse » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-5	I.5. Ce « petit peuple pacifique… » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-6	I.6. « Ce petit peuple égalitaire… » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-7	I.7. « Un pays traditionnellement neutre » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-3-8	I.8. « Il a fallu plus de six siècles pour fédérer les cantons suisses » (1965, La Suisse ou l’histoire d’un peuple heureux)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -326,10 +340,10 @@
                     <a class="pb" href="#pb21" id="pb21">[p. 21]</a>
                     <h1 class="head kicker chapter">Première partie</h1>
                     <h1 class="head chapter">Le paysage historique
-          <br class="lb"/>ou comment se forme une fédération<a class="bookmark" href="3"> §</a></h1>
-                    <section id="body-3-1" class="div level2 level2">
+          <br class="lb"/>ou comment se forme une fédération</h1>
+                    <section id="body-3-1" class="div level2">
                       <a class="pb" href="#pb23" id="pb23">[p. 23]</a>
-                      <h2 class="head">Puissance du mythe<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                      <h2 class="head">Puissance du mythe</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">C’est une heure grave et pleine de méditations que celle où l’on a sous les yeux la Suisse, ce nœud puissant d’hommes forts et de hautes montagnes inextricablement noué au milieu de l’Europe, qui a ébréché la cognée de l’Autriche et rompu la formidable épée de Charles le Téméraire. La Providence a fait les montagnes, Guillaume Tell a fait les Suisses.</p>
                       </blockquote>
@@ -350,7 +364,7 @@
                       <p class="p">Et je renvoie en appendice le récit de l’invention de Guillaume Tell, moins connue que les actes du héros. Non certes dans l’idée sotte ou perverse de réduire le sublime au sordide ou seulement à l’insignifiant, mais parce que je crois au contraire que les réalités de l’histoire suisse dépassent largement la fiction quant aux leçons d’avenir qu’elles nous proposent, et qu’elles peuvent suggérer à l’Europe.</p>
                     </section>
                     <section id="body-3-2" class="div level2">
-                      <h2 class="head">« L’histoire suisse commence avec Guillaume Tell »<a class="bookmark" href="3#body-3-2"> §</a></h2>
+                      <h2 class="head">« L’histoire suisse commence avec Guillaume Tell »</h2>
                       <p class="p autofirst">Le Suisse moyen, quand il lui arrive de penser à son histoire, imagine le serment du Grütli comme un point de départ absolu. C’est l’aube des temps, tout ce qui précède n’est que ténèbres.</p>
                       <p class="p">
 <a class="pb" href="#pb26" id="pb26">[p. 26]</a>
@@ -401,19 +415,19 @@
  Vers l’est et vers l’ouest deux routes de col commencent la vallée du Rhin par l’Oberalp qui conduit aux Grisons rhétiques, et la vallée du Rhône par la Furka qui conduit au Valais latin. Et, au milieu, dans un cirque de prairies à l’herbe grasse, environné de hautes pentes dénudées que couronne parfois la tranche d’un glacier, les villages d’Andermatt et d’Hospental se groupent autour d’une grosse église baroque et d’un donjon romain sur un rocher.</p>
                       <p class="p">Au fronton de la chapelle Saint-Charles, à Hospental, quelques vers disent avec simplicité ce sentiment d’être au cœur de l’Europe qui ne manque pas de m’émouvoir chaque fois que je m’arrête au Gothard :</p>
                       <blockquote class="quote">
-                        <div class="l">Ici les chemins se séparent.
-              <br class="lb"/>Ami, où vont tes pas ?
-              <br class="lb"/>Descendras-tu vers la Rome éternelle ?
-              <br class="lb"/>Vers le Rhin allemand et Cologne la sainte ?
-              <br class="lb"/>Ou bien vers l’ouest, au loin, en terre de France ?</div>
+                        <div class="l">Ici les chemins se séparent.</div>
+                        <div class="l">Ami, où vont tes pas ?</div>
+                        <div class="l">Descendras-tu vers la Rome éternelle ?</div>
+                        <div class="l">Vers le Rhin allemand et Cologne la sainte ?</div>
+                        <div class="l">Ou bien vers l’ouest, au loin, en terre de France ?</div>
                       </blockquote>
                       <p class="p autofirst">Quelques siècles plus tard, un poète français fait dire à son héros quittant l’Europe et qui s’en remémore les saisons et les sites :</p>
                       <blockquote class="quote">
-                        <div class="l">Et je me souviendrai de ce lieu où l’hiver
-              <br class="lb"/>Demeure au cœur des mois d’été :
-              <br class="lb"/>Ce lieu de glace, et de rocs noirs, et de cieux noirs,
-              <br class="lb"/>Où, dans le pur silence.
-              <br class="lb"/>Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<a class="noteref" href="3#note4" id="note4_"><sup>4</sup></a></div>
+                        <div class="l">Et je me souviendrai de ce lieu où l’hiver</div>
+                        <div class="l">Demeure au cœur des mois d’été :</div>
+                        <div class="l">Ce lieu de glace, et de rocs noirs, et de cieux noirs,</div>
+                        <div class="l">Où, dans le pur silence.</div>
+                        <div class="l">Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<a class="noteref" href="3#note4" id="note4_"><sup>4</sup></a></div>
                       </blockquote>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">En ce lieu se sont noués les destins de la Suisse, au <span class="num">xiii<sup class="sup">e</sup></span> siècle. Voyons les personnages du drame.</p>
@@ -430,7 +444,7 @@
                       <p class="p">Mais voici le coup de tonnerre : Habsbourg devient empereur ! Le protecteur lointain et le plus proche ennemi des privilèges impériaux, soudain, sont confondus en un seul homme. Ce court-circuit allume les feux sur la montagne, signes de résistance concertée qui salueront bientôt, selon la légende, le Pacte entre les trois communautés. Et de nos jours encore, chaque année, au soir du 1<sup class="sup">er</sup> août, la Suisse entière se constelle de milliers de feux sur les hauteurs et sur les places publiques. Devant eux, tout le peuple chante.</p>
                     </section>
                     <section id="body-3-3" class="div level2">
-                      <h2 class="head">« La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien<a class="noteref" href="3#note6" id="note6_"><sup>6</sup></a> »<a class="bookmark" href="3#body-3-3"> §</a></h2>
+                      <h2 class="head">« La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien<a class="noteref" href="3#note6" id="note6_"><sup>6</sup></a> »</h2>
                       <p class="p autofirst">Quel est l’état social des Waldstätten, au moment du drame initial qui les oppose aux comtes de Habsbourg ? Les trois 
 <a class="pb" href="#pb36" id="pb36">[p. 36]</a>
  communautés foncières et d’exploitation<a class="noteref" href="3#note7" id="note7_"><sup>7</sup></a>, quoique habitant des vallées contiguës, parlant même langue alémanique et formées des mêmes races<a class="noteref" href="3#note8" id="note8_"><sup>8</sup></a>, présentent des différences bien marquées quant à leurs dominantes sociales. Les trois classes principales sont la noblesse, les libres et les serfs. La première domine en Uri, la seconde à Schwyz, qui compte à cette époque deux tiers de libres, tandis que ces derniers ne constituent qu’à peine un tiers de la population de l’Obwald et du Nidwald. Que sont les libres ? Des propriétaires et paysans ne relevant pas des seigneurs, et qui sont ou se disent socialement les égaux de la noblesse, laquelle se marie parmi eux sans déroger. (Tout libre peut, au moins théoriquement, briguer la couronne impériale.) La classe des libres, partout ailleurs en décadence et glissant au servage, s’est maintenue d’une manière exceptionnelle dans ce petit coin de l’Empire. Quant aux serfs des vallées alpestres, nous avons vu qu’ils participent aux assemblées locales, avec les autres classes, et ont part au gouvernement de leur commune. Ceux qui relèvent des abbayes jouissent d’un statut à peu près comparable à celui des libres. Dans l’ensemble, les Waldstätten sont donc l’une des populations les plus riches en <i class="i">privilèges</i> de toutes celles qui relèvent de l’Empire. Mais c’est Uri qui a reçu les premières lettres d’immédiateté, tandis que l’Unterwald n’en a pas, et que les franchises de Schwyz resteront longtemps contestables.</p>
@@ -455,7 +469,7 @@
                       <p class="p">Les circonstances qui ont donné lieu au pacte ainsi restituées dans leur réalité — qui est quasi le contraire de la légende et des images populaires — considérons maintenant le pacte lui-même.</p>
                     </section>
                     <section id="body-3-4" class="div level2">
-                      <h2 class="head">« Le pacte de 1291 a fondé la Suisse »<a class="bookmark" href="3#body-3-4"> §</a></h2>
+                      <h2 class="head">« Le pacte de 1291 a fondé la Suisse »</h2>
                       <p class="p autofirst">À strictement parler, la Suisse n’est un État que depuis 1848 (si l’on néglige l’éphémère République helvétique que les Suisses se laissèrent imposer par le Directoire). Mais cet État a englobé des territoires progressivement liés pendant des siècles par toutes sortes d’alliances et de ligues partielles. Une seule d’entre elles, d’ailleurs jurée comme « devant s’il plaît à Dieu durer à perpétuité », a subsisté sans variations et sans rupture jusqu’à nos jours. Devenue lentement invisible dans la complexité et l’enchevêtrement des successives confédérations à quatre, à sept, à huit, à treize, à dix-huit et à vingt-deux cantons, finalement englobée dans l’État fédéral, elle ne lie plus par une 
 <a class="pb" href="#pb40" id="pb40">[p. 40]</a>
  alliance particulière les trois vallées originelles, et cependant elle n’a jamais été dissoute<a class="noteref" href="3#note11" id="note11_"><sup>11</sup></a> ! Aucune autre communauté n’y est jamais entrée, ne l’a jamais signée, mais les alliances et ligues ultérieures se sont formées à son image, dans son esprit, avec sa participation, et sans doute n’auraient pu durer sans elle. Jusqu’au jour où l’on s’aperçoit qu’elle s’est en quelque sorte évanouie dans le succès final de sa formule : la Suisse actuelle.</p>
@@ -538,7 +552,7 @@
                     </section>
                     <section id="body-3-5" class="div level2">
                       <a class="pb" href="#pb53" id="pb53">[p. 53]</a>
-                      <h2 class="head">Ce « petit peuple pacifique… »<a class="bookmark" href="3#body-3-5"> §</a></h2>
+                      <h2 class="head">Ce « petit peuple pacifique… »</h2>
                       <p class="p autofirst">S’il est juste d’attribuer après coup la naissance de la Suisse à un pacte secret, c’est une bataille d’une rare brutalité qui révèle pour la première fois l’existence distincte de ce petit pays, aujourd’hui synonyme de refuge de la paix.</p>
                       <p class="p">Les Schwyzois ne cessaient d’attaquer l’abbaye d’Ensiedeln, avouerie impériale confiée aux Habsbourg, et à plusieurs reprises ils la mirent à sac, brutalisèrent ses moines et pillèrent son trésor. Si bien qu’ils furent frappés deux fois d’excommunication collective et d’interdit, et enfin mis au ban de l’Empire. D’autre part, les trois Waldstätten étaient en conflit permanent avec leurs voisins immédiats, Lucerne et Zurich notamment, qui menaient contre eux une guerre douanière pour le compte des Habsbourg d’Argovie, l’enjeu étant le trafic du Gothard.</p>
                       <p class="p">À bout de patience et sûr de sa victoire, Léopold de Habsbourg — landgrave d’Alsace et petit-fils de Rodolphe I<sup class="sup">er</sup> — lève une armée et marche contre Schwyz, le 15 novembre 1315. Une colonne de deux mille chevaliers cuirassés, suivie d’une nombreuse infanterie recrutée dans les villes du Plateau, longe le petit lac d’Ägeri, atteint le défilé du Morgarten, au sud du lac, à la frontière du territoire de Schwyz, et s’y engage sans méfiance. Tout d’un coup, sa tête et son arrière-garde sont clouées sur place par des avalanches de pierre et de troncs d’arbre. La Panzerdivision embouteillée ne peut se déployer au fond du défilé<a class="noteref" href="3#note17" id="note17_"><sup>17</sup></a>. Sur les crêtes dominant son flanc gauche apparaissent les terribles Schwyzois. Les pieds munis de crampons de fer, ils dévalent les pentes herbues, s’agrippent au sol juste au-dessus des cavaliers qu’ils démontent à grands coups de hallebardes. Culbutés, rejetés vers les marais et vers le lac où ils s’enfoncent 
@@ -593,7 +607,7 @@
                       <p class="p">Quant aux hallebardiers de la Renaissance, ils ont été rassemblés au musée de Bâle : le Suisse moyen ne les y regarde pas sans quelque gêne. À Berne et à Lucerne, debout sur des fontaines peintes de pourpre, de bleu-vert et d’or, cuirassés et bannière au poing, quelques-uns regardent encore passer la foule où déambulent des recrues en gris-vert : ils ne reconnaissent plus les Suisses.</p>
                     </section>
                     <section id="body-3-6" class="div level2">
-                      <h2 class="head">« Ce petit peuple égalitaire… »<a class="bookmark" href="3#body-3-6"> §</a></h2>
+                      <h2 class="head">« Ce petit peuple égalitaire… »</h2>
                       <p class="p autofirst">Les hommes des premières Ligues, leurs descendants et leurs alliés qui allaient former la Confédération des treize cantons, s’unirent bel et bien pour défendre leurs libertés traditionnelles, mais c’étaient autant de « privilèges ».</p>
                       <p class="p">Le trait le plus démocratique au sens moderne que l’on relève dans leur conduite et dans leurs pactes, c’est l’esprit des communes médiévales. Esprit corporatif mais non collectiviste, esprit de la cité grecque mais re-tribalisée par l’<i class="i">Allmend</i>, 
 <a class="pb" href="#pb64" id="pb64">[p. 64]</a>
@@ -665,7 +679,7 @@
                     </section>
                     <section id="body-3-7" class="div level2">
                       <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
-                      <h2 class="head">« Un pays traditionnellement neutre »<a class="bookmark" href="3#body-3-7"> §</a></h2>
+                      <h2 class="head">« Un pays traditionnellement neutre »</h2>
                       <p class="p autofirst">Parlant de traditions, une question se pose : celle de leur ancienneté relative.</p>
                       <p class="p">Il est remarquable que la neutralité de notre pays n’ait trouvé son premier historien qu’à la fin du siècle dernier<a class="noteref" href="3#note34" id="note34_"><sup>34</sup></a>. Elle n’est devenue qu’au <span class="num">xx<sup class="sup">e</sup></span> siècle la maxime intangible et absolue de la politique du Conseil fédéral. Les premiers traités internationaux qui la définissent et la sanctionnent sont les traités de Vienne et de Paris, au lendemain de la chute de Napoléon. Et ce n’est guère « qu’au cours du <span class="num">xvii<sup class="sup">e</sup></span> siècle que ce mot étranger de neutralité, issu du bas latin et intelligible en tout pays, doit être entré dans l’usage des Suisses<a class="noteref" href="3#note35" id="note35_"><sup>35</sup></a>.</p>
                       <p class="p">La neutralité suisse est donc un phénomène relativement récent en tant que doctrine, et qui ne se manifeste en tant que politique qu’au dernier tiers de l’histoire des « louables cantons ».</p>
@@ -712,7 +726,7 @@
                       <p class="p">J’aurai l’occasion, par la suite, de confronter ce comportement psychologique avec les réalités de l’Europe contemporaine, qui la mettent à la plus rude épreuve.</p>
                     </section>
                     <section id="body-3-8" class="div level2">
-                      <h2 class="head">« Il a fallu plus de six siècles pour fédérer les cantons suisses »<a class="bookmark" href="3#body-3-8"> §</a></h2>
+                      <h2 class="head">« Il a fallu plus de six siècles pour fédérer les cantons suisses »</h2>
                       <p class="p autofirst">L’argument est souvent invoqué par ceux qui estiment que notre continent n’est pas mûr pour unir ses vingt-cinq nations. On déclare que la grande Europe ne saurait se fédérer en quelques lustres, puisqu’il a fallu plus de six siècles aux vingt-cinq petits 
 <a class="pb" href="#pb85" id="pb85">[p. 85]</a>
  États suisses pour y arriver. Mais l’histoire nous montre au contraire :</p>
@@ -1130,28 +1144,28 @@
                       <a href="#">I. Le paysage historique,  ou comment se forme une fédération</a>
                       <ul>
                         <li class="collateral">
-                          <a href="3#body-3-1">Puissance du mythe</a>
+                          <a href="3#body-3-1">I.1. Puissance du mythe</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-2">« L’histoire suisse commence avec Guillaume Tell »</a>
+                          <a href="3#body-3-2">I.2. « L’histoire suisse commence avec Guillaume Tell »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-3">« La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien »</a>
+                          <a href="3#body-3-3">I.3. « La Suisse est née de la révolte de pâtres libertaires contre le despote autrichien »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-4">« Le pacte de 1291 a fondé la Suisse »</a>
+                          <a href="3#body-3-4">I.4. « Le pacte de 1291 a fondé la Suisse »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-5">Ce « petit peuple pacifique… »</a>
+                          <a href="3#body-3-5">I.5. Ce « petit peuple pacifique… »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-6">« Ce petit peuple égalitaire… »</a>
+                          <a href="3#body-3-6">I.6. « Ce petit peuple égalitaire… »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-7">« Un pays traditionnellement neutre »</a>
+                          <a href="3#body-3-7">I.7. « Un pays traditionnellement neutre »</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-8">« Il a fallu plus de six siècles pour fédérer les cantons suisses »</a>
+                          <a href="3#body-3-8">I.8. « Il a fallu plus de six siècles pour fédérer les cantons suisses »</a>
                         </li>
                       </ul>
                     </li>
@@ -1212,6 +1226,20 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>II.1. Les institutions et la vie politique – II.1.a. La Commune : un petit État – II.1.b. Les Cantons et leur « souveraineté » – II.1.c. Les Autorités fédérales – II.1.d. Les partis et les droits du peuple – II.1.e. Le civisme suisse ou la Maison des hommes – II.2. Les paradoxes de la vie économique – II.3. Interaction de l’économique et du politique</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	II.1. Les institutions et la vie politique (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-1-1	II.1.a. La Commune : un petit État (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-1-2	II.1.b. Les Cantons et leur « souveraineté » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-1-3	II.1.c. Les Autorités fédérales (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-1-4	II.1.d. Les partis et les droits du peuple (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-1-5	II.1.e. Le civisme suisse ou la Maison des hommes (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-2	II.2. Les paradoxes de la vie économique (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-4-3	II.3. Interaction de l’économique et du politique (1965, La Suisse ou l’histoire d’un peuple heureux)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1222,10 +1250,11 @@
                   <article role="article">
                     <a class="pb" href="#pb105" id="pb105">[p. 105]</a>
                     <h1 class="head kicker chapter">Deuxième partie</h1>
-                    <h1 class="head chapter">L’union, sauvegarde de la diversité ou comment fonctionne une fédération<a class="bookmark" href="4"> §</a></h1>
-                    <section id="body-4-1" class="div level2 level2">
+                    <h1 class="head chapter">L’union, sauvegarde de la diversité ou comment fonctionne une fédération</h1>
+                    <section id="body-4-1" class="div level2">
                       <a class="pb" href="#pb107" id="pb107">[p. 107]</a>
-                      <h2 class="head">1. Les institutions et la vie politique<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                      <h2 class="head kicker">1.</h2>
+                      <h2 class="head">Les institutions et la vie politique</h2>
                       <p class="p autofirst">Une pratique séculaire, restée longtemps sans nom et sans doctrine trop clairement formulée, constitue le véritable apport de la Suisse <i class="i">comme telle</i> à l’Europe. Encore, les Suisses la comprennent-ils différemment : pour les Alémaniques, fédération veut dire « communauté du serment » ou « lien » (<i class="i">Bund</i>) ; pour les Romands : volonté de maintenir les libertés locales contre les empiètements de l’autorité commune. Rien d’étonnant si une telle pratique est mal connue ou mal comprise à l’extérieur, et notamment chez nos voisins français, épris de logique et centralisateurs. Un Français cultivé et qui se demande quel est le « vrai » sens du mot fédéralisme, recourt à son Littré, où il trouve ceci :</p>
                       <blockquote class="quote">
                         <p class="p autofirst"><span class="sc">Fédéralisme</span> s.m. Néologisme. Système, doctrine du gouvernement fédératif. — « Le fédéralisme était une des formes politiques les plus communes employées par les sauvages », Chateaubriand, <i class="i">Amérique, gouvernement</i>. Pendant la révolution, projet attribué aux Girondins de rompre l’unité nationale et de transformer la France en une fédération de petits États. « Aux Jacobins, on agita gravement la question du fédéralisme, et on souleva mille fureurs contre les Girondins », Thiers, <i class="i">Histoire de la révolution</i>, chap. I.</p>
@@ -1240,7 +1269,7 @@
 <a class="pb" href="#pb109" id="pb109">[p. 109]</a>
  et possible pour un continent composé de nations aussi diverses et jalouses de le rester. Et je n’entends pas non plus faire une apologie de la formule fédéraliste suisse, mais je crois important d’en évaluer les avantages et les inconvénients dans divers ordres — civique, économique et culturel ; de dire aussi ce qu’il en coûte et de quels sacrifices moraux et matériels il a fallu payer l’établissement de cette espèce de prototype. Après quoi, nous tenterons de prévoir ses possibilités d’adaptation à l’Europe qui évolue vers son union, et aux formes nouvelles de civilisation qui sont en train de naître sous nos yeux.</p>
                       <section id="body-4-1-1" class="div level3">
-                        <h3 class="head">La Commune : un petit État<a class="bookmark" href="4#body-4-1-1"> §</a></h3>
+                        <h3 class="head">La Commune : un petit État</h3>
                         <p class="p autofirst">La fédération des États-Unis d’Amérique est née de l’union des États, comme celle de la Suisse de l’union des cantons, mais ceux-ci ne sont pas des créations abstraites délimitées au tire-ligne sur la carte et reportées sur le terrain par des procédés d’arpentage : ils sont nés de la lente agrégation de <i class="i">communes</i> forestières et urbaines, et leurs frontières très compliquées traduisent une croissance empirique, par l’intérieur, à partir de foyers multiples. Ces origines demeurent sensibles et agissantes dans l’existence civique de la Suisse d’aujourd’hui.</p>
                         <p class="p">Pour devenir citoyen des États-Unis d’Amérique, à supposer que vous habitiez depuis un certain temps ce grand pays, il vous faudra quitter son territoire, passer quelques jours au Canada, au Mexique ou aux Bermudes, y recevoir d’un consul américain les « premiers papiers » qui feront de vous un candidat admis à la nationalité américaine, puis rentrer en cette qualité, c’est-à-dire passer la frontière avec l’intention déclarée d’adhérer aux règles du club, à l’<i class="i">American way of life</i>. Après quoi vous pourrez aller où vous voudrez. Cette cérémonie symbolique vous introduira dans une communauté abstraite, et ne vous enracinera nulle part sur l’immense territoire des États-Unis.</p>
                         <p class="p">
@@ -1272,7 +1301,7 @@
                         <p class="p">Plutôt que d’essayer vainement de lutter contre ces courants, les Suisses vont se voir contraints de repenser la fonction des cellules de base dans une société plus mobile et surtout plus diversifiée que celle où se forma l’actuel fédéralisme. Peut-être faudra-t-il abandonner l’idée (qui vient du plus haut Moyen Âge) d’une sorte d’autarcie du petit monde communal, se suffisant matériellement et moralement, et accepter franchement l’idée nouvelle de <i class="i">complexes de communes complémentaires</i>, qui partageraient les frais de certains services trop chers et n’en seraient que plus libres de vivre à leur manière. Des solutions de ce genre ne seraient-elles pas plus réellement fédéralistes que ne l’était, en somme, l’ancien état de choses ?</p>
                       </section>
                       <section id="body-4-1-2" class="div level3">
-                        <h3 class="head">Les Cantons et leur « souveraineté »<a class="bookmark" href="4#body-4-1-2"> §</a></h3>
+                        <h3 class="head">Les Cantons et leur « souveraineté »</h3>
                         <p class="p autofirst">L’indigénat d’une commune donne droit de cité dans un canton. Au commencement de la Suisse et de chaque vie civique — phylogenèse et ontogenèse — il y a donc les communes, non 
 <a class="pb" href="#pb115" id="pb115">[p. 115]</a>
  les cantons. Ceux-ci se sont formés beaucoup plus tard, et de manières très diverses.</p>
@@ -1326,7 +1355,7 @@
  Trois Suisses vont à la chasse aux escargots et ils comparent leurs prises en fin de journée. « Moi, dit le Genevois rapide, j’en ai cent. — Moi, dit le Bernois, j’en ai attrapé quatre ! — Et moi, dit le Vaudois (imaginez l’accent), j’en ai bien vu un, mais il m’a échappé. »</p>
                       </section>
                       <section id="body-4-1-3" class="div level3">
-                        <h3 class="head">Les Autorités fédérales<a class="bookmark" href="4#body-4-1-3"> §</a></h3>
+                        <h3 class="head">Les Autorités fédérales</h3>
                         <p class="p autofirst">Réalités humaines et culturelles : communales et cantonales. Utilité publique : fédérale.</p>
                         <p class="p">Nous avons vu pour quelles raisons économiques et militaires une ligue d’États s’est transformée en un État fédératif. Acte essentiellement politique, mais au meilleur sens de ce mot : ce qui subsiste de la notion de <i class="i">politique</i> une fois qu’on l’a débarrassée, d’une part, des motifs prétendus « idéologiques », à vrai dire partisans ou sectaires, d’autre part des rêveries, utopies et tabous de la grandeur nationale prise comme but absolu.</p>
                         <p class="p">Un jour, dans les couloirs du Conseil de l’Europe, à Strasbourg, je rencontre un député français (plusieurs fois ministre depuis) et qui est membre du comité chargé d’élaborer un projet de Constitution européenne. Je lui demande comment vont les travaux. « Nous butons, me dit-il, sur le problème de l’Exécutif. — Prenez donc notre formule suisse ! — Qu’est-ce que c’est ? » J’explique alors en quelques phrases qu’il s’agit d’un collège de sept membres, qui est le Chef de l’État, et qui représente <i class="i">grosso modo</i> les cantons, les partis et les langues. Chacun des Sept est un ministre et le demeure pendant l’année où il exerce la fonction honorifique de Président de la Confédération. Le Conseil étudie des projets de loi et les présente au Parlement. Si un projet est rejeté, le Conseil ne démissionne pas : il reprend la question, consulte beaucoup de monde et présente un texte 
@@ -1367,7 +1396,7 @@
                         <p class="p">À ce propos, il faut remarquer que les vingt-huit juristes composant le <i class="i">Tribunal fédéral</i> n’ont pas, comme le Conseil d’État français ou la Cour Suprême des États-Unis, le droit d’examiner la conformité des lois nouvelles à la Constitution. Le Tribunal fédéral, en dehors des litiges concernant des personnes privées, connaît essentiellement des différends entre la Confédération d’une part, et les cantons ou les corporations de droit public d’autre part. Les citoyens peuvent en outre lui présenter leurs réclamations, s’ils estiment leurs droits lésés par un canton, « ce qui a grandement contribué à l’emploi de méthodes correctes dans l’administration », comme le souligne le juge fédéral Bolla<a class="noteref" href="4#note66" id="note66_"><sup>66</sup></a>.</p>
                       </section>
                       <section id="body-4-1-4" class="div level3">
-                        <h3 class="head">Les partis et les droits du peuple<a class="bookmark" href="4#body-4-1-4"> §</a></h3>
+                        <h3 class="head">Les partis et les droits du peuple</h3>
                         <p class="p autofirst">Dans le cadre des institutions fédérales que l’on vient de décrire à très grands traits, comment fonctionne la vie civique ? Voyons d’abord ses instruments d’expression les plus classiques, les partis.</p>
                         <p class="p">Un certain nombre de partis n’existent que dans quelques cantons, ou un seul canton, ou même dans une seule région de ce canton. Les partis qui ont acquis quelque importance sur le plan fédéral sont au nombre de huit.</p>
                         <p class="p">La droite est formée par les conservateurs chrétiens-sociaux, puissants dans la Suisse centrale, catholique et campagnarde, et par les libéraux démocrates, dont les adhérents se recrutent en Suisse romande protestante et à Bâle et dans les anciennes 
@@ -1399,7 +1428,7 @@
                         <p class="p">Il paraît difficile de déceler un courant général dans toutes ces réformes, les unes politiques et juridiques, les autres économiques, en proportion à peu près égale. Mais il est probable que la tendance à introduire des droits économiques dans la constitution finira par prévaloir. L’assurance-vieillesse a été votée en 1947 à une écrasante majorité (80 % des votants), en même temps qu’une révision partielle offrant à la Confédération de nouvelles possibilités de légiférer en matière économique et sociale.</p>
                       </section>
                       <section id="body-4-1-5" class="div level3">
-                        <h3 class="head">Le civisme suisse ou la Maison des hommes<a class="bookmark" href="4#body-4-1-5"> §</a></h3>
+                        <h3 class="head">Le civisme suisse ou la Maison des hommes</h3>
                         <p class="p autofirst">À première vue, le trait le plus frappant de l’évolution du civisme en Suisse semble bien être le désintérêt croissant du corps électoral à l’endroit de la chose publique, désintérêt que l’on pourrait mesurer par la participation de plus en plus faible aux votations cantonales et fédérales, et même aux élections. Là-dessus la presse se lamente, et les enquêtes se multiplient (surtout en période d’élection) sur les raisons de la désaffection dont souffrent les partis, et de la « dépolitisation » de notre peuple.</p>
                         <p class="p">Ces raisons me paraissent assez claires. Les partis méritent de mobiliser la passion politique quand ils se font, en temps de crise, les champions d’idéologies franchement contrastées, quand ils luttent pour conquérir des libertés nouvelles, ou pour maintenir des valeurs essentielles. Ce n’est plus nécessaire en Suisse, et l’on peut s’en féliciter. Les libertés politiques, nous les avons. Les programmes de la gauche et de la droite se réclament des mêmes principes, indiscutés. La seule crise à redouter dans l’immédiat est celle que menace de provoquer une prospérité matérielle « surchauffée ».</p>
                         <p class="p">
@@ -1457,9 +1486,10 @@
                         <p class="p autofirst">Tout cela, c’est l’idéal, ou plutôt ce l’était. Politique, militaire, poético-civique, profondément sincère et agissant chez les trois hommes que l’on vient de citer ; émouvant comme le sont toujours la victoire d’un cœur franc sur un tyran et de la liberté sur le destin. Mais tant de choses ont changé autour de nous et nous mettent au défi de changer dans un monde d’interactions subitement étendues à toute la terre… Lié à des diversités locales et traditionnelles que toute l’évolution technique semble devoir oblitérer et niveler, cet idéal fédéraliste n’est-il pas menacé d’anachronisme ? La pratique suisse a-t-elle encore un sens réel ?</p>
                       </section>
                     </section>
-                    <section id="body-4-2" class="div level2 level2">
+                    <section id="body-4-2" class="div level2">
                       <a class="pb" href="#pb145" id="pb145">[p. 145]</a>
-                      <h2 class="head">2. Les paradoxes de la vie économique<a class="bookmark" href="4#body-4-2"> §</a></h2>
+                      <h2 class="head kicker">2.</h2>
+                      <h2 class="head">Les paradoxes de la vie économique</h2>
                       <p class="p autofirst">Il est clair que l’économie est le facteur unifiant par excellence des sociétés du <span class="num">xx<sup class="sup">e</sup></span> siècle. Comment peut-elle s’accommoder, en Suisse, d’un régime à ce point fédéraliste ? Et comment ce régime peut-il s’y adapter ?</p>
                       <p class="p">C’est à ces deux questions, qui n’en font qu’une en somme, que j’essaierai dans les pages qui suivent d’apporter certains éléments d’une réponse forcément provisoire et à bien des égards ambiguë : car si l’étude du passé récent de notre existence fédérale (de 1848 à nos jours) permet de juger que les relations entre l’économie et le fédéralisme ont été dans l’ensemble bonnes — surtout pour notre économie — il se peut qu’un avenir prochain les mette en crise, et nous force à des choix douloureux entre nos intérêts et nos principes. À moins que la grande révolution technique en cours (automation, électronique, nouvelles sources d’énergie et d’alimentation) et les progrès de l’intégration européenne ne révèlent, contrairement aux craintes présentes, que le fédéralisme est le régime politique qui correspond le mieux aux exigences futures…</p>
                       <p class="p">Pour situer le problème, je rappellerai d’abord les constantes naturelles de la Suisse, puis certaines attitudes psychologiques qu’elles ont déterminées au cours des siècles et leur parallélisme remarquable dans le domaine de l’économie et dans celui des formes d’existence politique.</p>
@@ -1671,8 +1701,9 @@
  qu’on peut reprocher aux Suisses, est une nécessité profonde de leur économie, si « dangereusement » liée, nous l’avons dit, à la conjoncture européenne.</p>
                       <p class="p">Quoi d’étonnant si, dans ces conditions, le Suisse moyen et même le grand patron, le chef syndicaliste, ou le haut magistrat fédéral, demeurent intimement persuadés qu’un système aussi bien ajusté et au total aussi satisfaisant, moralement et matériellement, met la Suisse à l’abri des options dramatiques que lui proposent quelques reporters étrangers, ou de rares intellectuels, Suisses il est vrai, mais en marge des affaires sérieuses ? Et pourtant, la question « inopportune » de notre indépendance politique, de son degré de réalité, et de la durée possible du régime fédéral dans un monde à ce point transformé demeure posée à l’arrière-plan. Essayons de la serrer de plus près.</p>
                     </section>
-                    <section id="body-4-3" class="div level2 level2">
-                      <h2 class="head">3. Interaction de l’économique et du politique<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                    <section id="body-4-3" class="div level2">
+                      <h2 class="head kicker">3.</h2>
+                      <h2 class="head">Interaction de l’économique et du politique</h2>
                       <p class="p autofirst">« Notre régime économique a fait ses preuves. Il convient à nos aspirations. Comment pourrait-il menacer le régime politique dont il dépend ? » C’est un raisonnement analogue que paraît tenir le Suisse moyen au sujet de la neutralité : « Elle nous a préservés jusqu’ici, gardons-la. » Mais l’Europe de la Sainte-Alliance, qui avait reconnu notre neutralité comme étant « dans ses intérêts » autant que dans ceux de notre « indépendance de toute influence étrangère », cette Europe a vécu et à sa place naît l’Europe du Marché Commun. Et dans le domaine économique ? <i class="i">Tout a changé, depuis 1848, sauf le nombre de nos cantons</i>. Cette constatation des plus simples me semble résumer le problème suisse, en cette seconde moitié du <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
                       <p class="p">Si l’on considère ce problème du seul point de vue de l’économie, en admettant que cette dernière représente un facteur de nivellement à l’échelle de l’Europe et du monde, il faut 
 <a class="pb" href="#pb166" id="pb166">[p. 166]</a>
@@ -1861,30 +1892,30 @@
                       <a href="#">II. L’union, sauvegarde de la diversité ou comment fonctionne une fédération</a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-4-1">1. Les institutions et la vie politique</a>
+                          <a href="4#body-4-1">II.1. Les institutions et la vie politique</a>
                           <ul>
                             <li class="collateral">
-                              <a href="4#body-4-1-1">La Commune : un petit État</a>
+                              <a href="4#body-4-1-1">II.1.a. La Commune : un petit État</a>
                             </li>
                             <li class="collateral">
-                              <a href="4#body-4-1-2">Les Cantons et leur « souveraineté »</a>
+                              <a href="4#body-4-1-2">II.1.b. Les Cantons et leur « souveraineté »</a>
                             </li>
                             <li class="collateral">
-                              <a href="4#body-4-1-3">Les Autorités fédérales</a>
+                              <a href="4#body-4-1-3">II.1.c. Les Autorités fédérales</a>
                             </li>
                             <li class="collateral">
-                              <a href="4#body-4-1-4">Les partis et les droits du peuple</a>
+                              <a href="4#body-4-1-4">II.1.d. Les partis et les droits du peuple</a>
                             </li>
                             <li class="collateral">
-                              <a href="4#body-4-1-5">Le civisme suisse ou la Maison des hommes</a>
+                              <a href="4#body-4-1-5">II.1.e. Le civisme suisse ou la Maison des hommes</a>
                             </li>
                           </ul>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-2">2. Les paradoxes de la vie économique</a>
+                          <a href="4#body-4-2">II.2. Les paradoxes de la vie économique</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-3">3. Interaction de l’économique et du politique</a>
+                          <a href="4#body-4-3">II.3. Interaction de l’économique et du politique</a>
                         </li>
                       </ul>
                     </li>
@@ -1942,6 +1973,33 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.1. Petits trajets portés sur les axes du monde – III.2. Portrait du Suisse moyen – III.3. Condition du « grand homme » en Suisse – III.4. De la culture dans une fédération, ou la pluralité des allégeances – III.5. D’un pays où le centre est partout – III.6. La peinture : de Nicolas Manuel à Paul Klee – III.7. La sculpture : Alberto Giacometti – III.8. L’architecture : des grands Baroques à Le Corbusier – III.9. La musique : Arthur Honegger – III.10. Le théâtre : du Festspiel à Friedrich Dürrenmatt – III.11. Littérature en général : de l’helvétisme à Ramuz – III.12. La poésie : trois évadés célèbres – III.13. La philosophie et la métaphysique – III.14. La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung – III.15. « Helvetia mediatrix » : de Bodmer aux Burckhardt – III.16. Les sciences humaines : Ferdinand de Saussure – III.17. Les sciences physiques : de Paracelse à l’indice Nobel – III.18. Les universités – III.19. « Tout Suisse est pédagogue » – III.20. La vie religieuse : catholiques et protestants côte à côte – III.21. Le malaise suisse</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	III.1. Petits trajets portés sur les axes du monde (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-2	III.2. Portrait du Suisse moyen (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-3	III.3. Condition du « grand homme » en Suisse (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-4	III.4. De la culture dans une fédération, ou la pluralité des allégeances (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-5	III.5. D’un pays où le centre est partout (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-6	III.6. La peinture : de Nicolas Manuel à Paul Klee (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-7	III.7. La sculpture : Alberto Giacometti (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-8	III.8. L’architecture : des grands Baroques à Le Corbusier (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-9	III.9. La musique : Arthur Honegger (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-10	III.10. Le théâtre : du Festspiel à Friedrich Dürrenmatt (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-11	III.11. Littérature en général : de l’helvétisme à Ramuz (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-12	III.12. La poésie : trois évadés célèbres (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-13	III.13. La philosophie et la métaphysique (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-14	III.14. La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-15	III.15. « Helvetia mediatrix » : de Bodmer aux Burckhardt (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-16	III.16. Les sciences humaines : Ferdinand de Saussure (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-17	III.17. Les sciences physiques : de Paracelse à l’indice Nobel (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-18	III.18. Les universités (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-19	III.19. « Tout Suisse est pédagogue » (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-20	III.20. La vie religieuse : catholiques et protestants côte à côte (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-5-21	III.21. Le malaise suisse (1965, La Suisse ou l’histoire d’un peuple heureux)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1952,7 +2010,7 @@
                   <article role="article">
                     <a class="pb" href="#pb173" id="pb173">[p. 173]</a>
                     <h1 class="head kicker chapter">Troisième partie</h1>
-                    <h1 class="head chapter">La morale quotidienne et le climat de culture ou comment on vit dans une fédération<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">La morale quotidienne et le climat de culture ou comment on vit dans une fédération</h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  Cette beauté bien drue d’énergie pure et neuve, aux matins luisants de rosée, quand le pays entier émerge de la brume, repeint durant la nuit comme un banc vert auprès du lac précieux où trempent des parois à peine moins translucides que le ciel, ce temps de création du monde juste avant l’homme et ses malheurs, c’est ma Suisse, telle que je la vois de très loin dans mon souvenir.</p>
@@ -1963,7 +2021,7 @@
                     <p class="p">En Suisse, le moindre déplacement peut vous faire changer de monde en un clin d’œil, comme il arrive quand on traverse le tunnel de Chexbres en vingt secondes : il se ferme sur un paysage de plateaux nordiques et rhénans — collines où montent les sapins en bataillons noirs et pensifs s’arrêtant au sommet d’un seul coup — et s’ouvre à l’autre bout dans l’espace doré d’un ciel méridional que double un lac immense.</p>
                     <p class="p">J’irai redécouvrir la Suisse réelle dans l’usage de ses trains locaux, me disais-je en rentrant d’Amérique, au lendemain de la dernière guerre. Voici ce que j’écrivais alors.</p>
                     <section id="body-5-1" class="div level2">
-                      <h2 class="head">Petits trajets portés sur les axes du monde<a class="bookmark" href="5#body-5-1"> §</a></h2>
+                      <h2 class="head">Petits trajets portés sur les axes du monde</h2>
                       <p class="p autofirst">Les trains suisses, bien qu’ils vous conduisent en moins d’une heure d’un monde à l’autre, ne servent cependant qu’aux petits déplacements, qui sont des voyages concentrés et plus émouvants que les vrais, parce que entre le départ et l’arrivée ne s’établit jamais cette monotonie des heures de plaine et d’Océan de nuit où rien ne bouge. Comme il n’y a pas de place en Suisse pour un véritable voyage, on s’en tire en coupant le milieu, ce remplissage de kilomètres, ces deux mesures de musique russe indéfiniment répétées, pour ne garder que le meilleur, le plus actif et le plus déchirant, la rupture et la découverte, l’évasion qui se mue en invasion, tandis qu’entre les deux s’opère en quelques secondes la silencieuse révolution du centre où se confondent les extrêmes les plus touchants du souvenir et de l’espoir, quand les portes du cœur, un instant, sont à la fois ouvertes et fermées. Ainsi la Suisse est la patrie des romantiques contraints par les dimensions mêmes de leur État au classicisme véritable, celui 
 <a class="pb" href="#pb177" id="pb177">[p. 177]</a>
  qui exprime le plus en disant le moins, et qui témoigne de l’inspiration par le signal d’un raccourci métaphorique. J’idéalise, mais pourquoi pas ? S’il me fallait décrire nos petits déplacements du point de vue de l’usager moyen, je dirais que je les trouve divisés en trois classes, pour la commodité de l’exposé.</p>
@@ -1986,7 +2044,7 @@
                       <p class="p">Voilà la Suisse en raccourci, telle que je l’aime : croisement des traditions locales les plus touchantes et des express européens, petits trajets portés sur les axes du monde. Quel ennui, ces secondes entre les deux !</p>
                     </section>
                     <section id="body-5-2" class="div level2">
-                      <h2 class="head">Portrait du Suisse moyen<a class="bookmark" href="5#body-5-2"> §</a></h2>
+                      <h2 class="head">Portrait du Suisse moyen</h2>
                       <p class="p autofirst">Eh bien, depuis que j’écrivais ces pages (en 1946, je crois) ce sont les secondes qui ont triomphé : elles sont devenues les premières, chassant mes rêves, tandis que les troisièmes étaient promues aux banquettes de cuir ou de reps. Il n’y a plus que 
 <a class="pb" href="#pb181" id="pb181">[p. 181]</a>
  deux classes en Suisse, celle des riches et celle des moins riches. On a supprimé celle des pauvres. Comme dans les autres trains de l’Europe ? me dira-t-on. Mais ici, cela traduit la réalité sociale. Non seulement parce que la misère est en principe éliminée, mais parce que les Suisses sont plus réellement moyens que « l’homme moyen » des autres peuples, support ou résultat fictif des statistiques.</p>
@@ -2033,7 +2091,7 @@
                     </section>
                     <section id="body-5-3" class="div level2">
                       <a class="pb" href="#pb190" id="pb190">[p. 190]</a>
-                      <h2 class="head">Condition du « grand homme » en Suisse<a class="bookmark" href="5#body-5-3"> §</a></h2>
+                      <h2 class="head">Condition du « grand homme » en Suisse</h2>
                       <p class="p autofirst">Dans un film naguère célèbre, Orson Welles assurait que la Suisse n’a donné au monde que la pendule à coucou. J’imagine qu’il entendait dire que la Suisse n’a produit rien de grand, hommes, idées ou objets, comme l’Italie a produit Dante, la France Pascal et la Révolution, l’Allemagne Goethe et certains phénomènes moins humanistes, la Russie Tolstoï et Staline, l’Espagne Cervantès, Colomb et l’Amérique, cette dernière Orson Welles et la Bombe.</p>
                       <p class="p">Il faut admettre que notre <i class="i">aurea mediocritas</i> saute aux yeux du premier venu, tandis que les grandeurs éventuelles de la Suisse restent quelque peu mystérieuses, même aux yeux des Européens dotés d’une bonne culture générale. Le statut du « grand homme » en Suisse le condamne à demeurer à peu près invisible. Comment veut-on qu’un étranger le voie ? Si cet étranger vient chez nous et cite l’un des Suisses qu’il connaît par sa réputation mondiale, il ne trouvera pas une personne sur mille, prise dans la rue, qui ait jamais entendu ce nom-là ; en revanche, les hommes importants qu’on lui indiquera sont inconnus hors du canton.</p>
                       <p class="p">La Suisse résulte, l’ai-je assez dit, de l’agrégation d’innombrables compartiments. Si bien que l’homme de poids y sera surtout local. Il sera le grand homme d’une vallée, d’une cité, plus rarement d’un canton, presque jamais celui de la nation entière. D’autre part, le réflexe antihégémonique s’oppose à toute prédominance d’un canton ou d’un homme qui le représente. D’où les conséquences qu’on a vues dans le domaine de la vie publique : tout se ligue instantanément contre celui qui ferait mine de dépasser la mesure commune et d’être un chef. Un Führer suisse est impensable, et même l’essai d’instituer un Landamman de Suisse échoua très vite, vers 1800. Un Collège peu voyant administre l’État, on ne 
@@ -2066,7 +2124,7 @@
  petite patrie locale, s’ils la dépassent c’est pour rejoindre immédiatement les grands courants continentaux ; parfois pour les déterminer. Condamnés à l’Europe en quelque sorte ; non, bien plutôt libres pour elle… Mais ceci nous amène à la question centrale de la « situation suisse » dans la culture.</p>
                     </section>
                     <section id="body-5-4" class="div level2">
-                      <h2 class="head">De la culture dans une fédération, ou la pluralité des allégeances<a class="bookmark" href="5#body-5-4"> §</a></h2>
+                      <h2 class="head">De la culture dans une fédération, ou la pluralité des allégeances</h2>
                       <p class="p autofirst">Pour qu’il y ait culture en général — au sens occidental et moderne du terme —, il faut une variété aussi riche que possible de créations humaines, un foisonnement d’œuvres et de langages, de moyens d’expressions plastiques ou codes, de méthodes, de doctrines, d’écoles, etc. — et il faut quelque chose qui lie toutes ces œuvres et leur offre une commune mesure ; sans quoi l’on ne saurait parler d’une culture cohérente et distincte au sein de la culture humaine. Il faut donc à la fois l’Un et le Divers, une très riche diversité se détachant sur un fond d’unité essentielle.</p>
                       <p class="p">Quelle est donc, pour nous autres Suisses, l’unité de base, d’origine et de but, à laquelle nous nous référons implicitement dans toutes nos œuvres, le <i class="i">fond commun</i> sur lequel se détache notre individualité, et dont elle tire ses nourritures élémentaires ? Ce ne peut être que l’Europe entière. L’Europe est la seule unité de culture, organique et complète, à laquelle nous puissions nous rattacher directement, nous qui n’avons pas eu la chance, ou le malheur, d’avoir une soi-disant « culture nationale », intermédiaire entre l’Europe et nos cités.</p>
                       <p class="p">Je bute ici sur un concept aussi néfaste qu’invétéré, et qui me paraît exemplairement incompatible avec la réalité fédéraliste.</p>
@@ -2104,7 +2162,7 @@
                       <p class="p">Et si l’on cite C. F. Ramuz contre ma thèse, faut-il rappeler que ce grand écrivain s’est formé à l’école de Paris, mais aussi à l’école de Cézanne, puis des romanciers russes, enfin de Goethe ? Il se voulait un pur Vaudois, séparatiste. (Car c’était là le véritable sens de son fédéralisme étroit.) Cette erreur l’a peut-être soutenu en tant qu’artiste, comme il arrive ; elle n’en fut pas moins responsable de certaines limitations de son œuvre.</p>
                     </section>
                     <section id="body-5-5" class="div level2">
-                      <h2 class="head">D’un pays où le centre est partout<a class="bookmark" href="5#body-5-5"> §</a></h2>
+                      <h2 class="head">D’un pays où le centre est partout</h2>
                       <p class="p autofirst">Donc point de capitale, point de bourse des valeurs nationales, point de centre unique et prestigieux, attirant tous les regards et toutes les ambitions. La vie de la culture en Suisse se passe dans une série de cercles qui se recoupent, ayant leur centre un peu partout dans le pays ou hors de lui, et point de circonférence domanière et douanière.</p>
                       <p class="p">Cette situation bizarre en apparence est très conforme au génie de la culture occidentale, car celle-ci a toujours été faite par des foyers locaux et non par des nations ; par des écoles fermées puis internationales ; par des styles qui ne connaissaient ni péages ni frontières politiques ; et par des traditions communes à tous nos peuples, comme la grecque, la romaine, la judéo-chrétienne, la celte, la germanique, etc., bien antérieures aux découpages en couleurs plates de nos atlas. La <i class="i">multiplicité des foyers créateurs</i> fournit à la culture ses meilleures chances, et 
 <a class="pb" href="#pb202" id="pb202">[p. 202]</a>
@@ -2133,7 +2191,7 @@
  Ce tableau de foyers qui s’allument, s’éteignent et se rallument comme au hasard, tout indépendamment les uns des autres, nous révèle certes une densité remarquable de créations dont beaucoup firent époque, mais aucun dessein général. <i class="i">Toutes ces cités ont moins de relations entre elles qu’avec les grands ensembles européens</i>. Comment sentir ce qui peut être suisse dans le rayonnement d’énergie spirituelle qu’elles émettent tour à tour ? En outre, cette topographie n’indique guère que des points de concentrations de forces, laisse de côté beaucoup de régions où quelque génie peut surgir. Il faudrait y aller voir de plus près. J’irai donc me promener librement dans notre paysage culturel, prenant des notes comme on le fait parfois en parcourant une grande exposition et m’arrêtant seulement si quelque chose m’arrête : délibérément subjectif. Car je cherche à savoir ce qui me retient dans ce que des Suisses ont produit, et quel est le rapport, s’il existe, entre leurs œuvres et ce pays.</p>
                     </section>
                     <section id="body-5-6" class="div level2">
-                      <h2 class="head">La peinture : de Nicolas Manuel à Paul Klee<a class="bookmark" href="5#body-5-6"> §</a></h2>
+                      <h2 class="head">La peinture : de Nicolas Manuel à Paul Klee</h2>
                       <p class="p autofirst">Elle prend en Suisse un beau départ avec <i class="i">Holbein</i> et l’école rhénane, centrée sur Bâle. Voici comment je l’ai découverte, au mois de mars 1940, étant alors mobilisé à Berne. C’était encore la « drôle de guerre » : la plupart se refusaient à croire au pire, qui menaçait à bout portant, et la neutralité nous obligeait à ne pas dire un mot plus haut que l’autre. Une exposition de peintres suisses au <span class="num">xvi<sup class="sup">e</sup></span> siècle me fit écrire sur le plus grand d’entre eux — l’homme au poignard enguirlandé — les pages qui suivent.</p>
                       <p class="p">Oui, je veux opposer la Suisse de Manuel à l’Helvétie des manuels ! Et qu’importe le calembour, s’il fait hésiter les corrects dans un pays trop ajusté.</p>
                       <p class="p">Ah ! Nicolas Manuel Deutsch, on ne s’embêtait pas de ton temps ! On allait faire la guerre en Italie pour le plaisir d’un 
@@ -2148,10 +2206,10 @@
 <a class="pb" href="#pb207" id="pb207">[p. 207]</a>
  que nous fîmes à l’amour ? Urs Graf, Holbein, Grünewald et tant d’autres, connus ou anonymes, dira-t-on que ce fut leur romantisme ? Mais non, le romantisme est littéraire, et ces hommes ont le regard net, accoutumé à taxer le réel avec une dure exactitude : face au danger. Leur Suisse est au sommet de son élan vers la conquête et la richesse, au comble de sa gloire et de son risque. Elle n’a jamais été moins neutre, moins confinée dans ses moyennes, ni moins en garde contre les tentations de la grandeur. Elle est sérieuse parce qu’elle est menacée et menaçante ; parce qu’elle est tout le contraire d’un pays « d’assurés ». Sérieuse et impétueuse comme ceux qui savent que la vie n’est pas le but de la vie, qu’elle ne mérite pas de majuscule, et qu’elle est quelque chose qui doit brûler, flamber, et non pas rapporter du trois pour cent. Sérieuse comme ce qui compte avec la mort, comme ce qui compte avec l’esprit, — avec la profondeur et la hauteur sans quoi toute vie demeure plate et basse.</p>
                       <blockquote class="quote">
-                        <div class="l center">Quanto bella giovinezza
-              <br class="lb"/>Che si fugge tuttavia !
-              <br class="lb"/>Chi vuol esser lieto, sia !
-              <br class="lb"/>Di doman non c’è certezza.</div>
+                        <div class="l center">Quanto bella giovinezza</div>
+                        <div class="l">Che si fugge tuttavia !</div>
+                        <div class="l">Chi vuol esser lieto, sia !</div>
+                        <div class="l">Di doman non c’è certezza.</div>
                       </blockquote>
                       <p class="p autofirst">Ainsi chantait Laurent le Magnifique. Manuel et ses contemporains savent et disent à leur manière que « de demain rien n’est certain ». Mais ce qu’ils sentent menacé, ce n’est point la jeunesse et l’amour, je ne sais quel printemps platonicien, c’est la vie savoureuse et forte qui figure à leurs yeux le train normal de l’homme. Leur œuvre illustre la vision de l’Ecclésiaste, ce grand maître du vrai réalisme : « Jette ton pain sur la face des eaux, car avec le temps tu le retrouveras : donnes-en une part à sept, et même à huit, car tu ne sais pas quel malheur peut arriver sur la terre. » Le secret de la vie généreuse est la conscience de sa brève vanité.</p>
                       <p class="p">Dix-huit siècles de chrétienté ont prêché sur le thème du <i class="i">memento mori</i>, mais nous préférons aujourd’hui l’éloge de la 
@@ -2196,7 +2254,7 @@
                       <p class="p">Enfin, un Suisse primitif, <i class="i">Hans Erni</i>, Lucernois de vieille souche mais homme de gauche : plus près de Tell que les conservateurs qui s’en réclament et qui gouvernent ce canton depuis le Moyen Âge. Le type même de l’<i class="i">homo alpinus</i> : des cheveux bouclés de pâtre grec, un front de taurillon d’Uri, le teint brun. Virtuosité du trait qui me rappelle Urs Graf, prédominance du graphisme baroque sur la couleur, rapidité de l’exécution : fresques, affiches, illustrations, et toujours des taureaux, comme à Lascaux : ce plus vieux symbole de l’Europe.</p>
                     </section>
                     <section id="body-5-7" class="div level2">
-                      <h2 class="head">La sculpture : Alberto Giacometti<a class="bookmark" href="5#body-5-7"> §</a></h2>
+                      <h2 class="head">La sculpture : Alberto Giacometti</h2>
                       <p class="p autofirst">Les Grisons ont eu trois bons peintres : <i class="i">Segantini</i>, berger dans sa jeunesse et paysagiste de l’Engadine, <i class="i">Giovanni Giacometti</i>, et son cousin <i class="i">Augusto</i>, dont les vitraux se voient partout dans les églises du pays.</p>
                       <p class="p"><i class="it i" lang="it">Alberto Giacometti</i> est le fils de Giovanni. Il est né dans la haute maison de sa famille, au milieu d’un très vieux village préromain du Val Bregaglia, traversé par la route qui monte du lac de Côme vers Maloja et Sils-Maria. (Tout près de là, Soglio, dont j’ai parlé.)</p>
                       <p class="p">L’an dernier, nous remontions d’Italie vers l’Engadine, et nous arrêtant à Stampa (altitude 1026 m) pour admirer une façade ornée de <i class="i">sgraffiti</i> baroques, nous lûmes sur une maison voisine : « Ici est né Augusto Giacometti. » Un petit enfant, attaché à une longue corde, comme une chèvre, jouait dans un pré. « Où est ta mère ? » Il court à une fenêtre, appelle, une tête paraît et nous répond : « Pour Alberto, c’est la maison au-dessus de la poste ! »</p>
@@ -2212,7 +2270,7 @@
                       <p class="p">Quant à <i class="i">Jean Tinguely</i>, Fribourgeois élevé à Bâle, chacun sait qu’il compose de grandes machines qui ne produisent rien ou qui se détruisent elles-mêmes. L’humour noir de cette entreprise — qu’il conduit d’ailleurs en souriant — ne peut être apprécié à sa juste valeur que dans la patrie de l’horlogerie et de l’utilité patiente. Il y eut, au <span class="num">xviii<sup class="sup">e</sup></span> siècle, les fameux automates de Jaquet-Droz, qu’on voit au musée de Neuchâtel. De ces charmantes poupées qui ressemblent aux marionnettes de Salzbourg jouant Mozart, personne ne demande « ce qu’elles veulent dire » : elles ne calligraphient ou ne pianotent sur l’épinette que des fadaises, toujours les mêmes à chaque visite guidée. Les enfants des écoles n’aiment pas ces bons élèves. Ils seraient sans doute fascinés par les « destructions » de Tinguely. Mais l’énorme machine broyeuse de néant qu’il a montée pour l’Exposition nationale de 1964 donne au contraire l’idée de la stabilité dans une agitation répétitive, éperdument coordonnée. Métamécanique amusante, qui me rappelle Jules Verne autant que Marcel Duchamp.</p>
                     </section>
                     <section id="body-5-8" class="div level2">
-                      <h2 class="head">L’architecture : des grands Baroques à Le Corbusier<a class="bookmark" href="5#body-5-8"> §</a></h2>
+                      <h2 class="head">L’architecture : des grands Baroques à Le Corbusier</h2>
                       <p class="p autofirst">J’ai mentionné les Tessinois des <span class="num">xvi<sup class="sup">e</sup></span> et <span class="num">xvii<sup class="sup">e</sup></span> siècles : les frères Giovanni et Domenico <i class="i">Fontana</i>, et Carlo <i class="i">Maderno</i> leur neveu, qui terminèrent le dôme et construisirent la nef et la façade de Saint-Pierre de Rome. Un peu plus tard, leur compatriote Francesco <i class="i">Borromini</i> « baroquise » plusieurs grandes églises de Rome, dont Saint-Jean-de-Latran. Rien de suisse dans cette œuvre immense, me dira-t-on : le Tessin n’était à l’époque qu’un bailliage des trois Waldstätten. Oui, mais rien de plus suisse que de bâtir ailleurs, si l’on voit grand.</p>
                       <p class="p">Il y eut ensuite l’école du Vorarlberg, illustrée par le frère lai <i class="i">Caspar Moosbrugger</i> qui rebâtit dès 1703 l’ensemble majestueux 
 <a class="pb" href="#pb217" id="pb217">[p. 217]</a>
@@ -2229,7 +2287,7 @@
                       <p class="p">J’ajoute que toute la Suisse est en train de se couvrir de grands ensembles aux blocs rectangulaires luisants de verre et de métal, d’usines blanches aux creux des collines, et d’églises où le « mystère » gothico-romantique fait place à des abstractions symboliques en pleine lumière.</p>
                     </section>
                     <section id="body-5-9" class="div level2">
-                      <h2 class="head">La musique : Arthur Honegger<a class="bookmark" href="5#body-5-9"> §</a></h2>
+                      <h2 class="head">La musique : Arthur Honegger</h2>
                       <p class="p autofirst">Des séquences et des tropes de <i class="i">Notker le Bègue</i> et des autres moines de Saint-Gall au <span class="num">ix<sup class="sup">e</sup></span> siècle, jusqu’aux oratorios d’<i class="i">Arthur Honegger</i>, je ne trouve pas de vrais créateurs suisses dans le domaine musical. Cette lacune de plus d’un millénaire est presque sans exemple dans l’Europe du centre, délimitée par les écoles italiennes et flamandes, françaises et austro-allemandes, qui ont fait presque toute la grande musique du <span class="num">xii<sup class="sup">e</sup></span> au <span class="num">xix<sup class="sup">e</sup></span> siècle. L’espace aujourd’hui nommé Suisse n’a donné quelque chose qui compte qu’au début et à la fin de l’ère tonale.</p>
                       <p class="p">Mais si la Suisse n’a pas créé de musique durant ces siècles, la musique a créé la Suisse du sentiment, peut-être autant que l’ont fait l’amour de la nature et l’esprit militaire.</p>
                       <p class="p">Toute la Suisse chante, depuis toujours. Jodels des Alpes, ces « acrobaties vocales », a-t-on dit. Chœurs villageois, moqués avec tendresse par le savoureux chansonnier vaudois Gilles. Chansons du service étranger, gracieuses et nostalgiques. Hymnes à la nature adoptés comme chants patriotiques. Et dans toutes les églises protestantes, psaumes de Goudimel ou de Bourgeois, cantiques dont les mélodies apportées du Pays de Galles par le Réveil de 1830 nous reviennent aujourd’hui d’Amérique sous forme de <i class="i">negro spirituals</i>. Mais les très rares compositeurs qu’on peut nommer, de la Réforme à nos jours, n’ont guère qu’un intérêt archéologique ou patriotique. Faut-il 
@@ -2247,7 +2305,7 @@
                       <p class="p">Après lui, il y a <i class="i">Frank Martin</i>, qui atteint la grandeur par la densité (« Le Vin herbé »), <i class="i">Rolf Liebermann</i> et <i class="i">Heinrich Sutermeister</i>, fêtés par toute l’Allemagne pour leurs opéras, <i class="i">Wladimir Vogel</i>, qui expérimente avec passion, et toute une jeune génération sérieusement adonnée aux techniques atonales.</p>
                     </section>
                     <section id="body-5-10" class="div level2">
-                      <h2 class="head">Le théâtre : du Festspiel à Friedrich Dürrenmatt<a class="bookmark" href="5#body-5-10"> §</a></h2>
+                      <h2 class="head">Le théâtre : du Festspiel à Friedrich Dürrenmatt</h2>
                       <p class="p autofirst">Né du peuple et non de la cour, et pour l’espace civique de la place, non pour des scènes à rideau, le théâtre a été longtemps en Suisse une liturgie, au sens propre du mot : action du peuple, cérémonie publique. D’où le <i class="i">Festspiel</i>. Ce genre né en Suisse alémanique au <span class="num">xvi<sup class="sup">e</sup></span> siècle, avec des Jeux de Tell ou de Nicolas de Flue, culmine dans la Fête des Vignerons, célébrée à Vevey depuis 1706. Ce spectacle en plein air est un prolongement agricole et vinicole des cortèges baroques, et des floralies romaines. Des chœurs immenses et costumés acclament Bacchus, Cérès et Palès sur des mélodies sans surprises, colorées par l’accent vaudois. C’est un peu absurde et grandiose. Le scénario s’est fixé au cours des âges, mais chaque auteur y ajoute ses variations, un orage, un solo de chevrier, un groupe de Suisses, et les 25 000 spectateurs en sortent à coup sûr bouleversés. On verra dans une dizaine d’années — car la Fête n’a lieu qu’à de longs intervalles — si cette forme d’art populaire est épuisée, comme je le crains. Car la musique qui s’écrit aujourd’hui exclut et s’interdit par sa nature toute communion populaire. Il y avait dans le <i class="i">Festspiel</i> une possibilité unique d’art total et communautaire : les génies y ont manqué — musique, poème, décors et mise en scène — ou peut-être n’a-t-on pas voulu qu’ils s’en mêlent.</p>
                       <p class="p">
 <a class="pb" href="#pb223" id="pb223">[p. 223]</a>
@@ -2258,7 +2316,7 @@
  Kierkegaard : toutes les grandes œuvres européennes d’aujourd’hui relèvent peu ou prou de ces influences-là. Max Frisch est au contraire un scientifique, nullement théologien, architecte de métier et psychologue amer à la manière viennoise ou berlinoise. Beaucoup moins « suisse » que Dürrenmatt, plus sophistiqué, non moins prompt à dénoncer l’hypocrisie sociale de son peuple : voir <i class="i">Andorra</i> et <i class="i">Je ne suis pas Stiller</i>, pièce et roman d’une grande force critique, et non pas dissolvants mais astringents de l’âme.</p>
                     </section>
                     <section id="body-5-11" class="div level2">
-                      <h2 class="head">Littérature en général : de l’helvétisme à Ramuz<a class="bookmark" href="5#body-5-11"> §</a></h2>
+                      <h2 class="head">Littérature en général : de l’helvétisme à Ramuz</h2>
                       <blockquote class="epigraph">
                         <p class="p autofirst">L’homo alpinus se distingue dans les manuels de la préhistoire : se distinguera-t-il jamais en littérature ou en art ?</p>
                         <div class="bibl">
@@ -2356,7 +2414,7 @@
                     </section>
                     <section id="body-5-12" class="div level2">
                       <a class="pb" href="#pb233" id="pb233">[p. 233]</a>
-                      <h2 class="head">La poésie : trois évadés célèbres<a class="bookmark" href="5#body-5-12"> §</a></h2>
+                      <h2 class="head">La poésie : trois évadés célèbres</h2>
                       <p class="p autofirst">Un grand poète, un seul en six cents ans, voilà pour l’<i class="i">homo alpinus</i>.</p>
                       <p class="p">Je crois bien qu’<i class="i">Othon de Grandson</i>, chevalier, troubadour tardif, tué en combat singulier en 1397, est le seul poète romand dont la réputation ait passé nos limites avant le <span class="num">xx<sup class="sup">e</sup></span> siècle : Chaucer l’a traduit en anglais.</p>
                       <p class="p">La Suisse alémanique fait mieux : elle donne à l’Europe préromantique « Les Alpes » d’<i class="i">Albert de Haller</i> et les « Idylles » de <i class="i">Salomon Gessner</i>, puis à l’Allemagne post-romantique les poésies de <i class="i">C. F. Meyer</i> et de <i class="i">Gottfried Keller</i>, qui ne valent pas les œuvres en prose de ces deux romanciers. Mais ce n’est qu’à la fin du <span class="num">xix<sup class="sup">e</sup></span> siècle qu’elle voit paraître dans son sein un créateur de haut rang.</p>
@@ -2380,7 +2438,7 @@
                     </section>
                     <section id="body-5-13" class="div level2">
                       <a class="pb" href="#pb237" id="pb237">[p. 237]</a>
-                      <h2 class="head">La philosophie et la métaphysique<a class="bookmark" href="5#body-5-13"> §</a></h2>
+                      <h2 class="head">La philosophie et la métaphysique</h2>
                       <p class="p autofirst">De même qu’on ne trouve pas une seule femme parmi les grands compositeurs, on ne trouve pas un seul Suisse parmi les philosophes auteurs de grands systèmes et têtes métaphysiques. Personne n’a jamais expliqué le premier de ces deux faits incontestables. Quant au second… Je sens seulement qu’il y a dans l’atmosphère suisse quelque chose qui interdit l’activité gratuite — et la dépense qui la rendrait possible.</p>
                       <p class="p">Le philosophe en Suisse se trouve plus engagé qu’ailleurs dans une communauté proche et concrète : il lui doit d’être intelligible (d’autant plus qu’il est professeur) et responsable des conclusions morales que l’on pourrait tirer de son système. Il ne fera donc pas de système, ou seulement un système de la conciliation, s’il veut rester pur philosophe. Mais plus généralement il traduira ses intuitions métaphysiques dans le langage de son milieu, la théologie de son Église ; et s’il ne peut plus adhérer au dogme, il ira chercher les raisons et justifications de sa résistance dans une psychologie nouvelle (incluant le fait religieux) ou dans l’étude des structures de l’esprit.</p>
                       <p class="p">Le Vaudois Vinet illustre la première de ces écoles, le Genevois Flournoy la seconde.</p>
@@ -2390,7 +2448,7 @@
                       <p class="p">Quant à <i class="i">Théodore Flournoy</i>, auteur de la célèbre étude d’un médium intitulée « Des Indes à la planète Mars » (1900), il ne fut pas seulement un précurseur de Freud dans l’exploration du rêve considéré comme clef du subconscient, mais un profond psychologue de la religion dans « Métaphysique et Psychologie » (au titre caractéristique) et le fondateur de la première chaire et du premier laboratoire de psychophysiologie, à Genève.</p>
                     </section>
                     <section id="body-5-14" class="div level2">
-                      <h2 class="head">La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung<a class="bookmark" href="5#body-5-14"> §</a></h2>
+                      <h2 class="head">La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung</h2>
                       <p class="p autofirst">Point de spéculation sur l’Être en soi, mais seulement sur les relations entre Dieu et l’individu, entre l’individu et la communauté, entre les hommes, entre les peuples et nations, entre des entités moralement définies. Le salut de l’homme ou sa santé, plutôt que sa définition, préoccupent les meilleurs esprits suisses.</p>
                       <p class="p">Il est possible que le plus grand théologien et le plus grand psychologue de ce siècle, jusqu’ici, soient deux Suisses : Karl Barth et C. G. Jung. En eux la Suisse excelle et se dépasse, mais dans le seul sens qu’elle ait jamais voulu se permettre : celui de la cure d’âme et d’esprit, et non de la spéculation abstraite.</p>
                       <p class="p">
@@ -2407,7 +2465,7 @@
                       <p class="p">Le dialogue entre ces deux hommes n’était même pas concevable, et de fait il n’a pas eu lieu. Leurs disciples (pasteurs et théologiens d’un côté, médecins psychiatres et philosophes des religions de l’autre) coexistent sans se rencontrer, et aucune tentative d’intégration ou de synthèse même très partielle n’a été entreprise jusqu’ici, que je sache. (Un jour, peut-être, j’essaierai de <i class="i">me</i> rendre compte de ce que je dois à l’un autant qu’à l’autre de ces maîtres incompatibles.)</p>
                     </section>
                     <section id="body-5-15" class="div level2">
-                      <h2 class="head">« Helvetia mediatrix » : de Bodmer aux Burckhardt<a class="bookmark" href="5#body-5-15"> §</a></h2>
+                      <h2 class="head">« Helvetia mediatrix » : de Bodmer aux Burckhardt</h2>
                       <p class="p autofirst">Jeter des ponts est une activité à laquelle leur pluralisme culturel et religieux destine peut-être et en tout cas incite les Suisses. S’il est vrai que la première confédération des Waldstätten est née du Gothard, ce col n’est devenu viable et carrossable qu’au moment où le pont du Diable a permis de franchir les gorges de la Reuss, et de relier le Midi au Nord du Saint-Empire. D’Italie sont montées les idées puis les arts, tandis que de la Germanie et des Ligues suisses des armées 
 <a class="pb" href="#pb242" id="pb242">[p. 242]</a>
  descendaient vers les plaines lombardes. Ce double mouvement culturel et militaire se ralentit dès le milieu du <span class="num">xvi<sup class="sup">e</sup></span> siècle, avec la fin des guerres d’Italie, et bientôt s’exténue. Mais au <span class="num">xviii<sup class="sup">e</sup></span> siècle, c’est l’école suisse de Bodmer qui révèle aux élites allemandes Dante et la latinité. Et au <span class="num">xix<sup class="sup">e</sup></span> siècle, c’est à partir de Bâle, de Zurich et de Genève que l’Europe moderne va découvrir toute la <i class="i">virtù</i> de la Renaissance italienne, grâce aux grands livres de <i class="i">Jacob Burckhardt</i>, de <i class="i">H. Wölfflin</i> et au « Quattrocento » de <i class="i">Philippe Monnier</i>.</p>
@@ -2424,7 +2482,7 @@
                       <p class="p">(Mais j’allais oublier de dire que « CJB » est aussi un conteur fascinant, un humoriste redoutable, et un grand chasseur de chamois.)</p>
                     </section>
                     <section id="body-5-16" class="div level2">
-                      <h2 class="head">Les sciences humaines : Ferdinand de Saussure<a class="bookmark" href="5#body-5-16"> §</a></h2>
+                      <h2 class="head">Les sciences humaines : Ferdinand de Saussure</h2>
                       <p class="p autofirst">Comparer, opposer et rapprocher ; distinguer tout d’abord pour mieux relier ensuite ; rechercher les structures qui expliquent et légitiment les diversités de l’Europe, mais aussi le principe général qui permette de les appréhender dans l’unité : c’est un <i class="i">habitus</i> de l’esprit que favorise au plus haut point tout régime pluraliste concentré et strictement fédéraliste. Ajoutons à cela quelques données constantes de la Suisse : la pauvreté du sol contraignant à l’ingéniosité fabricatrice, le moralisme, le civisme et le piétisme protestants inclinant les esprits les plus naturellement spéculatifs à se rabattre sur le vérifiable, le communicable et l’utile. Une curiosité non bridée par la vanité nationale pour ce qui se fait ailleurs, dans le monde entier. Et nous aurons, me semble-t-il, un complexe de dispositions aussi favorables aux sciences qu’il l’est peu à la poésie pure ou à la pure métaphysique.</p>
                       <p class="p">C’est dans les sciences humaines, bien entendu, qu’il sera le plus facile de vérifier cette hypothèse descriptive.</p>
                       <p class="p">En 1880, un jeune étudiant genevois se présente à un professeur de Leipzig. Il est candidat au doctorat. « Votre nom, monsieur ? — Saussure. — Êtes-vous parent du célèbre auteur du <i class="i">Mémoire sur les voyelles</i> ? — C’est moi », dit l’étudiant modeste (« beau comme un dieu », ajoutera le professeur dans son récit de 
@@ -2444,7 +2502,7 @@
                       </blockquote>
                     </section>
                     <section id="body-5-17" class="div level2">
-                      <h2 class="head">Les sciences physiques : de Paracelse à l’indice Nobel<a class="bookmark" href="5#body-5-17"> §</a></h2>
+                      <h2 class="head">Les sciences physiques : de Paracelse à l’indice Nobel</h2>
                       <p class="p autofirst">J’ai marqué, à diverses reprises, la constance de certaines préoccupations éthiques chez ceux qui ont illustré les lettres et les sciences en Suisse : éduquer ou guérir, réformer, relier, être utile au plus haut sens du terme, connaître l’homme pour le rendre plus libre et par là même plus apte à tenir son rôle dans la vie de sa communauté : « Je veux l’homme maître de 
 <a class="pb" href="#pb247" id="pb247">[p. 247]</a>
  lui-même afin qu’il soit mieux le serviteur de tous », écrivait Alexandre Vinet, et il est significatif que cette parole soit si souvent citée dans ce pays.</p>
@@ -2503,7 +2561,7 @@
                       <p class="p">Mais cette situation privilégiée pourra-t-elle se maintenir longtemps ? L’inclusion des dernières années dans les calculs cités se traduirait déjà par un net fléchissement de l’index suisse et par une remontée de l’index anglais et de l’américain. Pendant la première moitié du siècle, la Suisse bénéficiait encore des traditions plusieurs fois séculaires que j’ai tenté de caractériser. Toute la question est de savoir si elle saura les renouveler ou en trouver l’équivalent futur, face à des exigences quantitatives tellement accrues que la nature même du problème en est changée.</p>
                     </section>
                     <section id="body-5-18" class="div level2">
-                      <h2 class="head">Les universités<a class="bookmark" href="5#body-5-18"> §</a></h2>
+                      <h2 class="head">Les universités</h2>
                       <p class="p autofirst">Une partie décisive de l’avenir du pays dépend de ses universités, puisque les atouts de la Suisse sont presque exclusivement qualitatifs. Les Suisses peuvent se vanter de posséder une 
 <a class="pb" href="#pb250" id="pb250">[p. 250]</a>
  dizaine d’établissements d’enseignement supérieur<a class="noteref" href="5#note115" id="note115_"><sup>115</sup></a>, ce qui les met encore une fois au premier rang pour l’index universitaire. C’est vrai, mais il ne faut pas oublier que c’était encore plus vrai il y a cent ans, et que ce l’est chaque jour un peu moins, car depuis 1848 la population a plus que doublé ; elle aura quadruplé dans quarante ans, cependant que les élites sociales, qui avaient fourni pendant des siècles presque tous les savants de nos cantons, se voient déjà réduites à peu de chose, en nombre relatif et vertus créatrices. Toute la question est donc d’assurer dès maintenant une relève des élites anciennes sur une base populaire fortement élargie, et cela au rythme sans cesse accéléré qu’exigent l’accroissement démographique, et celui, beaucoup plus vertigineux, du nombre des connaissances qu’il s’agit d’acquérir dans les diverses branches des sciences.</p>
@@ -2528,7 +2586,7 @@
                     </section>
                     <section id="body-5-19" class="div level2">
                       <a class="pb" href="#pb254" id="pb254">[p. 254]</a>
-                      <h2 class="head">« Tout Suisse est pédagogue »<a class="bookmark" href="5#body-5-19"> §</a></h2>
+                      <h2 class="head">« Tout Suisse est pédagogue »</h2>
                       <p class="p autofirst">Le souci éducatif est diffus dans toute l’atmosphère suisse, famille, sociétés, syndicats, armée, écoles. « Tout Suisse est pédagogue », répètent les auteurs suisses. Et cela s’explique aisément, sinon par une cause unique.</p>
                       <p class="p">Dans un petit pays composé de vingt-cinq patries minuscules, la tolérance est une nécessité vitale. Mais s’il n’est pas question d’éliminer le voisin qui diffère par la langue ou la foi, on se rattrape sur le frère et l’ami. Faute de pouvoir se livrer comme leurs ancêtres à une lutte ouverte de principes et de convictions, les Suisses se bornent à un échange insistant de bons conseils, d’avis moraux, de recettes d’hygiène et d’admonestations religieuses. Le civisme helvétique de nos jours repose essentiellement sur cette propension à l’éducation mutuelle, qui semble assez typique des pays dominés par l’influence protestante. Aux petites dimensions des communautés, il convient d’ajouter un second facteur de didactisme : le goût de la technique, l’orgueil du savoir-faire. On a vu que les données naturelles du pays exigeaient de ses habitants une ingéniosité peu commune dans la mise en œuvre la plus efficace de ce qu’ils arrivent à se procurer. Or le tour de main, le métier, est une affaire de tradition, de transmission de père en fils, de maître d’atelier en apprenti : il est fait de mille conseils et d’exemples pratiques.</p>
                       <p class="p">Ces dispositions psychologiques, innées ou acquises, ont produit deux attitudes humaines assez différentes dans le domaine de l’éducation et de la pédagogie.</p>
@@ -2551,7 +2609,7 @@
                       <p class="p">Ce n’est donc pas à un défaut de démocratisation de l’école primaire qu’il s’agirait de remédier, mais au contraire à un esprit d’égalitarisme <i class="i">intellectuel</i>, à la stérilisation jalouse des meilleurs, de ceux qui se « distinguent », et dont le maître entend rabattre le caquet. La phrase typique de l’agent suisse à l’automobiliste en faute : « Vous pouvez pas faire comme tout le monde ? » où s’exprime une hargneuse réprobation morale, traduit une mentalité très générale dans nos écoles primaires. Un milliard par an aux universités ne suffira pas, je le crains, à réparer les ravages intimes causés par cette morale déprimante.</p>
                     </section>
                     <section id="body-5-20" class="div level2">
-                      <h2 class="head">La vie religieuse : catholiques et protestants côte à côte<a class="bookmark" href="5#body-5-20"> §</a></h2>
+                      <h2 class="head">La vie religieuse : catholiques et protestants côte à côte</h2>
                       <p class="p autofirst">Sur les origines du christianisme en Suisse, l’historien ne dispose que de récits légendaires. Il semble que dès le <span class="num">iii<sup class="sup">e</sup></span> siècle, la nouvelle doctrine s’introduisit dans la partie occidentale du pays, apportée par des artisans et des légionnaires venus de la vallée inférieure du Rhône. Au <span class="num">iv<sup class="sup">e</sup></span> siècle, une communauté chrétienne est établie à Genève, Bâle est déjà le siège d’un évêché, de même que Martigny en Valais. Au <span class="num">v<sup class="sup">e</sup></span> siècle, ces territoires romanisés sont envahis par les Burgondes, Germains professant l’arianisme et qui ne se mêleront avec la population celte et les colons romains que lorsqu’ils auront adopté la religion catholique, au <span class="num">vi<sup class="sup">e</sup></span> siècle.</p>
                       <p class="p">Cependant, le paganisme fait un retour en force avec la poussée des Alamans, venus du nord-est et qui ne tardent pas à coloniser toute l’actuelle Suisse alémanique. Nombre de traits 
 <a class="pb" href="#pb259" id="pb259">[p. 259]</a>
@@ -2598,7 +2656,7 @@
                       <p class="p">Mais, Dieu merci, la religion des Suisses ne saurait être mesurée à ces manifestations extérieures. Plus morale que rituelle, et plus théologique que mystique, c’est dans une œuvre comme la Croix-Rouge ou dans le rayonnement de la pensée d’un Karl Barth qu’elle témoigne de sa véritable nature ; ou encore, d’une manière plus diffuse et collective, par un certain sens de la solidarité humaine, par l’équilibre des institutions qui en résultent, mais aussi et peut-être surtout par une sourde insatisfaction de soi-même et de la « paix helvétique », qui trahit la présence, ici ou là, d’une recherche spirituelle, c’est-à-dire d’une vie de l’esprit, par quoi seule la Cité vaudra de subsister, en fin de compte.</p>
                     </section>
                     <section id="body-5-21" class="div level2">
-                      <h2 class="head">Le malaise suisse<a class="bookmark" href="5#body-5-21"> §</a></h2>
+                      <h2 class="head">Le malaise suisse</h2>
                       <p class="p autofirst">Au premier rang des peuples qui se disent heureux, selon les sondages d’opinion, les Suisses n’en sont pas moins inquiets. Réfléchissant aux motifs spécifiques de ce comportement paradoxal (mais qui est en somme celui des riches et de l’Occident en général), il m’a semblé que l’inquiétude suisse s’expliquait par trois groupes de raisons, fort inégalement légitimes.</p>
                       <p class="p">
 <a class="pb" href="#pb268" id="pb268">[p. 268]</a>
@@ -2972,67 +3030,67 @@
                       <a href="#">III. La morale quotidienne et le climat de culture ou comment on vit dans une fédération</a>
                       <ul>
                         <li class="collateral">
-                          <a href="5#body-5-1">Petits trajets portés sur les axes du monde</a>
+                          <a href="5#body-5-1">III.1. Petits trajets portés sur les axes du monde</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-2">Portrait du Suisse moyen</a>
+                          <a href="5#body-5-2">III.2. Portrait du Suisse moyen</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-3">Condition du « grand homme » en Suisse</a>
+                          <a href="5#body-5-3">III.3. Condition du « grand homme » en Suisse</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-4">De la culture dans une fédération, ou la pluralité des allégeances</a>
+                          <a href="5#body-5-4">III.4. De la culture dans une fédération, ou la pluralité des allégeances</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-5">D’un pays où le centre est partout</a>
+                          <a href="5#body-5-5">III.5. D’un pays où le centre est partout</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-6">La peinture : de Nicolas Manuel à Paul Klee</a>
+                          <a href="5#body-5-6">III.6. La peinture : de Nicolas Manuel à Paul Klee</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-7">La sculpture : Alberto Giacometti</a>
+                          <a href="5#body-5-7">III.7. La sculpture : Alberto Giacometti</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-8">L’architecture : des grands Baroques à Le Corbusier</a>
+                          <a href="5#body-5-8">III.8. L’architecture : des grands Baroques à Le Corbusier</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-9">La musique : Arthur Honegger</a>
+                          <a href="5#body-5-9">III.9. La musique : Arthur Honegger</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-10">Le théâtre : du Festspiel à Friedrich Dürrenmatt</a>
+                          <a href="5#body-5-10">III.10. Le théâtre : du Festspiel à Friedrich Dürrenmatt</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-11">Littérature en général : de l’helvétisme à Ramuz</a>
+                          <a href="5#body-5-11">III.11. Littérature en général : de l’helvétisme à Ramuz</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-12">La poésie : trois évadés célèbres</a>
+                          <a href="5#body-5-12">III.12. La poésie : trois évadés célèbres</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-13">La philosophie et la métaphysique</a>
+                          <a href="5#body-5-13">III.13. La philosophie et la métaphysique</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-14">La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung</a>
+                          <a href="5#body-5-14">III.14. La théologie et la psychologie : deux grands maîtres incompatibles, Karl Barth et Carl Gustav Jung</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-15">« Helvetia mediatrix » : de Bodmer aux Burckhardt</a>
+                          <a href="5#body-5-15">III.15. « Helvetia mediatrix » : de Bodmer aux Burckhardt</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-16">Les sciences humaines : Ferdinand de Saussure</a>
+                          <a href="5#body-5-16">III.16. Les sciences humaines : Ferdinand de Saussure</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-17">Les sciences physiques : de Paracelse à l’indice Nobel</a>
+                          <a href="5#body-5-17">III.17. Les sciences physiques : de Paracelse à l’indice Nobel</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-18">Les universités</a>
+                          <a href="5#body-5-18">III.18. Les universités</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-19">« Tout Suisse est pédagogue »</a>
+                          <a href="5#body-5-19">III.19. « Tout Suisse est pédagogue »</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-20">La vie religieuse : catholiques et protestants côte à côte</a>
+                          <a href="5#body-5-20">III.20. La vie religieuse : catholiques et protestants côte à côte</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-21">Le malaise suisse</a>
+                          <a href="5#body-5-21">III.21. Le malaise suisse</a>
                         </li>
                       </ul>
                     </li>
@@ -3087,6 +3145,19 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>IV.1. La Suisse, dépositaire d’une formule politique – IV.2. L’Europe, demain – IV.3. Les Suisses devant le projet d’union de l’Europe – IV.4. Motifs de la réserve suisse – IV.5. Autofreinage du fédéralisme – IV.6. Éléments de prospective fédéraliste – IV.7. Trois utopies : pays pilote, parc national ou district fédéral européen ?</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-6-1	IV.1. La Suisse, dépositaire d’une formule politique (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-2	IV.2. L’Europe, demain (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-3	IV.3. Les Suisses devant le projet d’union de l’Europe (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-4	IV.4. Motifs de la réserve suisse (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-5	IV.5. Autofreinage du fédéralisme (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-6	IV.6. Éléments de prospective fédéraliste (1965, La Suisse ou l’histoire d’un peuple heureux)
+body-6-7	IV.7. Trois utopies : pays pilote, parc national ou district fédéral européen ? (1965, La Suisse ou l’histoire d’un peuple heureux)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -3097,14 +3168,14 @@
                   <article role="article">
                     <a class="pb" href="#pb275" id="pb275">[p. 275]</a>
                     <h1 class="head kicker chapter">Quatrième partie</h1>
-                    <h1 class="head chapter">La Suisse, dans l’avenir européen<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">La Suisse, dans l’avenir européen</h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb277" id="pb277">[p. 277]</a>
  Le régime que l’on vient de décrire est, dans l’Histoire, l’un des derniers venus. Si l’on représente par une journée la période des civilisations un peu connues et qui va des peintures de Lascaux, pièges magiques, jusqu’aux pièges cosmiques de nos laboratoires, le fédéralisme n’apparaît qu’au cours des cinq dernières minutes.</p>
                     <p class="p">Quelques instants d’histoire locale, dans le temps ; et dans l’espace, quelques arpents de relief rude situés vers le milieu de cette péninsule européenne de l’Asie qui occupe à peine 4 % des terres du globe : c’est à quoi j’ai borné mon attention. Les avions de demain survoleront la Suisse en si peu de temps que la plupart des voyageurs ne s’en apercevront même pas. Cet objet de mon étude, ce petit corps politique, n’est-il pas destiné à tomber rapidement en désuétude, dans un monde en pleine mutation démographique, technologique et culturelle ? C’est ce que nous porterait à croire une forme de pensée certes courante encore, mais qui est elle-même anachronique : celle du propriétaire terrien, gérant d’un État national. Or, nous avons vu que la Suisse n’est pas d’abord un territoire mais une fonction. Son importance n’est pas celle d’un domaine, mais d’une structure de relations. Elle ne se mesure pas en kilomètres carrés, en tonnes de blé ou de minerai, en divisions mobilisables : elle dépend de l’efficacité et de la fécondité d’une formule d’organisation, d’une méthode d’articulation des groupes humains de toute nature et de leurs activités différenciées.</p>
                     <section id="body-6-1" class="div level2">
                       <a class="pb" href="#pb278" id="pb278">[p. 278]</a>
-                      <h2 class="head">La Suisse, dépositaire d’une formule politique<a class="bookmark" href="6#body-6-1"> §</a></h2>
+                      <h2 class="head">La Suisse, dépositaire d’une formule politique</h2>
                       <p class="p autofirst">La question de l’avenir de la Suisse se ramène donc à la question de l’avenir du fédéralisme.</p>
                       <p class="p">Cette formule, lentement élaborée par les hommes qui ont fait ce pays, sera-t-elle applicable dans le monde de demain, et d’abord dans l’Europe unie ?</p>
                       <p class="p">Tel est le point de perspective de tout mon livre.</p>
@@ -3115,7 +3186,7 @@
                     </section>
                     <section id="body-6-2" class="div level2">
                       <a class="pb" href="#pb279" id="pb279">[p. 279]</a>
-                      <h2 class="head">L’Europe, demain<a class="bookmark" href="6#body-6-2"> §</a></h2>
+                      <h2 class="head">L’Europe, demain</h2>
                       <p class="p autofirst">Prenons les grandes dimensions de notre planète en mutation. C’est l’Europe qui a tout déclenché, et son rôle reste décisif. C’est elle qui a créé la notion de genre humain — ignorée ou niée en Orient — par les stoïciens et les Pères de l’Église ; et la notion de droit des gens par Vitoria, Suarez, Grotius, Vattel et Kant. Et c’est elle qui a fourni les instruments techniques de communication entre les peuples. Parler de monde uni, d’humanité, que ce soit pour ou contre l’Occident d’ailleurs, c’est parler un langage européen. Or l’Europe doit s’unir pour durer, j’entends pour continuer à exercer demain sa vocation mondialisante : pas une seule de ses petites nations n’y peut suffire, et les plus grandes — en termes de naguère — sont petites au regard des empires neufs.</p>
                       <p class="p">Toute la question se ramène alors à savoir quelles formes d’union les Européens vont choisir. Trois formules leur sont proposées, et sont en principe concevables.</p>
                       <p class="p">a) <i class="i">L’Europe des États</i> (faussement dite des patries, expression d’ailleurs corrigée par de Gaulle lui-même) consisterait en un système de pactes politiques et militaires, et de traités économiques entre pays prétendus souverains. C’est la formule d’une Sainte-Alliance des monarques, transposée au niveau d’États laïcs et en majorité républicains. C’est dérisoire face aux empires, c’est en retard sur les réalités (car les Six sont déjà bien au-delà), et c’est évidemment inadéquat aux exigences reconnues de ce siècle. Ultime tentative pour prolonger le statut des nations dites « souveraines », mais qui ne le sont plus qu’au niveau des discours, cette Europe minima ne saurait être qu’une forme de transition tactique vers une union plus sérieuse et concrète. On en passera par là, probablement, mais pourquoi s’y arrêter ? Car l’Histoire n’en fera rien. L’Europe a sécrété le nationalisme qui infecte aujourd’hui la terre entière. On attend qu’elle 
@@ -3137,7 +3208,7 @@
                       <p class="p">Mais une Europe fédérale, seule possible pour nous comme pour l’Europe — qui la propose ?</p>
                     </section>
                     <section id="body-6-3" class="div level2">
-                      <h2 class="head">Les Suisses devant le projet d’union de l’Europe<a class="bookmark" href="6#body-6-3"> §</a></h2>
+                      <h2 class="head">Les Suisses devant le projet d’union de l’Europe</h2>
                       <p class="p autofirst">La Suisse est née de l’Europe et en détient le secret. Formée du <span class="num">xiv<sup class="sup">e</sup></span> au <span class="num">xvi<sup class="sup">e</sup></span> siècle dans le Saint-Empire et par lui, ayant reçu ses premières libertés pour assurer la grand-garde du Gothard, elle a seule conservé jusqu’à nos jours le principe de l’Empire d’Occident, l’union sans unification, qui est l’idée fédéraliste.</p>
                       <p class="p">Entre-temps les nations se constituent, se multiplient, s’absolutisent, et prouvent leur souveraineté par de glorieux massacres, qui sont le principal de l’histoire qu’elles enseignent à partir du <span class="num">xix<sup class="sup">e</sup></span> siècle. Les voix suisses qui s’élèvent au plan européen ne cessent de dénoncer ces démences collectives.</p>
                       <p class="p">C’est comme « citoyen de Genève » que Rousseau signe ses exposés critiques du projet de paix perpétuelle de l’abbé de Saint-Pierre, puis ses <i class="i">Considérations sur le Gouvernement de Pologne</i>, ouvrage moins connu mais d’un intérêt considérable pour un lecteur d’aujourd’hui. Comme dans <i class="i">Le Contrat Social</i>, il s’y fait l’avocat d’une confédération de nos pays inspirée du « corps germanique », des États généraux de Hollande, et de la 
@@ -3160,7 +3231,7 @@
                       <p class="p">Mais tout cela, c’est la Suisse idéale, réputée « microcosme de l’Europe », et ce sont quelques Suisses entreprenants qui l’ont permis. Qu’a fait, pendant ce même temps, la Suisse légale ? Et que pensaient les Suisses moyens ?</p>
                     </section>
                     <section id="body-6-4" class="div level2">
-                      <h2 class="head">Motifs de la réserve suisse<a class="bookmark" href="6#body-6-4"> §</a></h2>
+                      <h2 class="head">Motifs de la réserve suisse</h2>
                       <p class="p autofirst">Des lendemains de la seconde guerre mondiale jusqu’aux environs de 1960, il faut reconnaître que nos autorités et notre presse ont été dans l’ensemble pour le moins réservées, et que notre peuple l’est sans doute plus encore, s’agissant du projet européen. Le scepticisme dominait, et comme on tient pour réaliste, en politique, les partis pris de la majorité et ses routines, le projet d’union de l’Europe passait généralement pour chimérique. « Fumeux idéalisme ! Subversion de nos vieilles coutumes ! Temps perdu ! Ça ne se fera jamais ! » Je me souviens d’un débat devant le micro, en février 1953, au cours duquel l’un de nos plus célèbres professeurs de sciences politiques déclara au sujet du pool charbon-acier, comme on appelait à l’époque la CECA : 1° que ce pool n’était pas réalisable, et 2° qu’il serait néfaste pour la Suisse, à cause de ses incidences sur nos transports. Trois jours plus tard, le premier train de charbon 
 <a class="pb" href="#pb287" id="pb287">[p. 287]</a>
  libre de droits de douane, traversait la frontière franco-allemande. Bien d’autres faits, non moins patents, devaient réduire l’une après l’autre les objections du scepticisme invétéré (ou faut-il dire traditionnel ?) qui tendait à paralyser non seulement toute initiative de la Suisse, mais aussi l’imagination et la faculté de prévision de ceux qui faisaient notre opinion. L’union de l’Europe s’avérait bel et bien réalisable, puisqu’elle devenait réalité, mais elle nous prenait par surprise, et chaque démarche de nos gouvernants pour rejoindre l’histoire en train de se faire, semblait prématurée aux yeux de nos sages et de nos experts, quoique trop tardive aux yeux du reste de l’Europe. Notre entrée à l’OECE fut accueillie avec méfiance par la presse moyenne de la Suisse allemande : elle relevait en effet des affaires étrangères, plutôt mal vues à cause de l’adjectif. Notre demande d’association au Marché Commun prit pour certains une allure de Canossa sans agenouillement, donc sans pardon. Et notre arrivée tardive au
@@ -3193,7 +3264,7 @@
  nom d’un mythe passéiste, le seul moyen de sauver la Suisse réelle. Ou c’est courir à l’aventure certaine, au nom d’une prudence aveugle, et sous le prétexte d’une indépendance dont notre peuple n’est pas disposé plus qu’un autre à payer le prix exorbitant.</p>
                     </section>
                     <section id="body-6-5" class="div level2">
-                      <h2 class="head">Autofreinage du fédéralisme<a class="bookmark" href="6#body-6-5"> §</a></h2>
+                      <h2 class="head">Autofreinage du fédéralisme</h2>
                       <p class="p autofirst">Tels étant les termes du débat que l’idée européenne suscite en Suisse, il faut bien reconnaître que, des deux côtés, une sorte de gêne empêche d’aller en toute franchise au bout des arguments, au fond des choses. Elle s’explique peut-être en partie par nos coutumes précisément fédéralistes de tolérance calculée et d’empirisme, qui supposent qu’on ne pousse pas sa pointe à fond et qu’on ne se laisse pas entraîner par une verve logique ou polémique qui risquerait de paraître peu réaliste, voire peu suisse. Mais je sens deux autres motifs à cette espèce d’embarras. Ceux qui se réclament très haut de nos traditions savent bien que chacun sait qu’il s’agit d’intérêts et que c’est le fait de maintenir ou d’augmenter le chiffre d’affaires qui définit le sens de la vie pour nos industriels « sérieux ». Et quant aux enthousiastes de l’Europe, ils savent qu’ils n’ont aucune espèce de chances d’être écoutés s’ils proposent de renoncer à la neutralité : c’est devenu, dans la Suisse moderne, un crime de lèse-majesté. Personne n’ose donc crier trop fort, et c’est peut-être mieux ainsi. Mais notre peuple comprend mal ce qui est en jeu.</p>
                       <p class="p">Je ne suis d’accord, pour ma part, ni avec ceux qui refusent l’Europe en prétextant notre neutralité, ni avec ceux (beaucoup plus rares d’ailleurs) qui voudraient que la Suisse renonce sans conditions à toute idée de neutralité. Mon idéal très clair — mon utopie — est que la Suisse adhère un jour à une union européenne de type expressément fédéraliste, qui renoncerait à la guerre comme moyen politique. Une telle Europe reprendrait 
 <a class="pb" href="#pb294" id="pb294">[p. 294]</a>
@@ -3215,7 +3286,7 @@
                       <p class="p">La Suisse refusant de parler en faveur de sa propre formule, il reste à espérer que l’éloquence des faits prenne le relai de ce mutisme irrémédiable.</p>
                     </section>
                     <section id="body-6-6" class="div level2">
-                      <h2 class="head">Éléments de prospective fédéraliste<a class="bookmark" href="6#body-6-6"> §</a></h2>
+                      <h2 class="head">Éléments de prospective fédéraliste</h2>
                       <p class="p autofirst">La science actuelle nous révèle un univers en perpétuelle évolution vers un ordre et des formes d’organisation de plus en plus complexes. Les régimes totalitaires, tendant vers l’uniforme, sont dans cette mesure régressifs. En revanche, pour la complexité, la Suisse ne craint personne ! Voici quelques raisons qui me portent à croire à l’avenir de ses formules.</p>
                       <p class="p">1. Le monde de demain sera de plus en plus réduit quant aux distances, et tissé de réseaux de relations de plus en plus complexes et enchevêtrées. Les notions de succession logique 
 <a class="pb" href="#pb297" id="pb297">[p. 297]</a>
@@ -3254,7 +3325,7 @@
                     </section>
                     <section id="body-6-7" class="div level2">
                       <a class="pb" href="#pb301" id="pb301">[p. 301]</a>
-                      <h2 class="head">Trois utopies : pays pilote, parc national ou district fédéral européen ?<a class="bookmark" href="6#body-6-7"> §</a></h2>
+                      <h2 class="head">Trois utopies : pays pilote, parc national ou district fédéral européen ?</h2>
                       <p class="p">1. Toutes ces raisons — et quelques autres dont on ne peut pas traiter ici<a class="noteref" href="6#note143" id="note143_"><sup>143</sup></a> — font objectivement de la Suisse une sorte de pays pilote de l’avenir européen.</p>
                       <p class="p">Dépositaire de la formule qui paraît la mieux adaptée aux conditions du monde de demain, elle serait donc désignée plus que tout autre pour jouer le rôle d’initiatrice de l’union fédérale du continent.</p>
                       <p class="p">Elle consulterait ses élites intellectuelles et politiques, les cantons, les villes principales, et les grandes organisations professionnelles, et concerterait avec elles les termes d’un projet de fédération politique de l’Europe entière. Ce projet, compatible par définition avec les raisons d’être de l’État suisse (quitte à prévoir certains aménagements internes) serait ensuite présenté aux dix-neuf États de l’Europe de l’Ouest<a class="noteref" href="6#note144" id="note144_"><sup>144</sup></a>. Il serait présenté au nom de notre idéal et de notre usage du fédéralisme, mais « dans les intérêts de l’Europe entière ». Même s’il n’était pas accepté en fin de compte, il aurait pour effets inévitables :</p>
@@ -3442,25 +3513,25 @@
                       <a href="#">IV. La Suisse, dans l’avenir européen</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-6-1">La Suisse, dépositaire d’une formule politique</a>
+                          <a href="6#body-6-1">IV.1. La Suisse, dépositaire d’une formule politique</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-2">L’Europe, demain</a>
+                          <a href="6#body-6-2">IV.2. L’Europe, demain</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-3">Les Suisses devant le projet d’union de l’Europe</a>
+                          <a href="6#body-6-3">IV.3. Les Suisses devant le projet d’union de l’Europe</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-4">Motifs de la réserve suisse</a>
+                          <a href="6#body-6-4">IV.4. Motifs de la réserve suisse</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-5">Autofreinage du fédéralisme</a>
+                          <a href="6#body-6-5">IV.5. Autofreinage du fédéralisme</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-6">Éléments de prospective fédéraliste</a>
+                          <a href="6#body-6-6">IV.6. Éléments de prospective fédéraliste</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-7">Trois utopies : pays pilote, parc national ou district fédéral européen ?</a>
+                          <a href="6#body-6-7">IV.7. Trois utopies : pays pilote, parc national ou district fédéral européen ?</a>
                         </li>
                       </ul>
                     </li>
@@ -3522,7 +3593,7 @@
                   <article role="article">
                     <a class="pb" href="#pb311" id="pb311">[p. 311]</a>
                     <h1 class="head chapter">Appendice
-          <br class="lb"/>Bref historique de la légende de Tell<a class="bookmark" href="7"> §</a></h1>
+          <br class="lb"/>Bref historique de la légende de Tell</h1>
                     <p class="p autofirst">
 <a class="pb" href="#pb313" id="pb313">[p. 313]</a>
  Le mythe de Tell a sans nul doute contribué à édifier (au double sens du mot) la Suisse moderne, j’entends celle de 1848, mais il paraît plus que douteux qu’un Guillaume Tell ait existé, historiquement, lors de la formation de la Suisse primitive.</p>

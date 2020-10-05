@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
-                    <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Avertissement</h1>
                     <p class="p autofirst">Ceci n’est pas un livre, mais un recueil de conférences et d’essais sur des sujets variés en apparence : protestantisme, culture, neutralité, fédéralisme et défense de la Suisse.</p>
                     <p class="p">Si je me décide à réunir ces textes — les uns « parlés », les autres écrits — c’est qu’ils ne sont pas dépourvus d’une certaine unité d’intention : ils sont tous nés d’un même souci de la personne et de son rôle dans la communauté ; et tous, ils s’adressent à la Suisse, ou pour mieux dire, ils s’adressent à des Suisses. Par une série de cercles concentriques, ils s’efforcent de <i class="i">situer</i> notre mission dans l’Europe d’aujourd’hui.</p>
                     <p class="p">On trouvera tout d’abord une conférence sur <i class="i">le Protestantisme créateur de personnes</i>. C’est qu’avant de rien proposer, il convient de dire qui l’on est, de préciser au nom de quoi l’on parle ; et ce ne peut être, sérieusement, qu’au nom d’une foi. Je prends ce mot dans son sens le plus fort, et je veux bien qu’il doit compromettant. Une foi réelle est une raison de vivre et non point d’échapper à la vie. Ceci dit, je ne 
@@ -96,7 +96,7 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -105,7 +105,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -161,7 +161,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a><a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a></h1>
                     <p class="p autofirst">Je souhaite que beaucoup d’entre vous, apercevant le titre de cette conférence, aient ressenti quelque méfiance. Je souhaite que beaucoup aient tenu le petit raisonnement que voici : Pour les Réformateurs, l’homme devant Dieu égale zéro. Pour les modernes, un protestant égale une personnalité. Que peut bien signifier cette contradiction affligeante ?</p>
                     <p class="p">Je serais heureux que la question vous ait paru curieuse, ou peut-être grave, ou en tout cas digne de réflexion, car c’est à elle précisément que je me propose de répondre ici.</p>
                     <p class="p">Comment passer du zéro de l’homme devant 
@@ -409,7 +409,7 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -418,7 +418,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -465,6 +465,20 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>2.a. L’adversaire est en nous – 2.b. Disharmonie de nos activités et impuissance de l’esprit – 2.c. L’esprit de Ponce-Pilate – 2.d. Décadence de la communauté – 2.e. L’appel au dictateur – 2.f. À la recherche de l’homme réel – 2.g. Raisons d’espérer : la culture et les groupes – 2.h. La solution fédéraliste</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	2.a. L’adversaire est en nous (1940, Mission ou démission de la Suisse)
+body-3-2	2.b. Disharmonie de nos activités et impuissance de l’esprit (1940, Mission ou démission de la Suisse)
+body-3-3	2.c. L’esprit de Ponce-Pilate (1940, Mission ou démission de la Suisse)
+body-3-4	2.d. Décadence de la communauté (1940, Mission ou démission de la Suisse)
+body-3-5	2.e. L’appel au dictateur (1940, Mission ou démission de la Suisse)
+body-3-6	2.f. À la recherche de l’homme réel (1940, Mission ou démission de la Suisse)
+body-3-7	2.g. Raisons d’espérer : la culture et les groupes (1940, Mission ou démission de la Suisse)
+body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suisse)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -474,7 +488,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
-                    <h1 class="head chapter">La bataille de la culture<a class="noteref" href="3#note13" id="note13_"><sup>13</sup></a><a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">La bataille de la culture<a class="noteref" href="3#note13" id="note13_"><sup>13</sup></a></h1>
                     <p class="p autofirst">Lorsque je me mis à réfléchir à ce que je vous dirais ce soir, je me trouvais quelque part en Suisse, dans une ferme montagnarde, au fond d’une chambre assez sombre et glaciale. Sur les parois boisées, je distinguais vaguement quelques versets bibliques en lettres lumineuses, et sur la table, devant moi, mon casque et la blancheur d’un carré de papier. Je serrais un crayon dans mes doigts engourdis, et j’essayais de me rendre compte… Au dehors, la neige et la brume. Plus loin, la frontière, des tranchées, des hommes en train de tuer et en train de mourir… Et puis, flottant dans d’autres brumes, dernier îlot d’un autre monde, une salle éclairée, un public dont j’ignorais et le visage et les soucis, et devant lequel je m’étais engagé à disserter de la culture…</p>
                     <p class="p">Un sentiment d’absurdité et d’impuissance m’envahit. Quel rapport pouvait-il y avoir entre ces 
 <a class="pb" href="#p58" id="p58">[p. 58]</a>
@@ -488,9 +502,9 @@
                     <p class="p">— ou bien la culture est action, création et bataille réelle, et alors il faut en parler, et la défendre et l’illustrer précisément lorsque la situation devient sérieuse.</p>
                     <p class="p">Or le fait même que nous éprouvions tous un <i class="i">doute</i> sur l’opportunité d’une conférence en temps de guerre, ce fait est significatif. Il prouve que nous tenons la culture pour quelque chose d’un peu moins sérieux que l’action, ou que la guerre, par exemple, ou simplement que la défense nationale. Or je vois là le signe très certain d’une crise — et d’une crise qui met en question les fondements mêmes de la culture en Occident.</p>
                     <p class="p">Je voudrais vous montrer ce soir que cette crise n’est pas théorique ; qu’elle a des conséquences pratiques ; qu’elle est l’une des origines de la présente guerre ; et que cette guerre n’est, en fin de compte, malgré tous ses prétextes matériels, qu’un épisode tragique d’une bataille bien plus vaste, la millénaire bataille de la culture.</p>
-                    <section id="body-3-1" class="div level2 level2">
+                    <section id="body-3-1" class="div level2">
                       <a class="pb" href="#p60" id="p60">[p. 60]</a>
-                      <h2 class="head">L’adversaire est en nous<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                      <h2 class="head">L’adversaire est en nous</h2>
                       <p class="p autofirst">S’il y a bataille, c’est donc qu’il y a deux adversaires. Quels sont-ils ?</p>
                       <p class="p">Mais d’abord, essayons d’écarter un malentendu menaçant. La bataille dont je vais vous parler n’est pas une bataille politique. Les adversaires ne sont nullement les actuels belligérants, et il n’est pas question, ici, de confondre l’un des partis avec la cause de la culture, l’autre étant le parti de l’anti-culture. Ce genre d’opposition est très tentant, je l’avoue, et aujourd’hui plus que jamais… C’est malgré tout un procédé de propagande de guerre. Un fameux général autrichien, Conrad von Hötzendorf, avait coutume de dire : « <i class="i">Tout ce qui n’est pas aussi simple qu’une gifle ne vaut rien pour la guerre.</i> » Grâce à Dieu, nous sommes encore neutres, et nous avons encore le droit de ne pas nous livrer à ce genre de simplifications brutales. Notre premier devoir me paraît, au contraire, de défendre l’intelligence contre un certain primitivisme qui se réveille toujours en temps de guerre.</p>
                       <p class="p">
@@ -501,8 +515,8 @@
                       <p class="p">Défendre la culture contre elle-même et contre nous ; attaquer ses ennemis en nous ; voilà la vraie bataille dont j’entends vous parler.</p>
                       <p class="p">Or cet adversaire intérieur, je ne voudrais pas le définir théoriquement avant de l’avoir montré à l’œuvre <i class="i">dans les faits</i>, et dans des faits très simples, bien connus, qu’il suffira de rassembler pour qu’une leçon claire s’en dégage.</p>
                     </section>
-                    <section id="body-3-2" class="div level2 level2">
-                      <h2 class="head">Disharmonie de nos activités et impuissance de l’esprit<a class="bookmark" href="3#body-3-2"> §</a></h2>
+                    <section id="body-3-2" class="div level2">
+                      <h2 class="head">Disharmonie de nos activités et impuissance de l’esprit</h2>
                       <p class="p autofirst">Songeant à notre civilisation moderne, je suis de plus en plus frappé par ces deux traits : d’une part, une étonnante <i class="i">disharmonie</i> entre les divers 
 <a class="pb" href="#p63" id="p63">[p. 63]</a>
  ordres de nos activités — d’autre part, une angoissante <i class="i">impuissance de l’esprit</i> devant ce monde comme il va. Prenons des exemples concrets.</p>
@@ -528,8 +542,8 @@
 <a class="pb" href="#p68" id="p68">[p. 68]</a>
  et où ce manque n’est même plus ressenti comme un scandale, je la vois condamnée à glisser, comme la nôtre, dans un désordre dont la guerre sera toujours le seul aboutissement.</p>
                     </section>
-                    <section id="body-3-3" class="div level2 level2">
-                      <h2 class="head">L’esprit de Ponce-Pilate<a class="bookmark" href="3#body-3-3"> §</a></h2>
+                    <section id="body-3-3" class="div level2">
+                      <h2 class="head">L’esprit de Ponce-Pilate</h2>
                       <p class="p autofirst">Mais alors, qui est responsable de ce divorce entre la main et le cerveau ? Nous voyons bien où il nous a menés. Essayons de voir d’où il vient.</p>
                       <p class="p">Il y a des causes matérielles, d’abord, qui peuvent dans une certaine mesure, nous excuser. Les plus marquantes se situent au début du siècle passé.</p>
                       <p class="p">Le phénomène le plus remarquable des débuts du <span class="num">xix<sup class="sup">e</sup></span> siècle a été, en effet, et dans tous les domaines, <i class="i">l’agrandissement très brusque des possibilités humaines</i>. L’invention des machines a brusquement accru nos possibilités d’action sur la matière. L’industrie et le commerce ont provoqué la brusque création de villes énormes, dix ou cent fois plus grandes que celles qu’on connaissait 
@@ -561,8 +575,8 @@
 <a class="pb" href="#p76" id="p76">[p. 76]</a>
  plus l’action, c’est l’action qui domine la culture, mais une action qui ne sait pas où elle va ! Et la société à son tour ne tarde pas à se défaire. Dès que la pensée se sépare de l’action, les hommes se trouvent séparés les uns des autres. Chacun, dans sa spécialité, suit des voies totalement divergentes, tracées par des principes contradictoires et privées de commune mesure.</p>
                     </section>
-                    <section id="body-3-4" class="div level2 level2">
-                      <h2 class="head">Décadence de la communauté<a class="bookmark" href="3#body-3-4"> §</a></h2>
+                    <section id="body-3-4" class="div level2">
+                      <h2 class="head">Décadence de la communauté</h2>
                       <p class="p autofirst">Je préciserai ce que j’appelle ici la <i class="i">commune mesure</i> d’une civilisation : c’est le principe qui doit harmoniser toutes les activités d’une société donnée. Dans la cité grecque, par exemple, tout était rapporté à la mesure de l’individu raisonnable. Dans l’Empire romain, tout était réglé par le droit d’État. Chez les Juifs, c’était la Loi de Moïse qui ordonnait toute l’existence dans ses plus minutieux détails. Au Moyen âge, la théologie. Dans toutes ces civilisations, l’action obéissait <i class="i">spontanément</i> aux mêmes lois que la pensée. Mais aujourd’hui que la Loi des Juifs, le droit et la théologie sont méprisés ou ignorés, 
 <a class="pb" href="#p77" id="p77">[p. 77]</a>
  maintenant que tout, dans le monde, échappe aux prises de l’esprit humain, il ne reste qu’un seul principe pour mesurer la valeur de nos actes : c’est l’Argent. Et quand il n’y a plus d’argent : c’est la misère. Et quand la misère est trop grande, alors c’est l’État-providence qui se charge de tout mettre au pas. Le malheur, c’est que l’Argent et l’État sont des principes qui ne valent rien dans le monde de l’esprit. Et dès lors, la culture en chômage se corrompt rapidement, s’asservit.</p>
@@ -585,8 +599,8 @@
  dans les trop grands pays. C’est une angoisse informulée, mais dont les signes sont partout.</p>
                       <p class="p">Or maintenant, de cette angoisse monte un appel, le formidable et inconscient appel des masses vers une communauté humaine rénovée dans son esprit et dans ses signes extérieurs, l’appel de toute l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle vers une commune mesure restaurée et vivante.</p>
                     </section>
-                    <section id="body-3-5" class="div level2 level2">
-                      <h2 class="head">L’appel au dictateur<a class="bookmark" href="3#body-3-5"> §</a></h2>
+                    <section id="body-3-5" class="div level2">
+                      <h2 class="head">L’appel au dictateur</h2>
                       <p class="p autofirst">Et c’est à cet appel qu’ont répondu les chefs des grands mouvements collectivistes. Tout leur génie, s’il faut leur en reconnaître, a consisté à deviner — avant les intellectuels ! — la vraie nature de l’angoisse des foules, pour lui donner une réponse à la fois frappante et concrète. « Tout est en désordre ? ont-ils dit. C’est bien simple. Nous allons proclamer que l’intérêt de l’État dont nous sommes devenus les maîtres est la seule règle de toute activité, culturelle, politique, ou même religieuse. » C’était un coup de 
 <a class="pb" href="#p83" id="p83">[p. 83]</a>
  génie, si le génie consiste à deviner et à prévenir les inconscients désirs de la nation. Mais on peut avoir du génie et faire de grosses fautes de calcul. Surtout quand on est très pressé. Or il est certain que ces chefs étaient horriblement pressés, à cause de la misère que subissaient leurs peuples. Et voici la faute de calcul qu’ils me paraissent avoir commise : ils ont voulu imposer à l’ensemble des principes qui étaient partiels. La discipline d’État, ou le sang, ou la Classe, ce sont certes des réalités. Mais des réalités <i class="i">partielles</i>. Si la loi qu’on impose à tous est calculée seulement pour certains types, soit physiques, soit sociologiques, cette loi est pratiquement une odieuse tyrannie pour tous ceux qui débordent le cadre, c’est autant dire pour tous les hommes vraiment humains. C’était très bien d’essayer de répondre au grand appel des peuples vers une communauté. Mais on a répondu trop vite, et surtout d’une manière incomplète.</p>
@@ -595,8 +609,8 @@
 <a class="pb" href="#p84" id="p84">[p. 84]</a>
  L’appel des peuples reste insatisfait. Il continue à nous poser la plus sérieuse question humaine. Et s’il n’est pas encore aussi tragique dans des pays moins menacés par la misère, comme par exemple nos petits états neutres, ne nous faisons pas d’illusions : tôt ou tard, <i class="i">là aussi</i>, cet appel exigera une réponse. Reste à savoir si nous saurons la lui donner. Reste à savoir si nous saurons utiliser le délai qui nous est accordé, <i class="i">à nous les neutres</i>, pour découvrir les vraies causes du mal, et par suite, les vrais remèdes, et non seulement pour décrire ces remèdes, mais surtout pour les essayer <i class="i">sur nous</i> d’abord. Car nous aussi, je le répète, nous sommes atteints !</p>
                     </section>
-                    <section id="body-3-6" class="div level2 level2">
-                      <h2 class="head">À la recherche de l’homme réel<a class="bookmark" href="3#body-3-6"> §</a></h2>
+                    <section id="body-3-6" class="div level2">
+                      <h2 class="head">À la recherche de l’homme réel</h2>
                       <p class="p autofirst">J’aime employer les mots dans leur sens étymologique. L’étymologie, vous le savez, est une science très incertaine, mais c’est un art très significatif. Lorsque j’employais tout à l’heure l’adjectif <i class="i">énorme</i>, pour caractériser certains aspects du monde moderne, ce n’était pas sans intention. Car <i class="i">énorme</i> ne signifie pas seulement grand, immense, mais aussi : qui sort de la norme — de 
 <a class="pb" href="#p85" id="p85">[p. 85]</a>
  la mesure. Un monde énorme est un monde sans mesure, un monde démesuré par rapport à l’homme seul et aux pouvoirs de son esprit. Et de là vient notre désordre mais aussi, notre impuissance à en sortir, malgré toutes nos bonnes intentions.</p>
@@ -620,9 +634,9 @@
                       <p class="p">Cependant, nous avons montré que c’est justement cet homme-là qui a le plus de peine à subsister ou à se former dans le monde moderne. Car supposez qu’un homme se sente une vocation et décide de la réaliser. Il se trouve en présence d’un monde que l’histoire et la sociologie ont encombré de <i class="i">lois fatales</i>. Que peut-il, seul, contre ces lois ? Il faut donc, s’il veut faire quelque chose, qu’il entre dans un grand parti, dans une grande organisation. Mais alors, il subit une discipline qui ne s’accommode plus du tout de sa vocation personnelle. Voici donc le dilemme où nous placent la culture actuelle et le monde actuel : ou bien tu veux rester toi-même, mais alors tu ne pourras rien faire ; ou bien tu veux faire quelque chose, mais alors, cesse d’être toi-même !</p>
                       <p class="p">Comment sortir de ce cercle vicieux ? Par un changement d’état d’esprit aussi bien chez les intellectuels que chez les amateurs de vraie culture, les lecteurs, le public cultivé. Car c’est de ce changement d’état d’esprit que sortira la possibilité de repenser une société.</p>
                     </section>
-                    <section id="body-3-7" class="div level2 level2">
+                    <section id="body-3-7" class="div level2">
                       <a class="pb" href="#p90" id="p90">[p. 90]</a>
-                      <h2 class="head">Raisons d’espérer : la culture et les groupes<a class="bookmark" href="3#body-3-7"> §</a></h2>
+                      <h2 class="head">Raisons d’espérer : la culture et les groupes</h2>
                       <p class="p autofirst">Je voudrais vous dire, maintenant, les raisons que j’ai d’espérer, après avoir tant critiqué. Je voudrais vous énumérer les premiers succès remportés, dans la bataille de la culture moderne, par l’esprit créateur sur l’esprit fataliste.</p>
                       <p class="p">Ce qui paralysait les intellectuels qui sentaient le besoin d’agir sur les destinées de la cité, c’était depuis Hegel, Auguste Comte, et Marx, l’idée que l’Histoire obéit à des lois contre lesquelles l’homme ne peut rien. Conception très lugubre, mais commode, car elle justifiait l’inaction ou la retraite dans les bibliothèques. Or cette idée de lois fatales avait été empruntée à la science et transportée abusivement dans les domaines plus humains de l’histoire, de la sociologie et même de la psychologie. Et voici que cette idée paralysante est en train de subir certains coups décisifs : ce sont précisément les hommes de science qui, les premiers, cessent d’y croire. Ils ont reconnu, depuis quelques années, que la 
 <a class="pb" href="#p91" id="p91">[p. 91]</a>
@@ -650,9 +664,9 @@
                       <p class="p">J’ai insisté sur le rôle des Églises parce qu’elles sont le type même des <i class="i">groupes</i> au sein desquels la culture d’Occident a toujours trouvé ses mesures. Bien d’autres groupes, je le sais, sont à l’œuvre. Mouvement des groupes d’Oxford, mouvement des groupes personnalistes, répandus en France et en Suisse, et vingt autres mouvements analogues, tous animés de cet <i class="i">esprit d’équipe</i> qui seul peut nous guérir de l’individualisme, tout en prévenant la maladie collectiviste.</p>
                       <p class="p">C’est dans cette volonté de recréer des groupes à la mesure de la personne, matériellement et moralement, que je vois la <i class="i">commune mesure</i> de la cité qu’il nous faut rebâtir. Cité solide et pourtant libérale : c’est tout le problème à résoudre.</p>
                     </section>
-                    <section id="body-3-8" class="div level2 level2">
+                    <section id="body-3-8" class="div level2">
                       <a class="pb" href="#p97" id="p97">[p. 97]</a>
-                      <h2 class="head">La solution fédéraliste<a class="bookmark" href="3#body-3-8"> §</a></h2>
+                      <h2 class="head">La solution fédéraliste</h2>
                       <p class="p autofirst">Par quelle voie ?</p>
                       <p class="p">Je n’aime pas beaucoup la tolérance, vertu qui naît en somme d’un scepticisme, car elle suppose que la pensée de <i class="i">l’autre</i>, qu’on tolère, ne passera jamais dans les actes. Je n’aime pas non plus l’intolérance qui veut tout uniformiser, et qui est donc une mort de l’esprit.</p>
                       <p class="p">La tolérance était la pâle vertu des libéraux individualistes. L’intolérance est la sombre vertu des partisans collectivistes. De leur lutte est sortie la guerre. Le seul moyen de dépasser cette mauvaise position du problème, c’est de prévoir pour la cité et la culture une structure <i class="i">fédéraliste</i>.</p>
@@ -727,33 +741,33 @@
                       <a href="#">2. La bataille de la culture</a>
                       <ul>
                         <li class="collateral">
-                          <a href="3#body-3-1">L’adversaire est en nous</a>
+                          <a href="3#body-3-1">2.a. L’adversaire est en nous</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-2">Disharmonie de nos activités et impuissance de l’esprit</a>
+                          <a href="3#body-3-2">2.b. Disharmonie de nos activités et impuissance de l’esprit</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-3">L’esprit de Ponce-Pilate</a>
+                          <a href="3#body-3-3">2.c. L’esprit de Ponce-Pilate</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-4">Décadence de la communauté</a>
+                          <a href="3#body-3-4">2.d. Décadence de la communauté</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-5">L’appel au dictateur</a>
+                          <a href="3#body-3-5">2.e. L’appel au dictateur</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-6">À la recherche de l’homme réel</a>
+                          <a href="3#body-3-6">2.f. À la recherche de l’homme réel</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-7">Raisons d’espérer : la culture et les groupes</a>
+                          <a href="3#body-3-7">2.g. Raisons d’espérer : la culture et les groupes</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-8">La solution fédéraliste</a>
+                          <a href="3#body-3-8">2.h. La solution fédéraliste</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -762,7 +776,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -772,13 +786,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/4" name="3. Neutralité oblige, (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/4" name="3. Neutralité oblige , (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>3. Neutralité oblige, (1937) (1940, Mission ou démission de la Suisse)</value>
+          <value>3. Neutralité oblige , (1937) (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -804,7 +818,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "3. Neutralité oblige, (1937)"
+    "name": "3. Neutralité oblige , (1937)"
   }]
 }
           </value>
@@ -818,7 +832,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p103" id="p103">[p. 103]</a>
-                    <h1 class="head chapter">Neutralité oblige <br class="lb"/>(1937)<a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">Neutralité oblige <br class="lb"/>(1937)</h1>
                     <p class="p autofirst">C’est un redoutable questionneur que C.-F. Ramuz<a class="noteref" href="4#note17" id="note17_"><sup>17</sup></a>. Vous croyez tout d’abord qu’il interroge simplement par curiosité, ou par une sorte de prudence, pour voir venir, et puis vous vous apercevez que ce sont vos réponses elles-mêmes, celles que déjà vous étiez prêt à lui donner, qui se trouvent mises en question par sa méfiance paysanne. Cela n’est pas sans irriter certains. Pour moi, je ne sais rien de plus salutaire, parfois de plus libérateur, que <i class="i">cette manière</i> de poser des questions, et de jouer le scepticisme, dans un pays où tant de choses vont de soi. Il nous faut un homme comme Ramuz pour nous tirer de l’optimisme épais où s’endorment les jeunes Suisses, 
 <a class="pb" href="#p104" id="p104">[p. 104]</a>
  trop assurés, comme le dit Cingria, de trouver chaque matin sur leur table un gros bol de café au lait. Qu’on m’entende bien : nous avons eu Amiel, et nous ne manquons pas de douteurs, de tourmentés, de refoulés et d’hésitants fort distingués. Mais ces inquiétudes se limitent au « plan moral », comme nous aimons à dire. Elles sont d’usage interne, individuel. Les doutes que Ramuz nous propose touchent au contraire les fondements mêmes de notre vie dans la cité, de notre existence comme « Suisses ». Ils affectent nos tabous les plus inébranlés, nos sécurités matérielles, ou sociales, ou nationales. Ce que personne n’a jamais eu l’idée de mettre en question parmi nous. Par exemple, demande Ramuz : Avons-nous autre chose à dire que propreté, confort et instruction ? Avons-nous d’autre but commun que la sécurité et le profit ? Pourquoi sommes-nous confédérés ? Et pourquoi, enfin, sommes-nous neutres ?</p>
@@ -1007,7 +1021,7 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="here">
-                      <a href="#">3. Neutralité oblige,  (1937)</a>
+                      <a href="#">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -1016,7 +1030,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1063,6 +1077,18 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>4.a. Les voix que rien n’arrête – 4.b. Nos privilèges – 4.c. Sommes-nous « à la hauteur » de notre nature ? – 4.d. Sommes-nous vraiment libres ? – 4.e. Devons-nous rester neutres ? – 4.f. Vocation de la Suisse</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	4.a. Les voix que rien n’arrête (1940, Mission ou démission de la Suisse)
+body-5-2	4.b. Nos privilèges (1940, Mission ou démission de la Suisse)
+body-5-3	4.c. Sommes-nous « à la hauteur » de notre nature ? (1940, Mission ou démission de la Suisse)
+body-5-4	4.d. Sommes-nous vraiment libres ? (1940, Mission ou démission de la Suisse)
+body-5-5	4.e. Devons-nous rester neutres ? (1940, Mission ou démission de la Suisse)
+body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1072,9 +1098,9 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p129" id="p129">[p. 129]</a>
-                    <h1 class="head chapter">La Suisse que nous devons défendre<a class="noteref" href="5#note31" id="note31_"><sup>31</sup></a><a class="bookmark" href="5"> §</a></h1>
-                    <section id="body-5-1" class="div level2 level2">
-                      <h2 class="head">Les voix que rien n’arrête<a class="bookmark" href="5#body-5-1"> §</a></h2>
+                    <h1 class="head chapter">La Suisse que nous devons défendre<a class="noteref" href="5#note31" id="note31_"><sup>31</sup></a></h1>
+                    <section id="body-5-1" class="div level2">
+                      <h2 class="head">Les voix que rien n’arrête</h2>
                       <p class="p autofirst">Nous sommes là, nous sommes prêts. Nous avons élevé autour de ce pays une barrière. Nous avons creusé un fossé. Nous avons hermétiquement fermé toutes les fissures, et plus rien ne passe. Murailles naturelles, Alpes, fleuves, Jura ; larges haies barbelées, ceinture fortifiée, pièces chargées, et derrière tout cela, l’armée qui guette et qui travaille encore dans les forêts, dans les ravins et dans les champs neigeux ; et derrière l’armée, un peuple entier qui guette, et qui travaille lui aussi jour et nuit, dans les bureaux et les usines — pour que rien ne passe. Frontières 
 <a class="pb" href="#p130" id="p130">[p. 130]</a>
  closes, pays forclos, reclus dans ses sécurités. Et rien ne passe…</p>
@@ -1095,17 +1121,17 @@
                       <p class="p">Redoutable question, je le vois bien. Mais nous ne pouvons plus l’éviter. Nous ne pouvons plus nous boucher les oreilles. Nous ne pouvons plus nous mettre à l’abri de notre histoire, ou de nos Alpes, ou simplement de nos habitudes ancestrales. À la question nouvelle que nous pose la grande révolution européenne, il s’agit maintenant de donner une réponse dont dépendra notre existence.</p>
                       <p class="p">Nous avons fait serment, le 2 septembre, de défendre la Suisse jusqu’à la mort. Eh bien, il serait fou de mourir pour une Suisse dont nous ne serions pas sûrs qu’elle a le droit et le devoir d’exister, devant Dieu. On n’a pas le droit de mourir pour quelque chose qui ne fournit pas des raisons de vivre. <i class="i">Notre serment nous engage donc AUSSI à prendre conscience des raisons de vivre de la Suisse, et de nos raisons de vivre en tant que Suisses.</i></p>
                     </section>
-                    <section id="body-5-2" class="div level2 level2">
+                    <section id="body-5-2" class="div level2">
                       <a class="pb" href="#p135" id="p135">[p. 135]</a>
-                      <h2 class="head">Nos privilèges<a class="bookmark" href="5#body-5-2"> §</a></h2>
+                      <h2 class="head">Nos privilèges</h2>
                       <p class="p autofirst">Si nous voulons prendre une conscience sérieuse de nos vraies raisons d’être et de persévérer, il nous faut tout d’abord écarter un certain nombre de fausses raisons et d’illusions, de phrases toutes faites et de clichés patriotiques. Vous ne vous étonnerez donc pas trop si je consacre la première partie de cette étude à la critique, pour ne pas dire au dégonflage de ces clichés. Notre assemblée, et ce discours, seraient inutiles, si nous ne cherchions pas ensemble, et si nous ne trouvions pas ensemble, par dessous les grandes phrases habituelles, certaines réalités solides qui valent la peine d’être affirmées sans rhétorique.</p>
                       <p class="p">Nous entendons dire, très souvent, que la Suisse mérite d’être défendue parce qu’elle détient d’immenses <i class="i">privilèges</i>. Admettons ce point de vue, pour l’instant.</p>
                       <p class="p">Quels sont donc ces grands privilèges ? J’en citerai trois, qui sont sans contredit les plus illustres : d’abord notre <i class="i">nature</i> incomparable, ensuite 
 <a class="pb" href="#p136" id="p136">[p. 136]</a>
  nos <i class="i">libertés</i> traditionnelles, enfin notre <i class="i">neutralité</i>, solennellement garantie depuis 1815 par toutes les grandes puissances européennes. Voilà, n’est-ce pas, trois belles et bonnes raisons de nous montrer fiers de notre Suisse ? Certes. Mais il convient de se demander ce que valent ces fameux privilèges dans l’Europe toute nouvelle où nous vivons en ce début de 1940. Il convient de se demander s’ils sont de purs et simples privilèges, ou s’ils ne comporteraient pas aussi des devoirs ; ensuite, s’il y a lieu de s’en vanter ; enfin, s’ils représentent pratiquement des garanties pour notre indépendance, ou, au contraire, s’ils ne peuvent pas fournir certains prétextes à la violer.</p>
                     </section>
-                    <section id="body-5-3" class="div level2 level2">
-                      <h2 class="head">Sommes-nous « à la hauteur » de notre nature ?<a class="bookmark" href="5#body-5-3"> §</a></h2>
+                    <section id="body-5-3" class="div level2">
+                      <h2 class="head">Sommes-nous « à la hauteur » de notre nature ?</h2>
                       <p class="p autofirst">La Suisse est belle, c’est entendu, c’est connu dans le monde entier. On a fait avec cela beaucoup de littérature de manuels — et en même temps, pas mal d’argent, je crois. Tant pis pour les manuels, et tant mieux pour l’argent. Mais le fait est qu’on a coutume de parler de nos Alpes soit d’un point de vue purement sentimental, soit 
 <a class="pb" href="#p137" id="p137">[p. 137]</a>
  d’un point de vue purement utilitaire ou touristique, en style de Männerchor ou en style d’hôteliers. C’est-à-dire trop haut ou trop bas. Qu’on y prenne garde cependant : si nos Alpes sont belles et nos glaciers « sublimes », il n’y a pas là de quoi nous vanter ! D’abord ce n’est pas notre faute, car nous ne sommes pour rien dans notre géographie. Ensuite, si nous bénéficions d’un privilège aussi considérable, il s’agirait de nous en rendre dignes, avant même que de le défendre. Le seul moyen de conserver un privilège, après tout, c’est de le mériter. Or nous chantons nos lacs d’azur, nous chantons nos glaciers qui touchent aux cieux, et nous en retirons d’importants bénéfices, mais nous oublions trop souvent que tout cela, précisément, peut tenter certains de nos voisins… Ne seraient-ils pas aussi capables que nous de chanter et de gagner de l’argent, si nous étions contraints de leur céder la place ? Sommes-nous vraiment plus dignes et plus conscients que d’autres des <i class="i">charges</i> que supposent de pareils avantages ?</p>
@@ -1127,8 +1153,8 @@
                       </blockquote>
                       <p class="p autofirst">Oui, Rambert nous le dit fort bien : ce premier de nos privilèges, une belle nature, doit être considéré par nous, avant toute autre chose, comme un <i class="i">appel</i>, comme une <i class="i">responsabilité</i>.</p>
                     </section>
-                    <section id="body-5-4" class="div level2 level2">
-                      <h2 class="head">Sommes-nous vraiment libres ?<a class="bookmark" href="5#body-5-4"> §</a></h2>
+                    <section id="body-5-4" class="div level2">
+                      <h2 class="head">Sommes-nous vraiment libres ?</h2>
                       <p class="p autofirst">Il faut donc que les Suisses deviennent et restent « à la hauteur » de leur géographie. Mais il faut aussi qu’ils deviennent et qu’ils restent <i class="i">à la hauteur de leur histoire</i>. Et à ce propos, voici quelques remarques sur nos fameuses <i class="i">libertés</i>, non moins fameuses et non moins célébrées que nos grandioses panoramas. « Nous défendrons nos libertés — répétons-nous dans nos discours patriotiques — ces libertés que nos pères nous ont acquises au prix de leur héroïsme civique et militaire, et qui sont un modèle pour l’Europe ». Oui certes, mais ici encore, n’ayons pas peur d’y regarder de près. Que sont devenues en fait ces libertés antiques qu’on nous envie ? Avons-nous 
 <a class="pb" href="#p141" id="p141">[p. 141]</a>
  bien le droit de nous en vanter encore, et suffit-il de les vanter pour qu’elles subsistent ?</p>
@@ -1159,8 +1185,8 @@
 <a class="pb" href="#p148" id="p148">[p. 148]</a>
  la liberté, ou alors ils n’aimeront pas une vraie liberté. Oui, nous pouvons le proclamer : il n’y a de liberté <i class="i">réelle</i> dans notre monde que grâce à la foi des chrétiens, et à leur action politique. Et vous voyez qu’au bout du compte, et « pratiquement » (comme nous aimons à dire en Suisse), le meilleur fondement de notre indépendance nationale, c’est encore notre foi personnelle. Car c’est elle qui reste la source de notre amour de la <i class="i">vraie</i> liberté, et cet amour est le fondement solide de toutes nos libertés civiques, comme aussi de notre résistance intime aux tentations de la propagande totalitaire.</p>
                     </section>
-                    <section id="body-5-5" class="div level2 level2">
-                      <h2 class="head">Devons-nous rester neutres ?<a class="bookmark" href="5#body-5-5"> §</a></h2>
+                    <section id="body-5-5" class="div level2">
+                      <h2 class="head">Devons-nous rester neutres ?</h2>
                       <p class="p autofirst">Liberté, totalitarisme… Ceci nous amène à poser la question de notre troisième grand privilège : la neutralité. Notre neutralité, en effet, n’impose-t-elle pas, dès maintenant, certaines limites pénibles à la <i class="i">libre</i> expression de nos convictions, même lorsque celles-ci sont basées sur notre foi non point politique, mais chrétienne ?</p>
                       <p class="p">Oui, comment justifier encore, dans cette guerre-ci, 
 <a class="pb" href="#p149" id="p149">[p. 149]</a>
@@ -1190,8 +1216,8 @@
 <a class="pb" href="#p154" id="p154">[p. 154]</a>
  privilège était subordonné à la charge, il n’avait d’autre but que d’en faciliter l’exercice. C’est pourquoi l’on disait : Noblesse oblige. Disons-nous pareillement que tous nos privilèges, même naturels, n’ont d’autre sens et d’autre raison d’être que de nous permettre d’accomplir notre <i class="i">mission spéciale</i> de Suisses. Disons-nous donc : beauté du sol oblige, liberté oblige, neutralité oblige !</p>
                     </section>
-                    <section id="body-5-6" class="div level2 level2">
-                      <h2 class="head">Vocation de la Suisse<a class="bookmark" href="5#body-5-6"> §</a></h2>
+                    <section id="body-5-6" class="div level2">
+                      <h2 class="head">Vocation de la Suisse</h2>
                       <p class="p autofirst">Mais il est temps que je définisse ce que j’appelle la mission de la Suisse, ou mieux, d’un terme plus chrétien, sa <i class="i">vocation</i>. C’est très facile à dire en quelques mots. <i class="i">La vocation actuelle et historique de la Suisse, c’est de défendre et d’illustrer aux yeux de l’Europe le principe du fédéralisme</i> ; principe, notons-le bien, radicalement contraire à tout système totalitaire, et seule base possible et solide de la paix que nous espérons.</p>
                       <p class="p">C’est très facile à dire, et ce n’est pas très neuf, en apparences. Mais dès qu’on veut prendre au sérieux cette vocation, l’on s’aperçoit que ce n’est pas si simple. On s’aperçoit aussi que ces 
 <a class="pb" href="#p155" id="p155">[p. 155]</a>
@@ -1288,28 +1314,28 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="here">
                       <a href="#">4. La Suisse que nous devons défendre</a>
                       <ul>
                         <li class="collateral">
-                          <a href="5#body-5-1">Les voix que rien n’arrête</a>
+                          <a href="5#body-5-1">4.a. Les voix que rien n’arrête</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-2">Nos privilèges</a>
+                          <a href="5#body-5-2">4.b. Nos privilèges</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-3">Sommes-nous « à la hauteur » de notre nature ?</a>
+                          <a href="5#body-5-3">4.c. Sommes-nous « à la hauteur » de notre nature ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-4">Sommes-nous vraiment libres ?</a>
+                          <a href="5#body-5-4">4.d. Sommes-nous vraiment libres ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-5">Devons-nous rester neutres ?</a>
+                          <a href="5#body-5-5">4.e. Devons-nous rester neutres ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-6">Vocation de la Suisse</a>
+                          <a href="5#body-5-6">4.f. Vocation de la Suisse</a>
                         </li>
                       </ul>
                     </li>
@@ -1317,7 +1343,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1364,6 +1390,14 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>5.a. D’où vient le fédéralisme ? – 5.b. Où va le fédéralisme ?</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-6-1	5.a. D’où vient le fédéralisme ? (1940, Mission ou démission de la Suisse)
+body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suisse)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1373,7 +1407,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p169" id="p169">[p. 169]</a>
-                    <h1 class="head chapter">Esquisses d’une politique fédéraliste<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Esquisses d’une politique fédéraliste</h1>
                     <p class="p autofirst">Il se peut que le fédéralisme n’ait été à son origine qu’une nécessité naturelle. Il se peut que durant des siècles, il soit demeuré une pratique terre à terre, et n’en ait que mieux fonctionné. Ce qui est certain, c’est qu’une <i class="i">praxis</i> ne peut rayonner et créer qu’avec l’appui d’une <i class="i">theoria</i>, à partir d’un certain moment.</p>
                     <p class="p">Ce moment est venu. Nous y sommes. Dans la révolution du <span class="num">xx<sup class="sup">e</sup></span> siècle, ceux qui se taisent n’ont peut-être pas tort, mais ils sont certainement battus. L’« arme secrète » dont on parle souvent, c’est simplement la propagande. <i class="i">Toute propagande est efficace</i>, voilà le principe tactique fondamental de notre siècle. Si aucune contre-propagande n’entre en action pour la neutraliser, toute propagande obtient un certain rendement, qui varie entre 5 % (dans les pays d’opinion « libre ») et 98 ½ % (dans d’autres pays).</p>
                     <p class="p">
@@ -1381,8 +1415,9 @@
  Il y a donc aujourd’hui pour le fédéralisme une <i class="i">nécessité</i> de s’exprimer, quand ce ne serait que pour se défendre. Mais en même temps, une <i class="i">possibilité</i> se révèle, d’élargissement européen ; un appel, voire une exigence, qui nous fait un devoir d’attaquer au niveau des idées et des doctrines.</p>
                     <p class="p">Mais afin de nous mettre en mesure de « prêcher » le fédéralisme, il nous faut savoir d’où il vient ; savoir aussi à quoi il tend ; et prouver la réalité de ce savoir par une existence exemplaire.</p>
                     <p class="p">Je ne puis <i class="i">parler</i> ici que des deux premiers points. Du troisième, que dirais-je ? Il faut le vivre.</p>
-                    <section id="body-6-1" class="div level2 level2">
-                      <h2 class="head">I <br class="lb"/>D’où vient le fédéralisme ?<a class="bookmark" href="6#body-6-1"> §</a></h2>
+                    <section id="body-6-1" class="div level2">
+                      <h2 class="head kicker">I</h2>
+                      <h2 class="head">D’où vient le fédéralisme ?</h2>
                       <p class="p autofirst">Dans le temps, dans le monde du péché, tout commence par la nécessité, et tend à nous y enfermer. Dans le monde de l’esprit, tout s’ouvre et se libère, devient grâce et devient nouveauté. L’action réelle, c’est de passer du monde de la nécessité à celui de la liberté. Cet acte seul 
 <a class="pb" href="#p171" id="p171">[p. 171]</a>
  nous rend humains et nous maintient à hauteur d’homme. (Pas question de monter jusqu’à l’ange ; nous avons bien assez à faire à ne point retomber à la bête.)</p>
@@ -1407,9 +1442,10 @@
                       <p class="p">Cependant de nouveaux problèmes, et des plus graves, sollicitent un progrès nouveau et décisif. L’économie vient remettre en question les succès obtenus dans d’autres plans. Or, on ne peut résoudre un problème de ce genre qu’en dépassant l’opposition qui l’a fait naître.</p>
                       <p class="p">Dépasser, c’est marcher en sachant où l’on va. Car autrement l’on risque bien de reculer ou de tourner en rond.</p>
                     </section>
-                    <section id="body-6-2" class="div level2 level2">
+                    <section id="body-6-2" class="div level2">
                       <a class="pb" href="#p177" id="p177">[p. 177]</a>
-                      <h2 class="head">II <br class="lb"/>Où va le fédéralisme ?<a class="bookmark" href="6#body-6-2"> §</a></h2>
+                      <h2 class="head kicker">II</h2>
+                      <h2 class="head">Où va le fédéralisme ?</h2>
                       <p class="p autofirst">C’est ici qu’apparaît au concret le problème, ou la nécessité, d’une <i class="i">philosophie fédéraliste</i>. Car lorsqu’il s’agit de prévoir, l’empirisme ne suffit plus. La vue doit s’élargir ; et le seul horizon qu’il nous soit permis d’embrasser, c’est celui de l’Europe entière, non tel groupe de puissances voisines. Or l’Europe est un idéal, une civilisation et un esprit, bien plus qu’une entité géographique. (« Cap de l’Asie » dit Valéry…)</p>
                       <p class="p">Aussi bien, les notes qui vont suivre ont-elles l’ambition de poser le problème du fédéralisme sur le seul plan où nos conflits internes aient quelque chance de se résoudre : le plan de l’Europe. Notre fédéralisme ne peut durer que si nous lui donnons pour <i class="i">fin</i> la Fédération de l’Occident.</p>
                       <p class="p">1. Tout d’abord une définition. Fédération veut dire : <i class="i">union dans la diversité</i>.</p>
@@ -1564,7 +1600,7 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -1573,15 +1609,15 @@
                       <a href="#">5. Esquisses d’une politique fédéraliste</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-6-1">I.  D’où vient le fédéralisme ?</a>
+                          <a href="6#body-6-1">5.a. D’où vient le fédéralisme ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-2">II.  Où va le fédéralisme ?</a>
+                          <a href="6#body-6-2">5.b. Où va le fédéralisme ?</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1591,13 +1627,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/7" name="Appendice, ou « in cauda venenum ». Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/7" name="Appendice , ou « in cauda venenum » Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Appendice, ou « in cauda venenum ». Auto-critique de la Suisse (1940, Mission ou démission de la Suisse)</value>
+          <value>Appendice , ou « in cauda venenum » Auto-critique de la Suisse (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1623,7 +1659,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Appendice, ou « in cauda venenum ». Auto-critique de la Suisse"
+    "name": "Appendice , ou « in cauda venenum » Auto-critique de la Suisse"
   }]
 }
           </value>
@@ -1637,7 +1673,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p197" id="p197">[p. 197]</a>
-                    <h1 class="head chapter">Appendice <br class="lb"/>ou « in cauda venenum » <br class="lb"/>Auto-critique de la Suisse<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">Appendice <br class="lb"/>ou « in cauda venenum » <br class="lb"/>Auto-critique de la Suisse</h1>
                     <p class="p autofirst">Nul pays, à ma connaissance, n’a été plus souvent expliqué à lui-même et au monde que la Suisse. C’est qu’il en a besoin plus que nul autre. Sa devise est un paradoxe qu’il n’a pas toujours bien compris. Elle exclut en principe toute doctrine unitaire, et suppose donc la connaissance très vivante d’une autre espèce d’union, sans cesse à recréer. Or l’inertie des masses et l’à peu près intellectuel s’opposent sans cesse à cette reprise de conscience. D’où la nécessité d’une vigilante auto-critique, si l’on ne veut pas déchoir ou se laisser dissoudre, si l’on veut durer et surtout, si l’on prétend se donner en exemple.</p>
                     <p class="p">
 <a class="pb" href="#p198" id="p198">[p. 198]</a>
@@ -1783,7 +1819,7 @@
                       <a href="3">2. La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige,  (1937)</a>
+                      <a href="4">3. Neutralité oblige ,  (1937)</a>
                     </li>
                     <li class="collateral">
                       <a href="5">4. La Suisse que nous devons défendre</a>
@@ -1792,7 +1828,7 @@
                       <a href="6">5. Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice,  ou « in cauda venenum ».  Auto-critique de la Suisse</a>
+                      <a href="#">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
                     </li>
                   </ul>
                 ]]></content>

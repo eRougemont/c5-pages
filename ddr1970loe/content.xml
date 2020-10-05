@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Lettre ouverte<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Lettre ouverte</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst lmarg3">Ferney-Voltaire (Ain), France, le 21 février 1970.</p>
                     </blockquote>
@@ -356,6 +356,37 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>1. L’Europe est-elle jamais née ? – 2. Une unité non unitaire – 3. Les options de base – 4. Les « trois sources » – 5. L’arc et la lyre d’Héraclite – 6. Patrie de la discorde créatrice – 7. Une valeur absolue : la personne – 8. Révolution et passion – 9. Originalité et humour – 10. Mesure du progrès par le risque – 11. Vraie nature de nos diversités – 12. L’Europe comme source d’énergie – 13. Diversités fécondes et divisions anarchiques – 14. Il n’y a pas de « cultures nationales » – 15. Vingt langues, une littérature – 16. Mais la diversité des langues ? – 17. Pour un Petit Livre Rouge européen – 18. L’éducation européenne – 19. Parabole des trois colombes – 20. L’Europe a-t-elle tout inventé ? – 21. L’Europe et le monde : position du problème – 22. L’Asie sourde à nos mélodies – 23. Les prophètes de la décadence – 24. Où sont les candidats à la relève ? – 25. Le péril blanc</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-1	1. L’Europe est-elle jamais née ? (1970, Lettre ouverte aux Européens)
+body-2-2	2. Une unité non unitaire (1970, Lettre ouverte aux Européens)
+body-2-3	3. Les options de base (1970, Lettre ouverte aux Européens)
+body-2-4	4. Les « trois sources » (1970, Lettre ouverte aux Européens)
+body-2-5	5. L’arc et la lyre d’Héraclite (1970, Lettre ouverte aux Européens)
+body-2-6	6. Patrie de la discorde créatrice (1970, Lettre ouverte aux Européens)
+body-2-7	7. Une valeur absolue : la personne (1970, Lettre ouverte aux Européens)
+body-2-8	8. Révolution et passion (1970, Lettre ouverte aux Européens)
+body-2-9	9. Originalité et humour (1970, Lettre ouverte aux Européens)
+body-2-10	10. Mesure du progrès par le risque (1970, Lettre ouverte aux Européens)
+body-2-11	11. Vraie nature de nos diversités (1970, Lettre ouverte aux Européens)
+body-2-12	12. L’Europe comme source d’énergie (1970, Lettre ouverte aux Européens)
+body-2-13	13. Diversités fécondes et divisions anarchiques (1970, Lettre ouverte aux Européens)
+body-2-14	14. Il n’y a pas de « cultures nationales » (1970, Lettre ouverte aux Européens)
+body-2-15	15. Vingt langues, une littérature (1970, Lettre ouverte aux Européens)
+body-2-16	16. Mais la diversité des langues ? (1970, Lettre ouverte aux Européens)
+body-2-17	17. Pour un Petit Livre Rouge européen (1970, Lettre ouverte aux Européens)
+body-2-18	18. L’éducation européenne (1970, Lettre ouverte aux Européens)
+body-2-19	19. Parabole des trois colombes (1970, Lettre ouverte aux Européens)
+body-2-20	20. L’Europe a-t-elle tout inventé ? (1970, Lettre ouverte aux Européens)
+body-2-21	21. L’Europe et le monde : position du problème (1970, Lettre ouverte aux Européens)
+body-2-22	22. L’Asie sourde à nos mélodies (1970, Lettre ouverte aux Européens)
+body-2-23	23. Les prophètes de la décadence (1970, Lettre ouverte aux Européens)
+body-2-24	24. Où sont les candidats à la relève ? (1970, Lettre ouverte aux Européens)
+body-2-25	25. Le péril blanc (1970, Lettre ouverte aux Européens)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -365,13 +396,14 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb25" id="pb25">[p. 25]</a>
-                    <h1 class="head chapter">I. L’unité de culture<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">I. L’unité de culture</h1>
                     <blockquote class="epigraph">
-                      <p class="p autofirst lmarg3">L’Europe, avant d’être une alliance militaire ou une entité économique, doit être une communauté culturelle. <br class="lb"/>L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits.</p>
+                      <p class="p autofirst lmarg3">L’Europe, avant d’être une alliance militaire ou une entité économique, doit être une communauté culturelle.
+            <br class="lb"/>L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits.</p>
                       <div class="bibl">Robert <span class="sc">Schuman</span>, <cite class="title">Pour l’Europe</cite>.</div>
                     </blockquote>
-                    <section id="body-2-1" class="div level2 level2">
-                      <h2 class="head">1. L’Europe est-elle jamais née ?<a class="bookmark" href="2#body-2-1"> §</a></h2>
+                    <section id="body-2-1" class="div level2">
+                      <h2 class="head">1. L’Europe est-elle jamais née ?</h2>
                       <p class="p autofirst">Quand on me demande à brûle-pourpoint : « Qu’est-ce que l’Europe ? Pouvez-vous me répondre en une phrase ? », je dis : « <i class="i">L’Europe, c’est quelque chose qu’il faut unir</i>. » Définition active, conforme à son objet : car ce qu’on nomme l’idée européenne est en fait un programme, une action créatrice. Encore faut-il que cette action ait un support bien réel. Or, dans la discussion générale qui dure depuis un quart de siècle au sujet de l’union nécessaire, une même question revient sans cesse : « L’Europe est-elle vraiment une unité de civilisation et de culture ? Peut-on fonder son <i class="i">union</i> sur une <i class="i">unité</i> préexistante ? Et comment définir cette unité ? »</p>
                       <p class="p">Nationalistes de tous nos États, communistes de 
 <a class="pb" href="#pb26" id="pb26">[p. 26]</a>
@@ -409,8 +441,8 @@ cantons, nous n’aurions pas grand-chose de commun, pas assez, à tout le moins
 <a class="pb" href="#pb32" id="pb32">[p. 32]</a>
 pas aller vers l’unité conçue comme uniformité et qui se traduirait fatalement par un accroissement de l’entropie. <i class="i">Il faut partir de l’unité donnée, qui est derrière nous et qui se continue en nous, pour aller vers l’union dans la diversité.</i></p>
                     </section>
-                    <section id="body-2-2" class="div level2 level2">
-                      <h2 class="head">2. Une unité non unitaire<a class="bookmark" href="2#body-2-2"> §</a></h2>
+                    <section id="body-2-2" class="div level2">
+                      <h2 class="head">2. Une unité non unitaire</h2>
                       <p class="p autofirst">Je ne parle donc pas d’unité au sens simple, principe du nombre ou qualité de ce qui est un, homogène et sans parties. Je laisse ce sens aux Jacobins et autres fanatiques de l’uniforme. Je parle d’unité au sens vivant, infiniment complexe, biologique, qui suppose des parties composées, englobées ou organisées en systèmes de tensions plus ou moins autonomes et plus ou moins équilibrés.</p>
                       <p class="p">L’unité de l’Europe comme culture est une communauté de valeurs antinomiques et d’origines très diverses, mêlées en dosages très variés. C’est aussi le jeu dialectique de quelques principes dominants, intuitions religieuses, options de base qui informent non seulement l’évolution des arts, des sciences, des régimes politiques et des jugements moraux, mais encore toute l’économie, toute la vie matérielle des peuples.</p>
                       <p class="p">L’unité de l’Europe comme culture se définit en termes de compréhension, tout comme une « société » selon Toynbee, dans sa fameuse thèse initiale : « L’unité intelligible d’étude historique n’est ni un État-nation (<i class="i">nation state</i>), ni l’humanité dans son ensemble, mais un certain groupement humain que nous avons nommé société. »</p>
@@ -418,8 +450,8 @@ pas aller vers l’unité conçue comme uniformité et qui se traduirait fatalem
 <a class="pb" href="#pb33" id="pb33">[p. 33]</a>
 tant qu’unité de culture, et en retour, notre actuelle culture occidentale ne nous devient intelligible que dans le cadre continental de son évolution trimillénaire, et non pas dans le cadre des États-nations constitués à une époque récente, ni dans le cadre de l’humanité dans son ensemble, qui n’a jamais encore connu de culture commune, s’il est vrai qu’elle essaie d’en confectionner une au moyen d’éléments empruntés à la nôtre…</p>
                     </section>
-                    <section id="body-2-3" class="div level2 level2">
-                      <h2 class="head">3. Les options de base<a class="bookmark" href="2#body-2-3"> §</a></h2>
+                    <section id="body-2-3" class="div level2">
+                      <h2 class="head">3. Les options de base</h2>
                       <p class="p autofirst">Que l’Europe ait été d’abord un fait de culture, voilà qui ne signifie pas un instant qu’elle soit l’affaire des seuls hommes cultivés ou conscients de ce qu’ils donnent à la culture, et qu’elle n’intéresse pas vitalement tous les autres. Les valeurs instaurées par quelques créateurs et transmises par la Tradition, l’Église, l’École, déterminent les modes de vie auxquels tous participent dès leur naissance, même si de rares esprits, dans chaque génération, parviennent à contester, à modifier ou à rejeter certaines parties de l’héritage qui les englobe.</p>
                       <p class="p">Nos actions quotidiennes, nos sensibilités, nos évaluations morales et légales, et la valeur des fins que nous poursuivons, que nous le sachions ou non, tout prend sens et saveur dans le passé de notre culture commune. L’option fondamentale de toute recherche humaine conditionne non seulement les découvertes futures, mais encore la nature de ce qu’on tiendra plus tard pour la réalité elle-même. Dis-moi ce que tu trouves, je te dirai ce que tu cherchais.</p>
                       <p class="p">Qu’avons-nous donc cherché, nous les Européens ?</p>
@@ -456,15 +488,15 @@ contenu chrétien à un mot latin interprété selon la pensée grecque.</p>
 Partant des grandes options religieuses et métaphysiques des conciles, nous avons pu marquer le point de départ ou d’insertion dans le complexe européen de presque tous les résultats typiques de notre culture : sciences physiques et naturelles ; technique ; respect de la personne humaine et toutes les institutions civiques, sociales, juridiques qui en découlent ; sens de l’histoire ; idée du progrès ; liberté et responsabilité de l’individu chargé d’une vocation dans la communauté…</p>
                       <p class="p">Voilà donc notre civilisation définie non point comme une création préconçue qui s’affirmerait cohérente, non point comme la réalisation progressive d’une idée platonicienne de l’Europe, mais au contraire comme un vaste complexe de tensions, de recherches jamais achevées d’un équilibre sans cesse remis en question et de découvertes inouïes posant toujours de nouveaux problèmes — en un mot comme une aventure.</p>
                     </section>
-                    <section id="body-2-4" class="div level2 level2">
-                      <h2 class="head">4. Les « trois sources »<a class="bookmark" href="2#body-2-4"> §</a></h2>
+                    <section id="body-2-4" class="div level2">
+                      <h2 class="head">4. Les « trois sources »</h2>
                       <p class="p autofirst">Paul Valéry considérait comme Européens tous les peuples qui ont subi au cours de l’histoire ces trois influences décisives : l’Empire romain, la philosophie grecque et le christianisme. Définition célèbre, qui néglige les apports celtes, germaniques, arabes, slaves et orientaux, mais surtout qui ferait oublier qu’Athènes, Rome et Jérusalem nous ont légué autant ou plus d’éléments de tension que d’éléments de synthèse.</p>
                       <p class="p">Au carrefour hasardeux des premiers siècles de 
 <a class="pb" href="#pb40" id="pb40">[p. 40]</a>
 notre ère, ce n’est pas une fusion organique ou logique qui s’est opérée, c’est plutôt une interminable polémique qui a pris son départ. Nulle harmonie préétablie entre le prophétisme juif et la mesure grecque, le sens critique et la raison d’État, les religions syncrétistes et la foi, l’Église et l’Empire, Dieu et César.</p>
                     </section>
-                    <section id="body-2-5" class="div level2 level2">
-                      <h2 class="head">5. L’arc et la lyre d’Héraclite<a class="bookmark" href="2#body-2-5"> §</a></h2>
+                    <section id="body-2-5" class="div level2">
+                      <h2 class="head">5. L’arc et la lyre d’Héraclite</h2>
                       <p class="p autofirst">Dès l’aube de la philosophie occidentale, dans l’une de ces cités d’Ionie où prit naissance la dialectique de notre histoire, Héraclite écrivait cette phrase décisive, qu’il faut tenir pour la formule même d’une unité spécifiquement européenne :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">Ce qui s’oppose coopère, et de la lutte des contraires procède la plus belle harmonie.</p>
@@ -488,8 +520,8 @@ permet de voir de la manière la plus précise comment les valeurs germaniques d
 <a class="pb" href="#pb44" id="pb44">[p. 44]</a>
 ou chez les partisans et fonctionnaires de l’URSS, ni dans les masses en uniforme de la Chine. Ou bien, s’il prend soudain un sens précis pour les meneurs nationalistes des « pays neufs », c’est un sens emprunté à l’Europe, même et surtout s’il justifie un élan de révolte contre elle, prétextant un colonialisme périmé.</p>
                     </section>
-                    <section id="body-2-6" class="div level2 level2">
-                      <h2 class="head">6. Patrie de la discorde créatrice<a class="bookmark" href="2#body-2-6"> §</a></h2>
+                    <section id="body-2-6" class="div level2">
+                      <h2 class="head">6. Patrie de la discorde créatrice</h2>
                       <p class="p autofirst">Or ces valeurs qui se contredisent avec passion et sont souvent contradictoires en soi ne se détruisent pas pour autant : entre leurs triomphes alternés, elles durent dans l’ombre de l’histoire, dans la tradition, dans les livres et dans l’inconscient collectif. Elles agissent toutes, sans exception, dans la vie des hommes d’aujourd’hui. Un seul exemple : le dogme de la Trinité, hors de la tradition ecclésiastique, a fourni le modèle de la dialectique hégélienne<a class="noteref" href="2#note11" id="note11_"><sup>11</sup></a>, repris par Marx, puis par Lénine, avec les conséquences que l’on sait, jusque dans l’existence quotidienne de sept cents millions de Chinois qui se croyaient confucianistes, bouddhistes, ou sans croyance aucune…</p>
                       <p class="p">Athènes, Rome et Jérusalem, la papauté et le Saint Empire, la Table ronde du roi Arthur et les Communes, toutes leurs valeurs, tous leurs conflits et parfois leurs complicités, tout cela dure et vit en nous de mille manières. Tout cela préforme, dès avant notre naissance, nos sensibilités et nos jugements 
 <a class="pb" href="#pb45" id="pb45">[p. 45]</a>
@@ -503,17 +535,17 @@ moraux, nos réflexes sociaux et nos besoins « réels », économiques, sexue
 — et les nécessités de la concurrence. Nous le voyons chercher sa voie selon ses goûts, ses croyances qui diffèrent (ou du moins il s’en flatte) de celles qui sont censées régner, ses talents qu’il expérimente, enfin sa vocation, s’il en sent une et s’il y croit. Lorsqu’il entre en conflit avec les lois, les traditions, les préjugés de son milieu, il les déclare absurdes ou scandaleux. <i class="i">Cette manière d’opposer l’individu au tout, et d’attribuer l’absurdité non pas au moi qui la ressent, mais au monde ou à la société, voilà qui est proprement occidental</i>. Cela donne le révolté, l’objecteur de conscience, le révolutionnaire ou le réformateur ; cela donne dans les sciences le chercheur, et l’innovateur dans les arts, tout ce qui a compté dans la vie de l’Europe, tout ce qui s’y est fait un nom et un visage distinct. Soulignons maintenant que ce drame permanent entre le moi et le destin social, entre la personne libre et la fatalité, ne serait pas concevable hors d’un monde qui date ses années de la Crucifixion, hors d’un monde né avec cette religion qui fit dépendre le salut de l’homme, non point de l’observance des rites collectifs, mais de la conversion personnelle.</p>
                       <p class="p">La question du sens de nos vies, du sens particulier de chaque vie dans la vie, dénote et marque l’Occident, et plus spécifiquement l’Europe. On peut donc définir l’Europe comme <i class="i">cette partie de la planète où l’homme, sans relâche, se remet en question et veut changer le monde, de telle manière que sa vie personnelle y prenne un sens</i>.</p>
                     </section>
-                    <section id="body-2-7" class="div level2 level2">
+                    <section id="body-2-7" class="div level2">
                       <a class="pb" href="#pb47" id="pb47">[p. 47]</a>
-                      <h2 class="head">7. Une valeur absolue : la personne<a class="bookmark" href="2#body-2-7"> §</a></h2>
+                      <h2 class="head">7. Une valeur absolue : la personne</h2>
                       <p class="p autofirst">Comparée et contrastée avec les civilisations sacrées de l’Antiquité, les civilisations magiques de l’Asie et les modernes entreprises totalitaires, l’Europe nous apparaît comme une espèce de révolution permanente, révolution menée par la conscience humaine contre toutes les puissances qui oppriment ou qui nient le moi responsable et distinct. Lutte contre le destin natal, pour se forger une destinée ; contre les astres et les dieux écrasants ; contre la masse informe qui annule les personnes, mais aussi contre l’arbitraire et l’anarchie qui vident de sens l’effort de toute une vie ; lutte enfin contre les servitudes intimes du moi, afin de dominer ses mécanismes et d’en tirer une liberté plus haute. Or le fondement de cette révolution, son ressort et sa cause finale, c’est la notion de la <i class="i">valeur absolue de la personne humaine</i> — de chaque personne humaine.</p>
                       <p class="p">Pour beaucoup d’entre nous, l’expression est passée au rang de cliché. Mais l’historien jugera différemment. Pour ma part, je tenterai de faire voir comment l’idée du moi distinct, de la personne — à la fois mère et fille de l’Europe — forme nos vies, permet qu’elles aient un sens et donne leur intérêt, même affectif, à la plupart de nos activités. Ôtez le moi distinct, le droit d’être une personne, et du même coup nos vies n’auraient plus sel ni sens : voilà bien dans sa réalité la menace d’<i class="i">aliénation</i> qui pèse aujourd’hui sur l’Europe, que dis-je : sur l’espoir humain.</p>
                       <p class="p">
 <a class="pb" href="#pb48" id="pb48">[p. 48]</a>
 Ma thèse est simple. Elle consiste à rappeler que la plupart de nos valeurs et idéaux, à nous autres Européens, et la plupart de nos activités courantes, sérieuses ou non, dérivent de la notion de l’homme introduite par le christianisme. Je ne parle pas ici du converti, de l’homme chrétien au sens courant, du membre d’une église, plus ou moins pieux et plus ou moins moral. Je parle, d’une manière plus générale, du type d’homme (croyant ou non) que le christianisme a permis de concevoir, et qu’il a nommé la personne. Je dis que nos valeurs modernes, actuelles (le sens que nous donnons à nos activités), si elles ne traduisent pas toujours <i class="i">directement</i> cette notion de l’homme, en dérivent en tout cas d’une manière démontrable, fût-ce par une suite de laïcisations, ou même de dégradations, parfois aussi par extension plus ou moins abusive au plan collectif. Ces valeurs, ces activités, seraient proprement inconcevables sans la notion originelle de la personne. Mais plus inconcevable encore, ce qui les blesse. S’il se trouve que « <i class="i">je</i> est un autre », comme dit Rimbaud, on a là le modèle de toute aliénation. Mais s’il n’y a pas de <i class="i">je</i>, qui serait aliéné ? (Pour le bouddhiste, pour le cathare, pas d’autre aliénation que la naissance.) C’est la personne en moi, et c’est elle seule, qui est passible d’aliénation. Si vous n’y croyez pas, l’ordinateur est là.</p>
                     </section>
-                    <section id="body-2-8" class="div level2 level2">
-                      <h2 class="head">8. Révolution et passion<a class="bookmark" href="2#body-2-8"> §</a></h2>
+                    <section id="body-2-8" class="div level2">
+                      <h2 class="head">8. Révolution et passion</h2>
                       <p class="p autofirst">Prenons le phénomène de la <i class="i">révolution</i>, si typiquement européen. Révolution a le même sens que <i class="i">conversion</i> : c’est se retourner complètement. On 
 <a class="pb" href="#pb49" id="pb49">[p. 49]</a>
 peut dire que la révolution est, pour une collectivité, l’équivalent exact d’une conversion. Or, la conversion soudaine, radicale, changeant tout — le Chemin de Damas — est un phénomène caractéristique du christianisme. La notion de révolution a la même extension dans l’espace et le temps que le monde christianisé. L’Asiatique traditionnel, brahmaniste ou bouddhiste, ne peut la concevoir. Elle ne serait à ses yeux qu’indécence, blessure à l’ordre du cosmos, crime absurde. En Inde, les seuls hommes touchés par l’idéologie communiste sont restés longtemps ceux que l’Occident avait contaminés : jeunes intellectuels éduqués en Angleterre, ou peuples de la côte du Malabar, très anciennement christianisés. Pour admettre l’idée de la révolution et de sa fécondité possible, il faut avoir sucé avec le lait (celui d’une <i class="i">Alma Mater</i> tout au moins) les conceptions primitivement chrétiennes du changement brusque, du renouvellement possible de toutes choses ; et aussi de la liberté, de la justice, de la mission reçue et de leur valeur transcendante par rapport à l’ordre établi — toutes choses qui ont permis l’apparition du concept chrétien de personne. Les révolutionnaires ne peuvent se former que dans un monde qui tient la liberté et la vocation prophétique pour plus vraies que les lois sacrées et les intérêts de l’État.</p>
@@ -525,8 +557,8 @@ et grâce à la littérature, elle obsède nos rêves, elle met un « tourment 
 hors d’un monde où Pascal peut placer dans la bouche même du Christ cette phrase célèbre : « Je pensais à toi dans mon agonie ; j’ai versé telles gouttes de sang pour toi. » <i class="i">Pour toi</i>, non pour le genre humain en général, ni pour maintenir par la vertu magique d’un acte sacrificiel les rythmes du cosmos et les lois de la fécondité — on dirait aujourd’hui : pour favoriser le plan de production —, <i class="i">pour toi</i>, que vient distinguer, dans toute la masse des hommes de tous les temps, mon amour à jamais personnel.</p>
                       <p class="p">Ces deux exemples sont extrêmes. Nous ne sommes pas tous des révolutionnaires, ni les héros d’une grande passion mortelle, mais la révolution et la passion sont pour nous tous des repères décisifs. Nos vies sont orientées par rapport à ces pôles.</p>
                     </section>
-                    <section id="body-2-9" class="div level2 level2">
-                      <h2 class="head">9. Originalité et humour<a class="bookmark" href="2#body-2-9"> §</a></h2>
+                    <section id="body-2-9" class="div level2">
+                      <h2 class="head">9. Originalité et humour</h2>
                       <p class="p autofirst">Voici, plus près de nos vies quotidiennes, d’autres exemples : le besoin d’originalité et l’humour.</p>
                       <p class="p">Il y a dans notre goût de <i class="i">l’originalité</i> deux composantes : l’esprit de concurrence et le besoin d’exprimer son « vrai moi ». À partir d’un certain niveau de culture, en Occident, le non-conformiste est bien vu, tandis que la banalité disqualifie.</p>
                       <p class="p">Tout l’effort de l’artiste européen, depuis un siècle, tend à « faire du neuf » d’une manière personnelle. C’est même cela que nous nommons « créer ». Mais cette idée de l’originalité, dans les arts ou dans la conduite, ne signifie rien de raisonnable pour l’Asiatique, par exemple. Pour l’artiste hindou, comme pour le sculpteur de l’ancienne Égypte, ou 
@@ -536,8 +568,8 @@ l’architecte aztèque, ou le grand sorcier nègre, le problème est non pas de
 <a class="pb" href="#pb53" id="pb53">[p. 53]</a>
 et les routines, et contre le droit du plus fort, toutes choses qui se résument aujourd’hui dans le pouvoir anonyme de l’État. L’humour est la combustion lente de la révolte des individus. C’est pourquoi vous le chercheriez en vain dans toute l’Asie. Et vous n’en jouerez pas impunément dans les États totalitaires, où il se voit réduit à n’exprimer qu’une clandestinité désespérée. Et c’est enfin pourquoi les créateurs de la démocratie moderne attachent une pareille importance à la possession du <i class="i">sense of humour</i> : ils pensent que celui qui ne l’a pas n’a pas non plus le vrai sens de la vie. Je n’oublie pas que l’humour consiste à se moquer d’abord de soi-même. Mais avant de pouvoir rire de soi-même, il s’agit d’exister comme une personne consciente et de prendre une certaine distance par rapport à ce que l’on se voit être. Dans l’humour, c’est donc la personne qui juge son propre individu…</p>
                     </section>
-                    <section id="body-2-10" class="div level2 level2">
-                      <h2 class="head">10. Mesure du progrès par le risque<a class="bookmark" href="2#body-2-10"> §</a></h2>
+                    <section id="body-2-10" class="div level2">
+                      <h2 class="head">10. Mesure du progrès par le risque</h2>
                       <p class="p autofirst">Dernier exemple : <i class="i">le progrès</i>. Il est de mode aujourd’hui d’en douter. Les plus grands esprits de notre siècle, un Paul Valéry, un Eliot, un Toynbee, un Bergson l’ont fait ; et la majorité de nos élites les a suivis. Certes, nous pouvons railler les illusions du siècle des lumières et du siècle bourgeois capitaliste ; nous pouvons répéter que notre industrie aboutit à l’enlaidissement de la nature et de l’espèce, notre science à la bombe atomique, nos révolutions à l’État totalitaire ; que le progrès n’est donc nullement fatal ; qu’il n’est plus même un idéal européen, mais bien russe et américain, et tout cela semble 
 <a class="pb" href="#pb54" id="pb54">[p. 54]</a>
 bien vrai. Mais il n’est pas moins vrai que l’horizon d’un progrès toujours <i class="i">possible</i> reste vital pour l’homme européen ; et que nos vies perdraient leur sens, si vraiment nous cessions de croire qu’un lendemain plus vaste et libre reste ouvert. De plus, il serait faux de penser que notre idée européenne du progrès ait vraiment émigré en Russie ou en Amérique. Ce qu’on appelle « progrès », dans ces empires de masses, diffère profondément de notre idéal. Dans une dictature, par exemple, l’idée de progrès perdra nécessairement ce qui fait, à nos yeux, tout son prix : elle cessera d’être liée à l’idée de liberté, c’est-à-dire à la perspective d’une vie plus libre pour <i class="i">chacun</i> de nous, et bientôt elle ira se lier à l’idée de contrainte collective, négation même de son mouvement originel.</p>
@@ -550,8 +582,8 @@ devient possible : il traduit notre volonté d’échapper aux fatalités. Et n
 <a class="pb" href="#pb56" id="pb56">[p. 56]</a>
 non celle des autres, et non celle que l’État ou le parti a décidé de m’imposer toute faite. Si je perdais cette liberté fondamentale, alors vraiment ma vie n’aurait plus aucun sens.</p>
                     </section>
-                    <section id="body-2-11" class="div level2 level2">
-                      <h2 class="head">11. Vraie nature de nos diversités<a class="bookmark" href="2#body-2-11"> §</a></h2>
+                    <section id="body-2-11" class="div level2">
+                      <h2 class="head">11. Vraie nature de nos diversités</h2>
                       <p class="p autofirst">La pluralité des sources de la culture commune des Européens et les relations d’exclusion, de complémentarité ou d’inclusion, que l’on observe entre les valeurs portées par tous ces courants confluents, nous donnent une idée de la quantité presque infinie des combinaisons plus ou moins stables qui peuvent en résulter théoriquement. Chacune pourrait fonder une communauté qui serait l’expression d’un dosage singulier. Il en résulterait autant de clans, de gangs, de communes ou de petits États. De fait, et très souvent, une cité, une région ou une petite république se sont trouvées coïncider avec une de ces combinaisons plus ou moins stables : les Waldstätten aux origines de la Suisse, Berne ou Genève, Venise et Rhodes, Saint-Marin et Mantoue, Lübeck et Weimar, États-cités aussi divers et contrastés que l’avaient été Athènes et Sparte. Cependant, même là, le plus souvent, et toujours dans les grandes nations, les valeurs de l’héritage commun ne cessent jamais d’être présentes, actuelles ou potentielles en mélanges variables. En sorte que jamais aucune d’elles isolée, ni aucune de leurs combinaisons plus ou moins stables, n’a pu suffire à caractériser un seul État dans ses frontières politiques, ni une seule de ces « personnalités nationales » (en réalité étatiques) dont les ministres de tous nos pays proclament sans 
 <a class="pb" href="#pb57" id="pb57">[p. 57]</a>
 se lasser qu’elles constituent nos plus « précieuses diversités », confondant ainsi sans scrupules la vie de l’esprit et l’organisation de la police et du fisc.</p>
@@ -561,8 +593,8 @@ se lasser qu’elles constituent nos plus « précieuses diversités », confo
                       <p class="p">– qu’elles sont présentes et agissantes dans toute l’Europe sans nul respect pour les frontières étatiques ;</p>
                       <p class="p">– et enfin qu’il n’y a pas de cultures nationales.</p>
                     </section>
-                    <section id="body-2-12" class="div level2 level2">
-                      <h2 class="head">12. L’Europe comme source d’énergie<a class="bookmark" href="2#body-2-12"> §</a></h2>
+                    <section id="body-2-12" class="div level2">
+                      <h2 class="head">12. L’Europe comme source d’énergie</h2>
                       <p class="p autofirst">Ce qui a fait que l’Europe, « petit cap asiatique », a découvert la terre entière sans être jamais découverte, et a soumis les continents l’un après l’autre sans qu’aucun, jusqu’ici, ne l’ait soumise, c’est une espèce particulière de dynamisme, la résultante d’un complexe de forces sans précédent dans l’histoire des civilisations. Or toute force naît d’une tension, toute tension d’une différence maintenue, d’une contradiction déclarée défiant et stimulant les énergies. Et si l’Europe a été pendant cinq siècles « la perle de la sphère et le cerveau d’un vaste corps<a class="noteref" href="2#note12" id="note12_"><sup>12</sup></a> », si « cette étroite presqu’île qui ne figure sur le globe 
 <a class="pb" href="#pb58" id="pb58">[p. 58]</a>
 que comme un appendice à l’Asie est devenue la métropole du genre humain<a class="noteref" href="2#note13" id="note13_"><sup>13</sup></a> », c’est au seul « pouvoir de l’esprit humain » qu’elle le doit de toute évidence. Obéissant à cette force des choses qui n’est souvent que l’inertie de notre esprit, elle fût restée ce qu’elle est matériellement : 4 % des terres émergées de la planète.</p>
@@ -576,16 +608,32 @@ que comme un appendice à l’Asie est devenue la métropole du genre humain<a c
                       <p class="p">
 <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
 La première oppose des termes tout à la fois antinomiques et valables :</p>
-                      <p class="p left">– spirituel et temporel ; <br class="lb"/>– liberté et responsabilité ; <br class="lb"/>– innovation et tradition ; <br class="lb"/>– personne et communauté ; <br class="lb"/>– autonomie et union ; <br class="lb"/>– gauche et droite ; <br class="lb"/>– midi et nord ; <br class="lb"/>– évangélisme et ritualisme ; <br class="lb"/>– romantisme et classicisme ; <br class="lb"/>– révolution et réformisme ; <br class="lb"/>– mythe et science ; <br class="lb"/>– hérésie créatrice et saine orthodoxie ; <br class="lb"/>– goût du risque et besoin de sécurité.</p>
+                      <p class="p left">– spirituel et temporel ;
+            <br class="lb"/>– liberté et responsabilité ;
+            <br class="lb"/>– innovation et tradition ;
+            <br class="lb"/>– personne et communauté ;
+            <br class="lb"/>– autonomie et union ;
+            <br class="lb"/>– gauche et droite ;
+            <br class="lb"/>– midi et nord ;
+            <br class="lb"/>– évangélisme et ritualisme ;
+            <br class="lb"/>– romantisme et classicisme ;
+            <br class="lb"/>– révolution et réformisme ;
+            <br class="lb"/>– mythe et science ;
+            <br class="lb"/>– hérésie créatrice et saine orthodoxie ;
+            <br class="lb"/>– goût du risque et besoin de sécurité.</p>
                       <p class="p">La seconde est formée d’antithèses aux deux termes également condamnables, comme :</p>
-                      <p class="p left">– étatisme centralisateur et esprit de clocher ; <br class="lb"/>– dirigisme rigide et libéralisme sans frein ; <br class="lb"/>– individualisme et collectivisme <br class="lb"/>– anarchie et tyrannie ; <br class="lb"/>– uniformisation et séparatisme.</p>
+                      <p class="p left">– étatisme centralisateur et esprit de clocher ;
+            <br class="lb"/>– dirigisme rigide et libéralisme sans frein ;
+            <br class="lb"/>– individualisme et collectivisme
+            <br class="lb"/>– anarchie et tyrannie ;
+            <br class="lb"/>– uniformisation et séparatisme.</p>
                       <p class="p">Les antithèses de cette seconde série enrayent l’histoire, accroissent l’entropie, et devraient être éliminées par leur transposition terme à terme au plan du conflit créateur : ainsi le couple <i class="i">individualisme-collectivisme</i>, qui est en fait un cercle vicieux, peut s’ouvrir une fois transposé au plan de l’interaction <i class="i">personnes-communauté</i>, antinomie féconde qui doit être maintenue.</p>
                       <p class="p">Mais ces diversités, tensions et antinomies seules créatrices, il est radicalement exclu qu’elles aient jamais coïncidé avec le territoire actuel d’un seul de nos États-nations : au contraire, elles traversent et animent chacun d’eux, et ce serait à chacun d’eux 
 <a class="pb" href="#pb60" id="pb60">[p. 60]</a>
 de respecter dans son sein ces vraies diversités, mais c’est exactement le contraire qu’ils font.</p>
                     </section>
-                    <section id="body-2-13" class="div level2 level2">
-                      <h2 class="head">13. Diversités fécondes et divisions anarchiques<a class="bookmark" href="2#body-2-13"> §</a></h2>
+                    <section id="body-2-13" class="div level2">
+                      <h2 class="head">13. Diversités fécondes et divisions anarchiques</h2>
                       <p class="p autofirst">Le véritable sens du mot nation, avant que le <span class="num">xix<sup class="sup">e</sup></span> siècle ne l’ait étatisé, était donné par des réalités ethniques et linguistiques. Respecter les « personnalités nationales », c’était donc proprement respecter les personnalités de la Bretagne et de l’Écosse, du Pays basque et du Pays de Galles, de la Catalogne, de l’Occitanie, de l’Alsace, etc. Or, les États-nations français, espagnol et anglais, qui insistent tant pour qu’on respecte leur « personnalité » synthétique, se sont formés précisément au mépris de la personnalité authentique des nations qu’ils ont unifiées par coups de force. Seule l’union de l’Europe au-delà des États permettra de restaurer ces vraies nations. La cause des « personnalités nationales » est liée à la cause de l’Europe fédérée dans le respect des diversités, et non pas au maintien d’appareils étatiques formés sur le modèle napoléonien, et qui n’ont guère d’autre existence qu’administrative dans les faits, et scolaire dans les esprits.</p>
                       <p class="p">Les États-nations en tant que tels n’ont rien apporté de valable à cette culture qui a fait la force et la grandeur de l’Europe. Au siècle qui les a vus naître et s’imposer, le dix-neuvième, tout ce qui compte pour l’esprit refuse de compter avec aucun d’entre eux. Ce n’est pas le Danemark qui compte pour Kierkegaard ou qui nous intéresse en lui. Nietzsche maudit le « nationalisme bovin » de nos 
 <a class="pb" href="#pb61" id="pb61">[p. 61]</a>
@@ -593,9 +641,9 @@ pays, il n’y voit qu’une maladie d’esprits fatigués, il refuse de vivre e
                       <p class="p">S’il est vrai que les diversités, voire les contradictions de notre culture, ont été le ressort de notre histoire, les États-nations modernes n’ont fait que le malheur de l’Europe : ils ont produit la ruée colonialiste à partir des années 1880, trente-huit millions de morts en deux guerres, la chute d’un prestige millénaire et notre humiliation devant les empires neufs.</p>
                       <p class="p">La « personnalité » de nos États-nations, qu’elle soit hexagonale ou insulaire, en forme de botte ou de peau de taureau, est finalement la moins sociable de toutes celles qui prétendent à notre respect. À vouloir l’invoquer pour retarder l’union, on court le risque de la faire apparaître aux yeux des peuples comme un facteur, non de <i class="i">diversité</i> féconde, mais de <i class="i">division</i> anarchique du continent, au seul profit de l’unification impérialiste des régions.</p>
                     </section>
-                    <section id="body-2-14" class="div level2 level2">
+                    <section id="body-2-14" class="div level2">
                       <a class="pb" href="#pb62" id="pb62">[p. 62]</a>
-                      <h2 class="head">14. Il n’y a pas de « cultures nationales »<a class="bookmark" href="2#body-2-14"> §</a></h2>
+                      <h2 class="head">14. Il n’y a pas de « cultures nationales »</h2>
                       <p class="p autofirst">Ce qui s’oppose à l’union de l’Europe et à la formation d’une conscience commune — condition préalable de tout civisme européen — c’est le nationalisme ; et chacun sait que le nationalisme a été propagé par l’école et ses manuels depuis le milieu du <span class="num">xix<sup class="sup">e</sup></span> siècle. Les manuels de mon enfance — histoire et géographie, mais histoire de l’art aussi — présentaient l’Europe comme un puzzle de nations et sa culture comme l’addition d’une vingtaine de « cultures nationales » bien distinctes, autonomes et rivales.</p>
                       <p class="p">Cette conception n’est pas seulement responsable des guerres absurdes, justifiées aux yeux des masses par le chauvinisme culturel — les Français de 1914 croyaient défendre la Civilisation contre les Allemands qui croyaient défendre leur Kultur —, elle se dissipe comme brume au soleil à la lumière de l’Histoire, et particulièrement de l’histoire des arts, de la peinture et de la musique.</p>
                       <p class="p">La musique naît avec le chant grégorien — premier langage musical européen — au <span class="num">vi<sup class="sup">e</sup></span> siècle en Italie, s’enrichit au couvent de Saint-Gall avec les séquences et les tropes de Notker et de Tuotilo, se constitue d’une manière autonome avec les troubadours du Languedoc, dès le <span class="num">xii<sup class="sup">e</sup></span> siècle, à Saint-Martial de Limoges, à Notre-Dame de Paris, puis plus tard en Champagne et dans le Nord — Philippe de Vitry, Guillaume de Machaut — et à Florence simultanément — laudi et madrigaux —, enfin à la cour de Bourgogne et dans les Flandres. Entre les cités flamandes et les 
@@ -607,8 +655,8 @@ cités italiennes, le long du grand axe commercial de la Renaissance, celui qui 
 toutes au départ, il n’est pas une seule des branches de notre culture qui ne résulte de mille échanges, tissant l’œuvre commune des Européens ; et il n’en est pas une seule que l’on puisse étudier d’une manière sérieuse ou intelligible dans le champ limité par les frontières d’une seule de nos nations actuelles. Il n’y a pas plus de « peinture française » que de « chimie allemande » ou de « mathématiques soviétiques », car avant tous ces découpages arbitraires, il y a la grande communauté de créations et d’influences mutuelles qui s’appellera toujours l’Europe dans l’histoire de l’esprit humain.</p>
                       <p class="p">Ô maîtres tout-puissants du degré secondaire ! montrer cela sans relâche et en toute occasion à vos élèves, ce n’est pas seulement faire de l’histoire honnête, après un siècle de falsification nationaliste des perspectives, c’est aussi faire l’Europe dans les jeunes esprits, et c’est montrer son unité fondamentale, base de l’union qu’il reste à faire.</p>
                     </section>
-                    <section id="body-2-15" class="div level2 level2">
-                      <h2 class="head">15. Vingt langues, une littérature<a class="bookmark" href="2#body-2-15"> §</a></h2>
+                    <section id="body-2-15" class="div level2">
+                      <h2 class="head">15. Vingt langues, une littérature</h2>
                       <p class="p autofirst">Je ne pense pas du tout que l’enseignement des langues et des littératures étrangères doive se proposer « d’inspirer à l’élève le respect des peuples étrangers », comme le voudrait une directive ministérielle animée des plus nobles intentions. Ce qu’il s’agit d’inspirer à l’élève, c’est le respect des <i class="i">auteurs</i>, et non des peuples. Un peuple n’écrit rien, ne produit pas de littérature. Il arrive à l’inverse qu’un État national au sens moderne soit en partie le produit de certains auteurs et des propagandes qui s’en sont inspirées. De même, ce n’est pas le génie de la France 
 <a class="pb" href="#pb65" id="pb65">[p. 65]</a>
 du Grand Siècle qui a fait Racine ; c’est plutôt à cause de Racine qu’on parle du Grand Siècle, pour désigner une période des plus sombres de notre histoire occidentale.</p>
@@ -638,8 +686,8 @@ le tableau, le portrait, l’exposition, le musée, ou en musique l’harmonie e
 romantisme, réalisme, impressionnisme, cubisme, surréalisme, abstraction, etc. — et les correspondances de ces styles et mouvements dans tous les arts : peinture, sculpture, architecture, musique.</p>
                       <p class="p">Là encore, l’unité nationale joue un rôle faible ou nul avant le <span class="num">xix<sup class="sup">e</sup></span> siècle, et elle n’existe plus au <span class="num">xx<sup class="sup">e</sup></span> siècle : l’École de Paris, en peinture, n’est pas « française », et le style dodécaphonique ou sériel n’est pas plus « autrichien » que le ballet russe ne fut « russe », ou le dadaïsme « suisse ».</p>
                     </section>
-                    <section id="body-2-16" class="div level2 level2">
-                      <h2 class="head">16. Mais la diversité des langues ?<a class="bookmark" href="2#body-2-16"> §</a></h2>
+                    <section id="body-2-16" class="div level2">
+                      <h2 class="head">16. Mais la diversité des langues ?</h2>
                       <p class="p autofirst">C’est l’argument qui obnubile le grand nombre, depuis l’avènement presque simultané du romantisme, du nationalisme, de l’instruction publique et de la grande presse, qui doit tous ses lecteurs à l’école.</p>
                       <p class="p">Mais il suffit de situer ce phénomène dans une perspective mondiale pour le ramener à ses justes proportions.</p>
                       <p class="p"><i class="i">a)</i> Nos langues littéraires, en Europe, sont étroitement apparentées (à la seule exception du groupe finno-ougrien) par leurs racines indo-européennes, grecques, latines, et par leurs emprunts mutuels dans l’ère moderne. Ce n’est pas le cas pour l’Inde, encore moins pour la Chine, dont souvent les « grandes langues » (quatorze dans les deux cas) sont radicalement différentes les unes des autres, je veux dire : sans racines ou « antiquités » communes. Trois Indiens dont l’un parle l’urdu, l’autre le kanada, un troisième le tamil, ne peuvent s’entendre qu’en anglais, et Nehru leur parlait en anglais. Les Chinois recourent 
@@ -658,9 +706,9 @@ qu’apparaît dans toute sa fécondité la communauté littéraire de l’Europ
                       </blockquote>
                       <p class="p autofirst">Aux nationalistes maussades ou agressifs, conservateurs frileux et puristes méfiants de toutes nos langues (mais surtout de la française) qui prétendent redouter que l’Europe unie de demain soit un affreux méli-mélo où l’on ne parle plus que l’espéranto ou le « volapuk » des utopistes détestés, je propose de répondre simplement ceci : que les fédéralistes européens s’engagent à ne jamais faire aux nations quelles qu’elles soient ce que les unitaires et centralisateurs qui les combattent au nom de l’indépendance et de la diversité des traditions ont fait eux-mêmes aux régions de leur État. Il n’y aura pas d’édit de Villers-Cotterêts dans une Europe fédérée.</p>
                     </section>
-                    <section id="body-2-17" class="div level2 level2">
+                    <section id="body-2-17" class="div level2">
                       <a class="pb" href="#pb72" id="pb72">[p. 72]</a>
-                      <h2 class="head">17. Pour un Petit Livre Rouge européen<a class="bookmark" href="2#body-2-17"> §</a></h2>
+                      <h2 class="head">17. Pour un Petit Livre Rouge européen</h2>
                       <p class="p autofirst">Le problème du nationalisme comme résultat de l’éducation scolaire nous amène à poser le problème d’une éducation pour l’Europe.</p>
                       <p class="p">Comment former des citoyens et un civisme européens tant qu’il n’y a pas de cité européenne ?</p>
                       <p class="p">Cercle vicieux pour ceux-là seuls qui ne demandent qu’à croire qu’ils y sont enfermés. Au-delà des impasses logiques, le désir bâtit la cité. Le désir d’habiter une ville, d’y circuler à l’aise et en sécurité, d’y échanger des propos et des produits et de participer à son gouvernement, le désir d’être citoyen pousse à construire la ville, qui à son tour formera des traditions civiques et le besoin d’en changer.</p>
@@ -697,8 +745,8 @@ sous les pas des hommes politiques et des économistes. Car <i class="i">avant d
                       <p class="p">Oui, mais ce serait <i class="i">le livre des questions réelles</i> éveillant le sens critique et le besoin d’invention, tandis que l’autre, que j’ai sous les yeux, n’est qu’un recueil de réponses toutes faites, uniformément optimistes, et propres à stériliser toute tentative de réflexion ou de création personnelle.</p>
                       <p class="p">Notre « petit livre rouge » poserait toutes les questions qui résultent de l’examen objectif de la situation, et je suis bien certain qu’il révélerait de la sorte la nécessité de l’union, et même les formes spécifiques quelle devrait et pourrait prendre. Il fourmillerait de points d’interrogation ! Il ne dirait jamais : « Right or wrong, our Europe ! », mais ferait voir que l’Europe risque d’être détruite par ce qui tue l’esprit critique, déprime le goût de la liberté, étouffe le cri de la justice, plus sûrement que par ceux qui attaquent notre culture démocratique au nom des idéaux qu’elle seule leur enseigna.</p>
                     </section>
-                    <section id="body-2-18" class="div level2 level2">
-                      <h2 class="head">18. L’éducation européenne<a class="bookmark" href="2#body-2-18"> §</a></h2>
+                    <section id="body-2-18" class="div level2">
+                      <h2 class="head">18. L’éducation européenne</h2>
                       <p class="p autofirst">Faire de l’Europe avant de faire l’Europe : c’est aussi dire qu’il s’agit moins d’enseigner l’union de 
 <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
 l’Europe que d’éduquer dans nos enfants l’Européen, par le style même de l’éducation.</p>
@@ -718,8 +766,8 @@ au savoir, de l’instinct à la raison critique, du royaume du sacré indiscuta
                       <p class="p">J’ai dit que les deux termes d’initiation et d’initiative marquent deux attitudes extrêmes, l’une autoritaire et l’autre libérale. N’allons pas croire, pourtant, que l’humanité devait fatalement passer de l’une à l’autre en vertu de quelque loi de l’Histoire, et que par suite l’autorité serait quelque chose de « périmé », de « réactionnaire », et en tout cas de condamnable, tandis que la liberté serait moderne, progressiste et louable en tous les cas. Car en fait toute éducation digne du nom comporte les deux éléments à doses variables. Autorité et liberté sont aussi nécessaires à la vie de l’éducation que la diastole et la systole du cœur à la circulation sanguine, ou que l’attraction et la répulsion à l’animation de l’énergie nucléaire, des courants électriques, de la vie amoureuse.</p>
                       <p class="p">Cependant le dosage varie, et ses variations déterminent les conceptions de l’éducation, selon le type d’hommes qu’elle veut former.</p>
                     </section>
-                    <section id="body-2-19" class="div level2 level2">
-                      <h2 class="head">19. Parabole des trois colombes<a class="bookmark" href="2#body-2-19"> §</a></h2>
+                    <section id="body-2-19" class="div level2">
+                      <h2 class="head">19. Parabole des trois colombes</h2>
                       <p class="p autofirst">Du point de vue de la culture au sens large, trois régions se sont dessinées au cours du second tiers du <span class="num">xx<sup class="sup">e</sup></span> siècle : l’Europe, l’URSS et les USA. Elles se définissent aisément selon le dosage d’autorité et de liberté qu’elles ménagent dans l’éducation.</p>
                       <p class="p">Les <i class="i">États-Unis d’Amérique</i> se caractérisent par la prédominance très marquée de la liberté sur l’autorité. 
 <a class="pb" href="#pb80" id="pb80">[p. 80]</a>
@@ -747,8 +795,8 @@ et la stérilisation des élites futures. L’idéal directeur d’une éducatio
 <a class="pb" href="#pb85" id="pb85">[p. 85]</a>
 n’a pas reçu de programme invariable. Elle doit choisir sans cesse, résister aux courants, prendre ses risques. À vrai dire, on ne l’a préparée qu’à « voler de ses propres ailes ».</p>
                     </section>
-                    <section id="body-2-20" class="div level2 level2">
-                      <h2 class="head">20. L’Europe a-t-elle tout inventé ?<a class="bookmark" href="2#body-2-20"> §</a></h2>
+                    <section id="body-2-20" class="div level2">
+                      <h2 class="head">20. L’Europe a-t-elle tout inventé ?</h2>
                       <p class="p autofirst">Le dynamisme de notre culture, résultant d’un complexe de tensions intérieures, et le mouvement brownien de nos contradictions nous provoquent d’âge en âge à créer, à émigrer, à exporter, et nous condamnent à l’expansion. Que ce mouvement ait été baptisé impérialisme paraît accidentel et relatif : toute énergie, toute force physique ou spirituelle peut être qualifiée d’impérialiste par les objets ou individus qui la subissent, mais c’est la condition même de la vie, la loi, fort peu sentimentale, de l’amour.</p>
                       <p class="p">Nous avons presque tout inventé.</p>
                       <p class="p">L’espace d’abord. Ce sont les Européens qui ont <i class="i">découvert la terre entière</i>, alors qu’aucun autre peuple ne songeait à venir les découvrir. Ce sont eux qui ont ainsi permis à l’humanité tout entière de prendre peu à peu conscience de son unité. <i class="i">L’idée d’universalité</i> a peut-être existé chez les sages de plusieurs autres cultures, mais ce sont les Européens qui lui ont donné son contenu concret et qui ont seuls démontré sa consistance. <i class="i">L’idée de genre humain</i> est notre création.</p>
@@ -767,8 +815,8 @@ leurs grands noms sont des noms de l’Europe, et les très rares qui n’en son
 qu’activités profanes, et tous leurs procédés et un peu de leur logique… Mais l’Europe n’a pas exporté sa dialectique autorégulatrice, faite d’équilibres sans cesse remis en question, de tragédies entrecroisées, d’innombrables tensions, déchirantes et fécondes.</p>
                       <p class="p">Le monde entier reçoit avec avidité nos machines, nos doctrines, nos remèdes et nos poisons, et beaucoup de nos secrets de puissance matérielle — en un mot, le monde reçoit nos <i class="i">produits</i>. Mais il ne reçoit pas les <i class="i">valeurs</i> religieuses, éthiques et philosophiques, qui expliquent seules la genèse de ces produits, et qui seules permettraient de les maintenir en composition. Il choisit nos produits les plus douteux — le nationalisme, par exemple — et les retourne contre nous. Il s’occidentalise dans ses apparences : usines, hygiène, costumes, transports, urbanisme et architecture. Mais il méprise, ou ignore simplement notre psychologie et notre spiritualité. Il exige nos machines, mais refuse notre éthique du travail. Il veut que nous l’aidions à mieux vivre, mais dédaigne l’amour du prochain.</p>
                     </section>
-                    <section id="body-2-21" class="div level2 level2">
-                      <h2 class="head">21. L’Europe et le monde : position du problème<a class="bookmark" href="2#body-2-21"> §</a></h2>
+                    <section id="body-2-21" class="div level2">
+                      <h2 class="head">21. L’Europe et le monde : position du problème</h2>
                       <p class="p autofirst">Voici donc ce que l’Europe a créé, voilà ce qu’elle offre au monde entier, et elle ne peut faire autrement, car toutes les créations que je viens d’énumérer sont <i class="i">en expansion vers le monde</i>, appellent le monde, s’en nourrissent, et toutes préparent son unité, après avoir exploité ses divisions.</p>
                       <p class="p">La question reste de savoir si cette unité fomentée 
 <a class="pb" href="#pb89" id="pb89">[p. 89]</a>
@@ -781,8 +829,8 @@ par la culture européenne ne va pas se réaliser aux dépens de l’Europe et �
 <a class="pb" href="#pb90" id="pb90">[p. 90]</a>
 ramifications la pathétique nécessité d’un refus sans doute vital, et non moins vain ?</p>
                     </section>
-                    <section id="body-2-22" class="div level2 level2">
-                      <h2 class="head">22. L’Asie sourde à nos mélodies<a class="bookmark" href="2#body-2-22"> §</a></h2>
+                    <section id="body-2-22" class="div level2">
+                      <h2 class="head">22. L’Asie sourde à nos mélodies</h2>
                       <p class="p autofirst">L’énoncé des plus hautes valeurs européennes tient dans l’œuvre de Bach et dans celle de Mozart. Les Messes et les Passions réduisent à peu de chose toute tentative verbale pour exprimer ce que l’homme européen a conçu de plus pur, de plus fort et de plus exaltant. Voilà l’Europe suprême, elle n’ira pas plus haut, peut-être, mais qui serait en mesure d’exiger davantage ou de proposer mieux dans le monde d’aujourd’hui ?</p>
                       <p class="p">Certes, l’Europe réelle est loin de tels sommets, mais ce sont tout de même <i class="i">ses</i> sommets. Elle n’est pas souvent digne de ces œuvres, mais c’est elle qui les a créées. Nous l’oublions souvent et les autres l’ignorent ; ils voient plus facilement ce qui est beaucoup plus bas, au niveau du contact brutal entre leurs coutumes et nos armes, leur sagesse ancestrale et nos machines. Nos péchés sont criants, et tout l’Orient les crie, mais il n’entend pas nos grandeurs. Car la musique est le sublime de l’Occident, mais pour l’oreille d’un Oriental, c’est un bruit vague, une espèce de rumeur insensée…</p>
                       <p class="p">Seulement, elle est issue du même complexe, et elle répond dans le monde de l’âme au même défi que la science dans le monde des corps et de l’intellect. Les structures musicales se raccordent au psychisme de l’homme européen qui a conçu les machines et la personne.</p>
@@ -798,8 +846,8 @@ autres Européens, vous nous envoyez des machines-outils ; c’est très joli, 
                       <p class="p">Il nous reste à trouver des compromis viables, aussi imprévisibles qu’un poème, à les imaginer dans l’improvisation, la générosité, l’astuce et la prière. C’est l’une des tâches cruciales de cette fin de siècle. Et c’est sans doute la première fois dans toute l’Histoire qu’<i class="i">un même problème se pose au même moment à l’humanité tout entière</i>.</p>
                       <p class="p">Nous voici sur le seuil périlleux de l’ère mondiale. La crise de notre civilisation, provoquée par son expansion même — mais incomplète — va-t-elle devenir « mortelle », comme l’ont prédit depuis un siècle à peu près tous nos grands penseurs ?</p>
                     </section>
-                    <section id="body-2-23" class="div level2 level2">
-                      <h2 class="head">23. Les prophètes de la décadence<a class="bookmark" href="2#body-2-23"> §</a></h2>
+                    <section id="body-2-23" class="div level2">
+                      <h2 class="head">23. Les prophètes de la décadence</h2>
                       <p class="p autofirst">Le <span class="num">xx<sup class="sup">e</sup></span> siècle a vu la civilisation — qui ne saurait être que la nôtre, quand on en parle au singulier — étendre à toute la terre ses bienfaits, ses méfaits, ses produits, rarement ses valeurs, et toujours ses vulgarités.</p>
                       <p class="p">Mais en même temps, le <span class="num">xx<sup class="sup">e</sup></span> siècle a vu se multiplier 
 <a class="pb" href="#pb93" id="pb93">[p. 93]</a>
@@ -837,8 +885,8 @@ parler d’une éclipse ou d’une mort prévisible de notre civilisation ?</p>
 unique, le Sacré. Les civilisations totalitaires d’aujourd’hui, URSS ou Chine de Mao, tiennent leur unité d’une doctrine uniforme, imposée à tous par l’État. Comparée à ces deux groupes de cultures homogènes, uniformes et sacrées, la culture de l’Europe nous apparaît immédiatement comme à la fois <i class="i">pluraliste</i> et <i class="i">profane</i>.</p>
                       <p class="p">À cause de ses origines multiples, à cause des valeurs souvent contradictoires ou incompatibles qu’elle en a héritées, la civilisation européenne s’est trouvée fondée sur une culture de dialogue et de contestation. Elle n’a jamais pu, et surtout, elle n’a jamais voulu, se laisser ordonner à une seule doctrine qui eût régi à la fois ses institutions, sa religion, sa philosophie, sa morale, son économie et ses arts. On a beau citer le Moyen Âge comme une période bénie d’unité des esprits et des cœurs, telle que l’a décrite Novalis : nous savons aujourd’hui qu’il n’en fut rien, et que les conflits qui déchirèrent le Moyen Âge ne furent pas moins violents que ceux que nous vivons. L’unité de notre culture et de la civilisation créée par cette culture n’a jamais été autre chose qu’une unité paradoxale consistant dans la seule volonté commune à tous de refuser l’uniformité.</p>
                     </section>
-                    <section id="body-2-24" class="div level2 level2">
-                      <h2 class="head">24. Où sont les candidats à la relève ?<a class="bookmark" href="2#body-2-24"> §</a></h2>
+                    <section id="body-2-24" class="div level2">
+                      <h2 class="head">24. Où sont les candidats à la relève ?</h2>
                       <p class="p autofirst">Aux prophètes de la décadence européenne, j’opposerai trois raisons majeures d’espérer, c’est-à-dire d’agir pour l’Europe.</p>
                       <p class="p">Première raison : <i class="i">La civilisation européenne est la seule qui soit effectivement devenue universelle.</i></p>
                       <p class="p">
@@ -870,8 +918,8 @@ En électrifiant le pays, le communisme a renouvelé l’entreprise de Pierre le
             trop rapide des formes de vie politique, sociale et économique, élaborées par l’Europe moderne. Résumons cela : je vois l’Asie du Sud, sous-développée, courir après l’exemple de la Chine, qui essaie d’imiter la Russie, laquelle veut rejoindre l’Amérique, qui est une invention de l’Europe…</p>
                       <p class="p">Où est donc dans tout cela « l’éclipse » de l’Europe comme culture ? Dans l’esprit de ses intellectuels, et pas ailleurs.</p>
                     </section>
-                    <section id="body-2-25" class="div level2 level2">
-                      <h2 class="head">25. Le péril blanc<a class="bookmark" href="2#body-2-25"> §</a></h2>
+                    <section id="body-2-25" class="div level2">
+                      <h2 class="head">25. Le péril blanc</h2>
                       <p class="p autofirst">Devant le recul ou la métamorphose prévisible du péril rouge, déguisé par les Russes en coexistence pacifique — nom qui aurait fait frémir Lénine ! — on reparle d’un péril jaune, en attendant le péril noir. Je n’y crois guère. Notre éclipse n’est rien 
 <a class="pb" href="#pb104" id="pb104">[p. 104]</a>
 que notre aveuglement sur nos propres pouvoirs et notre vocation. Aux yeux du monde, il n’y a qu’un seul péril sérieux : <i class="i">le péril blanc</i>. La civilisation européenne, devenue mondiale, n’est menacée en fait que par les maladies qu’elle a produites et propagées elle-même. C’est dans ses sources, c’est au foyer de sa vitalité créatrice, c’est en Europe, que ce péril doit être conjuré.</p>
@@ -1140,6 +1188,20 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>26. Traduire l’unité en union – 27. Fédéralisme et sens de l’histoire – 28. Malentendus tragiques et ridicules sur le sens du « fédéralisme » – 29. Deux en un, sans confusion ni séparation – 30. Solitaire et solidaire – 31. Principes de l’analyse fédéraliste – 32. Les unités de base – 33. Le fédéralisme commence</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	26. Traduire l’unité en union (1970, Lettre ouverte aux Européens)
+body-3-2	27. Fédéralisme et sens de l’histoire (1970, Lettre ouverte aux Européens)
+body-3-3	28. Malentendus tragiques et ridicules sur le sens du « fédéralisme » (1970, Lettre ouverte aux Européens)
+body-3-4	29. Deux en un, sans confusion ni séparation (1970, Lettre ouverte aux Européens)
+body-3-5	30. Solitaire et solidaire (1970, Lettre ouverte aux Européens)
+body-3-6	31. Principes de l’analyse fédéraliste (1970, Lettre ouverte aux Européens)
+body-3-7	32. Les unités de base (1970, Lettre ouverte aux Européens)
+body-3-8	33. Le fédéralisme commence (1970, Lettre ouverte aux Européens)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1149,9 +1211,9 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb108" id="pb108">[p. 108]</a>
-                    <h1 class="head chapter">II. L’union fédérale<a class="bookmark" href="3"> §</a></h1>
-                    <section id="body-3-1" class="div level2 level2">
-                      <h2 class="head">26. Traduire l’unité en union<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                    <h1 class="head chapter">II. L’union fédérale</h1>
+                    <section id="body-3-1" class="div level2">
+                      <h2 class="head">26. Traduire l’unité en union</h2>
                       <p class="p autofirst">Si l’on me demande maintenant comment on peut traduire en termes de structures politiques cette union non unitaire et si hautement diversifiée que fonde notre culture commune, je répondrai que la solution se trouve dans les termes mêmes du problème ainsi posé : car l’unité différenciée se transpose tout naturellement en union des diversités, et cette forme d’union porte un nom bien connu dans l’histoire des régimes politiques, c’est de toute évidence <i class="i">fédéralisme</i>.</p>
                       <p class="p">Je ne vois pas d’autre formule qui réponde à la double exigence du respect des données multiples constituant spécifiquement l’Europe, et de l’instauration d’une force suffisante pour garantir leur concurrence féconde dans la paix. Je ne vois pas d’autre réponse imaginable au défi que l’Histoire nous pose dans les termes les plus pressants et sans échappatoires possibles désormais : l’unir, au-delà de nos fausses souverainetés, pour préserver nos vraies diversités, créer un pouvoir fédéral pour la sauvegarde de nos autonomies. Car ces autonomies 
 <a class="pb" href="#pb109" id="pb109">[p. 109]</a>
@@ -1161,8 +1223,8 @@ seront perdues une à une si elles refusent l’union qui ferait leur seule forc
                       <p class="p">Quel est l’obstacle apparemment insurmontable à cette union que tout indique, que tout exige, que tout le monde admet qu’il faut faire — et que pourtant personne ne fait ?</p>
                       <p class="p">Il y en a deux, en vérité. L’un tient au sens des mots, l’autre au sens de l’histoire, j’entends bien : au sens qu’on leur donne, abusivement, et non pas à un sens intrinsèque détenu dans sa prison par quelque orthodoxie.</p>
                     </section>
-                    <section id="body-3-2" class="div level2 level2">
-                      <h2 class="head">27. Fédéralisme et sens de l’histoire<a class="bookmark" href="3#body-3-2"> §</a></h2>
+                    <section id="body-3-2" class="div level2">
+                      <h2 class="head">27. Fédéralisme et sens de l’histoire</h2>
                       <p class="p autofirst">En 1863 paraissait le dernier grand ouvrage de Proudhon, <i class="i">Du principe fédératif</i>, où l’on pouvait lire cette phrase devenue célèbre : « <i class="i">Le vingtième siècle ouvrira l’ère des fédérations, ou l’humanité recommencera un purgatoire de mille ans.</i> » Dans quelle voie sommes-nous engagés après un siècle ? Celle des fédérations et de l’harmonie des peuples, ou celle d’une renaissance des particularismes nationaux ? Je 
 <a class="pb" href="#pb110" id="pb110">[p. 110]</a>
 répondrai : dans les deux à la fois, et cela n’est pas contradictoire.</p>
@@ -1186,8 +1248,8 @@ sur la prophétie proudhonienne, voici donc une première réponse : oui, nous 
 trahison pure et simple, ou son usage mal compris, ou son blocage délibéré aux limites d’un État fédéral. Il ne s’agit pas d’un défaut <i class="i">du</i> fédéralisme, mais d’un défaut <i class="i">de</i> fédéralisme. Et l’on est en droit de penser que l’application correcte de la méthode fédéraliste rétablirait bientôt ce double mouvement de diastole et de systole, vers des autonomies plus totales et vers des unions plus vastes, qui est le battement même du cœur d’un régime sain, j’entends immunisé contre le virus totalitaire.</p>
                       <p class="p">Mais si le fédéralisme apparaît bien comme le remède spécifique au stato-nationalisme, en cette fin du <span class="num">xx<sup class="sup">e</sup></span> siècle, il faudrait, avant de le prescrire, être très sûr de sa formule. <i class="i">Or, je ne vois pas de terme du langage politique qui prête à pires malentendus</i> !</p>
                     </section>
-                    <section id="body-3-3" class="div level2 level2">
-                      <h2 class="head">28. Malentendus tragiques et ridicules sur le sens du « fédéralisme »<a class="bookmark" href="3#body-3-3"> §</a></h2>
+                    <section id="body-3-3" class="div level2">
+                      <h2 class="head">28. Malentendus tragiques et ridicules sur le sens du « fédéralisme »</h2>
                       <p class="p autofirst">« Faire l’Europe », oui bien sûr, mais on ne peut pas la faire dans le style d’un Napoléon, tout diviser au petit bonheur géométrique pour mieux régner, et nommer des préfets partout — pure utopie. On ne peut pas non plus faire l’Europe dans le style du Congrès de Vienne, concert d’hégémonies frustrées qui n’osent pas dire leur nom et se rattrapent par la proclamation à tout bout de champ d’une impossible indépendance. On ne peut pas unifier l’Europe, et c’est tant mieux, mais on ne peut pas l’unir non plus par la concertation des États « souverains ». Il faut faire l’Europe sérieusement, mais dans le respect des différences nationales, régionales et locales. Et cela veut dire qu’il n’y a pas d’autre 
 <a class="pb" href="#pb115" id="pb115">[p. 115]</a>
 solution à la fois désirable et praticable que l’union dans la diversité, c’est-à-dire le fédéralisme. Mais sitôt le mot prononcé, des hurlements éclatent sur tous les bancs, de la gauche à la droite et du Marais à la Montagne.</p>
@@ -1215,8 +1277,8 @@ que le terme de fédéralisme étant tabou à Strasbourg, il se verrait obligé 
 <a class="pb" href="#pb118" id="pb118">[p. 118]</a>
 contemporaines choisies dans les domaines les plus variés et les <i class="i">moins politiques</i>, au sens étroit du mot.</p>
                     </section>
-                    <section id="body-3-4" class="div level2 level2">
-                      <h2 class="head">29. Deux en un, sans confusion ni séparation<a class="bookmark" href="3#body-3-4"> §</a></h2>
+                    <section id="body-3-4" class="div level2">
+                      <h2 class="head">29. Deux en un, sans confusion ni séparation</h2>
                       <p class="p autofirst">Tout d’abord, trois définitions.</p>
                       <p class="p">Je propose d’appeler <i class="i">problème fédéraliste</i> une situation dans laquelle s’affrontent deux réalités humaines antinomiques, mais également valables et vitales, de telle sorte que la solution ne puisse être cherchée ni dans la réduction de l’un des termes, ni dans la subordination de l’un à l’autre, mais seulement dans une création qui englobe, satisfasse et transcende les exigences de l’un et de l’autre.</p>
                       <p class="p">J’appellerai donc <i class="i">solution fédéraliste</i> toute solution qui prend pour règle de respecter les deux termes antinomiques en conflit, tout en les composant de telle manière que la résultante de leur tension soit positive. (On dirait, dans le langage de la théorie<a class="noteref" href="3#note22" id="note22_"><sup>22</sup></a> des jeux de von Neumann et Morgenstern, qu’il s’agit de déterminer l’optimum en lequel se concilient deux maxima contradictoires — comme l’offre et la demande dans un prix.)</p>
@@ -1234,8 +1296,8 @@ Grèce des grands siècles avec sa dialectique de l’individu et de la cité co
 <a class="pb" href="#pb121" id="pb121">[p. 121]</a>
 respectueux du réel et des conditions de la vie, qui sont : antinomies, oppositions, lutte des contraires « d’où procède la plus belle harmonie ». Je pense d’abord, bien sûr, aux esprits dialectiques, à Pascal, Kierkegaard ou Nietzsche, et aux doctrinaires politiques comme Rousseau, Tocqueville et Proudhon, mais aussi aux écoles récentes de physiciens et de logiciens, pour lesquels la complémentarité de phénomènes définis comme exclusifs l’un de l’autre a cessé d’être un scandale, est même devenu principe fondamental d’interprétation du réel. (Je pense aux théories de L. de Broglie sur la lumière, faite de vrais corpuscules, mais aussi de vraies ondes…)</p>
                     </section>
-                    <section id="body-3-5" class="div level2 level2">
-                      <h2 class="head">30. Solitaire et solidaire<a class="bookmark" href="3#body-3-5"> §</a></h2>
+                    <section id="body-3-5" class="div level2">
+                      <h2 class="head">30. Solitaire et solidaire</h2>
                       <p class="p autofirst">Notre modèle de pensée fédéraliste ainsi posé à la clé de l’histoire européenne, il reste à repérer les principaux domaines de la réalité moderne, où l’on retrouve les structures typiques d’un problème fédéraliste.</p>
                       <p class="p">À la base de notre analyse, plaçons une conception de l’homme analogue au modèle bipolaire posé par le concile de Chalcédoine. La <i class="i">personne humaine</i>, notion déduite des dogmes relatifs aux trois Personnes divines, et surtout à la deuxième, va nous servir de module. La personne humaine, c’est l’homme considéré dans sa double réalité d’individu distinct et de citoyen engagé dans la société. Pourvu de libertés mais de responsabilités, à la fois solitaire 
 <a class="pb" href="#pb122" id="pb122">[p. 122]</a>
@@ -1248,8 +1310,8 @@ et solidaire (selon le mot de Victor Hugo repris par Camus), distingué du troup
 <a class="pb" href="#pb123" id="pb123">[p. 123]</a>
 confessions distinctes dans l’unité de l’Église, c’est-à-dire, en dernière analyse, des vocations particulières au sein de l’Être même de l’Universel, source et fin de toute communauté.</p>
                     </section>
-                    <section id="body-3-6" class="div level2 level2">
-                      <h2 class="head">31. Principes de l’analyse fédéraliste<a class="bookmark" href="3#body-3-6"> §</a></h2>
+                    <section id="body-3-6" class="div level2">
+                      <h2 class="head">31. Principes de l’analyse fédéraliste</h2>
                       <p class="p autofirst">Dans tous ces domaines d’existence, quels seront les principes de méthode dictés par le souci fédéraliste de respect des diversités, des conditions contradictoires de la vie, comme la liberté des personnes et la force de la communauté ?</p>
                       <p class="p">L’analyse fédéraliste d’une situation part du concret, en ce sens que d’abord elle considère la nature d’une tâche ou d’une fonction particulière dont on aura reconnu la nécessité ou l’agrément.</p>
                       <p class="p">Deuxième étape : elle évalue les <i class="i">dimensions optimales</i> de l’aire d’exécution requise, et elle le fait en fonction des trois facteurs suivants : possibilités de <i class="i">participation</i> (civique, intellectuelle, économique), <i class="i">efficacité, économie des moyens</i>.</p>
@@ -1261,8 +1323,8 @@ selon qu’elles intéressent tous les hommes de toutes les régions, certains h
                       <p class="p">Ce débat n’est pas d’aujourd’hui. Aux projets de découpage géométrique de la France en carrés réguliers de dix-huit lieues de côté, comme le proposait Sieyès, sous prétexte de simplifier les contrôles administratifs, Mirabeau répondait déjà par cette grande phrase : <i class="i">« Le but de la société n’est pas que l’administration soit facile, mais qu’elle soit juste et éclairée.</i> »</p>
                       <p class="p">Nous allons voir, enfin, que nos critères d’évaluation des dimensions et d’attribution des niveaux décisionnels — la participation, l’efficacité et l’économie des moyens — sont en interdépendance générale.</p>
                     </section>
-                    <section id="body-3-7" class="div level2 level2">
-                      <h2 class="head">32. Les unités de base<a class="bookmark" href="3#body-3-7"> §</a></h2>
+                    <section id="body-3-7" class="div level2">
+                      <h2 class="head">32. Les unités de base</h2>
                       <p class="p autofirst">Prenons l’exemple de <i class="i">l’habitat</i> : le gigantisme des villes, l’entassement dans les grands ensembles conçus pour rapporter, non pour servir ou plaire, ont produit une situation de crise dont l’acuité se mesure notamment par le chiffre élevé des suicides.</p>
                       <p class="p">
 <a class="pb" href="#pb125" id="pb125">[p. 125]</a>
@@ -1277,8 +1339,8 @@ transforme en acrobatie toute participation réelle à la recherche et compromet
 <a class="pb" href="#pb127" id="pb127">[p. 127]</a>
 répartir en conséquence les pouvoirs de décision, opérer les concentrations de forces proportionnées à la puissance que l’on veut obtenir, et en même temps multiplier les <i class="i">petites unités de base</i>, de manière à maintenir ou renforcer les possibilités de participation civiques, intellectuelles et affectives à la vie des communautés de toutes tailles et de toutes natures, auxquelles un homme choisit de donner allégeance.</p>
                     </section>
-                    <section id="body-3-8" class="div level2 level2">
-                      <h2 class="head">33. Le fédéralisme commence<a class="bookmark" href="3#body-3-8"> §</a></h2>
+                    <section id="body-3-8" class="div level2">
+                      <h2 class="head">33. Le fédéralisme commence</h2>
                       <p class="p autofirst">C’est dans ce double dynamisme créateur d’unions plus vastes à proportions de tâches nouvelles, mais aussi de communautés plus petites correspondant aux exigences de l’habitat, de la formation des esprits et de l’exercice du civisme, c’est dans cette dialectique concrète que sont en train de se former sous nos yeux, en Europe, plus d’une centaine de <i class="i">régions à métropole</i> destinées à devenir les unités de base de la future fédération continentale, en lieu et place des États-nations constitués au <span class="num">xix<sup class="sup">e</sup></span> siècle.</p>
                       <p class="p">On s’aperçoit alors que le fédéralisme politique (intra ou inter-étatique), seul pris en considération par les auteurs classiques, n’était en réalité qu’un cas particulier d’une conception beaucoup plus large des relations humaines dans la cité, des relations publiques en général. C’est ce qu’avait bien vu le regretté Pierre Duclos, lorsqu’il relevait que « le fédéralisme vit d’une vie que la forme institutionnelle dénommée État ne suffit pas à qualifier, et moins encore à épuiser »… Et il ajoutait : « Le fédéralisme 
 <a class="pb" href="#pb128" id="pb128">[p. 128]</a>
@@ -1409,6 +1471,17 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>34. L’obstacle à toute union possible – 35. Critique fédéraliste du nationalisme – 36. Une solution pratique – 37. La puissance ou la liberté – 38. Défaire et dépasser l’État-nation</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	34. L’obstacle à toute union possible (1970, Lettre ouverte aux Européens)
+body-4-2	35. Critique fédéraliste du nationalisme (1970, Lettre ouverte aux Européens)
+body-4-3	36. Une solution pratique (1970, Lettre ouverte aux Européens)
+body-4-4	37. La puissance ou la liberté (1970, Lettre ouverte aux Européens)
+body-4-5	38. Défaire et dépasser l’État-nation (1970, Lettre ouverte aux Européens)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1418,9 +1491,9 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb129" id="pb129">[p. 129]</a>
-                    <h1 class="head chapter">III La puissance ou la liberté<a class="bookmark" href="4"> §</a></h1>
-                    <section id="body-4-1" class="div level2 level2">
-                      <h2 class="head">34. L’obstacle à toute union possible<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                    <h1 class="head chapter">III La puissance ou la liberté</h1>
+                    <section id="body-4-1" class="div level2">
+                      <h2 class="head">34. L’obstacle à toute union possible</h2>
                       <p class="p autofirst">L’obstacle à toute union possible de l’Europe, donc à toute union fédérale, n’est autre que l’État-nation, tel que Napoléon en a posé le modèle, intégralement centralisé en vue de la guerre. C’est ce modèle que tous les peuples de l’Europe, grands et petits, ont imité l’un après l’autre tout au long du <span class="num">xix<sup class="sup">e</sup></span> siècle, suivis de nos jours par le reste du monde, notamment par le Tiers Monde, mal décolonisé à cet égard…</p>
                       <p class="p">Qu’est-ce en somme qu’instituer un État-nation ? C’est soumettre toute une nation ou un groupe de nations conquises par l’une d’entre elles, aux pouvoirs absolus de l’État. C’est vouloir faire coïncider sur un même territoire, défini par le sort des guerres et du coup baptisé « sol sacré de la patrie », des réalités absolument hétérogènes, qui n’ont aucune raison d’avoir les mêmes frontières, comme la langue et l’économie, l’état civil et l’exploitation du sous-sol, ou pire encore, les idéologies ou les religions, sommées de s’arrêter sur une ligne de barbelés électrifiés. C’est livrer sans recours toute l’existence 
 <a class="pb" href="#pb130" id="pb130">[p. 130]</a>
@@ -1433,8 +1506,8 @@ humaine aux seules décisions de bureaux installés dans une seule capitale, et 
 Qu’on l’appelle Europe des patries, des nations, des États ou des souverainetés, l’union de l’Europe ne se fera pas sur la grande confusion, si chère aux hommes d’État, de nos diversités et de nos divisions.</p>
                       <p class="p">Je crois aux vertus créatrices du désordre dans la cité, mais ces confusions sont stériles, et leur critique impitoyable peut être à la rigueur féconde.</p>
                     </section>
-                    <section id="body-4-2" class="div level2 level2">
-                      <h2 class="head">35. Critique fédéraliste du nationalisme<a class="bookmark" href="4#body-4-2"> §</a></h2>
+                    <section id="body-4-2" class="div level2">
+                      <h2 class="head">35. Critique fédéraliste du nationalisme</h2>
                       <p class="p autofirst">Nietzsche, témoin de la montée de nos délires, écrit ceci : « Un diagnostic de l’âme moderne, par où commencerait-il ? Par une incision résolue dans cet amalgame d’instincts contradictoires, par une extirpation de ses valeurs opposées, par une vivisection opérée sur son cas le plus instructif. » Cet « amalgame d’instincts contradictoires », ce « cas le plus instructif », c’est le nationalisme, précisément. Appliquons maintenant notre analyse fédéraliste à quelques-uns des éléments du nationalisme choisis parmi les plus vivants encore dans nos esprits, ou tout au moins dans nos réflexes acquis sur les bancs de l’école primaire.</p>
                       <p class="p">La <i class="i">souveraineté nationale</i> d’abord. On a remarqué, lors des débats sur la CED, que les adversaires du traité confondaient sincèrement et réellement les concepts de patrie, de nation et de souveraineté. Édouard Herriot, par exemple, s’écria solennellement que la CED était « la fin de la France », parce que cette convention prétendait limiter la souveraineté de l’État dans le domaine militaire. À ses yeux donc, une France non absolument et non totalement 
 <a class="pb" href="#pb132" id="pb132">[p. 132]</a>
@@ -1463,8 +1536,8 @@ concrète à sa liberté collective et abstraite, qu’il nomme indépendance na
 nous rendre attentifs à l’usage courant qu’ils prolongent. Si nous croyons qu’il est une « culture nationale » française ou danoise par exemple, comme la culture comprend en fait les sciences aussi bien que les lettres, les arts et la philosophie, pourquoi n’y aurait-il pas une biologie marxiste et une algèbre nationale-socialiste ?</p>
                       <p class="p">La volonté fondamentale de l’État-nation : imposer les mêmes frontières au patriotisme, à l’administration, à la langue, à l’économie et à la culture, c’est-à-dire aux contraintes et aux libertés, nous jette en plein délire totalitaire, seul achèvement possible du nationalisme. Ce qui nous autorise, par contraste, à décrire l’attitude fédéraliste comme un simple retour au respect des libertés et des réalités, comme une référence au bon sens.</p>
                     </section>
-                    <section id="body-4-3" class="div level2 level2">
-                      <h2 class="head">36. Une solution pratique<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                    <section id="body-4-3" class="div level2">
+                      <h2 class="head">36. Une solution pratique</h2>
                       <p class="p autofirst">Renoncer à la souveraineté nationale paraît tellement inconcevable à la plupart de mes contemporains, qu’ils jugeront plus niaises encore qu’imprudentes les trois questions suivantes que je tiens pour décisives : — Faut-il sacrifier les souverainetés absolues ? — Suffirait-il de les limiter ? — Peut-on les conserver tout en faisant l’Europe ?</p>
                       <p class="p">Certains stato-nationalistes de droite, ou de l’Est, disent qu’ils veulent bien de l’Europe unie, si elle respecte les souverainetés nationales. Ce qui revient à dire : Je veux bien me marier, à condition de garder mes droits de célibataire. Logiquement, l’attitude est comique ; pratiquement, elle permet tous les 
 <a class="pb" href="#pb138" id="pb138">[p. 138]</a>
@@ -1484,8 +1557,8 @@ pacte fédéral plus étroit se heurtait au veto des cantons, jaloux de leur sou
 <a class="pb" href="#pb140" id="pb140">[p. 140]</a>
 Tout cela vaut pour l’Europe d’aujourd’hui, tout cela nous indique une voie : concentrer nos efforts sur l’élaboration et sur la ratification d’une Constitution fédérale de l’Europe, afin que l’Europe recouvre, entre les grands empires, une souveraineté qui échappe de toute manière à ses nations.</p>
                     </section>
-                    <section id="body-4-4" class="div level2 level2">
-                      <h2 class="head">37. La puissance ou la liberté<a class="bookmark" href="4#body-4-4"> §</a></h2>
+                    <section id="body-4-4" class="div level2">
+                      <h2 class="head">37. La puissance ou la liberté</h2>
                       <p class="p autofirst">Ces recettes de sagesse resteront nulles et vides tant que la « bonne volonté européenne » mélangera les déclarations louant l’union et les professions de foi nationalistes.</p>
                       <p class="p">Entre l’union de l’Europe et les États-nations sacralisés, entre une nécessité humaine des plus concrètes et le culte prolongé d’un mythe, il faut choisir.</p>
                       <p class="p"><i class="i">Pour la première fois dans l’histoire, l’homme se voit aujourd’hui en situation de choisir librement son avenir</i>. Jusqu’à nous, point de choix économiques ni même peut-être politiques longuement délibérés, concertés à long terme : il fallait se battre pour survivre. Aujourd’hui que le nécessaire est assuré, on se bat pour le contrôle de zones d’influence plus idéologiques que commerciales (voir le Vietnam) et l’on travaille pour le profit, qui est en somme du superflu.</p>
@@ -1504,8 +1577,8 @@ perpétuelle du PNB — cette tour de Babel du <span class="num">xx<sup class="
 <a class="pb" href="#pb143" id="pb143">[p. 143]</a>
 nature des tâches, leurs dimensions et celles de la communauté la plus apte à les administrer. En un mot, il faut appliquer la méthode du fédéralisme.</p>
                     </section>
-                    <section id="body-4-5" class="div level2 level2">
-                      <h2 class="head">38. Défaire et dépasser l’État-nation<a class="bookmark" href="4#body-4-5"> §</a></h2>
+                    <section id="body-4-5" class="div level2">
+                      <h2 class="head">38. Défaire et dépasser l’État-nation</h2>
                       <p class="p autofirst">Puissance ou liberté : ces deux finalités commandent deux politiques d’union, dont je crains bien que l’on ne puisse impunément continuer à mêler les moyens.</p>
                       <p class="p">On ne manquera pas de m’objecter en ce point que la politique a toujours eu pour fin réelle la puissance ; et je vois bien que toutes les civilisations que nous connaissons ont choisi la puissance comme seul but réaliste de la société politique ; le reste — la justice, la paix, la liberté — étant manière de parler plus ou moins nobles, ou pure et simple <i class="i">captatio</i> démagogique. Mais je vois aussi que seuls des Européens, rares mais exemplaires, ont osé proclamer, d’Aristote à Rousseau et de William Penn à Proudhon, que <i class="i">les libertés personnelles et les communautés autonomes valent mieux que la puissance collective</i>. L’Europe unie sera seule capable de réaliser leur vision.</p>
                       <p class="p">On me dira peut-être aussi que je radicalise indûment l’antithèse État-nation–Fédération, ramenée au dilemme puissance ou liberté comme finalités de l’union. Mais je ne crois pas qu’il y ait un tiers parti tenable. Je ne crois pas à cette « imposante confédération » qu’évoquait le général de Gaulle, et qui serait formée d’États-nations conservant jalousement leurs prétentions à la souveraineté absolue. Je ne crois pas à cette Amicale des misanthropes.</p>
@@ -1645,6 +1718,34 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>39. Le siècle des nations ? – 40. Nations en crise – 41. Origines de l’État-nation – 42. L’État-nation : un empire manqué – 43. Trop petits et trop grands à la fois – 44. Double dilemme – 45. Une règle d’or du fédéralisme – 46. Invention de la région au xxe siècle – 47. Frontières effacées, régions libérées – 48. Montée des régions – 49. Des régions à la fédération – 50. Mutations de pensée et de vocabulaire – 51. Vers une politique des régions – 52. Objections courantes – 52.a. Objections mythologiques ou prospectives – 52.b. Objections tactiques – 52.c. Résistances conditionnées par l’éducation stato-nationaliste – 52.d. Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays) – 53. La région n’est pas un État-nation en réduction – 54. De la pluralité des allégeances – 55. Vers une formule fédéraliste de l’État – 56. Passage de l’Europe des mythes nationaux à l’Europe des réalités</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	39. Le siècle des nations ? (1970, Lettre ouverte aux Européens)
+body-5-2	40. Nations en crise (1970, Lettre ouverte aux Européens)
+body-5-3	41. Origines de l’État-nation (1970, Lettre ouverte aux Européens)
+body-5-4	42. L’État-nation : un empire manqué (1970, Lettre ouverte aux Européens)
+body-5-5	43. Trop petits et trop grands à la fois (1970, Lettre ouverte aux Européens)
+body-5-6	44. Double dilemme (1970, Lettre ouverte aux Européens)
+body-5-7	45. Une règle d’or du fédéralisme (1970, Lettre ouverte aux Européens)
+body-5-8	46. Invention de la région au xxe siècle (1970, Lettre ouverte aux Européens)
+body-5-9	47. Frontières effacées, régions libérées (1970, Lettre ouverte aux Européens)
+body-5-10	48. Montée des régions (1970, Lettre ouverte aux Européens)
+body-5-11	49. Des régions à la fédération (1970, Lettre ouverte aux Européens)
+body-5-12	50. Mutations de pensée et de vocabulaire (1970, Lettre ouverte aux Européens)
+body-5-13	51. Vers une politique des régions (1970, Lettre ouverte aux Européens)
+body-5-14	52. Objections courantes (1970, Lettre ouverte aux Européens)
+body-5-14-1	52.a. Objections mythologiques ou prospectives (1970, Lettre ouverte aux Européens)
+body-5-14-2	52.b. Objections tactiques (1970, Lettre ouverte aux Européens)
+body-5-14-3	52.c. Résistances conditionnées par l’éducation stato-nationaliste (1970, Lettre ouverte aux Européens)
+body-5-14-4	52.d. Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays) (1970, Lettre ouverte aux Européens)
+body-5-15	53. La région n’est pas un État-nation en réduction (1970, Lettre ouverte aux Européens)
+body-5-16	54. De la pluralité des allégeances (1970, Lettre ouverte aux Européens)
+body-5-17	55. Vers une formule fédéraliste de l’État (1970, Lettre ouverte aux Européens)
+body-5-18	56. Passage de l’Europe des mythes nationaux à l’Europe des réalités (1970, Lettre ouverte aux Européens)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1654,7 +1755,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb148" id="pb148">[p. 148]</a>
-                    <h1 class="head chapter">IV. Vers une fédération des régions<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">IV. Vers une fédération des régions</h1>
                     <p class="p autofirst center">
                       <i class="i">Dédicace</i>
                     </p>
@@ -1668,8 +1769,8 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                       <i class="i">C’est l’histoire des États-nations et de l’hospitalité presque toujours forcée qu’ils offrent à leurs ethnies, nations et cités libres.</i>
                     </p>
                     <p class="p"><i class="i">À nous Thésée libérateur ! héros de l’Europe des régions</i> ! </p>
-                    <section id="body-5-1" class="div level2 level2">
-                      <h2 class="head">39. Le siècle des nations ?<a class="bookmark" href="5#body-5-1"> §</a></h2>
+                    <section id="body-5-1" class="div level2">
+                      <h2 class="head">39. Le siècle des nations ?</h2>
                       <p class="p autofirst">Zurich, le 16 septembre 1946 : Avec une poignante éloquence, Winston Churchill appelle la création de quelque chose qui « s’appellera peut-être les États-Unis d’Europe », et il s’écrie : « Je dois vous donner un avertissement. Le temps presse. Si nous devons 
 <a class="pb" href="#pb149" id="pb149">[p. 149]</a>
 constituer les États-Unis d’Europe, sous quelque nom que ce soit, il faut commencer maintenant… Debout, l’Europe ! »</p>
@@ -1680,8 +1781,8 @@ constituer les États-Unis d’Europe, sous quelque nom que ce soit, il faut com
 <a class="pb" href="#pb150" id="pb150">[p. 150]</a>
 Quand on nous affirme que le <span class="num">xx<sup class="sup">e</sup></span> siècle ne sera pas celui du triomphe de l’Internationale, comme Marx l’avait dit, ni le siècle des fédérations, comme Proudhon l’avait prévu, mais bien le siècle des nations, est-ce qu’on s’en félicite, ou bien est-ce que l’on dit « le siècle des nations » comme on dirait « l’année de mon infarctus » ? Autre chose est de constater que la réalité politique de notre temps est encore la nation, autre chose d’affirmer qu’on ne veut rien y changer, que c’est là-dessus qu’il faut bâtir, et qu’on doit appeler cela réalisme. Le cancer et les maladies mentales sont aussi des réalités importantes de notre temps, mais je ne pense pas que le réalisme consiste à le proclamer avec emphase. Il ne consiste pas non plus à nier ces maux, mais bien à faire en sorte qu’ils cessent de sévir.</p>
                     </section>
-                    <section id="body-5-2" class="div level2 level2">
-                      <h2 class="head">40. Nations en crise<a class="bookmark" href="5#body-5-2"> §</a></h2>
+                    <section id="body-5-2" class="div level2">
+                      <h2 class="head">40. Nations en crise</h2>
                       <p class="p autofirst">Que les nations soient encore bien réelles, et très fortes à quelques égards, l’impossibilité d’unir l’Europe le démontre avec une évidence presque écrasante.</p>
                       <p class="p">Que les nations soient en même temps mal adaptées (pour dire le moins) à l’évolution de notre société, la preuve en est fournie par les deux guerres mondiales, résultant du nationalisme et de l’État totalitaire — par le besoin d’union au-delà des nations, partout ressenti et déclaré, et qui a donné naissance au Marché commun notamment, enfin par l’existence d’un problème chaque année plus aigu, celui du sous-développement de nombreuses et 
 <a class="pb" href="#pb151" id="pb151">[p. 151]</a>
@@ -1692,8 +1793,8 @@ l’étatisme de Berne, au nom d’une ethnie différente qui se veut nation, ce
             micro-nationalisme (Jura), tendances trop souvent confondues avec le fédéralisme dont elles sont deux négations ; l’autre d’un dépassement du fédéralisme interétatique en direction du fédéralisme fonctionnel, formule de l’avenir européen.</p>
                       <p class="p">Tous ces symptômes révèlent une inadaptation morbide de l’État-nation aux réalités politiques, économiques, techniques et démographiques de notre temps. Ils ne me semblent pas confirmer que « l’évolution joue dans le sens de la nation », mais bien plutôt que nous atteignons le stade de crise finale d’une forme d’association qui a dominé et animé l’Europe du <span class="num">xix<sup class="sup">e</sup></span> siècle, mais qui ne pourrait que tuer l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle, si elle n’est pas surmontée à temps.</p>
                     </section>
-                    <section id="body-5-3" class="div level2 level2">
-                      <h2 class="head">41. Origines de l’État-nation<a class="bookmark" href="5#body-5-3"> §</a></h2>
+                    <section id="body-5-3" class="div level2">
+                      <h2 class="head">41. Origines de l’État-nation</h2>
                       <p class="p autofirst">La grande force de l’État-nation, c’est que les hommes et les femmes d’aujourd’hui qui ont passé par l’école et croient savoir l’histoire s’imaginent qu’il y a toujours eu des États, que les nations sont immortelles (au moins la leur), que rien d’autre n’est donc possible, et que d’ailleurs l’État et la nation marquent l’aboutissement logique, normal et inévitable du progrès.</p>
                       <p class="p">Pour dissiper cette illusion, il faudrait enseigner 
 <a class="pb" href="#pb153" id="pb153">[p. 153]</a>
@@ -1705,8 +1806,8 @@ déclareront eux aussi « souverains absolus », <i class="i">superiorem in te
                       <p class="p">Ce spectacle, qui est celui de la naissance des nations, remplit d’effroi les sages de l’époque. « Ô<i class="i"> genre humain, tu es devenu un monstre aux multiples têtes</i> ! » s’écrie Dante dans son traité <i class="i">De la Monarchie</i>, appel désespéré, et qui restera vain, à l’Empire condamné et bafoué.</p>
                       <p class="p">Les cinq siècles suivants verront se renforcer et se sacraliser de plus en plus l’idée fatale de la <i class="i">souveraineté absolue</i>, qui est à peine supportable quand un prince l’incarne, s’il n’est pas un génie ou un saint, mais qui devient proprement révoltante — et par ailleurs massivement meurtrière — quand c’est un parti qui s’en empare au nom du peuple, comme ce fut le cas des Jacobins puis des « démocraties » plébiscitaires et totalitaires du <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
                     </section>
-                    <section id="body-5-4" class="div level2 level2">
-                      <h2 class="head">42. L’État-nation : un empire manqué<a class="bookmark" href="5#body-5-4"> §</a></h2>
+                    <section id="body-5-4" class="div level2">
+                      <h2 class="head">42. L’État-nation : un empire manqué</h2>
                       <p class="p autofirst">La confiscation de l’<i class="i">idéal</i> national par l’<i class="i">appareil</i> étatique — qui est l’œuvre des Jacobins et de Napoléon —, la nationalisation de l’État royal et l’étatisation de la Nation révolutionnaire, c’est cela qui va créer dans la première décennie du <span class="num">xix<sup class="sup">e</sup></span> siècle le modèle de l’<i class="i">État-nation</i>, bientôt imité dans toute l’Europe monarchique autant que républicaine, et au <span class="num">xx<sup class="sup">e</sup></span> siècle dans le reste du monde.</p>
                       <p class="p">Modèle monstrueux, si l’on y réfléchit, <i class="i">mais c’est précisément ce que l’on ne fait pas, parce que l’État-nation est devenu sacré</i>, c’est-à-dire intangible en nos esprits, qui résistent à l’idée qu’il pourrait 
 <a class="pb" href="#pb155" id="pb155">[p. 155]</a>
@@ -1716,8 +1817,8 @@ après tout n’être qu’une forme transitoire, comme tant d’autres. On le s
 <a class="pb" href="#pb156" id="pb156">[p. 156]</a>
 non pas dimensions gigantesques) sont, en effet, les notes essentielles de l’empire.</p>
                     </section>
-                    <section id="body-5-5" class="div level2 level2">
-                      <h2 class="head">43. Trop petits et trop grands à la fois<a class="bookmark" href="5#body-5-5"> §</a></h2>
+                    <section id="body-5-5" class="div level2">
+                      <h2 class="head">43. Trop petits et trop grands à la fois</h2>
                       <p class="p autofirst">Regardons maintenant ces États-nations unitaires tels qu’ils sont dans leur être et leur agir concret, non plus dans leurs seules prétentions. Nous verrons aussitôt que tous, sans exception, sont à la fois trop petits si on les regarde à l’échelle mondiale, et trop grands si l’on en juge par leur incapacité d’animer leurs régions, et d’offrir à leurs citoyens une participation réelle à la vie politique qu’ils prétendent monopoliser.</p>
                       <p class="p">Le problème du petit État dans le monde des Grands, c’est en vérité le problème de <i class="i">tous</i> les États du monde sauf trois, c’est-à-dire d’environ cent trente pays (plus souverains les uns que les autres) confrontés aux trois seuls vrais Grands.</p>
                       <p class="p">Ils sont trop petits « à l’échelle des moyens techniques modernes, à la mesure de l’Amérique et de la Russie aujourd’hui, de la Chine demain », écrivait dès 1954 Jean Monnet (Lettre de démission de la CECA).</p>
@@ -1729,8 +1830,8 @@ par le retrait des puissances naguère coloniales, et qui vivent mal…</p>
                       <p class="p">Par quoi ils manquent doublement à la fonction de toute autorité : sécuriser les membres d’une communauté donnée et assurer l’efficacité de sa participation dans les affaires du monde.</p>
                       <p class="p">Mais en même temps, les États-nations unitaires et centralisés — et dans la mesure même où ils sont centralisés — sont <i class="i">tous trop grands</i> : trop grands pour assurer le développement de toutes leurs régions et communes — trop grands pour que leurs citoyens puissent y exercer normalement leurs devoirs civiques et participer effectivement à la vie de la cité ; donc trop grands pour être encore de vraies <i class="i">communautés</i> humaines : et cela, c’est la plus grave maladie qui puisse miner un corps politique.</p>
                     </section>
-                    <section id="body-5-6" class="div level2 level2">
-                      <h2 class="head">44. Double dilemme<a class="bookmark" href="5#body-5-6"> §</a></h2>
+                    <section id="body-5-6" class="div level2">
+                      <h2 class="head">44. Double dilemme</h2>
                       <p class="p autofirst">Telle étant la crise présente de l’État-nation, le régime à prescrire paraît facile à formuler :</p>
                       <p class="p">Parce qu’ils sont trop petits, les États-nations devraient se <i class="i">fédérer</i> à l’échelle continentale ; et parce qu’ils sont trop grands, ils devraient se <i class="i">fédéraliser</i> à l’intérieur.</p>
                       <p class="p">Remède facile à prescrire, mais presque impossible à appliquer par nos États-nations, dirait-on.</p>
@@ -1747,8 +1848,8 @@ ou bien modifier les données mêmes du problème, c’est-à-dire chercher à f
                       <p class="p">Renoncer à résoudre le problème de l’union, c’est faire, en somme, ce que l’on fait actuellement, c’est-à-dire laisser nos États continuer à prétendre à une indépendance de moins en moins croyable, et qui se borne en fait à la liberté (souvent illusoire) de choisir les dépendances les plus profitables.</p>
                       <p class="p">Mais changer les données mêmes du problème de l’union pour le rendre soluble, c’est d’abord accepter de remettre en question radicalement le sacro-saint État-nation, accepter l’idée de renoncer éventuellement à cette formule périmée, en faire autant avec la notion sacro-sainte de souveraineté ; et c’est ensuite trouver les éléments nouveaux avec lesquels bâtir une union praticable.</p>
                     </section>
-                    <section id="body-5-7" class="div level2 level2">
-                      <h2 class="head">45. Une règle d’or du fédéralisme<a class="bookmark" href="5#body-5-7"> §</a></h2>
+                    <section id="body-5-7" class="div level2">
+                      <h2 class="head">45. Une règle d’or du fédéralisme</h2>
                       <p class="p autofirst">Parlant de la mise en place progressive de structures fédérales en Europe, Louis Armand formulait récemment une règle d’or qui trouve ici son application majeure :</p>
                       <blockquote class="quote">
                         <p class="p autofirst"><i class="i">Développons en commun ce qui est neuf. Laissons de côté les héritages du passé dont l’unification prendrait trop de temps, demanderait trop d’énergie, et soulèverait trop d’oppositions</i><a class="noteref" href="5#note32" id="note32_"><sup>32</sup></a>.</p>
@@ -1761,8 +1862,8 @@ France proposée par Churchill en juin 1940), autrement dit : ce n’est jamais
                         <p class="p">Si l’on veut unir l’Europe, il faut partir d’autre chose que de ses facteurs de division, il faut bâtir sur autre chose que sur les obstacles à l’union ; opérer sur un autre plan que celui-là, précisément, où le problème se révèle insoluble. Il faut se fonder sur ce qui est destiné à devenir <i class="i">demain</i> la vraie réalité de notre société, et je vais désigner par là une unité d’un type nouveau, à la fois plus grande et plus complexe que la cité antique, mais plus dense, mieux structurée et offrant un meilleur milieu de participation civique que la nation, telle que nous l’a léguée le siècle dernier : la région<a class="noteref" href="5#note33" id="note33_"><sup>33</sup></a>.</p>
                       </blockquote>
                     </section>
-                    <section id="body-5-8" class="div level2 level2">
-                      <h2 class="head">46. Invention de la région au <span class="num">xx<sup class="sup">e</sup></span> siècle<a class="bookmark" href="5#body-5-8"> §</a></h2>
+                    <section id="body-5-8" class="div level2">
+                      <h2 class="head">46. Invention de la région au <span class="num">xx<sup class="sup">e</sup></span> siècle</h2>
                       <p class="p autofirst">Il s’agit là d’un phénomène complexe et neuf, que nous voyons lentement prendre forme au seuil de ce dernier tiers de notre siècle, comme un visage dont les traits se composent et s’illuminent peu à peu sur le fond chaotique de la société que le <span class="num">xix<sup class="sup">e</sup></span> siècle a laissé se faire au petit bonheur, la société stato-nationaliste et industrielle. Sur ce continuum, sans ordre ni structure, d’anarchie arbitrairement quadrillée par l’administration et la police, se détachent maintenant les régions, réalités absolument modernes. Ce ne sont pas les provinces de l’Ancien 
 <a class="pb" href="#pb161" id="pb161">[p. 161]</a>
 Régime, encore moins les départements découpés par Napoléon, ni les « Länder » allemands, trop grands, ni les cantons suisses, trop petits, ni les nationalités de la double monarchie d’antan ou de l’URSS d’aujourd’hui, ni les « States » de l’Amérique du Nord. Ce sont vraiment des créations de notre temps, des organismes en train de naître de la combinaison de forces très diverses : l’explosion démographique, l’urbanisation galopante, la mobilité des industries, et par suite les nouvelles concentrations de ressources intellectuelles, techniques et bancaires autour de ressources naturelles, la densité des réseaux de communications et de transports, et enfin l’unité territoriale. Cette dernière n’est d’ailleurs plus définie primairement par une frontière marquée sur le terrain à l’aide de bornes ou de réseaux de barbelés, et sur les cartes en pointillés méticuleux, mais au contraire par la force de rayonnement d’une « métropole », grande ville ou complexe de villes moyennes formant le foyer dynamique d’une population d’un million au moins, de cinq à six millions au plus.</p>
@@ -1772,8 +1873,8 @@ Régime, encore moins les départements découpés par Napoléon, ni les « Lä
 Transylvanie et sa Bessarabie contestée), Yougoslavie (avec ses cinq ou six nations et ses deux religions, dont l’une en plusieurs confessions).</p>
                       <p class="p">L’histoire, ses lois douteuses et ses accidents trop certains ; les réalités ethniques sous-jacentes ou renaissantes, ici menacées d’extinction, et là en voie de réveil agressif ; les réalités culturelles, universités, centres de formation des cadres, laboratoires, architecture, lettres et arts ; enfin les dynamismes sociaux et économiques en interaction permanente, combinés avec tous les autres : ce sont les résultantes de ces complexes de forces qui dénotent, définissent et mesurent les régions — plus d’une centaine dans toute l’Europe traditionnelle et actuelle, à l’ouest de l’empire soviétique<a class="noteref" href="5#note34" id="note34_"><sup>34</sup></a>.</p>
                     </section>
-                    <section id="body-5-9" class="div level2 level2">
-                      <h2 class="head">47. Frontières effacées, régions libérées<a class="bookmark" href="5#body-5-9"> §</a></h2>
+                    <section id="body-5-9" class="div level2">
+                      <h2 class="head">47. Frontières effacées, régions libérées</h2>
                       <p class="p autofirst">En 1962, un colloque organisé par le Festival d’Aix-en-Provence envisageait la création d’une « métropole régionale » basée sur le complexe Marseille-Aix-étang de Berre, c’est-à-dire : une grande ville portuaire et commerçante, une vieille cité universitaire dotée d’un célèbre festival de musique et une zone d’intense production industrielle, où sont venues s’implanter les plus importantes usines atomiques françaises. Parmi les quelque soixante participants, professeurs et industriels, présidents de chambres de commerce, députés et préfets, éditeurs et animateurs sociaux, je me vis le seul non-Français : 
 <a class="pb" href="#pb163" id="pb163">[p. 163]</a>
 j’en conclus que j’étais censé représenter dans le colloque l’idée européenne. Invité à parler au début, j’improvisai sur le thème que voici :</p>
@@ -1784,8 +1885,8 @@ j’en conclus que j’étais censé représenter dans le colloque l’idée eur
 <a class="pb" href="#pb164" id="pb164">[p. 164]</a>
 les besoins de leur région, mais de tout un mouvement de pensée politique, déjà beaucoup plus large et solidement fondé que je n’osais l’espérer<a class="noteref" href="5#note35" id="note35_"><sup>35</sup></a>.</p>
                     </section>
-                    <section id="body-5-10" class="div level2 level2">
-                      <h2 class="head">48. Montée des régions<a class="bookmark" href="5#body-5-10"> §</a></h2>
+                    <section id="body-5-10" class="div level2">
+                      <h2 class="head">48. Montée des régions</h2>
                       <p class="p autofirst">Au cours des dix dernières années, on a vu se multiplier les recherches scientifiques et les grands reportages, les congrès par dizaines et les volumes par centaines sur la régionalisation des États européens. Le concept de région a pris une place considérable, non seulement dans les préoccupations des sociologues et chez les Six, mais encore dans les milieux dirigeants du pays le plus centralisé du continent et le plus allergique, semblait-il, au fédéralisme à base régionale, la République française une et indivisible.</p>
                       <p class="p">La bibliographie des ouvrages consacrés en France aux problèmes de la région moderne comporte déjà plusieurs centaines de volumes et d’études substantielles dues à des sociologues, à des politologues, à des économistes, à des juristes, à des responsables du Plan et même à des hommes politiques comme Mendès-France, Pleven, Giscard d’Estaing, Edgar Faure et Edgard Pisani<a class="noteref" href="5#note36" id="note36_"><sup>36</sup></a>.</p>
                       <p class="p">
@@ -1810,8 +1911,8 @@ trop d’importance. L’État français ne sera pas si aisément ébranlé. Son
 Mais dans l’optique du Marché commun de demain, tout change : effacée la frontière qui depuis cent cinquante ans coupait la région de son aire d’expansion naturelle, Lille peut devenir avec ses cités satellites la métropole de près d’un million d’habitants d’une région s’étendant en Belgique autant qu’en France, et au surplus liée au sud de l’Angleterre.</p>
                       <p class="p">Or Lille n’est qu’un exemple entre bien d’autres. La <i class="i">Regio Basiliensis</i> rayonne sur trois pays : Suisse, France, Allemagne. Il pourrait en aller de même d’une <i class="i">Regio Genevensis</i> englobant les ethnies francophones périphériques du mont Blanc. Et les Six s’intéressent de plus en plus à d’autres régions limitrophes bi- ou tri-nationales, comme celle de Liège-Maastricht-Aachen…</p>
                     </section>
-                    <section id="body-5-11" class="div level2 level2">
-                      <h2 class="head">49. Des régions à la fédération<a class="bookmark" href="5#body-5-11"> §</a></h2>
+                    <section id="body-5-11" class="div level2">
+                      <h2 class="head">49. Des régions à la fédération</h2>
                       <p class="p autofirst">Imaginons maintenant que dans ces métropoles, peu à peu, se forment ces <i class="i">centres de décision régionaux</i> dont tout le monde parle, et qu’ils acquièrent de la force : <i class="i">lorsqu’ils auront pris en fait</i> (sinon en droit) <i class="i">plus d’importance économique et culturelle que les bureaux de la capitale</i>, la fédération de l’Europe se révélera immédiatement possible.</p>
                       <p class="p">Il se peut que cette évolution prenne plus de temps que les pionniers de l’Europe unie ne l’exigeaient et ne l’annonçaient dans l’enthousiasme des premiers congrès, aux lendemains de la Seconde Guerre mondiale. Du moins, cette fédération de régions « immédiates à l’Europe » — comme les communes libres médiévales étaient « immédiates à 
 <a class="pb" href="#pb168" id="pb168">[p. 168]</a>
@@ -1836,8 +1937,8 @@ Ernest Renan s’était écrié dans un discours célèbre à la Sorbonne :</p>
                       <p class="p autofirst">Mais tout le monde n’a pas lu Renan… Et cette succession qu’il annonce, ce « remplacement » des États-nations par la fédération, cela ne se fera point par le jeu spontané du « mouvement de l’histoire », triste alibi de nos refus d’être libres.</p>
                       <p class="p">Il faudra que la succession, le remplacement s’opèrent dans les esprits d’abord, par la plus difficile des révolutions, celle des <i class="i">catégories de pensée</i> dans lesquelles ont vécu tous nos ancêtres depuis des siècles, et que nous ont inculquées tous les classiques de la philosophie politique, de Bodin et Hobbes à Hegel. Catégories de pensées non seulement invétérées jusqu’à se confondre avec une sorte d’instinct acquis, non seulement chargées d’histoire (oubliée, refoulée et d’autant plus active dans l’inconscient), mais encore chargées d’une extrême irritabilité, résultant du souvenir de tant de guerres récentes, de cent ans de propagande des nationalismes et de cette religion civique qui prend la place de la foi chrétienne dans l’esprit des masses médiumisées et dans la morale de leurs maîtres.</p>
                     </section>
-                    <section id="body-5-12" class="div level2 level2">
-                      <h2 class="head">50. Mutations de pensée et de vocabulaire<a class="bookmark" href="5#body-5-12"> §</a></h2>
+                    <section id="body-5-12" class="div level2">
+                      <h2 class="head">50. Mutations de pensée et de vocabulaire</h2>
                       <p class="p autofirst">Prendre conscience du phénomène régional, opposé au stato-national, implique des mutations de concepts et de catégories politiques.</p>
                       <p class="p">
 <a class="pb" href="#pb171" id="pb171">[p. 171]</a>
@@ -1862,8 +1963,8 @@ mêmes réflexes ombrageux. Louis Armand remarque que « le mot “indépendanc
 <a class="pb" href="#pb174" id="pb174">[p. 174]</a>
 de chacun et l’efficacité de son action seront garanties par la possibilité de se rattacher et de donner son allégeance à des ensembles différents à la fois par leur nature, leurs fonctions et leurs dimensions : petite patrie originelle et culture continentale, idéal national et religion universelle, cité régionale et cité européenne, associations professionnelles et culturelles tantôt locales, tantôt mondiales, domiciles multiples permettant de satisfaire alternativement les besoins contradictoires mais également valables d’enracinement et de nomadisme.</p>
                     </section>
-                    <section id="body-5-13" class="div level2 level2">
-                      <h2 class="head">51. Vers une politique des régions<a class="bookmark" href="5#body-5-13"> §</a></h2>
+                    <section id="body-5-13" class="div level2">
+                      <h2 class="head">51. Vers une politique des régions</h2>
                       <p class="p autofirst">On a vu que la notion de région s’est imposée à l’attention des économistes d’avant-garde, puis des sociologues et des politologues, et finalement de quelques hommes d’État. Les phénomènes majeurs qui ont motivé ces prises de conscience successives sont faciles à énumérer :</p>
                       <p class="p"><i class="i">a)</i> la CEE, dès ses débuts, a reconnu la nécessité d’une politique de « développement harmonieux des régions » au sein des six nations membres ;</p>
                       <p class="p"><i class="i">b)</i> des régions plurinationales se sont définies ou constituées et elles ne peuvent que se multiplier à mesure que les barrières douanières s’abaissent et tombent ;</p>
@@ -1885,8 +1986,8 @@ vide économique et culturel qui a résulté partout de la colonisation.</p>
                       <p class="p"><i class="i">b)</i> trouve aux échelons supérieurs de la fédération les possibilités de participer à des tâches plus vastes (continentales, mondiales).</p>
                       <p class="p">Il apparaît ainsi que le fédéralisme politique — cas particulier d’un processus général d’optimisation des maxima contradictoires — loin de se réduire à un système d’alliances interétatiques ou internationales, trouve sa réalisation la plus authentique au niveau des réalités interrégionales.</p>
                     </section>
-                    <section id="body-5-14" class="div level2 level2">
-                      <h2 class="head">52. Objections courantes<a class="bookmark" href="5#body-5-14"> §</a></h2>
+                    <section id="body-5-14" class="div level2">
+                      <h2 class="head">52. Objections courantes</h2>
                       <p class="p autofirst">Depuis 1963, date du premier essai quelque peu développé dans lequel (revenant d’ailleurs aux positions de <i class="i">L’Ordre nouveau</i> trente ans plus tôt<a class="noteref" href="5#note43" id="note43_"><sup>43</sup></a>) je préconisais une organisation fédérale de l’Europe basée sur les régions et non sur les États-nations<a class="noteref" href="5#note44" id="note44_"><sup>44</sup></a>, j’ai été amené à relever et à classer les objections les plus fréquentes à l’entreprise q<a id="_GoBack">‌</a>ui fait l’objet de ma lettre.</p>
                       <p class="p">Je note d’abord que le terme de <i class="i">difficulté</i> est souvent plus exact que celui d’objection. Dans la plupart des cas, la résistance ne provient pas d’un refus motivé des positions régionalistes, mais d’un ensemble 
 <a class="pb" href="#pb177" id="pb177">[p. 177]</a>
@@ -1897,16 +1998,16 @@ de réflexes conditionnés par un siècle et demi d’éducation stato-nationali
 <a class="pb" href="#pb178" id="pb178">[p. 178]</a>
 Contre ces passions-là, nul argument ne vaut et je perdrais mon temps à en écrire.</p>
                       <p class="p">Mais des objections apparemment plus réalistes nous sont faites par les partisans « malgré tout » d’une Europe composée d’États-nations. Distinguons quatre groupes parmi les « difficultés » qu’ils opposent au concept de région et aux projets fondés sur lui.</p>
-                      <section id="body-5-14-1" class="div level3 level3">
-                        <h3 class="head">Objections mythologiques ou prospectives<a class="bookmark" href="5#body-5-14-1"> §</a></h3>
+                      <section id="body-5-14-1" class="div level3">
+                        <h3 class="head">Objections mythologiques ou prospectives</h3>
                         <p class="p autofirst">« Vous allez contre le mouvement de l’histoire, selon lequel la nation est le progrès. »</p>
                         <p class="p">« La région est une nostalgie réactionnaire. Le progrès et l’efficacité, au <span class="num">xx<sup class="sup">e</sup></span> siècle, exigent des ensembles plus centralisés ou intégrés. »</p>
                         <p class="p">« L’État-nation demeurera longtemps encore le principal foyer de fidélité, particulièrement pour les peuples récemment émancipés et économiquement arriérés<a class="noteref" href="5#note46" id="note46_"><sup>46</sup></a> » (Z. Brzezinski).</p>
                         <p class="p">Principes d’une réponse : Les hypothèses prospectives, formées par extrapolation du passé ou du présent, sont toutes à la merci d’une équation nouvelle, d’une action aujourd’hui encore impondérable, d’une volonté qui peut surgir demain, posant un but nouveau et créant ses moyens. Si l’on ne déclare pas ce qu’on <i class="i">veut</i>, il n’est pas très intéressant de chercher à deviner ce qui sera : « l’objectivité scientifique » dissimulant une démission civique rend le pire de plus en plus sûr.</p>
                       </section>
-                      <section id="body-5-14-2" class="div level3 level3">
+                      <section id="body-5-14-2" class="div level3">
                         <a class="pb" href="#pb179" id="pb179">[p. 179]</a>
-                        <h3 class="head">Objections tactiques<a class="bookmark" href="5#body-5-14-2"> §</a></h3>
+                        <h3 class="head">Objections tactiques</h3>
                         <p class="p autofirst">« Comme s’il n’était déjà pas assez difficile de faire l’Europe avec les Six, et d’ajouter les Sept aux Six ! Vous risquez de tout saboter en compliquant le problème avec votre utopie ! »</p>
                         <p class="p">« On ne peut passer des nations souveraines aux régions fédérées sans transition, et cela prendra des décennies ! Ce qui est urgent, c’est le prix du lait et le taux d’accroissement du PNB. »</p>
                         <p class="p">Principes d’une réponse :</p>
@@ -1917,16 +2018,16 @@ Contre ces passions-là, nul argument ne vaut et je perdrais mon temps à en éc
 1848, et il est entré en vigueur à cette date sans la moindre mesure de transition. (Suppression instantanée des péages entre vingt-cinq États et installation d’un cordon douanier commun, par exemple.)</p>
                         <p class="p">Il n’y a jamais qu’une transition du projet au succès : c’est l’acte créateur, ou révolution, procédant d’une vision claire et d’une volonté sincère de réalisation.</p>
                       </section>
-                      <section id="body-5-14-3" class="div level3 level3">
-                        <h3 class="head">Résistances conditionnées par l’éducation stato-nationaliste<a class="bookmark" href="5#body-5-14-3"> §</a></h3>
+                      <section id="body-5-14-3" class="div level3">
+                        <h3 class="head">Résistances conditionnées par l’éducation stato-nationaliste</h3>
                         <p class="p autofirst">« La France est immortelle », mais « l’Allemagne éternelle » (François Mauriac), tandis que « les régions sont encore à naître ».</p>
                         <p class="p">« Les gens n’en veulent pas, de vos régions autonomes. Ils préfèrent mendier des subventions à Paris. Voyez les Bretons, qui votent gaulliste. »</p>
                         <p class="p">« Les conflits entre les régions seront forcément plus nombreux et plus mesquins que les conflits entre nos nations. »</p>
                         <p class="p">« Voulez-vous donc balkaniser l’Europe ? »</p>
                         <p class="p">Ces réflexes passionnels, boutades ou étourderies, ne sont guère passibles d’une réfutation.</p>
                       </section>
-                      <section id="body-5-14-4" class="div level3 level3">
-                        <h3 class="head">Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)<a class="bookmark" href="5#body-5-14-4"> §</a></h3>
+                      <section id="body-5-14-4" class="div level3">
+                        <h3 class="head">Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)</h3>
                         <p class="p autofirst">« Comment allez-vous découper vos régions ? »</p>
                         <p class="p">« Quelles seront leurs frontières exactes ? »</p>
                         <p class="p">« Faut-il qu’elles aient des superficies ou des populations à peu près égales ? La région de Paris, avec ses 9 ou 10 millions d’habitants, est plus petite que le Limousin, qui n’a que 0,7 million d’habitants. Ça ne se tient pas ! »</p>
@@ -1937,8 +2038,8 @@ Contre ces passions-là, nul argument ne vaut et je perdrais mon temps à en éc
                         <p class="p">Chose étrange, c’est ce dernier groupe d’objections ou difficultés qui est la cause principale de l’ajournement des solutions régionalistes, c’est-à-dire de l’incertitude ou insécurité intellectuelle qui caractérise la plupart des projets d’Europe fédérale, dès qu’on aborde le problème de leur structure politique. C’est donc lui que l’on va tenter d’analyser.</p>
                       </section>
                     </section>
-                    <section id="body-5-15" class="div level2 level2">
-                      <h2 class="head">53. La région n’est pas un État-nation en réduction<a class="bookmark" href="5#body-5-15"> §</a></h2>
+                    <section id="body-5-15" class="div level2">
+                      <h2 class="head">53. La région n’est pas un État-nation en réduction</h2>
                       <p class="p autofirst">Presque toutes les difficultés, obscurités, incertitudes, blocages mentaux, qu’éprouve un homme de cette seconde moitié du <span class="num">xx<sup class="sup">e</sup></span> siècle à concevoir une Europe des régions, proviennent du « modèle » que l’école (aux trois degrés) a imposé depuis un siècle et demi. L’homme d’aujourd’hui, formé par les manuels, croit, sans la moindre discussion, une série de propositions axiomatiques de ce genre :</p>
                       <p class="p">— L’État doit être unique et indivisible<a class="noteref" href="5#note47" id="note47_"><sup>47</sup></a>.</p>
                       <p class="p">— De son siège dans la capitale, l’État régit souverainement toute l’existence publique de la nation, 
@@ -1961,9 +2062,9 @@ le terme, qui ne signifie pas « tout casser », mais au contraire poser un no
                       <p class="p">Mais le fédéralisme va plus loin et conçoit d’autres types et modèles.</p>
                       <p class="p">Essayons de les approcher en tenant compte des résistances décrites et des réflexes stato-nationalistes, dont, je le répète, nul de nous n’est indemne.</p>
                     </section>
-                    <section id="body-5-16" class="div level2 level2">
+                    <section id="body-5-16" class="div level2">
                       <a class="pb" href="#pb185" id="pb185">[p. 185]</a>
-                      <h2 class="head">54. De la pluralité des allégeances<a class="bookmark" href="5#body-5-16"> §</a></h2>
+                      <h2 class="head">54. De la pluralité des allégeances</h2>
                       <p class="p autofirst">Comment échapper aux <i class="i">réflexes unitaires</i> conditionnés par cent ans d’école aux trois degrés, par tous les atlas, par toute la presse, par tous les garde-à-vous et saluts au drapeau, et par deux guerres mondiales des plus réussies, trente-huit millions de morts en deux séances (l’une de quatre ans, la seconde de cinq), sans compter la paresse naturelle de notre esprit qui cherche en tout la réduction à la rassurante unité, ou au moins à l’uniformité ?</p>
                       <p class="p">C’est un problème d’éducation ou de recyclage qui va nous prendre au moins vingt ans, si nous commençons tout de suite.</p>
                       <p class="p">
@@ -1983,8 +2084,8 @@ Qu’on me permette un exemple personnel, pour aller vite et rester dans le conc
                       <p class="p">Je demande la division du phénomène État en autant de foyers, et sa répartition à autant de niveaux qu’il y a de fonctions diverses dans l’humanité et d’ordres de grandeur dans nos projets.</p>
                       <p class="p">Je demande la dissociation et la répartition fédéraliste des pouvoirs aujourd’hui concentrés en un seul lieu, accaparés par l’État national, et qui le seront, demain, par l’État régional.</p>
                     </section>
-                    <section id="body-5-17" class="div level2 level2">
-                      <h2 class="head">55. Vers une formule fédéraliste de l’État<a class="bookmark" href="5#body-5-17"> §</a></h2>
+                    <section id="body-5-17" class="div level2">
+                      <h2 class="head">55. Vers une formule fédéraliste de l’État</h2>
                       <p class="p autofirst">Dans une page essentielle de son <i class="i">Principe fédératif</i>, où Proudhon estime qu’il « résume toute sa science constitutionnelle », je trouve cette proposition :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">Organiser en chaque État fédéré le gouvernement d’après la loi de séparation des organes ; je veux dire : séparer dans le pouvoir tout ce qui peut être séparé, définir tout ce qui peut être défini, distribuer entre organes ou fonctionnaires différents tout ce qui aura été séparé et défini, ne rien laisser dans l’indivision.</p>
@@ -2027,8 +2128,8 @@ entre l’économie et l’Université ? ou entre les formules de participation
                       <p class="p">Le niveau des fédérations « nationales » de régions ouvre un autre champ de recherches. Il s’agirait ici de la réunion de régions libérées de leur État-nation, mais qui jugeraient souhaitable de renouer <i class="i">librement</i> des liens de type national, politique, sujets à révision périodique, et non exclusifs, bien entendu, de liens économiques, sociaux ou culturels noués ailleurs. Voilà qui nous donnera, sans aucun doute, plusieurs Europes régionales de définitions différentes, par suite difficilement superposables, presque impossibles à dessiner…</p>
                       <p class="p">Mais après tout, chacun de nous sait très bien à quelles sociétés il cotise, où il paie ses impôts, qui est de sa paroisse et quels sont les paysages de son cœur. Et nul n’exige que tout cela soit inscrit dans les limites peintes en couleurs plates, sans déborder, de l’Hexagone français, de l’Île anglaise, de la Botte italienne ou de la Peau de taureau ibérique.</p>
                     </section>
-                    <section id="body-5-18" class="div level2 level2">
-                      <h2 class="head">56. Passage de l’Europe des mythes nationaux à l’Europe des réalités<a class="bookmark" href="5#body-5-18"> §</a></h2>
+                    <section id="body-5-18" class="div level2">
+                      <h2 class="head">56. Passage de l’Europe des mythes nationaux à l’Europe des réalités</h2>
                       <p class="p autofirst">Dès le milieu du siècle dernier, un homme avait prévu très exactement l’évolution de l’État-nation vers le règne botté, gauche-droite, de ceux qu’il désignait précisément comme « les terribles simplificateurs », totalitaires de toute couleur. Et tout ce qu’il écrivait alors à la louange du « petit État » 
 <a class="pb" href="#pb193" id="pb193">[p. 193]</a>
 se trouve définir aujourd’hui les conditions <i class="i">sine qua non</i> de la participation civique :</p>
@@ -2228,7 +2329,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                           <a href="5#body-5-7">45. Une règle d’or du fédéralisme</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-8">46. Invention de la région au<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="5#body-5-8">46. Invention de la région au <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                         <li class="collateral">
                           <a href="5#body-5-9">47. Frontières effacées, régions libérées</a>
@@ -2249,16 +2350,16 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                           <a href="5#body-5-14">52. Objections courantes</a>
                           <ul>
                             <li class="collateral">
-                              <a href="5#body-5-14-1">Objections mythologiques ou prospectives</a>
+                              <a href="5#body-5-14-1">52.a. Objections mythologiques ou prospectives</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-5-14-2">Objections tactiques</a>
+                              <a href="5#body-5-14-2">52.b. Objections tactiques</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-5-14-3">Résistances conditionnées par l’éducation stato-nationaliste</a>
+                              <a href="5#body-5-14-3">52.c. Résistances conditionnées par l’éducation stato-nationaliste</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-5-14-4">Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)</a>
+                              <a href="5#body-5-14-4">52.d. Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)</a>
                             </li>
                           </ul>
                         </li>
@@ -2333,7 +2434,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb197" id="pb197">[p. 197]</a>
-                    <h1 class="head chapter">Lettre ouverte, suite et fin<a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Lettre ouverte, suite et fin</h1>
                     <p class="p autofirst">
                       <span class="sc">Européennes, Européens !</span>
                     </p>

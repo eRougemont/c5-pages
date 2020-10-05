@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Introduction (par Lucien Febvre)<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Introduction (par Lucien Febvre)</h1>
                     <p class="p autofirst">Révélation de la Suisse : j’intitulerais volontiers ainsi, pour ma part, le beau travail de M. Denis de Rougemont. Que de choses, et précieuses à savoir, il apprendra à la masse internationale des hommes qui, pour avoir traversé le Léman de Genève à Villeneuve, admiré le bleu étonnant du lac de Thoune, contemplé d’Interlaken la Jungfrau et peut-être suivi, à la lunette, la marche audacieuse et prudente sur les glaciers d’une caravane d’encordés — à la question : « Vous connaissez la Suisse ? » — peuvent répondre en conscience : « Bien sûr ! »</p>
                     <p class="p">D’autant que, ce genre de connaissance se fait plus rare aujourd’hui qu’autrefois, au temps de ma jeunesse. La monnaie de ce pays alpestre ayant décidé une bonne fois de ne plus descendre dans les plaines basses où croupissent (avec d’autres) nos pauvres « francs français ». Ce qui rend naturellement inaccessible la Suisse à beaucoup de pèlerins possibles, obligés par « faute d’argent » de compter sérieusement ; or, parmi ces ignorants involontaires des terres et des 
 <a class="pb" href="#pb8" id="pb8">[p. 8]</a>
@@ -170,7 +170,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb15" id="pb15">[p. 15]</a>
-                    <h1 class="head chapter">Note de l’auteur<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Note de l’auteur</h1>
                     <p class="p autofirst">Ce petit ouvrage, écrit en mars 1949, fait partie d’une série d’études sur les nations modernes, entreprise sous la responsabilité de la Conférence permanente des hautes études internationales, dans le cadre du programme de l’Unesco.</p>
                     <p class="p">L’un des buts de cette série étant de « permettre la comparaison entre les aspirations et les institutions diverses des peuples étudiés », il était convenu que « les monographies adopteraient, en gros, un même plan qui rende possible cette comparaison ». Je m’y suis tenu scrupuleusement, estimant que l’expérience valait d’être tentée, et qu’il était en somme bien plus intéressant de jouer la règle du jeu que de « faire l’écrivain » aux dépens du sujet et de la manière de le traiter qu’on attendait : « scientifique et au moins objective ».</p>
                     <p class="p">Je remercie tout particulièrement M. Charles Burky, professeur de géographie humaine à l’Université de Genève, pour les suggestions et critiques dont il m’a fait bénéficier. Les professeurs A. Simonius, de Bâle, et Paul Mantoux, de Genève, ont également relu mon manuscrit au nom de la Conférence des hautes études. Je suis heureux d’avoir pu tenir compte de leurs très compétentes observations.</p>
@@ -271,7 +271,7 @@
                   <article role="article">
                     <a class="pb" href="#pb19" id="pb19">[p. 19]</a>
                     <h1 class="head kicker chapter">Chapitre I.</h1>
-                    <h1 class="head chapter">Le peuple et son histoire<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">Le peuple et son histoire</h1>
                     <p class="p autofirst">L’image conventionnelle de la Suisse semble avoir été fixée par le vers célèbre de Victor Hugo :</p>
                     <blockquote class="quote">
                       <div class="l">Le Suisse trait sa vache et vit paisiblement.</div>
@@ -574,6 +574,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>2.a. La Commune – 2.b. Le canton – 2.c. De la souveraineté cantonale à la Confédération – 2.d. Les autorités fédérales – 2.e. Les partis et la vie politique</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	2.a. La Commune (1953, La Confédération helvétique)
+body-4-2	2.b. Le canton (1953, La Confédération helvétique)
+body-4-3	2.c. De la souveraineté cantonale à la Confédération (1953, La Confédération helvétique)
+body-4-4	2.d. Les autorités fédérales (1953, La Confédération helvétique)
+body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -584,9 +595,9 @@
                   <article role="article">
                     <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
                     <h1 class="head kicker chapter">Chapitre II.</h1>
-                    <h1 class="head chapter">Les institutions politiques<a class="bookmark" href="4"> §</a></h1>
-                    <section id="body-4-1" class="div level2 level2">
-                      <h2 class="head">a) La Commune<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                    <h1 class="head chapter">Les institutions politiques</h1>
+                    <section id="body-4-1" class="div level2">
+                      <h2 class="head">La Commune</h2>
                       <p class="p autofirst">Comment devient-on Suisse ? En obtenant l’agrégation à une commune dans un canton. Ce fait très simple contient en germe la plupart des distinctions fondamentales qu’il y aurait lieu de marquer entre le régime fédéraliste de la Suisse et les régimes centralistes de la plupart des États modernes.</p>
                       <p class="p">Pour devenir Américain, il faut si l’on habite depuis de longues années aux États-Unis, quitter le territoire national, passer quelques jours au Canada, au Mexique, à la Havane, ou aux Bermudes, y recevoir d’un consulat américain les « premiers papiers » qui font de vous un candidat admis à la nationalité américaine, puis rentrer en cette qualité. Cette cérémonie symbolique et coûteuse vous introduit dans une communauté abstraite, et ne vous enracine nulle part sur l’immense territoire des États-Unis.</p>
                       <p class="p">
@@ -610,8 +621,8 @@
  Il est curieux de noter que la protection des autonomies communales n’est pas mentionnée dans la Constitution fédérale. On serait tenté d’y voir la preuve que cette autonomie va de soi chez les Suisses.</p>
                       <p class="p">Le contrôle du canton sur les communes se limite à examiner la conformité des décisions communales au droit en vigueur, et d’autre part à approuver les comptes (parfois le budget) des municipalités.</p>
                     </section>
-                    <section id="body-4-2" class="div level2 level2">
-                      <h2 class="head">b) Le canton<a class="bookmark" href="4#body-4-2"> §</a></h2>
+                    <section id="body-4-2" class="div level2">
+                      <h2 class="head">Le canton</h2>
                       <p class="p autofirst">L’indigénat d’une commune donne droit de cité dans un canton. Et les cantons sont les éléments de base sur lesquels repose l’édifice fédéral.</p>
                       <p class="p">Les cantons suisses sont des États souverains « dans la mesure où leur souveraineté n’est pas limitée par la Constitution fédérale ; ils jouissent, comme tels, de tous les droits qui ne sont pas attribués au pouvoir fédéral » (art. 3 de la Constitution fédérale).</p>
                       <p class="p">L’exaspération des nationalismes modernes fait que beaucoup de nos contemporains jugent étrange, et presque contradictoire dans les termes, la notion d’une souveraineté limitée. Cependant, un siècle d’expérience heureuse a rendu cette notion familière aux Suisses. Ils n’oublient jamais que leurs cantons sont antérieurs à la Confédération, qui a résulté de leurs alliances progressivement resserrées. Mais ils voient clairement, d’autre part, que la garantie des autonomies cantonales ne saurait pratiquement résider que dans la mise en commun de leurs forces. La centralisation qu’ils acceptent dans certains domaines, 
@@ -633,8 +644,8 @@
 
             <i class="i">ne sont pas les mêmes</i>. La formule du régime totalitaire, c’est la coïncidence exacte et imposée des frontières de tous les domaines dont relève normalement un citoyen : frontières communes pour la langue, la culture, la race, la religion, les mœurs, le droit, l’économie, le parti politique au pouvoir. En Suisse au contraire, toutes les combinaisons et permutations de ces diverses allégeances, augmentées des allégeances communales et cantonales, sont non seulement possibles, mais courantes. Car les frontières des langues ne sont pas celles des religions ; celles des cantons ne sont pas celles des régions économiques ; et celles des cultures ne sont pas même celles de la Confédération. C’est dans le <i class="i">jeu</i> ménagé entre ces éléments, dans la tolérance nécessaire que développent la dispersion et l’interpénétration de ces groupes, dans la faculté de choix qui se trouve laissée à chacun, que le citoyen suisse court chaque jour les chances d’une liberté réelle, dont il ne prend d’ailleurs pas davantage conscience que de l’air qu’il respire.</p>
                     </section>
-                    <section id="body-4-3" class="div level2 level2">
-                      <h2 class="head">c) De la souveraineté cantonale à la Confédération<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                    <section id="body-4-3" class="div level2">
+                      <h2 class="head">De la souveraineté cantonale à la Confédération</h2>
                       <p class="p autofirst">La structure politique de la plupart des cantons telle qu’on vient de la décrire, date du premier tiers du <span class="num">xix<sup class="sup">e</sup></span> siècle et du renversement des Patriciats, dont la subtile hiérarchie de conseils fut considérablement simplifiée et aérée. Cette évolution intérieure des cantons, unifiant leurs régimes dans une large mesure, allait faciliter le passage de la fédération d’États qu’était l’ancienne Suisse à l’État fédératif 
 <a class="pb" href="#pb68" id="pb68">[p. 68]</a>
  qu’elle devint en 1848. Mais bien d’autres facteurs y concoururent : politiques, économiques, militaires, plus rarement idéologiques.</p>
@@ -665,8 +676,8 @@
 <a class="pb" href="#pb73" id="pb73">[p. 73]</a>
  qui ne devait plus être remis en question jusqu’à nos jours. L’essor économique, social et culturel de la Suisse fut immédiat. Aucune des catastrophes prédites et calculées par les tenants de l’ordre ancien ne se produisit.</p>
                     </section>
-                    <section id="body-4-4" class="div level2 level2">
-                      <h2 class="head">d) Les autorités fédérales<a class="bookmark" href="4#body-4-4"> §</a></h2>
+                    <section id="body-4-4" class="div level2">
+                      <h2 class="head">Les autorités fédérales</h2>
                       <p class="p autofirst">C’est la Constitution de 1848 qui régit la Suisse d’aujourd’hui, nonobstant un assez grand nombre de révisions partielles, dont la plus importante fut votée par le peuple en 1874. Cette Constitution mérite non seulement l’épithète officielle de « fédérale » mais encore celle de « fédéraliste », et cela pour une raison précise : c’est qu’elle représente une synthèse des autonomies locales et de l’union. En effet, si la Fédération limite en droit la souveraineté des cantons, elle sauvegarde en fait leur existence distincte, elle agrandit le champ de leur rayonnement économique et culturel.</p>
                       <p class="p">Cet équilibre, proprement fédéraliste, est illustré par le système bicaméral institué en 1848.</p>
                       <p class="p">L’<i class="i">Assemblée fédérale</i>, pouvoir législatif et autorité suprême de la Confédération, est composée de deux Chambres : le <i class="i">Conseil national</i>, représentant le peuple, et le <i class="i">Conseil des États</i>, mandataires des cantons. Ces deux conseils ont des pouvoirs égaux, et leur accord est indispensable pour l’acceptation ou le rejet d’une loi.</p>
@@ -694,8 +705,8 @@
  une fonction de vigilance et d’arbitrage pour l’ensemble de la Fédération.</p>
                       <p class="p">À ce propos, il faut remarquer que les 28 juges composant le Tribunal fédéral n’ont pas, comme le Conseil d’État français ou la Cour Suprême des États-Unis, le droit d’examiner la conformité des lois nouvelles à la Constitution. Cette compétence appartient au Conseil fédéral, qui d’autre part garantit les constitutions et approuve les lois cantonales. Le Tribunal fédéral connaît essentiellement des différends entre la Confédération, d’une part, et les cantons ou les corporations, d’autre part. Les citoyens peuvent en outre lui présenter leurs réclamations, s’ils estiment leurs droits constitutionnels lésés par un canton, « ce qui a grandement contribué à l’emploi de méthodes correctes dans l’administration » comme le souligne le juge fédéral P. Bolla<a class="noteref" href="4#note19" id="note19_"><sup>19</sup></a>.</p>
                     </section>
-                    <section id="body-4-5" class="div level2 level2">
-                      <h2 class="head">e) Les partis et la vie politique<a class="bookmark" href="4#body-4-5"> §</a></h2>
+                    <section id="body-4-5" class="div level2">
+                      <h2 class="head">Les partis et la vie politique</h2>
                       <p class="p autofirst">Un certain nombre de partis n’existent que dans un seul canton, ou même dans une seule région de ce canton. Les partis qui ont acquis quelque importance sur le plan fédéral sont au nombre de sept.</p>
                       <p class="p">La droite est formée par les catholiques-conservateurs, puissants dans la Suisse centrale et campagnarde, et par les libéraux-conservateurs, dont les 
 <a class="pb" href="#pb80" id="pb80">[p. 80]</a>
@@ -833,19 +844,19 @@
                       <a href="#">2. Les institutions politiques</a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-4-1">a) La Commune</a>
+                          <a href="4#body-4-1">2.a. La Commune</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-2">b) Le canton</a>
+                          <a href="4#body-4-2">2.b. Le canton</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-3">c) De la souveraineté cantonale à la Confédération</a>
+                          <a href="4#body-4-3">2.c. De la souveraineté cantonale à la Confédération</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-4">d) Les autorités fédérales</a>
+                          <a href="4#body-4-4">2.d. Les autorités fédérales</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-5">e) Les partis et la vie politique</a>
+                          <a href="4#body-4-5">2.e. Les partis et la vie politique</a>
                         </li>
                       </ul>
                     </li>
@@ -916,7 +927,7 @@
                   <article role="article">
                     <a class="pb" href="#pb91" id="pb91">[p. 91]</a>
                     <h1 class="head kicker chapter">Chapitre III.</h1>
-                    <h1 class="head chapter">Institutions et aspirations économiques<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">Institutions et aspirations économiques</h1>
                     <p class="p autofirst">Nous ne tenterons pas, dans ce chapitre, de donner un tableau complet de l’économie suisse, ni d’analyser ses problèmes actuels : certaines modifications de la situation européenne ou mondiale peuvent les transformer demain dans une mesure imprévisible. Nous nous attacherons plutôt à dégager quelques constantes naturelles, ainsi que les attitudes psychologiques qu’elles conditionnent ou qui, au contraire, se sont développées en réponse à ce <i class="i">challenge</i> : la pauvreté du sol suisse.</p>
                     <p class="p">On s’imagine volontiers la Suisse comme un pays de pâtres pittoresques qui chantent des jodels, font des trous dans le fromage, et vendent très cher aux étrangers le droit de contempler leurs paysages célèbres. En fait, c’est à peine si 22 % de la population vivent de 
 <a class="pb" href="#pb92" id="pb92">[p. 92]</a>
@@ -1223,6 +1234,15 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>4.a. La famille – 4.b. L’éducation – 4.c. L’armée</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-6-1	4.a. La famille (1953, La Confédération helvétique)
+body-6-2	4.b. L’éducation (1953, La Confédération helvétique)
+body-6-3	4.c. L’armée (1953, La Confédération helvétique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1233,9 +1253,9 @@
                   <article role="article">
                     <a class="pb" href="#pb119" id="pb119">[p. 119]</a>
                     <h1 class="head kicker chapter">Chapitre IV.</h1>
-                    <h1 class="head chapter">La famille et l’éducation<a class="bookmark" href="6"> §</a></h1>
-                    <section id="body-6-1" class="div level2 level2">
-                      <h2 class="head">La famille<a class="bookmark" href="6#body-6-1"> §</a></h2>
+                    <h1 class="head chapter">La famille et l’éducation</h1>
+                    <section id="body-6-1" class="div level2">
+                      <h2 class="head">La famille</h2>
                       <p class="p autofirst">Dans tous les pays de structure sociale très composite, comme ceux qui appartiennent à la civilisation occidentale, il est classique de distinguer entre familles rurales et citadines, catholiques et protestantes, aisées et pauvres, etc. Le nombre des enfants ou la proportion des divorces varient selon la religion, le niveau de vie et l’habitat. En Suisse, la situation se trouve singulièrement compliquée par l’adjonction de facteurs cantonaux et racio-linguistiques. Il y aurait lieu d’étudier séparément au moins vingt types de familles suisses, si l’on s’en tenait aux seuls facteurs énumérés et à leurs combinaisons. Car il existe des familles catholiques en Suisse alémanique et en Suisse romande ; et dans chacun de ces domaines linguistiques, il en est de rurales et de citadines, les unes pauvres et les autres riches, ce qui donne huit types. Autant de familles catholiques au Tessin.</p>
                       <p class="p">Voilà qui nous oblige à une extrême prudence 
 <a class="pb" href="#pb120" id="pb120">[p. 120]</a>
@@ -1354,8 +1374,8 @@
  on devine certaines traditions germaniques. L’homme libre, le citoyen, prend son épée pour aller voter à la Landsgemeinde ; ses droits civiques sont liés à sa force, à sa qualité militaire. Quant à la femme, repos du guerrier, il lui sied de se borner aux trois activités désignées par la fameuse formule : <i class="i">Kinder, Küche, Kirche</i> (les enfants, la cuisine, l’église). Et de fait, les femmes suisses, en société, laissent parler leurs maris ou parlent entre elles — à l’inverse de ce que l’on observe en Amérique.</p>
                       <p class="p">En dépit de cette absence de droits politiques, les femmes suisses jouent un rôle actif dans la vie professionnelle. Plus de 800 000 gagnent leur vie, et pour 525 000 d’entre elles, le métier représente l’occupation principale. Cependant, elles attendent encore la reconnaissance d’une pleine égalité de droits dans l’exercice de leur profession. Elles revendiquent « un salaire égal à travail égal ». Seules les avocates et doctoresses l’obtiennent, mais non les employées et ouvrières.</p>
                     </section>
-                    <section id="body-6-2" class="div level2 level2">
-                      <h2 class="head">L’éducation<a class="bookmark" href="6#body-6-2"> §</a></h2>
+                    <section id="body-6-2" class="div level2">
+                      <h2 class="head">L’éducation</h2>
                       <p class="p autofirst">Il nous paraît impossible d’estimer dans quelle mesure la famille, en Suisse, détermine plus ou moins qu’ailleurs la formation morale et civique de l’enfant ou de l’adolescent. C’est d’abord qu’il n’existe pas un type de « famille suisse » que l’on puisse étudier avec un minimum d’objectivité scientifique, mais vingt au moins. C’est ensuite que le souci éducatif est comme diffus dans toute l’atmosphère suisse, famille, sociétés, 
 <a class="pb" href="#pb125" id="pb125">[p. 125]</a>
  syndicats, armée, écoles. « Tout Suisse est pédagogue », répètent les auteurs suisses. Et cela s’explique aisément, sinon par une cause unique.</p>
@@ -1405,8 +1425,8 @@
 <a class="pb" href="#pb136" id="pb136">[p. 136]</a>
  Mais l’empreinte commune la plus profonde que reçoivent les citoyens suisses, leur est donnée par le service militaire.</p>
                     </section>
-                    <section id="body-6-3" class="div level2 level2">
-                      <h2 class="head">L’armée<a class="bookmark" href="6#body-6-3"> §</a></h2>
+                    <section id="body-6-3" class="div level2">
+                      <h2 class="head">L’armée</h2>
                       <p class="p autofirst">L’armée suisse est une armée de milices. La Constitution fédérale interdit à la Confédération le droit d’entretenir des troupes permanentes (art. 13). Il en résulte qu’à un degré jamais atteint en Europe, elle est vraiment la chose du peuple, et populaire aux deux sens du terme. L’antimilitarisme n’existe guère que chez quelques individus isolés, il n’est pas le fait de toute une classe ou d’un parti. Passer pour un bon soldat ou un bon officier est généralement « bien vu » dans toutes les couches de la population. La preuve la plus indiscutable de l’intégration parfaite de l’armée à la nation est fournie par ce simple fait : chaque soldat suisse entre les périodes d’instruction ou de mobilisation, conserve chez lui dans une armoire son fusil, son uniforme et des munitions. Incidemment, cette disposition du règlement militaire — sans exemple dans d’autres pays — montre à quel point l’État fait confiance au citoyen et redoute peu l’éventualité de menées subversives.</p>
                       <p class="p">Cette armée ultra-démocratique, sans caste militaire, toute mêlée à la vie du peuple, est devenue, depuis 1848, l’agent principal de l’helvétisation du pays. Au cours des manœuvres annuelles et des longues périodes de mobilisation qui ont marqué les deux guerres mondiales, les fréquents déplacements de 
 <a class="pb" href="#pb137" id="pb137">[p. 137]</a>
@@ -1508,13 +1528,13 @@
                       <a href="#">4. La famille et l’éducation</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-6-1">La famille</a>
+                          <a href="6#body-6-1">4.a. La famille</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-2">L’éducation</a>
+                          <a href="6#body-6-2">4.b. L’éducation</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-3">L’armée</a>
+                          <a href="6#body-6-3">4.c. L’armée</a>
                         </li>
                       </ul>
                     </li>
@@ -1579,7 +1599,7 @@
                   <article role="article">
                     <a class="pb" href="#pb141" id="pb141">[p. 141]</a>
                     <h1 class="head kicker chapter">Chapitre V.</h1>
-                    <h1 class="head chapter">La vie religieuse<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">La vie religieuse</h1>
                     <p class="p autofirst">Sur les origines du christianisme en Suisse, l’historien ne dispose que de récits légendaires. Il semble que dès le <span class="num">iii<sup class="sup">e</sup></span> siècle, la nouvelle doctrine s’introduisit dans la partie occidentale du pays, apportée par des artisans, des marchands et des légionnaires venus de la vallée inférieure du Rhône. Au <span class="num">iv<sup class="sup">e</sup></span> siècle, une communauté chrétienne est établie à Genève, Bâle est déjà le siège d’un évêché, de même que Martigny en Valais. Au <span class="num">v<sup class="sup">e</sup></span> siècle, ces territoires romanisés sont envahis par les Burgondes, peuplade germanique naguère battue par Aetius et refoulée jusqu’en Savoie, d’où elle s’est répandue sur la Bourgogne actuelle pour y fonder un royaume indépendant. Les Burgondes professent l’arianisme et ne se mêleront avec la population celte et les colons romains que lorsqu’ils auront adopté la religion catholique, au <span class="num">vi<sup class="sup">e</sup></span> siècle.</p>
                     <p class="p">Cependant, le paganisme fait un retour en force avec la poussée des Alamans, venus du Nord-Est, 
 <a class="pb" href="#pb142" id="pb142">[p. 142]</a>
@@ -1808,7 +1828,7 @@
                   <article role="article">
                     <a class="pb" href="#pb157" id="pb157">[p. 157]</a>
                     <h1 class="head kicker chapter">Chapitre VI.</h1>
-                    <h1 class="head chapter">Le peuple suisse et le monde<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head chapter">Le peuple suisse et le monde</h1>
                     <p class="p autofirst">Nous pensons en avoir assez dit, dans les chapitres précédents, pour établir en toute clarté que la Suisse n’est pas une nation, au sens que le terme a pris pendant le <span class="num">xix<sup class="sup">e</sup></span> siècle, et qu’en conséquence, il serait vain de chercher, dans son peuple ou sa littérature, les témoignages d’un sentiment proprement national, comparable à celui que les Français, les Italiens, les Espagnols ou les Irlandais éprouvent à l’endroit de leur patrie. La race, la religion, la langue, la culture, parfois même la doctrine du parti au pouvoir, coïncident, dans tous ces pays, avec les limites du territoire, et se recouvrent l’une l’autre assez exactement pour créer un sens unitaire ; dans ce cas, les minorités ne jouent plus qu’un rôle négligeable, et souvent se sentent quelque peu étrangères à l’âme nationale : tout au moins, la majorité le leur fait sentir sans scrupules. En Suisse, nous l’avons dit, le problème des minorités ne se pose pas : chaque groupe étant 
 <a class="pb" href="#pb158" id="pb158">[p. 158]</a>
  simultanément minoritaire par rapport à l’ensemble des autres, et majoritaire dans un canton, une région, un domaine essentiel de la vie commune. Il arrive même que les majorités conjuguent leurs efforts pour secourir une minorité et favoriser sa survivance. C’est en vertu de ce système de « prime à la minorité » que la Confédération a non seulement reconnu comme langue nationale le romanche (parlé par moins de 40 000 habitants) mais, par ses subventions, a donné un regain de vitalité au petit groupe qui le parlait, et qui se voyait menacé de décadence rapide.</p>

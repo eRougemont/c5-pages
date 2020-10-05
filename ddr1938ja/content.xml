@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Avertissement</h1>
                     <p class="p autofirst">Voici des notes qui, par leurs dates, prennent la suite du <a><cite class="title">Journal d’un intellectuel en chômage</cite></a>. Mais il ne s’agit plus de chômage. L’auteur vit en Allemagne hitlérienne, et il y vit de son travail. (Des cours à l’Université d’une ville que l’on n’a pas jugé utile de nommer.)</p>
                     <p class="p">Le lecteur sera déçu s’il attend une évocation poétique de l’Allemagne : c’est le régime seul qui retient l’attention. Et l’on n’a pas voulu donner de ce régime un tableau objectif et complet ; mais voici quelques prises sur sa vie quotidienne, sur son <i class="i">existence</i> dans les êtres, celle dont l’Histoire ne nous parlera point, — la plus réelle.</p>
                     <p class="p">On se demandera sans doute pourquoi ce journal n’est publié qu’après deux ans de tiroir. Les nouvelles qu’il apporte ne sont-elles pas vieillies, dépassées par les événements, et par certaine panique récente ? L’auteur s’est posé la question d’une manière un peu différente. S’il a tardé à publier ces pages, c’est justement qu’à son retour d’Allemagne, il n’était pas encore fixé sur la nature de leur actualité. Il craignait de n’avoir décrit que des aspects passagers du régime. Et comme son ambition n’était nullement de faire concurrence aux journalistes d’information, il s’est dit que le seul moyen de vérifier l’actualité de ses notes, c’était d’attendre 
@@ -79,13 +79,13 @@
                       <a href="3">2. Conclusion 1938</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="5">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">iii. Les jacobins en chemise brune</a>
+                      <a href="6">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>
@@ -132,6 +132,37 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>Fin d’octobre 1935 – 5 novembre 1935 – 6 novembre 1935 – 9 novembre 1935 – 11 novembre 1935 – Fin de novembre 1935 – Fin de Décembre 1935 – 2 janvier 1936 – 3 janvier 1936 – 10 janvier 1936 – 15 janvier 1936 – 25 janvier 1936 – Février 1936 – 7 mars 1936 – 9 mars 1936 – Nuit du 10 au 11 mars 1936 – 11 mars 1936 – 12 mars 1936 – 13-21 mars 1936 – Avril 1936 (De retour en Allemagne.) – 1er mai 1936 – 10 mai 1936 – 11 juin 1936 – 21 juin 1936, nuit – 30 juin 1936. Départ</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-1	Fin d’octobre 1935 (1938, Journal d’Allemagne)
+body-2-2	5 novembre 1935 (1938, Journal d’Allemagne)
+body-2-3	6 novembre 1935 (1938, Journal d’Allemagne)
+body-2-4	9 novembre 1935 (1938, Journal d’Allemagne)
+body-2-5	11 novembre 1935 (1938, Journal d’Allemagne)
+body-2-6	Fin de novembre 1935 (1938, Journal d’Allemagne)
+body-2-7	Fin de Décembre 1935 (1938, Journal d’Allemagne)
+body-2-8	2 janvier 1936 (1938, Journal d’Allemagne)
+body-2-9	3 janvier 1936 (1938, Journal d’Allemagne)
+body-2-10	10 janvier 1936 (1938, Journal d’Allemagne)
+body-2-11	15 janvier 1936 (1938, Journal d’Allemagne)
+body-2-12	25 janvier 1936 (1938, Journal d’Allemagne)
+body-2-13	Février 1936 (1938, Journal d’Allemagne)
+body-2-14	7 mars 1936 (1938, Journal d’Allemagne)
+body-2-15	9 mars 1936 (1938, Journal d’Allemagne)
+body-2-16	Nuit du 10 au 11 mars 1936 (1938, Journal d’Allemagne)
+body-2-17	11 mars 1936 (1938, Journal d’Allemagne)
+body-2-18	12 mars 1936 (1938, Journal d’Allemagne)
+body-2-19	13-21 mars 1936 (1938, Journal d’Allemagne)
+body-2-20	Avril 1936 (De retour en Allemagne.) (1938, Journal d’Allemagne)
+body-2-21	1er mai 1936 (1938, Journal d’Allemagne)
+body-2-22	10 mai 1936 (1938, Journal d’Allemagne)
+body-2-23	11 juin 1936 (1938, Journal d’Allemagne)
+body-2-24	21 juin 1936, nuit (1938, Journal d’Allemagne)
+body-2-25	30 juin 1936. Départ (1938, Journal d’Allemagne)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -142,9 +173,9 @@
                   <article role="article">
                     <a class="pb" href="#pb9" id="pb9">[p. 9]</a>
                     <h1 class="head kicker chapter">I</h1>
-                    <h1 class="head chapter">Journal (1935-1936)<a class="bookmark" href="2"> §</a></h1>
+                    <h1 class="head chapter">Journal (1935-1936)</h1>
                     <section id="body-2-1" class="div level2">
-                      <h2 class="head">Fin d’octobre 1935<a class="bookmark" href="2#body-2-1"> §</a></h2>
+                      <h2 class="head">Fin d’octobre 1935</h2>
                       <p class="p autofirst">Des amis se sont étonnés de me voir accepter ce poste, offert par le hasard d’une rencontre, un beau soir de juillet aux Deux-Magots. Je leur réponds qu’on ne m’a pas nommé dans l’ignorance de mes opinions : c’est ce qui assure ici ma liberté. Mon premier livre dit assez mon amour de l’Europe centrale ; et mon deuxième, l’idée que je me fais des régimes totalitaires. Je ne sais si l’on espère me convertir en m’offrant d’en voir un de près. Quand cela serait, pourquoi me dérober ? S’ils sont dans le vrai, il est urgent de le dire, et de me dédire. Et s’ils se trompent, je saurai mieux pourquoi. De toutes façons, vivre à l’époque d’Hitler, et n’aller point l’entendre et voir, quand une nuit de chemin de fer y suffirait, c’est se priver de certains rudiments de toute compréhension de notre temps. Mais encore, ce serait peu que le voir de ses yeux. Il faudrait le voir comme à travers son peuple, par les yeux de ses sectateurs et par les yeux de ses victimes, tel qu’on le crée et tel qu’on le subit… J’ai donc accepté pour un an.</p>
                       <p class="p">Et me voici depuis un mois bientôt dans cette ville 
 <a class="pb" href="#pb10" id="pb10">[p. 10]</a>
@@ -167,7 +198,7 @@
                       <p class="p">— C’est très bien pour la France, me semble-t-il, mais c’est injuste pour nous. Vous avez vos problèmes et nous les nôtres<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a>.</p>
                     </section>
                     <section id="body-2-2" class="div level2">
-                      <h2 class="head">5 novembre 1935<a class="bookmark" href="2#body-2-2"> §</a></h2>
+                      <h2 class="head">5 novembre 1935</h2>
                       <p class="p autofirst">Séance d’ouverture du semestre d’hiver, pour notre séminaire. Le D<sup class="sup">r</sup> N. professeur ordinaire, me reçoit dans son bureau avant la petite cérémonie.</p>
                       <p class="p">— Combien aurai-je d’étudiants ?</p>
                       <p class="p">
@@ -177,14 +208,14 @@
                       <p class="p">Ce n’est guère qu’à de très petits signes de ce genre que j’ai pu distinguer, jusqu’ici, la pensée véritable des hommes avec qui je vais vivre. Comme tous les refoulés, ils ne se trahissent guère que par certains « lapsus révélateurs ». Encore serait-il exagéré de déduire de cette hésitation du D<sup class="sup">r</sup> N. qu’il est mal disposé pour le régime. Peut-être, simplement, n’a-t-il pas encore pris l’habitude du geste par lequel tout discours officiel doit réglementairement se terminer.</p>
                     </section>
                     <section id="body-2-3" class="div level2">
-                      <h2 class="head">6 novembre 1935<a class="bookmark" href="2#body-2-3"> §</a></h2>
+                      <h2 class="head">6 novembre 1935</h2>
                       <p class="p autofirst">Les premiers jours, nous courions aux fenêtres chaque fois que la rue retentissait de chants. C’était une troupe noire ou brune, par rangs de trois, qui défilait ; ou bien une formation de la <i class="i">Hitlerjugend</i>, du <i class="i">Jungvolk</i> ou du <i class="i">BDM</i>, grosses petites filles ou très jeunes garçons<a class="noteref" href="2#note3" id="note3_"><sup>3</sup></a>.</p>
                       <p class="p">Mais déjà le rythme de ces chants — une phrase, puis 
 <a class="pb" href="#pb14" id="pb14">[p. 14]</a>
  un silence pendant quatre pas — nous est devenu familier. Le défilé fait partie de l’atmosphère allemande comme les embouteillages de l’atmosphère parisienne. On ne se retourne même plus.</p>
                     </section>
                     <section id="body-2-4" class="div level2">
-                      <h2 class="head">9 novembre 1935<a class="bookmark" href="2#body-2-4"> §</a></h2>
+                      <h2 class="head">9 novembre 1935</h2>
                       <p class="p autofirst">Ville pavoisée pour l’anniversaire du putsch de Munich en 1923. Peu de drapeaux dans les beaux quartiers : un ou deux par villa seulement. Mais les maisons des rues commerçantes et des quartiers populaires sont rouges du haut en bas. Seul le palais Rothschild reste nu, scandaleusement nu, au fond de sa pelouse soignée.</p>
                       <p class="p">Au coin de la place de l’Opéra, une demi-douzaine de SS bottés me barrent la route, agitant des troncs sous mon nez : « Pour le WHW !<a class="noteref" href="2#note4" id="note4_"><sup>4</sup></a> » Mon « Non merci » les laisse sans voix.</p>
                       <p class="p">J’ai entendu vanter et dénigrer cette œuvre. Selon les uns, le produit de la collecte hebdomadaire sert uniquement à fournir aux pauvres des vêtements, du charbon et du pain. Selon d’autres, une bonne part de l’argent extorqué aux passants craintifs « va pour les armements », c’est-à-dire on ne sait où. Quoi qu’il en soit, j’ai déjà pu constater que l’État retient 7 % de mon traitement comme « don volontaire » au WHW. Mon devoir est donc fait, si devoir il y a. Et au surplus, je tiens essentiellement à ce qu’un passant sur mille — moi par exemple — oppose un refus de principe à ces bruyantes sollicitations. Le spectacle des pauvres gens assaillis par ces bandes insolentes, et donnant leurs pfennigs par crainte des listes noires, produit un sentiment de honte générale. Tâchons du moins de sauver l’honneur. (Il est vrai que mon geste perd beaucoup de sa portée du fait que je suis étranger.)</p>
@@ -197,7 +228,7 @@
                       <p class="p">La Révolution ne serait-elle qu’une façade rouge pour abriter le petit-bourgeois ? Une campagne de propagande confiée aux soins de la police ? Une diversion à la faveur de quoi l’armée se reforme et les luttes sociales s’assourdissent ? C’est bien ce qu’on me disait à Paris…</p>
                     </section>
                     <section id="body-2-5" class="div level2">
-                      <h2 class="head">11 novembre 1935<a class="bookmark" href="2#body-2-5"> §</a></h2>
+                      <h2 class="head">11 novembre 1935</h2>
                       <p class="p autofirst"><i class="i">Rencontre.</i> — Ce matin, j’ai ressenti pour la première fois quelque chose de tragique dans la présence du régime, quelque chose qui me révèle sans doute l’un de ses aspects les plus profonds.</p>
                       <p class="p">Dans cette église baroque de Sainte-Catherine — murs couverts d’armoiries et de cimiers vieil or, galeries de bois peintes de scènes de la Bible — c’est à peine si je trouve une place assise. Je note la proportion considérable des hommes dans l’assemblée. (Mais où sont les jeunes gens ?) Et le recueillement profond. Il m’a semblé aussi que l’on chantait mieux que naguère, sur un rythme moins alangui. Le pasteur a parlé de l’héroïsme. Le héros chrétien n’est pas celui qui meurt glorieusement pour la puissance de sa race, mais celui qui croit humblement jusqu’à la mort. Le Christ n’est 
 <a class="pb" href="#pb16" id="pb16">[p. 16]</a>
@@ -205,7 +236,7 @@
                       <p class="p">Comme je sortais, vivement impressionné par le courage sérieux (sans nul défi) que suppose <i class="i">hic et nunc</i> une telle prédication, un chant puissant, soudain, a retenti au tournant de la rue. C’était un défilé de chemises brunes. Ils ont passé longuement devant le porche du temple, repoussant le flot des sortants. Je comprenais à peine les paroles de ces phrases brèves, clamées à pleine voix, entrecoupées de pas rythmés. Un voisin me les répète entre les dents : il est question de « notre force » et de drapeaux qu’il faut teindre dans le sang des juifs.</p>
                     </section>
                     <section id="body-2-6" class="div level2">
-                      <h2 class="head">Fin de novembre 1935<a class="bookmark" href="2#body-2-6"> §</a></h2>
+                      <h2 class="head">Fin de novembre 1935</h2>
                       <p class="p autofirst">Huit semaines de séjour, quatre d’enseignement. Essayons de faire le point, parmi tant de petits faits contradictoires, notés au jour le jour et sans souci de leur possible insignifiance<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a>. Le mieux sera sans doute d’envisager l’un après l’autre quelques types sociaux très courants, et quelques situations bien circonscrites.</p>
                       <p class="p center"> </p>
                       <p class="p autofirst"><i class="i">Les bourgeois.</i> — J’arrivais de Paris persuadé que l’hitlérisme est un mouvement « de droite », une dernière tentative pour sauver le capitalisme et les privilèges bourgeois, comme disent les socialistes ; ou encore : un rempart contre le bolchevisme, comme disent les réactionnaires.</p>
@@ -328,11 +359,11 @@ J’ai suivi mes cours avec zèle
  sa foi lui a révélé la fin absolue de l’Histoire : la catastrophe et la résurrection pour le Jugement. Et derrière lui retentit cette parole : « Tout est accompli » — sur la Croix.</p>
                     </section>
                     <section id="body-2-7" class="div level2">
-                      <h2 class="head">Fin de Décembre 1935<a class="bookmark" href="2#body-2-7"> §</a></h2>
+                      <h2 class="head">Fin de Décembre 1935</h2>
                       <p class="p autofirst">Noël. Et le régime, de nouveau, qui s’efface : la vieille Allemagne pieuse et forestière ressuscite à tous les foyers, et c’est encore la vie de ces foyers qui se répand par les rues marchandes, aux devantures illuminées en plein midi, dans un parfum de sapin frais. « O Heil’ge Nacht ! », ô sainte nuit d’intimité, où de nouveau j’entends battre le cœur de mon ancienne « Germanie aimée »…</p>
                     </section>
                     <section id="body-2-8" class="div level2">
-                      <h2 class="head">2 janvier 1936<a class="bookmark" href="2#body-2-8"> §</a></h2>
+                      <h2 class="head">2 janvier 1936</h2>
                       <p class="p autofirst">Le fils de la propriétaire est un maigre blafard, blessé de guerre, et qui ne peut plus s’occuper que de la maison et des comptes de location. Il a coutume de descendre les escaliers en sifflant un air martial chaque fois que quelqu’un est sorti, pour vérifier si la porte a été refermée à clé. Hier soir, il m’avait remis la note du mois de décembre. En plus des 70 marks prévus : 45 marks pour l’électricité et le gaz depuis trois mois. Dans l’idée qu’il y avait erreur, je l’ai fait venir ce matin.</p>
                       <p class="p">— Il ne s’agit pas d’une erreur, me dit-il, c’est exactement ce que j’ai dû payer pour vous, d’après le compteur !</p>
                       <p class="p">— Mais notre contrat prévoyait l’éclairage et le gaz <i class="i">compris</i> ?</p>
@@ -346,12 +377,12 @@ J’ai suivi mes cours avec zèle
                       <p class="p">C’est en tout petit l’histoire du traité de Versailles.</p>
                     </section>
                     <section id="body-2-9" class="div level2">
-                      <h2 class="head">3 janvier 1936<a class="bookmark" href="2#body-2-9"> §</a></h2>
+                      <h2 class="head">3 janvier 1936</h2>
                       <p class="p autofirst">« Nie mehr Krieg ! ». Nous avons transigé. Morale :</p>
                       <p class="p">Un Français né juriste et malin aurait essayé de me rouler en interprétant adroitement la lettre du contrat. L’Allemand préfère en appeler à la nécessité qui ne connaît plus de contrat. Difficulté de prononcer où est la plus grande injustice. Et au surplus, dans l’un et l’autre cas, c’est le perdant seul qui parle d’injustice, alors que l’autre est en droit d’affirmer : point de justice sans révision des clauses devenues inadéquates.</p>
                     </section>
                     <section id="body-2-10" class="div level2">
-                      <h2 class="head">10 janvier 1936<a class="bookmark" href="2#body-2-10"> §</a></h2>
+                      <h2 class="head">10 janvier 1936</h2>
                       <p class="p autofirst"><i class="i">Un film de propagande.</i> — Destin d’une commune d’Allemands de la région du Volga, pendant la révolution russe.</p>
                       <p class="p">L’officier soviétique a une tête de faux Chinois et de Chinois faux (infériorité morale des non-Aryens). La seule fille du village qui trahisse son honneur : c’est qu’elle est née d’une mère russe. (Tout métis a la trahison dans le sang.) On voit un vieux pasteur qui a la faiblesse de prier pour les ennemis (sabotage moral) et de condamner la violence (libéralisme morbide). Le jeune paysan brutal qui lui tient tête figure l’Allemagne nouvelle. Grâce à lui, le village sera sauvé, les 
 <a class="pb" href="#pb34" id="pb34">[p. 34]</a>
@@ -359,7 +390,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Tout cela précise opportunément le sens des déclarations du Führer, lorsqu’il se donne pour le protecteur de la « religion » contre les sans-dieu bolcheviks.</p>
                     </section>
                     <section id="body-2-11" class="div level2">
-                      <h2 class="head">15 janvier 1936<a class="bookmark" href="2#body-2-11"> §</a></h2>
+                      <h2 class="head">15 janvier 1936</h2>
                       <p class="p autofirst"><i class="i">Conversation avec un SA.</i> — Il vient de passer son doctorat, et fréquente encore, par occasion, mon séminaire. Comme il se montre curieux de mes réactions vis-à-vis du régime, je l’emmène parfois à la maison pour bavarder.</p>
                       <p class="p"><span class="sc">Lui</span>. — Quoi de neuf depuis notre dernière rencontre ?</p>
                       <p class="p"><span class="sc">Moi</span>. — Quelques observations, en flânant dans vos rues… Flâner, c’est une activité plutôt « réactionnaire », n’est-ce pas ?</p>
@@ -404,7 +435,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p"><span class="sc">Lui</span>. — Je vous souhaite bonne chance !</p>
                     </section>
                     <section id="body-2-12" class="div level2">
-                      <h2 class="head">25 janvier 1936<a class="bookmark" href="2#body-2-12"> §</a></h2>
+                      <h2 class="head">25 janvier 1936</h2>
                       <p class="p autofirst"><i class="i">Anas.</i> — L’avocat me questionnait sur la politique extérieure de la France. Le pacte avec les Soviets l’irrite vivement. « Si la France, comme vous l’affirmez, préfère en général les principes à ses intérêts, pourquoi s’allie-t-elle avec Staline ? Il a fait pire que nous contre la liberté. »</p>
                       <p class="p center"> </p>
                       <p class="p autofirst">Chaque fois que l’on m’envoie un livre de France, je dois aller le retirer au bureau de douane. Ce matin, 
@@ -425,7 +456,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Mais encore, tout cela ne me satisfait guère : il doit y avoir une clé. Quelque chose là-dessous. Quelque chose d’invisible, justement, et qui prime tout, à leur estime…</p>
                     </section>
                     <section id="body-2-13" class="div level2">
-                      <h2 class="head">Février 1936<a class="bookmark" href="2#body-2-13"> §</a></h2>
+                      <h2 class="head">Février 1936</h2>
                       <p class="p autofirst"><i class="i">À Francfort pour le Carnaval.</i> — En 1932, à cette époque, j’écrivais à la fin d’une étude sur Goethe : « Les temps nous pressent de toutes parts au choix, jusque dans nos admirations, nous pressent d’affecter toutes choses, même spirituelles d’une sorte de coefficient d’utilité. En ce jour de février 1932, dans ce Francfort en proie au Carnaval et à l’angoisse, ce n’est pas moi qui pose la question : elle m’assiège. Le dernier Carnaval, peut-être, pour cette bourgeoisie dont je viens d’admirer les trésors patinés, dans la haute demeure familiale de Goethe<a class="noteref" href="2#note14" id="note14_"><sup>14</sup></a>. »</p>
                       <p class="p">C’était au terme d’un court séjour en cette ville où je reviens aujourd’hui, après trois ans, constater sans plaisir que je ne me trompais pas. J’ai revu le noble escalier, les pièces aux meubles rares de la maison de Goethe, plus isolée encore et plus intime dans ce temps.</p>
                       <p class="p">Le Goethe de Francfort et des premières années de Weimar, avant le voyage d’Italie : c’est celui-là que j’aime d’une amitié vivante, et qui n’a pas cessé de me nourrir depuis dix ans. Kierkegaard est ma démesure, Goethe mon équilibre. Contemporains, ils se seraient détestés. Et c’est moins un dialogue en moi qu’une lutte quotidienne qu’ils poursuivent, avec des succès alternés. Mais ici et maintenant, et sous la menace 
@@ -439,7 +470,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Si le régime totalitaire est le châtiment qu’a mérité l’Europe, si plus rien ne peut s’opposer à son triomphe tôt ou tard, il nous faut l’étudier de très près, sur place, avec une passion froide. Car il y va de toute notre culture. Comment sauver au plus secret d’un tel régime les valeurs qui nous sont vitales ? Pour un chrétien, il y va de bien plus : de la forme que pourra revêtir la prédication de l’Évangile, le témoignage des fidèles. Le grand danger serait de lier sa foi à des valeurs humaines périmées. C’est pourquoi la lutte que poursuit la chrétienté allemande sous la croix est pour nous d’une valeur exemplaire : jusqu’où peut-on céder à ce César sans rien céder de ce qui est à Dieu ? Tragique révision des valeurs, qui nous oblige à dépouiller enfin tout l’élément humain de nos religions. Il fallait cette épreuve du feu pour les chrétiens embourgeoisés.</p>
                     </section>
                     <section id="body-2-14" class="div level2">
-                      <h2 class="head">7 mars 1936<a class="bookmark" href="2#body-2-14"> §</a></h2>
+                      <h2 class="head">7 mars 1936</h2>
                       <p class="p autofirst">Comme je traversais la place de l’Opéra, hier vers minuit, des camelots criaient une édition spéciale du journal local du Parti : « Convocation du Reichstag pour demain ! »</p>
                       <p class="p">Onze heures du matin. J’entends la radio à l’étage supérieur, sans comprendre. Ce doit être le discours du Führer. Personne dans la maison ne répond plus aux sonneries, et toutes les portes ont été fermées à double tour.</p>
                       <p class="p">Une heure. Le discours vient de prendre fin. Un chant : le <i class="i">Deutschland über alles.</i> Des portes claquent à l’étage. Des pas précipités dans l’escalier. Le fils de la propriétaire sort de la cave en gesticulant, une bouteille à la main, et remonte quatre à quatre en sifflant le <i class="i">Horst Wessel Lied.</i> Conversation excitée chez les 
@@ -451,7 +482,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Il a paru complètement déconcerté.</p>
                     </section>
                     <section id="body-2-15" class="div level2">
-                      <h2 class="head">9 mars 1936<a class="bookmark" href="2#body-2-15"> §</a></h2>
+                      <h2 class="head">9 mars 1936</h2>
                       <p class="p autofirst">Journaux français. « Nous opposerons la force du droit au droit de la force ! » Signifie : nous opposerons de la rhétorique à des canons. C’était couru.</p>
                       <p class="p">Pourtant, ils ont eu peur, ici. Une dame me téléphone, encore anxieuse : « Dès que le discours a été terminé, je me suis précipitée à la fenêtre pour voir s’il n’y avait pas d’avions français dans le ciel ! »</p>
                       <p class="p">Extraordinaire affectivité qui s’attache dans ce pays aux armes, à la chose guerrière. Je ne puis m’empêcher de trouver vaguement obscène l’excitation de ces populations « libérées ». Je songe que « freien » (libérer) signifie aussi : épouser. La réoccupation de la Rhénanie est une espèce d’acte sexuel, au moins autant qu’un acte politique. Comment expliquer autrement cette euphorie bizarre qui est dans l’air de la ville, dans la circulation de la foule, dans les regards croisés, les propos égarés ?</p>
@@ -461,11 +492,11 @@ J’ai suivi mes cours avec zèle
                       <p class="p">L’allure des passants s’accélère. Les glandes endocrines sécrètent. Il serait curieux de mesurer l’augmentation du volume des affaires dans une ville qui attend son Maître.</p>
                     </section>
                     <section id="body-2-16" class="div level2">
-                      <h2 class="head">Nuit du 10 au 11 mars 1936<a class="bookmark" href="2#body-2-16"> §</a></h2>
+                      <h2 class="head">Nuit du 10 au 11 mars 1936</h2>
                       <p class="p autofirst">Le tambour des SS, deux coups lents, trois coups rapprochés, n’a cessé de battre hier par toute la ville. Il est trois heures du matin : j’ai été réveillé par son roulement proche, et je l’entends encore au loin. Cette fois-ci nous y sommes. C’est le grand tam-tam de la tribu qui est déclenché. Le sommeil même doit être mis au pas, et l’inconscient rythmé lugubrement.</p>
                     </section>
                     <section id="body-2-17" class="div level2">
-                      <h2 class="head">11 mars 1936<a class="bookmark" href="2#body-2-17"> §</a></h2>
+                      <h2 class="head">11 mars 1936</h2>
                       <p class="p autofirst"><i class="i">Une cérémonie sacrée</i>. — Trois heures de l’après- midi, dans un café près de l’Opéra. Je dis à mon compagnon, le dramaturge suisse-allemand L. :</p>
                       <p class="p">— Vous y croyez, vous, à l’âme collective ? Est-ce que ce n’est pas une formule grandiloquente pour désigner l’<i class="i">absence</i> d’âme personnelle chez les individus charriés par les mouvements mécaniques d’une foule ?</p>
                       <p class="p">L. hoche la tête :</p>
@@ -490,7 +521,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Je suis seul et ils sont tous ensemble.</p>
                     </section>
                     <section id="body-2-18" class="div level2">
-                      <h2 class="head">12 mars 1936<a class="bookmark" href="2#body-2-18"> §</a></h2>
+                      <h2 class="head">12 mars 1936</h2>
                       <p class="p autofirst">Le journal de ce matin écrit :</p>
                       <p class="p">
                         <i class="i">« Lorsque le Führer s’écria : Je ne puis vivre que si ma foi puissante dans le Peuple allemand est sans cesse renforcée par la foi et la confiance du Peuple en moi !<i class="i"> —</i> un seul cri des masses confessant leur fidélité lui répondit. »</i>
@@ -502,7 +533,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">« Chrétiens, retournez aux catacombes ! Votre “religion” est vaincue, vos cérémonies modestes, vos petites assemblées, vos chants traînants, tout cela sera balayé. Il ne vous restera que la foi. Mais la vraie lutte commence là. »</p>
                     </section>
                     <section id="body-2-19" class="div level2">
-                      <h2 class="head">13-21 mars 1936<a class="bookmark" href="2#body-2-19"> §</a></h2>
+                      <h2 class="head">13-21 mars 1936</h2>
                       <p class="p autofirst"><i class="i">Huit jours à Paris.</i> — Extrême difficulté de faire comprendre ici <i class="i">la chose</i> qui est en jeu là-bas : il m’a fallu, sur place, des mois pour la comprendre. Je m’étonne après coup de mon aveuglement, comme 
 <a class="pb" href="#pb50" id="pb50">[p. 50]</a>
  l’initié qui se souvient de ses vaines frayeurs, de ses questions naïves quand il passait par les premières épreuves ; et maintenant tout s’éclaire et s’enchaîne. Je collectionnais des observations de détail et des interprétations théoriques, vraies et vraisemblables une à une, mais dont l’ensemble me laissait une impression assez confuse. Capitalisme et socialisme, bellicisme et passivité, esprit spartiate et goût du confort, jeunesse cynique et vieux bateaux réactionnaires, bourgeois inquiets, opposants complices. Et seuls mes amis juifs me donnaient du régime une interprétation étonnamment conforme aux préjugés français-moyen, comme s’ils ne sentaient rien de ce qui se vivait autour d’eux, comme s’ils ne sentaient pas ce je ne sais quoi dans l’atmosphère qui faisait que toutes les descriptions « objectives » de nos journalistes paraissaient, vues d’ici, décrire un monde factice, où nul Allemand ne pouvait reconnaître ni ses souffrances secrètes ni son espoir. « Il doit y avoir une clé », écrivais-je à ce moment. Je l’ai trouvée, cette clé, mais à présent, comment faire sentir aux Français ce que j’ai senti, ce que j’ai <i class="i">miterlebt</i> ? (Le mot n’est même pas traduisible.) Les plus puissantes réalités de l’époque sont affectives et religieuses, et l’on ne me parle que d’économie, de technique politique et de droit. Lorsque j’essaye d’évoquer ce discours qui m’a révélé « leur » secret, pour peu de passion que j’y mette, on m’apprend que je suis hitlérien ! C’est que les hommes de notre temps ne croient pas au jugement de l’esprit mais seulement au frisson des tripes. N’allez pas leur décrire un massacre à la mitrailleuse dans le tas : loin de s’indigner, ils vous en redemanderont. Ainsi, me
@@ -530,7 +561,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Je ne dis pas cela, comme on le croirait, par souci d’impartialité. Un général qui étudie le terrain de sa bataille décisive n’est pas précisément ce qu’on nomme impartial, mais s’il est incapable d’estimer objectivement les forces en présence, il ferait mieux de s’occuper de politique. Or ceux qui parlent pour ou contre Hitler, en France, parlent en réalité pour ou contre Blum, en toute ignorance d’Hitler. Vous, déserteurs de la bataille économique, vous qui exportez vos capitaux, l’homme que vous admirez vous ferait décapiter : voici le texte de la loi, je n’invente pas. Et vous, rêveurs d’une liberté sociale assurée par l’État prolétarien, celui que vous haïssez réalise votre rêve, et plus habilement que Staline : loin de vous fusiller, il vous donnerait un grade dans son Front du Travail, comme à vos camarades… Mais je rencontre un peu partout des gens qui déploient une si grande énergie pour éviter le reproche de naïveté dans le monde ou dans les affaires, qu’après cela, on n’oserait plus leur demander le petit effort supplémentaire de distinguer entre l’Hitler d’Allemagne et l’Hitler de M. Bailby. Ils sont fatigués d’avoir peur. Un peu de vérité les tuerait.</p>
                     </section>
                     <section id="body-2-20" class="div level2">
-                      <h2 class="head">Avril 1936 (De retour en Allemagne.)<a class="bookmark" href="2#body-2-20"> §</a></h2>
+                      <h2 class="head">Avril 1936 (De retour en Allemagne.)</h2>
                       <p class="p autofirst"><i class="i">Jacobinisme et hitlérisme.</i> — J’ai fait admettre comme sujet de mon cours d’été : la littérature de la Révolution française. Il sera curieux de montrer à mes étudiants que le national-socialisme est un jacobinisme allemand<a class="noteref" href="2#note16" id="note16_"><sup>16</sup></a>. Les nazis sont contre l’esprit de 89 ? Sans doute. Mais c’est qu’ils sont, sans le savoir, pour la Terreur et Robespierre. Non point pour la Terreur sanglante 
 <a class="pb" href="#pb55" id="pb55">[p. 55]</a>
  et les exécutions spectaculaires, mais pour le contrôle des esprits, le nivellement rationaliste, la divinisation des masses et la suppression des personnes.</p>
@@ -544,7 +575,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Refuser de réfléchir sur ces deux textes, sur leur identité vertigineuse, c’est se mettre hors d’état de rien comprendre à ce qu’il y a, dit-on, d’irréductible et de « proprement germanique » dans la religion nationale-socialiste. Je dis ceci pour les Français qui croient connaître « leur » Révolution, ou qui regrettent qu’elle ait été trahie avant d’avoir accompli ses promesses. Qu’opposeraient-ils à Rosenberg ?</p>
                     </section>
                     <section id="body-2-21" class="div level2">
-                      <h2 class="head">1<sup class="sup">er</sup> mai 1936<a class="bookmark" href="2#body-2-21"> §</a></h2>
+                      <h2 class="head">1<sup class="sup">er</sup> mai 1936</h2>
                       <p class="p autofirst">En l’honneur de la fête du travail, le journal du Parti publie un photomontage qui couvre toute sa première feuille. Un marteau et une roue dentée se dressent, énormes, sur le ciel rouge. Au-dessous, une 
 <a class="pb" href="#pb57" id="pb57">[p. 57]</a>
  vingtaine de visages d’ouvriers, éclatants de santé et de joie. Au milieu, cette devise :</p>
@@ -557,7 +588,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p autofirst">N’oublions pas, dans nos démocraties, que la grande majorité du peuple allemand <i class="i">croit</i> cela, et vit dans cette croyance. Et ensuite, mais ensuite seulement, traduisons chacun de ces termes par la réalité qu’il cache. <i class="i">Liberté</i> veut dire réarmement. <i class="i">Paix</i> veut dire Anschluss sans opposition de la France. <i class="i">Honneur</i> veut dire mépris des traités. Et ce qu’on souhaite au peuple — et qu’on lui donne — c’est le droit de se nourrir, mais mal ; de travailler beaucoup, mais pour peu de salaire ; et de ne pas penser davantage que le voisin, qui est bien trop prudent pour penser. Programme communiste atténué.</p>
                     </section>
                     <section id="body-2-22" class="div level2">
-                      <h2 class="head">10 mai 1936<a class="bookmark" href="2#body-2-22"> §</a></h2>
+                      <h2 class="head">10 mai 1936</h2>
                       <p class="p autofirst">Au café avec mes étudiants. Je les interroge sur leurs expériences de camp de travail. Ils en parlent avec nonchalance et même avec ironie, mais sans rancune, exactement comme un jeune Français vous parle de son temps de caserne. J’espérais provoquer quelques jugements de principe sur la valeur de cette institution. Je les connais assez, personnellement, pour m’assurer que s’ils ne m’ont rien dit, ce n’est point par crainte ou par méfiance, mais simplement parce qu’ils n’ont point d’idées là-dessus.</p>
                       <p class="p">Ceci me rend attentif à une erreur que nous commettons fréquemment, nous qui regardons l’Allemagne ou l’URSS du dehors ; nous croyons que tous ceux qui y vivent sont affectés d’un signe de haine ou d’approbation enthousiaste pour le régime qui leur est imposé. La vérité est que le grand nombre admet le régime avec indifférence, j’entends : <i class="i">ne le met plus</i>
             
@@ -568,7 +599,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Aux débuts de l’automobile, qui aurait cru qu’en une vingtaine d’années les hommes seraient capables de conduire ces machines en pensant à n’importe quoi, dans une parfaite liberté d’esprit ? Les contraintes totalitaires nous hypnotisent. Elles nous privent de toute liberté à la manière d’une obsession. À chaque phrase, je risque l’accident… Qu’adviendra-t-il quand ces dangers n’exciteront plus que nos réflexes ? Retrouverons-nous une liberté nouvelle ?</p>
                     </section>
                     <section id="body-2-23" class="div level2">
-                      <h2 class="head">11 juin 1936<a class="bookmark" href="2#body-2-23"> §</a></h2>
+                      <h2 class="head">11 juin 1936</h2>
                       <p class="p autofirst">L’Église confessionnelle (<i class="i">Bekenntniskirche</i>) groupe autour d’une confession de foi inspirée par Karl Barth et la théologie dialectique, l’ensemble des chrétiens luthériens et calvinistes qui refusent de laisser « mettre au pas » l’Évangile. Cette Église organise dans plusieurs villes d’Allemagne, successivement, des « semaines évangéliques » au cours desquelles des milliers de fidèles viennent écouter les chefs de leur mouvement, et communier dans la prière.</p>
                       <p class="p">Ce soir, le pasteur Niemöller parle ici à cinq mille auditeurs réunis dans les deux plus grands temples.</p>
                       <p class="p">Commandant de sous-marin pendant la guerre, Martin Niemöller fait figure de héros national. Son autobiographie est célèbre : <i class="i">Du sous-marin à la chaire.</i> Elle nous le montre à Kiel, en janvier 1919, refusant à un supérieur d’aller livrer son U. Boot aux Anglais. Après quoi il quitte l’armée et travaille quelque temps comme valet de ferme. La pensée de servir son peuple déchu ne cesse de tourmenter son cœur, tandis qu’il fauche 
@@ -586,7 +617,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Je regarde ce grand auditoire recueilli. Il n’y aura pas de <i class="i">heil</i> ! hurlés quand Niemöller aura fini de parler. Mais un <i class="i">amen</i> à mi-voix de la foule. Je ne veux pas chercher autour de moi les faces d’agents de la Gestapo, qu’on sait nombreux. Rien n’empêchera que nous soyons ici des frères en communion avec l’Église universelle. Rien n’empêchera que dans ce lieu où le néant de l’homme est déclaré, Dieu n’ait retrouvé des humains.</p>
                     </section>
                     <section id="body-2-24" class="div level2">
-                      <h2 class="head">21 juin 1936, nuit<a class="bookmark" href="2#body-2-24"> §</a></h2>
+                      <h2 class="head">21 juin 1936, nuit</h2>
                       <p class="p autofirst"><i class="i">Fête du solstice d’été.</i> — Dans la nuit noire, sur une plaine inégale, où le pied bute, nous suivons des foules silencieuses et hâtives, vers ce carré de lumière circonscrit d’étendards. Trois mille « chefs » des Jeunesses et du Parti attendent, rangés sur les quatre côtés, que s’allume à minuit le feu du centre. Les torches enflammées tenues par ceux du premier rang forment une rampe clignotante et rougeoyante à la hauteur des chemises brunes ou noires, des blouses blanches. Au-dessus, sur le fond de la nuit, ondule une paroi de bannières, paroi de flammes, sous les projecteurs 
 <a class="pb" href="#pb62" id="pb62">[p. 62]</a>
  dont le faisceau se perd dans la hauteur.</p>
@@ -601,7 +632,7 @@ J’ai suivi mes cours avec zèle
                       <p class="p">Au cri d<i class="i">’Allemagne réveille-toi</i> ! Hitler a-t-il hypnotisé son peuple, maintenant en proie au cauchemar de la force ? Ou bien serait-ce aujourd’hui seulement que la vérité de cette nation paraît, et alors, c’est nous qui rêvions lorsque nous lui trouvions des charmes…</p>
                     </section>
                     <section id="body-2-25" class="div level2">
-                      <h2 class="head">30 juin 1936. Départ<a class="bookmark" href="2#body-2-25"> §</a></h2>
+                      <h2 class="head">30 juin 1936. Départ</h2>
                       <p class="p autofirst">Nous quittons l’Allemagne ce soir. Hier, nous chantions encore avec les étudiants, dans une auberge forestière. Des tyroliennes, et des ch<a id="_GoBack">‌</a>ansons de la vieille France, dont ils étaient les seuls à savoir toutes les strophes…</p>
                       <p class="p">— Quelle impression emportez-vous de l’Allemagne ? me demandaient-ils sur le chemin du retour, tandis que le jour baissait dans la forêt.</p>
                       <p class="p">— Quelle impression ? Ah ! si je pouvais garder celle 
@@ -810,13 +841,13 @@ J’ai suivi mes cours avec zèle
                       <a href="3">2. Conclusion 1938</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="5">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">iii. Les jacobins en chemise brune</a>
+                      <a href="6">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>
@@ -873,7 +904,7 @@ J’ai suivi mes cours avec zèle
                   <article role="article">
                     <a class="pb" href="#pb67" id="pb67">[p. 67]</a>
                     <h1 class="head kicker chapter">II</h1>
-                    <h1 class="head chapter">Conclusion 1938<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">Conclusion 1938</h1>
                     <p class="p autofirst">Deux années se sont écoulées depuis la fin de ce Journal. Je ne vois pas qu’elles aient rien apporté qui puisse motiver des retouches. Il est un point toutefois que certains événements se sont chargés de me rendre encore plus clair, et sur lequel on n’insistera jamais assez : la nature religieuse de l’hitlérisme. Ce n’est plus une découverte, tous les journaux en parlent aujourd’hui. Mais je crains qu’on n’en parle un peu vite, par image, par ouï-dire, ou par manière de dire. Il faut en parler sérieusement.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Il y a du bon et du mauvais dans ce régime, dites-vous ? À prendre les choses une à une, j’y trouve même plus de bon que de mauvais, si toutefois je parviens à me placer aux environs du point de vue d’un Allemand — et je ne dis pas d’un fanatique, pas même d’un nationaliste, non : d’un Allemand de bon sens et de bonne foi.</p>
@@ -945,13 +976,13 @@ J’ai suivi mes cours avec zèle
                       <a href="#">2. Conclusion 1938</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="5">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">iii. Les jacobins en chemise brune</a>
+                      <a href="6">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>
@@ -961,13 +992,13 @@ J’ai suivi mes cours avec zèle
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/4" name="i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/4" name="i. Instruction spirituelle donnée aux étudiants hitlériens , (Extrait de lettre d’un étudiant allemand)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand) (1938, Journal d’Allemagne)</value>
+          <value>i. Instruction spirituelle donnée aux étudiants hitlériens , (Extrait de lettre d’un étudiant allemand) (1938, Journal d’Allemagne)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -993,7 +1024,7 @@ J’ai suivi mes cours avec zèle
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "i. Instruction spirituelle donnée aux étudiants hitlériens, (Extrait de lettre d’un étudiant allemand)"
+    "name": "i. Instruction spirituelle donnée aux étudiants hitlériens , (Extrait de lettre d’un étudiant allemand)"
   }]
 }
           </value>
@@ -1009,7 +1040,7 @@ J’ai suivi mes cours avec zèle
                     <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
                     <h1 class="head kicker chapter">Appendice I</h1>
                     <h1 class="head chapter">Instruction spirituelle donnée aux étudiants hitlériens
-          <br class="lb"/>(Extrait de lettre d’un étudiant allemand)<a class="bookmark" href="4"> §</a></h1>
+          <br class="lb"/>(Extrait de lettre d’un étudiant allemand)</h1>
                     <p class="p autofirst">« J’ai été convoqué par ma corporation à un camp d’instruction de deux semaines organisé à X. par le NSDStB<a class="noteref" href="4#note19" id="note19_"><sup>19</sup></a>, du… au… Les cours ne commencèrent que le second jour, avec une conférence de Y. chargé de l’instruction de la province. Sujet : “Notre sang, notre conception du monde.” Il débuta en rappelant les présuppositions sur lesquelles les participants doivent évidemment être au clair. Il s’exprima comme il suit — je sténographiai les formules marquantes.</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Il importe de distinguer entre les membres du parti et les nationaux-socialistes ou porteurs de notre conception du monde… Le Führer en effet a déclaré à la journée du Parti de 1935 : « Le national-socialisme est une conception du monde. » Cette conception du monde est décrite dans <i class="i">Le Mythe du <span class="num">xx<sup class="sup">e</sup></span> siècle</i> de Rosenberg… Dans les camps du NSDStB il s’agit de forger une troupe d’assaut pour Rosenberg, en vue de la lutte qui s’engagera sans doute l’hiver prochain, lutte pour l’âme allemande dans l’esprit et selon la 
@@ -1057,13 +1088,13 @@ J’ai suivi mes cours avec zèle
                       <a href="3">2. Conclusion 1938</a>
                     </li>
                     <li class="here">
-                      <a href="#">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="#">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="5">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">iii. Les jacobins en chemise brune</a>
+                      <a href="6">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1073,13 +1104,13 @@ J’ai suivi mes cours avec zèle
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1938ja/5" name="ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1938ja/5" name="ii. Plébiscite et démocratie . (À propos des « élections » au Reichstag, 29 mars 1936)" package="ddr1938ja" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936) (1938, Journal d’Allemagne)</value>
+          <value>ii. Plébiscite et démocratie . (À propos des « élections » au Reichstag, 29 mars 1936) (1938, Journal d’Allemagne)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1105,10 +1136,20 @@ J’ai suivi mes cours avec zèle
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "ii. Plébiscite et démocratie. (À propos des « élections » au Reichstag, 29 mars 1936)"
+    "name": "ii. Plébiscite et démocratie . (À propos des « élections » au Reichstag, 29 mars 1936)"
   }]
 }
           </value>
+        </attributekey>
+        <attributekey handle="meta_description">
+          <value>1. En quoi le plébiscite diffère des élections parlementaires – 2. Plébiscite et démocratie – 3. Nécessité du plébiscite – 4. La France a passé l’âge des plébiscites</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	1. En quoi le plébiscite diffère des élections parlementaires (1938, Journal d’Allemagne)
+body-5-2	2. Plébiscite et démocratie (1938, Journal d’Allemagne)
+body-5-3	3. Nécessité du plébiscite (1938, Journal d’Allemagne)
+body-5-4	4. La France a passé l’âge des plébiscites (1938, Journal d’Allemagne)
+</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -1121,15 +1162,15 @@ J’ai suivi mes cours avec zèle
                     <a class="pb" href="#pb80" id="pb80">[p. 80]</a>
                     <h1 class="head kicker chapter">Appendice ii<a class="noteref" href="5#note20" id="note20_"><sup>20</sup></a></h1>
                     <h1 class="head chapter">Plébiscite et démocratie
-          <br class="lb"/>(À propos des « élections » au Reichstag, 29 mars 1936)<a class="bookmark" href="5"> §</a></h1>
+          <br class="lb"/>(À propos des « élections » au Reichstag, 29 mars 1936)</h1>
                     <section id="body-5-1" class="div level2">
-                      <h2 class="head">1. En quoi le plébiscite diffère des élections parlementaires<a class="bookmark" href="5#body-5-1"> §</a></h2>
+                      <h2 class="head">1. En quoi le plébiscite diffère des élections parlementaires</h2>
                       <p class="p autofirst">Pour la mentalité française actuelle, les récentes « élections » nationales-socialistes doivent logiquement apparaître soit comme un truquage monumental, soit comme une manifestation de puissance au moins superflue. Les « élections » au Reichstag, à la suite du 7 mars, ne consistaient nullement en une concurrence libre de groupes ou d’opinions : un seul parti présentait des candidats, et le seul ministre de l’Intérieur était en droit de nommer définitivement les députés. Le vote revenait donc à dire oui ou non à la politique nationale-socialiste, c’est-à-dire au Führer en personne. En fait, il ne s’agissait pas d’élections, au sens parlementaire, mais de plébiscite. Il ne s’agissait pas de doser les opinions, mais au contraire d’obtenir l’<i class="i">unanimité</i> de la nation sur une question vitale. La « lutte 
 <a class="pb" href="#pb81" id="pb81">[p. 81]</a>
  électorale » revenait ainsi à la lutte du parti au pouvoir contre l’opposition secrète, informulée, des ennemis du régime, et contre l’inertie des citoyens et citoyennes qui eussent négligé de faire usage de leur droit de vote. Ceci posé, la technique de la propagande et du vote lui-même était indiquée par la nature du but visé, et il n’y a pas lieu de chicaner sur ce point, encore que certains membres du parti N.-S. reconnaissent qu’on a été « un peu fort » dans l’application des moyens de contrainte légale, surtout dans les petites localités (vote en masse, en cortège, à bulletins ouverts, etc., privant les opposants de toute faculté <i class="i">pratique</i> de dire non). Le but étant l’unanimité, et non la majorité, et cette unanimité n’existant pas encore, il fallait <i class="i">créer</i> de gré ou de force ses conditions. On peut contester la légitimité de la fin poursuivie, mais si on l’admet, il faut admettre aussi qu’elle « justifiait » les moyens mis en œuvre.</p>
                     </section>
                     <section id="body-5-2" class="div level2">
-                      <h2 class="head">2. Plébiscite et démocratie<a class="bookmark" href="5#body-5-2"> §</a></h2>
+                      <h2 class="head">2. Plébiscite et démocratie</h2>
                       <p class="p autofirst">Or cette opération anti-parlementaire a été présentée au peuple allemand, après le 7 mars, comme un acte démocratique.</p>
                       <p class="p">Le Führer, dans plusieurs de ses discours, a longuement insisté sur ce point. Les démocraties de l’Ouest, disait-il en substance, ne sont en réalité que des oligarchies. Le peuple y est privé du pouvoir de trancher les questions importantes. Entre lui et le gouvernement, il y a toute une caste de politiciens de métier qui, une fois élus pour plusieurs années, ne se soucient pas forcément de la véritable volonté de la nation… Pour moi, ajoutait-il, je viens faire appel à vous tous pour la troisième fois en trois ans. Je ne puis rien sans votre approbation, sans votre confiance. Je ne suis pas un usurpateur, ni un dictateur, mais je suis
 <a class="pb" href="#pb82" id="pb82">[p. 82]</a>
@@ -1143,7 +1184,7 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                       <p class="p">Là où le <i class="i">referendum</i> n’existe pas, comme en France, on ne saurait parler sans sophisme de démocratie : les pouvoirs délégués échappent à tout contrôle, ils sont perdus. Mais là où le <i class="i">referendum</i> ne peut être provoqué que par le gouvernement, comme en Allemagne, on ne saurait parler sans sophisme d’un contrôle du pouvoir par le peuple : c’est le pouvoir qui se confirme lui-même, et persuade au peuple d’abdiquer.</p>
                     </section>
                     <section id="body-5-3" class="div level2">
-                      <h2 class="head">3. Nécessité du plébiscite<a class="bookmark" href="5#body-5-3"> §</a></h2>
+                      <h2 class="head">3. Nécessité du plébiscite</h2>
                       <p class="p autofirst">Le plébiscite est donc un <i class="i">referendum</i> contrôlé, pratiquement : un referendum truqué. Il peut apparaître politiquement nécessaire dans deux cas :</p>
                       <p class="p">1° Lorsqu’il s’agit de donner un aspect légal à la prise du pouvoir par un seul homme. (Plébiscites sur les noms de Bonaparte, de Louis-Napoléon et de Napoléon III.)</p>
                       <p class="p">2° Lorsqu’il s’agit de renforcer le prestige d’un régime 
@@ -1155,7 +1196,7 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                     </section>
                     <section id="body-5-4" class="div level2">
                       <a class="pb" href="#pb85" id="pb85">[p. 85]</a>
-                      <h2 class="head">4. La France a passé l’âge des plébiscites<a class="bookmark" href="5#body-5-4"> §</a></h2>
+                      <h2 class="head">4. La France a passé l’âge des plébiscites</h2>
                       <p class="p autofirst">Pour un pays qui a fait son unité depuis des siècles, et qui peut-être a même été trop loin dans ce sens ; pour un pays qui a fait la Révolution de 89, c’est-à-dire qui a pris conscience de sa réalité nationale depuis bientôt 150 ans ; pour un pays enfin dont la mission a toujours été libératrice — ou tout au moins affirmée telle — la tentation plébiscitaire, qui est la tentation fasciste, n’a plus de sens historique ni spirituel.</p>
                       <p class="p">Il importe d’insister sur cette conclusion, chaque fois que nous critiquons le système apparemment tout contraire des élections partisanes. Si nous sommes antiparlementaires, nous ne souffrirons pas qu’une paresse d’esprit voisine de la mauvaise foi nous assimile pour autant à un « fascisme » contre lequel toute la doctrine et l’attitude personnaliste se dressent en une opposition irréductible, essentielle. <i class="i">L’État-nation, voilà l’ennemi</i> ; et peu nous importe que ce soit un pseudo-fascisme de droite ou un pseudo-démocratisme de gauche qui cherche à l’instituer en France, avec l’appui des Forges ou avec l’appui de Moscou : en regard de la mission personnaliste de la France, ces deux tentatives ne seront jamais que des trahisons jumelles.</p>
                       <p class="p">Nous sommes contre la centralisation, contre l’étatisme, contre le nationalisme étatisé, contre toute espèce de fascisme imité de Mussolini, d’Hitler ou de Staline, mais aussi contre toute espèce de fascisme « à la française ». Parce que nous sommes pour le fédéralisme communaliste, pour l’exercice de l’autorité <i class="i">sur place</i>, par des hommes responsables et qui savent ce qu’ils font, dans un cadre qui soit à mesure d’homme, — pour la seule vraie « démocratie », dirions-nous volontiers, si le mot ne couvrait aujourd’hui les plus flagrantes trahisons de la chose.</p>
@@ -1192,10 +1233,10 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                       <a href="3">2. Conclusion 1938</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="here">
-                      <a href="#">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="#">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                       <ul>
                         <li class="collateral">
                           <a href="5#body-5-1">1. En quoi le plébiscite diffère des élections parlementaires</a>
@@ -1212,7 +1253,7 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="6">iii. Les jacobins en chemise brune</a>
+                      <a href="6">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1269,7 +1310,7 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                   <article role="article">
                     <a class="pb" href="#pb86" id="pb86">[p. 86]</a>
                     <h1 class="head kicker chapter">Appendice <span class="num">iii</span></h1>
-                    <h1 class="head chapter">Les jacobins en chemise brune <a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Les jacobins en chemise brune </h1>
                     <p class="p autofirst">Au Français qui s’étonne et s’inquiète, ou s’indigne de certaines tournures que prend le national-socialisme, il n’est pas rare qu’un membre du parti d’Hitler réponde : « Vous êtes bien mal venu à critiquer ce qui se fait ici ! Vous condamnez notre centralisme, notre nationalisme, notre passion unitaire, notre éloquence démagogique, et vous ne voyez même pas que tout cela, chez vous, existe pareillement, sinon à un plus haut degré, depuis votre Révolution ! Tâchez donc de comprendre une bonne fois que l’Allemagne n’a pas eu de Révolution française, et qu’elle doit rattraper son retard, à tout prix. Vous avez, vous Français, une conscience nationale unitaire qui nous a toujours fait défaut. Tous vos manuels et tous vos historiens vantent les bienfaits de cette unité. Elle est passée dans vos mœurs, à tel point que vous n’en êtes plus même conscients. Vous criez au nationalisme, c’est-à-dire à l’orgueil impérialiste je pense, dès qu’un peuple à côté de vous, que ce soit l’Italie ou l’Allemagne, essaye de faire ce que vous avez fait, et dont vous paraissez si fiers ! »</p>
                     <p class="p">Je note d’abord que ces propos m’ont été tenus spontanément, par des personnes très favorables à Hitler, 
 <a class="pb" href="#pb87" id="pb87">[p. 87]</a>
@@ -1338,13 +1379,13 @@ le porte-parole d’une volonté nationale à laquelle j’obéirai toujours ave
                       <a href="3">2. Conclusion 1938</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens,  (Extrait de lettre d’un étudiant allemand)</a>
+                      <a href="4">i. Instruction spirituelle donnée aux étudiants hitlériens ,  (Extrait de lettre d’un étudiant allemand)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">ii. Plébiscite et démocratie.  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
+                      <a href="5">ii. Plébiscite et démocratie .  (À propos des « élections » au Reichstag, 29 mars 1936)</a>
                     </li>
                     <li class="here">
-                      <a href="#">iii. Les jacobins en chemise brune</a>
+                      <a href="#">iii. Les jacobins en chemise brune </a>
                     </li>
                   </ul>
                 ]]></content>

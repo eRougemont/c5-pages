@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <h1 class="head chapter">Préface
-          <br class="lb"/>Cheminements<a class="bookmark" href="1"> §</a></h1>
+          <br class="lb"/>Cheminements</h1>
                     <p class="p autofirst">Aux yeux de ses contemporains et pour l’Histoire, Robert Schuman restera l’homme d’État grâce auquel la première Communauté européenne put voir le jour. Ce que l’on sait moins, c’est qu’il fut aussi le président de deux institutions d’un tout autre ordre, au sort desquelles j’avais eu le bonheur de l’intéresser activement : le Centre européen de la culture, à Genève, puis, née du Centre, la Fondation européenne, aujourd’hui présidée par S. A. R. le prince Bernhard des Pays-Bas.</p>
                     <p class="p">Dans quel esprit l’homme politique que fut essentiellement Robert Schuman jugeait-il la fonction de ces deux entreprises, si modestes au regard des réalisations de Luxembourg, puis de Bruxelles ? Relisant le précieux recueil de textes <i class="i">Pour l’Europe</i>, réunis à la fin de sa vie, je trouve ces mots qu’on ne saurait souhaiter plus éclairants, et qui servent de titre au deuxième chapitre : <i class="i">L’Europe, avant d’être une alliance militaire ou une entité politique, doit être une communauté culturelle</i>. Et dans ce chapitre, je souligne cette phrase : <i class="i">L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits.</i></p>
                     <p class="p">Les liens nécessaires et vitaux entre culture et politique, le « cheminement des esprits » vers des institutions européennes qui favorisent la liberté plutôt que la puissance, et les personnes plutôt que les États, tel est sans aucun doute le thème commun à tous les textes ici réunis par le prétexte d’un anniversaire : le Centre européen de la culture aura vingt ans à l’automne 1970.</p>
@@ -85,7 +85,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -108,7 +108,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -173,13 +173,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1970cde/2" name="I.1 Le mouvement européen" package="ddr1970cde" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1970cde/2" name="I.1. Le mouvement européen" package="ddr1970cde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.1 Le mouvement européen (1970, Le Cheminement des esprits)</value>
+          <value>I.1. Le mouvement européen (1970, Le Cheminement des esprits)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -205,10 +205,20 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "I.1 Le mouvement européen"
+    "name": "I.1. Le mouvement européen"
   }]
 }
           </value>
+        </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.1.a. Nécessité et urgence de l’union – I.1.b. Origines du mouvement fédéraliste – I.1.c. De Montreux à Bruxelles – I.1.d. Objectifs immédiats</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-1-1	I.1.a. Nécessité et urgence de l’union (1970, Le Cheminement des esprits)
+body-2-1-2	I.1.b. Origines du mouvement fédéraliste (1970, Le Cheminement des esprits)
+body-2-1-3	I.1.c. De Montreux à Bruxelles (1970, Le Cheminement des esprits)
+body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
+</value>
         </attributekey>
       </attributes>
       <area name="Main">
@@ -218,9 +228,9 @@
               <record>
                 <content><![CDATA[
                   <article role="article">
-                    <h1 class="head chapter">Le mouvement européen<a class="noteref" href="2#note1" id="note1_"><sup>1</sup></a><a class="bookmark" href="2"> §</a></h1>
-                    <section id="body-2-1-1" class="div level3 level2">
-                      <h2 class="head">Nécessité et urgence de l’union<a class="bookmark" href="2#body-2-1-1"> §</a></h2>
+                    <h1 class="head chapter">Le mouvement européen<a class="noteref" href="2#note1" id="note1_"><sup>1</sup></a></h1>
+                    <section id="body-2-1-1" class="div level2">
+                      <h2 class="head">Nécessité et urgence de l’union</h2>
                       <p class="p autofirst">Quand un Américain déclare que votre idée est généreuse, c’est qu’il est ému : il va vous aider. Quand un Européen vous dit : l’Europe unie, oui, c’est une belle idée, une idée généreuse…, c’est qu’il n’a pas envie d’y croire, qu’il ne fera rien, qu’il pense qu’il est sérieux et que vous rêvez. C’est ainsi qu’une certaine bourgeoisie occidentale, politiquement analphabète dans ses propos et ses réflexes, imite à sa manière le cynisme frivole de la noblesse à la veille de la Révolution. Mais le grand style se perd et Staline est aux portes.</p>
                       <p class="p">Il s’agit en réalité de la vie ou de la mort d’une civilisation. Fédérer nos petits peuples <i class="i">in extremis</i> est notre seule chance de salut. On se demande en vain ce qu’il peut y avoir de « généreux » dans une opération de ce genre. Qu’il suffise de rappeler les données qui en déterminent exactement l’urgence.</p>
                       <p class="p">La guerre a eu pour conséquences principales, d’une part, l’affaissement de l’Europe et, d’autre part, le surgissement au plan mondial de la Russie et de l’Amérique. Ces deux colosses sont en train de s’observer par-dessus nos têtes. Ils n’ont pas envie de se battre, affirment-ils. Ils proclament au contraire leur amour de la paix, et ils le prouvent, l’un en relevant nos ruines, et l’autre en annexant 700 000 kilomètres carrés de nos terres. Si bien qu’on ne voit plus très clairement s’il s’agit de poser les bases de la paix ou de s’assurer des bases pour faire la guerre, mais il reste évident que si les deux Grands continuent à se déclarer la paix sur ce ton-là, cela finira par des coups.</p>
@@ -239,8 +249,8 @@
  revanche, beaucoup pensent : « Tout cela est bel et bon, mais que fait-on et que pourra-t-on faire en temps utile ? » La paix, l’Europe unie, d’accord, c’est un beau rêve. En attendant, voici le cauchemar. Déjà les maréchaux s’installent et tirent leurs plans ; la Russie fait donner ses cinquièmes colonnes et l’Amérique numérote ses bombes.</p>
                       <p class="p">Ainsi l’urgence s’ajoute à la nécessité. J’essayerai maintenant de répondre à ceux qui demandent ce qu’on a fait déjà, et ce qu’on peut faire à temps pour fédérer l’Europe.</p>
                     </section>
-                    <section id="body-2-1-2" class="div level3 level2">
-                      <h2 class="head">Origines du mouvement fédéraliste<a class="bookmark" href="2#body-2-1-2"> §</a></h2>
+                    <section id="body-2-1-2" class="div level2">
+                      <h2 class="head">Origines du mouvement fédéraliste</h2>
                       <p class="p autofirst">Il y eut Sully, qu’aime à citer Churchill : il rêvait d’une coalition. Il y eut Montesquieu, premier critique du nationalisme naissant. Il y eut Victor Hugo, prophétisant l’avènement du fédéralisme : « <i class="i">La Suisse, dans l’histoire, aura le dernier mot…</i> » Il y eut Proudhon surtout, qui écrivait : « Le <span class="num">xx<sup class="sup">e</sup></span> siècle ouvrira l’ère des fédérations, ou bien l’humanité recommencera un purgatoire de mille ans. » C’était vers 1860. Mais ces rêves et ces prophéties ne pouvaient concerner qu’un avenir incertain, au milieu du <span class="num">xix<sup class="sup">e</sup></span> siècle, quand la réalité politique de l’Europe était l’essor des grands nationalismes. Il y eut enfin, après la première guerre mondiale, le mouvement paneuropéen, lancé à Vienne en 1923 par le comte Coudenhove-Kalergi. Ce pionnier réussit à convaincre Briand, qui prêta sa grande voix traînarde à l’idée d’une union continentale. Mais ces premières ferveurs devaient bientôt se perdre dans la rumeur polyglotte des couloirs de la SDN. On en était aux constructions diplomatiques. Elles s’écroulèrent à la première épreuve. Aux yeux des jeunes gens de l’époque, il fallait quelque chose de plus profond, de plus prégnant, pour donner ses assises morales et doctrinales à la Fédération européenne.</p>
                       <p class="p">C’est alors qu’apparurent en France les premiers groupes personnalistes. Ils réunirent quelques centaines d’adhérents, quelques milliers de lecteurs pour leurs revues. Ces dernières n’étaient pas d’une lecture très facile. On y parlait beaucoup de l’engagement — un mot qui a fait fortune depuis dans d’autres bouches. On y faisait surtout de la doctrine. On s’attachait à définir cette conception fondamentale de l’homme que l’on baptisait la <i class="i">personne</i> — l’homme « à la fois libre et responsable » que l’on opposait d’une part à l’individu sans devoirs, et d’autre 
 <a class="pb" href="#p4" id="p4">[p. 4]</a>
@@ -254,8 +264,8 @@
                       <p class="p">C’est ainsi qu’à Montreux nous sommes partis — nous sommes partis pour faire l’Europe, tout simplement.</p>
                       <p class="p">On s’étonnera de la part que je viens de faire à la doctrine personnaliste dans la genèse de nos mouvements. Il est vrai que beaucoup de petits groupes qui se formèrent spontanément dans les camps et dans les maquis ne devaient rien à cette doctrine. Mais il est non moins vrai que les grands thèmes et le vocabulaire personnalistes reparaissent avec insistance dans tous les documents qui jalonnent les étapes du mouvement vers l’Europe unie, à partir du Congrès de Montreux jusqu’à ceux de La Haye, de Rome et, tout récemment, de Bruxelles. Parmi bien d’autres influences conjuguées, celle-ci demeure, me semble-t-il, la plus constante et la plus aisément discernable.</p>
                     </section>
-                    <section id="body-2-1-3" class="div level3 level2">
-                      <h2 class="head">De Montreux à Bruxelles<a class="bookmark" href="2#body-2-1-3"> §</a></h2>
+                    <section id="body-2-1-3" class="div level2">
+                      <h2 class="head">De Montreux à Bruxelles</h2>
                       <p class="p autofirst">Le Congrès de Montreux n’était pas terminé que l’idée naissait parmi nous d’en élargir l’action en convoquant, pour le printemps de l’année suivante, des États généraux de l’Europe. Sur-le-champ, des accords furent esquissés avec les représentants d’autres mouvements venus en qualité d’observateurs.</p>
                       <p class="p">Les envoyés du <i class="i">United Europe Committee</i> nous informèrent que le président de ce groupement, Winston Churchill, avait également l’intention de convoquer un « Congrès de l’Europe ». Il ne s’agissait pas, dans son esprit, d’une entreprise « fédéraliste » au sens précis, mais plutôt d’une action de propagande destinée à faciliter cette « union » des États de l’Europe que Churchill avait réclamée dans son grand discours de Zurich. C’est de ces deux initiatives indépendantes, et de leur rencontre à Montreux, que devait sortir le Congrès de La Haye.</p>
                       <p class="p">Dès l’automne 1947, un Comité de coordination des mouvements pour l’union de l’Europe dressait les plans de travail pour La Haye. Il groupait les quatre organisations suivantes : <i class="i">Union européenne des fédéralistes</i> (présidents H. Brugmans et Ignazio Silone) ; <i class="i">United Europe Committee</i> (W. Churchill) ; <i class="i">Ligue indépendante de coopération économique</i> (Paul van Zeeland) ; <i class="i">Comité français pour l’Europe unie</i> (E. Herriot et R. Dautry). <i class="i">Les Nouvelles équipes internationales</i>
@@ -277,8 +287,8 @@
                       <p class="p">Ce qui n’était qu’un rêve il y a un siècle, qu’une théorie il y a quinze ans, qu’une espérance pendant la guerre, est aujourd’hui discuté par la presse, les parlements, les ministères, comme quelque chose qu’il faut réaliser d’urgence, et qui a les plus grandes chances de se réaliser.</p>
                       <p class="p">Nous sommes donc arrivés à pied d’œuvre. Ici commence la bataille décisive.</p>
                     </section>
-                    <section id="body-2-1-4" class="div level3 level2">
-                      <h2 class="head">Objectifs immédiats<a class="bookmark" href="2#body-2-1-4"> §</a></h2>
+                    <section id="body-2-1-4" class="div level2">
+                      <h2 class="head">Objectifs immédiats</h2>
                       <p class="p autofirst">L’effort du Mouvement européen, appuyé par la propagande ou les travaux spécialisés des six mouvements qui le composent, va se porter au cours des mois prochains sur quatre points : Assemblée, Cour des Droits de l’Homme, Mesures économiques, Centre de la Culture. Décrivons rapidement les forces en présence : nos plans, les résistances à vaincre.</p>
                       <p class="p">
 <a class="pb" href="#p8" id="p8">[p. 8]</a>
@@ -330,19 +340,19 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="here">
-                          <a href="#">I.1 Le mouvement européen</a>
+                          <a href="#">I.1. Le mouvement européen</a>
                           <ul>
                             <li class="collateral">
-                              <a href="2#body-2-1-1">Nécessité et urgence de l’union</a>
+                              <a href="2#body-2-1-1">I.1.a. Nécessité et urgence de l’union</a>
                             </li>
                             <li class="collateral">
-                              <a href="2#body-2-1-2">Origines du mouvement fédéraliste</a>
+                              <a href="2#body-2-1-2">I.1.b. Origines du mouvement fédéraliste</a>
                             </li>
                             <li class="collateral">
-                              <a href="2#body-2-1-3">De Montreux à Bruxelles</a>
+                              <a href="2#body-2-1-3">I.1.c. De Montreux à Bruxelles</a>
                             </li>
                             <li class="collateral">
-                              <a href="2#body-2-1-4">Objectifs immédiats</a>
+                              <a href="2#body-2-1-4">I.1.d. Objectifs immédiats</a>
                             </li>
                           </ul>
                         </li>
@@ -367,7 +377,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -469,6 +479,15 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.2.a. Première section. Les conditions matérielles et morales de la vie de l’esprit en Europe – I.2.b. Deuxième section. Institutions spécifiquement européennes – I.2.c. Conclusions</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-2-1	I.2.a. Première section. Les conditions matérielles et morales de la vie de l’esprit en Europe (1970, Le Cheminement des esprits)
+body-2-2-2	I.2.b. Deuxième section. Institutions spécifiquement européennes (1970, Le Cheminement des esprits)
+body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -478,17 +497,17 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949<a class="bookmark" href="3"> §</a></h1>
+                    <h1 class="head chapter">Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</h1>
                     <p class="p autofirst">Il est vrai que l’Europe est en train de se défaire : elle n’a jamais été plus menacée, plus divisée devant le péril, plus angoissée et sceptique à la fois. Mais il n’est pas moins vrai que pour la première fois, dans toute sa longue histoire, consciemment, l’Europe est en train de se faire. Telle est la situation contradictoire dans laquelle nous sommes engagés. Il dépend de nous, en partie, que l’espoir ait raison du désespoir, mais il faut aller vite et bien voir où l’on va.</p>
                     <p class="p">Tandis que s’esquissent à Strasbourg les cadres politiques de l’Europe unie, il est grand temps de définir la visée humaine qui doit présider à cette action, la vocation de notre communauté européenne. Tel est le but général de la Conférence de Lausanne, le sens profond qui doit se dégager de ses travaux. Elle doit montrer que nos forces culturelles peuvent contribuer à l’union de l’Europe, et qu’en retour, l’Europe unie sera seule capable de sauver nos cultures dans leur précieuse diversité.</p>
                     <p class="p">C’est le double problème de la liberté de l’esprit et de sa responsabilité qui se pose à la Conférence. Deux formules peuvent le résumer : « La Culture au service de l’Europe » souligne les responsabilités de l’esprit. « L’Europe unie au service de nos cultures » indique le moyen de protéger la liberté de l’esprit, menacée du dedans et du dehors.</p>
                     <p class="p">
 <a class="pb" href="#p12" id="p12">[p. 12]</a>
  Mais sous peine de se perdre dans des généralités ambitieuses et sans conséquences, le Congrès fera bien de reconnaître d’abord l’état réel de la culture en Europe, les misères dont elle souffre, les dangers qui la guettent. C’est pourquoi les deux thèmes qui serviront de point de départ aux débats seront d’une part <i class="i">les conditions matérielles et morales de la vie et de l’esprit en Europe</i>, et d’autre part <i class="i">l’étude des institutions et réformes souhaitables pour développer l’esprit européen</i>.</p>
-                    <section id="body-2-2-1" class="div level3 level2">
+                    <section id="body-2-2-1" class="div level2">
                       <a class="pb" href="#p13" id="p13">[p. 13]</a>
                       <h2 class="head">Première section
-              <br class="lb"/>Les conditions matérielles et morales de la vie de l’esprit en Europe<a class="bookmark" href="3#body-2-2-1"> §</a></h2>
+              <br class="lb"/>Les conditions matérielles et morales de la vie de l’esprit en Europe</h2>
                       <p class="p autofirst"><i class="i">Destruction</i>. — Les destructions directes causées par la guerre sont encore cruellement sensibles dans quelques pays comme l’Allemagne (bibliothèques, musées, maisons d’éditions) et la Grèce (laboratoires détruits ou pillés dans leur presque totalité). Non moins graves sont les destructions indirectes et la stérilisation temporaire de sources de culture, dont souffrent la plupart des pays qui participèrent aux hostilités : beaucoup de livres de fonds, de classiques, de manuels, n’ont pas été réédités depuis 1940, et très souvent l’équipement des laboratoires n’a pas été renouvelé. Il faut aller chercher les livres des philosophes dans les bibliothèques publiques. Non seulement, il est très difficile de se procurer les œuvres de J.-S. Bach, par suite de la destruction totale des maisons qui éditaient la musique classique en Allemagne, mais encore en France même on ne trouve pas de réédition de Debussy !</p>
                       <p class="p">Ces destructions matérielles, toutefois, semblent plus faciles à réparer que les destructions humaines résultant des déportations et de la vie dans les camps. Il faut rappeler ici le problème tragique des intellectuels réfugiés des pays de l’Est. Faute de pouvoir trouver dans l’Europe de l’Ouest un emploi correspondant à leurs capacités, la plupart se voient contraints d’émigrer hors d’Europe, et souvent d’accepter un travail de manœuvre ou d’ouvrier agricole. Ils sont ainsi perdus à la fois pour l’Europe et pour la Culture. Ils forment dans les camps de DP le « résidu » que des organisations comme l’OIR ne parviennent pas à « réduire ».</p>
                       <p class="p">
@@ -551,10 +570,10 @@
 <a class="pb" href="#p23" id="p23">[p. 23]</a>
  Toutes nos cultures sont nées d’un fonds commun, qu’elles ont progressivement diversifié. Elles se sont nourries les unes des autres, elles ont vécu de l’échange de leurs découvertes et de leurs méthodes de leurs procédés techniques ou rhétoriques, des formes musicales et littéraires inventées ici ou là ; et elles en vivent encore, dans la mesure où elles vivent. L’unité culturelle de l’Europe n’a plus à être faite : elle existait aux origines, et elle n’a cessé pendant les siècles de se reformer, de s’enrichir de mille diversités. Il ne s’agit pas de la créer ou de l’organiser par décret, mais simplement <i class="i">de la laisser se manifester</i>, et de ne plus l’empêcher d’évoluer selon ses lois et sa liberté propres. <i class="i">L’Europe ouverte</i>, et rien de plus, mais rien de moins, voilà la solution, voilà le remède pratique à presque tous les maux que nous avons recensés.</p>
                     </section>
-                    <section id="body-2-2-2" class="div level3 level2">
+                    <section id="body-2-2-2" class="div level2">
                       <a class="pb" href="#p24" id="p24">[p. 24]</a>
                       <h2 class="head">Deuxième section
-              <br class="lb"/>Institutions spécifiquement européennes<a class="bookmark" href="3#body-2-2-2"> §</a></h2>
+              <br class="lb"/>Institutions spécifiquement européennes</h2>
                       <p class="p autofirst">À la suppression des obstacles matériels et des entraves morales aux échanges doit correspondre un effort positif. Il serait en effet insuffisant et vain de vouloir revenir à la condition libérale qui était celle de l’esprit en Europe avant la guerre de 1914, puisqu’elle n’a pas suffi à réduire les nationalismes, mais que c’est elle qui, par la suite, a succombé devant leurs exigences. Il faut faire un grand pas de plus, et créer des institutions qui garantissent et manifestent l’unité de nos cultures dans leur diversité. Il faut doter l’Europe unie d’instruments de travail à l’échelle continentale.il faut aussi former les jeunes hommes qui deviendront les porteurs de l’<i class="i">idée fédérale</i>, sans laquelle nos réformes techniques et matérielles resteront lettre morte.</p>
                       <p class="p">Une civilisation est vivante quand elle fait des plans. Elle a son unité, elle la démontre et la défend effectivement, quand elle invente ses formes institutionnelles et préfigure ainsi son avenir.</p>
                       <p class="p">Sur les institutions européennes à fonder, ce rapport sera bref : les documents et rapports spéciaux mis à la disposition de la Conférence donnent le détail des projets à l’étude. Nous nous bornerons donc ici à motiver la politique générale qui devrait présider à ces diverses créations.</p>
@@ -585,8 +604,8 @@
                       <p class="p"><i class="i">Financement des Institutions européennes</i>. — Toutes ces activités demanderont des fonds, qui aujourd’hui n’existent pas. Ils pourraient être créés par le blocage au titre européen, d’une partie du budget de l’Éducation nationale dans chaque pays.</p>
                       <p class="p">Les gouvernements et l’économie privée invoqueront leurs charges écrasantes ou leurs bénéfices diminués. Nous invoquerons le fait que, si le sentiment d’un destin spirituel commun, et l’énergie créatrice des Européens ne sont pas réveillés, les États et l’économie privée courent à leur perte inéluctable. Nous devons mettre nos gouvernements devant un choix. Un ordre de priorité doit être établi. Il est probable que le prix de revient d’une seule bombe atomique dépasse largement le budget annuel des institutions que nous venons de proposer. Le prix d’une seule bombe atomique couvrirait donc le budget global d’une renaissance de la culture européenne. Construire des engins de mort qui coûtent des milliards, quand on refuse de trouver les millions qui permettraient de développer la recherche scientifique pour la paix et la vie, c’est la folie de l’Occident moderne. La Conférence faillirait à sa mission, si elle n’élevait pas, contre cette barbarie modernisée, le cri des hommes.</p>
                     </section>
-                    <section id="body-2-2-3" class="div level3 level2">
-                      <h2 class="head">Conclusions<a class="bookmark" href="3#body-2-2-3"> §</a></h2>
+                    <section id="body-2-2-3" class="div level2">
+                      <h2 class="head">Conclusions</h2>
                       <p class="p autofirst">Pour quelles fins réelles voulons-nous ces moyens de culture, et cette éducation d’une conscience commune de l’Europe ? La question doit être posée. Elle est d’ailleurs spécifiquement « européenne ».</p>
                       <p class="p">
 <a class="pb" href="#p28" id="p28">[p. 28]</a>
@@ -664,19 +683,19 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="here">
                           <a href="#">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
                           <ul>
                             <li class="collateral">
-                              <a href="3#body-2-2-1">Première section.  Les conditions matérielles et morales de la vie de l’esprit en Europe</a>
+                              <a href="3#body-2-2-1">I.2.a. Première section.  Les conditions matérielles et morales de la vie de l’esprit en Europe</a>
                             </li>
                             <li class="collateral">
-                              <a href="3#body-2-2-2">Deuxième section.  Institutions spécifiquement européennes</a>
+                              <a href="3#body-2-2-2">I.2.b. Deuxième section.  Institutions spécifiquement européennes</a>
                             </li>
                             <li class="collateral">
-                              <a href="3#body-2-2-3">Conclusions</a>
+                              <a href="3#body-2-2-3">I.2.c. Conclusions</a>
                             </li>
                           </ul>
                         </li>
@@ -698,7 +717,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -809,7 +828,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p31" id="p31">[p. 31]</a>
-                    <h1 class="head chapter">Naissance du Centre<a class="noteref" href="4#note7" id="note7_"><sup>7</sup></a><a class="bookmark" href="4"> §</a></h1>
+                    <h1 class="head chapter">Naissance du Centre<a class="noteref" href="4#note7" id="note7_"><sup>7</sup></a></h1>
                     <p class="p autofirst">Le Centre est né pour tâcher de répondre à certaines exigences d’une situation qui est celle de l’Europe d’aujourd’hui, c’est-à-dire d’une Europe mise en question dans son existence même, matérielle et morale, d’une Europe qui ne peut se sauver qu’en regroupant ses forces et qu’en les refondant sur les bases les plus sûres de son histoire…</p>
                     <p class="p">On peut discuter à l’infini sur l’opportunité et sur le contenu du mot « culture ». Je me contenterai de le définir ici d’une manière pragmatique et globale : appelons « culture » ce qui a fait de l’Europe autre chose que ce qu’elle est physiquement, autre chose qu’un petit cap de l’Asie (pour reprendre le mot toujours cité) : le cœur et le cerveau du monde moderne. C’est là qu’il faut chercher les vrais secrets de notre puissance, même matérielle, et donc de notre indépendance. Si maintenant nous voulons fonder l’Europe unie sur une base ferme et réaliste, fondons-la sur sa force principale, qui est dans l’ordre de l’esprit…</p>
                     <p class="p">Je serais ravi que ces quelques remarques apparaissent comme autant d’évidences et même de banalités. Il s’en faut cependant de beaucoup que les Européens les prennent pratiquement au sérieux. Ce qui est sérieux, croient-ils, ce sont les armements et les échanges économiques, voire le jeu des partis politiques…</p>
@@ -862,7 +881,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -885,7 +904,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -987,6 +1006,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.4.a. Situation de l’homme au xxe siècle – I.4.b. Situation de l’Europe – I.4.c. Le dilemme – I.4.d. Nature des obstacles à l’union – I.4.e. Nécessité de réveiller un sentiment commun des Européens</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-4-1	I.4.a. Situation de l’homme au xxe siècle (1970, Le Cheminement des esprits)
+body-2-4-2	I.4.b. Situation de l’Europe (1970, Le Cheminement des esprits)
+body-2-4-3	I.4.c. Le dilemme (1970, Le Cheminement des esprits)
+body-2-4-4	I.4.d. Nature des obstacles à l’union (1970, Le Cheminement des esprits)
+body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -996,7 +1026,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p34" id="p34">[p. 34]</a>
-                    <h1 class="head chapter">Naissance d’une Fondation<a class="bookmark" href="5"> §</a></h1>
+                    <h1 class="head chapter">Naissance d’une Fondation</h1>
                     <p class="p autofirst">
                       <i class="i">L’idée naquit en décembre 1952. Elle se précisa jusqu’à l’été 1953, et les premiers qui en eurent connaissance s’y montrèrent aussitôt favorables. Il s’agissait à la fois d’élargir le cercle des amis du Centre européen de la culture et de rassembler autour d’un grand projet — celui d’une fondation à l’échelle européenne — des hommes qui s’étaient signalés dans leur sphère d’influence par leur intérêt actif pour la cause de l’union de nos peuples.</i>
                     </p>
@@ -1004,16 +1034,16 @@
                     <p class="p center">
                       <span class="sc">habeas animam</span>
                     </p>
-                    <section id="body-2-4-1" class="div level3 level2">
-                      <h2 class="head">Situation de l’homme au <span class="num">xx<sup class="sup">e</sup></span> siècle<a class="bookmark" href="5#body-2-4-1"> §</a></h2>
+                    <section id="body-2-4-1" class="div level2">
+                      <h2 class="head">Situation de l’homme au <span class="num">xx<sup class="sup">e</sup></span> siècle</h2>
                       <p class="p autofirst">Le totalitarisme règne aujourd’hui sur un tiers de l’humanité. Il agit dans les deux autres tiers non seulement par sa propagande et sa diplomatie, mais par la fascination de ses mythes et par la terreur même qu’il exerce.</p>
                       <p class="p">Dans les pays demeurés libres, le développement de l’étatisme aux dépens du sens civique, d’une part, l’absence d’un idéal commun, d’autre part, minent la résistance spirituelle et politique, préparant ainsi les voies de la tyrannie collectiviste. 
 <a class="pb" href="#p35" id="p35">[p. 35]</a>
  Celle-ci s’attaque aux fondements comme aux conquêtes de notre civilisation occidentale, parce qu’elle s’attaque à la notion de l’homme qui fut l’origine décisive de cette civilisation, et qui en restera le plus haut achèvement.</p>
                       <p class="p">Ce n’est plus seulement la liberté de la personne — l’<i class="i">habeas corpus</i> — qui est contestée au <span class="num">xx<sup class="sup">e</sup></span> siècle, mais déjà son identité, le droit de chaque homme à son âme, l’<i class="i">habeas animam</i>, comme l’a dit Ignazio Silone. La tyrannie possède aujourd’hui les moyens de modifier la pensée, les sentiments, et jusqu’au sens de la vérité chez un homme. La mise en <i class="i">esclavage mental</i> d’une grande partie de l’humanité n’est plus une utopie : ses moyens scientifiques existent, ils sont à l’œuvre sous nos yeux.</p>
                     </section>
-                    <section id="body-2-4-2" class="div level3 level2">
-                      <h2 class="head">Situation de l’Europe<a class="bookmark" href="5#body-2-4-2"> §</a></h2>
+                    <section id="body-2-4-2" class="div level2">
+                      <h2 class="head">Situation de l’Europe</h2>
                       <p class="p autofirst">Foyer de la civilisation occidentale, l’Europe a pour mission suprême et impérieuse de susciter la résistance à cette immense offensive anonyme contre l’humain, phénomène dont l’Histoire n’a pas vu le précédent. Mais l’Europe est elle-même en grand péril.</p>
                       <p class="p">Les peuples qu’elle a civilisés retournent contre elle les techniques qui avaient assuré sa puissance. Ceux qu’elle a exploités et opprimés retournent contre elle les idéaux de liberté et d’égalité qui avaient assuré son prestige. Les progrès de l’hygiène, répandus par les Européens, ont pour effet de bouleverser totalement les rapports démographiques entre l’Europe et d’autres groupes de nations. Le nationalisme qui nous divise devient, ailleurs, principe d’union à nos dépens. Les sources extérieures de nos richesses tarissent. De grands marchés se ferment à nos produits. Des empires concurrents se dressent.</p>
                       <p class="p">Ainsi, au moment où les valeurs secondaires de notre civilisation ont conquis le monde, l’Europe en perd naturellement le monopole, cependant qu’elle voit ses valeurs fondamentales menacées, et ses positions économiques compromises.</p>
@@ -1021,12 +1051,12 @@
 <a class="pb" href="#p36" id="p36">[p. 36]</a>
  politique, économique, et par suite morale. Tout ce qui fait le sens même de nos vies.</p>
                     </section>
-                    <section id="body-2-4-3" class="div level3 level2">
-                      <h2 class="head">Le dilemme<a class="bookmark" href="5#body-2-4-3"> §</a></h2>
+                    <section id="body-2-4-3" class="div level2">
+                      <h2 class="head">Le dilemme</h2>
                       <p class="p autofirst">En vérité, l’Europe perdra tout cela, si elle persiste dans sa division, cause principale de son présent abaissement. Elle ne pourra survivre, et sauver la civilisation, que si elle s’unit. « D’ici vingt-cinq ans, disait récemment la reine Juliana, nous vivrons tous dans une même maison, ou nous mourrons tous dans les mêmes ruines. »</p>
                     </section>
-                    <section id="body-2-4-4" class="div level3 level2">
-                      <h2 class="head">Nature des obstacles à l’union<a class="bookmark" href="5#body-2-4-4"> §</a></h2>
+                    <section id="body-2-4-4" class="div level2">
+                      <h2 class="head">Nature des obstacles à l’union</h2>
                       <p class="p autofirst">Les obstacles à l’union européenne sont actuellement d’ordre moral, bien plus que matériel. Voici les principaux :</p>
                       <p class="p">— manque de confiance des Européens en eux-mêmes, et défaitisme devant « le mouvement fatal de l’Histoire » ;</p>
                       <p class="p">— attachement fétichiste à des « souverainetés nationales » qui ont épuisé leurs vertus au <span class="num">xix<sup class="sup">e</sup></span> siècle et sont devenues en partie fictives : aucun de nos pays ne peut se défendre seul plus de quelques heures ;</p>
@@ -1038,8 +1068,8 @@
  Et leur campagne joue à plein sur les habitudes mentales qu’on vient de rappeler, et sur les slogans qu’elles accréditent : « indépendance nationale », « danger allemand », « offensive de paix russe », « impérialisme américain ».</p>
                       <p class="p">Le temps que l’on perd ainsi pour le salut de l’Europe, d’autres le gagnent pour sa ruine.</p>
                     </section>
-                    <section id="body-2-4-5" class="div level3 level2">
-                      <h2 class="head">Nécessité de réveiller un sentiment commun des Européens<a class="bookmark" href="5#body-2-4-5"> §</a></h2>
+                    <section id="body-2-4-5" class="div level2">
+                      <h2 class="head">Nécessité de réveiller un sentiment commun des Européens</h2>
                       <p class="p autofirst">Il est donc évident que le nœud du problème est dans l’attitude morale des Européens eux-mêmes. À défaut d’une prise de conscience assez rapide et générale du danger que courent <i class="i">ensemble</i> tous nos pays, mais aussi des ressources immenses dont l’Europe disposerait encore à la seule condition de s’unir — tous les traités et pactes que l’on pourra conclure seront insuffisants, viendront trop tard, ou resteront lettre morte.</p>
                       <p class="p">Si au contraire le sentiment de leur destin commun se réveille chez les Européens, la plupart des obstacles existant aujourd’hui paraîtront plus faciles à surmonter, ou même s’évanouiront dans la mesure où ils consistent en préjugés, aveuglements partisans, méfiances non fondées, et surtout ignorance de la vraie situation.</p>
                       <p class="p">Le Centre européen de la culture a été fondé pour contribuer à ce réveil du sentiment européen.</p>
@@ -1084,7 +1114,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -1096,19 +1126,19 @@
                           <a href="#">I.4. Naissance d’une Fondation</a>
                           <ul>
                             <li class="collateral">
-                              <a href="5#body-2-4-1">Situation de l’homme au<span class="num">xx<sup>e</sup></span> siècle</a>
+                              <a href="5#body-2-4-1">I.4.a. Situation de l’homme au <span class="num">xx<sup>e</sup></span> siècle</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-2-4-2">Situation de l’Europe</a>
+                              <a href="5#body-2-4-2">I.4.b. Situation de l’Europe</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-2-4-3">Le dilemme</a>
+                              <a href="5#body-2-4-3">I.4.c. Le dilemme</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-2-4-4">Nature des obstacles à l’union</a>
+                              <a href="5#body-2-4-4">I.4.d. Nature des obstacles à l’union</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-2-4-5">Nécessité de réveiller un sentiment commun des Européens</a>
+                              <a href="5#body-2-4-5">I.4.e. Nécessité de réveiller un sentiment commun des Européens</a>
                             </li>
                           </ul>
                         </li>
@@ -1124,7 +1154,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -1226,6 +1256,13 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>I.5.a. Post-scriptum 1970</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-5-1	I.5.a. Post-scriptum 1970 (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1234,7 +1271,7 @@
               <record>
                 <content><![CDATA[
                   <article role="article">
-                    <h1 class="head chapter">Trois initiales, ou raison d’être et objectifs du CEC<a class="noteref" href="6#note9" id="note9_"><sup>9</sup></a><a class="bookmark" href="6"> §</a></h1>
+                    <h1 class="head chapter">Trois initiales, ou raison d’être et objectifs du CEC<a class="noteref" href="6#note9" id="note9_"><sup>9</sup></a></h1>
                     <p class="p autofirst">Notre nom même provoque généralement les trois questions suivantes :</p>
                     <p class="p">— qu’entendez-vous par <i class="i">culture</i> ?</p>
                     <p class="p">— de quelle <i class="i">Europe</i> s’agit-il ?</p>
@@ -1268,9 +1305,9 @@
  s’épuise à découvrir son Amérique — quitte à se faire financer par elle, sous prétexte de sauvegarder sa sacro-sainte et fictive « souveraineté » par rapport aux voisins européens. Certes, ce sont des Européens surtout qui viennent de fabriquer la première Bombe, parce qu’ils étaient ensemble… en Amérique. Mais ici, chacun se plaint de manquer de fonds, parce que chacun s’enferme dans son trop petit pays. Partout la concurrence tue les initiatives, qu’un peu d’esprit de coopération ferait réussir. <i class="i">Il faut un Centre</i>, et il se crée, à la suite des congrès de La Haye et de Lausanne. Non dans l’idée de faire lui-même œuvre de créateur, bien entendu — un Centre n’écrit pas de poèmes — mais pour qu’il y ait quelque part en Europe un lieu où l’on se préoccupe de poser les problèmes communs et de grouper ceux qui peuvent les résoudre.</p>
                     <p class="p">Cinq ans plus tard, 1955 : l’idée de coopération est entrée dans les mœurs, même culturelles. Les associations se sont multipliées : instituts de recherches nucléaires, d’enseignement européen dans les universités, d’éducation scolaire et populaire ; festivals, guildes du livre, et du disque ; agences de presse ; juristes, historiens, sociologues, éditeurs, ingénieurs, cinéastes, hygiénistes, pédagogues, sportifs même… Nous sommes sur la bonne voie. Mais deux dangers subsistent : les centres de coordination se sont multipliés au point de poser à leur tour un grave problème de coordination… et de financement ; et les déclarations d’intention européenne et fédéraliste tendent à devenir une rhétorique superficielle. Un travail de recherches en profondeur s’impose.</p>
                     <p class="p">On voit donc apparaître, dès 1955, en réponse à ces deux problèmes nouveaux, d’une part des fondations et fonds (Genève, puis Amsterdam, Bruxelles, Strasbourg) qui se proposent à la fois de regrouper et de financer les initiatives dispersées ; d’autre part des séminaires de recherches, des thèses, des enquêtes, des sondages, des numéros spéciaux de revues, et toute une bibliothèque d’ouvrages spécialisés sur les problèmes européens. L’action du CEC, en tout cela, a parfois été décisive, encore qu’elle ne soit pas toujours bien visible à l’œil nu. Elle a donc justifié la raison d’être de l’institution — pour ceux qui savent ; plus rarement, il est vrai, aux yeux d’un grand public naturellement indifférent sinon aux produits de la culture, du moins à ses problèmes de création, distribution, finalités sociales…</p>
-                    <section id="body-2-5-1" class="div level3 level2">
+                    <section id="body-2-5-1" class="div level2">
                       <a class="pb" href="#p44" id="p44">[p. 44]</a>
-                      <h2 class="head">Post-scriptum 1970<a class="bookmark" href="6#body-2-5-1"> §</a></h2>
+                      <h2 class="head">Post-scriptum 1970</h2>
                       <p class="p autofirst">En 1970, faut-il encore un Centre ?</p>
                       <p class="p">Après vingt ans, si nous nous interrogeons sur la méthode du CEC, nous constatons qu’elle n’a cessé d’illustrer, avant la lettre, cette règle d’or du fédéralisme formulée par Louis Armand :</p>
                       <p class="p">« Développons en commun ce qui est neuf. Laissons de côté les héritages du passé, dont l’unification prendrait trop de temps, demanderait trop d’énergie, et soulèverait trop d’opposition. »</p>
@@ -1318,7 +1355,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -1333,7 +1370,7 @@
                           <a href="#">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                           <ul>
                             <li class="collateral">
-                              <a href="6#body-2-5-1">Post-scriptum 1970</a>
+                              <a href="6#body-2-5-1">I.5.a. Post-scriptum 1970</a>
                             </li>
                           </ul>
                         </li>
@@ -1346,7 +1383,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -1448,6 +1485,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>II.1.a. La maladie de l’esprit européen – II.1.b. L’insécurité de l’homme européen – II.1.c. Où sont les remèdes ? – II.1.d. Unité de la culture européenne – II.1.e. Ce que cela signifie pour l’Amérique</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1-1	II.1.a. La maladie de l’esprit européen (1970, Le Cheminement des esprits)
+body-3-1-2	II.1.b. L’insécurité de l’homme européen (1970, Le Cheminement des esprits)
+body-3-1-3	II.1.c. Où sont les remèdes ? (1970, Le Cheminement des esprits)
+body-3-1-4	II.1.d. Unité de la culture européenne (1970, Le Cheminement des esprits)
+body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1457,13 +1505,13 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p49" id="p49">[p. 49]</a>
-                    <h1 class="head chapter">L’Europe contestée par elle-même<a class="bookmark" href="7"> §</a></h1>
+                    <h1 class="head chapter">L’Europe contestée par elle-même</h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">L’esprit peut-il nous tirer de l’état où il nous a mis ?</p>
                       <div class="bibl">Paul <span class="sc">Valéry</span></div>
                     </blockquote>
-                    <section id="body-3-1-1" class="div level3 level2">
-                      <h2 class="head">La maladie de l’esprit européen<a class="noteref" href="7#note10" id="note10_"><sup>10</sup></a><a class="bookmark" href="7#body-3-1-1"> §</a></h2>
+                    <section id="body-3-1-1" class="div level2">
+                      <h2 class="head">La maladie de l’esprit européen<a class="noteref" href="7#note10" id="note10_"><sup>10</sup></a></h2>
                       <p class="p autofirst">Comparée à celle de 1900, l’Europe de 1950, au premier coup d’œil, paraît malade : un tiers de son territoire à l’est, amputé ; un grand nombre de ses cités, en ruines ; ses frontières intérieures sclérosées, entravant dangereusement la circulation vitale des hommes, des capitaux et des marchandises ; enfin ses idéaux modernes de progrès matériel et de justice sociale émigrés, laissant derrière eux, l’un la résignation et l’autre le cynisme.</p>
                       <p class="p">Un second regard, embrassant le vieux continent dans une perspective mondiale, révèle un changement plus frappant encore. En 1900, l’Europe régnait sur la planète, comme elle l’avait fait depuis la Renaissance. En 1945, libérée dans ses ruines, elle s’est vue subitement détrônée, et comme mise à pied par l’Histoire, au profit de deux colosses neufs qui menacent d’engager une guerre sur son sol, et — se dit-elle — à ses dépens. Poussière de petits États dont les plus populeux ne sauraient prétendre un seul instant être à l’échelle des réalités modernes ; encombrée de barrières intérieures et de tarifs « protectionnistes » qui ne peuvent plus rien protéger mais fort bien étouffer ce qu’ils enferment, épuisant ses énergies et sa vieille astuce politique en rivalités 
 <a class="pb" href="#p50" id="p50">[p. 50]</a>
@@ -1483,8 +1531,8 @@
  orthodoxies diverses, par la morale bourgeoise, ou par la sagesse des peuples.</p>
                       <p class="p">C’est à cette anarchie profonde installée au cœur même de notre civilisation, qu’il faut remonter si l’on veut expliquer les phénomènes morbides que je signalais. Nationalisme, guerre et totalitarisme sont autant de réactions mécaniques et collectives au vide social créé par la dissolution de toute commune mesure vivante, de tout principe d’intégration<a class="noteref" href="7#note11" id="note11_"><sup>11</sup></a>.</p>
                     </section>
-                    <section id="body-3-1-2" class="div level3 level2">
-                      <h2 class="head">L’insécurité de l’homme européen<a class="bookmark" href="7#body-3-1-2"> §</a></h2>
+                    <section id="body-3-1-2" class="div level2">
+                      <h2 class="head">L’insécurité de l’homme européen</h2>
                       <p class="p autofirst">Pour illustrer ce diagnostic, voyons comment l’Européen moyen peut réagir, et réagit en fait, à cette situation qu’il subit d’ordinaire sans la comprendre.</p>
                       <p class="p">Les cadres et les structures de sa vie sociale sont en bonne partie détruits. Autrefois, le fils d’un drapier devenait drapier, le fils d’un noble, officier, le fils d’un paysan, paysan. Aujourd’hui, il peut devenir n’importe quoi, mais tout le pousse à faire autre chose que son père : c’est ce qu’on appelle se libérer. Il se libère, bien, mais pour quoi ? C’est le problème. Un sentiment d’arbitraire le domine. La morale bourgeoise n’est plus impérative, ne peut plus lui fournir de directives bien claires. Battue en brèche par les pratiques courantes, à base de cynisme prudent ; par la psychanalyse dans les classes aisées ; par le marxisme dans le prolétariat ; enfin par le matérialisme général qui traduit tout en termes de monnaie, quand la monnaie n’a plus de valeur constante, — la morale a perdu sa force animatrice et son prestige. Celui qui ne la suit plus en garde encore une sorte de mauvaise conscience, mais celui qui la suit se sent frustré. Ni la coutume, ni les principes, ni la foi religieuse, pratiquement, ne guident plus le grand nombre. Jamais pourtant la nécessité de directives fermes et claires n’a semblé plus urgente, dans les vertigineuses complexités de la vie moderne et dans l’instabilité qui la caractérise. Voici donc l’homme des villes livré à l’anxiété, à l’insécurité matérielle et morale, mentale et spirituelle. Où trouver le petit groupe qui lui offrira sa protection et défendra ses 
 <a class="pb" href="#p53" id="p53">[p. 53]</a>
@@ -1497,8 +1545,8 @@
 <a class="pb" href="#p54" id="p54">[p. 54]</a>
  se donner des disciplines efficaces et un contenu positif ? C’est à ce prix seulement qu’elle pourrait redevenir, pour l’homme européen, une raison de vivre, d’espérer, et par suite, de résister. On n’accepte de mourir que pour des raisons de vivre.</p>
                     </section>
-                    <section id="body-3-1-3" class="div level3 level2">
-                      <h2 class="head">Où sont les remèdes ?<a class="bookmark" href="7#body-3-1-3"> §</a></h2>
+                    <section id="body-3-1-3" class="div level2">
+                      <h2 class="head">Où sont les remèdes ?</h2>
                       <p class="p autofirst">Il serait naïf de supposer que les hommes politiques européens tiennent en réserve des remèdes à cette situation. À vrai dire, elle déborde leurs compétences. La plupart n’ont pas même le soupçon qu’elle existe. Si l’un d’entre eux prenait un jour le temps de s’en apercevoir, il se garderait d’en parler, craignant avant tout de passer pour un « intellectuel », aux yeux de ses collègues, c’est-à-dire pour un homme dépourvu de « réalisme ». On aurait tort de le lui reprocher. La technique politique est une chose, la direction morale et spirituelle des hommes une autre chose. Les dictateurs totalitaires ont prétendu confondre ces deux rôles en leur personne. Et l’opinion démocratique, impressionnée, semble attendre maintenant de ses propres hommes d’État qu’ils fassent pour elle au moins un peu de ce qu’un Hitler fit pour l’Allemagne, de ce qu’un Staline fait pour ses Russes : qu’ils définissent un nouveau <i class="i">way of life</i>, capable d’être opposé victorieusement à celui des totalitaires. Cette exigence exorbitante n’est pas de celles qui empêchent de dormir nos hommes d’État. Certes, ils savent orner leurs discours de phrases sur les glorieuses libertés de l’Europe et la défense des valeurs spirituelles. Mais leur métier n’est pas de repenser l’époque, et encore moins la situation de l’homme en elle. La philosophie de leur politique, quand elle n’est pas en fait le matérialisme de « bon sens » de la bourgeoisie (« Donnez-leur la sécurité, du travail et un logement, ils se tiendront tranquilles ») se réduit à quelques slogans. Non, ce n’est pas aux hommes d’État, si grands soient-ils, qu’il faut aller demander de recréer la commune mesure évanouie. Et ce n’est pas non plus aux partis politiques démo-chrétiens ou socialistes : ce serait exiger d’eux qu’ils essayent à leur tour de devenir totalitaires. Aucun n’est en mesure d’y prétendre, et d’autre part chacun représente un élément irréductible de ce complexe d’antinomies qu’on nomme l’Europe.
               Quant aux doctrines économiques classiques ou révolutionnaires, il n’en est pas une seule qui ait réussi à soumettre l’économie au bien commun, sans qu’on puisse dire si cet 
 <a class="pb" href="#p55" id="p55">[p. 55]</a>
@@ -1522,8 +1570,8 @@
  Aucun des sacrifices nécessaires ne sera consenti, rien ne pourra donc se faire pratiquement, tant que les Européens n’auront pas compris par le cœur et par l’esprit, qu’ils forment en réalité une même nation, qu’ils vivent d’une même culture, laquelle dépend en tout d’un même système de valeurs menacées ; qu’ils périront ou se sauveront ensemble.</p>
                       <p class="p">Qu’en est-il donc de l’unité réelle de ce continent, si riche de ses diversités, si malade de ses divisions ?</p>
                     </section>
-                    <section id="body-3-1-4" class="div level3 level2">
-                      <h2 class="head">Unité de la culture européenne<a class="bookmark" href="7#body-3-1-4"> §</a></h2>
+                    <section id="body-3-1-4" class="div level2">
+                      <h2 class="head">Unité de la culture européenne</h2>
                       <p class="p autofirst">Depuis cent ans, nos divers peuples ont prétendu posséder des cultures authentiques et distinctes. On parle non seulement de culture française, mais de culture danoise, irlandaise ou croate. C’est un effet de l’ignorance entretenue par la passion nationaliste, les manuels des écoles primaires et la littérature romantique. En fait, aux origines de la culture européenne, il y a trois éléments communs, Athènes, Rome, et Jérusalem, qui ont été conjuguées pendant les premiers siècles de notre ère. À quoi sont venus s’ajouter l’esprit critique et la science dès la Renaissance, la raison dès le <span class="num">xviii<sup class="sup">e</sup></span> siècle, l’industrie et la démocratie au <span class="num">xix<sup class="sup">e</sup></span> siècle, la technique au <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
                       <p class="p">L’unité de la civilisation européenne au-delà et en deçà des diversités linguistiques et raciales devient évidente dès que l’on considère nos <i class="i">formes</i> d’expression dans les domaines les plus divers : le sonnet, le roman, le tableau, le contrepoint et l’harmonie dans tous les arts et dans tous nos pays ; les liturgies, toutes comparables ; le vote majoritaire, le système des partis, les codes écrits ; les poids et mesures ; l’architecture rurale, urbaine, ecclésiastique ; la science expérimentale et l’esprit critique ; le vêtement et les moyens de transport ; et même la mode changeant d’une année à l’autre, mais adoptée en quelques semaines par tous nos peuples. Mais au-delà et en deçà des formes, il y a les concepts fondamentaux, qu’on peut dire spécifiques de l’Europe : la révolte méthodique et critique contre toutes les lois du sacré tribal et collectif ; les notions d’<i class="i">individu</i>, de <i class="i">personne</i>, et de <i class="i">vocation personnelle</i>, en contradiction avec les rites et coutumes irrationnelles ; enfin et surtout, l’idée que la <i class="i">diversité</i> des traditions des langues, des partis, des nations et même des religions, est une condition fondamentale de la créativité et de l’esprit d’invention. Privée du sens de l’<i class="i">opposition</i> et du non-conformisme, notre civilisation se fût arrêtée à l’âge romain. Elle eût éliminé 
 <a class="pb" href="#p58" id="p58">[p. 58]</a>
@@ -1543,8 +1591,8 @@
  aux élites, à révéler aux masses, que les vraies sources de la puissance européenne sont spirituelles, morales, intellectuelles, et que la culture sur ce petit cap n’est pas un luxe, mais la condition même de notre vie. Et nous avons à créer la synthèse des connaissances acquises en divergence, comme au hasard, par l’ère moderne : c’est le souci majeur de nos meilleurs esprits.</p>
                       <p class="p">Dans la lutte pour l’union fédérale de l’Europe, cette défense prend l’aspect positif d’un rassemblement créateur. On peut donc dire que l’unité de notre culture existe par et dans cette lutte. C’est une « Unité d’avenir ».</p>
                     </section>
-                    <section id="body-3-1-5" class="div level3 level2">
-                      <h2 class="head">Ce que cela signifie pour l’Amérique<a class="bookmark" href="7#body-3-1-5"> §</a></h2>
+                    <section id="body-3-1-5" class="div level2">
+                      <h2 class="head">Ce que cela signifie pour l’Amérique</h2>
                       <p class="p autofirst">Lecteur américain, vous l’aurez senti : tout ce qui précède vous concerne aussi bien que nous Européens, pour l’essentiel. Car si l’on a pu dire que l’Amérique est un « miroir grossissant de l’Europe » (Léo Ferrero), il est vrai aussi que l’Europe est l’étymologie des maux américains. Nos maladies sont, ou seront un jour les vôtres, non point dans leurs manifestations, mais dans leur principe. Après tout, vos ancêtres ne sont pas nés de votre terre, mais ils y ont été comme projetés par le jeu des contradictions internes de l’Europe, religieuses d’abord, puis nationales et sociales, enfin économiques et parfois politiques.</p>
                       <p class="p">Le mal fondamental de l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle, c’est la dissolution de la commune mesure. Qui pourrait dire que l’Amérique n’en souffre pas ? Celui-là seul qui s’en tiendrait aux symptômes extérieurs, si différents d’un côté à l’autre de l’océan.</p>
                       <p class="p">Vous êtes plus menacés que nous par la dictature psychique des <i class="i">mass media</i>, alors que nous sommes surtout menacés par nos divisions nationales, partisanes, individualistes. En Europe, la dissolution profonde du lien spirituel entre la société et la culture tend à provoquer des explosions ; aux USA, voilée par un moralisme et un civisme plus vivaces, elle tend plutôt à provoquer un abaissement moyen du niveau de conscience. Avec une sorte de sadomasochisme, nous en tirons les conséquences extrêmes, guerre, totalitarisme, doctrines de l’absurde ; je vous sens au contraire tentés de noyer le problème ou de le refuser. « Simplifions, posons moins de questions, tout s’arrangera », semblez-vous dire. « Précisons impitoyablement, poussons nos questions jusqu’au bout et même plus loin », dit toute notre culture avec Kafka.</p>
@@ -1591,7 +1639,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -1614,24 +1662,24 @@
                           <a href="#">II.1. L’Europe contestée par elle-même</a>
                           <ul>
                             <li class="collateral">
-                              <a href="7#body-3-1-1">La maladie de l’esprit européen</a>
+                              <a href="7#body-3-1-1">II.1.a. La maladie de l’esprit européen</a>
                             </li>
                             <li class="collateral">
-                              <a href="7#body-3-1-2">L’insécurité de l’homme européen</a>
+                              <a href="7#body-3-1-2">II.1.b. L’insécurité de l’homme européen</a>
                             </li>
                             <li class="collateral">
-                              <a href="7#body-3-1-3">Où sont les remèdes ?</a>
+                              <a href="7#body-3-1-3">II.1.c. Où sont les remèdes ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="7#body-3-1-4">Unité de la culture européenne</a>
+                              <a href="7#body-3-1-4">II.1.d. Unité de la culture européenne</a>
                             </li>
                             <li class="collateral">
-                              <a href="7#body-3-1-5">Ce que cela signifie pour l’Amérique</a>
+                              <a href="7#body-3-1-5">II.1.e. Ce que cela signifie pour l’Amérique</a>
                             </li>
                           </ul>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -1696,13 +1744,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1970cde/8" name="II.2. Préface à « L’Œuvre duxxe siècle »" package="ddr1970cde" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1970cde/8" name="II.2. Préface à « L’Œuvre du xxe siècle »" package="ddr1970cde" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II.2. Préface à « L’Œuvre duxxe siècle » (1970, Le Cheminement des esprits)</value>
+          <value>II.2. Préface à « L’Œuvre du xxe siècle » (1970, Le Cheminement des esprits)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1728,7 +1776,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "II.2. Préface à « L’Œuvre duxxe siècle »"
+    "name": "II.2. Préface à « L’Œuvre du xxe siècle »"
   }]
 }
           </value>
@@ -1742,7 +1790,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p62" id="p62">[p. 62]</a>
-                    <h1 class="head chapter">Préface à « L’Œuvre du <span class="num">xx<sup class="sup">e</sup></span> siècle »<a class="bookmark" href="8"> §</a></h1>
+                    <h1 class="head chapter">Préface à « L’Œuvre du <span class="num">xx<sup class="sup">e</sup></span> siècle »</h1>
                     <p class="p autofirst">
                       <i class="i">Le mois de mai 1952, à Paris, fut animé par une grandiose manifestation destinée à présenter l’ensemble des créations les plus marquantes du <span class="num">xx</span>
               <sup class="sup">e</sup> siècle dans l’Occident libre. Opéras, ballets, concerts, théâtre, expositions, conférences et débats publics par les plus grands écrivains d’Europe et des Amériques se succédèrent chaque soir du 30 avril au 2 juin. L’initiative était due au Congrès pour la liberté de la culture et à son secrétaire-général Nicolas Nabokov. C’est en tant que président du Congrès que le directeur du CEC fut amené à préfacer et à conclure ces trente-deux journées mémorables.</i>
@@ -1801,7 +1849,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -1824,7 +1872,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="here">
-                          <a href="#">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="#">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -1935,46 +1983,42 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p66" id="p66">[p. 66]</a>
-                    <h1 class="head chapter">Conclusions sur l’avenir et la liberté de la culture<a class="bookmark" href="9"> §</a></h1>
+                    <h1 class="head chapter">Conclusions sur l’avenir et la liberté de la culture</h1>
                     <p class="p autofirst">
                       <i class="i">« L’Œuvre du <span class="num">xx</span>
               <sup class="sup">e</sup> siècle » se termina le 30 mai 1952 par une conférence à la Salle Pleyel. Des deux courts textes ici reproduits, le premier introduisait les discours qu’allaient prononcer sur « l’Avenir de la Culture » Wystan H. Auden, Salvador de Madariaga, William Faulkner et André Malraux ; le second tirait les conclusions de l’ensemble des manifestations.</i>
                     </p>
-                    <section id="body-3-3-1" class="div level3 level2">
-                      <h2 class="head">I<a class="bookmark" href="9#body-3-3-1"> §</a></h2>
-                      <p class="p autofirst">Poser publiquement la question de l’avenir de notre culture, voilà qui me paraît absolument typique du <span class="num">xx<sup class="sup">e</sup></span> siècle. Un écrivain du siècle de Louis XIV ou du siècle d’Élisabeth ne s’interrogeait pas sur l’avenir des lettres ou de la culture en général ; il ne les voyait pas dans la complexité de leur devenir historique ; il ne sentait peser sur elles aucune menace, bien au contraire. Il avait en lui et devant lui, les gages certains d’une présence sacrée : dogmes, liturgies, royauté, et tous les ordres de la société. Pourquoi donc, et comment, la question de notre avenir et de l’avenir de notre culture peut-elle se poser parmi nous ?</p>
-                      <p class="p">Je vais en indiquer pour ma part trois raisons.</p>
-                      <p class="p">La première, c’est que nous n’avons plus, dans notre monde occidental, de témoignage incontesté d’une présence sacrée. Et dès lors qu’il n’y a plus de garant en nous et parmi nous d’un au-delà, d’un transcendant présent, nous nous voyons contraints de le chercher dans l’avenir, d’en référer aux temps qui viennent.</p>
-                      <p class="p">La seconde raison c’est que tout créateur a besoin devant lui d’une perspective, d’un temps libre pour méditer, pour publier, pour être lu. Il 
+                    <p class="label">I</p>
+                    <p class="p autofirst">Poser publiquement la question de l’avenir de notre culture, voilà qui me paraît absolument typique du <span class="num">xx<sup class="sup">e</sup></span> siècle. Un écrivain du siècle de Louis XIV ou du siècle d’Élisabeth ne s’interrogeait pas sur l’avenir des lettres ou de la culture en général ; il ne les voyait pas dans la complexité de leur devenir historique ; il ne sentait peser sur elles aucune menace, bien au contraire. Il avait en lui et devant lui, les gages certains d’une présence sacrée : dogmes, liturgies, royauté, et tous les ordres de la société. Pourquoi donc, et comment, la question de notre avenir et de l’avenir de notre culture peut-elle se poser parmi nous ?</p>
+                    <p class="p">Je vais en indiquer pour ma part trois raisons.</p>
+                    <p class="p">La première, c’est que nous n’avons plus, dans notre monde occidental, de témoignage incontesté d’une présence sacrée. Et dès lors qu’il n’y a plus de garant en nous et parmi nous d’un au-delà, d’un transcendant présent, nous nous voyons contraints de le chercher dans l’avenir, d’en référer aux temps qui viennent.</p>
+                    <p class="p">La seconde raison c’est que tout créateur a besoin devant lui d’une perspective, d’un temps libre pour méditer, pour publier, pour être lu. Il 
 <a class="pb" href="#p67" id="p67">[p. 67]</a>
  a besoin d’une postérité, d’un espace vital historique. Or, nous voici contraints de lutter aujourd’hui pour sauver cette visée, cette possibilité : elles sont devenues problématiques.</p>
-                      <p class="p">Troisième raison : jamais les hommes n’avaient été aussi conscients d’une menace immédiate et totale sur leur culture, leur civilisation, le sens même de leur existence. Vous savez tous de quoi je parle et que ce n’est pas seulement de la Bombe. Jamais les hommes, et particulièrement les créateurs, ne s’étaient sentis visés aussi précisément à la tête et au cœur.</p>
-                      <p class="p">Si nous sommes réunis ce soir sur ce plateau, au lieu d’être à nos tables de travail, comme nous l’eussions tous préféré, c’est sans la moindre forfanterie, c’est parce que nous avons reconnu que nous sommes visés, que notre fonction dans la cité est menacée, notre avenir mis en question. Nous sommes là pour vous avertir, pour vous montrer que nous sommes décidés à la défense, à la riposte.</p>
-                      <p class="p">Écoutez-nous, non pas du tout comme des hommes qui essaieraient de briller sur la scène, mais comme des hommes qui ont à vous dire ceci : c’est qu’ils sont prêts à accepter leur rôle dans un combat qui est aussi le vôtre, et dont l’enjeu nous dépasse tous.</p>
-                    </section>
-                    <section id="body-3-3-2" class="div level3 level2">
-                      <h2 class="head">II<a class="bookmark" href="9#body-3-3-2"> §</a></h2>
-                      <p class="p autofirst">Il ne saurait être question de tirer de nos quatre débats et de nos deux conférences des conclusions collectives et unanimes. Nous avons entendu depuis quinze jours une quarantaine de prises de position toutes personnelles faisant le point d’une évolution dont nous sommes à la fois les sujets et les objets.</p>
-                      <p class="p">Je me bornerai donc à souligner un caractère très général de nos débats. Tous les sujets que nous avons discutés, que ce soit <i class="i">l’écrivain dans la cité, l’isolement</i> de l’artiste au temps des moyens de communication avec les masses, ou l’opposition entre la <i class="i">révolte</i> irrépressible et la <i class="i">communion</i> nécessaire, se ramènent à un seul : l’individu créateur et la société.</p>
-                      <p class="p">Or, on nous a très bien montré les dangers de l’isolement, et l’on a fort bien dénoncé les excès de la révolte ; mais on a beaucoup moins insisté sur l’acceptation tranquille et confiante des moyens modernes de communiquer avec les masses, et nul n’a déclaré devant nous qu’il 
+                    <p class="p">Troisième raison : jamais les hommes n’avaient été aussi conscients d’une menace immédiate et totale sur leur culture, leur civilisation, le sens même de leur existence. Vous savez tous de quoi je parle et que ce n’est pas seulement de la Bombe. Jamais les hommes, et particulièrement les créateurs, ne s’étaient sentis visés aussi précisément à la tête et au cœur.</p>
+                    <p class="p">Si nous sommes réunis ce soir sur ce plateau, au lieu d’être à nos tables de travail, comme nous l’eussions tous préféré, c’est sans la moindre forfanterie, c’est parce que nous avons reconnu que nous sommes visés, que notre fonction dans la cité est menacée, notre avenir mis en question. Nous sommes là pour vous avertir, pour vous montrer que nous sommes décidés à la défense, à la riposte.</p>
+                    <p class="p">Écoutez-nous, non pas du tout comme des hommes qui essaieraient de briller sur la scène, mais comme des hommes qui ont à vous dire ceci : c’est qu’ils sont prêts à accepter leur rôle dans un combat qui est aussi le vôtre, et dont l’enjeu nous dépasse tous.</p>
+                    <p class="label">II</p>
+                    <p class="p autofirst">Il ne saurait être question de tirer de nos quatre débats et de nos deux conférences des conclusions collectives et unanimes. Nous avons entendu depuis quinze jours une quarantaine de prises de position toutes personnelles faisant le point d’une évolution dont nous sommes à la fois les sujets et les objets.</p>
+                    <p class="p">Je me bornerai donc à souligner un caractère très général de nos débats. Tous les sujets que nous avons discutés, que ce soit <i class="i">l’écrivain dans la cité, l’isolement</i> de l’artiste au temps des moyens de communication avec les masses, ou l’opposition entre la <i class="i">révolte</i> irrépressible et la <i class="i">communion</i> nécessaire, se ramènent à un seul : l’individu créateur et la société.</p>
+                    <p class="p">Or, on nous a très bien montré les dangers de l’isolement, et l’on a fort bien dénoncé les excès de la révolte ; mais on a beaucoup moins insisté sur l’acceptation tranquille et confiante des moyens modernes de communiquer avec les masses, et nul n’a déclaré devant nous qu’il 
 <a class="pb" href="#p68" id="p68">[p. 68]</a>
  connaissait et assumait les conditions d’une communion nouvelle entre les hommes.</p>
-                      <p class="p">C’est précisément sur ce thème capital de la communion que je voudrais dire quelques mots. Il est trop clair qu’aucun de nous ne se risquerait à en donner la recette. Il en existe dans ce siècle, mais vous savez à quoi elles mènent.</p>
-                      <p class="p">Que vaut le bonheur d’un peuple, que vaut sa communion, quand elle est établie par la police au prix d’un homme sur dix dans les camps sibériens ? Que vaut la communion des neuf qui restent, qui osent à peine se regarder dans les yeux, quand ils savent que deux d’entre eux probablement sont des mouchards, et que le dixième homme est dans un camp ?</p>
-                      <p class="p">Pitié pour eux ! Car ils ignorent sans doute l’étendue et la vraie visée de la tyrannie dans laquelle ils sont nés<a class="noteref" href="9#note13" id="note13_"><sup>13</sup></a>.</p>
-                      <p class="p">Mais nous ? Nous qui avons parmi nous des témoins, des victimes toutes récentes de ces tortures ? Nous qui avons pu garder le droit de savoir, le devoir de nous informer, de dire et de crier, nous ne sommes plus pardonnables de nous taire.</p>
-                      <p class="p">Alors, que faire ? Tout d’abord protester, publiquement et avec éclat ; question de salubrité publique, quelle qu’en soit l’efficacité. L’<i class="i">Œuvre du <span class="num">xx<sup class="sup">e</sup></span> siècle</i> a protesté dans son ensemble contre les tyrannies de toutes couleurs qui nous salissent, qui salissent toute l’humanité, victime directe ou non des dictatures et des arguments de leurs complices. Elle a protesté au double sens du mot qui est à la fois refus et témoignage.</p>
-                      <p class="p">Notre concert inaugural dans une église était dédié à la mémoire des victimes de toutes les tyrannies du <span class="num">xx<sup class="sup">e</sup></span> siècle. Il convenait d’ouvrir nos manifestations par cet acte de piété, par ce <i class="i">Magnificat</i> à la mémoire des martyrs de notre siècle.</p>
-                      <p class="p">Puis, il y eut cet ensemble éblouissant de chefs-d’œuvre des arts modernes qui a rempli ce mois de mai de Paris, qui a témoigné, qui a protesté, pour la valeur créatrice de la liberté.</p>
-                      <p class="p">Maintenant, qu’allons-nous conclure ? Je pense qu’il ne se trouvera pas un seul d’entre nous, poètes, romanciers, critiques et philosophes, qui ont pris part à ces entretiens, pour nous dire : « Et maintenant, allons-y, serrons les rangs, opposons à la discipline totalitaire un front 
+                    <p class="p">C’est précisément sur ce thème capital de la communion que je voudrais dire quelques mots. Il est trop clair qu’aucun de nous ne se risquerait à en donner la recette. Il en existe dans ce siècle, mais vous savez à quoi elles mènent.</p>
+                    <p class="p">Que vaut le bonheur d’un peuple, que vaut sa communion, quand elle est établie par la police au prix d’un homme sur dix dans les camps sibériens ? Que vaut la communion des neuf qui restent, qui osent à peine se regarder dans les yeux, quand ils savent que deux d’entre eux probablement sont des mouchards, et que le dixième homme est dans un camp ?</p>
+                    <p class="p">Pitié pour eux ! Car ils ignorent sans doute l’étendue et la vraie visée de la tyrannie dans laquelle ils sont nés<a class="noteref" href="9#note13" id="note13_"><sup>13</sup></a>.</p>
+                    <p class="p">Mais nous ? Nous qui avons parmi nous des témoins, des victimes toutes récentes de ces tortures ? Nous qui avons pu garder le droit de savoir, le devoir de nous informer, de dire et de crier, nous ne sommes plus pardonnables de nous taire.</p>
+                    <p class="p">Alors, que faire ? Tout d’abord protester, publiquement et avec éclat ; question de salubrité publique, quelle qu’en soit l’efficacité. L’<i class="i">Œuvre du <span class="num">xx<sup class="sup">e</sup></span> siècle</i> a protesté dans son ensemble contre les tyrannies de toutes couleurs qui nous salissent, qui salissent toute l’humanité, victime directe ou non des dictatures et des arguments de leurs complices. Elle a protesté au double sens du mot qui est à la fois refus et témoignage.</p>
+                    <p class="p">Notre concert inaugural dans une église était dédié à la mémoire des victimes de toutes les tyrannies du <span class="num">xx<sup class="sup">e</sup></span> siècle. Il convenait d’ouvrir nos manifestations par cet acte de piété, par ce <i class="i">Magnificat</i> à la mémoire des martyrs de notre siècle.</p>
+                    <p class="p">Puis, il y eut cet ensemble éblouissant de chefs-d’œuvre des arts modernes qui a rempli ce mois de mai de Paris, qui a témoigné, qui a protesté, pour la valeur créatrice de la liberté.</p>
+                    <p class="p">Maintenant, qu’allons-nous conclure ? Je pense qu’il ne se trouvera pas un seul d’entre nous, poètes, romanciers, critiques et philosophes, qui ont pris part à ces entretiens, pour nous dire : « Et maintenant, allons-y, serrons les rangs, opposons à la discipline totalitaire un front 
 <a class="pb" href="#p69" id="p69">[p. 69]</a>
  commun, et à sa propagande une propagande au moins aussi brutale ou insinuante ! »</p>
-                      <p class="p">Au contraire, je suis convaincu que nous approuvons tous ici cette excellente définition de la propagande que donnait l’autre jour Wystan Auden : l’emploi de la magie par ceux qui n’y croient plus contre ceux qui y croient encore.</p>
-                      <p class="p">Comment donc allons-nous répondre au défi des totalitaires si nous nous privons de leurs armes ? Si nous refusons la fausse communion fomentée par la propagande et maintenue par la police et la terreur, si nous refusons la calomnie, si nous refusons tous les insignes et tous les signes extérieurs de communion, si nous allons même jusqu’à éviter d’en parler, parce que — disons-le bien franchement — il est gênant de parler de cela quand on y croit, dans un tel lieu, et sous le feu des projecteurs ?</p>
-                      <p class="p">Je répondrai à côté de la question apparente par une sorte de parabole, sans transition, en visant le cœur du problème. Que nous soyons ici chrétiens ou non, nous sommes tous tenus de constater le fait historique que voici : la plus vaste communion jamais instituée dans le monde, la plus profonde, et la plus libre par les modes d’adhésion qu’elle implique, s’est faite autour, non pas d’une idée, d’une doctrine, ou d’un système de valeurs, ni même autour d’une cause, mais bien d’un sacrifice individuel, autour <i class="i">d’un seul</i>, autour d’un homme qui est mort dans <i class="i">l’isolemen</i>t total, dans la <i class="i">révolte</i> la plus intransigeante contre le mal et l’injustice du monde, abandonné des hommes — et ce serait peu -— abandonné de Dieu lui-même.</p>
-                      <p class="p">N’oublions pas que là, et là seulement, le mot de communion a pris son sens, et qu’il tend à le perdre à mesure qu’il s’éloigne du sacrifice individuel.</p>
-                      <p class="p">Pour terminer, une simple citation. Elle est d’un Espagnol, c’est dire qu’elle frappe une de ces notes d’éloquence à la fois sèche, dure et profonde qui manque trop souvent aujourd’hui, et par la faute d’une dictature encore, à notre grand concert européen. C’est une phrase de Miguel de Unamuno dans son <i class="i">Commentaire à Don Quichotte</i> : « Mets-toi en marche tout seul, tous les autres solitaires se joindront à toi, à tes côtés sans que tu les voies, et chacun pensera qu’il va seul ; mais vous formerez un bataillon sacré, celui de la sainte, de l’inachevable croisade. »</p>
-                    </section>
+                    <p class="p">Au contraire, je suis convaincu que nous approuvons tous ici cette excellente définition de la propagande que donnait l’autre jour Wystan Auden : l’emploi de la magie par ceux qui n’y croient plus contre ceux qui y croient encore.</p>
+                    <p class="p">Comment donc allons-nous répondre au défi des totalitaires si nous nous privons de leurs armes ? Si nous refusons la fausse communion fomentée par la propagande et maintenue par la police et la terreur, si nous refusons la calomnie, si nous refusons tous les insignes et tous les signes extérieurs de communion, si nous allons même jusqu’à éviter d’en parler, parce que — disons-le bien franchement — il est gênant de parler de cela quand on y croit, dans un tel lieu, et sous le feu des projecteurs ?</p>
+                    <p class="p">Je répondrai à côté de la question apparente par une sorte de parabole, sans transition, en visant le cœur du problème. Que nous soyons ici chrétiens ou non, nous sommes tous tenus de constater le fait historique que voici : la plus vaste communion jamais instituée dans le monde, la plus profonde, et la plus libre par les modes d’adhésion qu’elle implique, s’est faite autour, non pas d’une idée, d’une doctrine, ou d’un système de valeurs, ni même autour d’une cause, mais bien d’un sacrifice individuel, autour <i class="i">d’un seul</i>, autour d’un homme qui est mort dans <i class="i">l’isolemen</i>t total, dans la <i class="i">révolte</i> la plus intransigeante contre le mal et l’injustice du monde, abandonné des hommes — et ce serait peu -— abandonné de Dieu lui-même.</p>
+                    <p class="p">N’oublions pas que là, et là seulement, le mot de communion a pris son sens, et qu’il tend à le perdre à mesure qu’il s’éloigne du sacrifice individuel.</p>
+                    <p class="p">Pour terminer, une simple citation. Elle est d’un Espagnol, c’est dire qu’elle frappe une de ces notes d’éloquence à la fois sèche, dure et profonde qui manque trop souvent aujourd’hui, et par la faute d’une dictature encore, à notre grand concert européen. C’est une phrase de Miguel de Unamuno dans son <i class="i">Commentaire à Don Quichotte</i> : « Mets-toi en marche tout seul, tous les autres solitaires se joindront à toi, à tes côtés sans que tu les voies, et chacun pensera qu’il va seul ; mais vous formerez un bataillon sacré, celui de la sainte, de l’inachevable croisade. »</p>
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
@@ -2004,7 +2048,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -2027,18 +2071,10 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="here">
                           <a href="#">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
-                          <ul>
-                            <li class="collateral">
-                              <a href="9#body-3-3-1">I</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="9#body-3-3-2">II</a>
-                            </li>
-                          </ul>
                         </li>
                         <li class="collateral">
                           <a href="10">II.4. À la Table Ronde du Conseil de l’Europe</a>
@@ -2146,7 +2182,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p70" id="p70">[p. 70]</a>
-                    <h1 class="head chapter">À la Table Ronde du Conseil de l’Europe<a class="bookmark" href="10"> §</a></h1>
+                    <h1 class="head chapter">À la Table Ronde du Conseil de l’Europe</h1>
                     <p class="p autofirst">
                       <i class="i">Discours prononcé au Capitole de Rome, lors de la séance de clôture de la Table Ronde organisée par le Conseil de l’Europe, en octobre 1953.</i>
                     </p>
@@ -2209,7 +2245,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -2232,7 +2268,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -2343,7 +2379,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p75" id="p75">[p. 75]</a>
-                    <h1 class="head chapter">Pronostics 1969 (une interview)<a class="noteref" href="11#note14" id="note14_"><sup>14</sup></a><a class="bookmark" href="11"> §</a></h1>
+                    <h1 class="head chapter">Pronostics 1969 (une interview)<a class="noteref" href="11#note14" id="note14_"><sup>14</sup></a></h1>
                     <p class="p autofirst">
                       <i class="i">Questions. — Pensez-vous qu’il existe une culture bourgeoise ? Le terme de « culture bourgeoise » a été largement employé au cours des émeutes de mai 1968.</i>
                     </p>
@@ -2424,7 +2460,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -2447,7 +2483,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -2549,6 +2585,16 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.1.a. Tradition et Innovation dans les arts en Europe – III.1.b. L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales » – III.1.c. L’Art comme activité de tous – III.1.d. Thème conclusif</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1-1	III.1.a. Tradition et Innovation dans les arts en Europe (1970, Le Cheminement des esprits)
+body-4-1-2	III.1.b. L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales » (1970, Le Cheminement des esprits)
+body-4-1-3	III.1.c. L’Art comme activité de tous (1970, Le Cheminement des esprits)
+body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -2558,7 +2604,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p83" id="p83">[p. 83]</a>
-                    <h1 class="head chapter">Éducation, civisme et culture<a class="noteref" href="12#note16" id="note16_"><sup>16</sup></a><a class="bookmark" href="12"> §</a></h1>
+                    <h1 class="head chapter">Éducation, civisme et culture<a class="noteref" href="12#note16" id="note16_"><sup>16</sup></a></h1>
                     <p class="p autofirst">Que l’on s’occupe d’enseignement de l’histoire, de la géographie ou de l’économie, dans le cadre d’une campagne d’éducation civique, voilà qui va de soi et personne ne demandera quel est le lien entre ces matières et la préparation civique des élèves.</p>
                     <p class="p">Mais que l’on en vienne à s’occuper, dans le même cadre, des arts plastiques, de la littérature et de la musique, voilà qui pose des questions.</p>
                     <p class="p">Beaucoup doutent qu’il y ait un rapport entre la culture, qu’ils considèrent comme un luxe réservé à une élite disposant de loisirs, et la vie politique, économique et sociale, qu’ils considèrent comme le solide et le sérieux de l’existence. Ce doute résulte d’une attitude très répandue dans nos démocraties, et qui consiste à séparer radicalement l’Art, domaine des activités libres, gratuites et décoratives, domaine du jeu — et les dures nécessités concrètes qui sont celles de la vie publique et civique, domaine du sérieux.</p>
@@ -2600,9 +2646,9 @@
                     <p class="p autofirst">
 <a class="pb" href="#p88" id="p88">[p. 88]</a>
  Revenant maintenant aux problèmes plus spécifiques de l’enseignement des arts, je voudrais formuler quelques propositions méthodologiques, déduites des considérations générales qui précèdent.</p>
-                    <section id="body-4-1-1" class="div level3 level2">
-                      <h2 class="head">Premier thème
-              <br class="lb"/>Tradition et Innovation dans les arts en Europe<a class="bookmark" href="12#body-4-1-1"> §</a></h2>
+                    <section id="body-4-1-1" class="div level2">
+                      <h2 class="head kicker">Premier thème</h2>
+                      <h2 class="head">Tradition et Innovation dans les arts en Europe</h2>
                       <p class="p autofirst">Je partirai de deux citations d’écrivains anglais contemporains : « Continuité dans les changements, unité dans la diversité, semblent bien être les constituantes d’une culture vivante, et plus spécifiquement d’une culture européenne », écrit Arthur Koestler. Et Stephen Spender de son côté, pense que « seule la culture européenne a su allier la plus grande force révolutionnaire au sens hautement développé des traditions ».</p>
                       <p class="p">André Malraux, dans <i class="i">Les Voix du Silence</i>, a développé un thème voisin, en illustrant par de nombreux exemples le fait que l’artiste européen, formé à l’école des grands prédécesseurs, affirme sa personnalité en prenant le contre-pied de leur style. « Tous les artistes de génie commencent par en copier d’autres » ou encore : « Toute destinée d’artiste commence par le pastiche », mais c’est en s’opposant aux « derniers grands » parmi les maîtres de leur jeunesse que les peintres fondent une nouvelle école, et découvrent leur style. Or, presque toujours, ils redécouvrent en même temps les mérites, curieusement « modernes » à leurs yeux, de peintres beaucoup plus anciens, et que leurs successeurs immédiats avaient fait oublier. C’est ainsi qu’à l’époque du cubisme et du fauvisme, qui rompent avec les réalistes et les impressionnistes, on redécouvre successivement le Gréco, puis Piero della Francesca, Paolo Ucello et Georges de La Tour, tandis qu’un Raphaël, qu’un Van Dyck, qu’un Ribera ou un Holbein s’effacent — de même qu’avec Strawinsky s’effacent Wagner, Berlioz, Schumann et Gluck, tandis qu’on redécouvre Vivaldi, Monteverdi, les Flamands.</p>
                       <p class="p">Ainsi, de rupture en révolution, l’art occidental renoue et enrichit sa tradition, la redécouvre avec des yeux neufs. Quoi de plus révolutionnaire qu’un Picasso, qu’un Joyce ? Mais quoi de plus traditionnel que leurs sources et modèles ! L’<i class="i">Ulysse</i> de Joyce est une transposition de l’<i class="i">Odyssée</i> au <span class="num">xx<sup class="sup">e</sup></span> siècle, et Picasso, parti de Toulouse-Lautrec, tantôt 
@@ -2610,9 +2656,9 @@
  remonte au dessin des vases grecs, tantôt s’amuse à refaire les Ménines de Velasquez, ou s’inspire de statues crétoises, etc. Jamais un siècle n’avait été plus farouchement iconoclaste que le nôtre, jamais aucun n’avait ressuscité autant de modes et d’œuvres du passé européen et même mondial.</p>
                       <p class="p">Ceci donc est typique de l’Europe : la présence et l’action simultanées de la tradition et de la révolution, se nourrissant, se fécondant l’une l’autre. Et l’historien peut en donner d’innombrables exemples, mais ils seront rarement aussi parlants et convaincants que les chefs-d’œuvre de nos arts, comparés et compris dans leur généalogie et dans leurs « messages » propres.</p>
                     </section>
-                    <section id="body-4-1-2" class="div level3 level2">
-                      <h2 class="head">Deuxième thème
-              <br class="lb"/>L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »<a class="bookmark" href="12#body-4-1-2"> §</a></h2>
+                    <section id="body-4-1-2" class="div level2">
+                      <h2 class="head kicker">Deuxième thème</h2>
+                      <h2 class="head">L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »</h2>
                       <p class="p autofirst">Ce qui s’oppose à l’union de l’Europe et à la formation d’une conscience commune — condition préalable de tout civisme européen — c’est le nationalisme ; et chacun sait que le nationalisme a été propagé par l’École et ses manuels depuis le milieu du <span class="num">xix<sup class="sup">e</sup></span> siècle. Les manuels de mon enfance — histoire et géographie, mais histoire de l’art aussi — présentaient l’Europe comme un puzzle de nations et sa culture comme l’addition d’une vingtaine de « cultures nationales » bien distinctes, autonomes et rivales.</p>
                       <p class="p">Cette conception n’est pas seulement responsable des guerres absurdes, justifiées aux yeux des masses par le chauvinisme culturel — les Français de 1914 croyaient défendre la Civilisation contre les Allemands qui croyaient défendre leur Kultur — elle se dissipe comme brume au soleil à la lumière de l’Histoire, et très particulièrement de l’histoire des arts, de la peinture et de la musique.</p>
                       <p class="p">Je voudrais proposer ici un seul exemple : celui de l’évolution de la musique en Europe.</p>
@@ -2623,10 +2669,10 @@
                       <p class="p">Qu’il s’agisse de musique, de peinture, d’architecture, de philosophie ou de science, pour ne rien dire de la religion qui les inspira toutes au départ, il n’est pas une seule branche de notre culture qui ne résulte de mille échanges, tissant l’œuvre commune des Européens, pas une seule que l’on puisse étudier sérieusement dans le champ limité par les frontières d’une seule de nos nations actuelles. Il n’y a pas plus de « peinture française » que de « chimie allemande » ou de « mathématiques soviétiques », car avant tous ces découpages arbitraires, il y a la grande communauté de créations et d’influences mutuelles qui s’appelle l’Europe dans l’histoire de l’esprit humain.</p>
                       <p class="p">Montrer cela sans relâche et en toute occasion à vos élèves, ce n’est pas seulement faire de l’histoire honnête, après un siècle de falsification nationaliste des perspectives, c’est aussi faire l’Europe dans les jeunes esprits, et c’est montrer son unité fondamentale, base de l’union qu’il reste à faire.</p>
                     </section>
-                    <section id="body-4-1-3" class="div level3 level2">
+                    <section id="body-4-1-3" class="div level2">
                       <a class="pb" href="#p91" id="p91">[p. 91]</a>
-                      <h2 class="head">Troisième thème
-              <br class="lb"/>L’Art comme activité de tous<a class="bookmark" href="12#body-4-1-3"> §</a></h2>
+                      <h2 class="head kicker">Troisième thème</h2>
+                      <h2 class="head">L’Art comme activité de tous</h2>
                       <p class="p autofirst">Pendant longtemps, lire et écrire fut réservé aux clercs, puis à une élite restreinte. Puis il y eut l’instruction universelle, gratuite et obligatoire. Et de même, dans nos démocraties, tout homme peut être un citoyen. Pourquoi l’art serait-il seul à rester une spécialité de luxe, réservée aux seuls artistes professionnels ? Alors que la vie quotidienne et la Cité ont besoin d’être aménagées esthétiquement autant que socialement et politiquement.</p>
                       <p class="p">L’enseignement de l’histoire des arts, depuis le Romantisme, est dominé par la notion de chefs-d’œuvre ou d’œuvre individuelle faisant date, marquant un tournant, une nouveauté, une rupture, un nouveau départ, etc. C’est l’équivalent de l’histoire événementielle, qui ne tenait compte que des batailles, des règnes, des traités. Ainsi, l’on en est venu à séparer radicalement « l’artiste » de la masse de ceux qui auraient bien voulu mais n’ont pas pu (ou l’inverse) et des amateurs qui se contentent d’acheter les œuvres cotées des professionnels, ou d’en parler.</p>
                       <p class="p">Or une culture n’est pas vivante et n’est pas saine, si elle reste l’activité des seuls artistes, savants ou écrivains professionnels, tout le reste étant passif et en dehors du coup. Une culture saine doit être vivante dans chaque membre de la communauté.</p>
@@ -2635,8 +2681,8 @@
 <a class="pb" href="#p92" id="p92">[p. 92]</a>
  n’intéressant que les sujets vraiment doués, devrait occuper une place importante dans tous nos programmes scolaires. Car s’il est vrai comme le disait Pascal que le principe de toute morale est de bien penser ; il faut dire aussi que le principe de toute culture, c’est de bien sentir.</p>
                     </section>
-                    <section id="body-4-1-4" class="div level3 level2">
-                      <h2 class="head">Thème conclusif<a class="bookmark" href="12#body-4-1-4"> §</a></h2>
+                    <section id="body-4-1-4" class="div level2">
+                      <h2 class="head">Thème conclusif</h2>
                       <p class="p autofirst">L’art, comme le civisme, est un moyen de <i class="i">s’exprimer librement en tant qu’homme responsable</i> — selon la formule européenne.</p>
                       <p class="p">Voilà pourquoi notre Campagne pour l’éducation civique des jeunes Européens doit comporter une campagne pour l’éducation artistique des futurs citoyens — et peut-être même, doit-elle commencer par là.</p>
                     </section>
@@ -2669,7 +2715,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -2692,7 +2738,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -2712,16 +2758,16 @@
                           <a href="#">III.1. Éducation, civisme et culture</a>
                           <ul>
                             <li class="collateral">
-                              <a href="12#body-4-1-1">Premier thème.  Tradition et Innovation dans les arts en Europe</a>
+                              <a href="12#body-4-1-1">III.1.a. Tradition et Innovation dans les arts en Europe</a>
                             </li>
                             <li class="collateral">
-                              <a href="12#body-4-1-2">Deuxième thème.  L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »</a>
+                              <a href="12#body-4-1-2">III.1.b. L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »</a>
                             </li>
                             <li class="collateral">
-                              <a href="12#body-4-1-3">Troisième thème.  L’Art comme activité de tous</a>
+                              <a href="12#body-4-1-3">III.1.c. L’Art comme activité de tous</a>
                             </li>
                             <li class="collateral">
-                              <a href="12#body-4-1-4">Thème conclusif</a>
+                              <a href="12#body-4-1-4">III.1.d. Thème conclusif</a>
                             </li>
                           </ul>
                         </li>
@@ -2817,7 +2863,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p93" id="p93">[p. 93]</a>
-                    <h1 class="head chapter">Le civisme commence au respect des forêts<a class="noteref" href="13#note17" id="note17_"><sup>17</sup></a><a class="bookmark" href="13"> §</a></h1>
+                    <h1 class="head chapter">Le civisme commence au respect des forêts<a class="noteref" href="13#note17" id="note17_"><sup>17</sup></a></h1>
                     <p class="p autofirst">J’ai proposé le thème de ce stage il y a deux ans, parce que j’en étais venu depuis longtemps à penser que l’écologie, art et science des équilibres vivants entre l’homme et son milieu (tant social et urbain que rural), est le plus grand problème <i class="i">politique</i> de ce siècle. Aujourd’hui je voudrais présenter quelques arguments sur le thème de l’écologie à l’école, et des exemples à discuter en classe.</p>
                     <p class="p">1. Les déséquilibres qui éclatent désormais entre l’homme et son milieu font apparaître la nécessité vitale pour l’humanité actuelle de <i class="i">choisir son avenir</i>, c’est-à-dire de choisir les priorités et les buts de la vie sociale et personnelle.</p>
                     <p class="p">Or choisir est l’acte politique par excellence : gouverner, c’est prévoir — prévoir d’abord, puis adapter les moyens aux fins prévues.</p>
@@ -2909,7 +2955,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -2932,7 +2978,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -3043,7 +3089,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p98" id="p98">[p. 98]</a>
-                    <h1 class="head chapter">Sur la fabrication des nouvelles et des faits<a class="noteref" href="14#note19" id="note19_"><sup>19</sup></a><a class="bookmark" href="14"> §</a></h1>
+                    <h1 class="head chapter">Sur la fabrication des nouvelles et des faits<a class="noteref" href="14#note19" id="note19_"><sup>19</sup></a></h1>
                     <p class="p autofirst">Qu’est-ce qu’une nouvelle ? — Admettons-le avec l’homme de la rue et le dernier speaker de la Radio française avant la grève qui a doublé, cette fois-ci, la trêve des confiseurs : il ne se passe jamais rien dans le monde entre le 24 décembre et le 2 janvier, les discours bénisseurs remplaçant les nouvelles.</p>
                     <p class="p">Il est clair que dans cette optique, les nouvelles sont les événements, ceux-ci n’ayant pas d’existence hors de celles-là. Une nouvelle, ce serait donc ce qu’une agence rédige à l’occasion d’un fait réel ou fabriqué, le fait lui-même ne devenant tel que par la nouvelle qui le baptise, et ne revêtant que l’importance exacte que la nouvelle, littéralement, lui donne. D’où l’on déduit que, sans agences, il n’y aurait pas non plus de nouvelles, et qu’aux yeux de l’homme de la rue, il ne se passerait plus rien dans le monde.</p>
                     <p class="p">En termes très voisins, un peu plus généraux, on pourrait affirmer, et on l’a fait, que sans historiens plus d’Histoire.</p>
@@ -3103,7 +3149,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -3126,7 +3172,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -3237,7 +3283,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p103" id="p103">[p. 103]</a>
-                    <h1 class="head chapter">Université et universalité dans l’Europe d’aujourd’hui<a class="noteref" href="15#note20" id="note20_"><sup>20</sup></a><a class="bookmark" href="15"> §</a></h1>
+                    <h1 class="head chapter">Université et universalité dans l’Europe d’aujourd’hui<a class="noteref" href="15#note20" id="note20_"><sup>20</sup></a></h1>
                     <p class="p autofirst">Le mythe de la Tour de Babel est resté l’un des plus vivants, des plus actuels, et aussi des plus angoissants de ceux que nous a légués l’antiquité proche-orientale, si étroitement mêlée aux origines helléniques et bibliques de la culture d’Europe. Sa meilleure interprétation me paraît être celle que Dante en a donnée dans son <i class="i">Traité de l’éloquence vulgaire</i>. Traduisons son latin savoureux, cela donne à peu près ceci :</p>
                     <blockquote class="quote">
                       <p class="p autofirst">L’homme entreprit, dans son cœur incurable, de dépasser par ses artifices non seulement la Nature mais le Naturant, qui est Dieu, et il entreprit d’édifier une tour à Sennaar, qui fut ensuite appelée Babel, ce qui veut dire confusion. Grâce à cette tour, il espérait escalader le Ciel : tentant ainsi non seulement d’égaler mais de surpasser son Créateur.</p>
@@ -3378,7 +3424,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -3401,7 +3447,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -3512,7 +3558,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p118" id="p118">[p. 118]</a>
-                    <h1 class="head chapter">Le rôle de la recherche en Europe<a class="noteref" href="16#note24" id="note24_"><sup>24</sup></a><a class="bookmark" href="16"> §</a></h1>
+                    <h1 class="head chapter">Le rôle de la recherche en Europe<a class="noteref" href="16#note24" id="note24_"><sup>24</sup></a></h1>
                     <p class="p autofirst">On m’a prié de vous parler aujourd’hui du rôle de la recherche dans notre monde et plus spécialement eu Europe. N’étant ni technicien, ni savant, je me verrai contraint de vous dire des choses très simples et d’une portée très générale. Je crains qu’elles vous paraissent parfois bien éloignées des problèmes précis qu’ont à résoudre les industriels, et qu’un institut spécialisé comme le Battelle Memorial s’est donné pour mission d’étudier scientifiquement. Mais il n’est jamais inutile, et il est même parfois indispensable, de prendre de la distance par rapport à l’action quotidienne, afin de mieux voir d’où elle vient, où elle va, et dans quel ensemble humain elle se situe.</p>
                     <p class="p">Je poserai donc en premier lieu deux grandes questions, volontairement élémentaires : <i class="i">Pourquoi la recherche en général</i> ? et <i class="i">Pourquoi le besoin de chercher est-il vital pour les Européens</i> ?</p>
                     <p class="p">À la première question, portant sur la recherche en soi, il paraît facile de répondre : un homme qui cherche, c’est qu’il n’est pas satisfait de ce qu’il a. Mais cette réponse ne vaut que pour le chercheur occasionnel. Celui qui cherche une place, par exemple : s’il en trouve une très bonne, il sera satisfait, et cessera de mettre des annonces dans le journal. La recherche dont je voudrais vous parler est en réalité tout autre chose. C’est une passion. Et cela revient à dire qu’elle ne peut être satisfaite par aucun résultat concret et limité. L’esprit de recherche a pour caractère décisif d’être sans fin ni cesse, d’être indéfiniment avide. Chaque nourriture qu’il trouve, au lieu de l’apaiser, excite encore son appétit. On voit par là que l’esprit de recherche n’est pas un instinct animal, mais une 
@@ -3576,7 +3622,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -3599,7 +3645,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -3701,6 +3747,22 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.6.a. Dialogue occidental de la culture et de la technique – III.6.b. Genèse religieuse de la technique – III.6.c. Genèse onirique des inventions – III.6.d. Voler, partir au hasard sur les routes, aller jouer… – III.6.e. Premières conclusions – III.6.f. Questions populaires — et sérieuses – III.6.g. L’homme esclave des machines ? – III.6.h. La Technique et la Paix – III.6.i. Le sophisme des « deux cultures » – III.6.j. Le moyen de nos passions et de nos rêves</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-6-1	III.6.a. Dialogue occidental de la culture et de la technique (1970, Le Cheminement des esprits)
+body-4-6-2	III.6.b. Genèse religieuse de la technique (1970, Le Cheminement des esprits)
+body-4-6-3	III.6.c. Genèse onirique des inventions (1970, Le Cheminement des esprits)
+body-4-6-4	III.6.d. Voler, partir au hasard sur les routes, aller jouer… (1970, Le Cheminement des esprits)
+body-4-6-5	III.6.e. Premières conclusions (1970, Le Cheminement des esprits)
+body-4-6-6	III.6.f. Questions populaires — et sérieuses (1970, Le Cheminement des esprits)
+body-4-6-7	III.6.g. L’homme esclave des machines ? (1970, Le Cheminement des esprits)
+body-4-6-8	III.6.h. La Technique et la Paix (1970, Le Cheminement des esprits)
+body-4-6-9	III.6.i. Le sophisme des « deux cultures » (1970, Le Cheminement des esprits)
+body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -3710,10 +3772,10 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p124" id="p124">[p. 124]</a>
-                    <h1 class="head chapter">Culture et technique en Europe et dans le monde<a class="bookmark" href="17"> §</a></h1>
+                    <h1 class="head chapter">Culture et technique en Europe et dans le monde</h1>
                     <p class="p autofirst"><i class="i">De deux conférences, l’une au Séminaire de Copenhague sur</i> La culture et l’économie<i class="i">, organisée par la Fondation européenne de la culture en 1962, l’autre à</i> l’École polytechnique universitaire<i class="i"> de Lausanne en 1963, lors du Congrès des anciens élèves de l’EPUL, on a gardé ici les éléments communs et quelques vues complémentaires.</i></p>
-                    <section id="body-4-6-1" class="div level3 level2">
-                      <h2 class="head">Dialogue occidental de la culture et de la technique<a class="bookmark" href="17#body-4-6-1"> §</a></h2>
+                    <section id="body-4-6-1" class="div level2">
+                      <h2 class="head">Dialogue occidental de la culture et de la technique</h2>
                       <p class="p autofirst">L’économie occidentale d’aujourd’hui est dominée par l’industrie ; or le moteur de notre développement industriel, c’est la technique, fille de la science, et d’une science étroitement liée à toute l’évolution culturelle de l’Occident. C’est donc dans la technique, par son intermédiaire et à son sujet, que la culture et l’économie de l’Occident communiquent le plus directement, au niveau de la création comme à celui des effets extérieurs, et s’interdéterminent de la manière la mieux vérifiable.</p>
                       <p class="p">Je pars de trois faits connus de tous :</p>
                       <p class="p">1. Pour la première fois dans l’histoire, une civilisation devient vraiment mondiale, et c’est la civilisation technique. Née de l’Europe, développée par l’Amérique, adoptée par l’URSS et de là, transplantée en Chine, elle est devenue, au cours de ces dernières années, non seulement l’idéal, mais la revendication parfois bruyante et turbulente de tous les pays du tiers monde, même les plus farouchement hostiles à l’Occident. 
@@ -3724,8 +3786,8 @@
                       <p class="p">Toutes ces contradictions définissent notre drame, et ce n’est pas seulement le drame de l’Occident, c’est celui de toutes les cultures, dans le tiers monde, qui se voient menacées d’extinction par le succès brutal d’une civilisation dont les auteurs eux-mêmes se déclarent effrayés.</p>
                       <p class="p">Au moment même où il voit sa technique et ses valeurs techniques adoptées par le monde entier, l’Occident se met donc à douter de son bon droit, et à diviser ses forces en deux camps : d’une part, ceux qui sont prêts à sacrifier la culture générale aux exigences nouvelles de la technique et qui se nomment les progressistes ; d’autre part, ceux qui défendent nos traditions humanistes, s’opposent de toutes leurs forces instinctives à la technique, et qu’on nomme les réactionnaires, même s’ils sont simplement conservateurs. Leur erreur commune consiste à ne pas voir à quel point la technique résulte de la culture occidentale et s’en nourrit, et à quel point cette culture occidentale peut à son tour bénéficier de la technique.</p>
                     </section>
-                    <section id="body-4-6-2" class="div level3 level2">
-                      <h2 class="head">Genèse religieuse de la technique<a class="bookmark" href="17#body-4-6-2"> §</a></h2>
+                    <section id="body-4-6-2" class="div level2">
+                      <h2 class="head">Genèse religieuse de la technique</h2>
                       <p class="p autofirst">Comment s’explique le fait patent que la technique moderne, depuis le <span class="num">xvii<sup class="sup">e</sup></span> siècle, ait été la création de l’Europe seule, et par la suite, de ses filiales américaine et russe — alors que ni l’Afrique des tribus et des sorciers, ni l’Inde des castes et des sages, ni la Chine des paysans et des mandarins, n’avaient pu ou voulu produire de machines, de turbines ou même de canons jusqu’à ces toutes dernières décennies, et n’y auraient pas songé d’elles-mêmes, sans l’exemple et le défi occidental ? 
 <a class="pb" href="#p126" id="p126">[p. 126]</a>
 </p>
@@ -3737,8 +3799,8 @@
  de l’homme, c’est une action qui maîtrise et libère, non pas une révérence dévotieuse et craintive.</p>
                       <p class="p">D’autre part, la religion judéo-chrétienne d’un Dieu incarné, qui appelle l’homme à la liberté dans sa condition concrète et non dans l’évasion mystique, se combine, peu à peu, non sans peine, avec le rationalisme critique de la Grèce et son exigence de vérité, voire de véracité contrôlée et mesurée. Cette synthèse, qui est l’œuvre du Moyen Âge, dès le <span class="num">xiii<sup class="sup">e</sup></span> siècle, produit ses effets à partir de la Renaissance, dans la création de la science moderne, et j’entends bien d’une science des corps et de la matière qui ne se veut pas seulement spéculative, mais transformatrice du réel. Ajoutez-y le goût du travail, vertu ou vice des populations nordiques, d’ailleurs approuvé par les ordres monastiques : <i class="i">laborare est orare</i> ; et enfin, la nécessité de survivre dans un coin du monde peu favorisé par les dons gratuits de la Nature — j’entends notre péninsule occidentale de l’Asie — et vous aurez les conditions enfin réunies de l’apparition de la technique en Europe : effort plus ascétique que magique, et plus rigoureux qu’hédoniste, de maîtrise et de transformation de la matière et de la Nature, effort de création d’un milieu artificiel, au service des fins propres de l’homme.</p>
                     </section>
-                    <section id="body-4-6-3" class="div level3 level2">
-                      <h2 class="head">Genèse onirique des inventions<a class="bookmark" href="17#body-4-6-3"> §</a></h2>
+                    <section id="body-4-6-3" class="div level2">
+                      <h2 class="head">Genèse onirique des inventions</h2>
                       <p class="p autofirst">L’histoire des grandes inventions, de celle du feu à celle de la fusée spatiale, n’est pas l’histoire de « besoins » qui auraient existé avant ces inventions ; et elle ne dépend pas non plus des fameuses « lois de l’économie » dont parlaient Marx et les théoriciens bourgeois de l’utilitarisme, mais au contraire des rêves les plus constants de l’homme, rêves qui déterminent dans nos vies ce qu’on nomme les hasards, les trouvailles par hasard, rêves qui sont aussi les grands thèmes directeurs des créations de notre culture.</p>
                       <p class="p">Pourquoi l’homme fabrique-t-il des outils ? Quels sont donc les motifs profonds de la technique ? Tout le <span class="num">xix<sup class="sup">e</sup></span> siècle répond en chœur : que l’homme invente pour des motifs utilitaires. Et presque tous les historiens de la technique répètent jusqu’à nos jours que les grandes inventions ont « répondu à des besoins » économiques, alimentaires et matériels. Quelques-uns cependant nous disent : si l’homme invente, c’est par défi aux dieux, c’est pour ravir le feu du ciel, comme 
 <a class="pb" href="#p128" id="p128">[p. 128]</a>
@@ -3751,8 +3813,8 @@
  d’un confort défini en termes physiques. Les très grandes inventions de notre siècle vérifient, en revanche, la thèse du rêve créateur : l’exemple des fusées vers la Lune et Vénus me suffira. Les plus grandes sommes — des milliards de dollars — que dépensent nos plus grands États, sont affectées à la recherche des moyens d’explorer le cosmos. Personne ne peut savoir à quoi cela servira. Ce qui explique ces dilapidations délirantes, et même scandaleuses aux yeux des utilitaristes, en lesquelles rivalisent l’URSS et les USA, ce ne sont pas les lois de l’économie et encore moins les besoins matériels — quand les deux tiers de l’humanité souffrent la faim — mais c’est un rêve, universel et proprement irrésistible. Et si un jour nous découvrons sur Mars je ne sais quelles substances nouvelles qui procurent à nos industries ou à nos États de nouveaux moyens d’enrichissement ou de puissance, nos descendants diront : c’est à cause de cela, c’est pour cela, que les premiers astronautes quittèrent la Terre. Mais ici nous sommes tous témoins qu’il n’en est rien. Comme les Rois catholiques furent témoins que ce pauvre fou, leur protégé, Christophe Colomb, ne partit pas pour chercher des esclaves et des dollars en Amérique, mais bien pour découvrir les Indes de son rêve, ces Indes aux cités pavées d’or, et cet or qui eût permis l’ultime croisade pour délivrer Jérusalem…</p>
                       <p class="p">L’homme primitif crée des outils pour jouer avec les démons cachés dans le feu ou dans la pierre, dans l’eau courante ou l’animal, comme dans ses songes et ses rêves éveillés. Il exorcise prudemment une Nature peuplée de dieux et leurs intentions malicieuses. L’homme moderne est-il très différent ? Prenons quelques exemples de ses inventions techniques les plus spectaculaires : la machine à vapeur, l’auto, l’avion.</p>
                     </section>
-                    <section id="body-4-6-4" class="div level3 level2">
-                      <h2 class="head">Voler, partir au hasard sur les routes, aller jouer…<a class="bookmark" href="17#body-4-6-4"> §</a></h2>
+                    <section id="body-4-6-4" class="div level2">
+                      <h2 class="head">Voler, partir au hasard sur les routes, aller jouer…</h2>
                       <p class="p autofirst">C’est du rêve de voler qu’est né l’avion, et non pas de la prévision des avantages commerciaux, touristiques et militaires que présenterait un jour l’industrie de ces tapis volants à réaction, devenue l’une des branches principales de notre économie. L’histoire du vol d’Icare est le récit d’un rêve que presque tous les hommes ont fait une nuit ou l’autre, y compris Léonard de Vinci qui décrit, dessine et calcule un homme volant et de grands oiseaux mécaniques, et c’est ce rêve qui animait encore les premiers constructeurs d’avions à ailes mobiles ou à pédales, 
 <a class="pb" href="#p130" id="p130">[p. 130]</a>
  puis à moteur. Le motif onirique du vol, attesté par des centaines d’auteurs depuis trois à quatre mille ans, est de toute évidence antérieur à toute espèce de considération utilitaire, économique.</p>
@@ -3763,16 +3825,16 @@
 <a class="pb" href="#p131" id="p131">[p. 131]</a>
  voit bien dans nos villes embouteillées, et quand il faut payer les autoroutes. Si je veux être libre de rêver, c’est justement un train que je vais prendre. Dans mon wagon, je lis, je dors, je mange, et puis méditer à loisir. Au volant d’une auto, rien de pareil : tout ce que je puis lire, ce sont des chiffres, des ordres de police routière. Si je mange, ce n’est guère qu’un sandwich. Si je rêvasse, un klaxon me réveille brutalement. Et si je m’endors, c’est pour toujours.</p>
                     </section>
-                    <section id="body-4-6-5" class="div level3 level2">
-                      <h2 class="head">Premières conclusions<a class="bookmark" href="17#body-4-6-5"> §</a></h2>
+                    <section id="body-4-6-5" class="div level2">
+                      <h2 class="head">Premières conclusions</h2>
                       <p class="p autofirst">C’est la nature de nos rêves constants qui détermine nos découvertes, donc nos techniques. Mais nos rêves à leur tour, d’où viennent-ils ? Ils expriment nos croyances autant que nos instincts, les interdits sociaux et religieux autant que les désirs secrets de l’individu et les possibilités illimitées de l’imagination : ce sont eux qui créent la culture, les arts, les sciences et la littérature. C’est évident. Mais il ne faut pas oublier qu’ils se nourrissent en retour de la culture : nos lectures, les tableaux que nous avons vus, les images du divin que nous livrent les siècles de notre civilisation, modifient sans nul doute notre pouvoir de rêve, son imagerie et ses <i class="i">orientations</i> — qui sont celles de nos découvertes.</p>
                       <p class="p">Je voudrais résumer, ramasser en deux phrases ce premier point de mon exposé :</p>
                       <p class="p">— <i class="i">notre technique occidentale est née du rêve occidental, de ce même rêve qui a créé notre culture</i> ;</p>
                       <p class="p">— <i class="i">la technique n’est donc pas un destin objectif et que nous aurions à subir, mais bien au contraire, elle exprime des vœux profonds dont nous sommes responsables.</i></p>
                       <p class="p">Il en résulte que la culture et la technique ne sauraient être opposées dans leurs sources, au niveau de leur création, puisqu’elles procèdent de nos mêmes rêves fondamentaux.</p>
                     </section>
-                    <section id="body-4-6-6" class="div level3 level2">
-                      <h2 class="head">Questions populaires — et sérieuses<a class="bookmark" href="17#body-4-6-6"> §</a></h2>
+                    <section id="body-4-6-6" class="div level2">
+                      <h2 class="head">Questions populaires — et sérieuses</h2>
                       <p class="p autofirst">Restent les grandes questions de savoir si la technique enchaîne l’individu ou si elle le libère ; si nous sommes les esclaves de nos 
 <a class="pb" href="#p132" id="p132">[p. 132]</a>
  machines ou si elles nous servent ; et surtout si l’humanité saura maîtriser la bombe atomique, ou si un jour prochain peut-être, à la suite d’une erreur commise au Pentagone, ou au Kremlin, ou même à l’Élysée, la bombe nous anéantira.</p>
@@ -3782,8 +3844,8 @@
                       <p class="p">La technique n’est pas matérialiste, seul l’homme peut l’être, quand il se laisse aller à ses instincts abâtardis ou quand il se laisse dominer par ses propres mécanismes psychologiques.</p>
                       <p class="p">La technique n’est pas davantage utilitariste, et l’on a vu que, dans sa genèse, elle n’est pas même utilitaire !</p>
                     </section>
-                    <section id="body-4-6-7" class="div level3 level2">
-                      <h2 class="head">L’homme esclave des machines ?<a class="bookmark" href="17#body-4-6-7"> §</a></h2>
+                    <section id="body-4-6-7" class="div level2">
+                      <h2 class="head">L’homme esclave des machines ?</h2>
                       <p class="p autofirst">Dans la première moitié du <span class="num">xx<sup class="sup">e</sup></span> siècle, nous avons assisté à ce que l’on nomme souvent <i class="i">l’envahissement de notre vie par la machine</i>. Tous nos grands penseurs, suivis à quelques années de distance par les journalistes et par l’opinion moyenne de nos élites, se sont mis à se lamenter sur le matérialisme occidental, sur le déclin des valeurs spirituelles, et sur la mise en esclavage de l’homme par les machines, bientôt par les robots et les cerveaux électroniques. Que penser de cette plainte mise à la mode par Bergson, il y a cinquante ans, et de ce pessimisme général que l’invention de la bombe A puis de la bombe H risquent de transformer en panique planétaire ?</p>
                       <p class="p">Si on laisse la bombe tranquille, elle ne fera rien du tout, c’est un objet.</p>
                       <p class="p">Il n’est pas d’invention, si utilitaire soit-elle, qui ne puisse être mise au service des passions meurtrières de l’homme : le couteau de cuisine a 
@@ -3800,9 +3862,9 @@
                       <p class="p">La réduction du temps de travail moyen à l’usine ou au bureau, obtenue depuis trois quarts de siècle, est d’environ deux mille heures par an aux États-Unis, et sera fatalement augmentée à mesure que se développera l’automation. Imaginons donc notre humanité occidentale partiellement libérée du travail mécanique, pourvue de loisirs tout nouveaux, et privée du même coup du droit de se plaindre qu’elle n’a pas le temps de se cultiver ! Bien sûr, nous ne confondrons pas le simple loisir et la culture. La culture ne consiste pas seulement à se cultiver, à lire des livres, à écouter des disques, ni même à se préparer pour un jeu à la télévision. Elle consiste à écrire des livres, à composer de la musique, des équations ou des cités, à méditer, à inventer — à créer ou à se créer : voilà le vrai travail humain. Mais il est clair que si le temps libre est augmenté, la consommation de la culture augmentera elle aussi, et que par suite les conditions du producteur de la culture seront sensiblement améliorées. Donc, tout ce que la technique permet de gagner sur le temps de travail mécanique et routinier sera gagné pour la culture, ou pourra l’être. Nous allons vers un temps où les loisirs deviendront quantitativement, financièrement, commercialement, plus importants que le travail routinier. Il en résultera que <i class="i">la culture deviendra le sérieux de la vie</i>.</p>
                       <p class="p">Je résume cette seconde partie de mon propos : la culture de l’Europe a produit la technique ; on a pu craindre alors que cette technique n’asservisse l’homme et tue la vraie culture ; mais nous voyons que les progrès techniques les plus récents nous ramènent au contraire vers la culture, et lui donnent un sérieux nouveau, une importance économique croissante.</p>
                     </section>
-                    <section id="body-4-6-8" class="div level3 level2">
+                    <section id="body-4-6-8" class="div level2">
                       <a class="pb" href="#p135" id="p135">[p. 135]</a>
-                      <h2 class="head">La Technique et la Paix<a class="bookmark" href="17#body-4-6-8"> §</a></h2>
+                      <h2 class="head">La Technique et la Paix</h2>
                       <p class="p autofirst">C’est à la technique que nous devons le blocage de la guerre en Europe et au sein du plus grand Occident. Elle a créé des réseaux si serrés d’interdépendance économique et industrielle, qu’un conflit armé entre deux de nos nations est devenu impraticable. Le charbon et l’acier, l’énergie électrique, les oléoducs, les matières fissiles une fois mis en commun, avec quoi se battrait-on, au bout de quelques semaines ? Avec des bâtons, des couteaux ? Les bombes atomiques ne seraient guère utilisables de nation à nation, en Europe : nous sommes trop près les uns des autres, et celui qui en lancerait une risquerait d’en recevoir dans l’heure suivante les retombées mortelles. Ces armes d’une puissance folle nous laissent à la merci d’une saute de vent.</p>
                       <p class="p">Mais si l’on peut admettre que la technique a réussi à pacifier l’Europe, et si l’on constate d’autre part que la menace atomique tient en mutuel respect les deux empires occidentaux de l’Est et de l’Ouest, quels ont été les effets de l’expansion technique dans le reste du monde ? Ici, le tableau change à vue.</p>
                       <p class="p">C’est la technique née en Europe qui a mis en relations les divers continents et qui a révélé à leurs peuples l’existence d’autres civilisations, à certains égards plus développées, en tout cas plus prospères. C’est la technique qui a fait <i class="i">voir</i> l’Occident aux peuples de l’Afrique, du monde arabe, de l’Inde et de l’Extrême-Orient. Au temps de la colonisation, les peuples du tiers monde ne connaissaient de nous que d’assez rares exemplaires de colons et de soldats, qui n’avaient rien de bien attirant. Aujourd’hui, le cinéma leur fait voir de leurs yeux nos villes, nos mœurs, le cadre de nos vies et notre luxe matériel, quelque peu idéalisé. Désormais la comparaison entre leur sort précaire et notre sort prospère s’impose à eux et suscite leur envie. Ils prennent conscience d’une misère relative, qui autrefois leur paraissait inévitable, dans l’ignorance où ils étaient de la simple possibilité d’une vie meilleure ou différente. Ils voient cela, ils exigent nos machines, mais ne voient pas ce qui les a rendues possibles. Ils croient qu’ils peuvent acheter ces beaux objets et en user, mais sans payer leurs frais d’investissement humain, le travail de nos masses ouvrières, de nos savants et de nos 
@@ -3815,8 +3877,8 @@
  Si un peu de technique a créé la famine, beaucoup plus de technique assimilée par un effort éducatif et culturel peut seule permettre de la surmonter<a class="noteref" href="17#note25" id="note25_"><sup>25</sup></a>.</p>
                       <p class="p">Je suis donc amené à formuler la thèse suivante : la technique, en principe, n’est pas plus un facteur de paix qu’un facteur de guerre. Elle fournit aux armées des moyens de faire la guerre, mais ce n’est pas elle qui cause les guerres, ce sont au contraire nos passions, qui utilisent la technique comme instrument. C’est l’explosion des nationalismes en 1914 qui a déclenché la première guerre mondiale, et non pas la mitrailleuse, ni ces avions biplans qui volaient tout juste assez vite pour ne pas tomber. (« Vole aussi bas que possible et surtout pas trop vite ! » écrivait une mère angoissée à son fils aviateur en 1915.) Mais de cette première guerre mondiale sont issus très rapidement le bulldozer et l’avion de ligne. Et ce n’est pas la maîtrise de l’énergie nucléaire, dont les principes et les brevets étaient déposés dès 1939 par l’équipe Joliot-Curie, mais restaient ignorés par les gouvernements, qui a déclenché la deuxième guerre mondiale, mais au contraire, c’est sa première application (grâce à l’intervention d’Einstein puis aux travaux de Fermi et à l’action d’Oppenheimer) qui a mis fin à cette guerre, pratiquement, le 5 août 1945, à Hiroshima.</p>
                     </section>
-                    <section id="body-4-6-9" class="div level3 level2">
-                      <h2 class="head">Le sophisme des « deux cultures »<a class="bookmark" href="17#body-4-6-9"> §</a></h2>
+                    <section id="body-4-6-9" class="div level2">
+                      <h2 class="head">Le sophisme des « deux cultures »</h2>
                       <p class="p autofirst">Cependant un danger subsiste. L’ère de l’automation et de l’électronique exige la formation scientifique très poussée non seulement d’une petite élite, mais d’une masse importante de techniciens. Deux exemples me suffiront : la France déclare qu’elle manque dès aujourd’hui d’environ cinquante mille techniciens et ingénieurs. Quant à l’URSS, on sait bien qu’elle subordonne toute son éducation scolaire et universitaire à la seule formation technique. Cette formation obligatoire des jeunes Soviétiques absorbe 67 % du temps d’étude, et ne laisse à peu près aucune place à la culture générale, réduite aux cours de marxisme-léninisme. En Europe comme en Afrique, on réclame à grands cris l’intensification de la formation de techniciens, aux dépens de la culture générale.</p>
                       <p class="p">
 <a class="pb" href="#p138" id="p138">[p. 138]</a>
@@ -3840,8 +3902,8 @@
                       <p class="p">L’avenir de l’Occident ne peut se lire dans les indices de production, mais dans ce que je voudrais appeler <i class="i">l’indice de l’équilibre humain</i>. Il appartient à la culture de concevoir cet équilibre éco-social, d’en formuler les conditions morales ; à la technique de le servir, d’en fournir les moyens matériels.</p>
                       <p class="p">L’avenir de l’Occident est donc entre les mains de ceux qui assumeront <i class="i">à la fois</i> les conditions morales et matérielles d’un équilibre humain assez riche et assez souple pour servir de modèle à tous les hommes. Il appartient donc <i class="i">conjointement</i> à la culture et à l’économie, qui trouvent là leur commune responsabilité.</p>
                     </section>
-                    <section id="body-4-6-10" class="div level3 level2">
-                      <h2 class="head">Le moyen de nos passions et de nos rêves<a class="bookmark" href="17#body-4-6-10"> §</a></h2>
+                    <section id="body-4-6-10" class="div level2">
+                      <h2 class="head">Le moyen de nos passions et de nos rêves</h2>
                       <p class="p autofirst">Tantôt révérée comme instance et compétence suprêmes, quand on invoque « les exigences techniques » pour trancher en dernier ressort des problèmes qui appelleraient en réalité des décisions politiques ou morales, tantôt mise en accusation parce qu’elle aurait produit le danger atomique ou voudrait nous réduire à l’état de robots, la technique ne 
 <a class="pb" href="#p141" id="p141">[p. 141]</a>
  mérite en vérité ni cet excès d’honneur ni cette indignité. Elle n’est que le moyen de nos passions et de nos rêves, le moyen de nos vraies fins, que nous voulions ignorer, ou bien que nous avons perdu de vue, et alors nous trichons, et nous nous persuadons qu’elle n’est, après tout, qu’un ensemble de procédés ingénieux et utilitaires destinés à faciliter la vie, mais voilà que tout d’un coup, par une inexplicable malice des choses, dont nous ne serions pas du tout responsables, elle menace au contraire d’anéantir toute espèce de vie sur la Terre.</p>
@@ -3885,7 +3947,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -3908,7 +3970,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -3943,34 +4005,34 @@
                           <a href="#">III.6. Culture et technique en Europe et dans le monde</a>
                           <ul>
                             <li class="collateral">
-                              <a href="17#body-4-6-1">Dialogue occidental de la culture et de la technique</a>
+                              <a href="17#body-4-6-1">III.6.a. Dialogue occidental de la culture et de la technique</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-2">Genèse religieuse de la technique</a>
+                              <a href="17#body-4-6-2">III.6.b. Genèse religieuse de la technique</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-3">Genèse onirique des inventions</a>
+                              <a href="17#body-4-6-3">III.6.c. Genèse onirique des inventions</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-4">Voler, partir au hasard sur les routes, aller jouer…</a>
+                              <a href="17#body-4-6-4">III.6.d. Voler, partir au hasard sur les routes, aller jouer…</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-5">Premières conclusions</a>
+                              <a href="17#body-4-6-5">III.6.e. Premières conclusions</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-6">Questions populaires — et sérieuses</a>
+                              <a href="17#body-4-6-6">III.6.f. Questions populaires — et sérieuses</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-7">L’homme esclave des machines ?</a>
+                              <a href="17#body-4-6-7">III.6.g. L’homme esclave des machines ?</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-8">La Technique et la Paix</a>
+                              <a href="17#body-4-6-8">III.6.h. La Technique et la Paix</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-9">Le sophisme des « deux cultures »</a>
+                              <a href="17#body-4-6-9">III.6.i. Le sophisme des « deux cultures »</a>
                             </li>
                             <li class="collateral">
-                              <a href="17#body-4-6-10">Le moyen de nos passions et de nos rêves</a>
+                              <a href="17#body-4-6-10">III.6.j. Le moyen de nos passions et de nos rêves</a>
                             </li>
                           </ul>
                         </li>
@@ -4042,6 +4104,16 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.7.a. Le Musée et le laboratoire – III.7.b. Problème général du mécénat au xxe siècle – III.7.c. Problèmes particuliers d’un mécénat européen – III.7.d. Idée d’un Conseil européen de la recherche</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-7-1	III.7.a. Le Musée et le laboratoire (1970, Le Cheminement des esprits)
+body-4-7-2	III.7.b. Problème général du mécénat au xxe siècle (1970, Le Cheminement des esprits)
+body-4-7-3	III.7.c. Problèmes particuliers d’un mécénat européen (1970, Le Cheminement des esprits)
+body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -4051,17 +4123,17 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p142" id="p142">[p. 142]</a>
-                    <h1 class="head chapter">Pour une politique de la recherche<a class="noteref" href="18#note27" id="note27_"><sup>27</sup></a><a class="bookmark" href="18"> §</a></h1>
-                    <section id="body-4-7-1" class="div level3 level2">
-                      <h2 class="head">Le Musée et le laboratoire<a class="bookmark" href="18#body-4-7-1"> §</a></h2>
+                    <h1 class="head chapter">Pour une politique de la recherche<a class="noteref" href="18#note27" id="note27_"><sup>27</sup></a></h1>
+                    <section id="body-4-7-1" class="div level2">
+                      <h2 class="head">Le Musée et le laboratoire</h2>
                       <p class="p autofirst">On ne fera pas l’Europe sans l’aide de sa culture : ce serait vouloir la faire sans ce qui la définit. Si elle a dominé le globe durant des siècles, on ne saurait expliquer ce fait central de l’histoire de l’humanité par des données purement physiques, bien au contraire. Ni le sous-sol assez pauvre, ni le sol assez fertile, ni la population très dense, ni le climat modéré, ni les déséquilibres dynamiques résultant de ces facteurs combinés ne rendent compte d’une manière décisive de ce qu’il faut bien appeler le miracle européen, et qui n’est pas lisible sur les cartes, mais seulement dans l’histoire de l’esprit et des mœurs. Nommons cela, pour simplifier, <i class="i">culture</i>, et du même coup, nous aurons dit que la culture n’est pas un luxe pour nos peuples, mais une nécessité vitale. Tout cela n’est pas nouveau, mais on l’oublie souvent, notamment quand on pense en marxiste ou en capitaliste matérialiste, comme le font cinq sixièmes du genre humain.</p>
                       <p class="p">On entend bien que la culture dont je parle ici n’est pas seulement celle des loisirs, celle que les gens <i class="i">consomment</i>, mais bien celle qui <i class="i">produit</i>. Ce n’est pas seulement l’activité assimilatrice de ceux qui regardent des tableaux, lisent des livres et apprennent une science, mais l’activité créatrice de ceux qui peignent, écrivent, conçoivent et inventent. Car s’il est vrai que l’Europe a découvert la Terre, puis toute l’histoire de l’Homme et de ses créations, et qu’elle en a collectionné les témoignages, il n’est pas moins certain qu’elle a produit elle-même la 
 <a class="pb" href="#p143" id="p143">[p. 143]</a>
  seule culture ou civilisation qui ait su devenir effectivement mondiale. Le symbole de l’Europe et de sa culture n’est donc pas seulement le Musée : c’est d’abord le Laboratoire. Et si l’on veut sauver le foyer rayonnant de cette culture que toute la Terre imite, ce n’est pas du Musée d’abord, mais du Laboratoire qu’il faut se préoccuper. (Étant bien entendu que ce Laboratoire a derrière lui toute l’histoire des idées, des attitudes humaines et des croyances dont l’ensemble fait une culture.)</p>
                       <p class="p">Traduisons ces images en termes tout pratiques : l’avenir de notre Europe étant lié à l’avenir de sa culture, c’est aux activités de recherche créatrice que doit aller d’abord le soutien financier du mécénat européen.</p>
                     </section>
-                    <section id="body-4-7-2" class="div level3 level2">
-                      <h2 class="head">Problème général du mécénat au <span class="num">xx<sup class="sup">e</sup></span> siècle<a class="bookmark" href="18#body-4-7-2"> §</a></h2>
+                    <section id="body-4-7-2" class="div level2">
+                      <h2 class="head">Problème général du mécénat au <span class="num">xx<sup class="sup">e</sup></span> siècle</h2>
                       <p class="p autofirst">Mais que signifie, dans le concret, l’aide à la culture créatrice ? Jusqu’à notre temps, c’est bien simple. Certes, on ne finance pas un poème, une intuition ou une philosophie, mais on peut commander un tableau, une partition, un monument, on peut acheter des livres, et l’on peut entretenir l’artiste, le penseur et le savant : tout le mécénat classique a consisté dans cette aide indirecte à la culture, qui n’était pas sans exercer quelque influence sur son cours. Cependant, un phénomène nouveau se manifeste de nos jours : c’est celui de la subvention, qui n’est plus l’aide aux créateurs individuels, mais aux instituts de recherches, bureaux d’études et séminaires, œuvres d’éducation, fouilles et films. Rien de pareil au <span class="num">xvi<sup class="sup">e</sup></span> siècle ni, de fait, avant notre époque. Et ceci modifie profondément les méthodes et l’objet du mécénat.</p>
                       <p class="p">Notez bien que le problème que j’évoque n’est pas posé par la disparition des princes capables de dépense. Car il existe parmi nous autant ou plus de grandes fortunes qu’à la Renaissance ou au Grand Siècle. Le problème est posé par le fait que nos virtuels mécènes à l’ancienne mode ne sont plus en mesure — sauf de rares exceptions — de savoir par eux-mêmes où il faudrait aider, de quelle manière et pour quelles fins utiles.</p>
                       <p class="p">Pour se faire le mécène d’un peintre ou d’un auteur, il suffisait d’avoir de l’argent et du goût, une certaine culture générale et l’instinct de la qualité. Mais aujourd’hui, ce sont les éditeurs, les marchands de tableaux et les impresarios qui ont repris cette fonction, non sans la 
@@ -4069,8 +4141,8 @@
  modifier dans le sens commercial que l’on sait. Dès lors le mécénat doit se tourner vers des domaines très différents, où il est moins facile de s’orienter. Comment savoir où sont les vrais besoins, quelles recherches sont nécessaires, et qui pourra les diriger ? Il faudrait disposer d’un état permanent des problèmes à résoudre, des chercheurs disponibles, et des initiatives en quête de fonds. Cette information encyclopédique dépasse évidemment les capacités d’un particulier, si riche soit-il, ou d’un ministère national. Elle suppose l’existence d’<i class="i">Instituts de la conjoncture culturelle</i> à l’échelle internationale, et c’est bien ce rôle que jouent en fait les plus grandes Fondations américaines, intermédiaires indispensables désormais entre le mécène et les bénéficiaires (variés, nombreux et souvent fort lointains) de son appui.</p>
                       <p class="p">Qu’avons-nous de ce genre, en Europe ? Quantité d’instituts nationaux — ministères, conseils de la recherche et fondations spécialisées — mais presque rien au plan européen. Le Marché Commun de la culture, qui existe en fait depuis des siècles en Europe (et qu’un nationalisme littéralement « borné » n’a jamais pu totalement supprimer) attend encore un mécénat à sa mesure.</p>
                     </section>
-                    <section id="body-4-7-3" class="div level3 level2">
-                      <h2 class="head">Problèmes particuliers d’un mécénat européen<a class="bookmark" href="18#body-4-7-3"> §</a></h2>
+                    <section id="body-4-7-3" class="div level2">
+                      <h2 class="head">Problèmes particuliers d’un mécénat européen</h2>
                       <p class="p autofirst">L’Europe unie, dont le Marché Commun et le Conseil de l’Europe tentent de construire les premiers cadres, va découvrir très vite, en entrant dans le concret, qu’elle ne saurait se passer ni de recherches nouvelles ni d’un immense effort d’éducation. Une civilisation continentale, ou une fédération de peuples embarqués pour un même destin, qui négligeraient encore la recherche d’avant-garde et l’éducation générale, se verraient rapidement liquidées dans la compétition impitoyable qui s’instaure à l’échelle planétaire.</p>
                       <p class="p">La question qui se pose d’urgence est celle de l’aide <i class="i">puissante et cohérente</i> qu’il faut donner à cette culture dont la vitalité sera décisive.</p>
                       <p class="p">Aide puissante, tout d’abord. Les rares institutions qui ont assumé la mission de servir à la fois la culture et l’Europe en sont encore réduites à des budgets de misère. Signe hélas trop certain que les pouvoirs publics ; les organisations européennes et les sources privées de financement n’ont pas encore compris la nouveauté et les impératifs du <span class="num">xx<sup class="sup">e</sup></span> siècle.</p>
@@ -4078,8 +4150,8 @@
 <a class="pb" href="#p145" id="p145">[p. 145]</a>
  Aide cohérente, ensuite, ou plutôt en même temps. La dispersion des entreprises « européennes » dans le domaine de la culture est encore plus choquante, si possible, que nos divisions nationales, et n’est pas moins débilitante. Non seulement elle multiplie les doubles emplois (constamment dénoncés, toujours recommencés), mais encore elle fournit un prétexte facile à refuser les fonds nécessaires pour l’essor efficace de chaque initiative.</p>
                     </section>
-                    <section id="body-4-7-4" class="div level3 level2">
-                      <h2 class="head">Idée d’un Conseil européen de la recherche<a class="bookmark" href="18#body-4-7-4"> §</a></h2>
+                    <section id="body-4-7-4" class="div level2">
+                      <h2 class="head">Idée d’un Conseil européen de la recherche</h2>
                       <p class="p autofirst">Comment guérir cette maladie infantile de l’européisme dont je viens d’esquisser le diagnostic ? Le programme constructif que je déduis d’une expérience intime de ces problèmes depuis une bonne dizaine d’années, tient en trois points :</p>
                       <p class="p">1. Création d’un <i class="i">Conseil européen de la Recherche et de l’aide à la culture</i>.</p>
                       <p class="p">2. Mise à la disposition de ce Conseil des fonds jugés par lui nécessaires, — fonds qui seraient fournis par le secteur privé (firmes et fondations) et par les Organisations européennes interétatiques.</p>
@@ -4124,7 +4196,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -4147,7 +4219,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -4185,16 +4257,16 @@
                           <a href="#">III.7. Pour une politique de la recherche</a>
                           <ul>
                             <li class="collateral">
-                              <a href="18#body-4-7-1">Le Musée et le laboratoire</a>
+                              <a href="18#body-4-7-1">III.7.a. Le Musée et le laboratoire</a>
                             </li>
                             <li class="collateral">
-                              <a href="18#body-4-7-2">Problème général du mécénat au<span class="num">xx<sup>e</sup></span> siècle</a>
+                              <a href="18#body-4-7-2">III.7.b. Problème général du mécénat au <span class="num">xx<sup>e</sup></span> siècle</a>
                             </li>
                             <li class="collateral">
-                              <a href="18#body-4-7-3">Problèmes particuliers d’un mécénat européen</a>
+                              <a href="18#body-4-7-3">III.7.c. Problèmes particuliers d’un mécénat européen</a>
                             </li>
                             <li class="collateral">
-                              <a href="18#body-4-7-4">Idée d’un Conseil européen de la recherche</a>
+                              <a href="18#body-4-7-4">III.7.d. Idée d’un Conseil européen de la recherche</a>
                             </li>
                           </ul>
                         </li>
@@ -4272,7 +4344,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p147" id="p147">[p. 147]</a>
-                    <h1 class="head chapter">Il n’y a pas de « musique moderne »<a class="bookmark" href="19"> §</a></h1>
+                    <h1 class="head chapter">Il n’y a pas de « musique moderne »</h1>
                     <p class="p autofirst">
                       <i class="i">Introduction aux travaux de la Conférence européenne de compositeurs et musicologues, organisée à Rome, en avril 1954, par le Centre européen de la culture, sous la présidence d’honneur d’Igor Stravinsky.</i>
                     </p>
@@ -4324,7 +4396,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -4347,7 +4419,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -4458,7 +4530,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p151" id="p151">[p. 151]</a>
-                    <h1 class="head chapter">L’Europe, l’été…<a class="noteref" href="20#note29" id="note29_"><sup>29</sup></a><a class="bookmark" href="20"> §</a></h1>
+                    <h1 class="head chapter">L’Europe, l’été…<a class="noteref" href="20#note29" id="note29_"><sup>29</sup></a></h1>
                     <p class="p autofirst">L’Europe, l’été, devient un parc immense aux bosquets enchantés de musique.</p>
                     <p class="p">Du gracile Alhambra de Grenade aux sévères palais communaux de Pérouse, des grandes villes cossues de la plaine de Hollande derrière leurs digues aux petites places dallées de marbre de Dubrovnik dans l’enceinte de ses remparts, de Lisbonne sur l’Atlantique à Venise sur l’Adriatique, dont les théâtres baroques se ressemblent, des plages de Santander aux lacs de la Finlande, d’Édimbourg à Spolète, de Bergen à Bordeaux et d’Athènes à Stockholm, toute l’Europe en été vibre et chante, danse ou déploie les fastes de ses opéras dans les plus beaux décors du monde : ceux d’une nature humanisée par les styles de nos grandes époques.</p>
                     <p class="p">Entre ces points extrêmes de nos diversités européennes que relient une ou deux heures d’avion, au cœur du continent profondément complexe et découpé que délimitent ces villes ouvertes vers cinq mers, j’imagine maintenant que s’élève une vaste rumeur symphonique mariant le classique au moderne à travers tout le romantisme occidental. Là, ce sont quelques heures d’autoroute à travers forêts et vallées qui relient les hauts lieux de la vie musicale. Le circuit le plus intérieur pourrait partir de Lucerne, par exemple, pour remonter au nord-est par Zurich et Munich jusqu’à Bayreuth, revenir à l’ouest par Wiesbaden, Strasbourg, Besançon et Lyon. Il vous ferait traverser huit villes de festivals en moins de 1500 km. Un circuit bien plus ample, aux étapes moins serrées mais plus riches en contrastes, relierait les grandes manifestations annuelles d’Aix-en-Provence, de Florence, de Vienne, de 
@@ -4533,7 +4605,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -4556,7 +4628,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -4667,7 +4739,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p158" id="p158">[p. 158]</a>
-                    <h1 class="head chapter">Le Dialogue des cultures<a class="noteref" href="21#note30" id="note30_"><sup>30</sup></a><a class="bookmark" href="21"> §</a></h1>
+                    <h1 class="head chapter">Le Dialogue des cultures<a class="noteref" href="21#note30" id="note30_"><sup>30</sup></a></h1>
                     <p class="p autofirst">J’arrive parmi vous d’un pays montagneux au carrefour des grands axes de l’Europe, et dont la culture propre est un dialogue entretenu depuis des siècles entre trois langues, deux confessions religieuses, et vingt-cinq États « souverains » mais très étroitement fédérés. Votre situation de Libanais est peut-être encore plus complexe : car votre État, beaucoup plus jeune, s’est édifié sur trois à quatre millénaires de sédimentations raciales et religieuses. Les différences entre nous sautent aux yeux, et cependant les solutions que nous avons à trouver désormais, face au monde du <span class="num">xx<sup class="sup">e</sup></span> siècle, et sur le plan culturel tout au moins, sont à bien des égards comparables.</p>
                     <p class="p">Il m’a donc paru naturel, en recevant l’invitation du prestigieux Cénacle libanais, de choisir de parler du Dialogue des Cultures, car il me semble qu’un sujet de conférence devrait toujours être déterminé au point d’intersection de l’attente des auditeurs et des soucis majeurs de celui qui leur parle.</p>
                     <p class="p">Or quels sont mes soucis majeurs ? Si je survole d’un coup d’œil l’ensemble de mes livres, jusqu’ici, et cherche leurs principes de cohérence, je vois que j’ai toujours été personnaliste en philosophie, fédéraliste en politique, œcuménique sur le plan religieux, et que cela devait me conduire nécessairement à engager ma réflexion — et mon action — au service du mouvement d’union européenne, qui absorbe en effet le plus clair de mes jours, pour ne rien dire de mes nuits, depuis une bonne quinzaine d’années. Mais ma vision peut-être « suisse », en tout cas « dialogique » de l’Europe à construire — Europe ouverte au monde et non pas refermée sur un nationalisme pour nous périmé —, devait me conduire nécessairement à une vision plus large et universaliste, 
@@ -4828,7 +4900,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -4851,7 +4923,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -4953,6 +5025,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.11.a. Les États-nations en crise – III.11.b. La région – III.11.c. De l’Europe des régions à l’Europe fédérale – III.11.d. La Suisse – III.11.e. Le facteur temps</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-11-1	III.11.a. Les États-nations en crise (1970, Le Cheminement des esprits)
+body-4-11-2	III.11.b. La région (1970, Le Cheminement des esprits)
+body-4-11-3	III.11.c. De l’Europe des régions à l’Europe fédérale (1970, Le Cheminement des esprits)
+body-4-11-4	III.11.d. La Suisse (1970, Le Cheminement des esprits)
+body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -4962,9 +5045,9 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p175" id="p175">[p. 175]</a>
-                    <h1 class="head chapter">L’Europe des régions<a class="noteref" href="22#note31" id="note31_"><sup>31</sup></a><a class="bookmark" href="22"> §</a></h1>
-                    <section id="body-4-11-1" class="div level3 level2">
-                      <h2 class="head">Les États-nations en crise<a class="bookmark" href="22#body-4-11-1"> §</a></h2>
+                    <h1 class="head chapter">L’Europe des régions<a class="noteref" href="22#note31" id="note31_"><sup>31</sup></a></h1>
+                    <section id="body-4-11-1" class="div level2">
+                      <h2 class="head">Les États-nations en crise</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Je suis parvenu à la conviction que les hommes d’État les mieux intentionnés, les ministres, les parlementaires et la grande majorité des politologues et des économistes à leur suite ont pris le problème à l’envers : soucieux de s’appuyer sur le réel, ils ont voulu partir des États-nations tels que les a formés le <span class="num">xix<sup class="sup">e</sup></span> siècle et achevés le totalitarisme (plus ou moins déclaré selon les pays) au <span class="num">xx<sup class="sup">e</sup></span> siècle ; ils ont voulu partir de ces nations comme des « seules réalités politiques existantes » (ainsi que le répète volontiers le général de Gaulle), ils ont essayé de les unir, et ils constatent, évidemment, « qu’elles ne sont pas encore prêtes à s’unir ». Or, il est clair — il devrait être clair — qu’en tant qu’États souverains les nations ne seront jamais prêtes à s’unir !</p>
                       </blockquote>
@@ -4982,8 +5065,8 @@
                       <p class="p">R. — Tout d’abord, nous devons constater que la formule de l’État, qui bloque la construction de l’Europe, est elle-même en crise. Les exemples ne manquent pas. La Belgique, fabriquée de toutes pièces au siècle dernier, sans que l’on tienne compte des ethnies et des réalités économiques, se trouve à deux doigts de l’éclatement. En Angleterre, la régionalisation est en marche, par un retour de l’histoire. L’Italie applique lentement le processus prévu d’autonomie des régions (Sicile, Sardaigne, Val d’Aoste jusqu’ici), mais, pour l’Émilie, on craint la prise de pouvoir par les communistes, et les problèmes du Tyrol du Sud et du Mezzogiorno sont loin d’être résolus. L’Espagne a ses Basques et ses Catalans. La France enfin, type même du pays centralisé, connaît le plus fort mouvement de sens contraire en Europe. La régionalisation s’inscrit dans les programmes de deux de ses partis politiques au moins.</p>
                       <p class="p">Partout se pose le problème de la <i class="i">dimension</i>, qui est le problème clé du fédéralisme. L’État-Nation se montre à la fois trop grand et trop petit. Il est trop grand pour parvenir à animer l’ensemble de son territoire : la centralisation condamne la province au sous-développement. La participation effective des citoyens à la vie publique nécessite des unités plus restreintes que la nation, — la commune, la région. Enfin, par rapport aux tâches de dimension mondiale, l’État est trop petit. Aucun des pays européens ne peut assumer sa défense à lui seul, ni intervenir à l’échelle de la planète dans des problèmes qui intéressent tous les hommes. Une unité continentale est à cet égard indispensable.</p>
                     </section>
-                    <section id="body-4-11-2" class="div level3 level2">
-                      <h2 class="head">La région<a class="bookmark" href="22#body-4-11-2"> §</a></h2>
+                    <section id="body-4-11-2" class="div level2">
+                      <h2 class="head">La région</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Si donc on veut unir l’Europe, il faut partir d’autre chose que de ses facteurs de division, il faut bâtir sur autre chose que sur les obstacles à l’union ; il faut opérer sur un autre plan que celui, précisément, où le problème se révèle insoluble. Il faut se fonder sur ce qui est destiné à devenir demain la vraie réalité de notre société, et je vais désigner par là une unité d’un type nouveau, à la fois plus grande et plus complexe que la Cité antique, mais plus dense, mieux structurée et offrant un meilleur milieu de participation civique que la Nation telle que nous l’a léguée le siècle dernier : la Région.</p>
                       </blockquote>
@@ -4998,8 +5081,8 @@
 <a class="pb" href="#p179" id="p179">[p. 179]</a>
  aux Pays-Bas, à 100 km, de 10 %. Avec la disparition des frontières, Lille deviendra le centre d’un cercle s’étendant en France, en Belgique et en Angleterre, avec un rayon approximatif de 100 à 150 km, alors que Paris se trouve à 216 km. D’autres expériences sont en cours dans nombre de pays d’Europe. L’accent est porté sur les régions appelées encore périphériques, de leur vrai nom multinationales. Exemples : le triangle Maastricht — Liège — Aix-la-Chapelle, et la Regio Basiliensis.</p>
                     </section>
-                    <section id="body-4-11-3" class="div level3 level2">
-                      <h2 class="head">De l’Europe des régions à l’Europe fédérale<a class="bookmark" href="22#body-4-11-3"> §</a></h2>
+                    <section id="body-4-11-3" class="div level2">
+                      <h2 class="head">De l’Europe des régions à l’Europe fédérale</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Presque tout ce qui coopère, se fédère ou s’unit, en Europe, qu’il s’agisse de savants, de festivals de musique, d’Églises, de firmes, de syndicats, de sports, coopère, se fédère ou s’unit en dehors des initiatives de l’État, par-dessus, par-dessous et à travers les frontières nationales, chaque jour un peu moins efficaces.</p>
                       </blockquote>
@@ -5018,8 +5101,8 @@
                       <p class="p">Le moment révolutionnaire interviendra quand il faudra se décider entre deux volontés affrontées. Lorsque les citoyens des régions auront à choisir entre leurs réalités et la fiction stato-nationale.</p>
                       <p class="p">Cette démarche complexe, maintenant l’existence d’institutions parfois incompatibles, est nécessaire si l’on ne veut pas s’enfermer dans le cercle vicieux suivant : les régions ne pourront jamais se constituer tant que n’existera pas une autorité fédérale pour les imposer aux États ; mais l’autorité fédérale ne se formera pas tant que les États-nations seront ce qu’ils sont et que les régions ne les diviseront pas pour préparer la géographie de la nouvelle Europe. L’État-Nation disparaîtra donc, de lui-même, au terme du processus de régionalisation. Il tombera en désuétude. L’État n’a rien d’éternel. Il n’est pas « conforme à la nature des choses », comme le veulent encore trop de chefs… d’État.</p>
                     </section>
-                    <section id="body-4-11-4" class="div level3 level2">
-                      <h2 class="head">La Suisse<a class="bookmark" href="22#body-4-11-4"> §</a></h2>
+                    <section id="body-4-11-4" class="div level2">
+                      <h2 class="head">La Suisse</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Nous n’en sommes encore qu’à l’aube de la formation des régions, qui seront les éléments de l’Europe à venir, mais déjà nous touchons au crépuscule des États-nations.</p>
                       </blockquote>
@@ -5033,8 +5116,8 @@
 <a class="pb" href="#p183" id="p183">[p. 183]</a>
  recréer des États factices. Le régionalisme suppose une renaissance du civisme dans le cadre de préoccupations accessibles aux citoyens. Il doit donc surgir de la région elle-même, qui prend conscience de ses devoirs. Il faut désormais partir des réalités et non du mythe national.</p>
                     </section>
-                    <section id="body-4-11-5" class="div level3 level2">
-                      <h2 class="head">Le facteur temps<a class="bookmark" href="22#body-4-11-5"> §</a></h2>
+                    <section id="body-4-11-5" class="div level2">
+                      <h2 class="head">Le facteur temps</h2>
                       <p class="p">— <i class="i">Les Européens sont pressés de faire l’Europe. Leur impatience est légitime. Une certaine unité s’est déjà créée avec l’aide des États. Alors : quelle Europe se fera le plus vite, celle des États ou celle des régions</i> ?</p>
                       <p class="p">R. — Nous avons déjà constaté qu’au point de vue politique l’unité fondée sur les États-nations est en panne depuis vingt ans ! N’importe quel autre système d’édification a des chances d’être plus rapide. D’ailleurs, le processus de régionalisation est beaucoup plus avancé qu’on ne le pense généralement. Je crois qu’en définitive on ne construira même pas une Europe supranationale — difficilement réalisable — mais une Europe non nationale, mieux encore : métanationale, celle des Régions précisément.</p>
                     </section>
@@ -5067,7 +5150,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -5090,7 +5173,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -5140,19 +5223,19 @@
                           <a href="#">III.11. L’Europe des régions</a>
                           <ul>
                             <li class="collateral">
-                              <a href="22#body-4-11-1">Les États-nations en crise</a>
+                              <a href="22#body-4-11-1">III.11.a. Les États-nations en crise</a>
                             </li>
                             <li class="collateral">
-                              <a href="22#body-4-11-2">La région</a>
+                              <a href="22#body-4-11-2">III.11.b. La région</a>
                             </li>
                             <li class="collateral">
-                              <a href="22#body-4-11-3">De l’Europe des régions à l’Europe fédérale</a>
+                              <a href="22#body-4-11-3">III.11.c. De l’Europe des régions à l’Europe fédérale</a>
                             </li>
                             <li class="collateral">
-                              <a href="22#body-4-11-4">La Suisse</a>
+                              <a href="22#body-4-11-4">III.11.d. La Suisse</a>
                             </li>
                             <li class="collateral">
-                              <a href="22#body-4-11-5">Le facteur temps</a>
+                              <a href="22#body-4-11-5">III.11.e. Le facteur temps</a>
                             </li>
                           </ul>
                         </li>
@@ -5218,7 +5301,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p184" id="p184">[p. 184]</a>
-                    <h1 class="head chapter">Fécondité des études régionales<a class="bookmark" href="23"> §</a></h1>
+                    <h1 class="head chapter">Fécondité des études régionales</h1>
                     <p class="p autofirst">La Région, unité opérationnelle du fédéralisme européen, sera sans doute le thème politique le plus important des prochaines décennies. Mais en même temps, les études régionales paraissent propres à renouveler non seulement la méthode, mais les conditions concrètes d’un grand nombre d’activités culturelles en Europe.</p>
                     <p class="p">En effet, les maladies et dysfonctions de la culture européenne au <span class="num">xx<sup class="sup">e</sup></span> siècle ont presque toutes pour origine les impératifs du stato-nationalisme tel qu’il s’est constitué de Napoléon à Hitler : régime anémiant des « cultures nationales », obstacles aux échanges de tous ordres, persécution des minorités, conformismes idéologiques imposés par l’enseignement étatique, budgets culturels dérisoires, mainmise des fonctionnaires sur l’université.</p>
                     <p class="p">Or, un fédéralisme fondé sur les Régions paraît propre à fournir la seule alternative, terme à terme, au stato-nationalisme fauteur de cloisonnements moraux ou douaniers qui ne protègent que la médiocrité.</p>
@@ -5266,7 +5349,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -5289,7 +5372,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>
@@ -5401,7 +5484,7 @@
                   <article role="article">
                     <a class="pb" href="#p188" id="p188">[p. 188]</a>
                     <h1 class="head chapter">Postface
-          <br class="lb"/>L’écrivain et l’événement<a class="noteref" href="24#note32" id="note32_"><sup>32</sup></a><a class="bookmark" href="24"> §</a></h1>
+          <br class="lb"/>L’écrivain et l’événement<a class="noteref" href="24#note32" id="note32_"><sup>32</sup></a></h1>
                     <p class="p autofirst">J’ai longtemps réfléchi aux rapports de l’écrivain et de l’événement se définissant l’un par l’autre, se mettant l’un l’autre en question. Mon premier livre paru à Paris s’ouvrait par un chapitre sur « l’engagement du clerc », sa nécessité et sa vanité, voire son « ridicule » toujours possible. Depuis ce temps lointain, la notion d’engagement a fait demi-tour dans l’esprit du public : on croit bonnement qu’un auteur engagé est celui qui s’en est remis une fois pour toutes à la politique d’un Parti, quand il s’agit de prendre une position publique. L’engagement supposait à mon sens tout le contraire : <i class="i">responsabilité</i> pleine et entière -— non seulement publiée mais assumée, non seulement frondeuse mais aimante et, à l’extrême, sacrificielle — d’une personne et de sa pensée en corps à corps avec l’époque. « Présence au monde et à soi-même conjointement », disais-je en 1932. Mais on a glissé depuis lors à un sens partisan ou militaire du terme. Mon sens était plutôt poétique, si j’ose dire, moral, philosophique et religieux. De l’intime à l’ultime, il supposait un passage obligé par le « proxime », la proximité, le prochain, c’est-à-dire la Cité humaine, et ce passage était le lieu de l’engagement. Est-il encore praticable ? Autrement dit : quelle peut être aujourd’hui, au fait et au prendre, la responsabilité de l’écrivain dans la Cité ?</p>
                     <p class="p">Responsable est celui qui peut dire, dans une situation donnée : j’en réponds ! Mais de quoi l’écrivain comme tel peut-il répondre, sinon de son œuvre elle-même, de sa pensée et de son style ? C’est par son œuvre et non par quelque prise de position occasionnelle face à l’événement historique qu’un écrivain est engagé ou non. Dans le fait, dans le concret vécu, il n’y a pas l’écrivain d’un côté et l’événement de l’autre, deux 
 <a class="pb" href="#p189" id="p189">[p. 189]</a>
@@ -5450,7 +5533,7 @@
                       <div>I. Historique</div>
                       <ul>
                         <li class="collateral">
-                          <a href="2">I.1 Le mouvement européen</a>
+                          <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -5473,7 +5556,7 @@
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
                         <li class="collateral">
-                          <a href="8">II.2. Préface à « L’Œuvre du<span class="num">xx<sup>e</sup></span> siècle »</a>
+                          <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
                         </li>
                         <li class="collateral">
                           <a href="9">II.3. Conclusions sur l’avenir et la liberté de la culture</a>

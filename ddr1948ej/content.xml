@@ -38,6 +38,14 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>1.a. Les maladies de l’Europe – 1.b. Choisir l’Europe</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-1-1	1.a. Les maladies de l’Europe (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-1-2	1.b. Choisir l’Europe (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -49,7 +57,6 @@
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
                     <h1 class="head chapter">
                       <span class="num">I</span>
-                      <a class="bookmark" href="1"> §</a>
                     </h1>
                     <p class="p autofirst">Le premier des discours que l’on rassemble ici décrit la situation de l’Europe au lendemain de sa libération. Le second propose une doctrine pour la reconstruction du continent. Et le troisième s’inscrit dans une action — dont les Documents de La Haye indiquent l’orientation présente. Tel est le progrès de ce petit ouvrage. S’il est rapide, c’est que les événements ont marché vite, depuis deux ans.</p>
                     <p class="p">Dès mes premiers écrits, vers 1932, je n’ai cessé d’appeler l’union de l’Europe au nom de la doctrine fédéraliste. Je trouvais cette doctrine impliquée dans une philosophie de la personne, que nous étions quelques-uns à construire en pleine marée totalitaire. Je la voyais à l’œuvre en Suisse, pays où la vie politique épouse mieux que nulle part ailleurs les réalités quotidiennes. Je me sentais sur un terrain solide ; mais je n’y rencontrais pas 
@@ -64,7 +71,7 @@
                     <p class="p">Dans la conférence qu’on va lire, je m’efforçai de confronter ma « politique de la personne » et la doctrine fédéraliste qui en résulte, avec les réalités européennes nées de la guerre et de la résistance.</p>
                     <section id="body-1-1" class="div level2">
                       <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                      <h2 class="head">Les maladies de l’Europe<a class="bookmark" href="1#body-1-1"> §</a></h2>
+                      <h2 class="head">Les maladies de l’Europe</h2>
                       <p class="p autofirst">On m’a prié de vous parler ce soir d’une Europe à laquelle je reviens après six ans d’absence, et certains événements. L’émotion de pareils revoirs rend souvent malaisé l’échange de la parole, mais donne aussi parfois, au tout premier regard, une lucidité sans recours.</p>
                       <p class="p">Vous prenez cette amie dans vos bras, vous ne trouvez à dire que des phrases banales : « Viens ici qu’on se voie un peu. Eh bien tu n’as pas trop changé ! » Mais, d’un coup d’œil, vous avez lu toute son histoire.</p>
                       <p class="p">Ainsi j’ai retrouvé l’Europe. Sur son visage et dans son expression certains traits accusés et tendus, mais aussi une certaine anxiété, peut-être une lassitude, semblaient dire : « Me voilà, c’est ainsi, tu devais t’y attendre, compte mes rides, et si tu veux m’aimer regarde bien d’abord qui je suis devenue ! »</p>
@@ -238,7 +245,7 @@
                     </section>
                     <section id="body-1-2" class="div level2">
                       <a class="pb" href="#p51" id="p51">[p. 51]</a>
-                      <h2 class="head">Choisir l’Europe<a class="bookmark" href="1#body-1-2"> §</a></h2>
+                      <h2 class="head">Choisir l’Europe</h2>
                       <p class="p autofirst">Les uns nous disent que le choix est fatal entre l’URSS et les USA, et les autres refusent le choix, parce qu’il mènerait fatalement à la guerre. Pour les premiers, l’Europe n’est plus rien par elle-même et devrait s’attacher au plus vite soit au bloc russe soit au dollar américain. Mais les seconds proclament qu’ils ne choisiront pas entre la peste et le choléra, et qu’ils tiennent la balance égale entre le refus du stalinisme et le refus de « l’américanisme », cette fausse fenêtre pour la symétrie. Tel est le dialogue qui se poursuit depuis des mois : choisir ou non entre les Blocs. Tout cela repose sur l’idée simple que nous sommes pris entre deux grands empires également impérialistes, également avides de nous coloniser, donc également dangereux pour nous.</p>
                       <p class="p">Avons-nous bien regardé les faits ? Existe-t-il vraiment deux <i class="i">blocs</i> ?</p>
                       <p class="p">
@@ -285,10 +292,10 @@
                       </a>
                       <ul>
                         <li class="collateral">
-                          <a href="1#body-1-1">Les maladies de l’Europe</a>
+                          <a href="1#body-1-1">1.a. Les maladies de l’Europe</a>
                         </li>
                         <li class="collateral">
-                          <a href="1#body-1-2">Choisir l’Europe</a>
+                          <a href="1#body-1-2">1.b. Choisir l’Europe</a>
                         </li>
                       </ul>
                     </li>
@@ -352,6 +359,15 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>2.a. L’attitude fédéraliste – 2.b. Clichés mortels – 2.c. L’Europe nécessaire</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-2-1	2.a. L’attitude fédéraliste (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-2-2	2.b. Clichés mortels (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-2-3	2.c. L’Europe nécessaire (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -363,13 +379,12 @@
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
                     <h1 class="head chapter">
                       <span class="num">II</span>
-                      <a class="bookmark" href="2"> §</a>
                     </h1>
                     <p class="p autofirst">Une seconde étape de la prise de conscience qui forme le sujet de ce recueil fut marquée à Montreux, un an après les Rencontres internationales, par le congrès de l’Union européenne des Fédéralistes. Les délégués d’une cinquantaine d’associations diverses, venus de seize nations de l’Europe, y témoignèrent de leur commune volonté de promouvoir l’union du continent, sur la base des principes fédéralistes illustrés par le pays même dans lequel ils se rassemblaient.</p>
                     <p class="p">La conférence qui suit fut prononcée en guise d’introduction aux travaux du Congrès. On y a joint deux articles destinés à réfuter les objections les plus courantes du scepticisme ou des routines politiciennes.</p>
                     <section id="body-2-1" class="div level2">
                       <a class="pb" href="#p59" id="p59">[p. 59]</a>
-                      <h2 class="head">L’attitude fédéraliste<a class="bookmark" href="2#body-2-1"> §</a></h2>
+                      <h2 class="head">L’attitude fédéraliste</h2>
                       <p class="p autofirst">Les organisateurs de ce congrès ont voulu qu’il s’ouvrît par une étude des fondements spirituels du fédéralisme. Le danger que présente un tel sujet, c’est qu’il risque d’entraîner à des généralisations théoriques ; or, <i class="i">rien n’est plus contraire à l’essence même du fédéralisme que l’esprit théorique et les généralisations.</i> Et cette phrase résume assez bien le principal de ce que j’aurai à dire ce soir.</p>
                       <p class="p">J’ai toujours éprouvé de la répugnance à séparer les valeurs spirituelles de leur incarnation dans les réalités humaines. J’essaierai donc de définir l’esprit fédéraliste d’une manière indirecte, par implication, et je m’en tiendrai le plus possible à ses manifestations concrètes, telles que nous pouvons les observer et les contrôler de très près dans une expérience bien connue : celle de la Confédération helvétique.</p>
                       <p class="p">
@@ -490,7 +505,7 @@
                     </section>
                     <section id="body-2-2" class="div level2">
                       <a class="pb" href="#p85" id="p85">[p. 85]</a>
-                      <h2 class="head">Clichés mortels<a class="bookmark" href="2#body-2-2"> §</a></h2>
+                      <h2 class="head">Clichés mortels</h2>
                       <p class="p autofirst">Après le congrès de Montreux, plusieurs personnes me dirent en souriant assez gentiment : « Vous avez donc pris part à ces parlotes ? Encore un congrès d’utopistes, de généreux assembleurs de nuées ! L’Europe unie, bien sûr, d’accord, mais c’est un plan prématuré. »</p>
                       <p class="p">Or, je venais d’assister aux débats les moins verbeux et les plus réalistes qu’il soit permis d’imaginer de nos jours, et ils portaient sur la question qui est sans nul doute la plus urgente de l’heure. Je le dis à ces personnes, de toute ma conviction, mais je vis bien qu’elles demeuraient sceptiques, et qu’elles se disposaient à répéter partout les mêmes clichés désabusés. Aucune d’entre elles n’eût avoué qu’elle préférait la guerre à la fédération (puisque telle est l’alternative), mais toutes étaient victimes d’une manière de penser bien plus tenace qu’une opinion : 
 <a class="pb" href="#p86" id="p86">[p. 86]</a>
@@ -512,50 +527,42 @@
                     </section>
                     <section id="body-2-3" class="div level2">
                       <a class="pb" href="#p89" id="p89">[p. 89]</a>
-                      <h2 class="head">L’Europe nécessaire<a class="bookmark" href="2#body-2-3"> §</a></h2>
+                      <h2 class="head">L’Europe nécessaire</h2>
                       <p class="p autofirst">On me dit encore : « Vous y croyez, à cette fédération de l’Europe ? » Je réponds qu’il s’agit plutôt de la vouloir.</p>
                       <p class="p">« Mais pourquoi, me dit-on, faudrait-il la vouloir ? » Je réponds qu’il n’y a qu’à regarder l’Europe, qu’à dresser son bilan de misères, qu’à voir la place qu’elle tient encore ou ne tient déjà plus dans le monde actuel. Et je propose quelques observations très simples, qu’il suffit de grouper pour qu’elles parlent clairement, et d’ordonner pour qu’un mot d’ordre s’en dégage.</p>
-                      <section id="body-2-3-1" class="div level3">
-                        <h3 class="head">Quelques faits<a class="bookmark" href="2#body-2-3-1"> §</a></h3>
-                        <p class="p autofirst">La fédération de l’Europe est inscrite dans les faits les plus neufs de ce siècle, les uns techniques, les autres politiques. Si tout le monde ne le voit pas d’un coup d’œil, c’est que « l’homme 
+                      <p class="label">Quelques faits</p>
+                      <p class="p autofirst">La fédération de l’Europe est inscrite dans les faits les plus neufs de ce siècle, les uns techniques, les autres politiques. Si tout le monde ne le voit pas d’un coup d’œil, c’est que « l’homme 
 <a class="pb" href="#p90" id="p90">[p. 90]</a>
  moderne est démodé » comme l’a dit un Américain : sa conscience est en retard sur le milieu nouveau, sur les périls certains et les bienfaits possibles instaurés par sa propre science. L’homme moderne pense encore dans le cadre des nations, quand le jeu des forces réelles est international et opère à l’échelle des continents. Il pense encore en kilomètres, séparant des points immobiles, quand la mesure pratique est l’heure de vol. Il médite sur la carte des frontières, dont les réseaux de l’air ne tiennent pas compte. S’il posait son atlas pour faire tourner un globe, il verrait que le plus court chemin de l’Amérique à la Russie ne passe plus par l’Europe, mais par le pôle. La radio, l’aviation, l’économie, redistribuent nos voisinages en même temps qu’elles les rendent plus étroits. L’Europe est plus petite que nous ne pensions, le monde plus grand. Nos descendants s’étonneront bien que Valéry ait pu nous étonner en notant que l’Europe n’est qu’un cap de l’Asie.</p>
-                        <p class="p">À ces faits matériels vient s’ajouter le grand fait politique des deux Empires, qui ont un air de vouloir se partager le monde. En 1939, il y avait en présence l’Allemagne et les démocraties : tout se passait entre nous Européens, nous sentions donc surtout nos divisions. Aujourd’hui, les Deux 
+                      <p class="p">À ces faits matériels vient s’ajouter le grand fait politique des deux Empires, qui ont un air de vouloir se partager le monde. En 1939, il y avait en présence l’Allemagne et les démocraties : tout se passait entre nous Européens, nous sentions donc surtout nos divisions. Aujourd’hui, les Deux 
 <a class="pb" href="#p91" id="p91">[p. 91]</a>
  Grands ont paru dans leur force : tout se passe en dehors de nous, tout nous menace ensemble, et nous pousse à l’union.</p>
-                      </section>
-                      <section id="body-2-3-2" class="div level3">
-                        <h3 class="head">Notre vocation<a class="bookmark" href="2#body-2-3-2"> §</a></h3>
-                        <p class="p autofirst">Deux mondes sont en présence, que nous n’approuvons pas, pour des raisons d’ailleurs très inégales. L’un est collectiviste, l’autre individualiste. Dans notre immense majorité, nous refusons le premier, nous nous méfions du second. Notre idée de l’homme n’est pas celle du Kremlin, ni celle du businessman américain. Nous ne voulons pas d’un régime de terreur, de parole asservie, d’épuration à froid, de discipline d’acier (c’est le nom de Staline) et de diplomatie à coups de marteau (c’est le nom choisi par Molotov). Nous ne voulons pas de la dictature d’un seul parti, qui ne représente qu’un quart du corps électoral dans les pays où il est le plus fort, et qui ne peut faire notre unité que sur nos ruines, par l’occupation russe, et dans les camps. Vis-à-vis de l’Amérique, notre attitude doit être, évidemment, bien différente. Nous avons besoin d’elle matériellement, mais elle a besoin de nous spirituellement. Et si son aide économique nous trouvait complaisants ou serviles dans le domaine des mœurs 
+                      <p class="label">Notre vocation</p>
+                      <p class="p autofirst">Deux mondes sont en présence, que nous n’approuvons pas, pour des raisons d’ailleurs très inégales. L’un est collectiviste, l’autre individualiste. Dans notre immense majorité, nous refusons le premier, nous nous méfions du second. Notre idée de l’homme n’est pas celle du Kremlin, ni celle du businessman américain. Nous ne voulons pas d’un régime de terreur, de parole asservie, d’épuration à froid, de discipline d’acier (c’est le nom de Staline) et de diplomatie à coups de marteau (c’est le nom choisi par Molotov). Nous ne voulons pas de la dictature d’un seul parti, qui ne représente qu’un quart du corps électoral dans les pays où il est le plus fort, et qui ne peut faire notre unité que sur nos ruines, par l’occupation russe, et dans les camps. Vis-à-vis de l’Amérique, notre attitude doit être, évidemment, bien différente. Nous avons besoin d’elle matériellement, mais elle a besoin de nous spirituellement. Et si son aide économique nous trouvait complaisants ou serviles dans le domaine des mœurs 
 <a class="pb" href="#p92" id="p92">[p. 92]</a>
  et de la culture, elle y perdrait autant que nous. L’Europe a dépassé le stade de l’individualisme économique. Son rôle est d’inventer un régime neuf, plus souple et plus humain que la dictature russe, mais guéri de l’obsession de l’argent qui dénature les libertés américaines ; un régime qui traduise en politique, dans l’économie et les mœurs, l’idée de l’homme commune aux peuples de l’Europe : ni l’individu sans devoirs, ni le soldat politique sans droits, mais la personne à la fois libre et engagée, l’homme qui sait ce qu’il se doit et ce qu’il doit aux autres.</p>
-                        <p class="p">Voilà ce que cherchent dans tous nos pays les meilleures têtes, j’entends les moins sectaires et les plus réalistes : cet équilibre souple et sans cesse réajusté entre deux exigences contradictoires mais également essentielles à la vie, qui s’appellent l’unité et la diversité, la sécurité et le risque, la vie privée et le service public, la centralisation et la libre entreprise, l’<i class="i">un pour tous et le tous pour un</i>. Voilà la vocation de l’Europe.</p>
-                        <p class="p">Or il est clair qu’aucune de nos nations n’est en mesure de la réaliser pour son seul compte et sans échanges. Aucune n’est assez riche et assez forte pour réussir sans ses voisins, ou pour résister seule aux pressions impériales. Et l’idée de coopération qui serait au cœur de ce régime social, et 
+                      <p class="p">Voilà ce que cherchent dans tous nos pays les meilleures têtes, j’entends les moins sectaires et les plus réalistes : cet équilibre souple et sans cesse réajusté entre deux exigences contradictoires mais également essentielles à la vie, qui s’appellent l’unité et la diversité, la sécurité et le risque, la vie privée et le service public, la centralisation et la libre entreprise, l’<i class="i">un pour tous et le tous pour un</i>. Voilà la vocation de l’Europe.</p>
+                      <p class="p">Or il est clair qu’aucune de nos nations n’est en mesure de la réaliser pour son seul compte et sans échanges. Aucune n’est assez riche et assez forte pour réussir sans ses voisins, ou pour résister seule aux pressions impériales. Et l’idée de coopération qui serait au cœur de ce régime social, et 
 <a class="pb" href="#p93" id="p93">[p. 93]</a>
  qui inspire partout sa recherche, ne saurait s’arrêter aux frontières d’un pays. Voilà donc le fédéralisme.</p>
-                      </section>
-                      <section id="body-2-3-3" class="div level3">
-                        <h3 class="head">L’opposition<a class="bookmark" href="2#body-2-3-3"> §</a></h3>
-                        <p class="p autofirst">Il semble à première vue qu’un tel programme soit si clairement inscrit dans les données du siècle, et si lisible aux meilleures volontés, qu’il ne puisse provoquer d’opposition foncière. Qui oserait dire : « Je veux une Europe désunie ! Je veux que nos rivalités se perpétuent ! Je veux que nos pays s’effondrent un à un, en toute souveraineté nationale, qu’ils se cantonnent dans le double refus de l’Amérique et de la Russie, qu’ils y ajoutent un troisième refus, celui de l’Europe, jusqu’à ce qu’ils soient dûment colonisés ! »</p>
-                        <p class="p">Personne n’ose dire cela, ou comme cela. Mais certains le pensent, et finissent par le dire, d’une manière un peu différente : « Vous y croyez, à cette fédération de l’Europe ?… »</p>
-                        <p class="p">Derrière ce scepticisme en quête d’un sourire complice ou gêné (tant de gens ont une peur bleue de passer pour utopistes et d’avoir l’air de croire un peu à quelque chose) se cachent en réalité trois formes de sabotage : nationalisme, défaitisme, et stalinisme. Le nationalisme n’est, en fait, qu’une crispation de névrose féodale, un 
+                      <p class="label">L’opposition</p>
+                      <p class="p autofirst">Il semble à première vue qu’un tel programme soit si clairement inscrit dans les données du siècle, et si lisible aux meilleures volontés, qu’il ne puisse provoquer d’opposition foncière. Qui oserait dire : « Je veux une Europe désunie ! Je veux que nos rivalités se perpétuent ! Je veux que nos pays s’effondrent un à un, en toute souveraineté nationale, qu’ils se cantonnent dans le double refus de l’Amérique et de la Russie, qu’ils y ajoutent un troisième refus, celui de l’Europe, jusqu’à ce qu’ils soient dûment colonisés ! »</p>
+                      <p class="p">Personne n’ose dire cela, ou comme cela. Mais certains le pensent, et finissent par le dire, d’une manière un peu différente : « Vous y croyez, à cette fédération de l’Europe ?… »</p>
+                      <p class="p">Derrière ce scepticisme en quête d’un sourire complice ou gêné (tant de gens ont une peur bleue de passer pour utopistes et d’avoir l’air de croire un peu à quelque chose) se cachent en réalité trois formes de sabotage : nationalisme, défaitisme, et stalinisme. Le nationalisme n’est, en fait, qu’une crispation de névrose féodale, un 
 <a class="pb" href="#p94" id="p94">[p. 94]</a>
  complexe de repli devant les réalités qui dominent aujourd’hui la planète. Le défaitisme consiste à déclarer que la guerre des deux blocs est fatale : inutile de rien faire en l’attendant, et surtout pas quelque chose qui l’empêche ! Enfin le stalinisme a décrété que l’union de l’Europe est anti-russe, ce qui est la manière stalinienne de dire que la Russie ne veut pas la paix de l’Europe.</p>
-                        <p class="p">Il n’y a donc plus qu’à faire l’Europe sans l’URSS. Les sceptiques rejoindront un jour, les défaitistes auront perdu comme il se doit, et les nationalistes feront l’opposition, indispensable à tout régime démocratique.</p>
-                      </section>
-                      <section id="body-2-3-4" class="div level3">
-                        <h3 class="head">Un grand but commun<a class="bookmark" href="2#body-2-3-4"> §</a></h3>
-                        <p class="p autofirst">Le refus sur deux fronts n’est pas une politique. Quand il est autre chose que l’effet naturel d’une grande affirmation centrale, il n’est même pas un vrai refus : il ne peut mener qu’à accepter par force ce qu’on a combattu dans la faiblesse, au nom de rien.</p>
-                        <p class="p">Mais où est la grande affirmation centrale, le grand but de cette <i class="i">drôle de paix</i> ? À quel plan nous vouer ? À quelle doctrine nouvelle consacrer ce besoin d’engagement que les totalitaires ne demandent qu’à tromper ? Ils donnent des mitraillettes 
+                      <p class="p">Il n’y a donc plus qu’à faire l’Europe sans l’URSS. Les sceptiques rejoindront un jour, les défaitistes auront perdu comme il se doit, et les nationalistes feront l’opposition, indispensable à tout régime démocratique.</p>
+                      <p class="label">Un grand but commun</p>
+                      <p class="p autofirst">Le refus sur deux fronts n’est pas une politique. Quand il est autre chose que l’effet naturel d’une grande affirmation centrale, il n’est même pas un vrai refus : il ne peut mener qu’à accepter par force ce qu’on a combattu dans la faiblesse, au nom de rien.</p>
+                      <p class="p">Mais où est la grande affirmation centrale, le grand but de cette <i class="i">drôle de paix</i> ? À quel plan nous vouer ? À quelle doctrine nouvelle consacrer ce besoin d’engagement que les totalitaires ne demandent qu’à tromper ? Ils donnent des mitraillettes 
 <a class="pb" href="#p95" id="p95">[p. 95]</a>
  à ceux qui veulent du pain, une discipline aveugle à ceux qui cherchent un ordre, et le camp de concentration à ceux qui rêvent encore de restaurer le sens communautaire. En dehors d’eux, rien n’a paru depuis la guerre, qu’ils avaient eux-mêmes déclenchée. Et nous savons pourtant que nous sommes plus libres qu’eux, et plus sages que les Américains. Mais nous restons les bras ballants, regardant à droite et à gauche comme s’il n’y avait rien devant nous. Quand le monde attend de nous l’invention pacifiante et la formule d’un ordre neuf… Où irons-nous ?</p>
-                        <p class="p">Seul, le fédéralisme ouvre des voies nouvelles. Seul il peut surmonter — voyez la Suisse — les vieux conflits de races, de langues et de religions sclérosés dans le nationalisme, et le problème des minorités. Et surtout, il peut dépasser l’opposition chaque jour moins convaincante d’une gauche qui défend la contrainte et d’une droite qui revendique les libertés : le but, l’essence de la pensée fédéraliste étant précisément de trouver les moyens d’articuler, d’<i class="i">arranger</i> sans les tuer, les diversités de tous ordres (politiques aussi bien qu’économiques) dans un corps, non dans un carcan. Ce qui est la politique par excellence, n’en déplaise aux sectaires de tous bords.</p>
-                        <p class="p">
+                      <p class="p">Seul, le fédéralisme ouvre des voies nouvelles. Seul il peut surmonter — voyez la Suisse — les vieux conflits de races, de langues et de religions sclérosés dans le nationalisme, et le problème des minorités. Et surtout, il peut dépasser l’opposition chaque jour moins convaincante d’une gauche qui défend la contrainte et d’une droite qui revendique les libertés : le but, l’essence de la pensée fédéraliste étant précisément de trouver les moyens d’articuler, d’<i class="i">arranger</i> sans les tuer, les diversités de tous ordres (politiques aussi bien qu’économiques) dans un corps, non dans un carcan. Ce qui est la politique par excellence, n’en déplaise aux sectaires de tous bords.</p>
+                      <p class="p">
 <a class="pb" href="#p96" id="p96">[p. 96]</a>
  L’heure est venue d’appeler pour ce nouveau destin tous les peuples du continent, et de dresser devant eux l’image pacifiante vers laquelle dès maintenant nous déclarons marcher : une Europe solidement fédérée, au service de la liberté et des droits de l’homme universels. Sur cette union, l’Europe joue son destin, et chacun de nous, et le monde avec elle.</p>
-                        <p class="p">Menacée, déchirée, déjà diminuée, l’Europe finit demain, si elle n’entend pas l’appel, ou ne sait y répondre assez tôt.</p>
-                        <p class="p">Mais rassemblée, rendue à sa vraie vocation, dans le monde des empires affrontés, <i class="i">l’Europe commence demain</i>, et la paix avec elle.</p>
-                      </section>
+                      <p class="p">Menacée, déchirée, déjà diminuée, l’Europe finit demain, si elle n’entend pas l’appel, ou ne sait y répondre assez tôt.</p>
+                      <p class="p">Mais rassemblée, rendue à sa vraie vocation, dans le monde des empires affrontés, <i class="i">l’Europe commence demain</i>, et la paix avec elle.</p>
                     </section>
                   </article>
                 ]]></content>
@@ -582,27 +589,13 @@
                       </a>
                       <ul>
                         <li class="collateral">
-                          <a href="2#body-2-1">L’attitude fédéraliste</a>
+                          <a href="2#body-2-1">2.a. L’attitude fédéraliste</a>
                         </li>
                         <li class="collateral">
-                          <a href="2#body-2-2">Clichés mortels</a>
+                          <a href="2#body-2-2">2.b. Clichés mortels</a>
                         </li>
                         <li class="collateral">
-                          <a href="2#body-2-3">L’Europe nécessaire</a>
-                          <ul>
-                            <li class="collateral">
-                              <a href="2#body-2-3-1">Quelques faits</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="2#body-2-3-2">Notre vocation</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="2#body-2-3-3">L’opposition</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="2#body-2-3-4">Un grand but commun</a>
-                            </li>
-                          </ul>
+                          <a href="2#body-2-3">2.c. L’Europe nécessaire</a>
                         </li>
                       </ul>
                     </li>
@@ -661,6 +654,14 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>3.a. L’aventure du xxe siècle – 3.b. Le Congrès de La Haye ou la voix de l’Europe</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	3.a. L’aventure du xxe siècle (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-3-2	3.b. Le Congrès de La Haye ou la voix de l’Europe (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -672,7 +673,6 @@
                     <a class="pb" href="#p97" id="p97">[p. 97]</a>
                     <h1 class="head chapter">
                       <span class="num">III</span>
-                      <a class="bookmark" href="3"> §</a>
                     </h1>
                     <p class="p autofirst">Le Congrès de Montreux n’était pas terminé que l’idée naissait, chez les Fédéralistes, d’en élargir l’action et le retentissement en convoquant, pour le printemps de l’année suivante, des États généraux de l’Europe. Les observateurs envoyés par le <i class="i">United Europe Committee</i> déclarèrent que le président de ce mouvement, Winston Churchill, avait également l’intention de provoquer la réunion d’un congrès pour l’Europe unie. Il ne s’agissait pas, dans son esprit, d’une entreprise « fédéraliste » au sens précis du terme qu’on vient de définir, mais plutôt d’une action de propagande destinée à faciliter « l’union » des États de l’Europe, que Churchill avait réclamée dans son grand discours de Zurich.</p>
                     <p class="p">C’est de ces deux initiatives indépendantes, et de leur rencontre à Montreux, que devait naître le Congrès de La Haye.</p>
@@ -682,7 +682,7 @@
                     <p class="p">C’est à la période de préparation du Congrès de La Haye qu’appartient la conférence sur <i class="i">l’Aventure de l’Europe</i> prononcée à la Sorbonne le 22 avril 1948. Elle reflète la lutte entre les tendances « unioniste » et « fédéraliste » qui devait animer les débats de La Haye, et qui se révéla souvent féconde au cours de nos travaux préparatoires.</p>
                     <section id="body-3-1" class="div level2">
                       <a class="pb" href="#p99" id="p99">[p. 99]</a>
-                      <h2 class="head">L’aventure du <span class="num">xx<sup class="sup">e</sup></span> siècle<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                      <h2 class="head">L’aventure du <span class="num">xx<sup class="sup">e</sup></span> siècle</h2>
                       <p class="p autofirst">Je ne suis pas ici, ce soir, pour vous parler d’une utopie, mais au contraire pour vous parler d’une aventure où nous sommes, dès maintenant, bel et bien engagés : la fédération de l’Europe.</p>
                       <p class="p">Il y a l’utopie de l’Europe, et il y a l’aventure de l’Europe. Cette distinction fondamentale, vous allez le voir, correspond à deux attitudes entre lesquelles nous aurons à choisir dans un délai que la situation du monde rend très court.</p>
                       <p class="p">La faiblesse générale des utopies, c’est qu’elles sont en réalité moins riches d’avenir que le présent. Je dirai même, sans trop de paradoxe, que <i class="i">l’utopie peut se définir en général comme un système sans avenir.</i></p>
@@ -831,7 +831,7 @@
                     </section>
                     <section id="body-3-2" class="div level2">
                       <a class="pb" href="#p125" id="p125">[p. 125]</a>
-                      <h2 class="head">Le Congrès de La Haye ou la voix de l’Europe<a class="bookmark" href="3#body-3-2"> §</a></h2>
+                      <h2 class="head">Le Congrès de La Haye ou la voix de l’Europe</h2>
                       <p class="p autofirst">Cette architecture de grandes poutres, chevrons et traverses sculptés, soutenant un toit immense, tout là-haut, j’ai rêvé un instant qu’à douze ans, avec mes petits camarades, nous sautions d’une poutre à l’autre, sans regarder l’abîme sous nos pas… Vertige rapide. J’abaisse mes regards le long des parois blanches et nues, jusqu’à cette rangée d’écussons aux lions couchés trois par trois. Plus bas, des tapis suspendus. Au-dessus de ma tête, un large dais carré, tout tendu de soie rouge et or. J’appuie ma tête contre les plis d’un lourd rideau de velours pourpre. Qui sont ces gens autour de moi, dont les visages s’illuminent dans le faisceau des projecteurs de cinéma ? Je suis assis derrière deux rangs de dos et de nuques fascinantes qui dépassent le dossier des fauteuils. Cette nuque très large et rouge, c’est Ramadier ; cette nuque placide et blonde, 
 <a class="pb" href="#p126" id="p126">[p. 126]</a>
  c’est van Zeeland ; et cette absence de nuque, c’est Paul Reynaud. Une tête noire aux cheveux bien plaqués se penche vers un chapeau de femme — oui, c’est bien la princesse Juliana. Une nuque blanche et gonflée au-dessus d’un frac noir, Winston Churchill. À ma gauche, à ma droite, quelques profils d’amis, ce jeune ancien ministre socialiste hollandais, ce jeune ancien ministre conservateur anglais, les yeux bridés de Coudenhove, le sourire voltairien de Lord Layton, un homme en noir qui porte une longue chaîne en sautoir… Où suis-je ? À quelle époque ? Dans un rêve ? Que se passe-t-il ?</p>
@@ -986,10 +986,10 @@
                       </a>
                       <ul>
                         <li class="collateral">
-                          <a href="3#body-3-1">L’aventure du<span class="num">xx<sup>e</sup></span> siècle</a>
+                          <a href="3#body-3-1">3.a. L’aventure du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-2">Le Congrès de La Haye ou la voix de l’Europe</a>
+                          <a href="3#body-3-2">3.b. Le Congrès de La Haye ou la voix de l’Europe</a>
                         </li>
                       </ul>
                     </li>
@@ -1043,6 +1043,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>4.a. Pour un Centre européen de la culture (documents de La Haye) – 4.b. Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne – 4.c. Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle – 4.d. Message aux Européens – 4.e. Quelques chiffres</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	4.a. Pour un Centre européen de la culture (documents de La Haye) (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-4-2	4.b. Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-4-3	4.c. Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-4-4	4.d. Message aux Européens (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis de Documents de La Haye)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1054,10 +1065,9 @@
                     <a class="pb" href="#p143" id="p143">[p. 143]</a>
                     <h1 class="head chapter">
                       <span class="num">IV</span>
-                      <a class="bookmark" href="4"> §</a>
                     </h1>
                     <section id="body-4-1" class="div level2">
-                      <h2 class="head">Pour un Centre européen de la culture (documents de La Haye)<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                      <h2 class="head">Pour un Centre européen de la culture (documents de La Haye)</h2>
                       <p class="p autofirst"><i class="i">Lors de la séance plénière du Congrès de l’Europe consacrée aux problèmes de la culture, je terminai mon rôle de rapporteur de la Commission culturelle par les quelques remarques suivantes</i> : </p>
                       <p class="p">Il me semble que ce congrès, tel qu’il s’est déroulé jusqu’ici, se distingue par une double originalité.</p>
                       <p class="p">Premièrement, il est né d’initiatives privées, en toute indépendance de nos gouvernements. Il parle au nom des <i class="i">peuples</i> de l’Europe — on n’avait jamais rien vu de pareil dans notre histoire — et il entend proposer en leur nom bien autre chose que des vœux : quelque chose qui, pour nous, Européens, héritiers de la Rome antique, revêt un sens presque majestueux, je veux dire des institutions.</p>
@@ -1090,94 +1100,80 @@
                     </section>
                     <section id="body-4-2" class="div level2">
                       <a class="pb" href="#p149" id="p149">[p. 149]</a>
-                      <h2 class="head">Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne<a class="bookmark" href="4#body-4-2"> §</a></h2>
-                      <section id="body-4-2-1" class="div level3">
-                        <h3 class="head">Préambule<a class="bookmark" href="4#body-4-2-1"> §</a></h3>
-                        <p class="p">1. L’union de l’Europe apparaît nécessaire pour la sécurité de chacun de nos pays, mais aussi pour sa prospérité. Cependant, cette union resterait une utopie s’il n’existait, en deçà et au-delà de nos divisions actuelles, linguistiques, religieuses, et politiques, une entité européenne bien vivante, un sentiment commun auquel il soit possible de faire appel dès maintenant.</p>
-                        <p class="p">Notre première contribution à l’union que nous voulons former doit être d’éveiller et d’exprimer la conscience de cette unité.</p>
-                        <p class="p">2. Quel que soit le parti dont nous sommes membres, et quelle que soit notre patrie, nous sentons que la crise présente de l’Europe met en cause quelque chose de plus profond que nos systèmes économiques et politiques : une notion 
+                      <h2 class="head">Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne</h2>
+                      <p class="label">Préambule</p>
+                      <p class="p">1. L’union de l’Europe apparaît nécessaire pour la sécurité de chacun de nos pays, mais aussi pour sa prospérité. Cependant, cette union resterait une utopie s’il n’existait, en deçà et au-delà de nos divisions actuelles, linguistiques, religieuses, et politiques, une entité européenne bien vivante, un sentiment commun auquel il soit possible de faire appel dès maintenant.</p>
+                      <p class="p">Notre première contribution à l’union que nous voulons former doit être d’éveiller et d’exprimer la conscience de cette unité.</p>
+                      <p class="p">2. Quel que soit le parti dont nous sommes membres, et quelle que soit notre patrie, nous sentons que la crise présente de l’Europe met en cause quelque chose de plus profond que nos systèmes économiques et politiques : une notion 
 <a class="pb" href="#p150" id="p150">[p. 150]</a>
  de l’homme et de la liberté, qui est en définitive notre vrai bien commun. C’est sur elle seule que nous pourrons fonder solidement l’union nécessaire.</p>
-                        <p class="p">3. Toutefois, dans une époque où la démagogie est en train de ruiner le langage à force d’abus impunis, rendant tout dialogue incertain et tout pacte sujet à caution, il est vain d’essayer de s’unir si l’on n’a pas d’abord rendu leur sens commun aux mots-clés du débat historique qui met en jeu notre vie même.</p>
-                        <p class="p">Pour rendre leur plein sens et leur force d’appel aux termes de liberté, d’homme et de droits de l’homme, nous ne pouvons pas nous contenter de les redéfinir sur le papier. Cet effort nécessaire ne sera pas suffisant. Il doit être doublé immédiatement d’un effort pour prendre au sérieux, pratiquement, nos définitions.</p>
-                        <p class="p">Notre deuxième objectif sera donc de proposer l’établissement d’institutions propres à garantir l’exercice effectif des droits et des devoirs de la personne humaine, tels que les comprend l’Occident.</p>
-                      </section>
-                      <section id="body-4-2-2" class="div level3">
-                        <h3 class="head">La conception européenne de l’homme<a class="bookmark" href="4#body-4-2-2"> §</a></h3>
-                        <p class="p">4. S’il est vrai que les motifs immédiats de notre union sont d’ordre économique et politique, 
+                      <p class="p">3. Toutefois, dans une époque où la démagogie est en train de ruiner le langage à force d’abus impunis, rendant tout dialogue incertain et tout pacte sujet à caution, il est vain d’essayer de s’unir si l’on n’a pas d’abord rendu leur sens commun aux mots-clés du débat historique qui met en jeu notre vie même.</p>
+                      <p class="p">Pour rendre leur plein sens et leur force d’appel aux termes de liberté, d’homme et de droits de l’homme, nous ne pouvons pas nous contenter de les redéfinir sur le papier. Cet effort nécessaire ne sera pas suffisant. Il doit être doublé immédiatement d’un effort pour prendre au sérieux, pratiquement, nos définitions.</p>
+                      <p class="p">Notre deuxième objectif sera donc de proposer l’établissement d’institutions propres à garantir l’exercice effectif des droits et des devoirs de la personne humaine, tels que les comprend l’Occident.</p>
+                      <p class="label">La conception européenne de l’homme</p>
+                      <p class="p">4. S’il est vrai que les motifs immédiats de notre union sont d’ordre économique et politique, 
 <a class="pb" href="#p151" id="p151">[p. 151]</a>
  il n’est pas moins certain que l’unité de l’Europe est essentiellement culturelle, si l’on prend le mot dans son sens le plus large.</p>
-                        <p class="p">La culture véritable n’est pas un ornement, un simple luxe, ni un ensemble de spécialités qui ne concernent pas l’homme de la rue. Elle naît d’une prise de conscience de la vie, d’un besoin perpétuel d’approfondir la signification de l’existence, et d’augmenter le pouvoir de l’homme sur les choses. Elle a fait la grandeur de l’Europe.</p>
-                        <p class="p">Car, du point de vue de la géographie, le continent européen n’est qu’une péninsule de l’Asie. Si ce petit coin de terre n’en est pas moins, depuis plus de deux mille ans, le foyer d’une puissance d’invention sans égale et qui rayonne sur toute la planète, c’est à l’esprit de ses habitants, c’est à sa culture qu’il le doit.</p>
-                        <p class="p">5. La création, la transmission et l’élaboration de la culture n’ont jamais été, en Europe, l’apanage d’une doctrine unique, d’une nation ou d’une caste choisie. Elles résultent au contraire d’un dialogue permanent (bien souvent dramatique, parfois tragique) entre un grand nombre de réalités et de tendances antagonistes qui, toutes, ont contribué à faire l’Europe et à modeler l’idée européenne de l’homme : antiquité et christianisme, Église et État, catholicisme et protestantisme, 
+                      <p class="p">La culture véritable n’est pas un ornement, un simple luxe, ni un ensemble de spécialités qui ne concernent pas l’homme de la rue. Elle naît d’une prise de conscience de la vie, d’un besoin perpétuel d’approfondir la signification de l’existence, et d’augmenter le pouvoir de l’homme sur les choses. Elle a fait la grandeur de l’Europe.</p>
+                      <p class="p">Car, du point de vue de la géographie, le continent européen n’est qu’une péninsule de l’Asie. Si ce petit coin de terre n’en est pas moins, depuis plus de deux mille ans, le foyer d’une puissance d’invention sans égale et qui rayonne sur toute la planète, c’est à l’esprit de ses habitants, c’est à sa culture qu’il le doit.</p>
+                      <p class="p">5. La création, la transmission et l’élaboration de la culture n’ont jamais été, en Europe, l’apanage d’une doctrine unique, d’une nation ou d’une caste choisie. Elles résultent au contraire d’un dialogue permanent (bien souvent dramatique, parfois tragique) entre un grand nombre de réalités et de tendances antagonistes qui, toutes, ont contribué à faire l’Europe et à modeler l’idée européenne de l’homme : antiquité et christianisme, Église et État, catholicisme et protestantisme, 
 <a class="pb" href="#p152" id="p152">[p. 152]</a>
  attachements régionaux et sens de l’universel, mémoire et invention, respect de la tradition et passion du progrès, science et sagesse, germanisme et latinité, individualisme et collectivisme, droits et devoirs, liberté et justice…</p>
-                        <p class="p">Dans ce débat auquel chacun de nous participe plus ou moins consciemment, réside le secret du dynamisme occidental et de l’inquiétude créatrice qui pousse l’Européen à remettre en question, de siècle en siècle, ses rapports avec Dieu, avec le monde, avec l’État et la communauté.</p>
-                        <p class="p">Toute notre histoire illustre ce débat, qui se livre en chacun de nous. Elle est l’histoire des risques de la liberté, progressant entre les écueils du désordre et de la tyrannie.</p>
-                        <p class="p">Pour peu que l’individu, abusant de ses droits et de sa liberté devenue facile, cède à la tentation de l’anarchie, une réaction collectiviste se déclenche, au nom de la justice ou de l’ordre social. Elle donne naissance à des régimes unitaires (qu’on appelle aujourd’hui totalitaires) contre lesquels ne tarde pas à se dresser, avec une passion renouvelée, le génie de la diversité, c’est-à-dire de la liberté.</p>
-                        <p class="p">Si nous cherchons maintenant dans quelle notion commune de l’homme et de sa destinée se fonde cette critique alternée de l’individualisme et du collectivisme, renaissant à toutes les 
+                      <p class="p">Dans ce débat auquel chacun de nous participe plus ou moins consciemment, réside le secret du dynamisme occidental et de l’inquiétude créatrice qui pousse l’Européen à remettre en question, de siècle en siècle, ses rapports avec Dieu, avec le monde, avec l’État et la communauté.</p>
+                      <p class="p">Toute notre histoire illustre ce débat, qui se livre en chacun de nous. Elle est l’histoire des risques de la liberté, progressant entre les écueils du désordre et de la tyrannie.</p>
+                      <p class="p">Pour peu que l’individu, abusant de ses droits et de sa liberté devenue facile, cède à la tentation de l’anarchie, une réaction collectiviste se déclenche, au nom de la justice ou de l’ordre social. Elle donne naissance à des régimes unitaires (qu’on appelle aujourd’hui totalitaires) contre lesquels ne tarde pas à se dresser, avec une passion renouvelée, le génie de la diversité, c’est-à-dire de la liberté.</p>
+                      <p class="p">Si nous cherchons maintenant dans quelle notion commune de l’homme et de sa destinée se fonde cette critique alternée de l’individualisme et du collectivisme, renaissant à toutes les 
 <a class="pb" href="#p153" id="p153">[p. 153]</a>
  époques, nous voyons se définir un certain idéal, qui n’a trouvé son nom qu’au <span class="num">xx<sup class="sup">e</sup></span> siècle, mais qui a toujours été l’axe de notre histoire, la vision directrice de nos révolutions : c’est l’idéal de la personne humaine.</p>
-                        <p class="p">Cette notion d’origine chrétienne, acceptée et reprise par l’humanisme, est celle de l’homme doublement responsable envers sa vocation et envers la cité : à la fois autonome et solidaire à la fois libre et engagé — et non pas seulement libre ou seulement engagé ; lieu d’une synthèse vivante, mais aussi d’un conflit, entre des exigences également valables mais pratiquement antagonistes. Cet homme est fidèle à lui-même tant qu’il accepte le dialogue et le dépasse en créations nouvelles. Il devient infidèle à lui-même et au génie créateur de l’Europe, lorsqu’il cède à la tentation de supprimer l’un des termes du conflit, soit qu’il essaye de s’enfermer dans sa particularité (nation, parti ou idéologie), soit qu’il prétende l’imposer à tous d’une manière uniforme, donc tyrannique.</p>
-                      </section>
-                      <section id="body-4-2-3" class="div level3">
-                        <h3 class="head">Diversité et division des nations et des idéologies<a class="bookmark" href="4#body-4-2-3"> §</a></h3>
-                        <p class="p">6. Cette description succincte de l’homme européen nous met en mesure de clarifier maintenant 
+                      <p class="p">Cette notion d’origine chrétienne, acceptée et reprise par l’humanisme, est celle de l’homme doublement responsable envers sa vocation et envers la cité : à la fois autonome et solidaire à la fois libre et engagé — et non pas seulement libre ou seulement engagé ; lieu d’une synthèse vivante, mais aussi d’un conflit, entre des exigences également valables mais pratiquement antagonistes. Cet homme est fidèle à lui-même tant qu’il accepte le dialogue et le dépasse en créations nouvelles. Il devient infidèle à lui-même et au génie créateur de l’Europe, lorsqu’il cède à la tentation de supprimer l’un des termes du conflit, soit qu’il essaye de s’enfermer dans sa particularité (nation, parti ou idéologie), soit qu’il prétende l’imposer à tous d’une manière uniforme, donc tyrannique.</p>
+                      <p class="label">Diversité et division des nations et des idéologies</p>
+                      <p class="p">6. Cette description succincte de l’homme européen nous met en mesure de clarifier maintenant 
 <a class="pb" href="#p154" id="p154">[p. 154]</a>
  quelques-uns des problèmes brûlants que pose l’union européenne. Tout d’abord, celui des nations.</p>
-                        <p class="p">La diversité des nations, correspondant au cloisonnement géographique du continent, a fait pendant des siècles l’originalité de l’Europe et la fécondité de sa culture. Mais par suite de la collusion de la nation et de l’État, fixant les mêmes frontières rigides à des réalités culturelles, linguistiques, économiques et administratives, qui n’ont aucune raison de se recouvrir en fait, cette diversité naturelle est devenue division arbitraire. Elle appauvrit nos échanges culturels. Elle laisse chacune de nos patries incapable de sauvegarder son autonomie politique, ou d’assurer son existence économique. Cet individualisme national, qui tend nécessairement à l’autarcie, constitue aujourd’hui le pire danger pour la vie réelle des nations. Dans l’état de faiblesse où il les met, il les livrera fatalement à l’unification forcée, soit par l’intervention d’un empire du dehors, soit par l’usurpation d’un parti du dedans.</p>
-                        <p class="p">C’est pourquoi l’union de l’Europe est devenue la seule garantie des autonomies nationales. Ce n’est qu’en surmontant nos divisions que nous sauverons notre diversité.</p>
-                        <p class="p">
+                      <p class="p">La diversité des nations, correspondant au cloisonnement géographique du continent, a fait pendant des siècles l’originalité de l’Europe et la fécondité de sa culture. Mais par suite de la collusion de la nation et de l’État, fixant les mêmes frontières rigides à des réalités culturelles, linguistiques, économiques et administratives, qui n’ont aucune raison de se recouvrir en fait, cette diversité naturelle est devenue division arbitraire. Elle appauvrit nos échanges culturels. Elle laisse chacune de nos patries incapable de sauvegarder son autonomie politique, ou d’assurer son existence économique. Cet individualisme national, qui tend nécessairement à l’autarcie, constitue aujourd’hui le pire danger pour la vie réelle des nations. Dans l’état de faiblesse où il les met, il les livrera fatalement à l’unification forcée, soit par l’intervention d’un empire du dehors, soit par l’usurpation d’un parti du dedans.</p>
+                      <p class="p">C’est pourquoi l’union de l’Europe est devenue la seule garantie des autonomies nationales. Ce n’est qu’en surmontant nos divisions que nous sauverons notre diversité.</p>
+                      <p class="p">
 <a class="pb" href="#p155" id="p155">[p. 155]</a>
  7. Cette règle vaut aussi pour nos doctrines, partis et idéologies. Aussi indispensables que les nations à la vie de la culture et à la liberté, ces diversités à leur tour tendent à devenir des divisions mortelles. Tandis que les frontières étatiques cloisonnent l’Europe verticalement, les idéologies et les partis la cloisonnent horizontalement. Leurs prétentions à un droit exclusif dans l’organisation du continent n’est pas moins dangereuse et utopique, que ne serait « l’impérialisme » d’une seule nation.</p>
-                        <p class="p">Il est bien clair que ni la droite, ni la gauche, ni le centre, aujourd’hui, ne sont capables de créer l’union. Aucun de ces partis n’est donc capable, à lui seul, de sauver l’Europe, ni par suite son propre avenir. De même que les nations n’ont de chance de survivre que si elles renoncent à temps au dogme tyrannique de leur souveraineté absolue, les partis n’ont de chance de poursuivre leur lutte que s’ils en limitent l’ambition, renoncent à toute visée totalitaire, et subordonnent leur tactique à la stratégie générale d’une action de salut public européen.</p>
-                      </section>
-                      <section id="body-4-2-4" class="div level3">
-                        <h3 class="head">La liberté et les droits de l’homme<a class="bookmark" href="4#body-4-2-4"> §</a></h3>
-                        <p class="p">8. Certains voudraient que cette action fût proclamée au nom de la démocratie.</p>
-                        <p class="p">
+                      <p class="p">Il est bien clair que ni la droite, ni la gauche, ni le centre, aujourd’hui, ne sont capables de créer l’union. Aucun de ces partis n’est donc capable, à lui seul, de sauver l’Europe, ni par suite son propre avenir. De même que les nations n’ont de chance de survivre que si elles renoncent à temps au dogme tyrannique de leur souveraineté absolue, les partis n’ont de chance de poursuivre leur lutte que s’ils en limitent l’ambition, renoncent à toute visée totalitaire, et subordonnent leur tactique à la stratégie générale d’une action de salut public européen.</p>
+                      <p class="label">La liberté et les droits de l’homme</p>
+                      <p class="p">8. Certains voudraient que cette action fût proclamée au nom de la démocratie.</p>
+                      <p class="p">
 <a class="pb" href="#p156" id="p156">[p. 156]</a>
  Mais il n’est pas de terme dont notre époque ait fait de plus flagrants abus. Les tyrans eux-mêmes s’en réclament. À tel point que l’adjectif « démocratique » se voit revendiqué par ceux-là mêmes qui ont fait de la dictature un article de foi.</p>
-                        <p class="p">Ce serait d’ailleurs porter atteinte aux tempéraments nationaux que de prétendre imposer à l’Europe une conception définitive et uniforme de la pratique démocratique. Toutefois, ici encore, une unité foncière transparaît dans nos diversités.</p>
-                        <p class="p">Au-delà de toutes les controverses de doctrines, qu’il nous suffise de reconnaître ici que, dans l’Europe contemporaine, pour l’écrasante majorité des citoyens, le mot démocratie est lié à tout régime (monarchique ou républicain) qui garantit les droits fondamentaux de la personne, qui respecte l’opposition, et qui entretient un climat tolérable de libertés publiques et privées.</p>
-                        <p class="p">Ce sont ces libertés, et non des étiquettes que les peuples d’Europe entendent sauvegarder.</p>
-                        <p class="p">9. Pour nous, Européens, la liberté consiste dans l’exercice des droits fondamentaux que possède tout homme en tant qu’homme.</p>
-                        <p class="p">L’État ne peut ni donner, ni retirer ces droits, qui lui sont antérieurs et supérieurs ; mais il doit les servir et les aménager.</p>
-                        <p class="p">
+                      <p class="p">Ce serait d’ailleurs porter atteinte aux tempéraments nationaux que de prétendre imposer à l’Europe une conception définitive et uniforme de la pratique démocratique. Toutefois, ici encore, une unité foncière transparaît dans nos diversités.</p>
+                      <p class="p">Au-delà de toutes les controverses de doctrines, qu’il nous suffise de reconnaître ici que, dans l’Europe contemporaine, pour l’écrasante majorité des citoyens, le mot démocratie est lié à tout régime (monarchique ou républicain) qui garantit les droits fondamentaux de la personne, qui respecte l’opposition, et qui entretient un climat tolérable de libertés publiques et privées.</p>
+                      <p class="p">Ce sont ces libertés, et non des étiquettes que les peuples d’Europe entendent sauvegarder.</p>
+                      <p class="p">9. Pour nous, Européens, la liberté consiste dans l’exercice des droits fondamentaux que possède tout homme en tant qu’homme.</p>
+                      <p class="p">L’État ne peut ni donner, ni retirer ces droits, qui lui sont antérieurs et supérieurs ; mais il doit les servir et les aménager.</p>
+                      <p class="p">
 <a class="pb" href="#p157" id="p157">[p. 157]</a>
  Quel que soit le nom du régime que se donne librement tel peuple de l’Europe, il trouvera sa place dans l’Union s’il respecte les droits humains qui appartiennent à la personne, comme l’habeas corpus, le droit de circuler, le droit de professer la religion de son choix.</p>
-                        <p class="p">10. Tout État de l’Union devra reconnaître aux citoyens et groupes de citoyens le droit d’opposition légale.</p>
-                        <p class="p">Dans la crise actuelle, ce droit nous apparaît comme la seule garantie pratique des libertés d’association, de réunion, d’expression et de propagande. Il implique la condamnation du régime du parti unique, de la terreur, et en général de toute pression exercée par le gouvernement sur l’opinion et la vie politique.</p>
-                      </section>
-                      <section id="body-4-2-5" class="div level3">
-                        <h3 class="head">Cour suprême<a class="bookmark" href="4#body-4-2-5"> §</a></h3>
-                        <p class="p">11. Enfin, la protection des droits de la personne, qui doit rester le but principal de l’Union exige l’institution d’une Cour suprême, instance supérieure aux États, et à laquelle puissent en appeler les citoyens, les groupes variés et les minorités.</p>
-                        <p class="p">Il lui appartiendra de veiller en général, dans toute l’étendue de l’Union, à l’application d’une 
+                      <p class="p">10. Tout État de l’Union devra reconnaître aux citoyens et groupes de citoyens le droit d’opposition légale.</p>
+                      <p class="p">Dans la crise actuelle, ce droit nous apparaît comme la seule garantie pratique des libertés d’association, de réunion, d’expression et de propagande. Il implique la condamnation du régime du parti unique, de la terreur, et en général de toute pression exercée par le gouvernement sur l’opinion et la vie politique.</p>
+                      <p class="label">Cour suprême</p>
+                      <p class="p">11. Enfin, la protection des droits de la personne, qui doit rester le but principal de l’Union exige l’institution d’une Cour suprême, instance supérieure aux États, et à laquelle puissent en appeler les citoyens, les groupes variés et les minorités.</p>
+                      <p class="p">Il lui appartiendra de veiller en général, dans toute l’étendue de l’Union, à l’application d’une 
 <a class="pb" href="#p158" id="p158">[p. 158]</a>
  Charte des droits et des devoirs de la personne, doublée d’une Charte des droits et des devoirs de la nation, toutes les deux étant reconnues par une convention solennelle entre les membres de l’Union.</p>
-                      </section>
-                      <section id="body-4-2-6" class="div level3">
-                        <h3 class="head">Centre européen de la culture<a class="bookmark" href="4#body-4-2-6"> §</a></h3>
-                        <p class="p">12. Les organes juridiques, économiques et politiques que devra se donner l’Union, ne sauraient fonctionner au bénéfice des personnes, groupes et nations, que s’ils sont approuvés et soutenus par l’opinion européenne.</p>
-                        <p class="p">Celle-ci doit être désormais dotée de moyens d’expression réguliers. Elle doit être informée. Elle doit être éduquée dans les nouvelles générations. Elle doit être rendue de plus en plus consciente de l’unité profonde de l’Europe et de la richesse de ses diversités.</p>
-                        <p class="p">13. Pour développer parmi nos diverses nations le sens de leur commune appartenance à l’Europe et de leur commun attachement à la liberté de pensée, l’Union européenne, dans le cadre de laquelle nous voulons travailler, a besoin d’organismes qui donnent une voix à la conscience de l’Europe et des peuples qui lui sont associés. Mais pour cette fin précise les instituts de culture 
+                      <p class="label">Centre européen de la culture</p>
+                      <p class="p">12. Les organes juridiques, économiques et politiques que devra se donner l’Union, ne sauraient fonctionner au bénéfice des personnes, groupes et nations, que s’ils sont approuvés et soutenus par l’opinion européenne.</p>
+                      <p class="p">Celle-ci doit être désormais dotée de moyens d’expression réguliers. Elle doit être informée. Elle doit être éduquée dans les nouvelles générations. Elle doit être rendue de plus en plus consciente de l’unité profonde de l’Europe et de la richesse de ses diversités.</p>
+                      <p class="p">13. Pour développer parmi nos diverses nations le sens de leur commune appartenance à l’Europe et de leur commun attachement à la liberté de pensée, l’Union européenne, dans le cadre de laquelle nous voulons travailler, a besoin d’organismes qui donnent une voix à la conscience de l’Europe et des peuples qui lui sont associés. Mais pour cette fin précise les instituts de culture 
 <a class="pb" href="#p159" id="p159">[p. 159]</a>
  mondiaux couvrent un terrain trop vaste, tandis que les instituts nationaux se limitent à un domaine trop étroit.</p>
-                        <p class="p">Un Centre européen de la culture devra donc être institué. Il aura pour mission générale d’assurer la mise en œuvre des principes et des idéaux que nous venons de définir.</p>
-                        <p class="p">Constitué en toute indépendance des contrôles gouvernementaux, cet organisme aura pour tâches immédiates d’étudier et de proposer toute mesure propre à promouvoir le sentiment de l’unité européenne ; d’agir dans ce sens sur l’opinion, la presse, le film et la radio, par voie d’informations et de recommandations ; de coordonner les efforts pour créer une union des Universités et des membres des corps enseignants ; et enfin d’exercer un contrôle vigilant pour restaurer le propre usage des mots-clés sans lesquels aucun pacte n’est possible.</p>
-                        <p class="p">De plus, le Centre européen offrirait un lieu de rencontre aux porteurs et aux créateurs de la culture occidentale, afin qu’ils puissent examiner ensemble les grandes questions qui affectent la vie de l’Europe, et s’exprimer à leur sujet par des appels à l’opinion publique.</p>
-                      </section>
-                      <section id="body-4-2-7" class="div level3">
-                        <a class="pb" href="#p160" id="p160">[p. 160]</a>
-                        <h3 class="head">Conclusion : l’universalisme européen<a class="bookmark" href="4#body-4-2-7"> §</a></h3>
-                        <p class="p">14. Une fois rendue plus consciente d’elle-même, de ses ressources infiniment variées et de son idéal commun, l’Europe pourra revenir avec une confiance neuve à sa vocation millénaire, qui est une vocation d’universalité, de rayonnement mais en même temps d’accueil aux apports de toutes les cultures.</p>
-                        <p class="p">C’est donc dans l’intérêt de l’humanité entière qu’au milieu de la crise actuelle, l’Europe garde la mission de témoigner pour l’homme, d’inventer la synthèse, que prépare son histoire, entre la liberté et la justice, et de créer les lois et les institutions qu’implique son idéal de la personne.</p>
-                        <p class="p">L’heure est venue de rallier pour ce nouveau destin tous les peuples du continent représentés ici ou non — en une Fédération qui sera le premier pas vers la Fédération mondiale.</p>
-                      </section>
+                      <p class="p">Un Centre européen de la culture devra donc être institué. Il aura pour mission générale d’assurer la mise en œuvre des principes et des idéaux que nous venons de définir.</p>
+                      <p class="p">Constitué en toute indépendance des contrôles gouvernementaux, cet organisme aura pour tâches immédiates d’étudier et de proposer toute mesure propre à promouvoir le sentiment de l’unité européenne ; d’agir dans ce sens sur l’opinion, la presse, le film et la radio, par voie d’informations et de recommandations ; de coordonner les efforts pour créer une union des Universités et des membres des corps enseignants ; et enfin d’exercer un contrôle vigilant pour restaurer le propre usage des mots-clés sans lesquels aucun pacte n’est possible.</p>
+                      <p class="p">De plus, le Centre européen offrirait un lieu de rencontre aux porteurs et aux créateurs de la culture occidentale, afin qu’ils puissent examiner ensemble les grandes questions qui affectent la vie de l’Europe, et s’exprimer à leur sujet par des appels à l’opinion publique.</p>
+                      <a class="pb" href="#p160" id="p160">[p. 160]</a>
+                      <p class="label">Conclusion : l’universalisme européen</p>
+                      <p class="p">14. Une fois rendue plus consciente d’elle-même, de ses ressources infiniment variées et de son idéal commun, l’Europe pourra revenir avec une confiance neuve à sa vocation millénaire, qui est une vocation d’universalité, de rayonnement mais en même temps d’accueil aux apports de toutes les cultures.</p>
+                      <p class="p">C’est donc dans l’intérêt de l’humanité entière qu’au milieu de la crise actuelle, l’Europe garde la mission de témoigner pour l’homme, d’inventer la synthèse, que prépare son histoire, entre la liberté et la justice, et de créer les lois et les institutions qu’implique son idéal de la personne.</p>
+                      <p class="p">L’heure est venue de rallier pour ce nouveau destin tous les peuples du continent représentés ici ou non — en une Fédération qui sera le premier pas vers la Fédération mondiale.</p>
                     </section>
                     <section id="body-4-3" class="div level2">
                       <a class="pb" href="#p161" id="p161">[p. 161]</a>
-                      <h2 class="head">Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                      <h2 class="head">Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle</h2>
                       <p class="p autofirst">Considérant que l’union européenne a cessé d’être une utopie pour devenir une nécessité, mais qu’elle ne peut être fondée durablement que dans une unité déjà vivante ;</p>
                       <p class="p">Considérant que cette unité profonde, au sein même de nos diversités nationales, doctrinales et religieuses, est celle d’un commun héritage de civilisation chrétienne, de valeurs spirituelles et culturelles, et d’un commun attachement aux droits fondamentaux de l’homme, notamment à la liberté de pensée et d’expression ;</p>
                       <p class="p">Considérant que les efforts pour nous unir doivent être soutenus et vivifiés par un réveil de la conscience européenne, que celle-ci doit être informée, stimulée, et dotée de moyens d’expression ;</p>
@@ -1221,7 +1217,7 @@
                     </section>
                     <section id="body-4-4" class="div level2">
                       <a class="pb" href="#p167" id="p167">[p. 167]</a>
-                      <h2 class="head">Message aux Européens<a class="bookmark" href="4#body-4-4"> §</a></h2>
+                      <h2 class="head">Message aux Européens</h2>
                       <p class="p autofirst">L’Europe est menacée, l’Europe est divisée, et la plus grave menace vient de ses divisions.</p>
                       <p class="p">Appauvrie, encombrée de barrières qui empêchent ses biens de circuler, mais qui ne sauraient plus la protéger, notre Europe désunie marche à sa fin. Aucun de nos pays ne peut prétendre, seul, à une défense sérieuse de son indépendance. Aucun de nos pays ne peut résoudre, seul, les problèmes que lui pose l’économie moderne. À défaut d’une union librement consentie, notre anarchie présente nous exposera demain à l’unification forcée, soit par l’intervention d’un empire du dehors, soit par l’usurpation d’un parti du dedans.</p>
                       <p class="p">L’heure est venue d’entreprendre une action qui soit à la mesure du danger.</p>
@@ -1243,7 +1239,7 @@
                     </section>
                     <section id="body-4-5" class="div level2">
                       <a class="pb" href="#p170" id="p170">[p. 170]</a>
-                      <h2 class="head">Quelques chiffres<a class="bookmark" href="4#body-4-5"> §</a></h2>
+                      <h2 class="head">Quelques chiffres</h2>
                       <p class="p autofirst">Je disais plus haut que l’Europe d’aujourd’hui, entre les deux empires, « nous paraît plus petite que nature ». En effet, si l’on se borne aux seules données physiques, l’Europe ne représente que 4 % de la superficie mondiale. Mais voici d’autres chiffres notables.</p>
                       <p class="p center">
                         <b class="b">Population de l’Europe</b>
@@ -1325,42 +1321,19 @@
                       </a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-4-1">Pour un Centre européen de la culture (documents de La Haye)</a>
+                          <a href="4#body-4-1">4.a. Pour un Centre européen de la culture (documents de La Haye)</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-2">Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne</a>
-                          <ul>
-                            <li class="collateral">
-                              <a href="4#body-4-2-1">Préambule</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-2">La conception européenne de l’homme</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-3">Diversité et division des nations et des idéologies</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-4">La liberté et les droits de l’homme</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-5">Cour suprême</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-6">Centre européen de la culture</a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-2-7">Conclusion : l’universalisme européen</a>
-                            </li>
-                          </ul>
+                          <a href="4#body-4-2">4.b. Rapport culturel soumis au Congrès de La Haye (7-11 mai 1948) par le Comité international de coordination des mouvements pour l’unité européenne</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-3">Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle</a>
+                          <a href="4#body-4-3">4.c. Résolution proposée au Congrès de l’Europe, le 9 mai 1948, par la commission culturelle</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-4">Message aux Européens</a>
+                          <a href="4#body-4-4">4.d. Message aux Européens</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-5">Quelques chiffres</a>
+                          <a href="4#body-4-5">4.e. Quelques chiffres</a>
                         </li>
                       </ul>
                     </li>

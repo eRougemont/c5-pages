@@ -47,7 +47,7 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#pb7" id="pb7">[p. 7]</a>
-                    <h1 class="head chapter">Avertissement<a class="bookmark" href="1"> §</a></h1>
+                    <h1 class="head chapter">Avertissement</h1>
                     <p class="p autofirst">Je ne pensais pas écrire sur l’Amérique, parce que j’y avais vécu cinq ans — et l’on sait bien qu’il faut un séjour de trois semaines ou toute une vie pour oser parler d’un pays — quand Gérard Boutelleau, de passage à New York, me demanda quelques articles pour un hebdomadaire français.</p>
                     <p class="p">L’Amérique est indescriptible. On peut en prendre mille instantanés sur la côte de l’Atlantique, puis se transporter dans le Middle West et répéter l’opération entre Saint-Louis et Chicago, continuer dans les déserts rutilants de l’Arizona, visiter quelques stars à Hollywood, les alpes de l’État de Washington à l’extrême nord, voler au sud vers le Nouveau Mexique et la Louisiane, remonter vers Miami, les Carolines, la Virginie et Washington… Quand on revient à New York tout est changé. Il n’y a plus qu’à recommencer. Et trop de faits collectionnés alourdissent 
 <a class="pb" href="#pb8" id="pb8">[p. 8]</a>
@@ -84,7 +84,7 @@
                       <a href="#">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -99,7 +99,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -109,13 +109,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/2" name="Prologue. Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/2" name="Prologue . Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Prologue. Sentiment de l’Amérique (1947, Vivre en Amérique)</value>
+          <value>Prologue . Sentiment de l’Amérique (1947, Vivre en Amérique)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -141,7 +141,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Prologue. Sentiment de l’Amérique"
+    "name": "Prologue . Sentiment de l’Amérique"
   }]
 }
           </value>
@@ -156,7 +156,7 @@
                   <article role="article">
                     <a class="pb" href="#pb11" id="pb11">[p. 11]</a>
                     <h1 class="head chapter">Prologue
-          <br class="lb"/>Sentiment de l’Amérique<a class="bookmark" href="2"> §</a></h1>
+          <br class="lb"/>Sentiment de l’Amérique</h1>
                     <p class="p autofirst">Cinq ans déjà, et chaque matin je m’étonne encore de me réveiller en Amérique. J’ai vécu en Suisse, en Autriche, en Italie, en Allemagne et en France : quelques mois et j’étais acclimaté. J’oubliais que le pays n’était pas le mien. C’était l’Europe. C’est ici l’Amérique, et je n’ai pas fini de m’en ébahir. Ce Nouveau Monde m’apparaît à chaque pas, sinon neuf, du moins différent de ce que mes réflexes attendaient.</p>
                     <p class="p">Des amis débarquant de France me disent : « Alors, qu’en pensez-vous ? » De l’Amérique ? Tout ce que je vais vous en dire, tout ce que l’on peut en dire en général sera vrai selon les temps et les lieux, et tout sera contradictoire, et rien ne sera suffisant.</p>
                     <p class="p">New York a les plus hauts gratte-ciel du monde, c’est vrai. Mais Le Corbusier, promené pendant une heure dans la ville par des 
@@ -205,7 +205,7 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="#">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -220,7 +220,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -267,6 +267,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>1.a. Le rêve américain – 1.b. Santé de la démocratie américaine – 1.c. Maladies de la démocratie américaine – 1.d. Une bureaucratie sans ronds-de-cuir – 1.e. Impérialisme américain ?</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-3-1	1.a. Le rêve américain (1947, Vivre en Amérique)
+body-3-2	1.b. Santé de la démocratie américaine (1947, Vivre en Amérique)
+body-3-3	1.c. Maladies de la démocratie américaine (1947, Vivre en Amérique)
+body-3-4	1.d. Une bureaucratie sans ronds-de-cuir (1947, Vivre en Amérique)
+body-3-5	1.e. Impérialisme américain ? (1947, Vivre en Amérique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -277,10 +288,10 @@
                   <article role="article">
                     <a class="pb" href="#pb19" id="pb19">[p. 19]</a>
                     <h1 class="head kicker chapter">I</h1>
-                    <h1 class="head chapter">Vie politique<a class="bookmark" href="3"> §</a></h1>
-                    <section id="body-3-1" class="div level2 level2">
+                    <h1 class="head chapter">Vie politique</h1>
+                    <section id="body-3-1" class="div level2">
                       <a class="pb" href="#pb21" id="pb21">[p. 21]</a>
-                      <h2 class="head">Le rêve américain<a class="bookmark" href="3#body-3-1"> §</a></h2>
+                      <h2 class="head">Le rêve américain</h2>
                       <p class="p autofirst">L’Amérique n’est pas un pays de rêve, quand on y vit, mais c’est un pays de rêveurs.</p>
                       <p class="p">Je vais parfois les regarder dans les grandes salles populaires de Broadway, où des centaines de filles en jupes très courtes se livrent à la danse appelée <i class="i">jitterbugs</i> autour de petits marins, de soldats presque imberbes, de garçons qui n’ont pas encore l’âge militaire. La frénésie rythmique des <i class="i">jitterbugs</i> évoque par moments le vaudou, et quand ils se mettent à crier, on les croirait au bord du délire collectif. Mais la danse prend fin, tout s’apaise. Les couples se séparent un peu. Personne ne parle. Suit un tango où ils se glissent joue à joue, avec n’importe qui, comme sans se voir, dans une demi-obscurité rougeâtre. Des garçons seuls, assis sur des banquettes, le dos tourné à la piste, regardent dans le vide. Peu ou point de plaisanteries échangées. Ils sont ici pour rêver, pour danser. 
 <a class="pb" href="#pb22" id="pb22">[p. 22]</a>
@@ -317,9 +328,9 @@
                       <p class="p">Bien des apparences le confirment. Et pourtant je persiste à penser que si l’Amérique, suivant son rêve, cherche à sortir de ses limites et à déborder sur le monde, cette expansion ne sera pas du tout à base d’impérialisme au sens courant du mot. Je persiste à penser que nous avons, en Europe, quelques motifs de plus de nous en réjouir que de nous en méfier.</p>
                       <p class="p">J’essaierai de suggérer ces motifs au cours des chapitres suivants. Car si nous regardons d’assez près comment fonctionnent l’Opinion, les Partis, et l’Administration dans un pays donné, nous finirons bien par <i class="i">sentir</i> si ce pays est sûr de lui ou non, c’est-à-dire s’il a besoin ou non d’écraser les voisins pour s’affirmer. Les puissances dangereuses dans le monde moderne sont celles qui, comme le Reich d’Hitler, souffrent de tensions intérieures telles qu’on ne peut les résoudre, en cas de crise, que par l’union sacrée aux ordres de l’Armée, contre un adversaire extérieur suscité pour les besoins de la cause. Ce sont les malades qu’il faut craindre, lorsqu’ils refusent d’avouer leur maladie, et qu’ils puisent dans leur fièvre seule une énergie surexcitée.</p>
                     </section>
-                    <section id="body-3-2" class="div level2 level2">
+                    <section id="body-3-2" class="div level2">
                       <a class="pb" href="#pb29" id="pb29">[p. 29]</a>
-                      <h2 class="head">Santé de la démocratie américaine<a class="bookmark" href="3#body-3-2"> §</a></h2>
+                      <h2 class="head">Santé de la démocratie américaine</h2>
                       <p class="p autofirst right">
                         <i class="i">(Écrit en novembre 1940.)</i>
                       </p>
@@ -346,8 +357,8 @@
  de ma radio, j’ai entendu cette phrase prononcée d’une voix forte : « Ici Radio Municipale de New York, cité de sept millions et demi d’habitants ayant la paix et bénéficiant de la liberté démocratique. »</p>
                       <p class="p">Cela ne fait pas sourire, quand on voit que c’est vrai.</p>
                     </section>
-                    <section id="body-3-3" class="div level2 level2">
-                      <h2 class="head">Maladies de la démocratie américaine<a class="bookmark" href="3#body-3-3"> §</a></h2>
+                    <section id="body-3-3" class="div level2">
+                      <h2 class="head">Maladies de la démocratie américaine</h2>
                       <p class="p autofirst">Relisant le chapitre qui précède après cinq ans d’expériences quotidiennes des libertés américaines, la guerre finie, certaines polémiques apaisées, et toute nuance de « propagande » en faveur de la démocratie perdant sa valeur de combat, je me sens capable de décrire l’envers de tant de vertus cependant bien réelles.</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">Le vice majeur d’une grande démocratie, c’est d’être grande. Cette question de format me paraît capitale. Pendant plusieurs années, j’ai répété à mes amis américains : « Vous croyez n’aimer que le grand, mais à vrai dire, ce que vous aimez, c’est le <i class="i">plus</i> grand, risquant ainsi de perdre le sentiment d’une grandeur mesurée à la condition d’homme. 
@@ -380,8 +391,8 @@
  yeux que la question noire, la question juive et la question indienne en Amérique du Nord. (Et, vraiment, ce n’est pas peu dire !) Car elles sont destinées à s’aggraver et à s’étendre avec le temps ; elles sont les maladies intimes et spécifiques de l’<i class="i">idéal</i> démocratique américain, tandis que le conflit des races en est une survivante négation.</p>
                       <p class="p">Oui, les États du Sud sont anti-nègres, et ceux du Nord antisémites, et ceux de l’Ouest anti-indiens ; mais leurs excès sont dénoncés comme tels, leurs préjugés tournés en ridicule, et leurs victimes soutenues par de larges sections de l’opinion la plus libre du monde. Ce qu’il faut redouter plus que tout, ce sont les forces d’inertie qui tendent à faire de cette opinion libre, le porte-voix d’un « libre conformisme ». Car alors, il n’y a plus de recours.</p>
                     </section>
-                    <section id="body-3-4" class="div level2 level2">
-                      <h2 class="head">Une bureaucratie sans ronds-de-cuir<a class="bookmark" href="3#body-3-4"> §</a></h2>
+                    <section id="body-3-4" class="div level2">
+                      <h2 class="head">Une bureaucratie sans ronds-de-cuir</h2>
                       <p class="p autofirst">Dans le même numéro de magazine où l’on peut lire sous la plume d’un fermier du Middle West que l’Amérique est le seul pays décent au monde, et tandis qu’un agent d’assurances du Connecticut affirme qu’elle jouit d’un gouvernement pratiquement idéal, le Contrôleur général des États-Unis écrit de 
 <a class="pb" href="#pb42" id="pb42">[p. 42]</a>
  son côté : « Notre gouvernement est une vaste pétaudière. » Ce fonctionnaire sait à peu près de quoi il parie — et je dis à peu près pour dire comme lui. Car son travail consiste, nous explique-t-il, à maintenir les agences de l’État dans les limites de leurs prérogatives et de leur budget particulier, mais il avoue que c’est une tâche impossible.</p>
@@ -415,8 +426,8 @@
  moi, se demandera dans un accès de courage intellectuel ou de désespoir balayant tout scrupule, si l’on ne pourrait pas faire sans nul dommage l’économie de la machine entière ? La raison lui répondra oui. L’expérience lui répondra non.</p>
                       <p class="p">Car s’il n’y avait plus de grands bureaux dans une grande démocratie, <i class="i">quelques hommes</i> deviendraient responsables… Facilement désignés à la vindicte publique, ils n’auraient plus le choix qu’entre la démission et la tyrannie déclarée. Les bureaux à l’américaine semblent avoir été créés pour épargner aux gouvernants cette tragédie. Évitant à la fois le Charybde de la routine inefficace et le Scylla du pouvoir personnel, ils choisissent le naufrage commun dans le Détroit des Délais ou la Mer des Paperasses, aux frais de l’État qui paiera l’assurance. Et c’est la sagesse politique, au siècle du collectivisme.</p>
                     </section>
-                    <section id="body-3-5" class="div level2 level2">
-                      <h2 class="head">Impérialisme américain ?<a class="bookmark" href="3#body-3-5"> §</a></h2>
+                    <section id="body-3-5" class="div level2">
+                      <h2 class="head">Impérialisme américain ?</h2>
                       <p class="p autofirst">Et maintenant, j’en reviens à notre grande question : faut-il craindre leur impérialisme ? Et tout d’abord, vont-ils devenir nationalistes à la manière des Européens ?</p>
                       <p class="p">Car lorsque nous parlons d’impérialisme, 
 <a class="pb" href="#pb49" id="pb49">[p. 49]</a>
@@ -492,25 +503,25 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="here">
                       <a href="#">1. Vie politique</a>
                       <ul>
                         <li class="collateral">
-                          <a href="3#body-3-1">Le rêve américain</a>
+                          <a href="3#body-3-1">1.a. Le rêve américain</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-2">Santé de la démocratie américaine</a>
+                          <a href="3#body-3-2">1.b. Santé de la démocratie américaine</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-3">Maladies de la démocratie américaine</a>
+                          <a href="3#body-3-3">1.c. Maladies de la démocratie américaine</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-4">Une bureaucratie sans ronds-de-cuir</a>
+                          <a href="3#body-3-4">1.d. Une bureaucratie sans ronds-de-cuir</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-5">Impérialisme américain ?</a>
+                          <a href="3#body-3-5">1.e. Impérialisme américain ?</a>
                         </li>
                       </ul>
                     </li>
@@ -524,7 +535,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -571,6 +582,19 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>2.a. Une presse qui informe ses lecteurs – 2.b. Hollywood n’a plus d’idées – 2.c. Condition des écrivains et éditeurs – 2.d. Esquisse d’une rhétorique américaine – 2.e. Vue générale des églises de New York – 2.f. Religion et vie publique – 2.g. Une spiritualité engagée dans le siècle</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-4-1	2.a. Une presse qui informe ses lecteurs (1947, Vivre en Amérique)
+body-4-2	2.b. Hollywood n’a plus d’idées (1947, Vivre en Amérique)
+body-4-3	2.c. Condition des écrivains et éditeurs (1947, Vivre en Amérique)
+body-4-4	2.d. Esquisse d’une rhétorique américaine (1947, Vivre en Amérique)
+body-4-5	2.e. Vue générale des églises de New York (1947, Vivre en Amérique)
+body-4-6	2.f. Religion et vie publique (1947, Vivre en Amérique)
+body-4-7	2.g. Une spiritualité engagée dans le siècle (1947, Vivre en Amérique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -581,10 +605,10 @@
                   <article role="article">
                     <a class="pb" href="#pb59" id="pb59">[p. 59]</a>
                     <h1 class="head kicker chapter">II</h1>
-                    <h1 class="head chapter">Vie culturelle et religieuse<a class="bookmark" href="4"> §</a></h1>
-                    <section id="body-4-1" class="div level2 level2">
+                    <h1 class="head chapter">Vie culturelle et religieuse</h1>
+                    <section id="body-4-1" class="div level2">
                       <a class="pb" href="#pb61" id="pb61">[p. 61]</a>
-                      <h2 class="head">Une presse qui informe ses lecteurs<a class="bookmark" href="4#body-4-1"> §</a></h2>
+                      <h2 class="head">Une presse qui informe ses lecteurs</h2>
                       <p class="p autofirst">Peu de temps avant la guerre, à Paris, un grand journal du soir qui disposait d’un poste de radio, m’interviewa au sujet du petit livre que je venais de publier sur l’Allemagne. J’expliquai que la presse hitlérienne me paraissait meilleure que celle de France, parce qu’elle donnait plus de nouvelles, du monde, et d’une manière plus objective, du fait même que ses partis pris étaient connus et déclarés. Le directeur du journal en question censura cette partie de l’interview, en vertu de la politique qu’on attribue par erreur à l’autruche. Je suis certain qu’il avait tort, comme la suite l’a prouvé d’ailleurs. Le directeur de <i class="i">Carrefour</i> admettra-t-il que je récidive à propos cette fois-ci de l’exemple américain ?</p>
                       <p class="p">Je tiens compte des difficultés que rencontrent aujourd’hui les journaux parisiens : 
 <a class="pb" href="#pb62" id="pb62">[p. 62]</a>
@@ -619,8 +643,8 @@
 <a class="pb" href="#pb69" id="pb69">[p. 69]</a>
  Toutes les comparaisons du genre de celle que je viens d’esquisser courent le risque d’opposer le meilleur d’un des termes à la moyenne ou même au pire de l’autre. Il resterait à opposer la tenue littéraire mettons du <i class="i">Figaro</i> à la vulgarité totale du <i class="i">Journal and American</i>. Mais il est difficile d’être à la fois juste et utile en temps de crise. Et j’ai voulu courir au plus pressé.</p>
                     </section>
-                    <section id="body-4-2" class="div level2 level2">
-                      <h2 class="head">Hollywood n’a plus d’idées<a class="bookmark" href="4#body-4-2"> §</a></h2>
+                    <section id="body-4-2" class="div level2">
+                      <h2 class="head">Hollywood n’a plus d’idées</h2>
                       <p class="p autofirst">Toujours plus impeccables du point de vue technique et toujours plus coûteux, de plus en plus semblables les uns aux autres et de plus en plus fades jusque dans leurs brutalités stéréotypées, voilà les films américains au lendemain de la guerre.</p>
                       <p class="p">Les critiques, les échos de presse, et même les spectateurs, sont unanimes : Hollywood est à court d’inventions. Hollywood achète n’importe quoi, un roman non terminé, un bout de conversation, l’esquisse d’une histoire, un « four » de Broadway, sur le soupçon qu’on pourrait y trouver « une idée ». Je soupçonne, pour ma part, que Hollywood n’y trouvera rien, ou si elle y trouve un germe, le nettoiera. Car Hollywood n’est plus 
 <a class="pb" href="#pb70" id="pb70">[p. 70]</a>
@@ -653,8 +677,8 @@
 <a class="pb" href="#pb77" id="pb77">[p. 77]</a>
  qu’un asile délabré aux bandits, et des sujets de scénarios historiques. Il se peut que Hollywood, après sa mort, devienne une merveilleuse « idée de film », et renaisse à l’écran sous la forme du chef-d’œuvre que, vivante, elle n’a fait que rêver.</p>
                     </section>
-                    <section id="body-4-3" class="div level2 level2">
-                      <h2 class="head">Condition des écrivains et éditeurs<a class="bookmark" href="4#body-4-3"> §</a></h2>
+                    <section id="body-4-3" class="div level2">
+                      <h2 class="head">Condition des écrivains et éditeurs</h2>
                       <p class="p autofirst">Pas de milieu ni de milieux dans ce pays. Entre l’écrivain d’avant-garde et l’auteur à succès, peu ou point de moyen terme, le saut est brusque, l’abîme s’ouvre béant. Car on passe de 3 000 lecteurs à 300 000, c’est-à-dire qu’on passe pratiquement du prolétaire au millionnaire des lettres. Je ne connais que peu d’exceptions.</p>
                       <p class="p">Et de même vous ne trouverez rien à New York, encore bien moins à Washington ou Chicago, qui ressemble aux « milieux littéraires » de Paris, de Londres, ou de Berlin avant Hitler. Point de salons où l’écrivain se frotte aux gens du monde, et eux à lui ; point de cafés où l’on se retrouve en bande à l’heure de l’apéritif ; point d’antichambres d’éditeurs où se coudoient auteurs, débutants et critiques ; donc point de tribunal du g<a id="_GoBack">‌</a>oût, de critique parlée, de rumeurs, ou de réputations fondées sur le 
 <a class="pb" href="#pb78" id="pb78">[p. 78]</a>
@@ -690,79 +714,59 @@
  Et que les Scandinaves jouissent du préjugé en faveur des grands nordiques blonds, et de la présence active de Sigrid Undset à New York.</p>
                       <p class="p">Que fait la France pour assurer outre-Atlantique sa position de grande puissance intellectuelle ?</p>
                     </section>
-                    <section id="body-4-4" class="div level2 level2">
-                      <h2 class="head">Esquisse d’une rhétorique américaine<a class="bookmark" href="4#body-4-4"> §</a></h2>
-                      <section id="body-4-4-1" class="div level3 level3">
-                        <h3 class="head">
-                          <span class="num">i</span>
-                          <a class="bookmark" href="4#body-4-4-1"> §</a>
-                        </h3>
-                        <p class="p autofirst">Je venais d’arriver à New York. « Ne prenez pas la peine d’écrire pour eux, me dit l’un de nos écrivains les plus célèbres en Amérique, vendez-leur une idée et votre nom. » Il contait l’anecdote suivante : un magazine à fort tirage lui ayant demandé un papier de deux mille mots, il les livra et fut payé, mais cinq cents mots seulement parurent, dont plus aucun n’était de lui. La signature et l’idée générale permettaient cependant d’identifier le texte.</p>
-                        <p class="p">J’appris ainsi qu’il existait dans les revues et chez les éditeurs américains des personnages nommés <i class="i">re-writers</i> ou <i class="i">editors</i>, dont toute l’activité consiste à reviser ou à récrire les manuscrits, afin de les mettre au goût de la maison et à la portée du public que 
+                    <section id="body-4-4" class="div level2">
+                      <h2 class="head">Esquisse d’une rhétorique américaine</h2>
+                      <p class="label">I</p>
+                      <p class="p autofirst">Je venais d’arriver à New York. « Ne prenez pas la peine d’écrire pour eux, me dit l’un de nos écrivains les plus célèbres en Amérique, vendez-leur une idée et votre nom. » Il contait l’anecdote suivante : un magazine à fort tirage lui ayant demandé un papier de deux mille mots, il les livra et fut payé, mais cinq cents mots seulement parurent, dont plus aucun n’était de lui. La signature et l’idée générale permettaient cependant d’identifier le texte.</p>
+                      <p class="p">J’appris ainsi qu’il existait dans les revues et chez les éditeurs américains des personnages nommés <i class="i">re-writers</i> ou <i class="i">editors</i>, dont toute l’activité consiste à reviser ou à récrire les manuscrits, afin de les mettre au goût de la maison et à la portée du public que 
 <a class="pb" href="#pb86" id="pb86">[p. 86]</a>
  cette maison a décidé d’atteindre. Je me promis bien qu’on ne m’y prendrait pas. Et tout se passa fort décemment pour les premiers essais que je donnai à des revues sérieuses mais de tirage restreint.</p>
-                        <p class="p">Un beau jour, je reçois les épreuves d’un article qu’on m’avait commandé. Je me relis et crois rêver. Cela débute par une anecdote tirée de la page cinq du manuscrit ; puis vient ma conclusion, suivie de plusieurs fragments diversement intervertis, recombinés et ornés de sous-titres. De mon introduction ne subsiste qu’une phrase, placée d’ailleurs en conclusion. Je rougis, je pâlis, j’écris aux rédacteurs une lettre dont voici le début : « Messieurs, veuillez considérer la phrase suivante : <i class="i">roseau, le plus faible de la nature mais c’est un roseau</i>. Les mots sont de Pascal, incontestablement. Mais je doute fort qu’il eût accepté de les signer, les deux éléments significatifs de sa phrase, <i class="i">homme</i> et <i class="i">pensant</i>, ayant été coupés par le même <i class="i">editor</i>, apparemment, qui a pris soin de mon article. »</p>
-                      </section>
-                      <section id="body-4-4-2" class="div level3 level3">
-                        <h3 class="head">
-                          <span class="num">ii</span>
-                          <a class="bookmark" href="4#body-4-4-2"> §</a>
-                        </h3>
-                        <p class="p autofirst">Un peu soulagé par ma lettre, je me trouvai plus libre d’esprit pour discuter, à quelque temps de là, le principe même du <i class="i">rewriting</i>
-              
+                      <p class="p">Un beau jour, je reçois les épreuves d’un article qu’on m’avait commandé. Je me relis et crois rêver. Cela débute par une anecdote tirée de la page cinq du manuscrit ; puis vient ma conclusion, suivie de plusieurs fragments diversement intervertis, recombinés et ornés de sous-titres. De mon introduction ne subsiste qu’une phrase, placée d’ailleurs en conclusion. Je rougis, je pâlis, j’écris aux rédacteurs une lettre dont voici le début : « Messieurs, veuillez considérer la phrase suivante : <i class="i">roseau, le plus faible de la nature mais c’est un roseau</i>. Les mots sont de Pascal, incontestablement. Mais je doute fort qu’il eût accepté de les signer, les deux éléments significatifs de sa phrase, <i class="i">homme</i> et <i class="i">pensant</i>, ayant été coupés par le même <i class="i">editor</i>, apparemment, qui a pris soin de mon article. »</p>
+                      <p class="label">II</p>
+                      <p class="p autofirst">Un peu soulagé par ma lettre, je me trouvai plus libre d’esprit pour discuter, à quelque temps de là, le principe même du <i class="i">rewriting</i>
+            
 <a class="pb" href="#pb87" id="pb87">[p. 87]</a>
  avec un jeune journaliste américain. Il avait lu ma lettre et souriait sans mot dire. Je sentis qu’il trouvait que j’avais exagéré.</p>
-                        <p class="p">— Au fond, de quoi vous plaignez-vous ? dit-il enfin. Votre article était bon, tel qu’il fut publié. Il a paru, il a porté, trois millions de personnes ont pu le lire. À votre place, je serais content.</p>
-                        <p class="p">— Mais les interventions de l’<i class="i">editor</i> ont brisé tout le détail de l’argumentation !</p>
-                        <p class="p">— Qu’est-ce que cela fait ? Personne ne l’eût suivie. Vous savez bien que le lecteur moyen, chez nous, n’est pas sensible aux artifices de la logique. Ainsi accommodé, votre papier a certainement gagné en efficacité. Je suppose que c’est bien ce que vous vouliez ? Vous n’avez pas écrit pour qu’on admire votre habileté, mais pour convaincre le public de certaines vérités que vous jugiez utiles. C’est du moins ce qu’a pensé l’<i class="i">editor</i>. Il a trouvé la matière bonne, il a mis votre article en état de marche, et grâce à lui on vous a publié. Car l’<i class="i">editor</i> connaît nos règles, et sachez-le : pour faire paraître dans un grand magazine un article d’un type différent, il faudrait être F. D. R. lui-même.</p>
-                        <p class="p">— Ou Einstein ?</p>
-                        <p class="p">— On le lui récrirait.</p>
-                        <p class="p">— Voulez-vous m’enseigner vos règles ?</p>
-                        <p class="p">— Commencez par le <i class="i">catch phrase</i>, la 
+                      <p class="p">— Au fond, de quoi vous plaignez-vous ? dit-il enfin. Votre article était bon, tel qu’il fut publié. Il a paru, il a porté, trois millions de personnes ont pu le lire. À votre place, je serais content.</p>
+                      <p class="p">— Mais les interventions de l’<i class="i">editor</i> ont brisé tout le détail de l’argumentation !</p>
+                      <p class="p">— Qu’est-ce que cela fait ? Personne ne l’eût suivie. Vous savez bien que le lecteur moyen, chez nous, n’est pas sensible aux artifices de la logique. Ainsi accommodé, votre papier a certainement gagné en efficacité. Je suppose que c’est bien ce que vous vouliez ? Vous n’avez pas écrit pour qu’on admire votre habileté, mais pour convaincre le public de certaines vérités que vous jugiez utiles. C’est du moins ce qu’a pensé l’<i class="i">editor</i>. Il a trouvé la matière bonne, il a mis votre article en état de marche, et grâce à lui on vous a publié. Car l’<i class="i">editor</i> connaît nos règles, et sachez-le : pour faire paraître dans un grand magazine un article d’un type différent, il faudrait être F. D. R. lui-même.</p>
+                      <p class="p">— Ou Einstein ?</p>
+                      <p class="p">— On le lui récrirait.</p>
+                      <p class="p">— Voulez-vous m’enseigner vos règles ?</p>
+                      <p class="p">— Commencez par le <i class="i">catch phrase</i>, la 
 <a class="pb" href="#pb88" id="pb88">[p. 88]</a>
  phrase qui attrape et force l’attention. Et peu importe qu’elle n’ait guère de rapport avec l’essence de votre sujet. Puis en dix ou vingt lignes de <i class="i">leader</i>, donnez toute la substance de votre article. Ensuite, eh bien ! vous reprenez les phrases les plus frappantes de cette présentation, et vous les illustrez sans commentaires, selon le nombre de mots qu’on vous accorde. Et si possible, mais ce n’est pas indispensable, terminez sur un bang, un coup de cymbale. Je simplifie, je schématise évidemment. Comme vous seriez contraint de le faire, je pense, pour expliquer à un Américain les procédés de votre rhétorique française : le discours en trois points, conduit selon la logique, et précédé d’excuses et de formalités, qui impatienteraient notre public, bien loin de l’amuser ou de piquer son désir de lire plus avant.</p>
-                        <p class="p">— Il me semble que vous écrivez comme vous organisez vos cortèges et parades. Le <i class="i">catch phrase</i>, c’est la « majorette » qui marche en tête, extravagante, empanachée, levant très haut les jambes et marquant la mesure. Puis vient le groupe des officiels et des bannières, indiquant le but et le sens du cortège. Puis la foule qui n’est maintenue que par la plus légère force de police, jouant le rôle de la logique. Enfin des haut-parleurs ou quelque groupe comique ferment la marche.</p>
-                        <p class="p">
+                      <p class="p">— Il me semble que vous écrivez comme vous organisez vos cortèges et parades. Le <i class="i">catch phrase</i>, c’est la « majorette » qui marche en tête, extravagante, empanachée, levant très haut les jambes et marquant la mesure. Puis vient le groupe des officiels et des bannières, indiquant le but et le sens du cortège. Puis la foule qui n’est maintenue que par la plus légère force de police, jouant le rôle de la logique. Enfin des haut-parleurs ou quelque groupe comique ferment la marche.</p>
+                      <p class="p">
 <a class="pb" href="#pb89" id="pb89">[p. 89]</a>
  — Acceptons <i class="i">cum grano salis</i> vos essais de nous comprendre par images. Ce n’est pas toujours aussi puéril…</p>
-                        <p class="p">— Mais c’est souvent encore plus mécanique. Prenez ce numéro du <i class="i">New York Telegram</i> : tous les articles sur le même modèle ! Vous donnez la dépêche d’une agence en cinq lignes. Puis, en plus petit caractère, vous la récrivez en quelques ligues, en ajoutant des précisions sur la source ou le degré de son authenticité. Enfin vous la paraphrasez sur une colonne, en y mêlant d’autres informations de sources et de nature diverses, qui en recréent le contexte humain et la situent dans le jeu des forces mondiales. Et c’est peut-être l’origine du fameux « simultanéisme » d’un Dos Passos et de plusieurs de vos excellents romanciers.</p>
-                        <p class="p">— Notez que ces procédés ont fait leurs preuves sur la ligne de feu du contact quotidien avec le plus vaste public. Les écrivains font bien de se mettre à cette école, s’ils veulent <i class="i">agir</i> sur leurs contemporains.</p>
-                        <p class="p">— Toute la question est de savoir ce que nous entendons par <i class="i">agir</i>. Je vois bien que vos reporters sont les meilleurs du monde, je veux dire les plus efficaces dans le rendu et la « couleur ». Je vois aussi que vos romanciers empruntent à leur technique au moins autant qu’à celle du cinéma. Mais la raison de ces succès ne serait-elle pas que 
+                      <p class="p">— Mais c’est souvent encore plus mécanique. Prenez ce numéro du <i class="i">New York Telegram</i> : tous les articles sur le même modèle ! Vous donnez la dépêche d’une agence en cinq lignes. Puis, en plus petit caractère, vous la récrivez en quelques ligues, en ajoutant des précisions sur la source ou le degré de son authenticité. Enfin vous la paraphrasez sur une colonne, en y mêlant d’autres informations de sources et de nature diverses, qui en recréent le contexte humain et la situent dans le jeu des forces mondiales. Et c’est peut-être l’origine du fameux « simultanéisme » d’un Dos Passos et de plusieurs de vos excellents romanciers.</p>
+                      <p class="p">— Notez que ces procédés ont fait leurs preuves sur la ligne de feu du contact quotidien avec le plus vaste public. Les écrivains font bien de se mettre à cette école, s’ils veulent <i class="i">agir</i> sur leurs contemporains.</p>
+                      <p class="p">— Toute la question est de savoir ce que nous entendons par <i class="i">agir</i>. Je vois bien que vos reporters sont les meilleurs du monde, je veux dire les plus efficaces dans le rendu et la « couleur ». Je vois aussi que vos romanciers empruntent à leur technique au moins autant qu’à celle du cinéma. Mais la raison de ces succès ne serait-elle pas que 
 <a class="pb" href="#pb90" id="pb90">[p. 90]</a>
  vos standards de culture sont naturellement accordés au niveau d’un très bon journal ? Ce réglage parfait sur les longueurs d’ondes les plus faciles à capter n’empêche-t-il pas certaines intonations de passer ? Vous avez si bien pris le rythme du siècle qu’on se demande parfois si vous restez capables de le modifier. Je cherche les gêneurs chez vous, je n’en vois que deux, et qu’on accepte d’ailleurs, mais au seul titre d’experts dans un genre bien délimité : Henry Miller et Philip Wylie, l’un avec son <i class="i">Air Conditioned Nightmare</i>, l’autre avec <i class="i">Generation of Vipers</i>, un grand livre à mon sens, et le premier où l’Amérique d’aujourd’hui se reconnaisse, critiquée et jugée d’un point de vue impitoyablement américain… Mais je ne vois pas de novateurs, non, pas un seul depuis Faulkner. Je ne vois pas un seul penseur qui ait le courage de bouleverser votre manière de poser les problèmes, votre vocabulaire critique, vos rythmes et vos procédés. Et pourtant ne serait-ce point cela, au sens propre des termes, agir ou <i class="i">opérer</i> ?</p>
-                      </section>
-                      <section id="body-4-4-3" class="div level3 level3">
-                        <h3 class="head">
-                          <span class="num">iii</span>
-                          <a class="bookmark" href="4#body-4-4-3"> §</a>
-                        </h3>
-                        <p class="p autofirst">J’ai rapporté ce petit dialogue pour faire sentir que la question n’est pas tout à fait aussi simple que je l’avais pensé d’abord. 
+                      <p class="label">III</p>
+                      <p class="p autofirst">J’ai rapporté ce petit dialogue pour faire sentir que la question n’est pas tout à fait aussi simple que je l’avais pensé d’abord. 
 <a class="pb" href="#pb91" id="pb91">[p. 91]</a>
  Nos habitudes latines — ou peut-être scolaires — nous inclinent à juger barbare, sans examen, la préoccupation américaine d’immédiate efficacité. Mais, en retour, l’Américain jugera vaines et vaniteuses nos précautions logiques, nos excuses au lecteur, et notre goût du style cultivé pour lui-même quel que soit le sujet, l’occasion, ou le but précis que l’on vise. Le souci primordial de l’écrivain français digne du nom, c’est de durer par une forme achevée. Mais si l’Américain écrit, c’est pour agir : il acceptera donc sans douleur d’amour-propre les conditions prescrites de l’action, définies par les <i class="i">editors</i> qui savent comment atteindre un grand public. Et s’il est un artiste authentique, il écrira intuitivement pour envoûter le lecteur et soi-même par une sorte de rythme ou litanie de faits, — en prise directe sur l’émotivité du temps présent. Ici encore les procédés du journalisme américain fournissent l’un des secrets de l’art du roman qu’illustra la génération des Dos Passos, Steinbeck et Hemingway, dont tant de jeunes auteurs s’inspirent depuis quelques années.</p>
-                        <p class="p">Je ne songe pas seulement au fait que ces « trois grands » furent des reporters à leurs débuts et le redeviennent à l’occasion. Ou à cet autre fait que, dans le jargon des salles de rédaction américaines, un reportage s’appelle 
+                      <p class="p">Je ne songe pas seulement au fait que ces « trois grands » furent des reporters à leurs débuts et le redeviennent à l’occasion. Ou à cet autre fait que, dans le jargon des salles de rédaction américaines, un reportage s’appelle 
 <a class="pb" href="#pb92" id="pb92">[p. 92]</a>
  une « histoire », qu’il s’agisse d’un divorce sensationnel ou de la grève des mineurs. Je songe surtout au mouvement de l’esprit qui détermine, soit chez eux soit chez nous, non seulement une manière d’écrire mais aussi une manière de vivre, et même de faire de la politique.</p>
-                        <p class="p">Le Français n’écrit guère pour simplement décrire. Il vise et tend toujours, de tout son être, à dégager un sens satisfaisant. Avant tout, il « cherche à comprendre ». Et je crois qu’à son idée, donner un sens c’est généraliser. De même, comprendre c’est classer, ou résumer en une formule, en une maxime, en un proverbe. L’Américain cherche au contraire à « réaliser » le réel, à nous y enfoncer, et peut-être à s’y perdre. Une description, une énumération, un bombardement de faits et de sensations, ou bien leur juxtaposition sans liens logiques, peuvent y suffire, pense-t-il, dans la plupart des cas. Un dialogue d’apparence loufoque peut révéler une situation mieux qu’un commentaire astucieux. Et le mystère humain peut être mieux saisi par un compte rendu décousu que par une patiente analyse.</p>
-                        <p class="p">Au désir latin de comprendre afin de juger, répond l’essai. Au désir de « réaliser » répondent le reportage américain et le roman. Et c’est pourquoi l’information, dans le sens large que je viens de suggérer, 
+                      <p class="p">Le Français n’écrit guère pour simplement décrire. Il vise et tend toujours, de tout son être, à dégager un sens satisfaisant. Avant tout, il « cherche à comprendre ». Et je crois qu’à son idée, donner un sens c’est généraliser. De même, comprendre c’est classer, ou résumer en une formule, en une maxime, en un proverbe. L’Américain cherche au contraire à « réaliser » le réel, à nous y enfoncer, et peut-être à s’y perdre. Une description, une énumération, un bombardement de faits et de sensations, ou bien leur juxtaposition sans liens logiques, peuvent y suffire, pense-t-il, dans la plupart des cas. Un dialogue d’apparence loufoque peut révéler une situation mieux qu’un commentaire astucieux. Et le mystère humain peut être mieux saisi par un compte rendu décousu que par une patiente analyse.</p>
+                      <p class="p">Au désir latin de comprendre afin de juger, répond l’essai. Au désir de « réaliser » répondent le reportage américain et le roman. Et c’est pourquoi l’information, dans le sens large que je viens de suggérer, 
 <a class="pb" href="#pb93" id="pb93">[p. 93]</a>
  compte davantage que le jugement aux yeux de l’Américain moyen et de l’écrivain qui se propose de l’atteindre. Peut-être oublieront-ils souvent d’aller au-delà de ce stade préalable et de conclure, c’est-à-dire de juger, ce qui reste à nos yeux l’office propre de l’homme, et finalement son efficacité la moins douteuse lorsqu’il écrit. Tandis que le Français, parfois, jugera d’autant plus brillamment, mais aux dépens de son idéal même de vérité, qu’il se sera moins embarrassé d’informations en vrac et de sensations brutes, recherchées et subies jusqu’au point de provoquer une réaction nouvelle de l’être…</p>
-                      </section>
-                      <section id="body-4-4-4" class="div level3 level3">
-                        <h3 class="head">
-                          <span class="num">iv</span>
-                          <a class="bookmark" href="4#body-4-4-4"> §</a>
-                        </h3>
-                        <p class="p autofirst">Mais il faut élargir ce débat. Il dépasse de beaucoup la technique littéraire. Le monde moderne est ainsi fait que dans tous les plans, littérature, politique et religion, celui qui veut agir bute contre ce dilemme : ou bien s’adapter au public, dans l’intention de mieux l’atteindre, — mais alors ce que l’on transmet n’est plus le message original ; ou bien garder la pureté du message — mais on n’atteint pas le public.</p>
-                        <p class="p">C’est tout le problème du clerc de notre temps, écrivain, doctrinaire politique, ou prédicateur 
+                      <p class="label">IV</p>
+                      <p class="p autofirst">Mais il faut élargir ce débat. Il dépasse de beaucoup la technique littéraire. Le monde moderne est ainsi fait que dans tous les plans, littérature, politique et religion, celui qui veut agir bute contre ce dilemme : ou bien s’adapter au public, dans l’intention de mieux l’atteindre, — mais alors ce que l’on transmet n’est plus le message original ; ou bien garder la pureté du message — mais on n’atteint pas le public.</p>
+                      <p class="p">C’est tout le problème du clerc de notre temps, écrivain, doctrinaire politique, ou prédicateur 
 <a class="pb" href="#pb94" id="pb94">[p. 94]</a>
  religieux. S’il adopte le langage des masses, il augmentera ses chances d’être entendu, mais que peut-il espérer faire entendre dans les termes que suggère l’<i class="i">editor</i> ou qu’impose le censeur d’État ? C’est gagner le monde, mais à quoi ? Et c’est le gagner au prix de son âme. À l’inverse, qu’il se garde pur, il court le risque de rester inefficace, de n’être point compris, peu lu, ou refusé.</p>
-                        <p class="p">L’auteur américain, et pour d’autres raisons le soviétique, et d’une manière plus générale tous les écrivains engagés soit au service de l’opinion soit à celui d’un parti ou d’une secte, sacrifient volontiers leur style individuel aux nécessités de l’action. L’Européen, tout au contraire, estime que le détail du style, autant que l’ordonnance des idées, transmet une qualité unique qui seule rend efficace l’acte d’écrire.</p>
-                        <p class="p">Peut-être s’agit-il tout simplement de savoir si l’on veut le succès immédiat, ou quelque action profonde et à longue échéance. Mais les plus grands, et de tout temps, sont ceux qui ont refusé ce choix, confiant à la violence involontaire du style une efficacité d’un type nouveau. Et les <i class="i">editors</i> du lendemain disent que c’est cela qui porte et qu’il faut imiter…</p>
-                      </section>
+                      <p class="p">L’auteur américain, et pour d’autres raisons le soviétique, et d’une manière plus générale tous les écrivains engagés soit au service de l’opinion soit à celui d’un parti ou d’une secte, sacrifient volontiers leur style individuel aux nécessités de l’action. L’Européen, tout au contraire, estime que le détail du style, autant que l’ordonnance des idées, transmet une qualité unique qui seule rend efficace l’acte d’écrire.</p>
+                      <p class="p">Peut-être s’agit-il tout simplement de savoir si l’on veut le succès immédiat, ou quelque action profonde et à longue échéance. Mais les plus grands, et de tout temps, sont ceux qui ont refusé ce choix, confiant à la violence involontaire du style une efficacité d’un type nouveau. Et les <i class="i">editors</i> du lendemain disent que c’est cela qui porte et qu’il faut imiter…</p>
                     </section>
-                    <section id="body-4-5" class="div level2 level2">
+                    <section id="body-4-5" class="div level2">
                       <a class="pb" href="#pb95" id="pb95">[p. 95]</a>
-                      <h2 class="head">Vue générale des églises de New York<a class="bookmark" href="4#body-4-5"> §</a></h2>
+                      <h2 class="head">Vue générale des églises de New York</h2>
                       <p class="p autofirst">Je n’ai pas encore découvert cet autel « au dieu inconnu » que Saint Paul admirait à Athènes, mais j’ai tout lieu de croire qu’il existe à New York. Serait-ce cette Église du Centre Absolu dont je vois annoncée la « causerie mystique » en fin de la liste des services religieux, dans <i class="i">le New York Times</i> du samedi ? Remontant ces colonnes d’annonces qui tiennent une demi-page du journal, je trouve les rubriques suivantes : Société védantiste, Église universaliste, Église de l’Unité, Unitariens, Théosophes, Spiritualistes, Catholiques romains, Protestants épiscopaux, Presbytériens, Pentecôtistes, Méthodistes, Luthériens, Juifs réformés, Hindouistes, Huguenots, Science divine, Congrégationalistes, Réformés hollandais, Scientistes, Baptistes, Moraves, Disciples… Mais il y a aussi, qui n’annoncent pas leurs cultes : les Luthériens de Finlande et de Suède, les Orthodoxes serbes, grecs, ukrainiens et russes, les Vieux catholiques, les réformés Hongrois, l’Église catholique nationale de Pologne. Et cinquante sectes.</p>
                       <p class="p">Approchons-nous de ces églises par l’extérieur : par leur histoire d’abord, puis par 
 <a class="pb" href="#pb96" id="pb96">[p. 96]</a>
@@ -795,8 +799,8 @@
 <a class="pb" href="#pb102" id="pb102">[p. 102]</a>
  de ces cultes. Mais un de mes amis, argentin, sortant de la messe à Saint-Patrick, se plaignait de l’absence toute « protestante » du désordre gentil, de la distraction ou des marques de ferveur théâtrale qu’il s’attendait à retrouver dans un tel lieu…</p>
                     </section>
-                    <section id="body-4-6" class="div level2 level2">
-                      <h2 class="head">Religion et vie publique<a class="bookmark" href="4#body-4-6"> §</a></h2>
+                    <section id="body-4-6" class="div level2">
+                      <h2 class="head">Religion et vie publique</h2>
                       <p class="p autofirst">J’ai fait une découverte sur les États-Unis : c’est qu’il n’est pas de pays moderne où la religion tienne dans la vie publique une place plus importante et plus visible. Il faut être un Européen pour s’en étonner, me dit-on. De fait, pour un Américain qui connaît tant soit peu son histoire, rien n’apparaît plus naturel. Ce grand empire a commencé par les prières des émigrants. Il s’est fondé sur des groupes religieux qui constituèrent ses premières communes, et pour lesquels <i class="i">croyant</i> et <i class="i">citoyen</i> se trouvaient être, en fait, des synonymes.</p>
                       <p class="p">On peut apprécier diversement cette interpénétration de la vie ecclésiastique et de la vie publique (dans un pays, remarquons-le, où les Églises ont toujours été séparées de l’État). Je me bornerai pour aujourd’hui à la décrire comme un fait, un grand fait qui mérite d’autant plus d’être connu et médité 
 <a class="pb" href="#pb103" id="pb103">[p. 103]</a>
@@ -818,8 +822,8 @@
 <a class="pb" href="#pb107" id="pb107">[p. 107]</a>
  de la démocratie américaine. Il est important de savoir que les grandes cérémonies civiques et politiques de ce pays, aussi impressionnantes que les cérémonies totalitaires, se déroulent dans un cadre chrétien, immédiatement significatif pour la grande majorité des participants, créateur d’un sentiment unanime et profond, mais aussi différent que possible de ces passions de haine et d’orgueil collectif que l’on excite ailleurs. « Ô Dieu, priait le chapelain, revêts notre président du manteau de l’humilité…, couronne-le des dons les plus saints du chef, et permets que dans ces sombres jours, il puisse conduire un peuple pieux et uni de cette vallée d’ombre jusqu’aux éternelles collines de la paix. » Plusieurs dizaines de millions d’hommes entendaient cette prière, pouvaient s’y joindre.</p>
                     </section>
-                    <section id="body-4-7" class="div level2 level2">
-                      <h2 class="head">Une spiritualité engagée dans le siècle<a class="bookmark" href="4#body-4-7"> §</a></h2>
+                    <section id="body-4-7" class="div level2">
+                      <h2 class="head">Une spiritualité engagée dans le siècle</h2>
                       <p class="p autofirst">À l’origine et au premier rang de la lutte contre l’esclavage, de la lutte contre les taudis, de la lutte pour la prohibition, de la lutte pour les droits du travail, du pacifisme militant, bref de toutes les grandes causes publiques en Amérique, vous trouverez une église ou des pasteurs, plus dynamiques au nom de leur Bible qu’un démagogue au nom 
 <a class="pb" href="#pb108" id="pb108">[p. 108]</a>
  des droits du peuple. Pendant trois siècles, les dénominations diverses ont fourni aux Pionniers les rudiments vitaux de morale civique et privée sans lesquels nulle société n’est possible. Il ne s’agissait pas de « moralisme » (les <i class="i">ismes</i> n’apparaissent qu’une fois le combat rompu) ni « d’évangile social ». Il s’agissait d’une lutte pour l’existence, et les pasteurs y tenaient une fonction directrice. Elle leur est disputée de nos jours par la science vulgarisée, les commentateurs de radio, l’école publique, le cinéma et les comics. Mais ils en ont gardé le pli : leur christianisme est avant tout une force sociale, un moyen d’assurer une vie décente et de l’améliorer sur tous les plans. (Le christianisme européen, même aux temps héroïques d’avant le Moyen Âge, quand il assumait lui aussi toute la charge de la culture et du maintien de la morale dans la cité, préparait à la mort plus qu’à la vie.)</p>
@@ -862,7 +866,7 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -871,47 +875,25 @@
                       <a href="#">2. Vie culturelle et religieuse</a>
                       <ul>
                         <li class="collateral">
-                          <a href="4#body-4-1">Une presse qui informe ses lecteurs</a>
+                          <a href="4#body-4-1">2.a. Une presse qui informe ses lecteurs</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-2">Hollywood n’a plus d’idées</a>
+                          <a href="4#body-4-2">2.b. Hollywood n’a plus d’idées</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-3">Condition des écrivains et éditeurs</a>
+                          <a href="4#body-4-3">2.c. Condition des écrivains et éditeurs</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-4">Esquisse d’une rhétorique américaine</a>
-                          <ul>
-                            <li class="collateral">
-                              <a href="4#body-4-4-1">
-                                <span class="num">i</span>
-                              </a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-4-2">
-                                <span class="num">ii</span>
-                              </a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-4-3">
-                                <span class="num">iii</span>
-                              </a>
-                            </li>
-                            <li class="collateral">
-                              <a href="4#body-4-4-4">
-                                <span class="num">iv</span>
-                              </a>
-                            </li>
-                          </ul>
+                          <a href="4#body-4-4">2.d. Esquisse d’une rhétorique américaine</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-5">Vue générale des églises de New York</a>
+                          <a href="4#body-4-5">2.e. Vue générale des églises de New York</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-6">Religion et vie publique</a>
+                          <a href="4#body-4-6">2.f. Religion et vie publique</a>
                         </li>
                         <li class="collateral">
-                          <a href="4#body-4-7">Une spiritualité engagée dans le siècle</a>
+                          <a href="4#body-4-7">2.g. Une spiritualité engagée dans le siècle</a>
                         </li>
                       </ul>
                     </li>
@@ -922,7 +904,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -969,6 +951,17 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>3.a. La Guerre des sexes en Amérique – 3.b. De la passion – 3.c. Du matriarcat, du mariage et des « moms » – 3.d. Du divorce – 3.e. De la sexualité</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	3.a. La Guerre des sexes en Amérique (1947, Vivre en Amérique)
+body-5-2	3.b. De la passion (1947, Vivre en Amérique)
+body-5-3	3.c. Du matriarcat, du mariage et des « moms » (1947, Vivre en Amérique)
+body-5-4	3.d. Du divorce (1947, Vivre en Amérique)
+body-5-5	3.e. De la sexualité (1947, Vivre en Amérique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -979,10 +972,10 @@
                   <article role="article">
                     <a class="pb" href="#pb113" id="pb113">[p. 113]</a>
                     <h1 class="head kicker chapter">III</h1>
-                    <h1 class="head chapter">Vie privée<a class="bookmark" href="5"> §</a></h1>
-                    <section id="body-5-1" class="div level2 level2">
+                    <h1 class="head chapter">Vie privée</h1>
+                    <section id="body-5-1" class="div level2">
                       <a class="pb" href="#pb115" id="pb115">[p. 115]</a>
-                      <h2 class="head">La Guerre des sexes en Amérique<a class="bookmark" href="5#body-5-1"> §</a></h2>
+                      <h2 class="head">La Guerre des sexes en Amérique</h2>
                       <blockquote class="quote">
                         <p class="p autofirst">Le flirt en public (<i class="i">outdoor love-making</i>) vient d’être interdit à la station aéronavale de San Diego, Californie, tant pour le personnel de la Marine que pour les civils. Le capitaine Leslie E. Gehres, commandant de la Station, déclare que depuis quelque temps, on assiste à un croissant étalage en public de marques d’affection du genre communément appelé <i class="i">necking</i><a class="noteref" href="5#note3" id="note3_"><sup>3</sup></a>. S’il est vrai que tout le monde s’accorde à reconnaître qu’il s’agit là d’un passe-temps absorbant et plaisant, il est non moins généralement admis que ce n’est pas un sport public et diurne.</p>
                       </blockquote>
@@ -993,8 +986,8 @@
 <a class="pb" href="#pb117" id="pb117">[p. 117]</a>
  nous, mais l’autre étant un « sport » d’une nature différente — et c’est la seconde que j’essaierai de décrire.</p>
                     </section>
-                    <section id="body-5-2" class="div level2 level2">
-                      <h2 class="head">De la passion<a class="bookmark" href="5#body-5-2"> §</a></h2>
+                    <section id="body-5-2" class="div level2">
+                      <h2 class="head">De la passion</h2>
                       <p class="p autofirst">Je pense que l’Amérique en tant qu’américaine ignore le phénomène que nous nommons passion.</p>
                       <p class="p">J’écrivais dans un livre récent : « Rien de plus rare qu’une passion véritable, car elle suppose une très grande force d’imagination créatrice ; des dispositions spirituelles à la fois délicates et profondes, mais qui n’ont pas trouvé leur véritable objet ; un pouvoir exceptionnel de concentration, c’est-à-dire de fidélité ; enfin le mépris des biens terrestres et du bonheur… L’amour-passion ne peut exister que dans une civilisation marquée par la croyance en la valeur unique de chaque être. Il suppose un objet irremplaçable et comme prédestiné par un acte divin. » Ces lignes, écrites en Amérique, trahissent une critique inconsciente de l’atmosphère du Nouveau Monde : elles en peignent le négatif. L’Américain paraît peu doué pour les raffinements spirituels, peu capable de concentration, peu enclin au mépris des biens terrestres, 
 <a class="pb" href="#pb118" id="pb118">[p. 118]</a>
@@ -1005,8 +998,8 @@
                       <p class="p">Au vrai, l’amour-passion ne saurait exister dans une civilisation qui n’accorde à l’échec nulle dignité spirituelle, et qui ne tient pour vrai que ce qui réussit. Or, l’échec n’est pour eux qu’une perte sèche et non la condition d’un approfondissement de la conscience ou d’une plus grande densité de la vie.</p>
                       <p class="p">Comme on demandait à une Américaine intelligente si le suicide par amour existait aux États-Unis : non, dit-elle, si nous nous suicidons au lendemain d’une rupture ou d’une trahison, c’est simplement que nous n’aimons pas à rester seuls.</p>
                     </section>
-                    <section id="body-5-3" class="div level2 level2">
-                      <h2 class="head">Du matriarcat, du mariage et des « moms »<a class="bookmark" href="5#body-5-3"> §</a></h2>
+                    <section id="body-5-3" class="div level2">
+                      <h2 class="head">Du matriarcat, du mariage et des « moms »</h2>
                       <p class="p autofirst">Dans un tel monde, il ne subsiste que deux solutions praticables : le mariage, ou l’<i class="i">affair</i> d’un soir (car ils appellent <i class="i">affair</i> tout autre chose que le <i class="i">business</i> comme nous disons).</p>
                       <p class="p">Le mariage à l’américaine est une institution d’un type nouveau. Il se fonde sur l’égalité économique et légale des conjoints, donnant ainsi un avantage énorme aux femmes.</p>
                       <p class="p">C’est l’homme qui amène l’argent, en règle générale, mais c’est, la femme qui tient les 
@@ -1033,8 +1026,8 @@
  dont il ne serait que la conquête plus ou moins résignée ou satisfaite.</p>
                       <p class="p">Certains ménages moins riches, ou campagnards, ont une vie beaucoup plus normale : c’est là qu’on verra l’homme faire la vaisselle pendant que la femme couche les enfants, et tous les repas sont pris dans la petite cuisine blanche, parfois ornée d’un bar, toujours d’un frigidaire. Mais alors le mari perd en autorité ce qu’il gagne en intimité. Il se peut que les mariages de ce type — où l’homme joue le rôle de la machine numéro un dans la maison — soient ceux qui offrent le plus de garanties contre le divorce américain.</p>
                     </section>
-                    <section id="body-5-4" class="div level2 level2">
-                      <h2 class="head">Du divorce<a class="bookmark" href="5#body-5-4"> §</a></h2>
+                    <section id="body-5-4" class="div level2">
+                      <h2 class="head">Du divorce</h2>
                       <p class="p autofirst">Les statistiques établissent qu’aux États-Unis l’on divorce davantage que dans tout autre pays du monde, Suède comprise. Mais ce que les statistiques oublient de noter, c’est qu’on y divorce d’une manière tout à fait différente.</p>
                       <p class="p">Aux yeux des intéressés, le divorce américain ne saurait être, comme chez nous, la douloureuse rupture d’une longue intimité, celle-ci n’existant pas en règle générale. Aux yeux de la morale courante, il apparaît bien moins sous l’aspect d’un désordre social que 
 <a class="pb" href="#pb126" id="pb126">[p. 126]</a>
@@ -1050,8 +1043,8 @@
 <a class="pb" href="#pb129" id="pb129">[p. 129]</a>
  C’est une passion de la propreté, de la mise au net, d’origine nettement puritaine, qui explique peut-être, en fin de compte, le phénomène du divorce américain.</p>
                     </section>
-                    <section id="body-5-5" class="div level2 level2">
-                      <h2 class="head">De la sexualité<a class="bookmark" href="5#body-5-5"> §</a></h2>
+                    <section id="body-5-5" class="div level2">
+                      <h2 class="head">De la sexualité</h2>
                       <p class="p autofirst">Je mets en fait que le puritanisme, hérésie moraliste issue en Angleterre de la Réforme calvinienne, et transplantée dans toute sa virulence en Amérique, détermine de nos jours encore les mœurs sexuelles du Nouveau Monde. J’ajouterai qu’elle les détermine principalement par les réactions qu’elle provoque une fois refoulée dans l’inconscient de la plus composite des collectivités.</p>
                       <p class="p">L’élément puritain ou d’ascendance puritaine ne représente plus en Amérique qu’une infime minorité. Boston, son ancienne citadelle, est aujourd’hui en majorité catholique. Les Juifs, les Noirs, les Irlandais, les Polonais, les Italiens qui forment ensemble les trois quarts au moins de la population de New York, sont indemnes de toute trace directe d’éducation puritaine au foyer. Mais les standards moraux créés par les Pionniers leur sont transmis sous la forme atténuée de l’<i class="i">American way of life</i>, à l’école, dans la presse, au cinéma, au cours du soir pour 
 <a class="pb" href="#pb130" id="pb130">[p. 130]</a>
@@ -1102,7 +1095,7 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1114,19 +1107,19 @@
                       <a href="#">3. Vie privée</a>
                       <ul>
                         <li class="collateral">
-                          <a href="5#body-5-1">La Guerre des sexes en Amérique</a>
+                          <a href="5#body-5-1">3.a. La Guerre des sexes en Amérique</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-2">De la passion</a>
+                          <a href="5#body-5-2">3.b. De la passion</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-3">Du matriarcat, du mariage et des « moms »</a>
+                          <a href="5#body-5-3">3.c. Du matriarcat, du mariage et des « moms »</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-4">Du divorce</a>
+                          <a href="5#body-5-4">3.d. Du divorce</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-5">De la sexualité</a>
+                          <a href="5#body-5-5">3.e. De la sexualité</a>
                         </li>
                       </ul>
                     </li>
@@ -1134,7 +1127,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1181,6 +1174,30 @@
 }
           </value>
         </attributekey>
+        <attributekey handle="meta_description">
+          <value>4.a. Comment on entre en Amérique – 4.b. Premier traité : Ce qu’il ne faut plus dire ni penser de l’Amérique – 4.c. Second traité : Bien vu ou mal vu – 4.d. Comment ils accueillent un étranger – 4.e. Comment ils deviennent amis – 4.f. Comment ils s’unissent et se divisent – 4.g. Comment ils prennent la vie – 4.h. Comment ils inventent – 4.i. Comment ils construisent – 4.j. Comment ils sont scrupuleux ou non – 4.k. Comment ils se battent – 4.l. Comment ils élèvent leurs enfants, ou non – 4.m. Comment vous réussirez ou non en Amérique – 4.n. Comment on y devient fou – 4.o. Comment un Américain moyen juge la France – 4.p. Comment un Américain moyen voit le monde – 4.q. Comment l’Europe peut aider l’Amérique – 4.r. Comment l’Amérique peut aider l’Europe</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-6-1	4.a. Comment on entre en Amérique (1947, Vivre en Amérique)
+body-6-2	4.b. Premier traité : Ce qu’il ne faut plus dire ni penser de l’Amérique (1947, Vivre en Amérique)
+body-6-3	4.c. Second traité : Bien vu ou mal vu (1947, Vivre en Amérique)
+body-6-4	4.d. Comment ils accueillent un étranger (1947, Vivre en Amérique)
+body-6-5	4.e. Comment ils deviennent amis (1947, Vivre en Amérique)
+body-6-6	4.f. Comment ils s’unissent et se divisent (1947, Vivre en Amérique)
+body-6-7	4.g. Comment ils prennent la vie (1947, Vivre en Amérique)
+body-6-8	4.h. Comment ils inventent (1947, Vivre en Amérique)
+body-6-9	4.i. Comment ils construisent (1947, Vivre en Amérique)
+body-6-10	4.j. Comment ils sont scrupuleux ou non (1947, Vivre en Amérique)
+body-6-11	4.k. Comment ils se battent (1947, Vivre en Amérique)
+body-6-12	4.l. Comment ils élèvent leurs enfants, ou non (1947, Vivre en Amérique)
+body-6-13	4.m. Comment vous réussirez ou non en Amérique (1947, Vivre en Amérique)
+body-6-14	4.n. Comment on y devient fou (1947, Vivre en Amérique)
+body-6-15	4.o. Comment un Américain moyen juge la France (1947, Vivre en Amérique)
+body-6-16	4.p. Comment un Américain moyen voit le monde (1947, Vivre en Amérique)
+body-6-17	4.q. Comment l’Europe peut aider l’Amérique (1947, Vivre en Amérique)
+body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amérique)
+</value>
+        </attributekey>
       </attributes>
       <area name="Main">
         <blocks>
@@ -1191,11 +1208,11 @@
                   <article role="article">
                     <a class="pb" href="#pb135" id="pb135">[p. 135]</a>
                     <h1 class="head kicker chapter">IV</h1>
-                    <h1 class="head chapter">Conseil à un Français pour vivre en Amérique<a class="bookmark" href="6"> §</a></h1>
-                    <section id="body-6-1" class="div level2 level2">
+                    <h1 class="head chapter">Conseil à un Français pour vivre en Amérique</h1>
+                    <section id="body-6-1" class="div level2">
                       <a class="pb" href="#pb137" id="pb137">[p. 137]</a>
-                      <h2 class="head">1.
-            <br class="lb"/>Comment on entre en Amérique<a class="bookmark" href="6#body-6-1"> §</a></h2>
+                      <h2 class="head kicker">1.</h2>
+                      <h2 class="head">Comment on entre en Amérique</h2>
                       <p class="p autofirst">Tous les Américains, sauf les Indiens, seuls « premiers possesseurs du bois et du rocher », sont des anciens Européens. Des gens qui ont voulu oublier leur patrie (pays des pères ou <i class="i">Vaterland</i>) pour habiter une puérie (pays des enfants, ou <i class="i">Kinderland</i> comme disait Nietzsche). Vous qui entrez, ne pensez plus, avec le proverbe latin, qu’il est doux et honorable de mourir pour la terre des ancêtres, mais, au contraire, qu’il est décent de vivre pour sa descendance.</p>
                       <p class="p">Les deux pays tournés vers l’avenir et qui détermineront le cours du siècle, la Confédération américaine et la Confédération soviétique, sont aujourd’hui ceux qui paraissent craindre le plus l’intrusion des Européens. Pour entrer dans l’un, il faut être communiste ; 
 <a class="pb" href="#pb138" id="pb138">[p. 138]</a>
@@ -1208,9 +1225,10 @@
                       <p class="p">Tant de précautions et tant de garanties légales échoueront cependant à faire de vous un usager décent des libertés et servitudes américaines, si l’on omet de vous donner les moyens de pénétrer l’âme du pays.</p>
                       <p class="p">C’est pourquoi je vous propose de méditer, sur le pont du paquebot sans confort<a class="noteref" href="6#note5" id="note5_"><sup>5</sup></a> qui vous emmène vers Manhattan, les deux petits traités suivants.</p>
                     </section>
-                    <section id="body-6-2" class="div level2 level2">
+                    <section id="body-6-2" class="div level2">
                       <a class="pb" href="#pb140" id="pb140">[p. 140]</a>
-                      <h2 class="head">2.<i class="i"><br class="lb"/>Premier traité</i> : Ce qu’il ne faut plus dire ni penser de l’Amérique<a class="bookmark" href="6#body-6-2"> §</a></h2>
+                      <h2 class="head kicker">2.</h2>
+                      <h2 class="head"><i class="i">Premier traité</i> : Ce qu’il ne faut plus dire ni penser de l’Amérique</h2>
                       <p class="p autofirst">Mettez sur votre liste noire un certain nombre de lieux communs qui ont cours en France, et que plusieurs récitent encore en Amérique après des années de séjour.</p>
                       <p class="p"><i class="i">En Amérique, tout se ressemble : vous trouverez partout le même</i> drugstore<i class="i">, le coca-cola, et</i> Main Street.</p>
                       <p class="p">Cette phrase ne résiste pas au moindre examen. Dirai-je qu’en France tout se ressemble, parce que vous y trouverez partout la même épicerie, les mêmes bistros sur la même place de village, les mêmes apéros, et la même Grand Rue ? Un Américain pourrait le dire. Un Blanc débarquant en Chine ne manque jamais de remarquer que tous les Chinois se ressemblent. Un Chinois pensera de même que tous les Parisiens sont interchangeables. Ces ressemblances universelles n’existent que dans le regard du nouveau venu. Regard imprécis, déconcerté, et sollicité par tant d’images étranges qu’il n’y voit au premier abord que l’étrangeté justement, 
@@ -1235,10 +1253,10 @@
                       <p class="p">Quant au citoyen moyen des États-Unis, il tend de plus en plus à nous considérer comme des gens à qui l’on ne saurait se fier, renfermés, susceptibles, intolérants, pour tout dire peu civilisés.</p>
                       <p class="p">Mon objet n’est pas de juger, mais de décrire et d’avertir les candidats à la traversée de l’Atlantique.</p>
                     </section>
-                    <section id="body-6-3" class="div level2 level2">
+                    <section id="body-6-3" class="div level2">
                       <a class="pb" href="#pb146" id="pb146">[p. 146]</a>
-                      <h2 class="head">3.
-            <br class="lb"/><i class="i">Second traité</i> : Bien vu ou mal vu<a class="bookmark" href="6#body-6-3"> §</a></h2>
+                      <h2 class="head kicker">3.</h2>
+                      <h2 class="head"><i class="i">Second traité</i> : Bien vu ou mal vu</h2>
                       <p class="p autofirst center"><i class="i">Quelques points de comparaison entre les mœurs de l’Amérique et de l’Europe</i>. </p>
                       <p class="p">Les jugements de la morale courante, et non les lois (qui en résultent souvent, mais qui ne les créent presque jamais) déterminent l’atmosphère d’une civilisation et le degré de liberté concrète qu’elle nous ménage. Et je ne sais pas de meilleure méthode pour définir une civilisation que de rechercher ce qui est « bien vu » ou « mal vu » par ses usagers. Tentons ici un catalogue rapide des standards de l’Américain, que nous supposerons moyen pour l’occasion. Il est vrai que l’homme moyen n’est qu’une fiction : les romanciers modernes nous l’ont assez montré, c’est leur métier. Mais ils partent de cette fiction, pour la combattre. Partons-en, par commodité. Et bornons-nous à quelques sujets brûlants.</p>
                       <p class="p"><i class="i">Les impôts</i>. — En France, il est bien vu de tricher 
@@ -1277,16 +1295,16 @@
                       <p class="p"> </p>
                       <p class="p autofirst">Mais voici la statue de la Liberté, parmi les mâts et les cheminées d’usines, et voici la silhouette de Manhattan, et l’arrivée la plus célèbre au monde. En lisant mes deux petits traités, vous avez traversé l’Atlantique. Entrez maintenant dans la réalité du continent où vous amène un rêve. Je vous accompagne en sourdine, attentif à vous indiquer très rapidement, à la volée, lorsque je vous sentirai déconcerté — quelques points de comparaison avec l’Europe, avec la France surtout.</p>
                     </section>
-                    <section id="body-6-4" class="div level2 level2">
+                    <section id="body-6-4" class="div level2">
                       <a class="pb" href="#pb153" id="pb153">[p. 153]</a>
-                      <h2 class="head">4.
-            <br class="lb"/>Comment ils accueillent un étranger<a class="bookmark" href="6#body-6-4"> §</a></h2>
+                      <h2 class="head kicker">4.</h2>
+                      <h2 class="head">Comment ils accueillent un étranger</h2>
                       <p class="p autofirst">Le grand bourgeois de Paris et ses fils, lorsqu’ils rencontrent une tête nouvelle, ne sourient guère. Ils tendent une main précise, accompagnée d’un regard qui jauge cet adversaire ou ce partenaire possible. Qui va prendre avantage sur l’autre ? Ainsi se présentent-ils, comme s’ils venaient de tirer une invisible fermeture éclair.</p>
                       <p class="p">L’Américain s’ouvre, au contraire, comme sa bouche sur des dents éclatantes, et comme s’il n’avait attendu que votre arrivée, justement, pour donner enfin libre cours à ses puissances instinctives de cordialité et d’hospitalité.</p>
                     </section>
-                    <section id="body-6-5" class="div level2 level2">
-                      <h2 class="head">5.
-            <br class="lb"/>Comment ils deviennent amis<a class="bookmark" href="6#body-6-5"> §</a></h2>
+                    <section id="body-6-5" class="div level2">
+                      <h2 class="head kicker">5.</h2>
+                      <h2 class="head">Comment ils deviennent amis</h2>
                       <p class="p autofirst">À la deuxième rencontre, ou tout de suite, l’Américain vous dit votre prénom, vous raconte sa vie sentimentale et l’état de ses affaires, enfin vous invite pour un week-end.</p>
                       <p class="p">
 <a class="pb" href="#pb154" id="pb154">[p. 154]</a>
@@ -1294,17 +1312,17 @@
                       <p class="p">Mais en France des amitiés se nouent — terme intraduisible en anglais — des amitiés exigeantes et suivies, attentives et agissantes. Personne n’a plus, et mieux écrit sur l’amitié que les moralistes français, de Montaigne à Paul Valéry. Tandis qu’en Amérique, il vous arrive souvent de vous sentir seul au monde en connaissant tout le monde. La rançon d’une intimité trop rapide et superficielle, c’est la facilité avec laquelle cette intimité s’évapore. On se voit tous les jours pendant quelques semaines, puis plus du tout pendant un an. Et quand on se rencontre par hasard, on ne se demande pas ce qu’on est devenu, on rit, on boit, on ne s’étonne de rien, tout glisse et passe, il y a tant d’êtres sur la terre, tant de hasards, tant de manières de vivre, de bonnes et de mauvaises fortunes, par chance…</p>
                       <p class="p">Le sourire large des Américains dissimule leur vraie tragédie : la solitude.</p>
                     </section>
-                    <section id="body-6-6" class="div level2 level2">
+                    <section id="body-6-6" class="div level2">
                       <a class="pb" href="#pb155" id="pb155">[p. 155]</a>
-                      <h2 class="head">6.
-            <br class="lb"/>Comment ils s’unissent et se divisent<a class="bookmark" href="6#body-6-6"> §</a></h2>
+                      <h2 class="head kicker">6.</h2>
+                      <h2 class="head">Comment ils s’unissent et se divisent</h2>
                       <p class="p autofirst">En France, il y a les catholiques et les laïcs, c’est simple ; mais il y a d’autre part trente-six partis et sous-partis, tendances et nuances politiques.</p>
                       <p class="p">En Amérique, il y a les républicains et les démocrates, c’est simple ; mais il y a d’autre part trente-six « stocks » d’immigrants, et trente-six églises différentes, sous-églises, sectes et sous-sectes, transportées jadis ou naguère par des réfugiés religieux.</p>
                       <p class="p">Mais les Américains changent facilement d’église, selon leur domicile ou leur cercle d’amis, tandis que le Français donne l’impression qu’il ne changerait pas plus de parti que de passé.</p>
                     </section>
-                    <section id="body-6-7" class="div level2 level2">
-                      <h2 class="head">7.
-            <br class="lb"/>Comment ils prennent la vie<a class="bookmark" href="6#body-6-7"> §</a></h2>
+                    <section id="body-6-7" class="div level2">
+                      <h2 class="head kicker">7.</h2>
+                      <h2 class="head">Comment ils prennent la vie</h2>
                       <p class="p autofirst">Le Français est profondément sérieux, c’est même à mon avis l’espèce d’homme la plus sérieuse de la planète. Cependant ses chansons, son théâtre d’avant-guerre, ses 
 <a class="pb" href="#pb156" id="pb156">[p. 156]</a>
  romans à succès et ses produits d’exportation, humains ou commerciaux, le font passer pour plus léger que l’air. Il a fallu le Général de Gaulle et les récits de la Résistance pour que certains Américains pressentent enfin que la France est le pays du sérieux sobre, de l’intransigeance réaliste, des provinciaux vêtus de noir — « le noir, la couleur nationale ! » s’écrie un personnage de Giraudoux — sans parler des débats sur la laïcité ou les écoles confessionnelles.</p>
@@ -1312,35 +1330,35 @@
 <a class="pb" href="#pb157" id="pb157">[p. 157]</a>
  de « manque de sérieux », qu’ils ne cesseront pas d’échanger, sur la foi des caricatures traditionnelles.</p>
                     </section>
-                    <section id="body-6-8" class="div level2 level2">
-                      <h2 class="head">8.
-            <br class="lb"/>Comment ils inventent<a class="bookmark" href="6#body-6-8"> §</a></h2>
+                    <section id="body-6-8" class="div level2">
+                      <h2 class="head kicker">8.</h2>
+                      <h2 class="head">Comment ils inventent</h2>
                       <p class="p autofirst">Un ingénieur français, débarquant à New York, déclare que son pays vient de construire l’avion le plus rapide du monde. L’industrie française a tenu le coup, elle se remonte même si rapidement qu’elle bat déjà l’américaine sur le terrain le plus favorable à cette dernière. Mais tout compte fait, l’avion le plus rapide du monde n’existe qu’à un seul exemplaire. Et pendant qu’on le construisait, l’Amérique a produit quelques milliers d’appareils plus lourds et plus lents, qui n’ont d’autre avantage que de fonctionner sur toutes les grandes lignes du monde.</p>
                       <p class="p">Curieuse impatience du génie français : il invente sans relâche, et cent fois plus que le génie américain ; mais aussitôt il généralise son invention, son prototype ; c’est à ses yeux un stade atteint et dépassé, c’est comme si tous les avions de série étaient déjà faits ; il en est fatigué d’avance, et passe à l’invention suivante.</p>
                       <p class="p">
 <a class="pb" href="#pb158" id="pb158">[p. 158]</a>
  Vue d’Amérique, l’Europe apparaît comme une petite région de la planète proprement stupéfiante par la densité de ses inventions, tandis que l’Amérique vue d’Europe stupéfie par sa production standardisée. C’est que l’Européen s’ennuie plus vite et supporte moins de s’ennuyer. Tandis que l’Américain se contente plus longtemps des mêmes idées, des mêmes types d’appareils, parce qu’il les utilise vraiment, parce qu’il en vit, et qu’il ne spécule pas à leur sujet.</p>
                     </section>
-                    <section id="body-6-9" class="div level2 level2">
-                      <h2 class="head">9.
-            <br class="lb"/>Comment ils construisent<a class="bookmark" href="6#body-6-9"> §</a></h2>
+                    <section id="body-6-9" class="div level2">
+                      <h2 class="head kicker">9.</h2>
+                      <h2 class="head">Comment ils construisent</h2>
                       <p class="p autofirst">En Europe, terre des cathédrales, on demande à Le Corbusier de bâtir des églises en verre et en ciment : je me souviens du temple protestant de Drancy, et de vingt églises en style aérodynamique construites par les Allemands avant Hitler, ou par les Suisses ou par les Hollandais. Mais en Amérique, on copie le gothique, tant pour les églises que pour les universités. On pousse le raffinement jusqu’à construire le chœur en style roman, et la nef en style ogival ; jusqu’à reproduire les tours <i class="i">non terminées</i> des cathédrales européennes. Et les résidences 
 <a class="pb" href="#pb159" id="pb159">[p. 159]</a>
  luxueuses de la campagne ou de la ville sont régulièrement — sauf dans le Sud — de style Tudor, de style Renaissance, de style hollandais ou espagnol…</p>
                       <p class="p">Par contre, les cottages américains ont infiniment plus d’originalité, de diversité et d’élégance, que les maisons bourgeoises en France.</p>
                       <p class="p">Quant aux gratte-ciel, l’ère en est bien passée. Sauf à New York, ils ne sont pas rentables.</p>
                     </section>
-                    <section id="body-6-10" class="div level2 level2">
-                      <h2 class="head">10.
-            <br class="lb"/>Comment ils sont scrupuleux ou non<a class="bookmark" href="6#body-6-10"> §</a></h2>
+                    <section id="body-6-10" class="div level2">
+                      <h2 class="head kicker">10.</h2>
+                      <h2 class="head">Comment ils sont scrupuleux ou non</h2>
                       <p class="p autofirst">L’Américain ne pardonne pas une erreur de 2 cents dans un compte, mais se trompe joyeusement d’un pays quand il bombarde, d’un siècle quand il cite l’histoire, d’un ordre spirituel quand il critique un livre.</p>
                       <p class="p">Ce qu’il ne tolère pas, c’est le mensonge, et là précisément où le Français le considère comme allant de soi, j’entends vis-à-vis de l’État. Quand vous entrez en Amérique, on vous demande de remplir des questionnaires comportant des questions de ce genre : « Buvez-vous ? Modérément ? À l’excès ? Fumez-vous ? Avez-vous d’autres vices ? Êtes-vous partisan de doctrines tendant au 
 <a class="pb" href="#pb160" id="pb160">[p. 160]</a>
  renversement des institutions américaines ? » Vous pouvez répondre que vous êtes alcoolique et anarchiste, on vous laissera entrer. Mais si vous dites <i class="i">sous la foi du serment</i>, que vous ne l’êtes pas, et que votre vie plus tard prouve que vous l’êtes, l’amende ou la peine de prison seront triplées. Tout repose ici sur la parole donnée, seul fondement d’une réelle démocratie. Je mets à part le cas de l’<i class="i">Immigration Service</i>, déjà nommé, institution spécifiquement américaine dans ce sens qu’on n’en connaît point ailleurs l’équivalent, et cependant bien faite pour exciter l’indignation de l’Américain moyen s’il en soupçonnait les coutumes. Ce qui ne risque guère de se produire jamais, puisqu’aucun journaliste n’est admis à enquêter sur les mystères d’Ellis Island.</p>
                     </section>
-                    <section id="body-6-11" class="div level2 level2">
-                      <h2 class="head">11.
-            <br class="lb"/>Comment ils se battent<a class="bookmark" href="6#body-6-11"> §</a></h2>
+                    <section id="body-6-11" class="div level2">
+                      <h2 class="head kicker">11.</h2>
+                      <h2 class="head">Comment ils se battent</h2>
                       <p class="p autofirst">Voici le contraste le plus profond entre l’Ancien et le Nouveau Monde : leur manière de réagir à la souffrance. Prenons l’exemple de la mort à la guerre.</p>
                       <p class="p">Le Français, élevé dans l’idée que <i class="i">dulce et decorum est pro patria mori</i>, accepte de se 
 <a class="pb" href="#pb161" id="pb161">[p. 161]</a>
@@ -1348,10 +1366,10 @@
                       <p class="p">L’Américain, bien au contraire, considère la souffrance et la mort comme des accidents insensés, que rien au monde ne peut rendre acceptables ou justifiables. L’idée que la souffrance puisse devenir féconde ne l’effleure pas, tandis qu’elle règne sur notre inconscient, résidu des plus solennelles traditions religieuses de l’Occident. C’est pourquoi les Français avancent sous le feu de l’ennemi, tandis que les Américains s’assurent d’abord — quitte à payer le prix qu’il faut en matériel — que les batteries d’en face ont été écrasées.</p>
                       <p class="p">Cette folie apparente de l’Européen dénote un certain degré de spiritualité, car l’esprit se nourrit de sacrifices. Tandis que le bon sens américain trahit une certaine ignorance des conditions premières de la vie spirituelle. Les uns préfèrent les raisons de vivre à la vie même, et pour les autres, c’est l’inverse.</p>
                     </section>
-                    <section id="body-6-12" class="div level2 level2">
+                    <section id="body-6-12" class="div level2">
                       <a class="pb" href="#pb162" id="pb162">[p. 162]</a>
-                      <h2 class="head">12.
-            <br class="lb"/>Comment ils élèvent leurs enfants, ou non<a class="bookmark" href="6#body-6-12"> §</a></h2>
+                      <h2 class="head kicker">12.</h2>
+                      <h2 class="head">Comment ils élèvent leurs enfants, ou non</h2>
                       <p class="p autofirst">La journée d’école s’ouvre par une cérémonie patriotique et religieuse. Un des enfants préside, debout devant la classe. Il lit le premier verset d’un psaume, la classe répond par le second, il lit le troisième, etc. À l’antiphone succède le Notre Père, puis le chant du <i class="i">Star Spangled Banner</i>, et enfin le serment au drapeau. <i class="i">I’m proud to be an American</i> ! (Ceci dans les écoles publiques du New Jersey. Cette coutume varie beaucoup selon les États et selon les directeurs d’école.) Le reste de la journée n’est guère fatigant, et les devoirs à domicile s’expédient en moins d’une demi-heure. Quant aux notes, elles ne sont pas chiffrées. C’est : excellent, bon, suffisant ou défectueux. Et elles ne portent pas seulement sur l’histoire et l’arithmétique, mais sur le « sens social », « l’adaptation au milieu », les sports, les qualités d’initiative, et l’intérêt pris aux leçons. Les petits étrangers sont mal vus, et fréquemment persécutés, sous l’œil apparemment aveugle de l’institutrice. Tous les parents européens qui le peuvent font passer leurs 
 <a class="pb" href="#pb163" id="pb163">[p. 163]</a>
  enfants, après un an d’essai, dans une école privée.</p>
@@ -1360,9 +1378,9 @@
                       <p class="p">On ne fesse plus les enfants depuis Freud. Très peu de parents ont lu Freud, mais presque tous parlent couramment de complexes.</p>
                       <p class="p">Les Européens qui persistent dans leurs méthodes d’éducation européenne ne tardent pas à recevoir la visite de voisins avides de s’instruire : cette façon d’exiger le respect des enfants, de les faire travailler et lire, et même de leur donner des ordres, ne serait-ce pas un système nouveau, qu’il serait criminel d’ignorer ?</p>
                     </section>
-                    <section id="body-6-13" class="div level2 level2">
-                      <h2 class="head">13.
-            <br class="lb"/>Comment vous réussirez ou non en Amérique<a class="bookmark" href="6#body-6-13"> §</a></h2>
+                    <section id="body-6-13" class="div level2">
+                      <h2 class="head kicker">13.</h2>
+                      <h2 class="head">Comment vous réussirez ou non en Amérique</h2>
                       <p class="p autofirst">L’Américain moyen vit encore sur l’idée qu’il a tout comme un autre sa chance de devenir riche. Cette idée, réfutée par toutes les statistiques, lui est inculquée dès le Kindergarten. Le cinéma l’entretient et l’exporte. Vous pensez donc, quand vous entrez en Amérique, que c’est là que se cachait cette fortune qu’un juste sort vous doit et vous tient en réserve. Or vous avez beaucoup moins de chance de la trouver qu’un indigène, qui lui-même, n’en a qu’une sur mille.</p>
                       <p class="p">Voici la liste de vos handicaps Vous savez mal l’anglais. Vous vous fâchez trop vite. Vous tenez à ceci plutôt qu’à cela. Vous travaillez trop bien ou peut-être trop vite. Vous n’êtes pas ponctuel. Vous croyez aux passe-droits et aux coupe-file. Vous prenez trop de temps pour déjeuner. Vous vous expliquez trop et vous manquez de cette espèce de brutalité froide et contenue qui vous ferait prendre au sérieux. De plus, les hommes se méfieront de vous, s’ils sont mariés, à cause de la réputation que leurs femmes 
 <a class="pb" href="#pb165" id="pb165">[p. 165]</a>
@@ -1375,9 +1393,9 @@
  Si vous ne réussissez pas, n’accusez ni le sort, ni les gens, ni les choses, mais vous seul : alors vous serez Américain, et vous aurez une chance de réussir.</p>
                       <p class="p">Aux femmes de toute condition qui débarquent dans leur pays, les Américains recommandent : prenez un avocat, un docteur, un dentiste, un compte en banque et une police d’assurance. Vous serez alors à toute épreuve, et respectée.</p>
                     </section>
-                    <section id="body-6-14" class="div level2 level2">
-                      <h2 class="head">14.
-            <br class="lb"/>Comment on y devient fou<a class="bookmark" href="6#body-6-14"> §</a></h2>
+                    <section id="body-6-14" class="div level2">
+                      <h2 class="head kicker">14.</h2>
+                      <h2 class="head">Comment on y devient fou</h2>
                       <p class="p autofirst">Dans les grandes villes, et à New York surtout, vous prenez une telle habitude de n’être pas regardé, <i class="i">pas vu</i>, et pas jugé, que vous en profitez naturellement pour devenir fou.</p>
                       <p class="p">Il en va bien différemment dans les villages. Vous y deviendrez fou aussi, mais pour des raisons toutes contraires. Par compression sociale, irrésistiblement et cordialement intransigeante.</p>
                       <p class="p">J’ai observé souvent l’espèce de vertige qui s’empare des Européens après quelques mois d’Amérique, précisons : de grande ville américaine. Les mesures ont changé autour d’eux. Les cadres sociaux n’y sont plus, pour 
@@ -1386,10 +1404,10 @@
                       <p class="p">L’homme cherche encore à s’orienter, dans un monde qui paraît dépourvu de repères. Ce qu’il tenait pour sa valeur bien personnelle ne trouve pas court ici, n’est donc qu’un handicap. Il se voit plongé dans une foule où son bien et son mal passent inaperçus, et en tout cas ne sont pas pris au tragique. « Un homme en vaut un autre », lui dit-on. Il lui faut apprendre les règles d’un jeu nouveau, où les coups les mieux médités ratent vingt fois ; mais un jour le destin négligent lui offrira une chance imméritée qu’il lui faudra saisir au vol : le moindre scepticisme la tuerait.</p>
                       <p class="p">Ainsi jetés dans l’improvisation, personne ne peut prévoir comment ils s’en tireront, ces deux Français dont en Europe j’eusse tiré l’horoscope les yeux fermés, sans demander même leurs dates de naissance.</p>
                     </section>
-                    <section id="body-6-15" class="div level2 level2">
+                    <section id="body-6-15" class="div level2">
                       <a class="pb" href="#pb168" id="pb168">[p. 168]</a>
-                      <h2 class="head">15.
-            <br class="lb"/>Comment un Américain moyen juge la France<a class="bookmark" href="6#body-6-15"> §</a></h2>
+                      <h2 class="head kicker">15.</h2>
+                      <h2 class="head">Comment un Américain moyen juge la France</h2>
                       <p class="p autofirst">Au lendemain de la démission d’un énième cabinet à Paris, un Américain me disait :</p>
                       <p class="p">— En France, n’importe quel problème d’ajustement économique devient aussitôt politique, c’est-à-dire qu’il provoque des discours plus ou moins littéraires, un torrent de clichés qui n’ont aucun rapport avec la question, et des affirmations grandiloquentes d’attachement indéfectible aux principes généraux de la gauche ou de la droite. Posez la question d’une répartition des huiles et savons par l’État, et vous serez bientôt en plein délire : tous les partis nommeront des commissions pour savoir si l’usage du savon favorise sournoisement le fascisme, ou bien la mainmise moscoutaire. Ces commissions d’ailleurs ne seront occupées qu’à clamer, la cravate en bataille, des résolutions farouchement patriotiques, ou républicaines jusqu’à la mort. Plus question du savon. Brossez-vous.</p>
                       <p class="p">Nous ne posons pas de question de principe à propos de ce produit utile et hygiénique. S’il y a crise dans la fabrication et dans la répartition de l’article, nous étudions 
@@ -1405,9 +1423,9 @@
                       <p class="p">Et si nous ne sommes pas là pour consentir un prêt, payant la casse, vous parlez de notre hypocrisie…</p>
                       <p class="p">Avec tout cela, je me demande bien pourquoi nous adorons la France comme une femme ! Pour sa grâce et pour ses faiblesses de grande coquette blessée, peut-être. Mais aussi pour une certaine sagesse, une certaine retenue ou rigueur, un certain équilibre élégant et hardi, qui nous en imposent encore… Nous faisons à la France un crédit démesuré, plus qu’à nul autre pays au monde. Le sentez-vous ? À vous de n’en point abuser. C’est d’ailleurs très facile, me semble-t-il. Soyez honnêtes dans les négociations, comme le fut votre Herriot, que nous respectons. Et cessez de répéter sur notre compte des sottises pittoresques ou méprisantes. Nous sommes adultes.</p>
                     </section>
-                    <section id="body-6-16" class="div level2 level2">
-                      <h2 class="head">16.
-            <br class="lb"/>Comment un Américain moyen voit le monde<a class="bookmark" href="6#body-6-16"> §</a></h2>
+                    <section id="body-6-16" class="div level2">
+                      <h2 class="head kicker">16.</h2>
+                      <h2 class="head">Comment un Américain moyen voit le monde</h2>
                       <p class="p autofirst">Quels sont, se dit-il, les pays qui marchent le mieux en Europe ?</p>
                       <p class="p">
 <a class="pb" href="#pb172" id="pb172">[p. 172]</a>
@@ -1425,9 +1443,9 @@
                       <p class="p">Quant à nos bons voisins « Latins », je ne sais pourquoi, chaque fois que nous leur serrons la main, ils pincent les lèvres, comme, si l’on venait de leur marcher sur le pied. Ils ont les cheveux noirs, attention. Mais dans trois de leurs États, les dernières élections se sont passées presque sans coups de fusil. Peut-être atteindront-ils bientôt l’âge de majorité civique où la démocratie devient possible…</p>
                       <p class="p"><i class="i">To sum up</i> : Liberté, Prospérité et Poursuite du Bonheur, ce sont là mes trois idéaux. Et je ne les vois réalisés qu’en Amérique.</p>
                     </section>
-                    <section id="body-6-17" class="div level2 level2">
-                      <h2 class="head">17.
-            <br class="lb"/>Comment l’Europe peut aider l’Amérique<a class="bookmark" href="6#body-6-17"> §</a></h2>
+                    <section id="body-6-17" class="div level2">
+                      <h2 class="head kicker">17.</h2>
+                      <h2 class="head">Comment l’Europe peut aider l’Amérique</h2>
                       <p class="p autofirst">Comme je m’en veux de chacun de mes 
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  articles trop favorables ou trop critiques sur l’Amérique ! Car le contraire, chaque fois, peut aussi être vrai.</p>
@@ -1447,9 +1465,9 @@
  qui n’offrent plus d’aspérités et ne posent plus aucune question ; de mécanismes qui répondent à leur place ; et de musiques qui empêchent d’entendre le silence. Ils s’imaginent qu’un certain nombre de recettes et de martingales — d’ailleurs communiquées à tous les joueurs — suffiraient pour que chacun gagne. Enfin, ils ne croient pas au Mal…</p>
                       <p class="p">Le krach de 1929, Hitler, la guerre, et quelques privations ont causé les premières fissures dans cet édifice d’inconscience que chacun s’ingéniait à rendre étanche, — inconsciemment. Ce sont là des secousses extérieures. Qui sait si une loi de l’esprit ne les rend pas d’autant plus fortes et fréquentes que les poussées intimes de la conscience sont plus méthodiquement refoulées ? Qui sait quels malheurs historiques un réveil spirituel de l’Amérique ne pourrait pas lui épargner ? Si l’Europe peut y contribuer, elle aura bien mérité de la planète.</p>
                     </section>
-                    <section id="body-6-18" class="div level2 level2">
-                      <h2 class="head">18.
-            <br class="lb"/>Comment l’Amérique peut aider l’Europe<a class="bookmark" href="6#body-6-18"> §</a></h2>
+                    <section id="body-6-18" class="div level2">
+                      <h2 class="head kicker">18.</h2>
+                      <h2 class="head">Comment l’Amérique peut aider l’Europe</h2>
                       <p class="p autofirst">Seuls, les Européens — je connais leurs complexes — trouveront trop dures pour 
 <a class="pb" href="#pb179" id="pb179">[p. 179]</a>
  l’Amérique les quelques pages qui précèdent. L’Amérique a les reins solides. Elle a, sur tout autre pays que je connaisse, l’avantage d’accueillir les critiques avec mieux que de la tolérance : avec une volonté souriante mais sérieuse d’apprendre et de s’améliorer. J’y vois le signe de sa force.</p>
@@ -1488,7 +1506,7 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1503,63 +1521,63 @@
                       <a href="#">4. Conseil à un Français pour vivre en Amérique</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-6-1">1.  Comment on entre en Amérique</a>
+                          <a href="6#body-6-1">4.a. Comment on entre en Amérique</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-2">2.<i>  Premier traité</i> : Ce qu’il ne faut plus dire ni penser de l’Amérique</a>
+                          <a href="6#body-6-2">4.b. <i>Premier traité</i> : Ce qu’il ne faut plus dire ni penser de l’Amérique</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-3">3.  <i>Second traité</i> : Bien vu ou mal vu</a>
+                          <a href="6#body-6-3">4.c. <i>Second traité</i> : Bien vu ou mal vu</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-4">4.  Comment ils accueillent un étranger</a>
+                          <a href="6#body-6-4">4.d. Comment ils accueillent un étranger</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-5">5.  Comment ils deviennent amis</a>
+                          <a href="6#body-6-5">4.e. Comment ils deviennent amis</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-6">6.  Comment ils s’unissent et se divisent</a>
+                          <a href="6#body-6-6">4.f. Comment ils s’unissent et se divisent</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-7">7.  Comment ils prennent la vie</a>
+                          <a href="6#body-6-7">4.g. Comment ils prennent la vie</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-8">8.  Comment ils inventent</a>
+                          <a href="6#body-6-8">4.h. Comment ils inventent</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-9">9.  Comment ils construisent</a>
+                          <a href="6#body-6-9">4.i. Comment ils construisent</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-10">10.  Comment ils sont scrupuleux ou non</a>
+                          <a href="6#body-6-10">4.j. Comment ils sont scrupuleux ou non</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-11">11.  Comment ils se battent</a>
+                          <a href="6#body-6-11">4.k. Comment ils se battent</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-12">12.  Comment ils élèvent leurs enfants, ou non</a>
+                          <a href="6#body-6-12">4.l. Comment ils élèvent leurs enfants, ou non</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-13">13.  Comment vous réussirez ou non en Amérique</a>
+                          <a href="6#body-6-13">4.m. Comment vous réussirez ou non en Amérique</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-14">14.  Comment on y devient fou</a>
+                          <a href="6#body-6-14">4.n. Comment on y devient fou</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-15">15.  Comment un Américain moyen juge la France</a>
+                          <a href="6#body-6-15">4.o. Comment un Américain moyen juge la France</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-16">16.  Comment un Américain moyen voit le monde</a>
+                          <a href="6#body-6-16">4.p. Comment un Américain moyen voit le monde</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-17">17.  Comment l’Europe peut aider l’Amérique</a>
+                          <a href="6#body-6-17">4.q. Comment l’Europe peut aider l’Amérique</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-18">18.  Comment l’Amérique peut aider l’Europe</a>
+                          <a href="6#body-6-18">4.r. Comment l’Amérique peut aider l’Europe</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue.  La route américaine</a>
+                      <a href="7">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1569,13 +1587,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/7" name="Épilogue. La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/7" name="Épilogue . La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Épilogue. La route américaine (1947, Vivre en Amérique)</value>
+          <value>Épilogue . La route américaine (1947, Vivre en Amérique)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1601,7 +1619,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Épilogue. La route américaine"
+    "name": "Épilogue . La route américaine"
   }]
 }
           </value>
@@ -1616,7 +1634,7 @@
                   <article role="article">
                     <a class="pb" href="#pb181" id="pb181">[p. 181]</a>
                     <h1 class="head chapter">Épilogue
-          <br class="lb"/>La route américaine<a class="bookmark" href="7"> §</a></h1>
+          <br class="lb"/>La route américaine</h1>
                     <p class="p autofirst">L’Européen parle parfois de sa conception de la vie ; l’Américain (l’Anglais aussi) de son <i class="i">way of life</i>, littéralement : de sa route de vie. Ce qui est pour le Latin concept, forme arrêtée, devient chez eux chemin, voie et mouvement.</p>
                     <p class="p">C’est pourquoi je prendrai les routes d’Amérique comme un symbole du rêve et de la volonté du Nouveau Monde.</p>
                     <p class="p">On croyait close l’ère des pionniers, l’ère des défricheurs de savanes qui firent reculer la frontière de décade en décade, à travers le Far West, jusqu’à ce qu’ils eussent rejoint les terres du Pacifique. On ne pouvait plus rien ajouter aux plus hauts gratte-ciel de New York, à ces grandiloquents témoins de la Crise de 1929, où les affaires périssent et les bureaux se vident au-dessus du 50<sup class="sup">e</sup> étage, pour peu que la pression baisse à Wall Street. Un grand malaise étreignait l’âme américaine, 
@@ -1647,7 +1665,7 @@
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1662,7 +1680,7 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="here">
-                      <a href="#">Épilogue.  La route américaine</a>
+                      <a href="#">Épilogue .  La route américaine</a>
                     </li>
                   </ul>
                 ]]></content>
