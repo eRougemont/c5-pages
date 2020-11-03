@@ -110,22 +110,22 @@
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -587,22 +587,22 @@ body-2-9	g. Ce qui vient (1979, Rapport au peuple européen sur l’état de l�
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -965,22 +965,22 @@ body-3-4-2	I.1.b. D’urgence (1979, Rapport au peuple européen sur l’état d
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1286,22 +1286,22 @@ body-4-3	II.3. Solutions à l’échelle du continent (1979, Rapport au peuple e
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1311,13 +1311,13 @@ body-4-3	II.3. Solutions à l’échelle du continent (1979, Rapport au peuple e
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1979rpe/5" name="IV Les Régions" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1979rpe/5" name="III. L’environnement" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>IV Les Régions (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+          <value>III. L’environnement (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1343,7 +1343,300 @@ body-4-3	II.3. Solutions à l’échelle du continent (1979, Rapport au peuple e
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "IV Les Régions"
+    "name": "III. L’environnement"
+  }]
+}
+          </value>
+        </attributekey>
+        <attributekey handle="meta_description">
+          <value>III.1. Le souci écologiste – III.1.a. Réaction à l’agression industrielle – III.1.b. Dangers signalés par l’écologie – III.2. Nature des obstacles aux mesures requises – III.3. Solutions européennes – III.3.a. Les liens entre Économie, Énergie et Écologie – III.3.b. De l’énergie aux Régions par l’écologie – III.3.c. Changer de cap</value>
+        </attributekey>
+        <attributekey handle="subheads">
+          <value>body-5-1	III.1. Le souci écologiste (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-1-1	III.1.a. Réaction à l’agression industrielle (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-1-2	III.1.b. Dangers signalés par l’écologie (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-2	III.2. Nature des obstacles aux mesures requises (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-3	III.3. Solutions européennes (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-3-1	III.3.a. Les liens entre Économie, Énergie et Écologie (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-3-2	III.3.b. De l’énergie aux Régions par l’écologie (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+body-5-3-3	III.3.c. Changer de cap (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)
+</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article role="article">
+                    <h1 class="head kicker chapter">III.</h1>
+                    <h1 class="head chapter">L’environnement</h1>
+                    <section id="body-5-1" class="div level2">
+                      <h2 class="head kicker">1.</h2>
+                      <h2 class="head">Le souci écologiste</h2>
+                      <section id="body-5-1-1" class="div level3">
+                        <h3 class="head">Réaction à l’agression industrielle</h3>
+                        <p class="p autofirst">L’écologie que l’on considère ici est une politique de la vie et des équilibres dynamiques du vivant en tant qu’ils sont menacés par l’agression de la civilisation industrielle. L’écologie nous rappelle que le progrès technique et la science elle-même ne peuvent rien contre les lois fondamentales de la Nature, et qu’à vouloir les ignorer, c’est la survie de l’humanité que l’on menace.</p>
+                        <p class="p">L’écologie est donc une véritable politique, non pas au sens des rivalités partisanes, mais à celui des stratégies d’une civilisation. En tant que prévision des conditions de santé et d’activité créatrice de notre société occidentale, elle est même <i class="i">la politique par excellence</i>, s’il reste vrai que « gouverner c’est prévoir ».</p>
+                        <p class="p">
+<a class="pb" href="#pb94" id="pb94">[p. 94]</a>
+ Le souci écologique, souvent qualifié de « mode » par des chroniqueurs irréfléchis, répond en réalité à la « mode » du bétonnage des campagnes, de la pollution de l’air, des sols, des eaux et des océans par la production, le transport et l’usage gaspilleur des énergies primaires.</p>
+                        <p class="p">Le souci écologique répond à l’extinction de centaines d’espèces animales (baleines, éléphants, phoques, papillons…), à l’accumulation de déchets radioactifs dont nul ne sait comment se débarrasser « et qui doivent être complètement isolés de la biosphère pendant 200 000 à 240 000 ans, période bien plus longue que celle de l’histoire de l’homme »<a class="noteref" href="5#note18" id="note18_"><sup>18</sup></a>.</p>
+                        <p class="p">Le souci écologique résulte aussi des pénuries qui s’annoncent pour la fin de ce siècle : du pétrole, de l’uranium, de l’eau potable, et possiblement de l’oxygène si l’on continue à détruire les principales sources de sa production : le plancton des océans et les forêts déjà détruites à 40 % dans le monde depuis 1882.</p>
+                        <p class="p">Les rapports entre l’écologie et les agressions multiformes de la technostructure industrielle contre la Nature, contre les communautés, contre la physiologie de l’espèce et de l’individu sont analogues aux rapports entre la médecine et les « maladies de civilisation » comme le cancer et l’infarctus.</p>
+                        <p class="p">C’est surtout par la crainte des effets possibles de 
+<a class="pb" href="#pb95" id="pb95">[p. 95]</a>
+ l’énergie nucléaire — bombes ou centrales — sur l’environnement naturel et urbain, que le souci écologique a été éveillé dans la jeunesse et chez les intellectuels et scientifiques de nos pays, en tant qu’ils se sentent et se veulent responsables envers la société.</p>
+                        <p class="p">La résistance au nucléaire résulte de questions de bon sens telles que : « Pourquoi avons-nous besoin de tant et de toujours plus d’énergie ? N’y aurait-il pas moyen d’atteindre nos buts à moindres frais ? Ou d’utiliser de manière plus efficace ce que nous avons ? »<a class="noteref" href="5#note19" id="note19_"><sup>19</sup></a> À quoi l’on peut ajouter : « À quel prix avons-nous obtenu ce surcroît d’énergie ? » Et d’une manière plus générale : « À quel prix le Progrès matériel ? » Ce prix étant peut-être celui de notre milieu vital — de notre survie.</p>
+                      </section>
+                      <section id="body-5-1-2" class="div level3">
+                        <h3 class="head">Dangers signalés par l’écologie</h3>
+                        <p class="p autofirst">Les rapports annuels des Nations unies sur l’<i class="i">État de l’environnement</i>, de 1974 à 1978, dénoncent au nombre des dangers majeurs que la civilisation industrielle fait courir à la Nature et par là même à l’humanité :</p>
+                        <p class="p">1. <i class="i">L’altération de la couche d’ozone</i>. Les aérosols, les engrais azotés, les explosions nucléaires et les vols 
+<a class="pb" href="#pb96" id="pb96">[p. 96]</a>
+ supersoniques militaires et civils constituent une menace peut-être grave pour la couche d’ozone stratosphérique (15 à 50 km au-dessus de la surface terrestre en moyenne) qui protège contre les rayons ultra-violets la vie de l’homme, des animaux, des récoltes, des océans et du plancton. On estime que la couche d’ozone a déjà été réduite par l’effet des aérosols d’au moins 1 %, et le sera de 10 % en 2050 si l’on continue… Une guerre nucléaire mondiale aurait des conséquences désastreuses à cet égard : elle pourrait détruire de 20 % à 70 % l’écran vital que forme la couche d’ozone. L’explosion (dite « excursion ») d’un surgénérateur contenant 4 à 5 tonnes de plutonium transformées en aérosols dispersés tout autour de la planète par les courants stratosphériques serait pire encore, mais serait peut-être la <i class="i">dernière</i> explosion possible, faute de survivants encore disposés à en organiser d’autres. De diverses études, conduites indépendamment les unes des autres, sur les effets probables d’une déflagration nucléaire, il résulte en effet :</p>
+                        <p class="p">1° Que les dommages seraient tels — étendue, durée, irréversibilité dans la plupart des cas, coûts irréels de la restauration des villes et des cultures irradiées — que l’<i class="i">humanité entière pourrait en être mortellement atteinte</i>. (Blés des USA contaminés, qui nourrissent 45 % de l’humanité ; villes de l’Europe de l’Ouest balayées par les nuages de plutonium en aérosol, 
+<a class="pb" href="#pb97" id="pb97">[p. 97]</a>
+ raz de marée détruisant des millions d’hectares de culture, d’où famines, épidémies, révoltes vaines et meurtrières, etc.)</p>
+                        <p class="p">2° Que par suite les écologistes et tous les scientifiques ont dès maintenant pour devoir de préconiser une politique de destruction des armes nucléaires dans tous les pays qui en possèdent, ainsi que le démantèlement des réacteurs (« conventionnels » ou surgénérateurs) qui permettraient à de nouveaux pays d’en fabriquer et de les utiliser à la manière des terroristes. Ce qui fera crier à l’utopie, bien sûr, mais est-il « réaliste » de laisser les choses suivre leur cours actuel vers la catastrophe finale ?</p>
+                        <p class="p">Ajoutons encore que les dommages à la couche d’<i class="i">ozone</i> persisteront de 50 à 200 ans après que l’homme aura cessé de les causer.</p>
+                        <p class="p">2. <i class="i">Le cancer par l’environnement</i>. Le cancer est aujourd’hui reconnu comme résultant à 60 % à 90 % de notre environnement industriel, pénétré par « un demi-million de substances chimiques » et dix mille de plus chaque année. « La plupart sont sans aucun doute cancérigènes, surtout en combinaisons qu’il est impossible d’expérimenter toutes. »<a class="noteref" href="5#note20" id="note20_"><sup>20</sup></a></p>
+                        <p class="p">
+<a class="pb" href="#pb98" id="pb98">[p. 98]</a>
+ 3. <i class="i">La perte des sols</i>. La surface de terrain cultivée par habitant de notre globe aura diminué de moitié à la fin du siècle. Six cents millions d’hectares de terre cultivable auront été détériorés par l’érosion des sols, la salinisation, la progression urbaine, tandis que la population mondiale aura doublé.</p>
+                        <p class="p">La révélation de cette stérilisation de la terre, qui constitue peut-être la nouvelle la plus sensationnelle du siècle, a passé pratiquement inaperçue. Sur elle, pourtant, devrait se fonder la politique de notre génération.</p>
+                        <p class="p">4. <i class="i">L’abattage des arbres</i> et le maintien des terres en jachère, ouvrant la voie à l’érosion (par vents et eaux), sont les causes principales des dégâts aux sols et ensuite des famines dont vont souffrir et souffrent déjà des populations entières. C’est là la forme que prend la crise de l’énergie pour tous les pauvres de la terre. Le total des arbres coupés est très supérieur à celui des arbres en croissance<a class="noteref" href="5#note21" id="note21_"><sup>21</sup></a>. Le recul mondial des forêts oblige des millions d’hommes et de femmes à parcourir des distances toujours plus grandes pour se chauffer, cependant qu’il permet aux habitants de nos villes de lire distraitement leur journal, fait d’arbres sacrifiés.</p>
+                        <p class="p">
+<a class="pb" href="#pb99" id="pb99">[p. 99]</a>
+ Les quatre phénomènes décrits par le rapport des Nations unies pour 1977 paraissent reliés entre eux de tant de manières que la Commission les juge en fait « indissociables ». Il n’y a donc pas d’autre moyen de lutte que dans une étroite coopération interrégionale ou intercontinentale selon les cas.</p>
+                        <p class="p">Le premier de ces phénomènes (couche d’ozone atteinte) intéresse la totalité de la vie sur notre planète. Le deuxième (cancer) intéresse surtout le monde industrialisé (Occident et Japon). Quant aux troisième et quatrième (perte de sols, forêts détruites), ils affectent surtout le tiers monde, mais l’Europe subira inévitablement et rapidement leurs contrecoups.</p>
+                        <p class="p">Aux dangers majeurs dénoncés par l’ONU, il faut ajouter en ce qui concerne plus spécialement l’Europe :</p>
+                        <p class="p">5. <i class="i">La pénurie d’eau potable</i>. Selon une étude de la Commission économique pour l’Europe (Nations unies), l’eau des rivières et des nappes souterraines est déjà insuffisante pour les besoins de plusieurs de nos pays. L’Allemagne et la Belgique sont déjà importatrices d’eau. Alors que les réserves diminuent, la demande croît : il faudra recourir à l’eau salée pour refroidir les centrales nucléaires, d’où accroissement des activités économiques sur les zones côtières, d’où nouveau risque de déséquilibre écologique sur un littoral déjà fragile à cet égard. D’autre part, lacs, rivières et fleuves sont gravement menacés 
+<a class="pb" href="#pb100" id="pb100">[p. 100]</a>
+ par la pollution industrielle : le Rhin, « poubelle de l’Europe », déverse dans la mer du Nord 60 000 tonnes de déchets par jour.</p>
+                        <p class="p">6. <i class="i">Les produits nocifs dans l’alimentation</i>, qui la dénaturent sous prétexte de la « conserver », c’est-à-dire pour la vendre plus longtemps. Cela concerne en premier lieu les chapitres du cancer, du rachitisme, et de la mortalité infantile.</p>
+                        <p class="p">7. <i class="i">L’extinction d’espèces animales et végétales</i>. Pour l’Europe du Nord : harengs, baleines, insectes nécessaires à la pollinisation, hannetons, papillons, etc. La péninsule Ibérique et les Balkans possèdent encore la flore la plus riche d’Europe, mais dans ces deux régions, deux cents à trois cents espèces sont menacées d’extinction.</p>
+                        <p class="p">8. <i class="i">Les mégalopoles invivables</i> de 2 à 13 millions d’habitants, livrées à la délinquance produite par les grands ensembles, pollués et polluants (air et eaux), et dévorateurs d’énergie (tours, embouteillages, publicités lumineuses, etc.).</p>
+                      </section>
+                    </section>
+                    <section id="body-5-2" class="div level2">
+                      <h2 class="head kicker">2.</h2>
+                      <h2 class="head">Nature des obstacles aux mesures requises</h2>
+                      <p class="p autofirst">Dans la très grande majorité des cas de pollution ou de gaspillage, les remèdes ou les moyens de 
+<a class="pb" href="#pb101" id="pb101">[p. 101]</a>
+ prévention sont connus. Mais une série de résistances organiques, dans nos sociétés de type européen, freine leur application ou la rendent inopérante.</p>
+                      <p class="p"><i class="i">Résistance des industries</i>. — La réduction des pollutions augmente les coûts et les délais de production. La politique des grandes firmes consiste donc : a) à nier les dégâts (« Ce sont des bobards de gauchistes ») ; b) à les minimiser (« On exagère », « On fait le jeu des Soviets », « Nos experts ont démontré… ») ; c) à tourner les règlements édictés par les États ; d) à annoncer que « désormais » toutes les précautions sont prises ; e) et même à en prendre quelques-unes ; f) mais, si ces précautions s’avèrent trop coûteuses, à exporter dirigeants et machines, licences et pollutions dans des pays où la réglementation est moins sévère, voire inexistante — quitte à créer du chômage dans le pays d’origine, et des nuisances du type Seveso dans le pays d’accueil.</p>
+                      <p class="p"><i class="i">Résistance des États</i>. — Le jeu est le même, à ceci près qu’au lieu d’exporter la pollution, l’État, qui ne peut plus la nier, prend à sa charge les indemnisations, puis les mesures de prévention, puis le contrôle des règles « strictes » édictées par son ministre de l’Environnement après dix ou quinze ans d’abus devenus insupportables. Ce qui revient à faire supporter les frais de la pollution par ses victimes réelles ou potentielles, c’est-à-dire les contribuables, plutôt que par ses auteurs, qu’il ne faut pas indisposer. Au 
+<a class="pb" href="#pb102" id="pb102">[p. 102]</a>
+ reste, les frais de récupération de lacs, de fleuves, de littoraux déjà fortement compromis sont tels que l’on comprend que l’État hésite. Pour nettoyer le bassin du Rhin, de Strasbourg à Rotterdam par exemple, il faudrait un milliard de francs français par an. Comment trouver cette somme dans un budget déjà si lourdement obéré par l’aide aux firmes polluantes mais qui travaillent pour la défense nationale ?</p>
+                      <p class="p">Au surplus, nos États opposent aux mesures écologiques de tous ordres que préconisent les organisations privées ou mixtes, européennes ou mondiales, une fin de non-recevoir anticipée dès l’instant où une solution communautaire (transfrontalière, continentale ou planétaire) aux menaces de pollution les plus courantes<a class="noteref" href="5#note22" id="note22_"><sup>22</sup></a> ou les plus dramatiques<a class="noteref" href="5#note23" id="note23_"><sup>23</sup></a> risquerait de porter une atteinte quelconque à la « souveraineté nationale ». Nos États réagissent comme un malade qui invoquerait l’<i class="i">habeas corpus</i> pour interdire qu’on lui arrache une dent ou qu’on lui impose une quarantaine avant d’aller porter sa contagion chez le voisin.</p>
+                      <p class="p">Les motifs de la <i class="i">non-application</i> des mesures écologiques prises par les gouvernements, du <i class="i">sabotage</i>
+            
+<a class="pb" href="#pb103" id="pb103">[p. 103]</a>
+ des mesures préventives contre les effets chroniques des pollutions de tous ordres, ou du <i class="i">refus</i> officiel de coopérer sur le plan international, relèvent donc tous d’une priorité accordée aux profits économiques d’une part, aux « nécessités de la défense nationale » d’autre part.</p>
+                      <p class="p">Ce qui nous conduit à la conclusion que les menaces accumulées contre la Nature et l’environnement humain par la civilisation industrielle ne pourront être surmontées que dans la seule mesure où seront surmontés les dogmes du profit financier privé et de la souveraineté absolue des États, <i class="i">en tant qu’ils sont considérés comme les critères ultimes</i> de toute action politique, sociale ou militaire.</p>
+                      <p class="p">Si les Européens n’arrivent pas très vite à comprendre que le réalisme consiste à prévenir les écocatastrophes imminentes, non pas à flatter les vanités nationales, la crise actuelle est sans issue.</p>
+                    </section>
+                    <section id="body-5-3" class="div level2">
+                      <h2 class="head kicker">3.</h2>
+                      <h2 class="head">Solutions européennes</h2>
+                      <section id="body-5-3-1" class="div level3">
+                        <h3 class="head">Les liens entre Économie, Énergie et Écologie</h3>
+                        <p class="p autofirst">Ces liens sont tels qu’il ne serait pas sérieux de vouloir poursuivre simultanément l’intégration économique dans le cadre des Neuf ou des Douze, et la désintégration des équilibres naturels dans le cadre des souverainetés nationales.</p>
+                        <p class="p">
+<a class="pb" href="#pb104" id="pb104">[p. 104]</a>
+ Parmi les mesures à la fois écologiques et économiques qui s’imposent sans discussion à nos populations, nous dresserons tout d’abord une liste indicative — non exhaustive — des tâches écologiques les plus généralement tenues pour urgentes et réalisables :</p>
+                        <p class="p">1. La Commission des Communautés a demandé à ses services d’établir un <i class="i">plan européen de l’eau</i> qui permettrait d’intervenir dans certains projets de gestion des eaux, d’intérêt commun pour plusieurs États. L’une des premières tâches européennes est en effet la sauvegarde des lacs, rivières et fleuves pollués. (Exemples : le lac Léman pollué au mercure et au phosphore, et fortement eutrophisé ; le Rhin, pollué par cinq pays ; les estuaires transformés en aéroports et en docks pour pétroliers, d’où destruction de la faune marine, etc.)</p>
+                        <p class="p">2. La lutte contre l’accroissement de la <i class="i">concentration de CO<sub class="sub">2</sub></i> dans l’atmosphère, qui pourrait entraîner la fonte des calottes polaires, d’où une élévation du niveau des mers suffisante pour noyer toutes les villes portuaires.</p>
+                        <p class="p">3. La protection de la <i class="i">couche d’ozone</i>, par interdiction des aérosols, limitation des vols supersoniques et des engrais azotés.</p>
+                        <p class="p">4. Le contrôle sévère des produits chimiques : détergents, 
+<a class="pb" href="#pb105" id="pb105">[p. 105]</a>
+ insecticides, colorants, agents conservateurs des produits alimentaires, etc.</p>
+                        <p class="p">5. <i class="i">L’abandon des surgénérateurs</i> au profit des sources d’énergie solaire, éolienne, géothermique, biologique. L’option en faveur des surgénérateurs serait en effet irréversible : les surgénérateurs créeraient des tonnes de déchets radioactifs à traiter et à surveiller sans relâche jusqu’à l’extinction de leur activité, que rien au monde ne peut accélérer d’une seconde. Il est trop clair qu’aucun gouvernement existant ne saurait s’engager à assurer cette gestion pendant 240000 ans : aucune civilisation jusqu’ici n’a duré plus de 4 000 ans.</p>
+                        <p class="p">6. <i class="i">L’arrêt immédiat de la production de substances chimiques nouvelles</i> dont on ne saurait pas démontrer expérimentalement qu’on maîtrise les moyens de les éliminer sans dommages pour l’environnement ou pour les humains.</p>
+                        <p class="p">7. <i class="i">Le sauvetage des espèces animales</i> : baleines, phoques, éléphants, tigres, ocelots, etc., etc., menacées d’extinction à tout jamais irréparable.</p>
+                        <p class="p">8. <i class="i">L’arrêt du bétonnage des campagnes</i> : 18 % du sol des Pays-Bas est déjà bétonné, et ce sera 25 % avant la fin du siècle. À quoi serviront les autoroutes quand l’essence coûtera vingt fois plus qu’aujourd’hui ? La mise à l’étude immédiate de 
+<a class="pb" href="#pb106" id="pb106">[p. 106]</a>
+ formules de substitution à l’auto (et par suite peut-être aux autoroutes) devrait être une des tâches prioritaires d’une autorité fédérale européenne.</p>
+                        <p class="p">9. <i class="i">L’adoption par tous nos pays de critères d’urbanisme</i> propres à prévenir le développement d’allure cancéreuse des mégalopoles. (Villes nouvelles de 50000 habitants préconisées par C. Doxiadis et par nombre d’urbanistes d’avant-garde ; limitation du nombre d’étages ; rues et places fermées à la circulation automobile ; transports publics gratuits.)</p>
+                        <p class="p">10. <i class="i">L’étude des climats, des agents de modifications climatiques</i>, et des conséquences à en tirer pour nos industries et nos procédés de production d’énergie.</p>
+                        <p class="p">Au niveau européen, ces mesures impliquent des <i class="i">accords fédéraux, supranationaux</i>, permettant seuls d’entreprendre la lutte contre les pollutions « justifiées » par des calculs de profit local ou « autorisées » par la carence de lois nationales réglant la protection de l’environnement.</p>
+                        <p class="p">Une fois de plus, dans ce domaine, il apparaît à l’évidence que les solutions souhaitables ne deviendront possibles qu’au prix de l’union continentale de nos pays.</p>
+                        <p class="p">La première mesure générale indispensable étant de normaliser les prescriptions anti-pollution, afin de prévenir les évasions d’industries polluantes vers les 
+<a class="pb" href="#pb107" id="pb107">[p. 107]</a>
+ pays les moins exigeants à cet égard (procédé auquel recourent habituellement les multinationales).</p>
+                        <p class="p">La seconde mesure générale étant de confier à des agences continentales la distribution des tâches écologiques, selon leurs dimensions, tantôt à la Fédération, tantôt aux Régions.</p>
+                      </section>
+                      <section id="body-5-3-2" class="div level3">
+                        <h3 class="head">De l’énergie aux Régions par l’écologie</h3>
+                        <p class="p autofirst">Ces remèdes, pour agir, appellent deux conditions fondamentales :</p>
+                        <p class="p">a) La formation d’<i class="i">institutions régionales</i>, plus petites que la plupart de nos États nationaux, et mieux adaptées aux réalités locales, dont la diversité précisément est l’un des caractères distinctifs de l’Europe.</p>
+                        <p class="p">C’est au niveau régional, et là seulement, que peuvent être réalisées avec efficacité les mesures écologiques contre la pollution des eaux (nappes phréatiques, lacs, rivières), pour la production d’énergie solaire, éolienne, géothermique ou biologique, pour la protection des sols et des forêts, la défense des paysages et des monuments, etc.</p>
+                        <p class="p">b) La formation d’<i class="i">agences fédérales</i> de compétence continentale, seules capables de planifier des mesures de très grandes dimensions : protection de la couche d’ozone, protection des mers et des fleuves internationaux ; contrôle des produits alimentaires qui circulent en import-export dans tous nos pays ; interdiction des 
+<a class="pb" href="#pb108" id="pb108">[p. 108]</a>
+ surgénérateurs par accord international ; substituts à l’auto et aux autoroutes ; normalisation des règlements anti-pollution.</p>
+                        <p class="p">Des institutions mixtes seraient amenées à traiter, par exemple, de problèmes d’urbanisme, de sols, de mers, ou de sauvetage des espèces.</p>
+                        <p class="p">Ces conditions de réalisation de mesures conservatoires de l’homme, de la Nature, des villes, et de leurs interrelations équilibrées, excluent absolument le recours automatique à la « souveraineté nationale absolue » et au principe sacro-saint de la « non-ingérence », principes que l’on oublie d’ailleurs d’appliquer quand on crée des menaces de pollution contre un pays voisin. La morale (et l’utilité pour le plus grand nombre) doit passer avant les égoïsmes et les prestiges nationaux, mal compris la plupart du temps.</p>
+                        <p class="p">L’humanité d’aujourd’hui et de demain ne peut accepter que les États invoquent leur « souveraineté » pour se soustraire à des obligations écologiques vitales, sous prétexte que celles-ci se trouvent être, le plus souvent, selon leur nature et leurs dimensions, continentales, transfrontalières ou régionales.</p>
+                      </section>
+                      <section id="body-5-3-3" class="div level3">
+                        <h3 class="head">Changer de cap</h3>
+                        <p class="p autofirst">Certes, il n’est pas question que tous les citoyens et citoyennes de nos pays se transforment en savants 
+<a class="pb" href="#pb109" id="pb109">[p. 109]</a>
+ écologistes. Ce qui est requis par la crise actuelle, impérieusement, c’est que les femmes et les hommes d’Europe, les plus conscients de leur devoir civique, s’habituent à <i class="i">subordonner</i> le « progrès » matériel au bien-être moral, le profit immédiat de quelques-uns aux chances de bonheur de chacun, la « défense nationale » à la paix, l’énergie aux buts du travail qu’elle est censée servir ; et les mythes nationalistes aux réalités quotidiennes.</p>
+                        <p class="p">Il est fort peu probable que les mesures préconisées dans ce Rapport soient appliquées par les États s’ils n’y sont pas contraints par des accidents graves, d’ores et déjà inévitables, et par la volonté des citoyens, telle qu’elle pourra s’exprimer notamment lors des élections au Parlement européen.</p>
+                        <p class="p">En assumant leurs droits autant que leurs devoirs à l’échelle locale, et en votant pour les candidats les plus conscients des réalités écologiques et régionales, nos peuples possèdent désormais des moyens efficaces de donner forme au seul avenir possible pour l’Europe.</p>
+                      </section>
+                    </section>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="5#pb94">p. 94</a>
+                        </div>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="5#note18_">18. </a><i class="i">État de l’environnement 1975</i>, Programme des Nations unies pour l’environnement, p. 13 (English Text. p. 12).</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="5#pb95">p. 95</a>
+                        </div>
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="5#note19_">19. </a>Robert <span class="sc">Allen</span>, « Vers une stratégie de l’écologie pour l’Europe », in <i class="i">La Promesse du XX<sup class="sup">e</sup> siècle</i>, Table ronde du Conseil de l’Europe, 1974.</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="5#pb97">p. 97</a>
+                        </div>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="5#note20_">20. </a><i class="i">États de l’environnement</i>, 1977, ONU.</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="5#pb98">p. 98</a>
+                        </div>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="5#note21_">21. </a>Les combustibles fossiles (charbon, pétrole, gaz) représentent 90 % de l’énergie utilisée dans le monde entier, le bois 6 % seulement. Mais dans l’ensemble du tiers monde, le bois représente 28 %. Et dans les pays africains au sud du Sahara : 75 % !</aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="5#pb102">p. 102</a>
+                        </div>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="5#note22_">22. </a>Mers, fleuves, lacs, nappes phréatiques ; produits alimentaires exportés-importés ; et toutes les pollutions que les frontières n’arrêtent pas.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="5#note23_">23. </a>« Excursions » dans les centrales nucléaires proches d’une frontière : 16 centrales autour du coude du Rhin à Bâle, et surgénérateur de Creys-Malville, à 70 km de Genève (sous le vent) et à 30 km de Lyon.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ul>
+                    <li class="collateral">
+                      <a href="1">Avertissement</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="2">Introduction</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="3">I. L’économie</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="4">II. L’énergie</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">III. L’environnement</a>
+                      <ul>
+                        <li class="collateral">
+                          <a href="5#body-5-1">III.1. Le souci écologiste</a>
+                          <ul>
+                            <li class="collateral">
+                              <a href="5#body-5-1-1">III.1.a. Réaction à l’agression industrielle</a>
+                            </li>
+                            <li class="collateral">
+                              <a href="5#body-5-1-2">III.1.b. Dangers signalés par l’écologie</a>
+                            </li>
+                          </ul>
+                        </li>
+                        <li class="collateral">
+                          <a href="5#body-5-2">III.2. Nature des obstacles aux mesures requises</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="5#body-5-3">III.3. Solutions européennes</a>
+                          <ul>
+                            <li class="collateral">
+                              <a href="5#body-5-3-1">III.3.a. Les liens entre Économie, Énergie et Écologie</a>
+                            </li>
+                            <li class="collateral">
+                              <a href="5#body-5-3-2">III.3.b. De l’énergie aux Régions par l’écologie</a>
+                            </li>
+                            <li class="collateral">
+                              <a href="5#body-5-3-3">III.3.c. Changer de cap</a>
+                            </li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                    <li class="collateral">
+                      <a href="6">IV. Les Régions</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="7">V. La défense de l’Europe</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="8">VI. L’Europe et le tiers monde</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="9">VII. Programme pour les Européens</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="10">Annexes</a>
+                    </li>
+                  </ul>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/livres/ddr1979rpe/6" name="IV. Les Régions" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Chapter</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>IV. Les Régions (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+        </attributekey>
+        <attributekey handle="meta_ld">
+          <value>
+{
+  "@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Rougemont",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/",
+      "@type": "Person"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Rapport au peuple européen sur l’état de l’union de l’Europe (1979)",
+    "item": {
+      "@id": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+      "@type": "Book"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 3,
+    "name": "IV. Les Régions"
   }]
 }
           </value>
@@ -1400,7 +1693,7 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
               
 <a class="pb" href="#pb115" id="pb115">[p. 115]</a>
 
-              <i class="i">linguistiques</i> englobées, contre leur gré le plus souvent, dans un État national plus vaste qui tend à supprimer leur identité et à éliminer par tous les moyens leurs caractéristiques culturelles, juridiques, économiques et sociales, à mesure que la centralisation se fait plus impérieuse dans tous ces domaines. Exemples : Écosse, Pays de Galles, Bretagne, Euskadi, Catalogne, Occitanie, Corse, Sud Tyrol, val d’Aoste, Alsace, Flandres, Jura. Leurs doléances et revendications sont toujours les mêmes : droit à leur langue historique dans tous les domaines de la vie publique (écoles, conseils, tribunaux, media, publications), suppression des discriminations de tout ordre (économiques autant que culturelles et sociales) dont ils se disent victimes et qu’exercerait à son profit l’ethnie dominante dans l’État national (la castillane, la française, l’anglaise, la wallonne, la piémontaise et la lombarde, etc.), cette ethnie dominante n’imposant pas seulement sa langue, dite « littéraire », aux « dialectes » des peuples conquis, mais ses systèmes de valeurs<a class="noteref" href="5#note24" id="note24_"><sup>24</sup></a>.</p>
+              <i class="i">linguistiques</i> englobées, contre leur gré le plus souvent, dans un État national plus vaste qui tend à supprimer leur identité et à éliminer par tous les moyens leurs caractéristiques culturelles, juridiques, économiques et sociales, à mesure que la centralisation se fait plus impérieuse dans tous ces domaines. Exemples : Écosse, Pays de Galles, Bretagne, Euskadi, Catalogne, Occitanie, Corse, Sud Tyrol, val d’Aoste, Alsace, Flandres, Jura. Leurs doléances et revendications sont toujours les mêmes : droit à leur langue historique dans tous les domaines de la vie publique (écoles, conseils, tribunaux, media, publications), suppression des discriminations de tout ordre (économiques autant que culturelles et sociales) dont ils se disent victimes et qu’exercerait à son profit l’ethnie dominante dans l’État national (la castillane, la française, l’anglaise, la wallonne, la piémontaise et la lombarde, etc.), cette ethnie dominante n’imposant pas seulement sa langue, dite « littéraire », aux « dialectes » des peuples conquis, mais ses systèmes de valeurs<a class="noteref" href="6#note24" id="note24_"><sup>24</sup></a>.</p>
                         <p class="p">b) D’autres régions, telles que le Mezzogiorno, la Sardaigne, le Sud-Ouest de la France, ou la Calotte du Nord (cercle polaire), sont définies en tant que 
 <a class="pb" href="#pb116" id="pb116">[p. 116]</a>
  problèmes <i class="i">essentiellement économiques</i> — ceux dont s’occupe la Direction générale de la politique régionale des Communautés. Les revendications ethniques n’y jouent pratiquement aucun rôle.</p>
@@ -1434,7 +1727,7 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
                         <a class="pb" href="#pb121" id="pb121">[p. 121]</a>
                         <h3 class="head">Ce qui a été fait jusqu’ici</h3>
                         <p class="p autofirst">En Europe, tout commence par des congrès, y compris les révolutions. Et la « révolution régionaliste », comme certains l’ont déjà baptisée, n’y a pas manqué.</p>
-                        <p class="p">À Bruxelles, en 1961, la <i class="i">Conférence sur les économies régionales</i> apparaît comme la première reconnaissance officielle du thème régional sur le plan européen. Des initiatives spontanées groupant économistes, industriels, sociologues, députés et élus locaux répondent dans plusieurs pays à ce signal d’ouverture du débat, tandis qu’à la « Direction générale de la politique régionale » créée par les Communautés de Bruxelles répondra dès 1970 la « Conférence européenne des pouvoirs locaux et régionaux » du Conseil de l’Europe. Celle-ci convoque à Strasbourg en 1972 une première <i class="i">Confrontation européenne des régions frontalières</i><a class="noteref" href="5#note25" id="note25_"><sup>25</sup></a>.</p>
+                        <p class="p">À Bruxelles, en 1961, la <i class="i">Conférence sur les économies régionales</i> apparaît comme la première reconnaissance officielle du thème régional sur le plan européen. Des initiatives spontanées groupant économistes, industriels, sociologues, députés et élus locaux répondent dans plusieurs pays à ce signal d’ouverture du débat, tandis qu’à la « Direction générale de la politique régionale » créée par les Communautés de Bruxelles répondra dès 1970 la « Conférence européenne des pouvoirs locaux et régionaux » du Conseil de l’Europe. Celle-ci convoque à Strasbourg en 1972 une première <i class="i">Confrontation européenne des régions frontalières</i><a class="noteref" href="6#note25" id="note25_"><sup>25</sup></a>.</p>
                         <p class="p">Lors de ces rencontres, désormais régulières, les délégués des Régions en formation peuvent comparer leurs problèmes, leurs méthodes, leurs solutions. Ils 
 <a class="pb" href="#pb122" id="pb122">[p. 122]</a>
  découvrent que si chaque région présente des caractères uniques, c’est par là qu’elle ressemble le plus à toutes les autres. Ils sortent de leur longue lutte en retraite, parfois désespérée, pour entrer dans un grand mouvement continental de renouveau.</p>
@@ -1482,14 +1775,14 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
                       <section id="body-6-3-1" class="div level3">
                         <h3 class="head">Repartir d’en bas</h3>
                         <blockquote class="quote">
-                          <p class="p autofirst">Il ne saurait y avoir de liberté réelle du citoyen tant que les collectivités dont il fait partie ne sont pas devenues elles-mêmes pleinement responsables.<a class="noteref" href="5#note26" id="note26_"><sup>26</sup></a></p>
-                          <p class="p">Nous allons essayer d’humaniser la vie professionnelle et de renforcer la participation de chacun au sein des communautés locales et provinciales. Notre programme tient en un mot : décentralisation.<a class="noteref" href="5#note27" id="note27_"><sup>27</sup></a></p>
+                          <p class="p autofirst">Il ne saurait y avoir de liberté réelle du citoyen tant que les collectivités dont il fait partie ne sont pas devenues elles-mêmes pleinement responsables.<a class="noteref" href="6#note26" id="note26_"><sup>26</sup></a></p>
+                          <p class="p">Nous allons essayer d’humaniser la vie professionnelle et de renforcer la participation de chacun au sein des communautés locales et provinciales. Notre programme tient en un mot : décentralisation.<a class="noteref" href="6#note27" id="note27_"><sup>27</sup></a></p>
                           <p class="p">
 <a class="pb" href="#pb128" id="pb128">[p. 128]</a>
- L’État national n’est plus le critère ultime de la politique, dans notre pays.<a class="noteref" href="5#note28" id="note28_"><sup>28</sup></a></p>
+ L’État national n’est plus le critère ultime de la politique, dans notre pays.<a class="noteref" href="6#note28" id="note28_"><sup>28</sup></a></p>
                         </blockquote>
                         <p class="p autofirst">Ces trois déclarations définissent très clairement les conditions de toute restauration ou création de communautés efficaces et pacifiques, là où le centralisme napoléonien a manifestement échoué.</p>
-                        <p class="p">Il faut inverser la tendance : au lieu de tout dicter à partir d’un centre administratif sourd aux directives politiques quelles qu’elles soient et de si haut qu’elles viennent<a class="noteref" href="5#note29" id="note29_"><sup>29</sup></a>, il nous faut repartir d’en bas, des groupes et des communautés locales. Avec la force immense de la germination !</p>
+                        <p class="p">Il faut inverser la tendance : au lieu de tout dicter à partir d’un centre administratif sourd aux directives politiques quelles qu’elles soient et de si haut qu’elles viennent<a class="noteref" href="6#note29" id="note29_"><sup>29</sup></a>, il nous faut repartir d’en bas, des groupes et des communautés locales. Avec la force immense de la germination !</p>
                         <p class="p">Partir d’en bas, c’est-à-dire des plus petites unités, signifie très exactement ceci, que le diplomate américain D. Moynihan formulait naguère à propos des États-Unis, mais qu’il est facile de transposer en termes européens :</p>
                         <blockquote class="quote">
                           <p class="p autofirst">Ne confiez jamais à une plus grande unité ce qui peut être fait par une plus petite. Ce que la famille peut faire, la municipalité ne doit pas le faire. Ce que la municipalité peut faire, les États ne doivent pas le faire. Et ce que les États peuvent faire, le gouvernement fédéral ne doit pas le faire.</p>
@@ -1500,7 +1793,7 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
                       </section>
                       <section id="body-6-3-2" class="div level3">
                         <h3 class="head">Progrès, parfois spectaculaires</h3>
-                        <p class="p autofirst">À part les guerres d’agression et les centrales nucléaires, qui exigent les unes et les autres une centralisation ombrageuse, <i class="i">tout</i> marche mieux, sur une petite échelle, dans les autonomies locales. « Coopératives d’habitation, énergie solaire, petites entreprises, compost, alimentation du bétail, banques locales : les communes (<i class="fr i" lang="fr">neighborhoods</i>) commencent à retrouver le sens de leur autonomie, à reprendre en main leur destin. »<a class="noteref" href="5#note30" id="note30_"><sup>30</sup></a> Il est faux que le plus grand soit le plus efficace. E. M. Schumacher a démontré le contraire, d’une manière décisive, dans son célèbre ouvrage <i class="fr i" lang="fr">Small is beautiful</i>. Ici encore, nos meilleurs sociologues et politologues européens font à cette thèse un écho enthousiaste, mais il est rare qu’ils soient suivis autrement qu’en paroles par des hommes politiques d’influence comparable à celle des gouverneurs d’État et maires de mégalopoles qui militent aux USA pour les autonomies locales et les régions transétatiques.</p>
+                        <p class="p autofirst">À part les guerres d’agression et les centrales nucléaires, qui exigent les unes et les autres une centralisation ombrageuse, <i class="i">tout</i> marche mieux, sur une petite échelle, dans les autonomies locales. « Coopératives d’habitation, énergie solaire, petites entreprises, compost, alimentation du bétail, banques locales : les communes (<i class="fr i" lang="fr">neighborhoods</i>) commencent à retrouver le sens de leur autonomie, à reprendre en main leur destin. »<a class="noteref" href="6#note30" id="note30_"><sup>30</sup></a> Il est faux que le plus grand soit le plus efficace. E. M. Schumacher a démontré le contraire, d’une manière décisive, dans son célèbre ouvrage <i class="fr i" lang="fr">Small is beautiful</i>. Ici encore, nos meilleurs sociologues et politologues européens font à cette thèse un écho enthousiaste, mais il est rare qu’ils soient suivis autrement qu’en paroles par des hommes politiques d’influence comparable à celle des gouverneurs d’État et maires de mégalopoles qui militent aux USA pour les autonomies locales et les régions transétatiques.</p>
                         <p class="p">Cependant, les progrès sont notables, parfois spectaculaires, non seulement dans la prise de conscience 
 <a class="pb" href="#pb130" id="pb130">[p. 130]</a>
  du phénomène régional, mais déjà dans la mise en forme des mesures tendant à instaurer l’autonomie des Régions, notamment en Italie, en Espagne, en Grande-Bretagne et en Belgique. (Voir Annexe 3.)</p>
@@ -1530,35 +1823,35 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
-                          <a href="5#pb115">p. 115</a>
+                          <a href="6#pb115">p. 115</a>
                         </div>
-                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="5#note24_">24. </a>Le français imposé à l’Occitanie des troubadours n’était encore qu’une langue militaire, non littéraire. Plus tard, l’ethnie conquérante qualifiera de « dialectes » les langues souvent plus anciennes et plus riches des « nations conquises ». <i class="i">Qu’est-ce qu’une langue ? C’est un dialecte plus une armée</i>, disait W. Sombart.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="6#note24_">24. </a>Le français imposé à l’Occitanie des troubadours n’était encore qu’une langue militaire, non littéraire. Plus tard, l’ethnie conquérante qualifiera de « dialectes » les langues souvent plus anciennes et plus riches des « nations conquises ». <i class="i">Qu’est-ce qu’une langue ? C’est un dialecte plus une armée</i>, disait W. Sombart.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="5#pb121">p. 121</a>
+                          <a href="6#pb121">p. 121</a>
                         </div>
-                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="5#note25_">25. </a>Derrière les pudeurs du langage diplomatique européen, toujours obsédé par le respect religieux des souverainetés nationales absolues, et qui tient toute tendance fédéraliste pour <i class="i">indécente</i>, il faut entendre par « confrontation » coopération et par « régions frontalières » régions transfrontalières. C’est ainsi que l’ont compris jusqu’ici les participants aux rencontres qui ont suivi celle de 1972 : Innsbruck 1974, Galway 1976, Bordeaux 1978.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="6#note25_">25. </a>Derrière les pudeurs du langage diplomatique européen, toujours obsédé par le respect religieux des souverainetés nationales absolues, et qui tient toute tendance fédéraliste pour <i class="i">indécente</i>, il faut entendre par « confrontation » coopération et par « régions frontalières » régions transfrontalières. C’est ainsi que l’ont compris jusqu’ici les participants aux rencontres qui ont suivi celle de 1972 : Innsbruck 1974, Galway 1976, Bordeaux 1978.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="5#pb127">p. 127</a>
+                          <a href="6#pb127">p. 127</a>
                         </div>
-                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="5#note26_">26. </a>Guy <span class="sc">Héraud</span>, <i class="i">L’Europe en formation</i>, oct.-nov. 1975.</aside>
-                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="5#note27_">27. </a>Th. <span class="sc">Fälldin</span>, Premier ministre suédois, in <i class="i">Le Monde</i> du 7 décembre 1976.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="6#note26_">26. </a>Guy <span class="sc">Héraud</span>, <i class="i">L’Europe en formation</i>, oct.-nov. 1975.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="6#note27_">27. </a>Th. <span class="sc">Fälldin</span>, Premier ministre suédois, in <i class="i">Le Monde</i> du 7 décembre 1976.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="5#pb128">p. 128</a>
+                          <a href="6#pb128">p. 128</a>
                         </div>
-                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="5#note28_">28. </a>Helmut <span class="sc">Schmidt</span>, <i class="i">Discours devant l’Assemblée du Conseil de l’Europe</i>, Strasbourg, avril 1978.</aside>
-                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="5#note29_">29. </a>Cf. Alain <span class="sc">Peyrefitte</span>, <i class="i">Le Mal français</i>, Paris, 1977.</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="6#note28_">28. </a>Helmut <span class="sc">Schmidt</span>, <i class="i">Discours devant l’Assemblée du Conseil de l’Europe</i>, Strasbourg, avril 1978.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="6#note29_">29. </a>Cf. Alain <span class="sc">Peyrefitte</span>, <i class="i">Le Mal français</i>, Paris, 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="5#pb129">p. 129</a>
+                          <a href="6#pb129">p. 129</a>
                         </div>
-                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="5#note30_">30. </a><i class="i">The Ecologist</i>, special on the<i class="i"> Future of America</i>, sept. 1977.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="6#note30_">30. </a><i class="i">The Ecologist</i>, special on the<i class="i"> Future of America</i>, sept. 1977.</aside>
                       </div>
                     </section>
                   </article>
@@ -1588,55 +1881,55 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="here">
-                      <a href="#">IV Les Régions</a>
+                      <a href="#">IV. Les Régions</a>
                       <ul>
                         <li class="collateral">
-                          <a href="5#body-6-1">IV.1. Émergence du problème</a>
+                          <a href="6#body-6-1">IV.1. Émergence du problème</a>
                           <ul>
                             <li class="collateral">
-                              <a href="5#body-6-1-1">IV.1.a. Naissance simultanée des Régions et de la Fédération européenne</a>
+                              <a href="6#body-6-1-1">IV.1.a. Naissance simultanée des Régions et de la Fédération européenne</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-6-1-2">IV.1.b. Revendications et motivations</a>
+                              <a href="6#body-6-1-2">IV.1.b. Revendications et motivations</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-6-1-3">IV.1.c. Ce qui a été fait jusqu’ici</a>
+                              <a href="6#body-6-1-3">IV.1.c. Ce qui a été fait jusqu’ici</a>
                             </li>
                           </ul>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-6-2">IV.2. Crise de l’État centraliste</a>
+                          <a href="6#body-6-2">IV.2. Crise de l’État centraliste</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-6-3">IV.3. Solutions européennes</a>
+                          <a href="6#body-6-3">IV.3. Solutions européennes</a>
                           <ul>
                             <li class="collateral">
-                              <a href="5#body-6-3-1">IV.3.a. Repartir d’en bas</a>
+                              <a href="6#body-6-3-1">IV.3.a. Repartir d’en bas</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-6-3-2">IV.3.b. Progrès, parfois spectaculaires</a>
+                              <a href="6#body-6-3-2">IV.3.b. Progrès, parfois spectaculaires</a>
                             </li>
                             <li class="collateral">
-                              <a href="5#body-6-3-3">IV.3.c. Conditions requises</a>
+                              <a href="6#body-6-3-3">IV.3.c. Conditions requises</a>
                             </li>
                           </ul>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1646,7 +1939,7 @@ body-6-3-3	IV.3.c. Conditions requises (1979, Rapport au peuple européen sur l�
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1979rpe/6" name="V. La défense de l’Europe" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1979rpe/7" name="V. La défense de l’Europe" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
@@ -1705,7 +1998,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                     <section id="body-7-1" class="div level2">
                       <h2 class="head kicker">1.</h2>
                       <h2 class="head">État de la question</h2>
-                      <p class="p">1. <i class="i">La défense de l’Europe est un sujet que l’on évite</i> dans le débat public de ces dernières années, et sur lequel personne ne semble prêt à se prononcer franchement. Soit par scrupule humanitaire, ou par orgueil nationaliste, par calcul partisan<a class="noteref" href="6#note31" id="note31_"><sup>31</sup></a>, ou simplement par répugnance à faire face à cet « impensable » que serait une troisième guerre mondiale, et vraiment la dernière cette fois-ci, à cause de la puissance des armes dont dispose aujourd’hui contre elle-même l’humanité.</p>
+                      <p class="p">1. <i class="i">La défense de l’Europe est un sujet que l’on évite</i> dans le débat public de ces dernières années, et sur lequel personne ne semble prêt à se prononcer franchement. Soit par scrupule humanitaire, ou par orgueil nationaliste, par calcul partisan<a class="noteref" href="7#note31" id="note31_"><sup>31</sup></a>, ou simplement par répugnance à faire face à cet « impensable » que serait une troisième guerre mondiale, et vraiment la dernière cette fois-ci, à cause de la puissance des armes dont dispose aujourd’hui contre elle-même l’humanité.</p>
                       <p class="p">C’est pourtant l’aspect du problème européen qui préoccupe le plus nos populations, si l’on en croit les sondages d’opinion.</p>
                       <p class="p">
 <a class="pb" href="#pb136" id="pb136">[p. 136]</a>
@@ -1758,7 +2051,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                           <td class="center">4 055</td>
                         </tr>
                       </table>
-                      <p class="p autofirst">Et cela, en dépit du fait que les populations sont sensiblement égales de part et d’autre du rideau de fer<a class="noteref" href="6#note32" id="note32_"><sup>32</sup></a>.</p>
+                      <p class="p autofirst">Et cela, en dépit du fait que les populations sont sensiblement égales de part et d’autre du rideau de fer<a class="noteref" href="7#note32" id="note32_"><sup>32</sup></a>.</p>
                       <p class="p">
 <a class="pb" href="#pb139" id="pb139">[p. 139]</a>
  c) La désunion flagrante des Européens face aux problèmes non seulement de leur défense, mais de ce qu’il y aurait lieu de défendre par priorité : souveraineté nationale ? système capitaliste ? ou libertés civiques, telles que droit d’opposition, droit de grève, mobilité professionnelle, libre circulation internationale, propriété individuelle, etc. ?</p>
@@ -1772,13 +2065,13 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                       <h2 class="head">La crise</h2>
                       <p class="p autofirst">Les auteurs militaires d’une compétence et d’une indépendance d’esprit généralement reconnues qui ont traité le problème de la défense globale de l’Europe contre une attaque massive venant de l’Est (seul cas sérieusement imaginable aujourd’hui, toute agression d’un de nos pays contre l’URSS étant exclue pour raisons de taille, de même que serait exclue pour raisons politiques toute agression d’une Europe fédérée) ont déposé des conclusions radicalement pessimistes, en cas de non-union persistante des Européens.</p>
                       <p class="p">Parmi les nombreux scénarios imaginés, citons d’abord ceux de deux généraux, qui ont revêtu tous les deux d’importantes fonctions dans l’OTAN. Celui du général Robert Close, commandant d’une division blindée belge, et qui fut directeur des études au Collège de la défense de l’OTAN. Et celui du général allemand Johannes Steinhoff, qui fut président du comité militaire de l’Alliance atlantique à Bruxelles.</p>
-                      <p class="p">a) Le premier, dans <i class="i">L’Europe sans défense</i> ?<a class="noteref" href="6#note33" id="note33_"><sup>33</sup></a>, décrit l’attaque surprise des Russes, qui effectuent d’abord en quelques heures la jonction de leurs troupes 
+                      <p class="p">a) Le premier, dans <i class="i">L’Europe sans défense</i> ?<a class="noteref" href="7#note33" id="note33_"><sup>33</sup></a>, décrit l’attaque surprise des Russes, qui effectuent d’abord en quelques heures la jonction de leurs troupes 
 <a class="pb" href="#pb141" id="pb141">[p. 141]</a>
  héliportées et de leurs colonnes blindées en RFA À partir de quoi, échanges de messages et de menaces entre Pentagone et Kremlin, ce dernier prêt à tout arrêter si l’autre cède. Menaces mutuelles, confusion, consultations, à la faveur desquelles les Russes sont sur le Rhin en quarante-huit heures : c’est le délai nécessaire pour que le président des USA décide s’il y a lieu ou non de recourir à l’arme nucléaire. Les Russes détiennent le principal des forces de production de l’Europe : la partie n’est-elle pas déjà jouée ?</p>
                       <p class="p">
 <a class="pb" href="#pb142" id="pb142">[p. 142]</a>
  Ce qui est certain, c’est qu’à ce moment, « la destruction ou le salut de l’Europe repose entièrement entre les mains d’un chef d’État qui, pour favorable qu’il puisse être aux vues occidentales, n’est pas européen et représente des intérêts mondiaux dont certains peuvent s’écarter sensiblement des nôtres » (<span class="sc">R. Close</span>, <i class="i">op. cit</i>., p. 283).</p>
-                      <p class="p">b) Le général Steinhoff, contrairement au général français P. Gallois, ne croit pas que « chaque nation, à l’instar de la France, puisse assurer sa propre défense ». (Que ferait le Luxembourg ? demande-t-il.) Surtout il ne croit pas que « les Américains voleraient au secours des Européens incapables de s’unir : “Pourquoi irions-nous mourir pour Francfort ou Düsseldorf, alors que les Européens ne feraient pas grand-chose pour leur propre sécurité ?” »<a class="noteref" href="6#note34" id="note34_"><sup>34</sup></a>.</p>
+                      <p class="p">b) Le général Steinhoff, contrairement au général français P. Gallois, ne croit pas que « chaque nation, à l’instar de la France, puisse assurer sa propre défense ». (Que ferait le Luxembourg ? demande-t-il.) Surtout il ne croit pas que « les Américains voleraient au secours des Européens incapables de s’unir : “Pourquoi irions-nous mourir pour Francfort ou Düsseldorf, alors que les Européens ne feraient pas grand-chose pour leur propre sécurité ?” »<a class="noteref" href="7#note34" id="note34_"><sup>34</sup></a>.</p>
                       <p class="p">Les Américains ne protégeront les Européens que si ces derniers manifestent leur volonté commune de se défendre. « Démographie, héritage culturel commun, puissance industrielle et technologique », tout les y pousse. Mais s’ils ne veulent pas s’unir, « je suis cette fois d’accord avec Close ». (Les Russes sur le Rhin en quarante-huit heures.)</p>
                       <p class="p">c) On a proposé comme parade les « forces atomiques de dissuasion » britannique et française. Réponse de la majorité des auteurs et critiques militaires : l’arme atomique d’une nation européenne serait <i class="i">inutilisable</i> :</p>
                       <p class="p">— contre un autre pays du continent ou contre des troupes étrangères qui l’envahiraient : celui qui la fait tomber chez son voisin est à la merci d’une saute de vent ;</p>
@@ -1786,7 +2079,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                       <p class="p">— enfin pour « dissuader » l’URSS, dont l’arsenal nucléaire total est cent fois supérieur au nôtre.</p>
                       <p class="p">Mais voici l’évidence majeure : même à égalité nucléaire, l’Europe serait perdante, car l’extrême 
 <a class="pb" href="#pb143" id="pb143">[p. 143]</a>
- densité de sa population, de ses villes, de ses usines, de ses trésors et monuments, de ses réseaux de communications, etc., la rendent infiniment plus vulnérable que l’URSS avec ses immenses plaines vides<a class="noteref" href="6#note35" id="note35_"><sup>35</sup></a>. Quelques bombes russes sur la capitale et sur les centres de production d’énergie suffiraient à paralyser un de nos pays européens, alors que toutes les bombes produites par ce pays ou mises à sa disposition par les USA ne feraient qu’irriter l’URSS, à supposer qu’elles n’aient pas été neutralisées dès les premières minutes du conflit, ou juste avant…</p>
+ densité de sa population, de ses villes, de ses usines, de ses trésors et monuments, de ses réseaux de communications, etc., la rendent infiniment plus vulnérable que l’URSS avec ses immenses plaines vides<a class="noteref" href="7#note35" id="note35_"><sup>35</sup></a>. Quelques bombes russes sur la capitale et sur les centres de production d’énergie suffiraient à paralyser un de nos pays européens, alors que toutes les bombes produites par ce pays ou mises à sa disposition par les USA ne feraient qu’irriter l’URSS, à supposer qu’elles n’aient pas été neutralisées dès les premières minutes du conflit, ou juste avant…</p>
                       <p class="p">En caricaturant à peine la situation, on pourrait dire qu’il n’est même pas sûr que si l’Europe unie disposait de l’immense force nucléaire russe, elle pourrait faire autant de mal à l’URSS que celle-ci ne lui en ferait avec la petite force nucléaire française et anglaise.</p>
                       <p class="p">Il semble bien qu’une force de frappe nationale ne puisse mener qu’à l’écrasement inutile et définitif d’un pays à forte densité de civilisation industrielle, après avoir servi de mauvais prétexte aux nationalistes de ce pays pour refuser la communauté européenne de défense, seule à la taille du danger.</p>
                       <p class="p">Si donc nous refusons que « la destruction ou le salut de l’Europe repose entre les mains d’un chef d’État américain », nous voilà condamnés à <i class="i">inventer</i>
@@ -1799,7 +2092,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                       <h2 class="head kicker">3.</h2>
                       <h2 class="head">La défense de l’Europe sera l’œuvre des Européen eux-mêmes</h2>
                       <p class="p autofirst">Quels que soient les scénarios imaginés ou imaginables, avec ou sans les « Américains », avec ou sans les armes nucléaires, rien ne résiste aux évidences que voici :</p>
-                      <p class="p">— les armes nucléaires sont offensives par nature et ne peuvent servir qu’à porter la guerre chez l’Autre — l’attaque fût-elle qualifiée de préventive. Les armes nucléaires sont par nature inaptes à défendre nos campagnes, nos villes, nos populations, nos soldats aux prises avec l’envahisseur, et en général la civilisation du continent européen, que leur mise en jeu détruirait<a class="noteref" href="6#note36" id="note36_"><sup>36</sup></a> ;</p>
+                      <p class="p">— les armes nucléaires sont offensives par nature et ne peuvent servir qu’à porter la guerre chez l’Autre — l’attaque fût-elle qualifiée de préventive. Les armes nucléaires sont par nature inaptes à défendre nos campagnes, nos villes, nos populations, nos soldats aux prises avec l’envahisseur, et en général la civilisation du continent européen, que leur mise en jeu détruirait<a class="noteref" href="7#note36" id="note36_"><sup>36</sup></a> ;</p>
                       <p class="p">— les « Américains » ne risqueront pas une 
 <a class="pb" href="#pb145" id="pb145">[p. 145]</a>
  guerre nucléaire si les Européens ne prouvent pas leur volonté de se défendre par leur volonté de s’unir.</p>
@@ -1816,7 +2109,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                       <p class="p">La Fédération européenne sera neutre par impossibilité — due à ses trop grandes diversités — de décider une politique d’agression contre quelque voisin que ce soit, Russe ou Maghrébin, Arabe ou Africain.</p>
                       <p class="p">Une Europe fédérée dans et pour ses diversités régionales, une Europe neutre, aurait pour intérêt 
 <a class="pb" href="#pb147" id="pb147">[p. 147]</a>
- vital de préconiser et d’initier le désarmement mondial<a class="noteref" href="6#note37" id="note37_"><sup>37</sup></a>.</p>
+ vital de préconiser et d’initier le désarmement mondial<a class="noteref" href="7#note37" id="note37_"><sup>37</sup></a>.</p>
                       <p class="p">Le problème de la défense est inséparable de celui du désarmement, comme celui de l’Énergie est inséparable de celui de la réduction du gaspillage.</p>
                       <p class="p">Il y a aujourd’hui gaspillage des armements (à quoi sert de pouvoir tuer 3 000 fois ou 33 000 fois tous les êtres humains ?) et surarmement énergétique en Europe.</p>
                       <p class="p">Et de même que réduire le gaspillage énergétique sera bientôt la principale source d’énergie disponible (selon le directeur de l’Agence internationale de l’énergie, ONU, à Vienne), de même le désarmement sera le principal renfort apporté à notre défense.</p>
@@ -1827,43 +2120,43 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                     </section>
                     <section class="footnotes">
                       <div class="page">
-                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="6#note31_">31. </a>La droite nationaliste ne veut pas accepter de « dépendre des Américains », tout en comptant sur leur aide ; la gauche a peur d’irriter les maîtres de l’URSS, tout en sachant que d’eux viendrait le seul danger.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="7#note31_">31. </a>La droite nationaliste ne veut pas accepter de « dépendre des Américains », tout en comptant sur leur aide ; la gauche a peur d’irriter les maîtres de l’URSS, tout en sachant que d’eux viendrait le seul danger.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb138">p. 138</a>
+                          <a href="7#pb138">p. 138</a>
                         </div>
-                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="6#note32_">32. </a>Europe de l’Ouest : <i class="i">395 millions</i>. — URSS : 260 millions, plus Europe de l’Est : 128 millions, total : 388 millions.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="7#note32_">32. </a>Europe de l’Ouest : <i class="i">395 millions</i>. — URSS : 260 millions, plus Europe de l’Est : 128 millions, total : 388 millions.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb140">p. 140</a>
+                          <a href="7#pb140">p. 140</a>
                         </div>
-                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="6#note33_">33. </a>Général Robert <span class="sc">R. Close</span>, <i class="i">L’Europe sans défense</i> ?, Éditions Arts et Voyages, Bruxelles, 1977.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="7#note33_">33. </a>Général Robert <span class="sc">R. Close</span>, <i class="i">L’Europe sans défense</i> ?, Éditions Arts et Voyages, Bruxelles, 1977.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb142">p. 142</a>
+                          <a href="7#pb142">p. 142</a>
                         </div>
-                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="6#note34_">34. </a>Interview du général <span class="sc">Steinhoff</span>, in <i class="i">Construire</i>, du 29 juin 1977, Lausanne.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="7#note34_">34. </a>Interview du général <span class="sc">Steinhoff</span>, in <i class="i">Construire</i>, du 29 juin 1977, Lausanne.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb143">p. 143</a>
+                          <a href="7#pb143">p. 143</a>
                         </div>
-                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="6#note35_">35. </a>Densité de la population au kilomètre carré : en URSS 11, en Europe de l’Ouest 127.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="7#note35_">35. </a>Densité de la population au kilomètre carré : en URSS 11, en Europe de l’Ouest 127.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb144">p. 144</a>
+                          <a href="7#pb144">p. 144</a>
                         </div>
-                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="6#note36_">36. </a>À l’exception de la bombe à neutrons tactique, utilisée contre les chars.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="7#note36_">36. </a>À l’exception de la bombe à neutrons tactique, utilisée contre les chars.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="6#pb147">p. 147</a>
+                          <a href="7#pb147">p. 147</a>
                         </div>
-                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="6#note37_">37. </a>Dans une première phase, où les États-nations existeraient encore seuls et absolus (par leurs prétentions au moins), la formule la plus simple serait de rendre les armements inversement proportionnels au quotient population-superficie d’un État. Ainsi l’URSS serait, par rapport à sa superficie et à sa densité de peuplement, moins armée que la Hollande. Mais cela n’est qu’une vue de l’esprit, possiblement éclairante.</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="7#note37_">37. </a>Dans une première phase, où les États-nations existeraient encore seuls et absolus (par leurs prétentions au moins), la formule la plus simple serait de rendre les armements inversement proportionnels au quotient population-superficie d’un État. Ainsi l’URSS serait, par rapport à sa superficie et à sa densité de peuplement, moins armée que la Hollande. Mais cela n’est qu’une vue de l’esprit, possiblement éclairante.</aside>
                       </div>
                     </section>
                   </article>
@@ -1893,33 +2186,33 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="here">
                       <a href="#">V. La défense de l’Europe</a>
                       <ul>
                         <li class="collateral">
-                          <a href="6#body-7-1">V.1. État de la question</a>
+                          <a href="7#body-7-1">V.1. État de la question</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-7-2">V.2. La crise</a>
+                          <a href="7#body-7-2">V.2. La crise</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-7-3">V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes</a>
+                          <a href="7#body-7-3">V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -1929,7 +2222,7 @@ body-7-3	V.3. La défense de l’Europe sera l’œuvre des Européen eux-mêmes
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1979rpe/7" name="VI. L’Europe et le tiers monde" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1979rpe/8" name="VI. L’Europe et le tiers monde" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
@@ -2009,7 +2302,7 @@ body-8-3	VI.3. Pas d’entente féconde avec le tiers monde sans une union préa
                       <p class="p">II est apparu tout d’abord que l’exploitation accélérée des ressources non renouvelables du tiers monde (hydrocarbures et minerais) laissait déjà prévoir leur épuisement dans des délais relativement rapprochés, frustrant non seulement les générations à venir en Occident, mais le tiers monde dans son 
 <a class="pb" href="#pb152" id="pb152">[p. 152]</a>
  ensemble ; des professeurs du très célèbre Massachusetts Institute of Technology lui démontraient en effet qu’il devait renoncer à tout espoir de rejoindre jamais le niveau de vie actuel des pays occidentaux : il n’y avait simplement pas assez de pétrole, d’acier, d’aluminium et de cuivre sur toute la Terre pour fabriquer la quantité d’autos, d’avions, de téléphones et de matières plastiques nécessaires pour un tel « développement ».</p>
-                      <p class="p">Il est apparu ensuite que les « victoires » remportées par les pesticides fabriqués en Europe déclenchaient en réalité dans le tiers monde des cascades de nuisances, voire de désastres. Ainsi du DDT employé contre la malaria. « À Ceylan, dans les années 50, la campagne d’assainissement est massive ; la mouche propagatrice meurt, les autres insectes aussi ; faute d’insectes, les geckos dépérissent, faute de geckos les chats émigrent, faute de chats les rats pullulent, ne mourant plus que de faim et d’entassement ; dès lors les parasites du rat, vecteurs de peste, sautent sur les hommes, lesquels recourent à la mort-aux-rats, de sorte que la peste progresse mieux encore. Il faut parachuter sur l’île, en toute hâte, des milliers de chats qui rétablissent l’équilibre. »<a class="noteref" href="7#note38" id="note38_"><sup>38</sup></a></p>
+                      <p class="p">Il est apparu ensuite que les « victoires » remportées par les pesticides fabriqués en Europe déclenchaient en réalité dans le tiers monde des cascades de nuisances, voire de désastres. Ainsi du DDT employé contre la malaria. « À Ceylan, dans les années 50, la campagne d’assainissement est massive ; la mouche propagatrice meurt, les autres insectes aussi ; faute d’insectes, les geckos dépérissent, faute de geckos les chats émigrent, faute de chats les rats pullulent, ne mourant plus que de faim et d’entassement ; dès lors les parasites du rat, vecteurs de peste, sautent sur les hommes, lesquels recourent à la mort-aux-rats, de sorte que la peste progresse mieux encore. Il faut parachuter sur l’île, en toute hâte, des milliers de chats qui rétablissent l’équilibre. »<a class="noteref" href="8#note38" id="note38_"><sup>38</sup></a></p>
                       <p class="p">L’histoire du barrage d’Assouan n’est pas moins exemplaire : URSS et USA rivalisent pour « aider » 
 <a class="pb" href="#pb153" id="pb153">[p. 153]</a>
  l’Égypte à se doter d’une source d’énergie industrielle dont ce pays agricole n’avait pas jusqu’alors éprouvé le besoin. Le barrage est construit. Il interrompt les cycles d’inondation de la vallée du Nil, qui étaient la source quadrimillénaire de ses richesses. Il donne beaucoup moins d’énergie que prévu, à cause de l’évaporation des eaux retenues en amont. Il provoque la formation en aval de lagunes où se développe la bilharziose, grave maladie infectieuse qui affecte les paysans et les pêcheurs. Enfin, il détruit la faune du delta et de toute la Méditerranée orientale dont il ruine les pêcheries. Une catastrophe nationale.</p>
@@ -2049,9 +2342,9 @@ body-8-3	VI.3. Pas d’entente féconde avec le tiers monde sans une union préa
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
-                          <a href="7#pb152">p. 152</a>
+                          <a href="8#pb152">p. 152</a>
                         </div>
-                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="7#note38_">38. </a>Jérôme <span class="sc">Deshusses</span>, <i class="i">Délivrez Prométhée</i>, Paris, 1978, d’après Gordon Rattray Taylor, <i class="fr i" lang="fr">The Doomsday Book</i>, Londres, 1970.</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="8#note38_">38. </a>Jérôme <span class="sc">Deshusses</span>, <i class="i">Délivrez Prométhée</i>, Paris, 1978, d’après Gordon Rattray Taylor, <i class="fr i" lang="fr">The Doomsday Book</i>, Londres, 1970.</aside>
                       </div>
                     </section>
                   </article>
@@ -2081,33 +2374,33 @@ body-8-3	VI.3. Pas d’entente féconde avec le tiers monde sans une union préa
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="here">
                       <a href="#">VI. L’Europe et le tiers monde</a>
                       <ul>
                         <li class="collateral">
-                          <a href="7#body-8-1">VI.1. État des problèmes</a>
+                          <a href="8#body-8-1">VI.1. État des problèmes</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-8-2">VI.2. La crise mondialisée</a>
+                          <a href="8#body-8-2">VI.2. La crise mondialisée</a>
                         </li>
                         <li class="collateral">
-                          <a href="7#body-8-3">VI.3. Pas d’entente féconde avec le tiers monde sans une union préalable entre les Européens</a>
+                          <a href="8#body-8-3">VI.3. Pas d’entente féconde avec le tiers monde sans une union préalable entre les Européens</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2117,13 +2410,13 @@ body-8-3	VI.3. Pas d’entente féconde avec le tiers monde sans une union préa
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1979rpe/8" name="VII. VII. Programme pour les Européens" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1979rpe/9" name="VII. Programme pour les Européens" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>VII. VII. Programme pour les Européens (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
+          <value>VII. Programme pour les Européens (1979, Rapport au peuple européen sur l’état de l’union de l’Europe)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2149,7 +2442,7 @@ body-8-3	VI.3. Pas d’entente féconde avec le tiers monde sans une union préa
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "VII. VII. Programme pour les Européens"
+    "name": "VII. Programme pour les Européens"
   }]
 }
           </value>
@@ -2174,7 +2467,7 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
               <record>
                 <content><![CDATA[
                   <article role="article">
-                    <h1 class="head chapter">VII.</h1>
+                    <h1 class="head kicker chapter">VII.</h1>
                     <h1 class="head chapter">Programme pour les Européens</h1>
                     <section id="body-9-1" class="div level2">
                       <h2 class="head">L’Europe n’est pas un parti</h2>
@@ -2229,7 +2522,7 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
                       <h2 class="head">Que feront de ces propositions les députés que vous aurez élus ?</h2>
                       <p class="p autofirst">La coutume et la règle, dans une démocratie, veulent que les députés défendent au Parlement les programmes sur lesquels ils ont été élus.</p>
                       <p class="p">Il va de soi que les décisions qui seront prises par le Parlement européen seront valables dans le cadre des compétences que lui confère le traité de Rome, dont celle de voter le budget. Il s’agit là, dès l’origine des Parlements occidentaux, de leur compétence principale.</p>
-                      <p class="p">Le budget dit la vérité (que trahissent la plupart des discours) sur la volonté politique de la communauté qui l’élabore dans ses bureaux<a class="noteref" href="8#note39" id="note39_"><sup>39</sup></a> puis le discute, le modifie, l’accepte finalement et donc exige que l’exécutif s’y conforme.</p>
+                      <p class="p">Le budget dit la vérité (que trahissent la plupart des discours) sur la volonté politique de la communauté qui l’élabore dans ses bureaux<a class="noteref" href="9#note39" id="note39_"><sup>39</sup></a> puis le discute, le modifie, l’accepte finalement et donc exige que l’exécutif s’y conforme.</p>
                       <p class="p">Élargir les compétences du Parlement, comme beaucoup le réclament et comme certains le redoutent, n’y changerait rien, puisque cela ne 
 <a class="pb" href="#pb165" id="pb165">[p. 165]</a>
  changerait rien à la volonté des citoyens, laquelle comptera seule en fin de compte. (Ou alors, c’est que nous ne serions plus en démocratie, et toute discussion sur les compétences du Parlement deviendrait une perte de temps.)</p>
@@ -2259,7 +2552,7 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
                       <p class="p">Voici l’Europe, et les données actuelles de sa crise. Celle-ci peut aboutir à la mise en servage ou satellisation de nos États l’un après l’autre ; ou à leur renaissance mais tous ensemble. À vous de choisir les hommes et les moyens qui nous mèneront à l’une ou 
 <a class="pb" href="#pb168" id="pb168">[p. 168]</a>
  à l’autre de ces fins : au désespoir de vivre en exil de soi-même, ou à l’espoir d’une liberté chaque jour gagnée, dans l’engagement personnel à tous risques.</p>
-                      <p class="p noindent">Victor Hugo écrivait, il y a cent ans<a class="noteref" href="8#note40" id="note40_"><sup>40</sup></a> :</p>
+                      <p class="p noindent">Victor Hugo écrivait, il y a cent ans<a class="noteref" href="9#note40" id="note40_"><sup>40</sup></a> :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">Hors de nous les gouvernements tentent quelque chose, mais rien de ce qu’ils tâchent de faire ne réussira contre votre décision, contre votre liberté, contre votre souveraineté. Regardez-les faire sans inquiétude, toujours avec douceur, quelquefois avec un sourire. Le suprême avenir est en vous… Vous êtes un seul peuple, l’Europe, et vous voulez une seule chose, la Paix.</p>
                       </blockquote>
@@ -2267,15 +2560,15 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
-                          <a href="8#pb164">p. 164</a>
+                          <a href="9#pb164">p. 164</a>
                         </div>
-                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="8#note39_">39. </a>Exemple : Les gouvernements des Neuf et la Commission de la CEE peuvent tenir tous les discours qu’ils jugent opportuns sur l’intérêt tout à fait particulier, à leurs yeux, des énergies nouvelles et notamment de l’énergie solaire : quand on apprend que le budget 1978 accorde 66 millions d’unités de compte aux recherches nucléaires, contre 6 millions d’unités de compte aux recherches sur l’énergie solaire, chacun voit aussitôt ce qu’on veut en fait. Qui « on » ? La Commission qui a proposé ce budget, mais non moins le Parlement qui ne l’a pas modifié sur ce point.</aside>
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="9#note39_">39. </a>Exemple : Les gouvernements des Neuf et la Commission de la CEE peuvent tenir tous les discours qu’ils jugent opportuns sur l’intérêt tout à fait particulier, à leurs yeux, des énergies nouvelles et notamment de l’énergie solaire : quand on apprend que le budget 1978 accorde 66 millions d’unités de compte aux recherches nucléaires, contre 6 millions d’unités de compte aux recherches sur l’énergie solaire, chacun voit aussitôt ce qu’on veut en fait. Qui « on » ? La Commission qui a proposé ce budget, mais non moins le Parlement qui ne l’a pas modifié sur ce point.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="8#pb168">p. 168</a>
+                          <a href="9#pb168">p. 168</a>
                         </div>
-                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="8#note40_">40. </a>De Guernesey, le 20 août 1878. Adresse à un meeting tenu à Paris par une association anglaise pour la Paix.</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="9#note40_">40. </a>De Guernesey, le 20 août 1878. Adresse à un meeting tenu à Paris par une association anglaise pour la Paix.</aside>
                       </div>
                     </section>
                   </article>
@@ -2305,42 +2598,42 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="here">
-                      <a href="#">VII. VII. Programme pour les Européens</a>
+                      <a href="#">VII. Programme pour les Européens</a>
                       <ul>
                         <li class="collateral">
-                          <a href="8#body-9-1">VII.1. L’Europe n’est pas un parti</a>
+                          <a href="9#body-9-1">VII.1. L’Europe n’est pas un parti</a>
                         </li>
                         <li class="collateral">
-                          <a href="8#body-9-2">VII.2. Personne n’ose se dire contre l’union</a>
+                          <a href="9#body-9-2">VII.2. Personne n’ose se dire contre l’union</a>
                         </li>
                         <li class="collateral">
-                          <a href="8#body-9-3">VII.3. Qu’avons-nous proposé dans ces pages ?</a>
+                          <a href="9#body-9-3">VII.3. Qu’avons-nous proposé dans ces pages ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="8#body-9-4">VII.4. Que feront de ces propositions les députés que vous aurez élus ?</a>
+                          <a href="9#body-9-4">VII.4. Que feront de ces propositions les députés que vous aurez élus ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="8#body-9-5">VII.5. Confédération ou fédération ?</a>
+                          <a href="9#body-9-5">VII.5. Confédération ou fédération ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="8#body-9-6">VII.6. Vous déciderez</a>
+                          <a href="9#body-9-6">VII.6. Vous déciderez</a>
                         </li>
                       </ul>
                     </li>
                     <li class="collateral">
-                      <a href="9">Annexes</a>
+                      <a href="10">Annexes</a>
                     </li>
                   </ul>
                 ]]></content>
@@ -2350,7 +2643,7 @@ body-9-6	VII.6. Vous déciderez (1979, Rapport au peuple européen sur l’état
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1979rpe/9" name="Annexes" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1979rpe/10" name="Annexes" package="ddr1979rpe" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
@@ -2414,7 +2707,7 @@ body-10-3	iii. Annexe 3. Évolution vers les Régions (1979, Rapport au peuple e
                     <h1 class="head chapter">Annexes</h1>
                     <section id="body-10-1" class="div level2">
                       <a class="pb" href="#pb171" id="pb171">[p. 171]</a>
-                      <h2 class="head">Annexe 1. Attitudes à l’égard de l’élection du Parlement européen<a class="noteref" href="9#note41" id="note41_"><sup>41</sup></a></h2>
+                      <h2 class="head">Annexe 1. Attitudes à l’égard de l’élection du Parlement européen<a class="noteref" href="10#note41" id="note41_"><sup>41</sup></a></h2>
                       <section id="body-10-1-1" class="div level3">
                         <h3 class="head">Intérêt pour la CEE</h3>
                         <p class="p autofirst">De 1973 à 1978, la proportion des personnes qui disent s’intéresser beaucoup aux problèmes de la CEE tombe de 24 à 19 %.</p>
@@ -2692,9 +2985,9 @@ body-10-3	iii. Annexe 3. Évolution vers les Régions (1979, Rapport au peuple e
                       <div class="page"/>
                       <div class="page">
                         <div class="b note-page">
-                          <a href="9#pb171">p. 171</a>
+                          <a href="10#pb171">p. 171</a>
                         </div>
-                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="9#note41_">41. </a>Source : <i class="i">Eurobaromètre</i> (édit. par la Commission de la CEE, Bruxelles), n° 10, janvier 1979.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="10#note41_">41. </a>Source : <i class="i">Eurobaromètre</i> (édit. par la Commission de la CEE, Bruxelles), n° 10, janvier 1979.</aside>
                       </div>
                     </section>
                   </article>
@@ -2724,53 +3017,53 @@ body-10-3	iii. Annexe 3. Évolution vers les Régions (1979, Rapport au peuple e
                       <a href="4">II. L’énergie</a>
                     </li>
                     <li class="collateral">
-                      <a href="body-5">III. L’environnement</a>
+                      <a href="5">III. L’environnement</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">IV Les Régions</a>
+                      <a href="6">IV. Les Régions</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">V. La défense de l’Europe</a>
+                      <a href="7">V. La défense de l’Europe</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">VI. L’Europe et le tiers monde</a>
+                      <a href="8">VI. L’Europe et le tiers monde</a>
                     </li>
                     <li class="collateral">
-                      <a href="8">VII. VII. Programme pour les Européens</a>
+                      <a href="9">VII. Programme pour les Européens</a>
                     </li>
                     <li class="here">
                       <a href="#">Annexes</a>
                       <ul>
                         <li class="collateral">
-                          <a href="9#body-10-1">i. Annexe 1. Attitudes à l’égard de l’élection du Parlement européen</a>
+                          <a href="10#body-10-1">i. Annexe 1. Attitudes à l’égard de l’élection du Parlement européen</a>
                           <ul>
                             <li class="collateral">
-                              <a href="9#body-10-1-1">i.1. Intérêt pour la CEE</a>
+                              <a href="10#body-10-1-1">i.1. Intérêt pour la CEE</a>
                             </li>
                             <li class="collateral">
-                              <a href="9#body-10-1-2">i.2. Intérêt pour l’élection du Parlement européen</a>
+                              <a href="10#body-10-1-2">i.2. Intérêt pour l’élection du Parlement européen</a>
                             </li>
                             <li class="collateral">
-                              <a href="9#body-10-1-3">i.3. Identité :rester soi-même</a>
+                              <a href="10#body-10-1-3">i.3. Identité :rester soi-même</a>
                             </li>
                             <li class="collateral">
-                              <a href="9#body-10-1-4">i.4. Solidarité : disposition à faire des sacrifices pour d’autres pays</a>
+                              <a href="10#body-10-1-4">i.4. Solidarité : disposition à faire des sacrifices pour d’autres pays</a>
                             </li>
                           </ul>
                         </li>
                         <li class="collateral">
-                          <a href="9#body-10-2">ii. Annexe 2. Inflation et chômage</a>
+                          <a href="10#body-10-2">ii. Annexe 2. Inflation et chômage</a>
                           <ul>
                             <li class="collateral">
-                              <a href="9#body-10-2-1">ii.1. Inflation</a>
+                              <a href="10#body-10-2-1">ii.1. Inflation</a>
                             </li>
                             <li class="collateral">
-                              <a href="9#body-10-2-2">ii.2. Chômage</a>
+                              <a href="10#body-10-2-2">ii.2. Chômage</a>
                             </li>
                           </ul>
                         </li>
                         <li class="collateral">
-                          <a href="9#body-10-3">iii. Annexe 3. Évolution vers les Régions</a>
+                          <a href="10#body-10-3">iii. Annexe 3. Évolution vers les Régions</a>
                         </li>
                       </ul>
                     </li>
