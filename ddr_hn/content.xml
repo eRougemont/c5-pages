@@ -18,7 +18,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p1_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
-                    <h1 class="head article"> Hic et nunc [éditorial] (novembre 1932)<a class="noteref" href="193211_p1#note1" id="note1_"><sup>a</sup></a><a class="bookmark" href="193211_p1"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193211_p1"> Hic et nunc [éditorial] (novembre 1932)<a class="noteref" href="193211_p1#note1" id="note1_">a</a></a>
+                    </h1>
                     <p class="p autofirst">Il existe — <em>hic et nunc</em> — un certain nombre de choses à dire, un certain ordre de vérités qu’il n’est plus possible de taire. Mais c’est en vain que nous cherchons autour de nous leur lien actuel et leur lieu spirituel. Pareille constatation ne peut nous signifier rien d’autre qu’une invitation pressante à créer ce lien et ce lieu : ce lieu de témoignage où puissent être dites avec tout le sérieux, toute l’ironie, toute la décence, toute la violence qu’elles imposent, des vérités actuelles, personnelles, dangereuses. Dites à nous-mêmes, d’abord ; à tous ceux qui voudront les entendre ; à ceux auxquels, peut-être mieux qu’à nous, il sera donné de les comprendre en vérité, c’est-à-dire de les réaliser en obéissance.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">En face d’une <em>pensée religieuse</em> qui s’épuise et se disqualifie dans ses efforts pour concilier la révélation et la psychologie, pour réfuter par des raisons humaines ces démons que seule la prière peut délivrer d’eux-mêmes ; en face d’une pensée religieuse qui, pour tout dire, trahit sa mission de scandale, et tente lâchement de réduire le divin au « surhumain » (c’est-à-dire au « trop humain »), le transcendant au temporel, il y a lieu et ordre d’attester que nous n’avons rien mérité, sinon la colère de Dieu. En face de <em>morales</em> de plus en plus débilitantes, asservies à la classe, à la race, et à la lâcheté publique, il y a lieu et ordre d’attester la scandaleuse doctrine du « salut de grâce et bonté pure », du salut par la foi, par l’abandon aux mains du Dieu Vivant.</p>
@@ -37,7 +39,7 @@
                         <div class="b note-page">
                           <a href="193211_p1#p.1">p. 1</a>
                         </div>
-                        <aside id="note1" class="note bottomnote"><a class="noteback" href="193211_p1#note1_">a. </a>« Hic et nunc », <em>Hic et Nunc</em>, Paris, n° 1, novembre 1932, p. 1-3. Texte signé par Henry <span class="sc">Corbin</span>, Roger <span class="sc">Jézéquel</span>, Roland <span class="sc">de Pury</span>, Denis <span class="sc">de Rougemont</span>, Albert-Marie <span class="sc">Schmidt</span>.</aside>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="193211_p1#note1_">a. </a>« Hic et nunc », <em>Hic et Nunc</em>, Paris, n° 1, novembre 1932, p. 1-3. Texte signé par Henry <span class="sc">Corbin</span>, Roger <span class="sc">Jézéquel</span>, Roland <span class="sc">de Pury</span>, Denis <span class="sc">de Rougemont</span>, Albert-Marie <span class="sc">Schmidt</span>.</aside>
                       </div>
                     </section>
                   </article>
@@ -53,41 +55,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -112,7 +114,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p23_01.jpg/full/full/0/default.jpg" id="p.23">[p. 23]</a>
-                    <h1 class="head article"> Principe d’une politique du pessimisme actif (novembre 1932)<a class="noteref" href="193211_p23#note2" id="note2_"><sup>a</sup></a><a class="bookmark" href="193211_p23"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)<a class="noteref" href="193211_p23#note2" id="note2_">a</a></a>
+                    </h1>
                     <p class="p autofirst">…que nous faisons du paradoxe ? Non. Dieu nous <em>est</em> paradoxal. Le paradoxe est la réalité, ou plus exactement le paradoxe est la marque et la preuve de toute réalité en tant que saisie et vécue, c’est-à-dire assumée par l’homme. Sortir du paradoxe pour s’évader dans une synthèse quelconque, rationaliste, catholique, ou marxiste, c’est sortir de la réalité même. Car la réalité est précisément ce qui nous met en relation personnelle et immédiate avec Dieu : et que la relation d’un être déchu avec son Créateur ne puisse être que paradoxale, cela est clair, d’une clarté proprement aveuglante et même insupportable, si nous n’avions le Christ, seul médiateur et seul espoir, seulement accessible 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193211hn_p23_02.jpg/full/full/0/default.jpg" id="p.24">[p. 24]</a>
  au plus profond du désespoir et de la nuit, par la foi seule, — qui ne vient pas de nous.</p>
@@ -155,19 +159,19 @@
  de la foi. Je songe ici à l’armature catholique, qui condamne cette Église au réformisme modéré, c’est-à-dire à un effort pour durer par des moyens humains, comme à l’abri des touches fulgurantes du Saint-Esprit. La politique romaine est la recherche d’une harmonie statique des relations humaines, d’un visible « principe d’union » (terme de l’encyclique <em>Quadragesimo anno</em>), tout à fait étranger au réalisme « tragique » de l’Évangile, et qui même, dans certains cas extrêmes, nous tient quitte de la foi. Il ne s’agit jamais pour nous de rendre cette vie possible, mais tout au plus d’abattre les obstacles à la foi, les idoles, les synthèses dans lesquelles l’homme cherche sa sécurité, et qui n’ont pas de vérité.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">La plus grande liberté d’action et de révolution est promise à celui que n’empêtre aucun respect du résultat en soi. Pessimisme rétablissant sur un plan supérieur une sorte de jeu, ou mieux d’<em>humour</em>, qui se mêle au tragique quotidien comme un rappel de la seule grandeur transcendante. Nous ne sommes pas condamnés au succès, mais à l’obéissance jusqu’à l’absurde et au martyre, à l’« agonie » entre la Promesse et le péché, entre la foi et ce qui nous paraît la « défier ».</p>
-                    <p class="p">Que faire donc ? Briser d’abord les idoles, menaçantes. Et puis rester aux ordres de l’esprit. Nous n’avons pas à prendre d’assurances sur l’avenir. Nous n’avons pas à nous garantir à l’avance par un programme, si « chrétien » qu’on le veuille. Un certain nombre de compromissions nous sont à jamais impossibles : et tout le reste est affaire d’obéissance aux ordres imprévisibles et concrets de la Parole. Point de « synthèse », point de « consolation » ailleurs qu’en Dieu : notre action baigne dans l’« angoisse de l’espérance »<a class="noteref" href="193211_p23#note3" id="note3_"><sup>1</sup></a>.</p>
+                    <p class="p">Que faire donc ? Briser d’abord les idoles, menaçantes. Et puis rester aux ordres de l’esprit. Nous n’avons pas à prendre d’assurances sur l’avenir. Nous n’avons pas à nous garantir à l’avance par un programme, si « chrétien » qu’on le veuille. Un certain nombre de compromissions nous sont à jamais impossibles : et tout le reste est affaire d’obéissance aux ordres imprévisibles et concrets de la Parole. Point de « synthèse », point de « consolation » ailleurs qu’en Dieu : notre action baigne dans l’« angoisse de l’espérance »<a class="noteref" href="193211_p23#note3" id="note3_">1</a>.</p>
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
                           <a href="193211_p23#p.23">p. 23</a>
                         </div>
-                        <aside id="note2" class="note bottomnote"><a class="noteback" href="193211_p23#note2_">a. </a>« Principe d’une politique du pessimisme actif », Paris, <em>Hic et Nunc</em>, n° 1, novembre 1932, p. 23-29.</aside>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="193211_p23#note2_">a. </a>« Principe d’une politique du pessimisme actif », Paris, <em>Hic et Nunc</em>, n° 1, novembre 1932, p. 23-29.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193211_p23#p.29">p. 29</a>
                         </div>
-                        <aside id="note3" class="note bottomnote"><a class="noteback" href="193211_p23#note3_">1. </a>Expression qu’Arnaud Dandieu opposait dans un intéressant article de la <em>Revue d’Allemagne</em> (oct. 1932), à la conception kierkegaardienne du désespoir. Elle ne désigne en réalité qu’un des moments de la dialectique du désespoir : le moment décisif, l’acte. Elle n’a de sens, pour nous, que parce qu’il y a la foi.</aside>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="193211_p23#note3_">1. </a>Expression qu’Arnaud Dandieu opposait dans un intéressant article de la <em>Revue d’Allemagne</em> (oct. 1932), à la conception kierkegaardienne du désespoir. Elle ne désigne en réalité qu’un des moments de la dialectique du désespoir : le moment décisif, l’acte. Elle n’a de sens, pour nous, que parce qu’il y a la foi.</aside>
                       </div>
                     </section>
                   </article>
@@ -183,41 +187,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -242,7 +246,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_01.jpg/full/full/0/default.jpg" id="p.37">[p. 37]</a>
-                    <h1 class="head article"> Solutions pratiques ? (mars 1933)<a class="noteref" href="193303#note4" id="note4_"><sup>a</sup></a><a class="bookmark" href="193303"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193303"> Solutions pratiques ? (mars 1933)<a class="noteref" href="193303#note4" id="note4_">a</a></a>
+                    </h1>
                     <p class="p autofirst">Beaucoup de personnes, après avoir lu notre premier cahier, nous ont écrit ceci : « Quelles solutions pratiques apportez-vous ? On voudrait quelque chose de positif… »</p>
                     <p class="p">Nous avons accueilli cette question de la façon dont nous voudrions que toutes les questions que nous poserons ici soient accueillies : avec un sérieux et un respect si peu feints qu’ils n’excluent nullement la bonne humeur.</p>
                     <p class="p">Le sérieux ne consistera jamais, pour nous, dans une attitude d’humilité lugubre. Le sérieux et le respect, en présence d’une question, c’est tout simplement de se dire : cette question est justifiée par le fait même qu’elle a surgi à l’occasion de ce que j’écris ; il s’agit, avant que d’y répondre, de se rendre compte de ce qu’elle signifie pour celui qui me la pose. Répondre du tac-au-tac, à la « lettre » de la question, c’est un procédé électoral qui peut être utile à son heure, mais nous avons tout autre chose à faire. Nous ne cherchons pas à <em>avoir</em> raison <em>contre</em> quelqu’un : l’esprit de vérité n’est à personne. Bien souvent, parmi nous, on répond mal aux questions parce qu’on se borne à répondre à leurs mots, alors qu’il eût fallu répondre à un tourment réel, maladroitement exprimé par ces mots. Mais, bien souvent aussi, on répond mal parce qu’on prend au sérieux des fumistes. Nous appelons fumistes ces messieurs qui nous interrogent avec politesse sur nos intentions et nos buts, à seule fin de « causer un peu ». Qu’on les reconnaisse à ce signe : dès qu’ils commencent à comprendre de quoi il s’agit, ils s’écrient : « Je ne comprends plus ! » En réalité, ils nous demandent des thèmes de discussion, c’est-à-dire des prétextes à différer toute action « pratique ».</p>
@@ -250,21 +256,25 @@
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_02.jpg/full/full/0/default.jpg" id="p.38">[p. 38]</a>
  Ceci marqué, nous pourrons répondre plus clairement à ceux qui croient à leur question, j’entends à ceux qui nous la posent parce qu’elle se pose à eux-mêmes.</p>
                     <section id="body-3-1" class="div level2 level2">
-                      <h2 class="head">Il n’y a pas de solutions, — il y a des ordres<a class="bookmark" href="193303#body-3-1"> §</a></h2>
+                      <h2 class="head">
+                        <a href="#body-3-1">Il n’y a pas de solutions, — il y a des ordres</a>
+                      </h2>
                       <p class="p">1. <em>Celui qui veut vraiment agir ne demande pas d’abord un programme, mais d’abord une force</em>. On peut affirmer sans crainte d’erreur une telle maxime : tout l’Évangile la confirme et l’illustre.</p>
                       <p class="p">Or, la force, pour le chrétien, quelle est-elle ? Il se trouve que nul homme n’est en mesure de la donner à son frère : c’est la foi.</p>
                       <p class="p">Tout au plus pouvons-nous, par des affirmations qui troublent notre sécurité, par des questions qui gênent nos habitudes, par des exigences qui révoltent le bon sens, faire naître le besoin et la soif d’une telle force. Et voilà bien la seule acception chrétienne du mot « positif ». Pour les uns, « positif », c’est ce qui rapporte. Pour les autres, ce qui rassure. Pour le chrétien, ce sera tout ce qui trouble <em>en vérité</em> les hommes et les délivre de leurs tourments mesquins et dégradants ; tout ce qui les libère de leur férocité ou de leur quiétude naturelles, et les rend enfin responsables dans l’obéissance à la seule force nécessaire ; tout ce qui leur fiche un désespoir pour une fois réel ; tout ce qui les désarme devant Dieu et les jette nus dans la foi.</p>
                       <p class="p">2.<em> Un homme qui est dans la foi sait bien qu’il n’y a pas à demander de « solutions pratiques »</em>, car la foi est précisément une force qui se manifeste par des ordres personnels, et ces ordres sont pratiques, ou ils ne sont rien.</p>
                       <p class="p">On dirait, à entendre parler certains chrétiens, que la foi est une espèce d’inspiration flottante, difficile à localiser 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_03.jpg/full/full/0/default.jpg" id="p.39">[p. 39]</a>
- et beaucoup trop imprécise pour que l’homme, faible créature, puisse s’y « fier » et se passer de recettes morales inventées par les anciens juifs, Kant, Joseph Prudhomme ou le pasteur Charles Wagner. Tel est l’aspect décourageant du paganisme contemporain. Il sévit dans nos églises, avec une virulence sourde, attisée de temps à autre par un sermon courageusement moralisateur<a class="noteref" href="193303#note5" id="note5_"><sup>1</sup></a>, ou résolument antibolchévique, ou tout simplement pacifiste. Et les fidèles de se congratuler à la sortie, se figurant qu’on vient enfin de leur donner des directives pratiques et des solutions positives, « discutables, certes, mais positives ».</p>
+ et beaucoup trop imprécise pour que l’homme, faible créature, puisse s’y « fier » et se passer de recettes morales inventées par les anciens juifs, Kant, Joseph Prudhomme ou le pasteur Charles Wagner. Tel est l’aspect décourageant du paganisme contemporain. Il sévit dans nos églises, avec une virulence sourde, attisée de temps à autre par un sermon courageusement moralisateur<a class="noteref" href="193303#note5" id="note5_">1</a>, ou résolument antibolchévique, ou tout simplement pacifiste. Et les fidèles de se congratuler à la sortie, se figurant qu’on vient enfin de leur donner des directives pratiques et des solutions positives, « discutables, certes, mais positives ».</p>
                       <p class="p">Si nous avions écrit, dans notre premier numéro, que la solution des problèmes sociaux réside, par exemple, dans un embrassement général et sans condition, beaucoup de personnes auraient trouvé, qu’enfin ! nous apportions quelque chose de « positif » !</p>
                       <p class="p">Comme si le christianisme n’était qu’une politique possible, entre autres ! Comme si les situations humaines comportaient, <em>en général</em>, une solution chrétienne et des solutions humaines, également prévisibles et classées d’avance ! Comme si la foi était une espèce de puissance continuellement disponible entre nos mains incertaines, et que nous pourrions appliquer, — oh ! avec quelle humilité et quelles précautions oratoires ! — dans tous les cas dûment prévus, selon certaines règles et certaines directives « positives »… Mais si ces directives venaient à nous manquer, que ferions-nous de cette « foi » que nous prétendions posséder ? Aurions-nous l’honnêteté de reconnaître qu’en réalité nous n’avions rien, — puisque la foi, précisément, c’est cette force qui me dit : « Tu dois, ici et maintenant. » — Mieux vaudrait cent mille fois s’écrier : « Non, je n’ai pas la foi ! » et alors 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_04.jpg/full/full/0/default.jpg" id="p.40">[p. 40]</a>
  vraiment prier de toute sa pauvreté, plutôt que de dire, comme certains : « J’ai la foi, mais dites-moi ce qu’il faut que j’en fasse ? » Car, où la foi existe, existe le savoir. Entendons maintenant cette phrase capitale de Kierkegaard : « L’Éthique ne commence pas dans une ignorance qu’il faudrait muer en savoir, mais dans un savoir qui exige sa réalisation. »</p>
                     </section>
                     <section id="body-3-2" class="div level2 level2">
-                      <h2 class="head">Nature du « savoir » chrétien<a class="bookmark" href="193303#body-3-2"> §</a></h2>
+                      <h2 class="head">
+                        <a href="#body-3-2">Nature du « savoir » chrétien</a>
+                      </h2>
                       <p class="p autofirst">Nous marchons dans la nuit, ne connaissant, de par notre nature, ni le pourquoi, ni le « vers quoi » de notre vie, ayant perdu la clef de l’Origine et de la Fin, qu’il s’agisse de notre existence personnelle ou du cours de l’histoire terrestre. Voici alors les chrétiens qui viennent nous parler d’une Révélation. Est-ce donc qu’une grande lumière leur est venue dans cette nuit ? Est-ce qu’ils ont, eux, la clef du mystère ou du scandale ?</p>
                       <p class="p">Non, je ne le crois pas. Je dirai qu’ils ont mieux que cela, Ils savent simplement ce qu’il faut <em>faire</em> dans cette nuit pour en sortir un jour. Ils savent que le Christ leur promet la lumière <em>à la mesure de leur obéissance</em>. Ils n’ont donc pas reçu une révélation ésotérique, que l’homme d’aujourd’hui, sans doute, ne serait pas capable de supporter, d’interpréter. Ils n’ont pas davantage reçu une révélation éthique, un étalon universel fournissant la mesure exacte du bien et du mal en toute chose. La révélation qu’ils ont reçue et qu’ils reçoivent est <em>purement « pratique », c’est-à-dire immédiate à chacun des cas de l’existence</em>, inconcevable pour celui qui se place en dehors du cas. Cette révélation ne peut pas être formulée en termes généraux, n’étant pas autre chose qu’un <em>ordre</em> qui me dit, à tel endroit précis du temps et de l’espace : voici ce que tu dois faire.</p>
                       <p class="p">
@@ -272,35 +282,37 @@
  À celui qui demande : que dois-je faire ? le chrétien n’a donc rien à répondre, en principe. Il ne peut que renvoyer à la seule force d’où provient l’ordre véritable. La décision éthique est toujours <em>choix</em> : on ne peut choisir pour un autre. Mais on peut, dans le cas, et pour soi-même, prouver la foi par l’acte qu’elle ordonne.</p>
                     </section>
                     <section id="body-3-3" class="div level2 level2">
-                      <h2 class="head">Nous ne sommes pas des guérisseurs, mais des malades<a class="bookmark" href="193303#body-3-3"> §</a></h2>
+                      <h2 class="head">
+                        <a href="#body-3-3">Nous ne sommes pas des guérisseurs, mais des malades</a>
+                      </h2>
                       <p class="p autofirst">Doctrine désespérante, dites-vous. Oui, et plus encore que vous ne l’imaginez peut-être, car si vous demandez des solutions pratiques, vous n’avez pas compris la gravité du cas humain. Nous n’avons à guérir personne, mais à montrer que la maladie est sérieuse, si sérieuse qu’il serait ridicule d’attendre de nous ou de qui que ce soit un remède.</p>
                       <p class="p">Doctrine désespérante ? Oui, pour ceux qui cherchent des espoirs à bon compte, hors de la réalité <em>certainement</em> désespérante. Mais il y a la Promesse, mais il y a la foi qui vient nous prendre au point où tout espoir apparaît vain, — en ce point justement, et nulle part ailleurs.</p>
                       <p class="p">On nous demande des réponses ? Mais nous ne pouvons que mettre et remettre en question vos sécurités <em>et</em> vos incertitudes, vos solutions <em>et</em> vos questions mêmes. Nous ne pouvons qu’aggraver à vos yeux votre mal. Nous ne pouvons rien vous apporter d’autre que <em>l’injonction de prendre vous-mêmes au sérieux vos questions</em>. Car alors, vous approcheriez de la réponse, vous y offrant sans défenses humaines.</p>
                       <p class="p">Nous avons aussi, à ce moment, à montrer que les rôles se renversent dès qu’on regarde l’homme dans la perspective chrétienne. Ce n’est plus l’homme qui pose des questions, mais c’est Dieu, seul Sujet. Et alors l’homme, enfin, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193303hn_06.jpg/full/full/0/default.jpg" id="p.42">[p. 42]</a>
- devient responsable<a class="noteref" href="193303#note6" id="note6_"><sup>2</sup></a> devant Dieu et devant son prochain, en tant que ce prochain lui apparaît précisément comme la question que Dieu lui adresse.</p>
+ devient responsable<a class="noteref" href="193303#note6" id="note6_">2</a> devant Dieu et devant son prochain, en tant que ce prochain lui apparaît précisément comme la question que Dieu lui adresse.</p>
                       <p class="p">À la faveur de cette « conversion », la notion même de positif est bouleversée. Critiquer les doctrines qui prétendent résoudre humainement les conflits essentiels ; rejeter toutes les solutions fabriquées par la « pensée chrétienne », et qui voudraient donner aux hommes une bonne conscience tout à fait inconcevable ; dénoncer tous les codes existants de morale, parce qu’ils dénaturent ou refoulent la question, en lui fournissant des réponses tantôt prématurées, tantôt inopérantes, et toujours équivoques ; désorienter celui qui s’imagine être debout quand il n’a fait que truquer les repères ; désespérer les optimistes en leur montrant de quel prix dérisoire ils ont cru payer leur salut, — telle est la seule tâche véritablement <em>positive</em> que notre effort, ici, peut s’assigner sans fol orgueil.</p>
                       <p class="p">« <em>Positif</em> » <em>est ce qui rapproche du Réel</em>. Cela prend bien souvent l’aspect d’une destruction. Il peut paraître étrange que l’on doive rappeler de telles choses, mais la raison en est pourtant bien claire. Nous préférons demander aux hommes ces ordres que l’on ne peut attendre que de Dieu : parce qu’avec les hommes, nous pourrons discuter…</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193303#p.37">p. 37</a>
                         </div>
-                        <aside id="note4" class="note bottomnote"><a class="noteback" href="193303#note4_">a. </a>« Solutions pratiques ? », <em>Hic et Nunc</em>, Paris, n° 2, mars 1933, p. 37-42.</aside>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="193303#note4_">a. </a>« Solutions pratiques ? », <em>Hic et Nunc</em>, Paris, n° 2, mars 1933, p. 37-42.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193303#p.39">p. 39</a>
                         </div>
-                        <aside id="note5" class="note bottomnote"><a class="noteback" href="193303#note5_">1. </a>« Mais oui ! malgré l’impopularité du terme ! »</aside>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="193303#note5_">1. </a>« Mais oui ! malgré l’impopularité du terme ! »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193303#p.42">p. 42</a>
                         </div>
-                        <aside id="note6" class="note bottomnote"><a class="noteback" href="193303#note6_">2. </a>Capable de réponse, c’est-à-dire capable de prière.</aside>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="193303#note6_">2. </a>Capable de réponse, c’est-à-dire capable de prière.</aside>
                       </div>
                     </section>
                   </article>
@@ -316,52 +328,52 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Solutions pratiques ? (mars 1933)</a>
-                      <ul>
-                        <li>
+                      <ol>
+                        <li class="collateral">
                           <a href="193303#body-3-1">Il n’y a pas de solutions, — il y a des ordres</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="193303#body-3-2">Nature du « savoir » chrétien</a>
                         </li>
-                        <li>
+                        <li class="collateral">
                           <a href="193303#body-3-3">Nous ne sommes pas des guérisseurs, mais des malades</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -386,13 +398,15 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_01.jpg/full/full/0/default.jpg" id="p.95">[p. 95]</a>
-                    <h1 class="head article"> Dialectique des fins dernières (juillet 1933)<a class="noteref" href="193307_p95#note7" id="note7_"><sup>a</sup></a><a class="bookmark" href="193307_p95"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193307_p95"> Dialectique des fins dernières (juillet 1933)<a class="noteref" href="193307_p95#note7" id="note7_">a</a></a>
+                    </h1>
                     <p class="p autofirst">L’honnêteté la plus élémentaire oblige à reconnaître que nos vies comportent d’autant moins de solutions que nous sommes plus exigeants. Tout idéal atteint se retourne aussitôt contre notre bonheur. Depuis l’auteur de l’Ecclésiaste jusqu’au romancier le plus moderne, la littérature universelle semble n’avoir voulu mettre en figures nos désirs et nos ambitions que pour mieux nous en révéler l’essentielle inanité. Sénèque nous apprend que l’on n’échappe point à soi-même. Inutilité des voyages. Mais Proust nous persuade qu’on ne s’atteint jamais. Et les philosophies de l’Occident mettent le comble à cette gigantesque pagaille dont naquit bizarrement au <span class="num">xviii<sup class="sup">e</sup></span> siècle l’idée de Progrès. L’extérieur déçoit, l’intérieur égare ; l’objet pur opprime, le sujet pur s’évade ; les morales échouent, l’immoralisme n’est qu’une morale de plus ; l’athéisme conserve l’orgueil bourgeois, les religions conservent l’orgueil bigot ; « tout n’est que vanité et poursuite du vent », y compris la sagesse de celui qui croit trouver dans cette sentence la justification de son refus de vivre.</p>
                     <p class="p">Mais il existe une sagesse qui semble bien n’être pas affectée de la dégradation immanente à toute <em>solution</em> humaine. Cette sagesse dit oui à toutes les contradictions du monde. Elle les assume dans une vue sobre et courageuse et cherche en elles la tension, le ressort nécessaires à l’acte créateur. Loin de tenter leur réduction à quelque idéale synthèse, elle s’exalte des conflits sans cesse renaissants que suscite l’exigence de la personne lorsqu’elle s’insère dans le donné hostile du monde ambiant. Elle ne veut ni la thèse seule, ni l’antithèse seule, et bien moins encore la synthèse. Elle veut le risque permanent, l’actualité permanente. 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_02.jpg/full/full/0/default.jpg" id="p.96">[p. 96]</a>
  Elle provoque sans répit cette mise en question personnelle que signifie la coefficience en nous-mêmes de la thèse et de l’antithèse. Avec Kierkegaard, elle répète que « toute prétention à une unité supérieure qui harmoniserait les contradictions absolues n’est qu’un attentat métaphysique contre l’éthique ». Il s’agit donc ici d’une dialectique à deux termes simultanés, et dont la <em>tension</em> n’est pas orientée vers quelque troisième terme dans lequel elle s’annulerait, non sans soulagement, mais bien vers l’acte créateur par où la personne accède à une plus dangereuse réalité. Ceci peut rappeler le jeune Hegel, mais s’oppose nettement au Hegel des hégéliens. Hegel supprima le conflit lorsqu’il voulut en étaler les éléments dans le temps et l’Histoire. Sa dialectique est devenue une espèce de bascule automatique. Le tragique s’évanouit, le choix s’élude, la personne se dissout dans un processus qui nie l’acte et le risque. Il n’y a plus qu’à compter un, deux, trois, comme le dit Kierkegaard dans <em>La Répétition</em>.</p>
                     <p class="p">Qu’il y ait une <em>virtu</em> dans l’acceptation volontaire du conflit permanent ; qu’il y ait au contraire un principe de dégradation éthique dans toute recherche de la synthèse et plus sûrement dans la croyance en une synthèse possible, voilà qui ne paraît point faire de doute.</p>
-                    <p class="p">Ailleurs<a class="noteref" href="193307_p95#note8" id="note8_"><sup>1</sup></a>, j’ai pu marquer mon choix et quelles conséquences il entraîne dans l’ordre politique, par exemple, que notre temps croit devoir considérer comme plus réel que le spirituel. Il me paraît certain qu’une dialectique fondée sur l’actualité permanente de la personne nous oppose d’une part à l’idéal bourgeois, synthèse eudémonique à l’usage des individus égoïstes, d’autre part à l’idéal marxiste, synthèse eudémonique à l’usage d’une masse non responsable.</p>
+                    <p class="p">Ailleurs<a class="noteref" href="193307_p95#note8" id="note8_">1</a>, j’ai pu marquer mon choix et quelles conséquences il entraîne dans l’ordre politique, par exemple, que notre temps croit devoir considérer comme plus réel que le spirituel. Il me paraît certain qu’une dialectique fondée sur l’actualité permanente de la personne nous oppose d’une part à l’idéal bourgeois, synthèse eudémonique à l’usage des individus égoïstes, d’autre part à l’idéal marxiste, synthèse eudémonique à l’usage d’une masse non responsable.</p>
                     <p class="p">Une dialectique sans « médiation » et comportant par 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_03.jpg/full/full/0/default.jpg" id="p.97">[p. 97]</a>
  suite le risque personnel, le choix et l’acte, une sorte de « contre-Hegel » radical, voilà qui ne peut manquer d’évoquer l’attitude d’un Kierkegaard et par là même de ses descendants directs, les théologiens dialectiques.</p>
@@ -403,7 +417,7 @@
                     <p class="p">Nous disons « la critique » au sens le plus littéral de ce mot : l’accusation qui met en état de crise l’ensemble de ces affirmations et de ces négations, cette éthique et cette actualité, ce refus de toutes les synthèses et ce principe de synthèse qu’il contient. Accusation qui ne porte pas sur le détail ni sur la valeur morale de cette méthode, mais qui 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_04.jpg/full/full/0/default.jpg" id="p.98">[p. 98]</a>
  tombe perpendiculairement sur le plan humain et rien qu’humain où opère la méthode. Accusation qui consiste simplement à rapporter tous ces problèmes à la réalité de Dieu telle qu’elle nous apparaît, c’est-à-dire au problème de tous nos problèmes, au problème absolument insoluble, puisque notre rapport à Dieu, depuis la chute, est paradoxe par définition.</p>
-                    <p class="p">Tel est l’aspect humain de la dialectique dont il est question chez Barth ; et que cela suffise à faire voir que Barth ne saurait en être tenu pour l’inventeur, pas plus que Kierkegaard, pas plus que Luther et Calvin, pas plus que Paul ou Jérémie. Que cela suffise aussi à écarter les toutes superficielles appréciations portées ici ou là contre la théologie dialectique incriminée de pessimisme romantique, de recours abusif au langage pathétique<a class="noteref" href="193307_p95#note9" id="note9_"><sup>2</sup></a> et au « concept d’angoisse ». Car enfin si le paradoxe n’est pas dans la situation même de l’homme devant Dieu, notre <em>foi</em> est vaine et c’est perdre son temps que d’en apprécier humainement l’expression la plus directe ; si au contraire le paradoxe est bien réel, s’il est bien tel que l’ont formulé un Paul, un Luther, un Calvin, ce sont alors ces appréciations toutes humaines qui trahissent une vanité, et la vraie joie n’est pas avec ceux qui nous parlent de la « tristesse » du message barthien, puisqu’ils entendent désigner par là l’acceptation de la mort et du rien, de l’insondable et du scandale en tant que tels, l’acceptation du salut impossible, paradoxe dont la formule est le nom même de Jésus-Christ.</p>
+                    <p class="p">Tel est l’aspect humain de la dialectique dont il est question chez Barth ; et que cela suffise à faire voir que Barth ne saurait en être tenu pour l’inventeur, pas plus que Kierkegaard, pas plus que Luther et Calvin, pas plus que Paul ou Jérémie. Que cela suffise aussi à écarter les toutes superficielles appréciations portées ici ou là contre la théologie dialectique incriminée de pessimisme romantique, de recours abusif au langage pathétique<a class="noteref" href="193307_p95#note9" id="note9_">2</a> et au « concept d’angoisse ». Car enfin si le paradoxe n’est pas dans la situation même de l’homme devant Dieu, notre <em>foi</em> est vaine et c’est perdre son temps que d’en apprécier humainement l’expression la plus directe ; si au contraire le paradoxe est bien réel, s’il est bien tel que l’ont formulé un Paul, un Luther, un Calvin, ce sont alors ces appréciations toutes humaines qui trahissent une vanité, et la vraie joie n’est pas avec ceux qui nous parlent de la « tristesse » du message barthien, puisqu’ils entendent désigner par là l’acceptation de la mort et du rien, de l’insondable et du scandale en tant que tels, l’acceptation du salut impossible, paradoxe dont la formule est le nom même de Jésus-Christ.</p>
                     <p class="p">La réalité centrale d’une telle dialectique est formulée dans ce passage de Barth : « Que Dieu (mais vraiment Dieu) devienne homme (mais vraiment homme !) c’est ce qui est affirmé ici et qui ici devient la vérité vivante, le contenu 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p95_05.jpg/full/full/0/default.jpg" id="p.99">[p. 99]</a>
  décisif d’un vrai discours sur Dieu. Mais comment établir le rapport nécessaire de ces deux aspects de la vérité à leur centre vivant ? Le vrai dialecticien sait que ce centre ne <em>peut</em> être ni appréhendé, ni contemplé. » Et pourtant, cette impossibilité radicale s’est incarnée. Mais alors, si nous voulons parler en vérité d’une telle incarnation du oui dans le non, nous ne pouvons que recourir au langage du paradoxe. Car tout autre langage traduirait l’impossible en termes de synthèse, l’objectiverait, le ferait tomber dans l’histoire. « Ainsi donc, il ne nous reste — émouvant spectacle pour ceux qui n’ont pas le vertige — qu’à rapporter constamment ces deux attitudes <em>l’une à l’autre</em>, la positive et la négative, à expliquer le oui par le non, et le non par le oui, sans jamais nous arrêter un instant sur le oui ou sur le non. » Car la réalité dépassera toujours le oui et le non, et ce que, de leur simultanéité, nous croirons être en droit de déduire par la voie logique.</p>
@@ -419,24 +433,24 @@
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Une synthèse qui précède et dépasse à la fois l’antithèse et la thèse, et dont toutes les deux procèdent ? Langage affreux, dira-t-on non sans raison. Traduisez-nous un peu tout cela dans notre parler quotidien. Nous dirons donc : Dieu premier et dernier, et ensuite seulement notre recherche, mais en même temps, si elle est vraie, notre salut. Et c’est Pascal, traduisant Augustin : « Tu ne <em>Me chercherais</em> pas si tu ne m’avais déjà <em>trouvé</em>. »</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193307_p95#p.95">p. 95</a>
                         </div>
-                        <aside id="note7" class="note bottomnote"><a class="noteback" href="193307_p95#note7_">a. </a>« Dialectique des fins dernières », <em>Hic et Nunc</em>, Paris, n° 3-4, juillet 1933, p. 95-101.</aside>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="193307_p95#note7_">a. </a>« Dialectique des fins dernières », <em>Hic et Nunc</em>, Paris, n° 3-4, juillet 1933, p. 95-101.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193307_p95#p.96">p. 96</a>
                         </div>
-                        <aside id="note8" class="note bottomnote"><a class="noteback" href="193307_p95#note8_">1. </a>Dans les travaux du groupe politique et philosophique de <em>L’Ordre nouveau</em>.</aside>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="193307_p95#note8_">1. </a>Dans les travaux du groupe politique et philosophique de <em>L’Ordre nouveau</em>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193307_p95#p.98">p. 98</a>
                         </div>
-                        <aside id="note9" class="note bottomnote"><a class="noteback" href="193307_p95#note9_">2. </a>Qu’on nomme en France « pathos » alors que ce mot désigne en Allemagne, à peu près, la terminologie propre à un auteur.</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="193307_p95#note9_">2. </a>Qu’on nomme en France « pathos » alors que ce mot désigne en Allemagne, à peu près, la terminologie propre à un auteur.</aside>
                       </div>
                     </section>
                   </article>
@@ -452,41 +466,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -511,7 +525,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p116_01.jpg/full/full/0/default.jpg" id="p.116">[p. 116]</a>
-                    <h1 class="head article"> Poésie dialectique (juillet 1933)<a class="noteref" href="193307_p116#note10" id="note10_"><sup>a</sup></a><a class="bookmark" href="193307_p116"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193307_p116"> Poésie dialectique (juillet 1933)<a class="noteref" href="193307_p116#note10" id="note10_">a</a></a>
+                    </h1>
                     <p class="p autofirst">Au cours d’un article paru en Suisse allemande, le professeur O.-E. Strasser déclare que le sonnet publié par Albert-Marie Schmidt dans notre premier numéro « est bien la première poésie dialectique qui lui soit tombée sous les yeux » ! Petite erreur de fait, voulons-nous croire, mais aggravée par l’ironie dont le professeur nous accable à cette occasion. Erreur qui lèse à la fois l’histoire littéraire, la dialectique et la poésie. Car :</p>
                     <p class="p">1° Toute la poésie de la Réforme jusqu’au <span class="num">xvii<sup class="sup">e</sup></span> siècle peut être qualifiée de dialectique : c’est le « wit » des poètes métaphysiciens de la Renaissance anglaise, John Donne, Crashaw, Marvell, Herbert, Vaughan et vingt autres, la plupart convertis au protestantisme ; c’est le style antithétique des huguenots contemporains de la Pléiade, si méchamment enterrés par les jésuites dans leurs Histoires de la littérature française (pour ne rien dire des lamentables dédains de M. Lanson parlant de Du Bartas, ce géant — mais nous y reviendrons) ; ce sont les sonnets de Goulard, admirable commentateur de Du Bartas, et toute une école de poètes calvinistes imbus des théories cosmologiques de Paracelse ; ce sont encore en plein <span class="num">xvii<sup class="sup">e</sup></span> siècle, les <em>Sonnets Spirituels</em> d’un Gombaud. Et je cite au hasard d’une mémoire mal informée. Et je ne dis rien de la dialectique de <em>Polyeucte</em>…</p>
                     <p class="p">2° La vision dialectique jetant l’homme dans une situation dramatique ; lui révélant le néant de ses idoles et la nouveauté inénarrable de l’instant où la Parole lui est adressée ; enfin, excitant en lui l’espoir infini au sein du désespoir et la joie de la Promesse invisible, — cette vision <em>donnée</em> à l’homme, est la plus propre à créer en lui l’organe d’une haute poésie.</p>
@@ -524,24 +540,30 @@
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193307hn_p116_03.jpg/full/full/0/default.jpg" id="p.118">[p. 118]</a>
                     <blockquote class="quote">
                       <p class="label sc">hymne à dieu le père</p>
-                      <div class="l">Pardonneras-tu ce péché où j’ai pris naissance,
-            <br class="lb"/>Ce péché mien, bien qu’avant moi commis ?
-            <br class="lb"/>Pardonneras-tu ces péchés dont je suis le cours
-            <br class="lb"/>Et suis encore le cours, bien que je les déplore ?
-            <br class="lb"/>Quand tu auras fini, tu n’auras rien fini
-            <br class="lb"/>Car il y a plus.</div>
-                      <div class="l">Pardonneras-tu ce péché par lequel j’entraînai
-            <br class="lb"/>D’autres pécheurs, faisant de mon péché leur porte ?
-            <br class="lb"/>Pardonneras-tu ce péché que j’ai fui
-            <br class="lb"/>Un an ou deux, où vingt ans j’ai croupi ?
-            <br class="lb"/>Quand tu auras fini, tu n’auras rien fini,
-            <br class="lb"/>Car il y a plus.</div>
-                      <div class="l">J’ai un péché de peur : mourrai-je sur la rive
-            <br class="lb"/>Lorsque mon dernier fil aura été filé ?
-            <br class="lb"/>Oh ! Jure par toi-même qu’à ma mort ton Soleil
-            <br class="lb"/>Resplendira comme aujourd’hui, et à jamais !
-            <br class="lb"/>Et cela fait, tu as fini,
-            <br class="lb"/>Je n’ai plus peur.</div>
+                      <div class="lg">
+                        <div class="l first">Pardonneras-tu ce péché où j’ai pris naissance,</div>
+                        <div class="l">Ce péché mien, bien qu’avant moi commis ?</div>
+                        <div class="l">Pardonneras-tu ces péchés dont je suis le cours</div>
+                        <div class="l">Et suis encore le cours, bien que je les déplore ?</div>
+                        <div class="l">Quand tu auras fini, tu n’auras rien fini</div>
+                        <div class="l">Car il y a plus.</div>
+                      </div>
+                      <div class="lg">
+                        <div class="l first">Pardonneras-tu ce péché par lequel j’entraînai</div>
+                        <div class="l">D’autres pécheurs, faisant de mon péché leur porte ?</div>
+                        <div class="l">Pardonneras-tu ce péché que j’ai fui</div>
+                        <div class="l">Un an ou deux, où vingt ans j’ai croupi ?</div>
+                        <div class="l">Quand tu auras fini, tu n’auras rien fini,</div>
+                        <div class="l">Car il y a plus.</div>
+                      </div>
+                      <div class="lg">
+                        <div class="l first">J’ai un péché de peur : mourrai-je sur la rive</div>
+                        <div class="l">Lorsque mon dernier fil aura été filé ?</div>
+                        <div class="l">Oh ! Jure par toi-même qu’à ma mort ton Soleil</div>
+                        <div class="l">Resplendira comme aujourd’hui, et à jamais !</div>
+                        <div class="l">Et cela fait, tu as fini,</div>
+                        <div class="l">Je n’ai plus peur.</div>
+                      </div>
                     </blockquote>
                     <p class="p autofirst right">John <span class="sc">Donne</span></p>
                     <section class="footnotes">
@@ -549,7 +571,7 @@
                         <div class="b note-page">
                           <a href="193307_p116#p.116">p. 116</a>
                         </div>
-                        <aside id="note10" class="note bottomnote"><a class="noteback" href="193307_p116#note10_">a. </a>« Poésie dialectique », <em>Hic et Nunc</em>, Paris, n° 3-4, juillet 1933, p. 116-117.</aside>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="193307_p116#note10_">a. </a>« Poésie dialectique », <em>Hic et Nunc</em>, Paris, n° 3-4, juillet 1933, p. 116-117.</aside>
                       </div>
                     </section>
                   </article>
@@ -565,41 +587,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -624,7 +646,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_01.jpg/full/full/0/default.jpg" id="p.18">[p. 18]</a>
-                    <h1 class="head article"> Grammaire de la personne (janvier 1934)<a class="noteref" href="193401#note11" id="note11_"><sup>a</sup></a><a class="bookmark" href="193401"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193401"> Grammaire de la personne (janvier 1934)<a class="noteref" href="193401#note11" id="note11_">a</a></a>
+                    </h1>
                     <p class="p autofirst">L’individu, tel que les libéraux — en politique — et les idéalistes — en philosophie — nous l’ont légué, c’est l’homme qui n’a pas de prochain et qui n’est le prochain de personne. Ou encore, comme le dit Keyserling, c’est l’homme pour lequel le prochain est devenu tout simplement « le voisin inévitable », celui que définit, d’ailleurs, le Droit romain.</p>
                     <p class="p">Nous voudrions montrer ici d’une part l’identité de la <em>personne</em>, telle qu’on peut l’opposer à cet individu, et du <em>prochain</em>, tel que le définit l’Évangile ; d’autre part, certaines conséquences politiques de l’erreur individualiste, et surtout, de ses plus récents succédanés.</p>
                     <p class="p center"> </p>
@@ -633,22 +657,22 @@
                     <p class="p">On songe ici tout de suite à la question sociale. On se 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_02.jpg/full/full/0/default.jpg" id="p.19">[p. 19]</a>
  souvient peut-être aussi des libéraux spiritualistes qui aimaient à dire : « La solution des grands problèmes sociaux est une question de morale individuelle. » L’originalité d’une morale individuelle apte à résoudre les conflits sociaux se réduirait probablement aux vertus de surdité, de cécité et de mutisme. Par ailleurs, elle pourrait être aussi laïque ou religieuse qu’on voudrait. Mais l’individu a vécu, nous dit-on… Il faut craindre la mort des mythes : elle n’est jamais qu’une métamorphose. L’individu n’est mort que pour renaître dans le collectif. La mystique de la masse ou du groupe qui domine la moitié de l’Europe, n’a pas d’origine plus certaine que ce renversement de l’individualisme.</p>
-                    <p class="p">Ramener la question sociale aux limites de la personne, c’est constater que la question sociale, en tant qu’elle est <em>question</em> exigeant une <em>réponse</em> ne se pose pas ailleurs que dans le <em>je</em> aux prises avec le <em>tu</em>. Ses données me sont extérieures, certes. Mais je n’ai pas à les connaître autrement que par la question concrète qu’elles m’adressent ; et cette question ne peut être concrète, — ne peut être un conflit véritable — que si c’est un autre homme, en face de moi, qui me la pose. Qu’il soit là, proche ou lointain, à portée de ma main, à portée de mes yeux, à portée d’imagination, peu importe, pourvu que cette prise, cette vue, cette image, soient pour moi une « deuxième personne », un <em>tu</em> sujet d’une parole qui m’advient<a class="noteref" href="193401#note12" id="note12_"><sup>1</sup></a>.</p>
+                    <p class="p">Ramener la question sociale aux limites de la personne, c’est constater que la question sociale, en tant qu’elle est <em>question</em> exigeant une <em>réponse</em> ne se pose pas ailleurs que dans le <em>je</em> aux prises avec le <em>tu</em>. Ses données me sont extérieures, certes. Mais je n’ai pas à les connaître autrement que par la question concrète qu’elles m’adressent ; et cette question ne peut être concrète, — ne peut être un conflit véritable — que si c’est un autre homme, en face de moi, qui me la pose. Qu’il soit là, proche ou lointain, à portée de ma main, à portée de mes yeux, à portée d’imagination, peu importe, pourvu que cette prise, cette vue, cette image, soient pour moi une « deuxième personne », un <em>tu</em> sujet d’une parole qui m’advient<a class="noteref" href="193401#note12" id="note12_">1</a>.</p>
                     <p class="p">On voudrait nous faire croire aujourd’hui que le conflit fécond, la communion du <em>tu</em> et du <em>je</em> se résout pratiquement dans un <em>nous</em>, qu’on oppose alors fièrement aux <em>ils</em> des sociologues et des positivistes. Cette opération magistrale porte un nom en politique. C’est le fascisme. 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_03.jpg/full/full/0/default.jpg" id="p.20">[p. 20]</a>
  Le <em>nous</em>, c’est le groupe, le faisceau. On l’oppose à la masse anonyme, tout autant qu’à l’individu atomique. Le vœu <em>humain</em> paraît comblé… Mais ce <em>nous</em> est-il autre chose qu’une moyenne entre le <em>je</em> des libéraux et le <em>ils</em> des collectivistes ? N’est-il pas, lui aussi, inactuel et abstrait, et par là même, ne laisse-t-il pas le champ libre à la tyrannie, c’est-à-dire à la mécanique étatiste et dictatoriale qui tient lieu d’ordre dès que l’homme renonce à assumer personnellement son risque et celui du « prochain » ?</p>
-                    <p class="p">L’erreur fasciste est peut-être plus grave que les erreurs qu’elle combat, parce qu’elle figure l’image du rapport véritable entre les hommes, mais qu’elle la figure dans l’abstrait, dans le plan même de ce qu’elle croit mépriser. Le rapport véritable entre les hommes, c’est la communauté des personnes responsables. Mais la communauté n’est rien de plus que les personnes : elle n’est que l’expression de leurs rapports spécifiques. Elle a son centre en <em>chacune</em> des personnes qui la composent, et n’est pas définie par autre chose que par ce centre. Elle est le rayonnement dans la durée de l’acte instantané qui unit un <em>je</em> et un <em>tu</em> par un lien de responsabilité<a class="noteref" href="193401#note13" id="note13_"><sup>2</sup></a>.</p>
+                    <p class="p">L’erreur fasciste est peut-être plus grave que les erreurs qu’elle combat, parce qu’elle figure l’image du rapport véritable entre les hommes, mais qu’elle la figure dans l’abstrait, dans le plan même de ce qu’elle croit mépriser. Le rapport véritable entre les hommes, c’est la communauté des personnes responsables. Mais la communauté n’est rien de plus que les personnes : elle n’est que l’expression de leurs rapports spécifiques. Elle a son centre en <em>chacune</em> des personnes qui la composent, et n’est pas définie par autre chose que par ce centre. Elle est le rayonnement dans la durée de l’acte instantané qui unit un <em>je</em> et un <em>tu</em> par un lien de responsabilité<a class="noteref" href="193401#note13" id="note13_">2</a>.</p>
                     <p class="p">En son principe, l’erreur fasciste consiste à considérer cette communion non plus comme un acte, mais comme un état. C’est faire simplement abstraction de la responsabilité réciproque. Il en résulte que le <em>je</em> et que le <em>tu</em>, considérés d’un point de vue qui n’est plus ni celui du <em>je</em> ni celui du <em>tu</em>, c’est-à-dire considérés dans leur rapport objectivé, vu par un tiers, se trouvent du même coup objectivés, et prisonniers de ce rapport, le <em>nous</em>. Le groupe ainsi formé est défini par sa circonférence. Et comme le veut la géométrie euclidienne, il est plus grand que chacun 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_04.jpg/full/full/0/default.jpg" id="p.21">[p. 21]</a>
  des éléments qui le composent. Il s’arroge des droits sur eux, bien qu’à la vérité il ne résulte que de la somme de leurs altérations. Les hommes qui constituent ce groupe ne sont plus des hommes véritablement humains, puisque l’un des pôles de leur être n’est plus visible ni concret, échappe aux prises de leurs mains. Pour chacun d’eux, le <em>tu</em> es devenu le <em>nous</em>, c’est-à-dire a cessé d’être le vis-à-vis qui pose une question directe, — le prochain. Il a cessé d’être un des pôles de la personne. Le <em>nous</em> n’est rien qu’un biais, c’est un <em>tu</em> sans visage et qui vient se confondre avec un <em>je</em> désormais incertain de ses limites agrandies.</p>
                     <p class="p">Perte de tension, en chaque point du cercle. Il faudra bien la compenser par une rigidité accrue de la circonférence. Et c’est l’histoire de toute association humaine : on s’unit par la force d’un principe transcendant, — et tant qu’il règne on peut mépriser la police ; puis vient un temps où l’on se lasse d’obéir à la force vivante, — et l’on institue la police pour soutenir un corps social qui s’abandonne ; enfin la police décrète qu’elle est elle-même la force véritable. Mais elle ne règne plus que sur des automates.</p>
                     <div class="ab ornament">⁂</div>
-                    <p class="p autofirst">Les partisans du <em>nous</em>, en vérité, ont fait erreur sur la personne. Si la personne est la mise en question d’un <em>je</em> par un <em>tu</em>, donc une rencontre, cette rencontre n’a lieu que <em>dans le je</em> et <em>dans le tu</em>. Deux hommes ne se rencontrent pas, spirituellement, à mi-distance l’un de l’autre — dans le <em>nous</em><a class="noteref" href="193401#note14" id="note14_"><sup>3</sup></a>. Pour nous aimer, nous devons faire chacun <em>tout</em> le chemin qui nous sépare l’un de l’autre. Et c’est au seul moment où je t’atteins en toi, où tu m’atteins en moi, 
+                    <p class="p autofirst">Les partisans du <em>nous</em>, en vérité, ont fait erreur sur la personne. Si la personne est la mise en question d’un <em>je</em> par un <em>tu</em>, donc une rencontre, cette rencontre n’a lieu que <em>dans le je</em> et <em>dans le tu</em>. Deux hommes ne se rencontrent pas, spirituellement, à mi-distance l’un de l’autre — dans le <em>nous</em><a class="noteref" href="193401#note14" id="note14_">3</a>. Pour nous aimer, nous devons faire chacun <em>tout</em> le chemin qui nous sépare l’un de l’autre. Et c’est au seul moment où je t’atteins en toi, où tu m’atteins en moi, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_05.jpg/full/full/0/default.jpg" id="p.22">[p. 22]</a>
  que nous devenons deux personnes, et l’un pour l’autre le <em>prochain.</em></p>
-                    <p class="p">Ainsi le phénomène personnel demeure situé dans l’individu, mais dans un individu transformé, orienté, animé par une présence extérieure. Face à face avec le prochain que j’aime, je ne suis plus un isolé<a class="noteref" href="193401#note15" id="note15_"><sup>4</sup></a>, mais je reste un solitaire.</p>
+                    <p class="p">Ainsi le phénomène personnel demeure situé dans l’individu, mais dans un individu transformé, orienté, animé par une présence extérieure. Face à face avec le prochain que j’aime, je ne suis plus un isolé<a class="noteref" href="193401#note15" id="note15_">4</a>, mais je reste un solitaire.</p>
                     <p class="p">C’est dans cette « solitude menacée » que viennent en fin de compte retentir tous les problèmes sociaux et spirituels. C’est en elle, et c’est en elle seule, qu’ils provoquent un écho humain. C’est en elle enfin que s’opère l’acte d’une communion réelle. La personne est un lieu d’héroïsme, et cela signifie qu’elle est le lieu, l’origine et la fin de toute incarnation, de toute création, de tout risque.</p>
-                    <p class="p">La personne est aussi, par conséquent, l’individu moral, l’individu social par excellence. Mais dans son acte seulement, c’est-à-dire dans l’instant présent, non point dans la durée psychologique et descriptible ; c’est pourquoi des généralités abstraites telles que <em>morale</em> ou <em>socialisme</em><a class="noteref" href="193401#note16" id="note16_"><sup>5</sup></a>, entités que l’on peut considérer en soi comme des systèmes, indépendamment du rapport actuel d’un <em>je</em> et d’un <em>tu</em>, ne rendent pas compte de l’être personnel, ni d’aucune réalité humaine.</p>
+                    <p class="p">La personne est aussi, par conséquent, l’individu moral, l’individu social par excellence. Mais dans son acte seulement, c’est-à-dire dans l’instant présent, non point dans la durée psychologique et descriptible ; c’est pourquoi des généralités abstraites telles que <em>morale</em> ou <em>socialisme</em><a class="noteref" href="193401#note16" id="note16_">5</a>, entités que l’on peut considérer en soi comme des systèmes, indépendamment du rapport actuel d’un <em>je</em> et d’un <em>tu</em>, ne rendent pas compte de l’être personnel, ni d’aucune réalité humaine.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Ces considérations peuvent paraître assez arides, et curieusement abstraites, s’agissant du concret par excellence. J’espère toutefois que le lecteur les aura transposées dans une actualité dont le moins qu’on puisse dire est 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193401hn_06.jpg/full/full/0/default.jpg" id="p.23">[p. 23]</a>
@@ -659,32 +683,32 @@
                         <div class="b note-page">
                           <a href="193401#p.18">p. 18</a>
                         </div>
-                        <aside id="note11" class="note bottomnote"><a class="noteback" href="193401#note11_">a. </a>« Grammaire de la personne », <em>Hic et Nunc</em>, Paris, n° 5, janvier 1934, p. 18-23. Une note ajoute : « <a href="https://www.unige.ch/rougemont/livres/ddr1936pm/17#p236">Extrait d’un volume à paraître, intitulé <em>Penser avec les mains</em></a>. »</aside>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="193401#note11_">a. </a>« Grammaire de la personne », <em>Hic et Nunc</em>, Paris, n° 5, janvier 1934, p. 18-23. Une note ajoute : « <a href="https://www.unige.ch/rougemont/livres/ddr1936pm/17#p236">Extrait d’un volume à paraître, intitulé <em>Penser avec les mains</em></a>. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193401#p.19">p. 19</a>
                         </div>
-                        <aside id="note12" class="note bottomnote"><a class="noteback" href="193401#note12_">1. </a>Je préfère employer le pronom <em>tu</em>, sujet de son action — plutôt que le toi, plus couramment employé par certains philosophes français. (Cf. <span class="sc">G. Marcel</span>, <em>Journal métaphysique</em>). Le <em>toi</em> est mon objet, il n’est pas autonome.</aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="193401#note12_">1. </a>Je préfère employer le pronom <em>tu</em>, sujet de son action — plutôt que le toi, plus couramment employé par certains philosophes français. (Cf. <span class="sc">G. Marcel</span>, <em>Journal métaphysique</em>). Le <em>toi</em> est mon objet, il n’est pas autonome.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193401#p.20">p. 20</a>
                         </div>
-                        <aside id="note13" class="note bottomnote"><a class="noteback" href="193401#note13_">2. </a>Ainsi l’Église : le chrétien, dans l’acte de la communion avec le Christ, fonde véritablement l’Église universelle. L’Église est universelle parce qu’elle s’enracine dans l’acte qui confère à tout homme son être véritable, devant Dieu.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="193401#note13_">2. </a>Ainsi l’Église : le chrétien, dans l’acte de la communion avec le Christ, fonde véritablement l’Église universelle. L’Église est universelle parce qu’elle s’enracine dans l’acte qui confère à tout homme son être véritable, devant Dieu.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193401#p.21">p. 21</a>
                         </div>
-                        <aside id="note14" class="note bottomnote"><a class="noteback" href="193401#note14_">3. </a>Le groupe fasciste n’est que le lieu des points équidistants de tous les individus qui composent le groupe. Un lieu parfaitement abstrait.</aside>
+                        <aside id="note14" role="note" class="note bottomnote"><a class="noteback" href="193401#note14_">3. </a>Le groupe fasciste n’est que le lieu des points équidistants de tous les individus qui composent le groupe. Un lieu parfaitement abstrait.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193401#p.22">p. 22</a>
                         </div>
-                        <aside id="note15" class="note bottomnote"><a class="noteback" href="193401#note15_">4. </a>Aux individualistes rationalistes, on peut faire remarquer que le nom d’<em>idiot</em> désigne étymologiquement le « particulier » qui s’enferme dans sa particularité, — qui refuse donc d’être le prochain de son frère.</aside>
-                        <aside id="note16" class="note bottomnote"><a class="noteback" href="193401#note16_">5. </a>ou tout autre « isme » qu’on voudra.</aside>
+                        <aside id="note15" role="note" class="note bottomnote"><a class="noteback" href="193401#note15_">4. </a>Aux individualistes rationalistes, on peut faire remarquer que le nom d’<em>idiot</em> désigne étymologiquement le « particulier » qui s’enferme dans sa particularité, — qui refuse donc d’être le prochain de son frère.</aside>
+                        <aside id="note16" role="note" class="note bottomnote"><a class="noteback" href="193401#note16_">5. </a>ou tout autre « isme » qu’on voudra.</aside>
                       </div>
                     </section>
                   </article>
@@ -700,41 +724,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -759,10 +783,12 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_01.jpg/full/full/0/default.jpg" id="p.41">[p. 41]</a>
-                    <h1 class="head article"> Précisions sur la mort du Grand Pan (avril 1934)<a class="noteref" href="193404#note17" id="note17_"><sup>a</sup></a><a class="bookmark" href="193404"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193404"> Précisions sur la mort du Grand Pan (avril 1934)<a class="noteref" href="193404#note17" id="note17_">a</a></a>
+                    </h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">C’est en notre vie seule que la Nature vit.</p>
-                      <div class="bibl"><span class="author sc">Coleridge</span>.</div>
+                      <div class="bibl"><span class="author authornokey sc" data-key="authornokey" id="author2">Coleridge</span>.</div>
                     </blockquote>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Car nous sommes là pour deviner les choses dans leurs natures particulières : alors elles nous en sont reconnaissantes.</p>
@@ -788,7 +814,7 @@
                     <p class="p autofirst">Un panthéisme angoissé, ressort d’une révolte rationnelle contre la Nature, — cette dialectique fondamentale de l’univers antique, ne pouvait se résoudre sur le plan humain et rien qu’humain. Elle devait conduire l’humanité 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_04.jpg/full/full/0/default.jpg" id="p.44">[p. 44]</a>
  à des impasses mortelles, celles-là mêmes où se désespère le <span class="num">xx<sup class="sup">e</sup></span> siècle. Mais avant que d’y venir, et suivant l’ordre d’une Histoire dont la loi peut paraître souverainement illogique, nous voici contraints de nous arrêter : l’an 33 de notre ère, la réponse éternelle à la perpétuelle question du monde, nous est <em>donnée</em>. C’est d’abord une réponse faite à l’homme. Mais c’est aussi, à travers l’homme désormais restauré dans sa condition éternelle, une réponse à toute la création, désormais replacée dans l’ordre originel. À cet instant, parce qu’il possède cette réponse, l’homme comprend le sens de la question. Et dans l’élan désordonné des êtres et des choses, il découvre une « attente ardente ». Il sait qu’elle s’adresse en lui à ce qui de lui ressuscite, ayant reçu et accepté la mort. Il peut aimer : ce n’est plus un défi, c’est une soumission à l’Éternel.</p>
-                    <p class="p">« Christ est ressuscité ! » Le Nouvel Adam vit. Le message de Pâques, c’est la mort du Grand Pan<a class="noteref" href="193404#note18" id="note18_"><sup>1</sup></a>.</p>
+                    <p class="p">« Christ est ressuscité ! » Le Nouvel Adam vit. Le message de Pâques, c’est la mort du Grand Pan<a class="noteref" href="193404#note18" id="note18_">1</a>.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Le Nouvel Adam vit : il ne vit que dans la promesse. Cette Promesse est certaine, mais son accomplissement est hors du temps, bien plus, il est la fin du temps. Or, le temps suit son cours, et nous sommes dans l’histoire, et l’histoire temporelle est la succession de nos chutes, selon la Loi, à cause de la Loi. Rachetés, mais non pas pour ce temps. Restaurés, mais non pas dans la forme visible de ce monde.</p>
                     <p class="p">Ainsi la lutte se poursuit, entre les fatalités qui régissent 
@@ -803,12 +829,12 @@
                     <p class="p">L’Occidental rationaliste naît dans une ambiance chrétienne qui le rassure d’une manière vague et suffisante quant aux intentions cachées de la Nature. Il arrive alors que cet homme, trahissant la mission dont la foi le chargeait, se retourne vers la Nature et s’en aille lui demander précisément ce qu’il lui doit : la révélation salutaire. Il faut voir que ce mouvement suppose encore une indifférence morbide à l’endroit des réalités naturelles et de l’« attente ardente » des créatures. De la séparation tragique, maintenant consommée, il ne subsiste en l’homme nulle conscience effective. Seul, le désir qu’il dit avoir de « communier » avec la Nature, révèlerait encore qu’il pressent une séparation dont, par ailleurs, son optimisme, hérité d’une foi morte, lui dissimule l’irréparable gravité. La « communion avec la Nature », telle que la chante un lyrique incroyant, n’est rien que l’abandon égoïste, et parfois voluptueux, d’un moi qui renonce à créer, qui renonce à souffrir, qui se rend sourd à la question des choses en même temps qu’à la question de Dieu.</p>
                     <p class="p">Baptiser communion ce lyrisme de l’isolement, c’est un des tours communs de l’orgueil romantique. On a coutume d’en rendre Rousseau responsable. Mais c’est à ses disciples qu’il faudrait s’en prendre. Rousseau n’a pas trompé sur son état. Le sentiment extatique de la nature, dans la <em>Cinquième Rêverie</em>, comment le décrit-il, sinon, précisément, comme « le sentiment de l’existence dépouillé de toute autre affection » (entendons : dégagé de toute passion, comme aussi de toute responsabilité !) ; il note bien que ce sentiment permet l’économie de tout « concours actif de l’âme » ; il pousse la lucidité jusqu’à marquer qu’un tel état n’est pas recommandable, sauf à l’infortuné 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_07.jpg/full/full/0/default.jpg" id="p.47">[p. 47]</a>
- qu’on a « retranché de la société humaine, et qui ne peut plus rien faire ici-bas d’utile et de bon pour autrui ni pour soi ». Enfin, il précise qu’on y atteint le mieux couché dans un bateau « qui dérive au gré de l’eau ». Image assez frappante de l’homme qui conclut avec le monde une paix honteuse. Il est vrai que Rousseau ne s’en glorifie pas, et qu’il se voit à cette époque « dans la plus étrange position, où se puisse jamais trouver un mortel ». Mais depuis ! À mesure que le sort se faisait plus clément, qui conduisait un homme aux solitudes naturelles, la conscience de l’« étrangeté » d’un tel cas se voilait et faisait bientôt place à la satisfaction pauvrette d’une âme flattée de s’admirer dans l’infini d’un paysage. « Un paysage est un état d’âme », disait Amiel au comble du délire d’isolement idéaliste. À l’autre extrême, celui du délire objectif ou technique, plaçons ce capitaine qui ne voyait jamais dans un paysage que le plan d’une possible stratégie<a class="noteref" href="193404#note19" id="note19_"><sup>2</sup></a> : nous aurons deux images d’un semblable égarement. Cette espèce-là de paganisme rassuré n’est pas le fait des seuls païens de notre époque. Le recours aux émotions fortes que la Nature est censée dispenser à toute âme un peu cultivée, fournit à la prédication chrétienne un lyrisme qu’elle n’osait plus aller chercher dans l’invective prophétique ou dans la joie de la doctrine du salut. Songez à ces pasteurs qui, chaque printemps, saisissent le premier rayon de soleil venu et s’envolent dans une apologétique naturaliste, dont peu d’auditeurs soupçonnent qu’elle n’est, au mieux, que le dernier relent, l’écho infiniment amenuisé des bacchanales antiques.</p>
+ qu’on a « retranché de la société humaine, et qui ne peut plus rien faire ici-bas d’utile et de bon pour autrui ni pour soi ». Enfin, il précise qu’on y atteint le mieux couché dans un bateau « qui dérive au gré de l’eau ». Image assez frappante de l’homme qui conclut avec le monde une paix honteuse. Il est vrai que Rousseau ne s’en glorifie pas, et qu’il se voit à cette époque « dans la plus étrange position, où se puisse jamais trouver un mortel ». Mais depuis ! À mesure que le sort se faisait plus clément, qui conduisait un homme aux solitudes naturelles, la conscience de l’« étrangeté » d’un tel cas se voilait et faisait bientôt place à la satisfaction pauvrette d’une âme flattée de s’admirer dans l’infini d’un paysage. « Un paysage est un état d’âme », disait Amiel au comble du délire d’isolement idéaliste. À l’autre extrême, celui du délire objectif ou technique, plaçons ce capitaine qui ne voyait jamais dans un paysage que le plan d’une possible stratégie<a class="noteref" href="193404#note19" id="note19_">2</a> : nous aurons deux images d’un semblable égarement. Cette espèce-là de paganisme rassuré n’est pas le fait des seuls païens de notre époque. Le recours aux émotions fortes que la Nature est censée dispenser à toute âme un peu cultivée, fournit à la prédication chrétienne un lyrisme qu’elle n’osait plus aller chercher dans l’invective prophétique ou dans la joie de la doctrine du salut. Songez à ces pasteurs qui, chaque printemps, saisissent le premier rayon de soleil venu et s’envolent dans une apologétique naturaliste, dont peu d’auditeurs soupçonnent qu’elle n’est, au mieux, que le dernier relent, l’écho infiniment amenuisé des bacchanales antiques.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_08.jpg/full/full/0/default.jpg" id="p.48">[p. 48]</a>
- N’est-il pas significatif que le mot de <em>Ehrfurcht</em> qui, chez Goethe, traduit la vénération de l’homme en présence de la Nature ; que le mot de <em>awe</em>, qui exprime chez les lakistes ce même sentiment mêlé d’amour et de terreur, que ces mots soient intraduisibles en notre langue<a class="noteref" href="193404#note20" id="note20_"><sup>3</sup></a> ? Alors que toute l’Allemagne des Novalis, des Schelling et des Schlegel philosophe ardemment autour de cette « question » du monde, alors que les lyriques anglais nourrissent leur flamme d’une connaissance voluptueuse de l’antagonisme cosmique, la France rationaliste, catholique et citadine, théorise sur le sentiment de la Nature, sans jamais atteindre au pathétique existentiel de la question. Un seul, peut-être, a pressenti le sens chrétien de la Nature, c’est Benjamin Constant : on l’accusa de panthéisme.</p>
-                    <p class="p">Constant, drôle de corps ironique, esprit exact dont les erreurs ne sont jamais que défaillances de caractère, cet « inconstant », ce païen calviniste, bien moins Romain que Grec — hélas d’un hellénisme style Empire — voilà peut-être le seul auteur qui situe le problème dans sa réalité. Lisons ses <em>Réflexions sur le Théâtre allemand</em>. Il y décrit un état d’âme tout voisin de la « panique » antique<a class="noteref" href="193404#note21" id="note21_"><sup>4</sup></a>, mais qui, dans cet esprit nourri des Écritures, ne peut manquer d’évoquer aussitôt la réponse de l’Épître aux Romains : « Tout l’univers s’adresse à l’homme dans un langage ineffable qui se fait entendre dans l’intérieur de 
+ N’est-il pas significatif que le mot de <em>Ehrfurcht</em> qui, chez Goethe, traduit la vénération de l’homme en présence de la Nature ; que le mot de <em>awe</em>, qui exprime chez les lakistes ce même sentiment mêlé d’amour et de terreur, que ces mots soient intraduisibles en notre langue<a class="noteref" href="193404#note20" id="note20_">3</a> ? Alors que toute l’Allemagne des Novalis, des Schelling et des Schlegel philosophe ardemment autour de cette « question » du monde, alors que les lyriques anglais nourrissent leur flamme d’une connaissance voluptueuse de l’antagonisme cosmique, la France rationaliste, catholique et citadine, théorise sur le sentiment de la Nature, sans jamais atteindre au pathétique existentiel de la question. Un seul, peut-être, a pressenti le sens chrétien de la Nature, c’est Benjamin Constant : on l’accusa de panthéisme.</p>
+                    <p class="p">Constant, drôle de corps ironique, esprit exact dont les erreurs ne sont jamais que défaillances de caractère, cet « inconstant », ce païen calviniste, bien moins Romain que Grec — hélas d’un hellénisme style Empire — voilà peut-être le seul auteur qui situe le problème dans sa réalité. Lisons ses <em>Réflexions sur le Théâtre allemand</em>. Il y décrit un état d’âme tout voisin de la « panique » antique<a class="noteref" href="193404#note21" id="note21_">4</a>, mais qui, dans cet esprit nourri des Écritures, ne peut manquer d’évoquer aussitôt la réponse de l’Épître aux Romains : « Tout l’univers s’adresse à l’homme dans un langage ineffable qui se fait entendre dans l’intérieur de 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193404hn_09.jpg/full/full/0/default.jpg" id="p.49">[p. 49]</a>
  son âme, dans une partie de son être inconnue à lui-même, et qui tient à la fois des sens et de la pensée. Quoi de plus simple que d’imaginer que cet effort de la nature pour pénétrer en nous n’est pas sans une mystérieuse signification ? »
           L’allusion à saint Paul est évidente. Mais Constant, comme les romantiques allemands, s’il voit bien la question ne va pas jusqu’à l’accepter, et sa réponse n’est encore qu’une évasion. Cette « partie de son être inconnue à lui-même », il en fait aussitôt une réalité psychologique, « et qui tient à la fois des sens et de la pensée ». Il en conclut qu’elle est « essentiellement du domaine de la poésie ».</p>
@@ -825,27 +851,27 @@
                         <div class="b note-page">
                           <a href="193404#p.41">p. 41</a>
                         </div>
-                        <aside id="note17" class="note bottomnote"><a class="noteback" href="193404#note17_">a. </a>« Précisions sur la mort du Grand Pan », <em>Hic et Nunc</em>, Paris, n° 6, avril 1934, p. 41-50.</aside>
+                        <aside id="note17" role="note" class="note bottomnote"><a class="noteback" href="193404#note17_">a. </a>« Précisions sur la mort du Grand Pan », <em>Hic et Nunc</em>, Paris, n° 6, avril 1934, p. 41-50.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193404#p.44">p. 44</a>
                         </div>
-                        <aside id="note18" class="note bottomnote"><a class="noteback" href="193404#note18_">1. </a>On confond communément le Grand Pan avec la Nature. Erreur moderne. Le Grand Pan, c’est notre angoisse devant la Nature. La Résurrection nous délivre de cette angoisse en nous révélant l’éternité perdue de notre être. Mais par là même, elle nous charge d’une nouvelle responsabilité vis-à-vis de la Nature.</aside>
+                        <aside id="note18" role="note" class="note bottomnote"><a class="noteback" href="193404#note18_">1. </a>On confond communément le Grand Pan avec la Nature. Erreur moderne. Le Grand Pan, c’est notre angoisse devant la Nature. La Résurrection nous délivre de cette angoisse en nous révélant l’éternité perdue de notre être. Mais par là même, elle nous charge d’une nouvelle responsabilité vis-à-vis de la Nature.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193404#p.47">p. 47</a>
                         </div>
-                        <aside id="note19" class="note bottomnote"><a class="noteback" href="193404#note19_">2. </a>Mais on peut dire que la bataille qu’imaginait ce capitaine était en somme son état d’âme, et qu’un état d’âme technique n’est rien de plus qu’un état d’âme ; et que
+                        <aside id="note19" role="note" class="note bottomnote"><a class="noteback" href="193404#note19_">2. </a>Mais on peut dire que la bataille qu’imaginait ce capitaine était en somme son état d’âme, et qu’un état d’âme technique n’est rien de plus qu’un état d’âme ; et que
             le rêve des ingénieurs occupés à supprimer ou à domestiquer les « facteurs naturels » n’est rien de plus qu’un rêve, idéalisme meurtrier et qui fuit devant la question.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193404#p.48">p. 48</a>
                         </div>
-                        <aside id="note20" class="note bottomnote"><a class="noteback" href="193404#note20_">3. </a>Cf. la remarquable étude de Charles Du Bos sur Wordsworth, dans <em>Vigile</em>, IV, 1931. Elle est riche en documents significatifs et qui viennent à l’appui de notre point de vue. Mais là encore la funeste doctrine de l’<em>analogia entis</em> empêche l’auteur de conclure dans le sens paulinien, et « naturalise » les réalités eschatologiques.</aside>
-                        <aside id="note21" class="note bottomnote"><a class="noteback" href="193404#note21_">4. </a>« La nature n’a point fait de l’homme un être isolé, destiné seulement à cultiver la terre et à la peupler, et n’ayant avec tout ce qui n’est pas de son espèce que les rapports arides et fixes que l’utilité l’invite à établir entre eux et lui. Une grande correspondance existe entre tous les êtres moraux et physiques. Il n’y a personne, je le pense, qui, laissant errer ses regards sur un horizon sans bornes, ou se promenant sur les rives de la mer que viennent battre les vagues, ou levant les yeux vers le firmament parsemé d’étoiles, n’ait éprouvé une sorte d’émotion qu’il lui était impossible d’analyser ou de définir. On dirait que des voix descendent du haut des cieux…, il semble y avoir je ne sais quoi de prophétique dans le vol pesant du corbeau, dans les cris funèbres des oiseaux de la nuit, dans les rugissements éloignés des bêtes sauvages. » (Benjamin <span class="sc">Constant</span> : <em>Réflexions sur le Théâtre allemand</em>).</aside>
+                        <aside id="note20" role="note" class="note bottomnote"><a class="noteback" href="193404#note20_">3. </a>Cf. la remarquable étude de Charles Du Bos sur Wordsworth, dans <em>Vigile</em>, IV, 1931. Elle est riche en documents significatifs et qui viennent à l’appui de notre point de vue. Mais là encore la funeste doctrine de l’<em>analogia entis</em> empêche l’auteur de conclure dans le sens paulinien, et « naturalise » les réalités eschatologiques.</aside>
+                        <aside id="note21" role="note" class="note bottomnote"><a class="noteback" href="193404#note21_">4. </a>« La nature n’a point fait de l’homme un être isolé, destiné seulement à cultiver la terre et à la peupler, et n’ayant avec tout ce qui n’est pas de son espèce que les rapports arides et fixes que l’utilité l’invite à établir entre eux et lui. Une grande correspondance existe entre tous les êtres moraux et physiques. Il n’y a personne, je le pense, qui, laissant errer ses regards sur un horizon sans bornes, ou se promenant sur les rives de la mer que viennent battre les vagues, ou levant les yeux vers le firmament parsemé d’étoiles, n’ait éprouvé une sorte d’émotion qu’il lui était impossible d’analyser ou de définir. On dirait que des voix descendent du haut des cieux…, il semble y avoir je ne sais quoi de prophétique dans le vol pesant du corbeau, dans les cris funèbres des oiseaux de la nuit, dans les rugissements éloignés des bêtes sauvages. » (Benjamin <span class="sc">Constant</span> : <em>Réflexions sur le Théâtre allemand</em>).</aside>
                       </div>
                     </section>
                   </article>
@@ -861,41 +887,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -920,14 +946,16 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193407hn_01.jpg/full/full/0/default.jpg" id="p.65">[p. 65]</a>
-                    <h1 class="head article"> Éditorial (juillet 1934)<a class="noteref" href="193407#note22" id="note22_"><sup>a</sup></a><a class="bookmark" href="193407"> §</a></h1>
-                    <p class="p autofirst">« Soyez appareillez à respondre à chascun qui vont demande rayson de l’espérance qui est en vous.<a class="noteref" href="193407#note23" id="note23_"><sup>1</sup></a> »</p>
+                    <h1 class="head article">
+                      <a href="#193407"> Éditorial (juillet 1934)<a class="noteref" href="193407#note22" id="note22_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">« Soyez appareillez à respondre à chascun qui vont demande rayson de l’espérance qui est en vous.<a class="noteref" href="193407#note23" id="note23_">1</a> »</p>
                     <p class="p">On n’oserait pas affirmer que le protestant d’aujourd’hui, dans la moyenne, soit trop bien appareillé. Il advient même que l’argutie papiste le jette dans l’incertitude. Il ne lui reste alors que le refuge d’un antidogmatisme cordial, sous le couvert duquel renaissent bien des hérésies, et celles-là même que les Réformateurs combattirent le plus âprement. Le « protestant moyen » affirme son attachement au libre examen dans la mesure où cela le dispense de répondre d’une façon précise et autorisée aux questions des incroyants ou des catholiques ; mais il se soucie peu d’examiner « librement », comme le veut la formule rationaliste, ou fidèlement, comme le voulait Calvin, le contenu des dogmes de l’Église chrétienne.</p>
                     <p class="p">Cette indifférence est si profonde qu’elle rend parfois inefficaces non seulement des affirmations renouvelées du dogme, mais encore les critiques les plus vives des hérésies qui se sont introduites dans la piété de nos églises au cours des deux derniers siècles. Non seulement on voit des pasteurs prêcher l’équivalent de la doctrine du salut par les œuvres, mais encore on voit ces <em>mêmes</em> pasteurs lire sans sourciller la confession de nos églises, qui proclame le salut par la foi seule. Bien plus, quand un théologien fidèle vient rappeler avec force l’exigence évangélique de la mort à soi-même, vient définir à nouveau l’Église chrétienne comme le lieu où la Parole est prêchée, on voit des pasteurs qui, chaque dimanche pourtant, prêchent l’exaltation de « l’âme humaine » par la religion, et qui définissent volontiers l’Église comme une 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193407hn_02.jpg/full/full/0/default.jpg" id="p.66">[p. 66]</a>
  force au service de la civilisation, s’étonner des rudesses de ce théologien, et affirmer innocemment qu’il n’y a rien de bien nouveau dans ce message ; que c’est là ce qu’ils ont toujours dit. Ainsi le sel perd sa saveur.</p>
                     <p class="p">Les ravages de cette indifférence théologique sont tels qu’on se demande parfois si nos temples sont encore fréquentés par des protestants, et si la prédication de Calvin ressuscité y provoquerait autre chose qu’une curiosité passagère, alors qu’en toute honnêteté, elle devrait provoquer le scandale chez la très grande majorité des auditeurs. Nous ne lapidons plus les prophètes : nous savons respecter leur talent ! Nous déplorons poliment leurs excès ; si seulement ils parlaient un peu moins fort, ce serait bien édifiant de les entendre…</p>
-                    <p class="p">Le seul avantage de cette situation, c’est qu’elle a quelque peu immunisé les fidèles contre les fausses doctrines modernistes. Malgré ce que certains leur ont prêché<a class="noteref" href="193407#note24" id="note24_"><sup>2</sup></a>, il se trouve encore des protestants pour <em>ne pas croire</em> que la Cène est une simple commémoration symbolique. Mais combien s’en trouve-t-il qui soient capables d’expliquer ce qu’ils croient ? Combien qui puissent donner raison de ce que dans la communion, et non pas dans le pain et le vin, il y a la présence réelle du Seigneur mort pour nous, impies ? Peut-être le fidèle d’aujourd’hui n’a-t-il plus, comme ses pères, la crainte païenne de se présenter à la table sainte dans un état « moral » insuffisant ; mais sait-il bien que seul l’aveu de sa totale insuffisance morale lui donne le droit de saisir le salut dont les signes sacrés sont le gage ? On est moins exigeant envers soi-même : il faudrait être autrement exigeant.</p>
+                    <p class="p">Le seul avantage de cette situation, c’est qu’elle a quelque peu immunisé les fidèles contre les fausses doctrines modernistes. Malgré ce que certains leur ont prêché<a class="noteref" href="193407#note24" id="note24_">2</a>, il se trouve encore des protestants pour <em>ne pas croire</em> que la Cène est une simple commémoration symbolique. Mais combien s’en trouve-t-il qui soient capables d’expliquer ce qu’ils croient ? Combien qui puissent donner raison de ce que dans la communion, et non pas dans le pain et le vin, il y a la présence réelle du Seigneur mort pour nous, impies ? Peut-être le fidèle d’aujourd’hui n’a-t-il plus, comme ses pères, la crainte païenne de se présenter à la table sainte dans un état « moral » insuffisant ; mais sait-il bien que seul l’aveu de sa totale insuffisance morale lui donne le droit de saisir le salut dont les signes sacrés sont le gage ? On est moins exigeant envers soi-même : il faudrait être autrement exigeant.</p>
                     <p class="p">Nous renoncerons, dans cette nouvelle série de <em>Hic et Nunc</em>, à polémiser <em>directement</em> contre les hérésies qui fourmillent dans la croyance moderne. Nous avons eu le tort, souvent, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193407hn_03.jpg/full/full/0/default.jpg" id="p.67">[p. 67]</a>
  d’attaquer des erreurs auxquelles bien des fidèles tiennent aussi peu qu’aux vérités qui les réfutent. D’autres fois, nous avons parlé trop haut, à cause de quelques sourds, indisposant ceux qui ne le sont point. Nous tenterons simplement, désormais, de « donner raison de l’espérance qui est en nous ».</p>
@@ -938,14 +966,14 @@
                         <div class="b note-page">
                           <a href="193407#p.65">p. 65</a>
                         </div>
-                        <aside id="note22" class="note bottomnote"><a class="noteback" href="193407#note22_">a. </a>« Éditorial », <em>Hic et Nunc</em>, Paris, n° 7, juillet 1934, p. 65-67.</aside>
-                        <aside id="note23" class="note bottomnote"><a class="noteback" href="193407#note23_">1. </a>I Pierre 3 :15. Version de Calvin.</aside>
+                        <aside id="note22" role="note" class="note bottomnote"><a class="noteback" href="193407#note22_">a. </a>« Éditorial », <em>Hic et Nunc</em>, Paris, n° 7, juillet 1934, p. 65-67.</aside>
+                        <aside id="note23" role="note" class="note bottomnote"><a class="noteback" href="193407#note23_">1. </a>I Pierre 3 :15. Version de Calvin.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193407#p.66">p. 66</a>
                         </div>
-                        <aside id="note24" class="note bottomnote"><a class="noteback" href="193407#note24_">2. </a>Et malgré certains catéchismes. Nous y reviendrons au n° 8.</aside>
+                        <aside id="note24" role="note" class="note bottomnote"><a class="noteback" href="193407#note24_">2. </a>Et malgré certains catéchismes. Nous y reviendrons au n° 8.</aside>
                       </div>
                     </section>
                   </article>
@@ -961,41 +989,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1020,7 +1048,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_01.jpg/full/full/0/default.jpg" id="p.152">[p. 152]</a>
-                    <h1 class="head article"> Les trois temps de la Parole (mai 1935)<a class="noteref" href="193505_p152#note25" id="note25_"><sup>a</sup></a><a class="bookmark" href="193505_p152"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193505_p152"> Les trois temps de la Parole (mai 1935)<a class="noteref" href="193505_p152#note25" id="note25_">a</a></a>
+                    </h1>
                     <p class="p autofirst">On sait avec quelle insistance Kierkegaard revient, dans toutes ses œuvres proprement religieuses, sur la notion de « contemporanéité » avec le Christ. Toute la polémique de Kierkegaard est dirigée contre un certain esprit historique ou historiciste, qui tend à nous faire croire qu’après 19 siècles de christianisme, le « scandale » du Christ s’est atténué. Cette longue tradition nous aurait habitués à <em>admettre</em> que l’homme Jésus était aussi le Christ. Ainsi l’histoire, la durée, les dogmes appris, nous dispenseraient progressivement de faire en présence du Verbe divin incarné dans un homme juif, l’acte de foi impossible à l’homme, celui que Pierre fit lorsqu’il dit à Jésus : « Tu es le Christ, le Fils du Dieu vivant ! » L’Histoire, le développement de la tradition, l’accoutumance religieuse nous faciliteraient cette reconnaissance, et se substitueraient ainsi, sans que nous nous en doutions, à l’acte de l’Esprit. Le scandale s’évanouirait, pour faire place à une adhésion raisonnable et éclairée. Mais en même temps que le scandale, la foi s’évanouirait aussi. Car la foi consiste justement à croire ce qu’on ne peut ni voir, ni toucher, ni comprendre humainement.</p>
                     <p class="p">Cette thèse de Kierkegaard, sous la forme polémique et non systématique qu’il lui a donnée, peut prêter à de graves malentendus. À celui-ci en particulier : certains seront tentés de croire que tout l’effort de la pensée chrétienne doit être de <em>remonter</em> l’Histoire, de se transporter en imagination aux premières années de notre ère, en Judée, de nous remettre tant bien que mal dans la situation de Pierre devant Jésus, bref, de nous rendre contemporains de Jésus-Christ en faisant abstraction du temps qui nous sépare de son apparition 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_02.jpg/full/full/0/default.jpg" id="p.153">[p. 153]</a>
@@ -1037,7 +1067,7 @@
                     <p class="p">Il y a trois sortes de temps, dit Barth : le temps de <em>Jésus-Christ</em>, — le temps de ses <em>témoins bibliques</em>, — le temps de l’<em>Église</em> (notre temps). Ce sont là les trois temps de la Parole. Jésus-Christ est la Parole de Dieu (Jean <span class="num">i</span>). Les écrits des 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_04.jpg/full/full/0/default.jpg" id="p.155">[p. 155]</a>
  prophètes et des apôtres — l’Ancien et le Nouveau Testament — sont les témoignages de la Parole. Enfin, la prédication de l’Église procède de ces témoignages et renvoie, au-delà d’elle-même, à travers eux, à la Parole même de Dieu. « Autre est le temps du parler direct et originel de Dieu lui-même dans sa Révélation, le temps de <em>Jésus-Christ</em>, le temps de celui qui a été annoncé aux prophètes et aux apôtres pour qu’ils en témoignent ensuite, — autre est le temps de ce <em>témoignage</em>, le temps de la prophétie et de l’apostolat, le temps de Pierre sur lequel Christ bâtit son Église…, — autre encore est le temps de cette <em>Église</em> même, le temps de la prédication dérivée de la parole des prophètes et des apôtres, orientée vers cette parole et recevant d’elle sa norme. » Or, ces temps différents ne sont pas différenciés seulement par l’éloignement des siècles et l’évolution historique de l’humanité. <em>Ils résultent d’attitudes différentes que Dieu adopte en face de l’homme</em>. Ils représentent trois activités de Dieu bien distinctes. « Cette position différente dans la hiérarchie de Dieu distingue les trois temps d’une manière tout à fait particulière, qui n’est pas celle dont se distinguent les temps de l’homme en dehors de la Parole de Dieu, et qui dépend ici de la distinction propre aux temps de la Parole. » Autrement dit, ces trois temps ne sont pas dans le prolongement historique l’un de l’autre ; ce ne sont pas trois portions successives du même temps dans lequel nous vivons, mais bien
-          trois espèces de temps distinctes. D’où il résulte que l’on ne peut pas passer de l’un à l’autre par un mouvement continu, de proche en proche. Il faut un saut<a class="noteref" href="193505_p152#note26" id="note26_"><sup>1</sup></a>.</p>
+          trois espèces de temps distinctes. D’où il résulte que l’on ne peut pas passer de l’un à l’autre par un mouvement continu, de proche en proche. Il faut un saut<a class="noteref" href="193505_p152#note26" id="note26_">1</a>.</p>
                     <p class="p">Prenons un exemple fameux : celui de Pierre à Césarée de Philippe. Certes, Pierre vit dans le même temps que Jésus, le rabbi de Nazareth, mais il ne devient le « contemporain » 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_05.jpg/full/full/0/default.jpg" id="p.156">[p. 156]</a>
  du Fils de Dieu qu’à l’instant où, par la foi, il prononce : « Tu es le Christ, le Fils du Dieu vivant. » Or, ni la chair, ni le sang n’auraient pu lui faire dire cette parole (Matt. 16, 17). C’est Dieu lui-même qui agit en lui à ce moment, qui lui fait faire le « pas », le saut du temps de la prophétie au temps de la présence. Ou encore : c’est Dieu seul qui peut faire passer l’homme d’un temps à l’autre, c’est par le « bon plaisir » de Dieu seul que nous pouvons devenir <em>contemporains</em> de sa Parole. Nicodème a beau vivre en même temps que le Christ : il ne le reconnaît pas, il ne voit en lui qu’un prophète, il n’est pas son contemporain. Les disciples d’Emmaüs ont beau cheminer aux côtés du Christ : ils ne deviennent ses contemporains qu’à l’instant où <em>lui-même</em> se révèle à eux. Et des deux brigands du Calvaire, l’un seulement devient le contemporain de son Sauveur. Ce dernier exemple fait sentir l’échec final de toute méthode historique qui voudrait nous rendre « contemporains » de Christ. Car cette méthode, par elle-même, ne peut nous conduire qu’à revivre la situation du brigand qui refuse.</p>
@@ -1047,9 +1077,9 @@
                     <p class="p">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_06.jpg/full/full/0/default.jpg" id="p.157">[p. 157]</a>
  Cette position du problème, que nous venons d’esquisser, nous permettra de situer honnêtement les essais qui composent ce numéro de <em>Hic et Nunc.</em> Qu’il soit donc bien établi :</p>
-                    <p class="p">1° que les efforts de notre imagination, qu’ils s’expriment sous une forme franchement littéraire<a class="noteref" href="193505_p152#note27" id="note27_"><sup>2</sup></a>, ou sous la forme de méditations religieuses, ou même sous forme de sermons, sont par eux-mêmes absolument vains, s’ils prétendent, à force d’habileté, de science, de poésie ou d’éloquence, nous rendre « contemporains » de la Parole ou de ses témoins bibliques ;</p>
+                    <p class="p">1° que les efforts de notre imagination, qu’ils s’expriment sous une forme franchement littéraire<a class="noteref" href="193505_p152#note27" id="note27_">2</a>, ou sous la forme de méditations religieuses, ou même sous forme de sermons, sont par eux-mêmes absolument vains, s’ils prétendent, à force d’habileté, de science, de poésie ou d’éloquence, nous rendre « contemporains » de la Parole ou de ses témoins bibliques ;</p>
                     <p class="p">2° qu’ils ne peuvent avoir d’utilité que s’ils concrétisent à nos yeux les <em>limites</em> de nos imaginations. Reconnaître, éprouver péniblement ces limites, voilà la vraie leçon de nos voyages en Palestine, réels ou figurés.</p>
-                    <p class="p">Nous ne pouvons nous empêcher d’imaginer. Le sermon le plus sec, le plus littéralement biblique, comportera toujours une part de « littérature », une tentative de représenter aux yeux des fidèles les choses qu’il annonce. L’important, c’est qu’il soit bien entendu que tout cela n’exprime encore que <em>notre</em> réalité humaine. L’important, c’est qu’une instance critique impitoyable domine sans cesse ces tentatives inévitables, et déclare leur vraie signification<a class="noteref" href="193505_p152#note28" id="note28_"><sup>3</sup></a>.</p>
+                    <p class="p">Nous ne pouvons nous empêcher d’imaginer. Le sermon le plus sec, le plus littéralement biblique, comportera toujours une part de « littérature », une tentative de représenter aux yeux des fidèles les choses qu’il annonce. L’important, c’est qu’il soit bien entendu que tout cela n’exprime encore que <em>notre</em> réalité humaine. L’important, c’est qu’une instance critique impitoyable domine sans cesse ces tentatives inévitables, et déclare leur vraie signification<a class="noteref" href="193505_p152#note28" id="note28_">3</a>.</p>
                     <p class="p">Quand nous parlons des témoins de la Bible, nous n’avons pas à nous préoccuper outre mesure d’exactitude historique, archéologique, etc. <em>La plus grande fantaisie nous est permise dans nos efforts de représentation</em> : puisqu’aussi bien, tous ces efforts ne pourront jamais nous conduire sur le plan véritable et dans le temps réel où ces témoins sont apparus. Dans un certain sens, on peut dire que <em>l’échec</em> seul de ces efforts leur confère, s’il est déclaré expressément, s’il est éprouvé 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p152_07.jpg/full/full/0/default.jpg" id="p.158">[p. 158]</a>
  par l’orateur et par l’auditeur comme une nécessité de notre nature, leur sens de prédication.</p>
@@ -1060,20 +1090,20 @@
                         <div class="b note-page">
                           <a href="193505_p152#p.152">p. 152</a>
                         </div>
-                        <aside id="note25" class="note bottomnote"><a class="noteback" href="193505_p152#note25_">a. </a>« Les trois temps de la Parole »,<em> Hic et Nunc</em>, Paris, n° 9-10, mai 1935, p. 152-158.</aside>
+                        <aside id="note25" role="note" class="note bottomnote"><a class="noteback" href="193505_p152#note25_">a. </a>« Les trois temps de la Parole »,<em> Hic et Nunc</em>, Paris, n° 9-10, mai 1935, p. 152-158.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193505_p152#p.155">p. 155</a>
                         </div>
-                        <aside id="note26" class="note bottomnote"><a class="noteback" href="193505_p152#note26_">1. </a>Barth dit simplement « un pas », soucieux sans doute de se distinguer des philosophes « existentiels », qui ont mis à toutes les sauces humanistes et romantiques la notion, chère à Kierkegaard, de <em>saut</em>.</aside>
+                        <aside id="note26" role="note" class="note bottomnote"><a class="noteback" href="193505_p152#note26_">1. </a>Barth dit simplement « un pas », soucieux sans doute de se distinguer des philosophes « existentiels », qui ont mis à toutes les sauces humanistes et romantiques la notion, chère à Kierkegaard, de <em>saut</em>.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193505_p152#p.157">p. 157</a>
                         </div>
-                        <aside id="note27" class="note bottomnote"><a class="noteback" href="193505_p152#note27_">2. </a>ou cinématographique ! Voir le film <em>Golgotha</em>. Ou encore la Passion d’Oberammergau !</aside>
-                        <aside id="note28" class="note bottomnote"><a class="noteback" href="193505_p152#note28_">3. </a>C’est le rôle que joue la parole peinte par Grünewald à côté du Jean-Baptiste de la Crucifixion d’Issenheim : « Il faut qu’il croisse et que je diminue. » Voilà le vrai sens du tableau, et peu importe que les personnages soient vêtus comme jamais aucun juif ne l’a été.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="193505_p152#note27_">2. </a>ou cinématographique ! Voir le film <em>Golgotha</em>. Ou encore la Passion d’Oberammergau !</aside>
+                        <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="193505_p152#note28_">3. </a>C’est le rôle que joue la parole peinte par Grünewald à côté du Jean-Baptiste de la Crucifixion d’Issenheim : « Il faut qu’il croisse et que je diminue. » Voilà le vrai sens du tableau, et peu importe que les personnages soient vêtus comme jamais aucun juif ne l’a été.</aside>
                       </div>
                     </section>
                   </article>
@@ -1089,41 +1119,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1148,7 +1178,9 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p159_01.jpg/full/full/0/default.jpg" id="p.159">[p. 159]</a>
-                    <h1 class="head article"> Soirée chez Nicodème (mai 1935)<a class="noteref" href="193505_p159#note29" id="note29_"><sup>a</sup></a><a class="bookmark" href="193505_p159"> §</a></h1>
+                    <h1 class="head article">
+                      <a href="#193505_p159"> Soirée chez Nicodème (mai 1935)<a class="noteref" href="193505_p159#note29" id="note29_">a</a></a>
+                    </h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Et puis, je vous en supplie, que l’humour ne perde jamais ses droits. Vous ne croyez pas à l’expérience ! Au nom de quoi ? Au nom de l’expérience que vous n’avez pas d’expérience !</p>
                       <div class="bibl"><span class="sc">W. Monod</span>, <cite class="title">Le Problème du Bien</cite>, I, p. 512.</div>
@@ -1186,7 +1218,7 @@
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Cette scène, si imprévue pour la plupart des hôtes de ce soir-là, ne laissa pas de nous plonger dans la gêne, dont quelques-uns 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p159_07.jpg/full/full/0/default.jpg" id="p.165">[p. 165]</a>
- ne crurent pouvoir secouer l’effet qu’en s’étonnant subitement de l’heure tardive. Mais M<sup class="sup">me</sup> Nicodème les rassura vivement, affirmant d’un ton sans réplique qu’il n’était pas question de s’en aller. Et Poupette passa les petits fours, avec un naturel parfait. Le monologue de Nicodème ne paraissait pas avoir fait grande impression sur cette enfant, trop habituée sans doute à la confession paternelle. Un des jeunes étudiants avait repris en main le « monument » du professeur Monod, et s’amusait à lire à ses voisins certains passages qui éveillaient tantôt des rires excessifs, tantôt de véhémentes protestations. Je ne vous rapporterai que le dernier de ces passages : — « Qui est vainqueur du monde, sinon celui qui croit que Jésus est le Fils de Dieu ? Nous sommes là en pleine et absolue certitude ; nous apercevons le sommet d’un gigantesque pylône, d’un poste émetteur d’où émanent depuis quasi deux mille années, intarissablement, à travers l’humanité, les ondes radioactives du Salut.<a class="noteref" href="193505_p159#note30" id="note30_"><sup>1</sup></a> » L’étudiant qui lisait referma brusquement le gros volume et s’exclama : « Si ce n’est pas là du catholicisme tout pur, je déclare ne plus rien comprendre à rien. Ces “ondes radioactives du Salut”, cela s’appelle, en bonne scolastique, la grâce infuse ! et si toute notre humanité est soumise à cette fécondation permanente par je ne sais quelle radio céleste, pourquoi faudrait-il, en effet, que nous mourrions totalement à nous-mêmes ? Laissons-nous donc radiographier, tout simplement ! S’il existe une cure moins radicale que la mort, on serait bien bête de ne pas y recourir. Mais saint Jean ne se doutait guère que son Évangile serait un
+ ne crurent pouvoir secouer l’effet qu’en s’étonnant subitement de l’heure tardive. Mais M<sup class="sup">me</sup> Nicodème les rassura vivement, affirmant d’un ton sans réplique qu’il n’était pas question de s’en aller. Et Poupette passa les petits fours, avec un naturel parfait. Le monologue de Nicodème ne paraissait pas avoir fait grande impression sur cette enfant, trop habituée sans doute à la confession paternelle. Un des jeunes étudiants avait repris en main le « monument » du professeur Monod, et s’amusait à lire à ses voisins certains passages qui éveillaient tantôt des rires excessifs, tantôt de véhémentes protestations. Je ne vous rapporterai que le dernier de ces passages : — « Qui est vainqueur du monde, sinon celui qui croit que Jésus est le Fils de Dieu ? Nous sommes là en pleine et absolue certitude ; nous apercevons le sommet d’un gigantesque pylône, d’un poste émetteur d’où émanent depuis quasi deux mille années, intarissablement, à travers l’humanité, les ondes radioactives du Salut.<a class="noteref" href="193505_p159#note30" id="note30_">1</a> » L’étudiant qui lisait referma brusquement le gros volume et s’exclama : « Si ce n’est pas là du catholicisme tout pur, je déclare ne plus rien comprendre à rien. Ces “ondes radioactives du Salut”, cela s’appelle, en bonne scolastique, la grâce infuse ! et si toute notre humanité est soumise à cette fécondation permanente par je ne sais quelle radio céleste, pourquoi faudrait-il, en effet, que nous mourrions totalement à nous-mêmes ? Laissons-nous donc radiographier, tout simplement ! S’il existe une cure moins radicale que la mort, on serait bien bête de ne pas y recourir. Mais saint Jean ne se doutait guère que son Évangile serait un
           jour transformé en pylône émetteur ! » — À quoi l’un des barthiens s’empressa d’ajouter : « Quoi qu’il en soit, d’ailleurs, de toutes ces métaphores, le seul fait qui demeure, c’est celui que Barth exprimait si magnifiquement dans une de ses réponses aux objections des humanistes : “Christ n’a pas cru pouvoir sauver les hommes autrement qu’en mourant pour eux”. Que pourrions-nous donc faire de plus que lui ? L’imitation du Christ, c’est de mourir en lui et avec lui, — non pas de s’emparer de son message comme d’un prétexte à ne plus mourir tout à fait. »</p>
                     <p class="p">Le dirai-je ? Ce dialogue, ces rires et ces affirmations si délibérément 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p159_08.jpg/full/full/0/default.jpg" id="p.166">[p. 166]</a>
@@ -1198,7 +1230,7 @@
                     <p class="p">« Vous souvenez-vous de ce que disait et répétait sans cesse Kierkegaard ? Être chrétien, c’est devenir contemporain de Jésus-Christ dans son abaissement. Contemporains ! Mais Nicodème aussi fut contemporain de Jésus. Et même il sut reconnaître en ce Jésus un docteur envoyé par Dieu !</p>
                     <p class="p">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193505hn_p159_10.jpg/full/full/0/default.jpg" id="p.168">[p. 168]</a>
- « Mais voyez-vous, nous sommes ici au nœud de ce mystère étourdissant. Nicodème a reconnu un prophète, il l’a formellement reconnu. Il est allé le voir, parce qu’il savait que ce prophète, Jésus, “était venu de la part de Dieu”. Comment le savait-il ? Parce qu’on lui avait dit quels miracles faisait Jésus. C’étaient bien là des expériences, n’est-ce pas ? Et l’expérience religieuse de ce grand docteur de l’Église avait bien su les reconnaître. C’était conforme à sa théologie, on pouvait se risquer à discuter avec cet homme de nuit, quand il ne s’agit plus d’agir, mais seulement d’agiter des pensées… Eh bien, je vous demande si nous faisons autre chose ? Oui, même quand nous condamnons Nicodème au nom d’une meilleure théologie, faisons-nous autre chose que lui ? Sommes-nous contemporains du Christ autrement ou plus réellement qu’il ne le fut, cette nuit-là ? Faisons-nous autre chose que de répéter formellement des vérités que nous ne <em>pouvons</em> pas vivre ? Vivons-nous autre chose que des “vendredis saints spéculatifs”<a class="noteref" href="193505_p159#note31" id="note31_"><sup>2</sup></a> ? Il n’y a pas tant de différence entre un homme qui nie l’Expérience, l’Unique, — la seule chose nécessaire — et un homme qui l’affirme <em>unique</em>, sans cependant pouvoir la vivre, et sachant qu’on ne peut la vivre. Entre celui qui affirme qu’on ne peut pas mourir, et celui qui affirme l’exigence de la mort, il n’y a peut-être <em>aucune</em> différence : car tous les deux sont des vivants et non des morts. Et comment osez-vous affirmer cette impossible exigence de la mort, <em>si vous ne vivez pas de cette mort</em> ! Or, vous n’en vivez pas, j’en suis trop sûr, quand vous en faites un argument théologique ! Où donc est-il, celui qui accepte de mourir ? Oui, maintenant, je vais vous dire la vérité : Nous sommes tous des Nicodèmes ! et jamais
+ « Mais voyez-vous, nous sommes ici au nœud de ce mystère étourdissant. Nicodème a reconnu un prophète, il l’a formellement reconnu. Il est allé le voir, parce qu’il savait que ce prophète, Jésus, “était venu de la part de Dieu”. Comment le savait-il ? Parce qu’on lui avait dit quels miracles faisait Jésus. C’étaient bien là des expériences, n’est-ce pas ? Et l’expérience religieuse de ce grand docteur de l’Église avait bien su les reconnaître. C’était conforme à sa théologie, on pouvait se risquer à discuter avec cet homme de nuit, quand il ne s’agit plus d’agir, mais seulement d’agiter des pensées… Eh bien, je vous demande si nous faisons autre chose ? Oui, même quand nous condamnons Nicodème au nom d’une meilleure théologie, faisons-nous autre chose que lui ? Sommes-nous contemporains du Christ autrement ou plus réellement qu’il ne le fut, cette nuit-là ? Faisons-nous autre chose que de répéter formellement des vérités que nous ne <em>pouvons</em> pas vivre ? Vivons-nous autre chose que des “vendredis saints spéculatifs”<a class="noteref" href="193505_p159#note31" id="note31_">2</a> ? Il n’y a pas tant de différence entre un homme qui nie l’Expérience, l’Unique, — la seule chose nécessaire — et un homme qui l’affirme <em>unique</em>, sans cependant pouvoir la vivre, et sachant qu’on ne peut la vivre. Entre celui qui affirme qu’on ne peut pas mourir, et celui qui affirme l’exigence de la mort, il n’y a peut-être <em>aucune</em> différence : car tous les deux sont des vivants et non des morts. Et comment osez-vous affirmer cette impossible exigence de la mort, <em>si vous ne vivez pas de cette mort</em> ! Or, vous n’en vivez pas, j’en suis trop sûr, quand vous en faites un argument théologique ! Où donc est-il, celui qui accepte de mourir ? Oui, maintenant, je vais vous dire la vérité : Nous sommes tous des Nicodèmes ! et jamais
           plus qu’en ce moment où nous condamnons Nicodème… Voilà pourquoi Nicodème n’est pas mort : il demeure parmi nous comme le vivant symbole de l’homme qui ne <em>peut</em> pas mourir !… Plaise à Dieu que l’angoisse qui tourmente cet homme depuis sa rencontre nocturne, devienne aussi la nôtre, et nous ferme la bouche ! »</p>
                     <p class="p">J’avais parlé longtemps, et non sans fièvre. Je m’arrêtai soudain, plutôt confus de ma véhémence. Les jeunes barthiens se consultaient du regard. Était-ce de ma part une palinodie ?</p>
                     <p class="p">
@@ -1216,19 +1248,19 @@
                         <div class="b note-page">
                           <a href="193505_p159#p.159">p. 159</a>
                         </div>
-                        <aside id="note29" class="note bottomnote"><a class="noteback" href="193505_p159#note29_">a. </a>« Soirée chez Nicodème », <em>Hic et Nunc</em>, Paris, n° 9-10, mai 1935, p. 159-170.</aside>
+                        <aside id="note29" role="note" class="note bottomnote"><a class="noteback" href="193505_p159#note29_">a. </a>« Soirée chez Nicodème », <em>Hic et Nunc</em>, Paris, n° 9-10, mai 1935, p. 159-170.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193505_p159#p.165">p. 165</a>
                         </div>
-                        <aside id="note30" class="note bottomnote"><a class="noteback" href="193505_p159#note30_">1. </a><em>Op. cit.</em>, I, p. 441.</aside>
+                        <aside id="note30" role="note" class="note bottomnote"><a class="noteback" href="193505_p159#note30_">1. </a><em>Op. cit.</em>, I, p. 441.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193505_p159#p.168">p. 168</a>
                         </div>
-                        <aside id="note31" class="note bottomnote"><a class="noteback" href="193505_p159#note31_">2. </a>Hegel.</aside>
+                        <aside id="note31" role="note" class="note bottomnote"><a class="noteback" href="193505_p159#note31_">2. </a>Hegel.</aside>
                       </div>
                     </section>
                   </article>
@@ -1244,41 +1276,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1303,22 +1335,24 @@
                 <content><![CDATA[
                   <article>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_01.jpg/full/full/0/default.jpg" id="p.8">[p. 8]</a>
-                    <h1 class="head article"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)<a class="noteref" href="193601#note32" id="note32_"><sup>a</sup></a><a class="bookmark" href="193601"> §</a></h1>
-                    <p class="p autofirst">Que nos amis catholiques nous permettent de relever tout d’abord un défaut très courant de la controverse<a class="noteref" href="193601#note33" id="note33_"><sup>1</sup></a> avec la Réforme, en France : on oppose dix-neuf siècles de tradition universelle — dont quinze nous sont communs d’ailleurs avec l’église romaine — à quatre siècles d’une tradition que l’on réduit au seul domaine français, sans même compter que nos églises ont subi de telles persécuti<a id="_GoBack">‌</a>ons qu’elles ont été quasi anéanties durant la moitié de ce temps. Ne serait-il pas plus conforme à la probité historique et plus fécond pour la théologie de mettre en regard du catholicisme romain le protestantisme tout entier, luthérien, calviniste et wesleyen, voire anglican, dans ce qu’il a de spécifique et de commun au sein de sa diversité ?</p>
-                    <p class="p">L’on verrait mieux alors, que l’opposition réelle n’est pas, ainsi qu’on risque de le déduire de l’entreprise des Pères de Juvisy, entre « l’héritage du Christ » d’une part, et les dangers de déviations protestantes de l’autre<a class="noteref" href="193601#note34" id="note34_"><sup>2</sup></a>. L’on verrait mieux que l’opposition réelle est entre la conception « évangélique » et la conception papale ; entre la foi à la Révélation parfaite et suffisante, et le recours à la Tradition comme critère des révélations évangéliques. Ce qui s’oppose en réalité, 
+                    <h1 class="head article">
+                      <a href="#193601"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)<a class="noteref" href="193601#note32" id="note32_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Que nos amis catholiques nous permettent de relever tout d’abord un défaut très courant de la controverse<a class="noteref" href="193601#note33" id="note33_">1</a> avec la Réforme, en France : on oppose dix-neuf siècles de tradition universelle — dont quinze nous sont communs d’ailleurs avec l’église romaine — à quatre siècles d’une tradition que l’on réduit au seul domaine français, sans même compter que nos églises ont subi de telles persécuti<a id="_GoBack">‌</a>ons qu’elles ont été quasi anéanties durant la moitié de ce temps. Ne serait-il pas plus conforme à la probité historique et plus fécond pour la théologie de mettre en regard du catholicisme romain le protestantisme tout entier, luthérien, calviniste et wesleyen, voire anglican, dans ce qu’il a de spécifique et de commun au sein de sa diversité ?</p>
+                    <p class="p">L’on verrait mieux alors, que l’opposition réelle n’est pas, ainsi qu’on risque de le déduire de l’entreprise des Pères de Juvisy, entre « l’héritage du Christ » d’une part, et les dangers de déviations protestantes de l’autre<a class="noteref" href="193601#note34" id="note34_">2</a>. L’on verrait mieux que l’opposition réelle est entre la conception « évangélique » et la conception papale ; entre la foi à la Révélation parfaite et suffisante, et le recours à la Tradition comme critère des révélations évangéliques. Ce qui s’oppose en réalité, 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_02.jpg/full/full/0/default.jpg" id="p.9">[p. 9]</a>
  c’est une doctrine du salut par la foi au sein d’une Église obéissant à la Révélation, et une doctrine du salut par l’Église, par une Église qui prend barre sur l’Écriture. Précisons encore ce schéma, qui ne prétend qu’à indiquer le lieu précis de la divergence : la Réforme prêche que le Christ est le chef absolu, souverainement adorable, de l’Église qui est son corps ; tandis que Rome affirme que la tradition et le Pape détiennent « le secret du Christ » lui-même. (L’expression est de Bossuet.)</p>
-                    <p class="p">À la question ainsi posée, on me répondra probablement que mon antithèse est forcée et que mes définitions de la position catholique ne sont pas formulées en termes catholiques. Je comprends parfaitement à quel souci très légitime d’honnêteté, à quelle crainte très légitime de me voir combattre une caricature peut correspondre une objection de ce genre. Et pourtant, pour peu qu’on adopte la position des catholiques eux-mêmes vis-à-vis de leurs grands docteurs, on est obligé de constater que cette objection ne porte guère. En effet, « l’Église ne reconnaît une expression exacte de sa substance que dans la personne de ses saints », écrit le père Congar en une fort belle définition<a class="noteref" href="193601#note35" id="note35_"><sup>3</sup></a>. Or, si je cite une formule d’Augustin, qui est un grand saint, on me répond que cette formule lui est tout à fait personnelle, et l’on m’oppose une thèse thomiste ; laquelle est, à son tour, contestée par un Newman ou un Laberthonnière, dans des livres pourtant revêtus de l’imprimatur. Finalement, faute du Concile qui aurait seul qualité pour m’éclairer, et qu’on ne saurait convoquer pour si peu, j’ai recours à quelque « Enchiridion », ou recueil des formules dogmatiques élaborées par les conciles et les bulles papales, donc simple catalogue de résultats, sans commentaires ni justifications. Serait-ce là le langage orthodoxe que je cherche ? Il est souvent contraire aux écrits d’Augustin ou de Thomas d’Aquin<a class="noteref" href="193601#note36" id="note36_"><sup>4</sup></a>, seuls témoignages qui nous restent de la « personne » de ces saints…</p>
+                    <p class="p">À la question ainsi posée, on me répondra probablement que mon antithèse est forcée et que mes définitions de la position catholique ne sont pas formulées en termes catholiques. Je comprends parfaitement à quel souci très légitime d’honnêteté, à quelle crainte très légitime de me voir combattre une caricature peut correspondre une objection de ce genre. Et pourtant, pour peu qu’on adopte la position des catholiques eux-mêmes vis-à-vis de leurs grands docteurs, on est obligé de constater que cette objection ne porte guère. En effet, « l’Église ne reconnaît une expression exacte de sa substance que dans la personne de ses saints », écrit le père Congar en une fort belle définition<a class="noteref" href="193601#note35" id="note35_">3</a>. Or, si je cite une formule d’Augustin, qui est un grand saint, on me répond que cette formule lui est tout à fait personnelle, et l’on m’oppose une thèse thomiste ; laquelle est, à son tour, contestée par un Newman ou un Laberthonnière, dans des livres pourtant revêtus de l’imprimatur. Finalement, faute du Concile qui aurait seul qualité pour m’éclairer, et qu’on ne saurait convoquer pour si peu, j’ai recours à quelque « Enchiridion », ou recueil des formules dogmatiques élaborées par les conciles et les bulles papales, donc simple catalogue de résultats, sans commentaires ni justifications. Serait-ce là le langage orthodoxe que je cherche ? Il est souvent contraire aux écrits d’Augustin ou de Thomas d’Aquin<a class="noteref" href="193601#note36" id="note36_">4</a>, seuls témoignages qui nous restent de la « personne » de ces saints…</p>
                     <p class="p">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_03.jpg/full/full/0/default.jpg" id="p.10">[p. 10]</a>
  On pourrait remarquer que tout cela, même simplifié dans mon exemple, est bien complexe, bien contradictoire, et sous une apparence de précision rigide, bien propice aux interprétations, aux <em>distinguos</em> infinis par où le pire subjectivisme, celui de la prudence opportuniste, s’insinue jusqu’au cœur de la dogmatique romaine. On pourrait remarquer que le fidèle protestant a, sur le fidèle catholique, l’avantage sans prix d’avoir toujours à portée de la main le critère dernier de toute « formulation chrétienne », les Évangiles et les écrits apostoliques. Mais mon propos est ici simplement de répondre à l’objection de nos frères romanisés. Si les formules par lesquelles je résume leurs croyances ne sont pas « à la lettre » catholiques, je dis :</p>
                     <p class="p">1° que cela tient à ce que cette « lettre » est, pour nous tout au moins, pratiquement insaisissable ;</p>
                     <p class="p">2° que cette « lettre » ne saurait m’importer davantage qu’au théologien catholique, lequel, s’il ne veut pas se borner à la pure et simple copie des formules élaborées par les Conciles, est bien forcé de parler un langage personnel, dont il sera toujours possible d’affirmer qu’il n’est pas littéralement « catholique » (même s’il a reçu l’imprimatur !) ;</p>
                     <p class="p">3° que ce n’est pas la lettre et la formulation des dogmes qui m’importent, mais la manière dont on en use dans l’église romaine, mais le degré de sérieux qu’on leur accorde en fait, mais l’opinion commune qu’elles sont censées enregistrer.</p>
-                    <p class="p">Cette opinion commune, je suis certain de la traduire sans la fausser quand je dis que le catholique, <em>en tant que tel</em>, croit que l’Église est au-dessus de l’Évangile, qu’elle a barre sur lui, qu’elle dispose de critères qui ne sont pas tirés de lui<a class="noteref" href="193601#note37" id="note37_"><sup>5</sup></a>
+                    <p class="p">Cette opinion commune, je suis certain de la traduire sans la fausser quand je dis que le catholique, <em>en tant que tel</em>, croit que l’Église est au-dessus de l’Évangile, qu’elle a barre sur lui, qu’elle dispose de critères qui ne sont pas tirés de lui<a class="noteref" href="193601#note37" id="note37_">5</a>
           
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_04.jpg/full/full/0/default.jpg" id="p.11">[p. 11]</a>
- et au nom desquels elle a le droit de l’interpréter, voire de le contredire dans sa lettre. Je suis certain de ne pas forcer le moins du monde l’antithèse lorsque j’affirme que cette opinion commune est un négatif absolu des positions fondamentales de la Réforme. Voilà l’opposition réelle, du noir au blanc, que nos frères catholiques ont tant de peine à distinguer. Et comment la distingueraient-ils quand l’effort perpétuel et d’ailleurs émouvant de leur théologie est de combler tant bien que mal tous les abîmes : ceux qui séparent l’éternel du temporel, Dieu de l’homme, la grâce de la nature, et la Révélation de notre raison ? Au point qu’on en arrive à se demander pourquoi le Christ a dû <em>mourir</em> pour triompher de notre péché, alors que la sagesse antique pouvait fournir l’amorce de si belles synthèses ! « Blasphème ! me dit alors un catholique. Ces synthèses ne remplaceront jamais les mérites acquis, par les souffrances du Sauveur : elles seraient au contraire tout imparfaites si la raison des scolastiques, éclairée par la grâce, n’avait su les achever en les incorporant à la tradition de l’Église, corps du Christ ressuscité ! » Réponse qui justement donne un exemple bien typique de la méthode romaine de médiation<a class="noteref" href="193601#note38" id="note38_"><sup>6</sup></a>. Cette <em>tradition</em> n’est, à vrai dire, qu’une <em>transition</em>, un terme transitif insinué entre des réalités radicalement hétérogènes. Si l’on
+ et au nom desquels elle a le droit de l’interpréter, voire de le contredire dans sa lettre. Je suis certain de ne pas forcer le moins du monde l’antithèse lorsque j’affirme que cette opinion commune est un négatif absolu des positions fondamentales de la Réforme. Voilà l’opposition réelle, du noir au blanc, que nos frères catholiques ont tant de peine à distinguer. Et comment la distingueraient-ils quand l’effort perpétuel et d’ailleurs émouvant de leur théologie est de combler tant bien que mal tous les abîmes : ceux qui séparent l’éternel du temporel, Dieu de l’homme, la grâce de la nature, et la Révélation de notre raison ? Au point qu’on en arrive à se demander pourquoi le Christ a dû <em>mourir</em> pour triompher de notre péché, alors que la sagesse antique pouvait fournir l’amorce de si belles synthèses ! « Blasphème ! me dit alors un catholique. Ces synthèses ne remplaceront jamais les mérites acquis, par les souffrances du Sauveur : elles seraient au contraire tout imparfaites si la raison des scolastiques, éclairée par la grâce, n’avait su les achever en les incorporant à la tradition de l’Église, corps du Christ ressuscité ! » Réponse qui justement donne un exemple bien typique de la méthode romaine de médiation<a class="noteref" href="193601#note38" id="note38_">6</a>. Cette <em>tradition</em> n’est, à vrai dire, qu’une <em>transition</em>, un terme transitif insinué entre des réalités radicalement hétérogènes. Si l’on
           croit sérieusement que le sacrifice du Christ est éternellement suffisant, on ne cherche pas d’autres moyens de surmonter la séparation originelle. On craint au contraire que tout autre moyen, fût-il « déduit » de la Révélation, ne voile la réalité de l’abîme, et ne détourne les fidèles de cette seule chose nécessaire, de cette foi au seul moyen de salut qui ait été donné aux hommes. Il en va de même du purgatoire, de l’<em>analogia entis</em>, de la grâce infuse, de la révélation progressive : termes transitifs 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_05.jpg/full/full/0/default.jpg" id="p.12">[p. 12]</a>
  introduits pour voiler, pour atténuer les scandales réels, et pour relier rationnellement ce que le péché a séparé.</p>
@@ -1333,7 +1367,7 @@
                     </blockquote>
                     <p class="p autofirst">Comme je citais cette page à un abbé fort écouté, dont les travaux marient avec aisance théologie et humanisme, il me répondit simplement : « Bossuet ne saurait être tenu pour un Père de l’Église que par un académicien ! » Boutade, en 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_06.jpg/full/full/0/default.jpg" id="p.13">[p. 13]</a>
- vérité, mais très « catholique » je le crains, si la « prudence » catholique consiste, comme je le montrais plus haut, à récuser l’une après l’autre toutes les formules qui pourraient amener à poser la question d’une manière claire et nette, et à choisir. Car, enfin, si Bossuet, en écrivant cette page, a déformé la vérité, il le faut déclarer hérétique, de même que ceux qui lui donnèrent l’imprimatur. Et si Bossuet n’a pas déformé la vérité, pourquoi serait-on gêné par sa franchise ? Il ne dit rien dans ce que je cite que le Concile de Trente n’ait dit ou n’ait permis de dire<a class="noteref" href="193601#note39" id="note39_"><sup>7</sup></a>. Seulement, il le dit en français. Or, c’est précisément ce que je cherche : l’écho des formules orthodoxes dans la conscience des fidèles, et des fidèles de ce pays de France dont on ne peut nier que Bossuet soit l’un des classiques préférés<a class="noteref" href="193601#note40" id="note40_"><sup>8</sup></a>.</p>
+ vérité, mais très « catholique » je le crains, si la « prudence » catholique consiste, comme je le montrais plus haut, à récuser l’une après l’autre toutes les formules qui pourraient amener à poser la question d’une manière claire et nette, et à choisir. Car, enfin, si Bossuet, en écrivant cette page, a déformé la vérité, il le faut déclarer hérétique, de même que ceux qui lui donnèrent l’imprimatur. Et si Bossuet n’a pas déformé la vérité, pourquoi serait-on gêné par sa franchise ? Il ne dit rien dans ce que je cite que le Concile de Trente n’ait dit ou n’ait permis de dire<a class="noteref" href="193601#note39" id="note39_">7</a>. Seulement, il le dit en français. Or, c’est précisément ce que je cherche : l’écho des formules orthodoxes dans la conscience des fidèles, et des fidèles de ce pays de France dont on ne peut nier que Bossuet soit l’un des classiques préférés<a class="noteref" href="193601#note40" id="note40_">8</a>.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Une fois définie la valeur de cette objection préalable, que pourraient nous opposer les catholiques, si nous les pressions de nous rassurer sur un texte qui nous inquiète, nous sommes en droit de poursuivre l’examen des « réflexes catholiques » que ce texte trahit. Reprenons donc la page de Bossuet : « … Le Sauveur a-t-il voulu laisser aux hommes à distinguer par leur propre sens ce qui était la substance de l’institution d’avec ce qui ne l’était pas ? » La Réforme, par Luther et Calvin, répond : 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_07.jpg/full/full/0/default.jpg" id="p.14">[p. 14]</a>
@@ -1344,14 +1378,14 @@
                     <p class="p">Qu’est-ce donc que cette tradition de tous les siècles ? 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_08.jpg/full/full/0/default.jpg" id="p.15">[p. 15]</a>
  C’est, nous répond l’<em>Enchiridion symbolorum et definitionum</em> de Denzinger, « l’autre source » de la Révélation, la première source étant la Bible (<em>fons revelationis alter est traditio ecclesiastica</em>). Nous la trouvons définie tout d’abord par le Concile d’Éphèse (431) comme étant la <em>fidem definitam a sanctis Patribus qui in Nicaea cum spiritu sancto congregati fuerunt</em>. Aux formules de ce premier Concile de Nicée, s’ajoutent ensuite celles des Conciles d’Éphèse, de Chalcédoine, etc., etc. Puis, dès 514, les écrits d’Augustin. (Importante réserve indiquée en 1689 lors de la condamnation des jansénistes.) Puis les doctrines des théologiens, et surtout de Thomas d’Aquin (<em>Encycl. de Benoît XV</em>, en 1923, seulement !). Voilà qui est clair et sans mystère : <em>la tradition, ce sont des textes</em>. On peut les lire, si l’on sait le latin, réunis et classés dans n’importe quel Enchiridion.</p>
-                    <p class="p">Le catholique se tourne alors vers nous et nous exprime une sorte de pitié : « À quoi s’appuiera le protestant, avec, pour tout guide, une Bible… ou le témoignage intérieur du Saint-Esprit, qu’il sera bien incapable de différencier de sa nature à lui, de son époque et de sa formation ? »<a class="noteref" href="193601#note41" id="note41_"><sup>9</sup></a>. Autrement dit, on nous plaint d’être abandonnés à la seule inspiration de l’Esprit, à laquelle on n’accorde aucun pouvoir <em>réel</em> d’éclairer, de faire taire la nature, d’enseigner « objectivement » la vérité à l’homme « subjectif ». Et tout en mentionnant la Bible pour mémoire — « ces pâles écrits », dira le père Pinard de la Boullaye à Notre-Dame — on oublie simplement qu’elle est notre critère, ce « vis-à-vis » de l’Église dont parle Barth, et auquel doit se rapporter sans cesse toute prédication vraiment fidèle.</p>
+                    <p class="p">Le catholique se tourne alors vers nous et nous exprime une sorte de pitié : « À quoi s’appuiera le protestant, avec, pour tout guide, une Bible… ou le témoignage intérieur du Saint-Esprit, qu’il sera bien incapable de différencier de sa nature à lui, de son époque et de sa formation ? »<a class="noteref" href="193601#note41" id="note41_">9</a>. Autrement dit, on nous plaint d’être abandonnés à la seule inspiration de l’Esprit, à laquelle on n’accorde aucun pouvoir <em>réel</em> d’éclairer, de faire taire la nature, d’enseigner « objectivement » la vérité à l’homme « subjectif ». Et tout en mentionnant la Bible pour mémoire — « ces pâles écrits », dira le père Pinard de la Boullaye à Notre-Dame — on oublie simplement qu’elle est notre critère, ce « vis-à-vis » de l’Église dont parle Barth, et auquel doit se rapporter sans cesse toute prédication vraiment fidèle.</p>
                     <p class="p">Cette méconnaissance profonde de la Réforme est la rançon fatale de la croyance romaine en la tradition considérée comme « l’autre source » de la Révélation. En réalité, c’est l’Église de Rome qui nous paraît à cet égard abandonnée à un subjectivisme redoutable. C’est ce que l’on peut voir aisément par l’examen du critère infaillible de discernement que représenterait la « tradition ».</p>
                     <p class="p">
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_09.jpg/full/full/0/default.jpg" id="p.16">[p. 16]</a>
  En effet, sur quelle autorité se fonde-t-elle ? Sur les Conciles. Et ceux-ci à leur tour ? Prenons le Concile de Trente : « <em>Sacrosancta œcumenica et generalis Tridentina Synodus in Spiritu sancto legitime congregata</em>… », et, plus loin : « <em>Itaque ipsa Synodus a Spiritu sancto… edocta… declarat</em>. » Cela est clair encore : l’autorité des Conciles se fonde sur l’inspiration du Saint-Esprit.</p>
                     <p class="p">Comment ce Saint-Esprit sera-t-il contrôlé, si j’ose dire, et « différencié de la nature » des prélats, de leur époque et de leur formation ? Par la Bible ? En principe, oui. Mais le principe a beau être affirmé en droit, il est en fait négligé, et à tel point négligé qu’il n’y aura pas grand-chose à faire pour le ruiner plus tard en droit. C’est ce que fit le Concile du Vatican (1869-1870. <em>Cap. 2 : de revelatione, de interpretatione S. Scripturae</em>) en déclarant que l’Écriture ne peut être interprétée que selon l’Église, et en particulier selon les décisions du Concile de Trente. La tradition est ainsi substituée à l’Écriture comme critère des inspirations de l’Esprit saint. Mais la tradition, ce sont les Conciles. Inspirés par l’Esprit saint, ils ne sauraient être, en bonne logique, ses juges. Il faut donc admettre <em>ou bien</em> que les Conciles sont le seul critère des Conciles ; <em>ou bien</em> que l’Esprit saint est le seul critère de l’Esprit saint.</p>
                     <p class="p">Le premier terme de l’alternative revient à consacrer en droit l’<em>arbitraire</em> le plus absolu. Pratiquement : un opportunisme qui nous apparaîtra toujours excessivement « politique »…</p>
-                    <p class="p">Le second terme, vrai en soi, et que nous croyons de toute notre foi<a class="noteref" href="193601#note42" id="note42_"><sup>10</sup></a>, devient faux et ne traduit qu’un <em>subjectivisme</em> absolu dès qu’on le sépare de l’Écriture, qui nous fournit son critère objectif.</p>
+                    <p class="p">Le second terme, vrai en soi, et que nous croyons de toute notre foi<a class="noteref" href="193601#note42" id="note42_">10</a>, devient faux et ne traduit qu’un <em>subjectivisme</em> absolu dès qu’on le sépare de l’Écriture, qui nous fournit son critère objectif.</p>
                     <p class="p">Pourquoi nos frères catholiques nous reprochent-ils notre subjectivisme, à nous qui reconnaissons un critère objectif, la Bible, alors qu’ils ont tout fait de leur côté pour évincer ou, en tout cas, pour relativiser ce <em>seul</em> critère ? Comprennent-ils toute la gravité de la question ?</p>
                     <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_10.jpg/full/full/0/default.jpg" id="p.17">[p. 17]</a>
                     <div class="ab ornament">⁂</div>
@@ -1361,70 +1395,70 @@
                     <p class="p">La question peut paraître brutale, simpliste. Elle manque certainement d’« onction ». Est-ce assez pour qu’on l’écarte ? Ne se pose-t-elle jamais aux catholiques ? Pourtant, je les sens inquiets, et c’est pourquoi j’espère.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">L’inquiétude catholique procède de ce doute profond : la Révélation évangélique éclairée par l’Esprit est-elle vraiment <em>suffisante</em> ? Ne faut-il pas la compléter, la garantir, contre nos faiblesses humaines par une assurance humaine, la tradition ?</p>
-                    <p class="p">Tout l’effort dogmatique des conciles se fonde dans cette inquiétude<a class="noteref" href="193601#note43" id="note43_"><sup>11</sup></a>, qui a conduit l’Église de Rome à statuer qu’il 
+                    <p class="p">Tout l’effort dogmatique des conciles se fonde dans cette inquiétude<a class="noteref" href="193601#note43" id="note43_">11</a>, qui a conduit l’Église de Rome à statuer qu’il 
 <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-hn/ddr193601hn_11.jpg/full/full/0/default.jpg" id="p.18">[p. 18]</a>
  existe, à côté de la Bible, une autre source. Tout l’effort dogmatique des Conciles consiste à accumuler des assurances contre tous les « dangers », possibles, qui se ramènent au <em>seul</em> danger que la Parole ne parle pas, que l’Esprit soit mal entendu, c’est-à-dire que la foi défaille. Mais quelle cohérence logique, quelle continuité, quelles grandeurs visibles ou quel ascétisme, quelles pompes cultuelles ou quelles humbles œuvres pourront jamais nous garantir ce miracle : que l’Écriture parle, qu’elle parle clairement, ici et maintenant, que je la croie, que je lui obéisse et qu’elle me sauve ?</p>
-                    <p class="p">Frères catholiques, à la question que vous adressez à la Réforme, du haut d’une grandeur traditionnelle mal assurée, — trop craintivement, trop méticuleusement, trop humainement assurée — nous n’avons qu’une seule réponse, mais une réponse certaine, une réponse qui n’est pas nôtre : « L’œuvre <em>de Dieu</em>, c’est que vous croyiez en celui qu’il a envoyé. » (Jean 6:29) Si vous croyez cela sérieusement, si vous croyez à cette autre parole qui est comme un commentaire de la première : « Ma grâce te suffit »<a class="noteref" href="193601#note44" id="note44_"><sup>12</sup></a>, vous retrouvez le sens de la vraie tradition : celle qui n’est pas une « autre source », un vain renfort humain, mais la suite des témoignages rendus par l’Église historique à son Chef, qui lui fut révélé dans l’Écriture, et non ailleurs.</p>
+                    <p class="p">Frères catholiques, à la question que vous adressez à la Réforme, du haut d’une grandeur traditionnelle mal assurée, — trop craintivement, trop méticuleusement, trop humainement assurée — nous n’avons qu’une seule réponse, mais une réponse certaine, une réponse qui n’est pas nôtre : « L’œuvre <em>de Dieu</em>, c’est que vous croyiez en celui qu’il a envoyé. » (Jean 6:29) Si vous croyez cela sérieusement, si vous croyez à cette autre parole qui est comme un commentaire de la première : « Ma grâce te suffit »<a class="noteref" href="193601#note44" id="note44_">12</a>, vous retrouvez le sens de la vraie tradition : celle qui n’est pas une « autre source », un vain renfort humain, mais la suite des témoignages rendus par l’Église historique à son Chef, qui lui fut révélé dans l’Écriture, et non ailleurs.</p>
                     <p class="p">Il reste à dire ceci : Et nous, croyons-nous assez « sérieusement » cela ? Croyons-nous assez sérieusement que les catholiques un jour peuvent le croire ? Sommes-nous <em>déjà</em> prêts pour cette unité ?</p>
                     <section class="footnotes">
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.8">p. 8</a>
                         </div>
-                        <aside id="note32" class="note bottomnote"><a class="noteback" href="193601#note32_">a. </a>« Sur une page de Bossuet (ou Tradition et Révélation) », <em>Hic et Nunc</em>, Paris, n° 11, janvier 1936, p. 8-18.</aside>
-                        <aside id="note33" class="note bottomnote"><a class="noteback" href="193601#note33_">1. </a>Je ne veux envisager que la controverse sérieuse. Je laisse de côté les banales invectives contre Luther qui traînent dans les hebdomadaires, et dont la recrudescence actuelle ne fait honneur ni à l’information, ni à la bonne foi de nos écrivains, s’appelassent-ils Paul Claudel. Ce très grand poète est l’auteur des plus monumentales âneries qui aient jamais été proférées sur la réforme luthérienne. Nous ne croyons pas, dans son cas, à la mauvaise foi, mais à une ignorance totale de ce qu’il croit devoir attaquer périodiquement. Le diable sait pourquoi.</aside>
-                        <aside id="note34" class="note bottomnote"><a class="noteback" href="193601#note34_">2. </a><em>Vie intellectuelle</em>, numéro du 10 février 1935, p. 360.</aside>
+                        <aside id="note32" role="note" class="note bottomnote"><a class="noteback" href="193601#note32_">a. </a>« Sur une page de Bossuet (ou Tradition et Révélation) », <em>Hic et Nunc</em>, Paris, n° 11, janvier 1936, p. 8-18.</aside>
+                        <aside id="note33" role="note" class="note bottomnote"><a class="noteback" href="193601#note33_">1. </a>Je ne veux envisager que la controverse sérieuse. Je laisse de côté les banales invectives contre Luther qui traînent dans les hebdomadaires, et dont la recrudescence actuelle ne fait honneur ni à l’information, ni à la bonne foi de nos écrivains, s’appelassent-ils Paul Claudel. Ce très grand poète est l’auteur des plus monumentales âneries qui aient jamais été proférées sur la réforme luthérienne. Nous ne croyons pas, dans son cas, à la mauvaise foi, mais à une ignorance totale de ce qu’il croit devoir attaquer périodiquement. Le diable sait pourquoi.</aside>
+                        <aside id="note34" role="note" class="note bottomnote"><a class="noteback" href="193601#note34_">2. </a><em>Vie intellectuelle</em>, numéro du 10 février 1935, p. 360.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.9">p. 9</a>
                         </div>
-                        <aside id="note35" class="note bottomnote"><a class="noteback" href="193601#note35_">3. </a><em>Vie intell.</em>, numéro cit., p. 363.</aside>
-                        <aside id="note36" class="note bottomnote"><a class="noteback" href="193601#note36_">4. </a>Sur des points de dogme aussi importants que la prédestination (pour Augustin) où l’immaculée conception de la Vierge (pour Thomas d’Aquin), par exemple.</aside>
+                        <aside id="note35" role="note" class="note bottomnote"><a class="noteback" href="193601#note35_">3. </a><em>Vie intell.</em>, numéro cit., p. 363.</aside>
+                        <aside id="note36" role="note" class="note bottomnote"><a class="noteback" href="193601#note36_">4. </a>Sur des points de dogme aussi importants que la prédestination (pour Augustin) où l’immaculée conception de la Vierge (pour Thomas d’Aquin), par exemple.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.10">p. 10</a>
                         </div>
-                        <aside id="note37" class="note bottomnote"><a class="noteback" href="193601#note37_">5. </a>Le plus étonnant, aux yeux d’un protestant, c’est peut-être le critère de cohérence dont un prêtre me disait récemment qu’il atteste la « vérité » des dogmes ! Hegel, et Spinoza, et Marx ne sont-ils pas plus « cohérents » que toute dogmatique ? Comme cela ressemble au rationalisme ou au psychologisme ou à l’historisme libéral, qui ont trouvé, eux aussi, des critères tout à fait intéressants pour interpréter les Évangiles…</aside>
+                        <aside id="note37" role="note" class="note bottomnote"><a class="noteback" href="193601#note37_">5. </a>Le plus étonnant, aux yeux d’un protestant, c’est peut-être le critère de cohérence dont un prêtre me disait récemment qu’il atteste la « vérité » des dogmes ! Hegel, et Spinoza, et Marx ne sont-ils pas plus « cohérents » que toute dogmatique ? Comme cela ressemble au rationalisme ou au psychologisme ou à l’historisme libéral, qui ont trouvé, eux aussi, des critères tout à fait intéressants pour interpréter les Évangiles…</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.11">p. 11</a>
                         </div>
-                        <aside id="note38" class="note bottomnote"><a class="noteback" href="193601#note38_">6. </a>Méthode dont je crains bien qu’elle ne repose toujours, en fin de compte, sur la méconnaissance de l’un des termes qu’on entend concilier. On ne peut pas incorporer impunément Aristote à une tradition qui se fonde dans la Révélation ; pas plus qu’on ne peut faire une synthèse de l’eau et du feu sans éteindre le feu. Celui qui affirmerait y être parvenu ne prouverait-il pas simplement qu’il ignore la nature du feu ?</aside>
+                        <aside id="note38" role="note" class="note bottomnote"><a class="noteback" href="193601#note38_">6. </a>Méthode dont je crains bien qu’elle ne repose toujours, en fin de compte, sur la méconnaissance de l’un des termes qu’on entend concilier. On ne peut pas incorporer impunément Aristote à une tradition qui se fonde dans la Révélation ; pas plus qu’on ne peut faire une synthèse de l’eau et du feu sans éteindre le feu. Celui qui affirmerait y être parvenu ne prouverait-il pas simplement qu’il ignore la nature du feu ?</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.13">p. 13</a>
                         </div>
-                        <aside id="note39" class="note bottomnote"><a class="noteback" href="193601#note39_">7. </a><em>Concilia Trid. Conclusio, Sessio XXI (16 juli 1562) Cap. 1 et 2, et Canones 1 et 2</em>. La <em>seule</em> raison alléguée par ce Concile pour interdire la communion sous les deux espèces est celle-ci : Jésus a dit : « Celui qui mange ma chair et qui boit mon sang a la vie éternelle », mais il a dit néanmoins (<em>dixit nihilominus</em>) : « Celui qui mange ce pain vivra éternellement » (Jean 6:55 et 6:59). On n’ose pas demander aux catholiques ce qu’ils pensent réellement de cette… raison, car le Concile a pris soin de déclarer par avance anathème celui qui dirait que l’Église n’a pas été amenée par des raisons justes (<em>iustis causis et rationibus</em>) à cette décision dogmatique (Canon 2).</aside>
-                        <aside id="note40" class="note bottomnote"><a class="noteback" href="193601#note40_">8. </a>« Ce grand Docteur »,
+                        <aside id="note39" role="note" class="note bottomnote"><a class="noteback" href="193601#note39_">7. </a><em>Concilia Trid. Conclusio, Sessio XXI (16 juli 1562) Cap. 1 et 2, et Canones 1 et 2</em>. La <em>seule</em> raison alléguée par ce Concile pour interdire la communion sous les deux espèces est celle-ci : Jésus a dit : « Celui qui mange ma chair et qui boit mon sang a la vie éternelle », mais il a dit néanmoins (<em>dixit nihilominus</em>) : « Celui qui mange ce pain vivra éternellement » (Jean 6:55 et 6:59). On n’ose pas demander aux catholiques ce qu’ils pensent réellement de cette… raison, car le Concile a pris soin de déclarer par avance anathème celui qui dirait que l’Église n’a pas été amenée par des raisons justes (<em>iustis causis et rationibus</em>) à cette décision dogmatique (Canon 2).</aside>
+                        <aside id="note40" role="note" class="note bottomnote"><a class="noteback" href="193601#note40_">8. </a>« Ce grand Docteur »,
             — « ce père de la spiritualité française » : je relève, au hasard, ces deux qualifications de Bossuet dans des articles récents de chroniqueurs catholiques, qui ne sont nullement de l’Académie !</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.15">p. 15</a>
                         </div>
-                        <aside id="note41" class="note bottomnote"><a class="noteback" href="193601#note41_">9. </a><em>Vie Intellectuelle</em>, numéro cit., p. 413.</aside>
+                        <aside id="note41" role="note" class="note bottomnote"><a class="noteback" href="193601#note41_">9. </a><em>Vie Intellectuelle</em>, numéro cit., p. 413.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.16">p. 16</a>
                         </div>
-                        <aside id="note42" class="note bottomnote"><a class="noteback" href="193601#note42_">10. </a>« Car l’Esprit pénètre tout, même les profondeurs de Dieu... De même — personne ne connaît ce qui est en Dieu, si ce n’est l’Esprit de Dieu. » I Cor. 2:10.</aside>
+                        <aside id="note42" role="note" class="note bottomnote"><a class="noteback" href="193601#note42_">10. </a>« Car l’Esprit pénètre tout, même les profondeurs de Dieu... De même — personne ne connaît ce qui est en Dieu, si ce n’est l’Esprit de Dieu. » I Cor. 2:10.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.17">p. 17</a>
                         </div>
-                        <aside id="note43" class="note bottomnote"><a class="noteback" href="193601#note43_">11. </a>On le voit bien à ce trait : le « développement du dogme » n’est en fait qu’une stratification de refus, de défenses contre les hérésies. Cela produit des effets étranges. Ainsi je trouve dans Denzinger ce dogme : « brûler les hérétiques n’est pas contraire au Saint-Esprit ». C’est simplement la condamnation de la thèse inverse de Luther ! De même l’article suivant : « Faire la guerre aux Turcs n’est pas contraire au Saint-Esprit. »</aside>
+                        <aside id="note43" role="note" class="note bottomnote"><a class="noteback" href="193601#note43_">11. </a>On le voit bien à ce trait : le « développement du dogme » n’est en fait qu’une stratification de refus, de défenses contre les hérésies. Cela produit des effets étranges. Ainsi je trouve dans Denzinger ce dogme : « brûler les hérétiques n’est pas contraire au Saint-Esprit ». C’est simplement la condamnation de la thèse inverse de Luther ! De même l’article suivant : « Faire la guerre aux Turcs n’est pas contraire au Saint-Esprit. »</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="193601#p.18">p. 18</a>
                         </div>
-                        <aside id="note44" class="note bottomnote"><a class="noteback" href="193601#note44_">12. </a>L’acte de la grâce, l’acte libre et parfait de la libre grâce que Dieu nous fait ; et non point cette <em>infusio</em>, ce <em>principium divinum</em> que Rome appelle grâce. Voir l’article de R. de Pury.</aside>
+                        <aside id="note44" role="note" class="note bottomnote"><a class="noteback" href="193601#note44_">12. </a>L’acte de la grâce, l’acte libre et parfait de la libre grâce que Dieu nous fait ; et non point cette <em>infusio</em>, ce <em>principium divinum</em> que Rome appelle grâce. Voir l’article de R. de Pury.</aside>
                       </div>
                     </section>
                   </article>
@@ -1440,41 +1474,41 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
-                    <li>
+                  <ol>
+                    <li class="collateral">
                       <a href="193211_p1"> Hic et nunc [éditorial] (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193211_p23"> Principe d’une politique du pessimisme actif (novembre 1932)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193303"> Solutions pratiques ? (mars 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p95"> Dialectique des fins dernières (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193307_p116"> Poésie dialectique (juillet 1933)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193401"> Grammaire de la personne (janvier 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193404"> Précisions sur la mort du Grand Pan (avril 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193407"> Éditorial (juillet 1934)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p152"> Les trois temps de la Parole (mai 1935)</a>
                     </li>
-                    <li>
+                    <li class="collateral">
                       <a href="193505_p159"> Soirée chez Nicodème (mai 1935)</a>
                     </li>
                     <li class="here">
                       <a href="#"> Sur une page de Bossuet (ou Tradition et Révélation) (janvier 1936)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

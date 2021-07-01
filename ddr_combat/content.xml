@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concrete5-cif xmlns="http://www.w3.org/1999/xhtml" version="1.0">
+  <pages>
+    <page path="/articles/combat/19460519" name="Ni secret ni défense (19-20 mai 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Ni secret ni défense (19-20 mai 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460519combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460519">Ni secret ni défense (19-20 mai 1946)<a class="noteref" href="19460519#note1" id="note1_">a</a></a>
+                    </h1>
+                    <p class="p autofirst"> Les hommes d’État, les généraux et quelques vulgarisateurs en mal d’idées ont trouvé deux moyens d’esquiver la question posée par la bombe atomique. Ils essayent d’enchaîner le monstre avec des agrafes de dossiers : « C’est un secret que nous gardons, c’est un dépôt sacré », disent-ils. Et sans l’avis d’aucun savant autorisé, ils parlent de défenses possibles, si toutefois on leur laisse le commandement.</p>
+                    <p class="p">Je leur oppose le meilleur analyste américain des choses militaire dans cette guerre, et le corps unanime des savants.</p>
+                    <p class="p">M. Hanson W. Baldwin l’a fort bien expliqué dans le <em>New York Times</em> : le seul et vrai secret de la bombe atomique réside dans la puissance industrielle de l’Amérique. C’est assez dire qu’il n’est que temporaire. Quant au secret technique de la détonation, dans quelques mois les Russes l’auront, ou les Anglais, ou les Danois peut-être.</p>
+                    <p class="p">Et je ne connais pas un seul physicien qui n’ait nié expressément, et en toute occasion publique, devant les journalistes ou le Sénat, l’existence actuelle ou possible de la moindre défense effective contre un raid atomique par surprise.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Voici cependant l’état de l’opinion américaine, avertie par sa presse de tous ces faits. M. George Gallup vient d’établir que 71 % des citoyens de son pays « refusent de livrer le contrôle de la bombe aux Nations unies », cependant que la même enquête révèle que 65 % sont persuadés que « le secret ne peut être gardé ». D’où je déduis que la proportion des Américains raisonnables (j’entends capables de rapprocher deux idées et d’en tirer une conclusion logique) est au plus de 35 %. Est-ce peu ou beaucoup pour un peuple ? Je n’en jugerais qu’après un essai en Europe.</p>
+                    <p class="p">Il est clair que l’opinion publique est égarée par sa foi dans la science, que les savants sérieux ne partagent point. On parle de radars omniscients et de rayons qui feraient sauter la bombe tôt après son départ, chez l’adversaire. Mais quand bien même on inventerait ces procédés, leur mise en œuvre supposerait un état de mobilisation permanente qui, sous prétexte d’éviter la guerre, tuerait la paix. Une partie de la population serait employée à surveiller le ciel, l’autre partie à fabriquer les instruments et à payer les impôts nécessaires. Par crainte de mourir, plus personne ne vivrait.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">La situation présente, en vérité, est bien plus<em> folle</em> qu’on ne l’imagine. Car non seulement nous sommes sans défense, mais encore le secret de la bombe sera demain celui de Polichinelle, et enfin si quelqu’un nous attaque, <em>nous ne saurons pas qui a tiré</em>.</p>
+                    <p class="p">Supposez qu’un petit pays, disons la Suisse, manufacture une douzaine de bombes. Ce n’est pas une question d’argent comme on le croit (les grosses dépenses ont été faites par l’Amérique pendant les recherches), mais d’ingéniosité et d’équipement technique, et vous savez que la Suisse possède tout cela. En fait, c’est à l’École polytechnique de Zurich que sont nés les travaux d’Einstein.</p>
+                    <p class="p">Supposez maintenant que ce petit pays, pour se tirer d’un mauvais pas, envoie deux ou trois bombes sur New York. (Je prends l’exemple le plus invraisemblable, pour qu’on n’aille pas y voir je ne sais quelle allusion à des circonstances trop réelles.) L’Amérique ne doute pas un instant que les projectiles ne viennent de Russie. Il est trop tard pour échanger des notes et des coups de chapeau haut-de-forme. Voilà Moscou et Kiev en ruines dans les trois heures. Les Russes ripostent sur Détroit et Saint-Louis, et détruisent Londres par simple mesure de précaution. Et ainsi de suite : dans le langage technique, cela s’appelle <em>chain reaction</em>. En vingt-quatre heures, l’Occident a vécu.</p>
+                    <p class="p">Un éclair tombant du ciel bleu, — l’expression est devenue si vraie qu’elle a cessé de nous frapper. Une apathie étrange me semble s’établir dans les masses comme chez ceux qui les mènent.</p>
+                    <p class="p">Les Trois Grands sont presque d’accord pour renouveler leurs petites discussions. M. Truman ajuste ses lunettes et veille sur son « dépôt sacré ». Le monde n’a pas de gouvernement. Je ne suis pas sûr que les nations en aient. Et nous restons, les bras ballants…</p>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460519#p.1">p. 1</a>
+                        </div>
+                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="19460519#note1_">a. </a>« Ni secret ni défense », <em>Combat</em>, Paris, n° 606, 19-20 mai 1946, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="here">
+                      <a href="#">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460521" name="Paralysie des hommes d’État (21 mai 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Paralysie des hommes d’État (21 mai 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460521combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460521">Paralysie des hommes d’État (21 mai 1946)<a class="noteref" href="19460521#note2" id="note2_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Notre monde du milieu du <span class="num">xx<sup class="sup">e</sup></span> siècle est gouverné par ceux qu’on nomme les Trois Grands. Ils se composent d’un loup déguisé en mouton et de deux moutons vêtus de leur vraie peau. C’est donc au nom du Petit Père, et du Brave Garçon, et de l’Esprit bourgeois que la Bombe doit être administrée. Notez que, si elle ne l’est pas, quelqu’un va nous l’administrer. L’alternative est entre ces deux sens du verbe. Et soudain, je me demande pourquoi ces trois messieurs paraissent impuissants à décréter les moyens d’une paix pourtant facile à concevoir : donner la Bombe au gouvernement mondial, supprimer les armées et ouvrir les frontières.</p>
+                    <p class="p">Qui ne partage cette impression, avec les masses contemporaines : que les chefs responsables de notre sort sont en réalité irresponsables ? Et qu’ils usurpent le nom de gouvernants ?</p>
+                    <p class="p">J’essaie de me mettre à leur place. Staline voudrait la paix, car sa Russie blessée doit d’abord être reconstruite, mais il ne renonce pas aux plans de Pierre le Grand. Attlee voudrait la paix, car l’Empire blessé est en pleine expérience socialiste, mais il ne renonce pas à faire tuer les indigènes qui se révoltent à Java contre un impérialisme démodé. Truman voudrait la paix, car le commerce et l’industrie américains y trouveraient leur espace vital, mais il ne renonce pas aux barrières douanières, à la défense du capital d’abord, et à la peur (elle-même créatrice de conflits) d’un conflit avec la Russie. Sans doute sont-ils tous les trois convaincus qu’ils aiment la paix en général, et pour elle-même, et qu’ils détestent la guerre : pourtant, ils s’y préparent. <em>Ce qui domine en fait leur politique, c’est la vision de la guerre, non pas celle de la paix</em>.</p>
+                    <p class="p">Ils agissent donc comme des irresponsables, provoquant ce qu’ils veulent éviter. Et le public a l’air de trouver cela normal, — ou ne trouve rien.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">J’essaie encore de les comprendre, avant de les traiter de ce qu’ils ont l’air d’être, quand on voit ce qu’ils vont faire ou laisser faire de nos vies.</p>
+                    <p class="p">Irresponsables moins par incapacité — ils suffiraient aux tâches courantes — que par le fait du problème posé, qui les dépasse comme la Bombe dépasse tout. Devant le monde à unifier, ils paraissent frappés d’un vertige. Ils ne voient rien. Cette absence de pensée est plus dangereuse que n’importe quelle pensée fausse. Mais comment pourraient-ils penser ? Simplement, pratiquement, <em>ils n’ont pas le temps</em>. Pourquoi ? J’en vois une raison simple. Parce qu’ils gouvernent leur nation, et que c’est assez ou même trop pour un homme, tandis que le problème est mondial.</p>
+                    <p class="p">La Bombe est un cas international, qui ne peut être résolu qu’à une échelle planétaire : or, ces messieurs sont absorbés par la défense d’intérêts locaux dits nationaux, trente visites par jour, des inaugurations, des banquets et des nominations. Il est clair que, pour gouverner les nations, la première condition requise est de n’être pas le chef d’une grande nation. Mais qui l’a dit, jusqu’à ce jour ? Chacun sait que l’arbitre d’un match n’est jamais le capitaine d’une des équipes. Qui l’a rappelé au sujet des Trois Grands ? Chacun sait que, pour arbitrer la lutte entre les continents, il faut d’autres talents et un autre savoir que pour équilibrer les démocrates du Sud et ceux du Nord en présence des républicains, tout en gardant un œil sur la gauche naissante, le Sénat, le Congrès, les fonctionnaires et la presse. Mais qui l’a dit au sujet de Truman ? L’Amérique est trop grande pour lui, et le voici chargé du monde en plus ! Ainsi d’Attlee et de Staline, bien que ce dernier me paraisse plus habile dans le grand art de prendre son temps.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Je les plains. Cependant, s’ils s’obstinent, je serai forcé de les traiter d’usurpateurs. L’incompétence des commandants en chef n’est-elle pas jugée criminelle par l’opinion publique de leur patrie, et parfois par les tribunaux ?</p>
+                    <p class="p">Je demande à mes amis américains :</p>
+                    <p class="p">— Imaginez-vous ce pays conduit non par un cabinet fédéral, mais par les gouverneurs des quarante-huit États de l’Union ?</p>
+                    <p class="p">— Ce serait absurde, me disent-ils.</p>
+                    <p class="p">— Eh quoi, c’est pourtant ce que nous offre, à quelques nuances près, le plan des Nations unies. Vos États n’ont fait un pays qu’en unissant leurs peuples, et non leurs chefs, qui se sont effacés devant un pouvoir nouveau, sorti du peuple…</p>
+                    <p class="p">Mais si l’on touche à l’idée de nation, voilà tous les visages qui se ferment, et les esprits en état de siège. Sommes-nous fous ? Allons-nous continuer ce jeu jusqu’à l’explosion de la Terre ? Allons-nous confier le destin de la planète à trois hommes surchargés, débordés, qui n’ont pas une minute pour réfléchir, et qui représentent les intérêts de leur nation, alors que c’est précisément aux dépens de ces intérêts que l’humanité pourra s’unir ? La fonction même de ces chefs d’État les disqualifie, en principe, pour l’entreprise dont ils se chargent, et les porte à la saboter. Leur métier même les rend inaptes à voir ce que le monde entier attend. Ils ne voient rien, c’est évident, car les visions de l’avenir naissent d’un loisir intense. Or, ils ont à recevoir des députés…</p>
+                    <p class="p">Seule, une cour internationale, formée d’hommes désignés <em>par la voie populaire</em>, et qui n’auraient pas d’autre affaire que de considérer la Planète, puis de traiter de haut avec les chefs d’État…</p>
+                    <p class="p">Peut-être l’expérience de Bikini va-t-elle donner le choc nécessaire pour alerter enfin une opinion <em>mondiale</em> ? Avant ce début de juillet, puissent les Trois Grands ne pas perdre la boule ! Car le fait est qu’il n’y en a qu’une de boule, comme disait à peu près le regretté Willkie, et qu’une erreur unique, désormais, pourrait la rendre folle à tout jamais.</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460521#p.1">p. 1</a>
+                        </div>
+                        <aside id="note2" role="note" class="note bottomnote"><a class="noteback" href="19460521#note2_">a. </a>« Paralysie des hommes d’État », <em>Combat</em>, Paris, n° 607, 21 mai 1946, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460522" name="Tous démocrates (22 mai 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Tous démocrates (22 mai 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460522combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460522">Tous démocrates (22 mai 1946)<a class="noteref" href="19460522#note3" id="note3_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Je fus hier soir visiter un ami qui aime à se dire « un anarchiste catholique ». (Je le crois seul de son parti.) Il avait l’air un peu nerveux. Voici notre conversation :</p>
+                    <p class="p"><em>Moi. —</em> Contre qui écrivez-vous aujourd’hui ?</p>
+                    <p class="p"><em>Lui</em>. — Je fais le plan d’une trilogie sur les trois grands régimes politiques de ce siècle. Je vais les caractériser par leurs armes ou leurs méthodes favorites. Le livre s’intitulera donc <em>Crémation, liquidation, évaporation</em> ! (Il prononça ces mots d’un ton rageur, qui me fit éclater de rire.)</p>
+                    <p class="p"><em>Moi. —</em> Quel beau programme ! Avouez que nous sortons enfin des petitesses de l’ère bourgeoise, succédant aux ténèbres du Moyen Âge. Car ces trois armes bien modernes correspondent à trois conceptions grandioses de la vie. La crémation, c’est la purification par le feu ! La liquidation, c’est la vie même, toujours fluente et circulante, le sang, les sèves ! Quant à l’évaporation atomique, eh bien, n’est-ce pas le symbole même de l’idéalisme : tout monte et s’épanouit vers le ciel ! Notez que, dans ce système, la démocratie paraît supérieure au soviétisme et à l’hitlérisme.</p>
+                    <p class="p"><em>Lui. —</em> Je vous entends ! J’entends le diable ! D’ailleurs, on n’entend guère que lui dans ce siècle trois fois maudit. Je ne vois plus d’espoir sérieux nulle part. La faillite morale est universelle, chez les individus comme sur le plan international.</p>
+                    <p class="p"><em>Moi. —</em> Pas d’accord ! Je distingue un espoir. Des trois régimes dont vous parlez, l’un est écrasé. Les deux qui restent, et qui se partagent le monde, se déclarent formellement démocrates. Donc, nous voilà tous démocrates, dans le monde entier, exception faite de deux pays de langue espagnole, que nous appellerons secondaires. Et voici mon espoir, dans cette situation : c’est qu’au lieu de défendre la Démocratie, en bloc, et comme une <em>étiquette</em>, contre ses adversaires déclarés, nous allions enfin pouvoir, entre nous, discuter le contenu véritable de la démocratie, sans passer aussitôt pour des fascistes.</p>
+                    <p class="p"><em>Lui. —</em> Autant dire que votre mot démocratie a perdu tout son pouvoir ! Une étiquette qui s’applique à tous les partis et à toutes les nations du globe ne signifie plus rien. Ou bien c’est un mensonge et une hypocrisie. Je vais vous en donner un exemple. Les Soviets, qui se disent démocrates, dénonçaient naguère encore la Suisse, qui est la plus vieille démocratie du monde, et la traitaient de « fasciste », parce qu’elle répugne, entre autres, à la nationalisation des banques. Peut-être a-t-elle tort, mais on n’a pas manqué de répondre que cette mesure est précisément celle qui fut prise en premier lieu par les États fascistes, aussi bien que par les Soviets et par les socialistes anglais.</p>
+                    <p class="p"><em>Moi. —</em> Voilà le problème embrouillé à souhait, et je vous vois sourire diaboliquement, à votre tour. Mais nous sommes peut-être d’accord, en réalité. Puisque tous sont devenus « démocrates », dans le monde de 1946, nous pouvons parler d’autre chose. Nous pouvons porter notre effort, désormais, non plus sur la défense d’un mot, d’un terme vague que personne n’attaque, mais sur la définition d’une réalité que ce terme symbolise et parfois dissimule : qu’est-ce que la <em>liberté</em> ? Et cela nous amènera bientôt à nous demander : qu’est-ce que <em>l’homme</em> ? C’est le vrai débat. Si nous le reconnaissons, nous aurons fait un grand progrès, le seul peut-être que la guerre pouvait permettre…</p>
+                    <p class="p"><em>Lui. —</em> Mais avouez qu’aussi longtemps que vos hommes d’État démocratiques n’auront pas abordé ouvertement et sincèrement ces deux questions fondamentales, l’étiquette « démocratie » ne signifiera rien du tout. Ou bien elle servira d’excuse et de prétexte cousu de fil blanc ou de fil rouge aux politiques les plus contradictoires, et parfois les plus tyranniques.</p>
+                    <p class="p"><em>Moi. —</em> Je l’avoue. La liberté est certainement le problème numéro un de notre temps : car les problèmes se posent quand les choses s’en vont…</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460522#p.1">p. 1</a>
+                        </div>
+                        <aside id="note3" role="note" class="note bottomnote"><a class="noteback" href="19460522#note3_">a. </a>« Tous démocrates », <em>Combat</em>, Paris, n° 608, 22 mai 1946, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460523" name="Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Les cochons en uniforme ou le nouveau Déluge (23 mai 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460523combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)<a class="noteref" href="19460523#note4" id="note4_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Pendant l’hiver 1945-1946, le gouvernement américain fit annoncer une expérience sensationnelle : au mois de mai ou de juillet, une ou deux bombes seraient jetées sur une flotte de cent bâtiments de guerre réunie dans la baie de Bikini, Pacifique. Parmi tous les détails publiés par la presse sur les préparatifs de l’expérience, j’en retiens deux.</p>
+                    <p class="p">1° Une mission de savants américains formée de quatorze biologistes, botanistes et océanographes, et de deux commerçants en poissons (mieux payés que les savants, dit-on) vient de partir pour l’île de Bikini. L’objet de la mission est d’établir un relevé complet de tous les êtres vivants sur l’île. C’est une mission fort analogue que Noé reçut du Seigneur peu de temps avant le Déluge. Cette fois-ci, les travaux seront filmés.</p>
+                    <p class="p">2° Au jour J, les cent bâtiments de la flotte de guerre réunis dans la baie de Bikini pour subir l’épreuve atomique auront leurs équipages complets. Mais ces équipages seront entièrement composés d’animaux. Deux cents chèvres, deux cents cochons et quatre mille rats seront à leur poste de combat, sur les tourelles, dans les chambres de machines et sur les ponts. Et ceci encore nous ramène, irrésistiblement, à la légende de l’arche de Noé.</p>
+                    <p class="p">Une précision supplémentaire, à propos des cochons : l’on a remarqué que la peau des cochons est fort semblable à celle de l’homme. La sensibilité de l’une peut renseigner sur celle de l’autre. Aussi bien nos marins ou capitaines cochons seront-ils revêtus, pour l’occasion, d’uniformes réguliers de la marine, imprégnés d’une substance capable d’absorber les rayons gamma. Ceux-ci, comme vous le savez, sont réputés mortels. On verra bien comment ces cochons-là se comportent sous le feu, et savent mourir.</p>
+                    <br class="space line1"/>
+                    <p class="p autofirst">Quel que soit le résultat de l’opération, sur lequel nos savants se perdent en conjectures, j’en tire une conclusion définitive, quoique préalable. Pour la première, fois dans l’Histoire, l’uniforme sera porté par des cochons, au sens le plus scientifique de ce terme. Quand je vous disais que la guerre est morte, la guerre des militaires, la vraie ! Quand je vous disais que ses règles sacrées sont toutes violées sans exception par l’usage de la bombe atomique…</p>
+                    <p class="p">J’avoue que je n’avais pas pensé à l’uniforme et au respect que nous lui devions naguère. Les savants, eux, ne l’ont pas raté. Ce n’est pas ma faute, c’est fait. Et c’en est fait, — même si l’on renonce à l’expérience. Avec la flotte sacrifiée à Bikini, c’est le prestige de l’Uniforme, symboliquement, qui va sombrer.</p>
+                    <p class="p">Il vaut la peine de remarquer, enfin, que pas une voix ne s’est élevée, du côté des fervents de l’Armée, pour protester contre une profanation si littéralement éclatante. Au contraire, toute la résistance est venue, si je puis dire, du côté opposé. C’est la Ligue protectrice des animaux d’un des États de l’est de l’Amérique qui a pris l’initiative d’un mouvement d’opinion contre les essais projetés.</p>
+                    <p class="p">Cette Ligue demande qu’au lieu de sacrifier tant d’innocentes victimes, et dans une posture si ridicule, on place sur les navires les membres du Congrès et du Sénat qui se seront déclarés en faveur de l’expérience de Bikini.</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460523#p.1">p. 1</a>
+                        </div>
+                        <aside id="note4" role="note" class="note bottomnote"><a class="noteback" href="19460523#note4_">a. </a>« Les cochons en uniforme ou le nouveau Déluge », <em>Combat</em>, Paris, n° 609, 23 mai 1946, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460524" name="Post-scriptum (24 mai 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Post-scriptum (24 mai 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460524combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460524">Post-scriptum (24 mai 1946)<a class="noteref" href="19460524#note5" id="note5_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Un dernier mot. (Et dire que j’allais l’oublier !) <em>La Bombe n’est pas dangereuse du tout.</em></p>
+                    <p class="p">— Êtes-vous fou ? De quoi donc parliez-vous dans vos articles précédents ? Faut-il penser que vous vous moquiez du monde ?</p>
+                    <p class="p">— J’étais sérieux. Je prenais au sérieux les événements qui nous menacent à bout portant. La fin des armées, par exemple. Mais cela ne serait rien encore, quoi qu’en pensent quelques généraux. Je parlais de la fin du monde…</p>
+                    <p class="p">— Et maintenant vous nous dites : aucun danger ! C’est là sans doute votre manière paradoxale d’avouer que vous exagériez. Savez-vous que beaucoup l’ont pensé, sans vous le dire ? Il est bien naturel que l’événement d’Hiroshima nous ait jetés pour quelque temps dans un état d’esprit d’Apocalypse. Mais dix mois ont passé, et rien ne se passe. Dieu soit loué, nous avons repris nos sens. Certains pressentent déjà que la bombe est en train de se dégonfler, pour ainsi dire. Après tout, nous devions le prévoir, car nous avons vécu un précédent : la guerre des gaz. Tout le monde s’y préparait, vous rappelez-vous ? Dans toutes les capitales d’Europe, on voyait en 1939 les civils se promener avec leur boîte à masque en bandoulière. Eh bien, la guerre des gaz n’a pas eu lieu, parce que tout le monde en avait une peur bleue, et que personne, même pas Hitler, n’a eu le courage de commencer. À plus forte raison pour la Bombe…</p>
+                    <p class="p">— Je ne trouve pas la raison bien forte, en vérité. Hitler n’a pas eu recours aux gaz, c’est entendu. Mais pensez-vous qu’une timidité subite l’ait arrêté, ou quelque amour tardif de notre humanité ? Simplement, il a fait son calcul. Les Alliés pouvaient riposter, et la valeur militaire de cette arme était loin de compenser, même à ses yeux, le risque moral qu’il eût couru à l’employer. Le cas de la Bombe est différent. Je vous répète qu’elle supprimera la possibilité de riposter, c’est-à-dire jouera militairement le rôle d’une bataille <em>décisive</em>. Elle supprimera donc les scrupules de l’agresseur éventuel. Car nos scrupules naissent, en général, d’une rapide évaluation des conséquences fâcheuses, pour nous-mêmes, de nos actes. Si l’emploi de la Bombe est décisif, il n’y a pas de punition à redouter. Il est donc clair qu’on l’emploiera, au risque de faire sauter la Terre.</p>
+                    <p class="p">— Alors, pourquoi dites-vous : la Bombe n’est pas dangereuse ?</p>
+                    <p class="p">— Pour une raison très simple. La Bombe est un objet. Les objets ne sont jamais dangereux.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Ce qui est dangereux, horriblement, c’est l’homme. C’est lui qui a fait la Bombe, et c’est lui seul qui se prépare à l’employer. Quand je vois qu’on nomme des comités pour la retenir ! Comme si elle était tombée du ciel, animée de mauvaises intentions ! C’est d’un comique démesuré.</p>
+                    <p class="p">Le contrôle de la Bombe, que l’on discute à longueur de colonne, dans toute la presse, est la plus belle absurdité de l’Histoire. Comprenez-vous bien de quoi l’on parle ? Contrôler cet objet inerte ? C’est comme si tout d’un coup l’on se jetait sur une chaise pour l’empêcher d’aller casser les vases de Chine. Si on laisse la Bombe tranquille, elle ne fera rien, c’est clair. Elle se tiendra bien coite dans sa caisse. Qu’on ne nous raconte donc pas d’histoires. Ce qu’il nous faut, c’est un contrôle de l’homme.</p>
+                    <p class="p">— Ah ! ça, c’est une autre question.</p>
+                    <p class="p">— C’est la question de l’Autre. C’est la seule. On ne peut plus l’éviter depuis que la Bombe nous menace et nous tente à la foi. Et voilà bien le progrès le plus sensationnel du siècle.</p>
+                    <p class="p">— Un progrès ?</p>
+                    <p class="p">— Oui, j’appelle ainsi tout ce qui nous rapproche des vraies questions, et nous oblige à y faire face.</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460524#p.1">p. 1</a>
+                        </div>
+                        <aside id="note5" role="note" class="note bottomnote"><a class="noteback" href="19460524#note5_">a. </a>« Post-scriptum », <em>Combat</em>, Paris, n° 610, 24 mai 1946, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460702" name="Bikini bluff (2 juillet 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Bikini bluff (2 juillet 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460702combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460702">Bikini bluff (2 juillet 1946)<a class="noteref" href="19460702#note6" id="note6_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">À l’heure qu’il est, on ne sait rien des cochons. Peut-être les prières dites en l’église de Carliste, en Angleterre, « pour les animaux sacrifiés » et « pour alléger leurs souffrances » n’ont-elles point été sans effet. Ce qu’on sait, de source officielle, c’est que l’amiral Blandy se déclare satisfait. « L’expérience, déclare-t-il, a répondu à toutes nos espérances. Nous comptons en tirer des renseignements d’une valeur inestimable. »</p>
+                    <p class="p">On ne saurait mieux dire, étant un amiral.</p>
+                    <p class="p">Oui, l’expérience a répondu à l’espérance des amiraux du monde entier, qui est, en somme, de rester des amiraux. Et sa valeur ne saurait être exagérée, encore qu’elle soit aisément « estimable » : elle peut se chiffrer assez exactement, si l’on connaît le budget prévu pour le Département de la Marine américaine.</p>
+                    <p class="p">Depuis des mois, de nombreux organes de la grande presse américaine mettaient en garde leurs lecteurs contre les expériences de Bikini. Tout cela n’était, nous disaient-ils, qu’un complot pseudoscientifique pour démontrer la valeur éternelle des cuirassés et porte-avions. Le grand danger, le vrai danger de l’expérience, c’était qu’elle ratât, conformément aux prévisions des amiraux, et qu’elle rassurât faussement les peuples quant aux risques institués par la bombe. Il se peut que cette campagne ait été orchestrée par les services de l’Armée de Terre, pendant le débat qui opposait cette dernière à la Marine, sur la question du commandement unique.</p>
+                    <p class="p">Il est certain que les savants sérieux se sont tous rangés du côté des adversaires de l’expérience. Trois jours avant le lancement de la bombe, on annonçait la démission du fameux Dr Oppenheimer, qui fut le chef et la cheville ouvrière des expériences du Nouveau-Mexique et de l’ensemble du « Projet Manhattan ». Le Dr Oppenheimer n’a rien voulu savoir de cette futile grillade de cochons vifs, organisée par les services publicitaires de la Marine.</p>
+                    <p class="p">Qu’on se rappelle, à ce sujet, les déclarations faites à la presse par les trois plus grands chefs des forces armées américaines, au cours de l’hiver dernier. « La bombe ne fait que décupler l’importance de l’armée de terre », disait devant le Sénat le général Marshall. « Je vous abandonne volontiers l’infanterie, déclarait en substance l’amiral King, mais la marine saura prouver sa résistance et sa nécessité ». Voilà qui est fait.</p>
+                    <p class="p">Sur quoi le général Arnold, après des phrases de condoléances sur les fantassins et les marins, suggérait que l’aviation seule restait indispensable, puisque c’est elle qui transporterait la bombe, ou abattrait les bombardiers ennemis.</p>
+                    <p class="p">La Marine vient de gagner la première manche, dans ce grand 
+<a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460702combat_02.jpg/full/full/0/default.jpg" id="p.3">[p. 3]</a>
+ match à trois équipes. Mais sans doute ne l’a-t-elle gagnée qu’aux yeux de l’opinion publique. Les vrais arbitres restent les savants.</p>
+                    <p class="p">Or, les savants persistent à nous prédire des catastrophes continentales, pour le jour de la grande expérience d’une explosion atomique sous-marine. Ils jugent la bombe du type Nagasaki — celle qui fut lancée dimanche soir — démodée et mille fois surpassée par les récents modèles, qu’ils sont seuls à connaître. Et c’est leur point de vue qui m’importe.</p>
+                    <p class="p">Les problèmes que nous pose la bombe restent intacts, autant que les palmiers de Bikini. Et si les amiraux sont rassurés, conformément à tous les plans qu’ils ont tirés, l’humanité en général n’a pas lieu de se réjouir trop bruyamment de la survie des deux cents cochons en uniformes. Les habitants d’Hiroshima n’ont pas tenu le coup tout à fait aussi bien, comme le révèlent les rapports officiels publiés la semaine dernière. Les habitants de Londres, de New York, de Leningrad et de Paris ne seront point protégés aussi méthodiquement que le budget de la Marine américaine. Et le faux soulagement produit par le grand « four » de Bikini ne peut qu’augmenter le danger.</p>
+                    <p class="p">La seule défense contre la bombe reste le Gouvernement mondial, seul armé de la bombe pour assurer la police parmi les États. Et le seul moyen d’accélérer l’instauration d’un tel gouvernement — qui pourrait être l’ONU si elle existait autrement que sous forme d’initiales — c’est d’augmenter parmi les peuples le sentiment de leur interdépendance. Quand nous aurons compris que toute guerre, aujourd’hui, n’est possible qu’avec toutes nos complicités et ne saurait être qu’une guerre civile que le genre humain se fait « à lui-même », les premières bases psychologiques d’une paix réelle seront posées.</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460702#p.1">p. 1</a>
+                        </div>
+                        <aside id="note6" role="note" class="note bottomnote"><a class="noteback" href="19460702#note6_">a. </a>« Bikini bluff », <em>Combat</em>, Paris, n° 645, 2 juillet 1946, p. 1 et 3. Texte corrigé en deux endroits, selon <a href="https://gallica.bnf.fr/ark:/12148/bpt6k47491474/f1.item">l’erratum publié dans la livraison du lendemain</a>, p. 1.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19460705" name="Les intellectuels sont-ils responsables ? (5 juillet 1946)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Les intellectuels sont-ils responsables ? (5 juillet 1946) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19460705combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)<a class="noteref" href="19460705#note7" id="note7_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Chose étrange, le 6 février 1934 fut une date de l’histoire littéraire : elle inaugura le temps des moutons enragés.</p>
+                    <p class="p">Fatigués de leur innocence, voyant que l’herbe se faisait rare sous leurs pieds et qu’ils n’avaient plus de berger, aux éclairs de chaleur d’une révolution encore lointaine, ils se sont jetés dans le premier parc venu, à gauche ou à droite, et depuis lors y bêlent d’une voix aigre et anxieuse, tout en signant une quantité de manifestes.</p>
+                    <p class="p">Ils ont signé pour le Négus et contre lui ; pour le Chef bien-aimé, Père des Peuples, et pour ses innocentes victimes, vipères lubriques ; pour Franco et contre Franco ; contre Dollfuss et pour Schuschnigg ; pour Thaelmann, contre le Japon, à propos du CSAR, à M. Bénès ; des deux mains, des quatre pattes, les yeux fermés, d’une croix, d’une faucille et d’un marteau, ou avec plus ou moins de réticences ; d’un nom connu, d’un nom à faire connaître… Bref, il n’est pas un acte commis dans le monde, depuis quatre ans, qui n’ait été vertement dénoncé pas des « intellectuels » français.</p>
+                    <p class="p">Mais si le monde ne s’en porte pas mieux, l’intelligence n’y gagne guère.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Tant que les écrivains mettaient leur soin à vivre en marge de tous les conflits et refusaient d’être considérés comme des citoyens responsables, ils étaient au moins en accord avec l’esprit général de l’époque : intelligence d’un côté, action de l’autre, et surtout ne mélangeons rien. Tributaires d’une culture dont l’ambition suprême était de se « distinguer » des contingences, ils étaient au moins purs dans leur erreur. Les modalités de leur retrait ne contredisaient nullement les postulats fondamentaux de leur métaphysique inconsciente. Et leur style traduisait fidèlement les nuances d’une pensée détachée, irresponsable par définition. Il n’y a pas que du mal à en dire : cela nous a valu quelques œuvres durables, mineures sans doute, mais délicates et ingénieuses.</p>
+                    <p class="p">Cependant, les temps ont changé. La crise nous a fait voir soudain que les positions intellectuelles héritées du libéralisme conduisaient à ce <em>régime de faillite</em> qu’on nomme l’État totalitaire. Nous avons constaté que rien, ni la pensée, ni l’acte individuel, n’est en réalité gratuit. Que tout se paye. Que notre liberté de penser n’importe quoi, sans tenir compte de l’époque, était une illusion entretenue par l’apparente paix sociale, mais que l’échéance ne pouvait être indéfiniment repoussée et que les dettes contractées par l’esprit ne laissaient même plus une possibilité de concordat. Déjà les dictatures réglaient les comptes. « Lorsque j’entends parler d’<em>esprit</em>, je désarme mon revolver », disait un officier nazi. Les staliniens faisaient de même en présence du libéralisme et de la culture « désintéressée ».</p>
+                    <p class="p">C’est alors qu’on lança parmi nous le mot d’ordre : <em>« Défense de la Culture ».</em></p>
+                    <p class="p">Toute la confusion vient de là.</p>
+                    <p class="p">Car la culture qu’on nous propose de défendre, c’est elle, précisément, qui est responsable de la brutalité totalitaire.</p>
+                    <p class="p">On nous propose donc de défendre une maladie contre la mort, à quoi elle mène nécessairement.</p>
+                    <p class="p">Au lieu de nous refaire une santé. Au lieu de nous proposer une cure de désintoxication énergique. Au lieu de rechercher les moyens de penser dans le réel et l’actuel, et de surmonter enfin ce vice qu’est la distinction libérale entre la pensée et l’action.</p>
+                    <p class="p">Au lieu de préciser, par exemple, le sens de ce mot d’<em>engagement</em> dont tout le monde abuse aujourd’hui.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Pour qu’une pensée s’engage dans le réel, il ne faut pas ni ne saurait suffire qu’elle se <em>soumette</em> à des réalités dont elle ignore ou répudie 
+<a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-on/ddr193806on_03.jp2/full/full/0/default.jpg" id="p.21">[p. 21]</a>
+ la loi interne : la tactique d’un parti par exemple. Ce n’est pas dans l’utilisation accidentelle et partisane d’une pensée que réside son engagement. C’est, au contraire, dans sa démarche intime, dans son élan premier, dans sa prise sur le réel et dans sa volonté de le transformer, donc finalement de le dominer.</p>
+                    <p class="p">S’engager, ce n’est pas se mettre en location. Ce n’est pas « prêter » son nom ou son autorité. Ce n’est pas faire payer sa prose par <em>Ce Soir</em> plutôt que par l’<em>Intransigeant.</em> Ce n’est pas signer ici plutôt que là. Ce n’est pas passer de l’esclavage d’une mode à celui d’une tactique politique. Ce n’est pas du tout devenir esclave d’une doctrine, mais au contraire, c’est se libérer et assumer les risques de sa liberté.</p>
+                    <p class="p">Il peut sembler paradoxal de soutenir que l’engagement d’une pensée suppose sa libération. En vérité, c’est le libéralisme qui a répandu l’idée que l’engagement ne peut être qu’un esclavage. La liberté réelle n’a pas de pires ennemis que les libéraux ; sinon en intention, du moins en fait. Les penseurs les plus violemment libres du <span class="num">xixᵉ</span> siècle, un Nietzsche, un Kierkegaard, un Baudelaire<a class="noteref" href="19460705#note8" id="note8_">1</a>, ont été les plus violemment engagés dans la réalité. Et cela suffirait bien à définir le sens que nous donnons à ce mot d’engagement.</p>
+                    <div class="ab ornament">⁂</div>
+                    <p class="p autofirst">Je l’ai dit ailleurs : un gant qui se retourne ne devient pas pour si peu une main vivante et agissante. Un libéral qui se soumet aux directives d’un parti ne devient pas pour si peu un penseur engagé. Et il ne faudrait pas que ces trahisons insignes ridiculisent toute espèce d’engagement.</p>
+                    <p class="p">Une pensée qui, par sa nature et son mouvement originel, est libérale, irresponsable, ne devient pas libératrice et responsable du seul fait qu’elle se met « au service » d’une doctrine de lutte politique. Faire la révolution, cela demande un effort un peu plus grand, et d’une autre nature, que l’effort de signer un manifeste ou de s’inscrire dans les rangs d’une ligue. On rougit de rappeler de tels truismes. Mais on y est bien forcé par le spectacle de l’intelligentsia française.</p>
+                    <p class="p">Précisons donc encore : la première tâche des intellectuels qui ont compris le péril totalitaire (de droite ou de gauche) ce n’est pas « d’adhérer » à quelque antifascisme, mais de s’attaquer à la forme de pensée d’où vont nécessairement sortir le fascisme et le stalinisme. Et c’est la pensée libérale.</p>
+                    <p class="p">Voyez donc comme nos libéraux se mettent d’eux-mêmes en rangs et marquent le pas dès qu’une menace se précise contre les libertés françaises ! Le réflexe du libéral devant le péril, c’est de faire un fascisme. Fût-ce même pour se défendre du fascisme. Et peut-être surtout dans ce cas ! La panique de « l’union sacrée » qui vient de souffler sur notre élite en est l’ahurissant exemple.</p>
+                    <p class="p">Du moins a-t-elle eu cela de bon : les écrivains qui ont décidé tout récemment de renoncer à l’usage de leur pensée devant la menace hitlérienne (voir le manifeste de <em>Ce Soir</em>) ont exprimé en toute clarté qu’ils étaient de vrais libéraux, irresponsables nés<a class="noteref" href="19460705#note9" id="note9_">2</a>, égarés pour un temps dans les voies de « l’engagement » politique, et faisant amende honorable. Ils étaient en rupture de bercail. Maintenant, tout est rentré dans l’ordre, les moutons se sont apaisés, et la situation s’éclaircit.</p>
+                    <p class="p">Voici venir le temps des <em>vrais</em> dangers, c’est-à-dire des vraies <em>luttes</em> et des vrais engagements.</p>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460705#p.1">p. 1</a>
+                        </div>
+                        <aside id="note7" role="note" class="note bottomnote"><a class="noteback" href="19460705#note7_">a. </a>« Les intellectuels sont-ils responsables ? », <cite class="title">Combat</cite>, Paris, n° 648, 5 juillet 1946, p. 1. Précédé du chapeau suivant : « La notion de l’“engagement” politique connaît depuis quelques mois une extrême faveur dans les milieux intellectuels et littéraires. De fait, si cette volonté d’engagement s’expriment souvent par des attitudes assez confuses, il est vrai néanmoins que les impératifs partisans pèsent de plus en plus lourdement sur l’activité intellectuelle. Aussi avons-nous pensé qu’il serait intéressant de demander à un certain nombre d’écrivains leur opinion sur un problème qui met en cause, non seulement leur responsabilité et leur rôle dans le société, mais aussi leur manière de s’exprimer. Denis de Rougemont, qui fut un des premiers à soutenir l’engagement intellectuel, notamment dans son essai <a href="https://www.unige.ch/rougemont/livres/ddr1936pm"><em>Penser avec les mains</em></a> (publié en 1936), nous envoie l’article suivant, dont il est intéressant de souligner qu’il fut écrit et publié dans une revue en 1938, sous le titre : « <a href="https://www.unige.ch/rougemont/articles/on/193806">Trop d’irresponsables s’engagent</a> ». </aside>
+                      </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19460705#p.21">p. 21</a>
+                        </div>
+                        <aside id="note8" role="note" class="note bottomnote"><a class="noteback" href="19460705#note8_">1. </a>Baudelaire voulait que la critique des poètes — qu’il opposait à celle des philosophes libéraux — fût <em>partiale</em>, pleine de <em>parti-pris</em>, et même <em>politique</em> !</aside>
+                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="19460705#note9_">2. </a>Je fais exception pour deux ou trois d’entre eux, tels que Bernanos et Schlumberger, dont la bonne foi a été surprise, — comme on dit. Peu importent d’ailleurs les personnes : c’est la tendance qui est significative.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19471226" name="« La tâche française c’est d’inventer la paix » (26 décembre 1947)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>« La tâche française c’est d’inventer la paix » (26 décembre 1947) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19471226combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)<a class="noteref" href="19471226#note10" id="note10_">a</a></a>
+                    </h1>
+                    <p class="label question">Denis de Rougemont me reçoit dans l’agréable maison qu’il occupe à la sortie du village de Ferney, désormais et pour toujours, prénommé Voltaire. Il me semble que mon hôte n’est pas fâché d’habiter sous cette ombre. Il y a quelque chose de voltairien chez lui : cette aisance dans l’épigramme, ce ton persifleur et cette parfaite élégance du style. Mais là se borne la ressemblance. Ce jeune disciple du théologien protestant Karl Barth, venu conquérir Paris voici une quinzaine d’années et que des ouvrages brillants et profonds comme <a href="https://www.unige.ch/rougemont/livres/ddr1936pm">Penser avec les mains</a> et <a href="https://www.unige.ch/rougemont/livres/ddr1939ao">L’Amour et l’Occident</a> mirent bien vite au premier rang, est le contraire d’un amuseur. Pendant la guerre, il a mené le bon combat à l’émission « La voix de l’Amérique », tandis que ses livres et en particulier son <a href="https://www.unige.ch/rougemont/livres/ddr1938ja">Journal d’Allemagne</a>, étaient mis au pilon par les nazis. Mais, bientôt après, éclatait la bombe d’Hiroshima et de Rougemont écrivait aussitôt ses étincelantes <a href="https://www.unige.ch/rougemont/livres/ddr1946lba1">Lettres sur la bombe atomique</a> où il prenait position devant les problèmes mis à l’ordre du jour par la nouvelle arme.</p>
+                    <p class="label question">« La bombe n’est pas dangereuse, disait-il en substance, mais les hommes qui l’utilisent. Ce sont eux qu’il faut contrôler ». Je pense à cela tandis que notre entretien prend, comme de lui-même, le tour que je désirais lui imprimer. »</p>
+                    <p class="p autofirst">C’est l’homme qui fait son destin, me dit avec force de Rougemont. C’est lui et lui seul qui déchaîne les forces qui aboutissent à la bombe ou à la paix. Il n’y a de fatalité que lorsque l’homme démissionne. Et c’est ce qui est grave en ce moment : on a l’impression que personne n’est décidé à arrêter la folle machine ou, plutôt, à la remettre sur la bonne voie. Nous autres, Suisses romands, nous avons les yeux tournés vers la France et nous constatons avec stupeur que la France ne fait rien et se perd dans une sorte d’amer byzantinisme.</p>
+                    <p class="label question">Dans ces conditions, êtes-vous tenté de regarder ailleurs ?</p>
+                    <section id="body-8-1" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-8-1">La France « en attente »</a>
+                      </h2>
+                      <p class="p autofirst">Ne vous y trompez pas. Le monde entier, comme nous-mêmes, attend encore de la France une initiative de salut. Sans doute, cette initiative ne saurait être politique : la France n’est plus à la taille de ces géants qui s’affrontent. Elle est pauvre aussi et le monde actuel est sans pitié pour les pauvres. La France a besoin des États-Unis pour sa subsistance et elle est entravée dans ses démarches par la Russie, c’est-à-dire par son parti communiste.</p>
+                      <p class="p">Elle donne ainsi l’impression d’être sous une double dépendance. Ce n’est donc pas de ses dirigeants que nous attendons quoi que ce soit.</p>
+                      <p class="p">Mais l’initiative intellectuelle ? Si on peut dire qu’actuellement elle ne l’a pas davantage que l’initiative politique, il faut ajouter aussitôt que personne ne l’a reprise à sa place. Cette initiative-là, on la perd dès qu’on cesse de la prendre. Ce rôle est donc vacant, et seule la France pourra le tenir comme elle l’a tenu dans le passé. Mais la France est « en attente ». En attente de quoi ? Du conflit qui « devient » fatal si on ne fait que l’attendre.</p>
+                      <p class="label question">C’est bien l’impression désespérante que nous avons. L’intelligence française est comme paralysée, neutralisée par une double négation. Elle se refuse également à chacun des « blocs » mais elle ne sait pas à quoi elle se donnera.</p>
+                      <p class="p autofirst">Il faut, précisément, reprend Denis de Rougemont, que cette double négation devienne une affirmation, sous peine de voir le monde entier sombrer avec vous dans le désespoir. Comment ? Je vais d’abord vous confier une chose : je ne crois pas aux « blocs ». C’est une invention des propagandes. Ils n’existent que dans la mesure où on veut bien leur accorder du crédit. Voilà bien le cercle vicieux et l’on n’en sortira qu’en sautant à pieds joints par-dessus la ligne du mensonge.</p>
+                    </section>
+                    <section id="body-8-2" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-8-2">Inventer la paix</a>
+                      </h2>
+                      <p class="label question">Mais ne pensez-vous pas alors que la vocation de la France est clairement circonscrite par la situation dans laquelle elle se trouve, et que ses refus mêmes, s’ils n’étaient pas exploités sur le plan passionnel, définiraient une affirmation ?</p>
+                      <p class="p autofirst">J’en suis convaincu. La tâche française — encore une fois, de l’« intelligence » française — c’est dans ces circonstances historiques que nous venons de dire, « d’inventer » la paix. Si elle ne le fait pas, personne ne le fera à sa place. Mais si elle l’inventait pour elle seule — ce qui est d’ailleurs impensable —, ce serait comme si elle n’avait rien fait. Il n’y a pas d’autarcie de la paix. « Penser français » comme le voulait Barrès, c’est non seulement une faute de méthode mais aussi une faute de français. Il faut donc que l’affirmation française, si elle éclate, comme je le souhaite, trouve immédiatement son champ d’action. Je n’en vois qu’un mais il est immense et à sa portée : l’Europe. C’est seulement par l’Europe que nous pourrons agir sur les USA ou l’URSS. Il est temps que nous en prenions conscience : nous ne sommes pas des petits garçons, nous sommes aussi forts et aussi riches de possibilités qu’aucun des « colosses » du 
+<a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19471226combat_02.jpg/full/full/0/default.jpg" id="p.2">[p. 2]</a>
+ monde. Mais il faut que nous existions et que nous sachions que nous existons.</p>
+                    </section>
+                    <section id="body-8-3" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-8-3">« Pessimisme actif »</a>
+                      </h2>
+                      <p class="label question">Cette Europe unie, sous l’impulsion d’une nation, n’est-ce pas le rêve de Napoléon ou de Hitler ?</p>
+                      <p class="p autofirst">Bien entendu. Aussi n’est-il pas question « d’unifier » l’Europe mais de « l’unir ». Seul, le fédéralisme est capable de réaliser cette unité dans la diversité et c’est pourquoi je suis résolument fédéraliste. Il est évident que le rôle de la France ne sera pas celui d’un conquérant. Le voudrait-elle qu’elle n’en a pas les moyens. Ce n’est pas une « francisation » de l’Europe qu’il s’agit de réaliser, mais que la France devienne et soit la conscience d’une Europe à naître. Voyez ce qui se passe en Suisse : nous autres romands, nous y sommes dans la proportion d’un tiers contre deux tiers, et pourtant notre minorité y est particulièrement active. C’est que nous sommes un pays fédéraliste. Le fédéralisme n’est pas un système de la quantité, mais de la qualité.</p>
+                      <p class="label question">Et croyez-vous cette Europe possible ?</p>
+                      <p class="p autofirst">Parfaitement. Les Américains ne demandent pas mieux : pour des raisons d’intérêt, sans doute, mais dont nous devons profiter. Quant aux Russes, je suis convaincu qu’ils n’ont qu’à y gagner. Mais s’ils persistent dans leur attitude ombrageuse, eh bien ! nous nous passerons de leur consentement. C’est bien dommage, mais nous n’allons quand même pas attendre le visa de qui que ce soit pour nous décider à agir. Je crois que l’Europe se fera, envers et contre tout et tous. Vous voyez que ma réponse est optimiste. Dites bien cependant que je reste fidèle à ma formule du « pessimisme actif ». Je ne me fais aucune illusion. Il n’y aura jamais d’âge d’or. Je demande simplement un monde où les vrais problèmes soient discutés et, si possible, résolus, où les tensions fécondes puissent s’exercer enfin librement. Un monde où l’on puisse « vivre ».</p>
+                    </section>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19471226#p.1">p. 1</a>
+                        </div>
+                        <aside id="note10" role="note" class="note bottomnote"><a class="noteback" href="19471226#note10_">a. </a>« La tâche française c’est d’inventer la paix », <em>Combat</em>, Paris, n° 1079, 26 décembre 1947, p. 1-2. Propos recueillis par Bernard Voyenne.</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                      <ol>
+                        <li class="collateral">
+                          <a href="19471226#body-8-1">La France « en attente »</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="19471226#body-8-2">Inventer la paix</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="19471226#body-8-3">« Pessimisme actif »</a>
+                        </li>
+                      </ol>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19480514" name="Message aux Européens (14 mai 1948)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Message aux Européens (14 mai 1948) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19480514combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19480514">Message aux Européens (14 mai 1948)<a class="noteref" href="19480514#note11" id="note11_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">L’Europe est menacée, l’Europe est divisée, et la plus grave menace vient de ses divisions.</p>
+                    <p class="p">Appauvrie, encombrée de barrières qui empêchent ses biens de circuler, mais qui ne sauraient plus la protéger, notre Europe désunie marche à sa fin. Aucun de nos pays ne peut prétendre, seul, à une défense sérieuse de son indépendance. Aucun de nos pays ne peut résoudre, seul, les problèmes que lui pose l’économie moderne. À défaut d’une union librement consentie, notre anarchie présente nous exposera demain à l’unification forcée, soit par l’intervention d’un empire du dehors, soit par l’usurpation d’un parti du dedans.</p>
+                    <p class="p">L’heure est venue d’entreprendre une action qui soit à la mesure du danger.</p>
+                    <p class="p">Tous ensemble, demain, nous pouvons édifier avec les peuples d’outre-mer associés à nos destinées, la plus grande formation politique et le plus vaste ensemble économique de notre temps. Jamais l’histoire du monde n’aura connu un si puissant rassemblement d’hommes libres. Jamais la guerre, la peur, et la misère n’auront été mises en échec par un plus formidable adversaire.</p>
+                    <p class="p">Entre ce grand péril et cette grande espérance la vocation de l’Europe se définit clairement.</p>
+                    <p class="p">Elle est d’unir ses peuples selon leur vrai génie, qui est celui de la diversité, et dans les conditions du vingtième siècle, qui sont celles de la communauté, afin d’ouvrir au monde la voie qu’il cherche, la voie des libertés organisées. Elle est de ranimer ses pouvoirs d’invention pour la défense et pour l’illustration des droits et des devoirs de la personne humaine, dont, malgré toutes ses infidélités, l’Europe demeure aux yeux du monde le grand témoin.</p>
+                    <p class="p">La conquête suprême de l’Europe s’appelle la dignité de l’homme, et sa vraie force est dans la liberté. Tel est l’enjeu final de notre lutte. C’est pour sauver nos libertés acquises, mais aussi pour en élargir le bénéfice à tous les hommes, que nous voulons l’union de notre continent.</p>
+                    <p class="p">Sur cette union l’Europe joue son destin et celui de la paix du monde.</p>
+                    <p class="p">Soit donc notoire à tous que nous, Européens, rassemblés pour donner une voix à tous les peuples de ce continent, déclarons solennellement notre commune volonté dans les cinq articles suivants, qui résument les résolutions adoptées par notre Congrès :</p>
+                    <p class="p">1° Nous voulons une Europe unie, rendue dans toute son étendue à la libre circulation des hommes, des idées et des biens.</p>
+                    <p class="p">2° Nous voulons une Charte des droits de l’homme, garantissant les libertés de pensée, de réunion et d’expression, ainsi que le libre exercice d’une opposition politique.</p>
+                    <p class="p">3° Nous voulons une Cour de justice capable d’appliquer les sanctions nécessaires pour que soit respectée la Charte.</p>
+                    <p class="p">4°) Nous voulons une Assemblée européenne, où soient représentées les forces vives de toutes nos nations.</p>
+                    <p class="p">5° Et nous prenons de bonne foi l’engagement d’appuyer de tous nos efforts, dans nos foyers et en public, dans nos partis, dans nos églises, dans nos milieux professionnels et syndicaux, les hommes et les gouvernements qui travaillent à cette œuvre de salut public, suprême chance de la paix et gage d’un grand avenir, pour cette génération et celles qui la suivront.</p>
+                    <section class="footnotes">
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19480514#p.1">p. 1</a>
+                        </div>
+                        <aside id="note11" role="note" class="note bottomnote"><a class="noteback" href="19480514#note11_">a. </a>« Message aux Européens », <em>Combat</em>, Paris, n° 199, 14 mai 1948, p. 1. Précédé du chapeau suivant : « Ce texte a été lu par son auteur, parlant au nom de tous les congressistes, à la séance de clôture du congrès de La Haye. Il donne la note la plus juste sur l’atmosphère de ses débats et résume clairement ses volontés. Nous pensons qu’il ne laissera pas nos lecteurs indifférents. »</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19501003" name="Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19501003combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)<a class="noteref" href="19501003#note12" id="note12_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Messieurs les députés européens,</p>
+                    <p class="p">Vous êtes ici pour faire l’Europe, et nous pour faire semblant de la faire. Faire l’Europe signifie la fédérer, ou bien ne signifie pas grand-chose. Comment fédérer des nations qui se croient encore souveraines ? Voyons l’Histoire. Les Suisses ont réussi : voyons la Suisse.</p>
+                    <p class="p">Tout le monde croit l’avoir vue et s’en va répétant qu’il a fallu plus de cinq cents ans pour sceller son union fédérale. Tout le monde se trompe. Il a fallu neuf mois. En voici le récit exact.</p>
+                    <section id="body-10-1" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-10-1">Neuf mois pour fédérer vingt-cinq États souverains</a>
+                      </h2>
+                      <p class="p autofirst">Au début de 1848, la Confédération n’était qu’un pacte d’alliance entre vingt-cinq États absolument souverains. Point de citoyenneté suisse, point de liberté d’établissement ou d’échange commercial entre cantons, point de représentation des peuples. Un seul organe commun, la Diète, sorte de Comité des ministres, composé de plénipotentiaires agissant au nom des États et prenant leurs rares décisions à la majorité des trois-quarts. Pratiquement : le « veto » paralysant un corps consultatif aux compétences douteuses et jalousement restreintes, les barrières douanières multipliées à l’intérieur, nulles à l’extérieur, l’impuissance devant l’étranger et même devant la guerre entre les États membres.</p>
+                      <p class="p">Niera-t-on que ce fût là, trait pour trait, un état comparable à celui de notre Europe, sauf pour le péril extérieur, qui n’était rien au regard de celui que nous courons ?</p>
+                      <p class="p">Une partie de l’opinion réclamait une autorité fédérale, dotée de pouvoirs limités mais réels. Rien d’autre, en vérité, ne pouvait assurer l’indépendance du pays. Mais la Diète, les États et leurs experts voyaient dans le mot « souveraineté » la réponse décisive à cette « chimère ». Le bon sens dénonçait l’invivable chaos entretenu par les barrières douanières. La routine rétorquait, chiffres en main, que la liberté d’échanges ne manquerait pas de causer quelques dommages locaux. C’était répondre aux utopistes qui proposaient d’éteindre l’incendie, que l’eau peut abîmer les meubles.</p>
+                      <p class="p">Il y eut une guerre civile entre cantons, qui fit voir l’impuissance du pacte. Il y eut un long branle-bas de sociétés, de mouvements, de projets, de discours et de vœux. À la faveur de cette agitation, un petit groupe de jeunes chefs enthousiastes fit adopter par la Diète le principe d’une révision profonde du pacte.</p>
+                      <p class="p">En 1847, notons-le, rien ne semblait « praticable » aux yeux des réalistes. (Nous en sommes là en 1950.) La décision survint l’année suivante.</p>
+                      <p class="p">Le 17 février 1848, la Commission de révision — nommée par la Diète dans son sein et au-dehors — se réunit pour la première fois. Elle décide de siéger à huis clos cinq fois par semaine. Le 8 avril, elle termine ses travaux, dont elle soumet les résultats aux vingt-cinq États souverains. Le 15 mai, la Diète est saisie du projet, qu’elle adopte le 27 juin. Pendant le mois d’août le peuple vote dans les cantons. Le 12 septembre, la Diète proclame que la Constitution est acceptée par près de deux tiers des États et plus de deux tiers des citoyens votants. Le 16 novembre, le premier Conseil fédéral, organe exécutif, entre en fonction. Le drapeau suisse est arboré à côté des drapeaux des cantons.</p>
+                      <p class="p">Aucun des troubles graves, aucune des ruines prévues et dûment calculées ne se produisirent. L’essor que prit la Suisse, dès cet instant, n’a pas fléchi durant un siècle.</p>
+                      <p class="p">Messieurs les députés, neuf mois avaient suffi pour fédérer 25 États souverains. Pensez-vous que l’Histoire vous en laisse un peu plus, pour unir vos États dans un plus grand péril ?</p>
+                    </section>
+                    <section id="body-10-2" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-10-2">Vous me direz…</a>
+                      </h2>
+                      <p class="p autofirst">Vous me direz que l’Europe est plus grande que la Suisse ; qu’il fallut une bonne guerre pour briser le tabou des souverainetés cantonales absolues ; que les Cantons suisses vivaient ensemble depuis des siècles ; que les problèmes économiques sont plus complexes ; et qu’on ne peut comparer, sans offense, nos modestes sagesses et les folies sublimes des grandes nations contemporaines.</p>
+                      <p class="p">Mais il n’est pas exact que l’Europe d’aujourd’hui soit plus grande que la Suisse d’alors : vous êtes venus de Stockholm à Strasbourg — ou de Rome, ou même d’Ankara — en moins de temps qu’il n’en fallait, il y a cent ans, pour aller de Genève ou des Grisons à Berne. Pour la guerre entre vos pays, les deux dont vous sortez suffisent. Vos nations vivent ensemble depuis autant de siècles, et souvent davantage, que nos Cantons. Leurs sorts ne sont pas moins liés, si vous regardez l’Europe dans l’ensemble du monde. Vos cordons de douanes ne sont pas plus nombreux, ni moins strangulatoires, que ne l’étaient les nôtres. Et vos économies ne sont pas plus disparates que celles de Zurich, par exemple, et de ses petits voisins paysans. Les sombres prévisions des réalistes quant aux effets d’une union « trop rapide » remplissaient nos journaux, il y a cent trois ans : il n’en est pas une seule qui se soit vérifiée, mais pas une seule non plus qui ne reparaisse dans la bouche même de ceux qui affirment que nos réalités sont tellement différentes… Certes, comparaison n’est pas raison, mais quand les raisons de ne rien faire restent les mêmes quoi qu’il arrive, c’est qu’elles traduisent une certaine forme d’esprit, une cécité partielle devant les leçons de l’Histoire, que j’ai plus d’une raison de nommer le daltonisme politique.</p>
+                      <p class="p">Messieurs les députés, n’oubliez pas la Suisse : elle existe en dépit de tous les arguments qu’on oppose aujourd’hui à l’Europe. Son exemple vivant tend à nous démontrer que la solution fédéraliste n’est pas seulement praticable en principe, mais pratique. C’est assez pour que j’ose vous supplier d’y réfléchir quelques minutes. La Suisse s’est unie en neuf mois. Il vaut la peine de s’arrêter devant ce fait, pour mieux se persuader qu’on peut aller très vite. Car le temps fait beaucoup à l’affaire. Celui que vous n’auriez pas, Staline le prend : c’est le temps de méditer avant d’agir. Mais celui que vous risquez de perdre, cet été, soyez bien sûrs qu’il le retrouvera : c’est le temps de modifier non pas des paragraphes, mais l’ordre de bataille de l’Armée rouge.</p>
+                    </section>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19501003#p.1">p. 1</a>
+                        </div>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="19501003#note12_">a. </a>« Messieurs, n’oubliez pas l’exemple de la Suisse », <em>Combat</em>, Paris, n° 1943, 3 octobre 1950, p. 6. Présenté par la notice suivante : « Nous publions deux importants extraits de <a href="https://www.unige.ch/rougemont/livres/ddr1950lde">cinq lettres</a> que notre ami Denis de Rougemont écrivit à l’intention des députés réunis à Strasbourg. La session d’été de l’Assemblée européenne est terminée. Mais ces lettres d’avertissement demeurent. Et il y a un redoutable abîme entre les propositions de Denis de Rougemont et les résultats des travaux de Strasbourg. On trouvera ici, demain, le second extrait de ces lettres. »</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                      <ol>
+                        <li class="collateral">
+                          <a href="19501003#body-10-1">Neuf mois pour fédérer vingt-cinq États souverains</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="19501003#body-10-2">Vous me direz…</a>
+                        </li>
+                      </ol>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+    <page path="/articles/combat/19501004" name="Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)" package="ddr_combat" template="liseuse" pagetype="liseuse">
+      <attributes>
+        <attributekey handle="doctype">
+          <value>Article</value>
+        </attributekey>
+        <attributekey handle="meta_title">
+          <value>Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950) – Combat</value>
+        </attributekey>
+      </attributes>
+      <area name="Main">
+        <blocks>
+          <block type="content">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <article>
+                    <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-combat/ddr19501004combat_01.jpg/full/full/0/default.jpg" id="p.1">[p. 1]</a>
+                    <h1 class="head article">
+                      <a href="#19501004">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)<a class="noteref" href="19501004#note13" id="note13_">a</a></a>
+                    </h1>
+                    <p class="p autofirst">Ceux qui disent que « l’Europe sera socialiste ou ne sera pas » savent très bien qu’à ce prix elle ne sera pas. Voilà l’ennemi, et non point Vychinski. Et cela vaut pour tous ceux qui pourraient déclarer que l’Europe sera toute catholique, ou protestante, ou française, ou allemande, ou de gauche, ou de droite — ou ne sera pas.</p>
+                    <p class="p">Vous êtes là pour qu’elle soit, pour qu’elle dure, dans ses diversités de tous les ordres, que l’on ne peut préserver que par l’union et que l’unification tuerait. Mais sans sacrifices d’amour-propre, sans replis stratégiques d’intérêts légitimes, sans compromis, elle ne sera pas. C’est clair.</p>
+                    <section id="body-11-1" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-11-1">Vous ignorez l’opinion vraie</a>
+                      </h2>
+                      <p class="p autofirst">Seuls ceux qui veulent passionnément le but se résoudront aux compromis vitaux. Quant à ceux qui n’ont point cette passion de l’Europe, ceux dont le regard s’attarde aux obstacles à l’union, perdant de vue sa nécessité, il nous reste à leur faire comprendre que le pire obstacle, c’est eux-mêmes.</p>
+                      <p class="p">Ils nous disent : « Je veux bien, je ne suis pas contre, mais voyez ces difficultés ! L’Opinion, par exemple, n’est pas mûre, et chacun sait qu’on ne peut rien faire sans elle ». C’est qu’ils se prennent pour l’opinion, qu’ils ont négligé d’écouter. Tous les sondages précis réfutent leurs craintes, démasquent leurs arrière-pensées, dénoncent leur parti pris de scepticisme. Les deux tiers des Européens se déclarent pour l’union, lorsqu’on les interroge. Il n’en fallut pas plus pour fédérer la Suisse. Mais l’opinion veut qu’on l’entraîne. « On suit ceux qui marchent », dit Péguy. Elle ne vous suivra pas si vous êtes daltoniens, et les sceptiques, alors, pourront bien dire : j’avais raison, voyez l’obstacle ! Ils l’auront eux-mêmes suscité. L’œil du sceptique crée les obstacles insurmontables.</p>
+                      <p class="p">Il y a deux sortes d’opinion : celle que l’on invoque, et la vraie. L’une qui sert d’alibi aux démagogues, et l’autre qui les laisse tomber ; l’une qui fait des discours, l’autre qui vote. La première est exactement ce que la presse et la radio déclarent qu’elle est. Presse et radio voudraient que Dewey soit élu : on dit alors qu’il a pour lui toute l’opinion. Truman élu, l’opinion c’est Truman. Elle l’était avant cela, bien sûr, mais elle n’a pu parler que dans le secret des urnes.</p>
+                      <p class="p">L’opinion d’aujourd’hui, je la sens, c’est l’Europe. Mais elle ne bougera pas, si vous ne faites presque rien. Elle laissera parler les sceptiques parler « au nom des masses » dans l’indifférence générale. Elle laissera le Conseil de l’Europe murmurer pudiquement, chaque année, qu’il reste désireux d’envisager l’étude de quelques mesures préalables tendant à renforcer le sentiment d’une Solidarité qui ne saurait nuire à « l’achèvement d’une union plus intime entre ses membres ». Les manchettes des journaux parleront d’un « pas important vers l’union ». Et les Anglais jugeront qu’ils ne peuvent s’associer à ces engagements téméraires avant d’avoir pris le temps d’étudier leur contenu et de s’être assurés qu’en tous les cas cela ne peut les conduire absolument à rien.</p>
+                      <p class="p">Soyons francs : le Conseil de l’Europe, solidement retranché dans le domaine des principes, a fait jusqu’ici pratiquement plus de mal que de bien à notre cause à tous. On me dira que si l’on se contente d’affirmer des principes sans les mettre en pratique, cela ne fait de mal à personne. Mais cela en fait aux principes. Or une Europe qui se moque des principes vaut beaucoup moins qu’une Amérique qui les professe, et ne vaut rien en face des Russes qui les assènent.</p>
+                      <p class="p">Il faut des actes, dit-on. La phrase est vague. Les actes sont parfois plus vains que les paroles. Lancer un timbre européen, ce serait un acte enfin, quelque chose de concret. Et je me garde de sous-estimer la puissance des philatélistes. Mais si Strasbourg accouche d’un timbre-poste, nous serons un peu déçus, et Staline très content.</p>
+                      <p class="p">Voici l’acte que je vous propose, au nom de l’opinion qui ne parle pas encore.</p>
+                      <p class="p">Messieurs les Députés, vous le savez bien, vous n’êtes pas de vrais députés, car les vrais sont élus, et vous êtes simplement délégués pour consultation. Décidez de vous faire élire. Un raisonnement très simple appuie cette suggestion.</p>
+                      <p class="p">On ne fera pas l’Europe sans informer ses peuples, et du danger qu’ils courent, et de la parade puissante que pourrait constituer notre fédération. On n’informera pas les peuples sans une propagande massive. Personne n’a les moyens de la financer. La seule solution concevable, c’est une campagne électorale organisée par les États, en vue de nommer leurs députés au premier Parlement de l’Europe. Les partis présenteront les candidats. Et les mouvements fédéralistes aussi. Et les groupes d’intérêts professionnels, syndicats patronaux et ouvriers. Il en résultera dans nos provinces une campagne d’agitation, d’émulation, de polémique européenne, que nulle autre méthode ne saurait provoquer.</p>
+                    </section>
+                    <section id="body-11-2" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-11-2">Si vous me dites…</a>
+                      </h2>
+                      <p class="p autofirst">La condition à la fois nécessaire et suffisante d’une telle campagne, c’est de faire sentir aux peuples qu’elle comporte un enjeu, et que leur sort peut changer, matériellement aussi, selon l’issue des élections. En d’autres termes, il faut que le Parlement issu des élections ait quelque chose à faire. Qu’un but concret soit assigné à ses travaux. Je n’en vois pour ma part qu’un seul : discuter et voter un projet bien précis de Constitution fédérale de l’Europe.</p>
+                      <p class="p">Si vous acceptez cela, vous aurez avec vous l’opinion vraie dans sa majorité, les militants de l’Europe, la logique de l’Histoire, le réveil de notre espérance. Si vous n’acceptez pas, vous ne trouverez derrière vous que le vide et l’indifférence ; et devant vous, le rire des hommes d’acier.</p>
+                      <p class="p">Si vous me dites que c’est prématuré, je vous supplierai de déclarer clairement à quel moment, et sous quelles conditions, cela cessera d’être prématuré.</p>
+                      <p class="p">Si vous me dites que c’est très joli, mais qu’il faut qu’on vous laisse du temps, je vous proposerai de l’obtenir de Staline. Car en Europe il y en a peu.</p>
+                      <p class="p">Si vous me dites enfin que c’est plus difficile que je n’ai l’air de le penser dans ma candeur naïve, je vous demanderai si quelque chose au monde est plus difficile à concevoir que le maintien du statu quo, que la vie, la durée de notre Europe divisée, devant toutes les menaces que vous savez : un régime social déficient, le chômage étendu, la ruine à bref délai, les trois cents divisions de l’armée rouge.</p>
+                      <p class="p">D’une part, on peut penser qu’au point où nous en sommes, il n’y a presque plus rien à perdre. Que risquez-vous à tenter l’impossible ? D’autre part, il est sûr qu’il y aurait tout à perdre, même l’espoir, à ne point risquer la dernière chance européenne. Voilà le pari. Vous êtes acculés à l’audace. Donnez-nous la Constitution !</p>
+                      <p class="p">Messieurs les Députés, faut-il vous dire encore que je ne suis rien qu’une voix presque désespérée, et sans autre pouvoir que de vous adjurer de la part des millions qui se taisent mais qui ont peur ? Pardonnez mes violences et mes impertinences : comprenez l’anxiété qui les dicte. Je ne vous écrirais pas si je ne savais très bien qu’une partie d’entre vous m’approuve et qu’une autre ne dit pas non. Dans un mouvement de passion, je m’écriais l’autre jour : si vous ne voulez rien faire, allez-vous-en ! Mais beaucoup d’entre vous veulent agir et je les supplie maintenant, au nom de l’Europe, de <em>rester</em> au contraire, de ne point se séparer avant d’avoir dressé, pour notre espoir, un signe !</p>
+                    </section>
+                    <section id="body-11-3" class="div level2">
+                      <h2 class="head">
+                        <a href="#body-11-3">Des raisons de vivre !</a>
+                      </h2>
+                      <p class="p autofirst">Vous n’êtes pas encore l’espoir des peuples libres, ni des peuples muets de l’Est européen. Mais vous pouvez le devenir et sonner le ralliement. Tout tient à cela, tout tient à votre sage audace. Car si l’Europe unie n’est pas un grand espoir renaissant dans le cœur des masses, aucune armée du monde ne pourra la défendre. Personne ne veut mourir, que pour des raisons de vivre. Mozart n’en est plus une pour les chômeurs. Et ce n’est pas une secte politique, une doctrine partisane ou une autre, qui résoudra le problème du chômage, mais l’union de nos sacrifices. Qui peut nous l’imposer ? Qui peut faire reculer les intérêts puissants et parfois légitimes qui se révèlent contraires au salut de l’ensemble ? Je veux avoir parlé pour ne rien dire, si quelqu’un nous propose une autre solution que l’Autorité fédérale, souveraine au-dessus des États.</p>
+                      <p class="p">Messieurs les Députés européens, je vous salue d’un vœu qui voudrait résumer celui de tous nos peuples aux écoutes de l’avenir, un vœu mêlé d’angoisse et d’espérance : méritez votre nom, faites-vous élire et fédérez l’Europe pendant qu’il en est temps.</p>
+                      <br class="space line1"/>
+                      <p class="p autofirst right">Ferney, 30 juillet-6 août 1950.</p>
+                    </section>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                      <div class="page">
+                        <div class="b note-page">
+                          <a href="19501004#p.1">p. 1</a>
+                        </div>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="19501004#note13_">a. </a>« Messieurs, on vous attend encore au pied du mur ! », <em>Combat</em>, Paris, n° 1944, 4 octobre 1950, p. 6. Présenté de cette note : « Nous publions aujourd’hui le deuxième extrait des cinq <a href="https://www.unige.ch/rougemont/livres/ddr1950lde">lettres aux députés européens</a> que Denis de Rougemont écrivit à l’occasion de la session de Strasbourg. »</aside>
+                      </div>
+                    </section>
+                  </article>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+      <area name="Sidebar">
+        <blocks>
+          <block type="content" name="toc">
+            <data table="btContentLocal">
+              <record>
+                <content><![CDATA[
+                  <ol>
+                    <li class="collateral">
+                      <a href="19460519">Ni secret ni défense (19-20 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460521">Paralysie des hommes d’État (21 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460522">Tous démocrates (22 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460523">Les cochons en uniforme ou le nouveau Déluge (23 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460524">Post-scriptum (24 mai 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460702">Bikini bluff (2 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19460705">Les intellectuels sont-ils responsables ? (5 juillet 1946)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19471226">« La tâche française c’est d’inventer la paix » (26 décembre 1947)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19480514">Message aux Européens (14 mai 1948)</a>
+                    </li>
+                    <li class="collateral">
+                      <a href="19501003">Messieurs, n’oubliez pas l’exemple de la Suisse (3 octobre 1950)</a>
+                    </li>
+                    <li class="here">
+                      <a href="#">Messieurs, on vous attend encore au pied du mur ! (4 octobre 1950)</a>
+                      <ol>
+                        <li class="collateral">
+                          <a href="19501004#body-11-1">Vous ignorez l’opinion vraie</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="19501004#body-11-2">Si vous me dites…</a>
+                        </li>
+                        <li class="collateral">
+                          <a href="19501004#body-11-3">Des raisons de vivre !</a>
+                        </li>
+                      </ol>
+                    </li>
+                  </ol>
+                ]]></content>
+              </record>
+            </data>
+          </block>
+        </blocks>
+      </area>
+    </page>
+  </pages>
+</concrete5-cif>

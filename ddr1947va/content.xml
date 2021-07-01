@@ -79,12 +79,12 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -99,9 +99,9 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -109,13 +109,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/2" name="Prologue . Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/2" name="Prologue. Sentiment de l’Amérique" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Prologue . Sentiment de l’Amérique (1947, Vivre en Amérique)</value>
+          <value>Prologue. Sentiment de l’Amérique (1947, Vivre en Amérique)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -141,7 +141,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Prologue . Sentiment de l’Amérique"
+    "name": "Prologue. Sentiment de l’Amérique"
   }]
 }
           </value>
@@ -200,12 +200,12 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="#">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -220,9 +220,9 @@
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -498,16 +498,16 @@ body-3-5	1.e. Impérialisme américain ? (1947, Vivre en Amérique)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="here">
                       <a href="#">1. Vie politique</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">1.a. Le rêve américain</a>
                         </li>
@@ -523,7 +523,7 @@ body-3-5	1.e. Impérialisme américain ? (1947, Vivre en Amérique)
                         <li class="collateral">
                           <a href="3#body-3-5">1.e. Impérialisme américain ?</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">2. Vie culturelle et religieuse</a>
@@ -535,9 +535,9 @@ body-3-5	1.e. Impérialisme américain ? (1947, Vivre en Amérique)
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -680,7 +680,7 @@ body-4-7	2.g. Une spiritualité engagée dans le siècle (1947, Vivre en Amériq
                     <section id="body-4-3" class="div level2">
                       <h2 class="head">Condition des écrivains et éditeurs</h2>
                       <p class="p autofirst">Pas de milieu ni de milieux dans ce pays. Entre l’écrivain d’avant-garde et l’auteur à succès, peu ou point de moyen terme, le saut est brusque, l’abîme s’ouvre béant. Car on passe de 3 000 lecteurs à 300 000, c’est-à-dire qu’on passe pratiquement du prolétaire au millionnaire des lettres. Je ne connais que peu d’exceptions.</p>
-                      <p class="p">Et de même vous ne trouverez rien à New York, encore bien moins à Washington ou Chicago, qui ressemble aux « milieux littéraires » de Paris, de Londres, ou de Berlin avant Hitler. Point de salons où l’écrivain se frotte aux gens du monde, et eux à lui ; point de cafés où l’on se retrouve en bande à l’heure de l’apéritif ; point d’antichambres d’éditeurs où se coudoient auteurs, débutants et critiques ; donc point de tribunal du g<a id="_GoBack">‌</a>oût, de critique parlée, de rumeurs, ou de réputations fondées sur le 
+                      <p class="p">Et de même vous ne trouverez rien à New York, encore bien moins à Washington ou Chicago, qui ressemble aux « milieux littéraires » de Paris, de Londres, ou de Berlin avant Hitler. Point de salons où l’écrivain se frotte aux gens du monde, et eux à lui ; point de cafés où l’on se retrouve en bande à l’heure de l’apéritif ; point d’antichambres d’éditeurs où se coudoient auteurs, débutants et critiques ; donc point de tribunal du goût, de critique parlée, de rumeurs, ou de réputations fondées sur le 
 <a class="pb" href="#pb78" id="pb78">[p. 78]</a>
  pittoresque, l’esprit, le succès personnel ou la rareté.</p>
                       <p class="p">L’écrivain aux États-Unis vit dans une sorte de vide social. Il évolue entre la réalité de tous les jours, qui le repousse, l’ignore, ne lui fait aucune place, mais à laquelle il emprunte ses sujets, — et la machine commerciale de l’édition. Rien ne le soutient. Tout l’attaque — ou le paie.</p>
@@ -861,19 +861,19 @@ body-4-7	2.g. Une spiritualité engagée dans le siècle (1947, Vivre en Amériq
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
                     </li>
                     <li class="here">
                       <a href="#">2. Vie culturelle et religieuse</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">2.a. Une presse qui informe ses lecteurs</a>
                         </li>
@@ -895,7 +895,7 @@ body-4-7	2.g. Une spiritualité engagée dans le siècle (1947, Vivre en Amériq
                         <li class="collateral">
                           <a href="4#body-4-7">2.g. Une spiritualité engagée dans le siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">3. Vie privée</a>
@@ -904,9 +904,9 @@ body-4-7	2.g. Une spiritualité engagée dans le siècle (1947, Vivre en Amériq
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1090,12 +1090,12 @@ body-5-5	3.e. De la sexualité (1947, Vivre en Amérique)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1105,7 +1105,7 @@ body-5-5	3.e. De la sexualité (1947, Vivre en Amérique)
                     </li>
                     <li class="here">
                       <a href="#">3. Vie privée</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">3.a. La Guerre des sexes en Amérique</a>
                         </li>
@@ -1121,15 +1121,15 @@ body-5-5	3.e. De la sexualité (1947, Vivre en Amérique)
                         <li class="collateral">
                           <a href="5#body-5-5">3.e. De la sexualité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1501,12 +1501,12 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1519,7 +1519,7 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
                     </li>
                     <li class="here">
                       <a href="#">4. Conseil à un Français pour vivre en Amérique</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">4.a. Comment on entre en Amérique</a>
                         </li>
@@ -1574,12 +1574,12 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
                         <li class="collateral">
                           <a href="6#body-6-18">4.r. Comment l’Amérique peut aider l’Europe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
-                      <a href="7">Épilogue .  La route américaine</a>
+                      <a href="7">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1587,13 +1587,13 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1947va/7" name="Épilogue . La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1947va/7" name="Épilogue. La route américaine" package="ddr1947va" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Épilogue . La route américaine (1947, Vivre en Amérique)</value>
+          <value>Épilogue. La route américaine (1947, Vivre en Amérique)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1619,7 +1619,7 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Épilogue . La route américaine"
+    "name": "Épilogue. La route américaine"
   }]
 }
           </value>
@@ -1660,12 +1660,12 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">Prologue .  Sentiment de l’Amérique</a>
+                      <a href="2">Prologue.  Sentiment de l’Amérique</a>
                     </li>
                     <li class="collateral">
                       <a href="3">1. Vie politique</a>
@@ -1680,9 +1680,9 @@ body-6-18	4.r. Comment l’Amérique peut aider l’Europe (1947, Vivre en Amér
                       <a href="6">4. Conseil à un Français pour vivre en Amérique</a>
                     </li>
                     <li class="here">
-                      <a href="#">Épilogue .  La route américaine</a>
+                      <a href="#">Épilogue.  La route américaine</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

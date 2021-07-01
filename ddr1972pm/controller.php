@@ -9,8 +9,8 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1972pm';
-  protected $pkgVersion = '20.10.05';
-  protected $title = 'Penser avec les mains';
+  protected $pkgVersion = '21.01.28';
+  protected $title = 'Penser avec les mains (1972)';
   protected $bookpath = '/livres/ddr1972pm';
 
   public function getPackageName()

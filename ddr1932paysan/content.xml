@@ -63,7 +63,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Note</a>
                     </li>
@@ -72,7 +72,7 @@
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -82,11 +82,11 @@
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -100,11 +100,11 @@
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -214,7 +214,7 @@ Le <i class="i">système D</i> n’est pas un système philosophique.</p>
                       <h2 class="head">Paradoxe du sentiment</h2>
                       <p class="p autofirst">Une rumeur lointaine et continue, nous l’entendons seulement lorsqu’elle cesse, ou bien lorsqu’elle grandit soudain. Ainsi de la rumeur en nous du sang qui court ; ainsi de la respiration. Il n’y a sensation que du discontinu.</p>
                       <p class="p">Il n’y a sentiment que de ce qui nous quitte, ou nous surprend, ou bien encore au fond de l’être nous déchire et nous ressuscite. À la naissance du sentiment, nous trouvons invariablement une contradiction interne, une séparation, quelque chose qui fait défaut et quelque chose qui vient combler ce vide. Une angoisse qui est un appel, et qui crée sa réponse — en vain.</p>
-                      <p class="p"><i class="i">Le sentiment mesure une défaillance de l’être.</i>Mais ici, deux interprétations deviennent possibles. Selon l’une, cette déficience est inhérente à toute réalité humaine ; elle est la marque même de sa validité, la preuve d’humanité pourrait-on dire. (On appelle inhumain l’être qui ne sent rien.) Selon l’autre, elle indique seulement un 
+                      <p class="p"><i class="i">Le sentiment mesure une défaillance de l’être</i>. Mais ici, deux interprétations deviennent possibles. Selon l’une, cette déficience est inhérente à toute réalité humaine ; elle est la marque même de sa validité, la preuve d’humanité pourrait-on dire. (On appelle inhumain l’être qui ne sent rien.) Selon l’autre, elle indique seulement un 
 <a class="pb" href="#p21" id="p21">[p. 21]</a>
 défaut qu’il convient de guérir par des moyens appropriés, par une politique ou par une morale. D’une part l’on tient la déficience pour essentielle ; de l’autre elle apparaît un accident fâcheux.</p>
                       <p class="p">Telles, peut-être, se délimitent la notion chrétienne et la notion antique de l’homme ; telles, dans une certaine mesure, la notion germanique et la notion latine. Le paradoxe humain revêt aux yeux du philosophe moderne une valeur métaphysique alors qu’il garde pour le moraliste latin la signification d’un accident social réductible à l’ordre imposé. Passant à la limite du sentiment, là où il prend une valeur d’acte ou de jugement, l’on peut symboliser l’opposition des deux visions du monde dans celle, plus précise, de deux notions du tragique. Le monde latin connaît un tragique aux arêtes de pierre taillée : conflits d’actes, de faits ou de droits ; l’Europe centrale, de ces choses « déchirantes » et sans nom qui font dans l’âme un bruit de vent mortel et caressant ; une qualité métaphysique et passionnée de l’« impossible », — qui dans ce sens, vraiment, n’est pas un mot français.</p>
@@ -303,13 +303,13 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
                     <li class="here">
                       <a href="#">a. Le sentiment de l’Europe centrale</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">a.1. Un accord sans résolution</a>
                         </li>
@@ -322,11 +322,11 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
                         <li class="collateral">
                           <a href="2#body-2-4">a.4. L’intelligence est sentimentale</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -336,11 +336,11 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -354,11 +354,11 @@ Brève nuit d’août, le temps d’un peu se souvenir. Et bientôt paraîtra l�
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -509,7 +509,7 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -518,7 +518,7 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
                     </li>
                     <li class="ancestor">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -528,11 +528,11 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -546,11 +546,11 @@ silhouette échassière de la jeune duchesse de Clam-Clammansfeld en manteau de 
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -673,7 +673,7 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -682,7 +682,7 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
                     </li>
                     <li class="ancestor">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -692,11 +692,11 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -710,11 +710,11 @@ sa main, — ho ! qui l’a retirée des miennes ?</p>
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -795,7 +795,7 @@ body-3-3-19	xix (1932, Le Paysan du Danube)
                     <a class="pb" href="#p64" id="p64">[p. 64]</a>
                     <h1 class="head chapter">Voyage en Hongrie</h1>
                     <blockquote class="epigraph">
-                      <p class="p autofirst">À Albert Gyergyai.</p>
+                      <p class="p autofirst">À Albert Gyergyai</p>
                     </blockquote>
                     <section id="body-3-3-1" class="div level2">
                       <h2 class="head kicker">
@@ -944,7 +944,7 @@ Quelques articles favorables à la Hongrie, au moment où l’Europe semblait ab
                         <span class="num">ix</span>
                       </h2>
                       <h2 class="head">Une lettre de Matthias Corvin</h2>
-                      <p class="p autofirst">« Matthias, par la grâce de Dieu roi de Hongrie. Bonjour, citoyens ! Si vous ne venez pas tous vous présenter au roi, vous perdrez la tête. Do<a id="_GoBack">‌</a>nné à Bude. Le roi. »</p>
+                      <p class="p autofirst">« Matthias, par la grâce de Dieu roi de Hongrie. Bonjour, citoyens ! Si vous ne venez pas tous vous présenter au roi, vous perdrez la tête. Donné à Bude. Le roi. »</p>
                     </section>
                     <section id="body-3-3-10" class="div level2">
                       <h2 class="head kicker">
@@ -1029,7 +1029,7 @@ aiment les saucisses ou les catastrophes, selon qu’ils sont techniciens ou int
 ce que je vois traverse ce que j’entends.)</p>
                       <p class="p">La plaine hongroise n’est pas monotone, parce qu’elle est d’un seul tenant. Rien qui fasse répétition. C’est ici le premier pays que je n’ai pas envie d’élaguer ; dont je ne me compose pas de morceaux choisis<a class="noteref" href="5#note11" id="note11_"><sup>11</sup></a>. Il y a <i class="i">une</i> grande ville, <i class="i">un</i> grand lac, <i class="i">une</i> plaine et une seule vigne de véritable Tokay. Et point de ces endroits déprimants, à plusieurs milliers d’exemplaires, tels que : banlieue française, village suisse, gare allemande grouillante de questions sociales. La Puszta est une terre vierge, je veux dire que la bourgeoisie ne s’y est pas encore répandue. Il y a peu de bourgeois en Hongrie. Il y a de petits nobles déclassés, des juifs, des paysans, des communistes, de grands nobles, et des tziganes. D’ailleurs, le bourgeois supporterait difficilement l’ampleur qu’ont ici toutes choses, cette atmosphère de nomadisme, et ces vents vastes ; et cette passion de vivre « au-dessus de ses moyens » — c’est-à-dire au-dessus du Moyen — qui est caractéristique du Hongrois. 
 <a class="pb" href="#p101" id="p101">[p. 101]</a>
-— « Comment peux-tu vivre si largement ? » demande certaine hargne à cet artiste de la prodigalité. — « Ah ! répond-il, j’aimerais bien <i class="i">pouvoir</i>vivre comme je vis ! »</p>
+— « Comment peux-tu vivre si largement ? » demande certaine hargne à cet artiste de la prodigalité. — « Ah ! répond-il, j’aimerais bien <i class="i">pouvoir</i> vivre comme je vis ! »</p>
                       <p class="p">Voici les cigognes, dont Andersen assure qu’elles parlent en égyptien, « car c’est la langue qu’elles apprennent de leurs mères ». Combien j’aime ces sœurs des Tziganes ! Les Tziganes vinrent en Europe conduits par le noir Duc d’Égypte ; aussi les nomma-t-on gypsies. Pour leur nom allemand, c’est : Zigeuner ; hongrois : cigàny ; mien : cigognes. D’ailleurs ces Égyptiens venaient des Indes, qui nous apportèrent le tarot et la roulotte, dont descendent le bridge et la bohème, c’est-à-dire un symbole de la servitude et un symbole de la liberté. Si la Hongrie tout de même a quelque chose de « moderne », dans un sens vaste et mystique, elle le doit au charme égyptien du peuple errant qui lui donna sa musique nationale<a class="noteref" href="5#note12" id="note12_"><sup>12</sup></a>. Les signes parlent, et certains sages : nous entrons dans une ère égyptienne.</p>
                       <p class="p">Mais que dire des pouvoirs de la plaine qui 
 <a class="pb" href="#p102" id="p102">[p. 102]</a>
@@ -1066,7 +1066,7 @@ restes de volcans — blanches sous la lune et toutes lustrées de rêches vég
                       <p class="p autofirst">Mais soudain, c’est au silence que je me heurte, comme réveillé dans l’absurdité d’être n’importe où. Une panique balaye la nuit déserte jusqu’à l’horizon. Où vas-tu, les mains vides, faiblement ? Ah ! toutes les actions précises et courageuses, tout ce qui t’appelle là-bas, maintenant, maintenant, où tu n’es pas — et tant d’amour perdu…</p>
                       <p class="p">Un train dormait devant la gare campagnarde. Je me suis étendu dans un compartiment obscur, stores baissés, à l’abri de la lune. Le contrôleur a dû jouer un rôle dans mes cauchemars. L’aube m’éveille dans les faubourgs de Budapest, cheveux en désordre, pantalon plissé, et cet abruti de contrôleur qui rit et me dit je ne sais quoi, — alors que justement j’allais rattraper, comme un pan de la nuit fuyante, un songe où j’ai dû voir 
 <a class="pb" href="#p108" id="p108">[p. 108]</a>
-<span class="num">l</span><span class="sc">’Objet</span> pour la première fois — ou bien était-ce un être ?</p>
+<span class="sc">l’Objet</span> pour la première fois — ou bien était-ce un être ?</p>
                     </section>
                     <section id="body-3-3-17" class="div level2">
                       <h2 class="head kicker">
@@ -1182,7 +1182,7 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -1191,7 +1191,7 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                     </li>
                     <li class="ancestor">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -1200,7 +1200,7 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                         </li>
                         <li class="here">
                           <a href="#">I.3. Voyage en Hongrie</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="5#body-3-3-1">I.3.a. Le dormeur au fil de l’eau</a>
                             </li>
@@ -1260,13 +1260,13 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                                 <span class="num">xix</span>
                               </a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -1280,11 +1280,11 @@ homme n’est pas satisfait dans la lune, celle-ci le libère (le laisse aller c
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1410,7 +1410,7 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -1419,7 +1419,7 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -1429,11 +1429,11 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -1447,11 +1447,11 @@ par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leu
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1619,9 +1619,11 @@ correspondances, qui est le degré suprême de la <i class="i">signification</i>
                     <section id="body-4-2-8" class="div level2">
                       <h2 class="head">31 mai 1929</h2>
                       <p class="p autofirst">Personne n’a fabriqué autant de mots abstraits que les professeurs allemands, et cependant, par une apparente contradiction, la mentalité du bourgeois de ce pays est puissamment réaliste. J’en trouve des marques bien curieuses dans les « considérations sur ma vie » du père Reinecke. Il y est beaucoup question de la vie éternelle, et d’expériences vécues avec l’Ange gardien, mais c’est toujours en relations pratiques avec le commerce quotidien. J’en traduis cette page <i class="i">Sur la mort</i>.</p>
-                      <p class="p">« Mes funérailles devront se dérouler dans le cadre de Jésus-Sirach, 38, versets 16-24. Qu’on mange et qu’on boive ferme après ma mort, tant que je serai encore dans la maison, et qu’on ne lésine pas. Il restera toujours assez, à l’époque de ma mort, pour supporter ces frais ; à tout le moins, les mille marks que paie la Caisse de décès y 
+                      <p class="p">
+                        <q class="quote">Mes funérailles devront se dérouler dans le cadre de Jésus-Sirach, 38, versets 16-24. Qu’on mange et qu’on boive ferme après ma mort, tant que je serai encore dans la maison, et qu’on ne lésine pas. Il restera toujours assez, à l’époque de ma mort, pour supporter ces frais ; à tout le moins, les mille marks que paie la Caisse de décès y 
 <a class="pb" href="#p147" id="p147">[p. 147]</a>
-suffiront. Il faut que chacun des participants s’en retourne avec cette conviction : “Ce fut un bel enterrement !” Et de même, ceux qui auront pris soin de moi au moment de ma mort et tôt après devront être largement dédommagés. Nul ne sait si je ne flotterai pas encore au-dessus de vous, et si je n’éprouverai pas de l’amertume à voir que mes derniers désirs même ne sont pas accomplis. Tant que je serai étendu dans la maison, je veux que la lumière brille dans ma chambre et dans les corridors, pendant toute la nuit, et qu’on n’y regarde pas à quelques kilowatts. Je veux être mis en bière dans mes habits de tous les jours, et peu importe si les coudes ou le fond de mon pantalon brillent. En aucun cas je ne veux être emballé dans une serviette de papier. Je renonce aux couronnes mortuaires et à toute autre marque extérieure de deuil ; par contre je voudrais que l’on joue sur ma tombe : “Schon die Abendglocken klangen” et ensuite : “Heil’ge Nacht, oh giesse du !” »</p>
+suffiront. Il faut que chacun des participants s’en retourne avec cette conviction : « Ce fut un bel enterrement ! » Et de même, ceux qui auront pris soin de moi au moment de ma mort et tôt après devront être largement dédommagés. Nul ne sait si je ne flotterai pas encore au-dessus de vous, et si je n’éprouverai pas de l’amertume à voir que mes derniers désirs même ne sont pas accomplis. Tant que je serai étendu dans la maison, je veux que la lumière brille dans ma chambre et dans les corridors, pendant toute la nuit, et qu’on n’y regarde pas à quelques kilowatts. Je veux être mis en bière dans mes habits de tous les jours, et peu importe si les coudes ou le fond de mon pantalon brillent. En aucun cas je ne veux être emballé dans une serviette de papier. Je renonce aux couronnes mortuaires et à toute autre marque extérieure de deuil ; par contre je voudrais que l’on joue sur ma tombe : <i class="i">Schon die Abendglocken klangen et ensuite</i> : <i class="i">Heil’ge Nacht, oh giesse du !</i> »</q>
+                      </p>
                     </section>
                     <section id="body-4-2-9" class="div level2">
                       <a class="pb" href="#p148" id="p148">[p. 148]</a>
@@ -1667,10 +1669,12 @@ au collier bleu… Tout d’un coup le sommeil me vide les jambes. La nuit se fe
 <a class="pb" href="#p155" id="p155">[p. 155]</a>
 qui sont ce que je connais de plus indiciblement nostalgique.</p>
                       <blockquote class="quote">
-                        <div class="l">Und solltest du im Leben</div>
-                        <div class="l">Ein Madchen frei’n,</div>
-                        <div class="l">Dann, muss sie am Rheine</div>
-                        <div class="l">Geboren sein…</div>
+                        <i class="i">
+                          <div class="l">Und solltest du im Leben</div>
+                          <div class="l">Ein Madchen frei’n,</div>
+                          <div class="l">Dann, muss sie am Rheine</div>
+                          <div class="l">Geboren sein…</div>
+                        </i>
                       </blockquote>
                       <p class="p autofirst">(Il faudrait la mélodie.) La fanfare s’éloigne. La nuit est chaude sur les collines. Un grand verre de bière à l’auberge déserte, ma pipe et mon chien qui bougonne. La petite maison du colonel en retraite a des fenêtres basses, mais défendues par des rosiers sauvages. Laquelle des trois filles est donc la plus jolie ? Sans doute celle qui dort dans la mansarde, et qui n’a pas peur…</p>
                       <p class="p">Mais c’est l’aînée que je préfère, et qui m’attend peut-être, derrière ses volets mal clos…</p>
@@ -1699,11 +1703,15 @@ Maintenant la journée commence, avec les pas de la servante au corridor.)</p>
                     </section>
                     <section id="body-4-2-17" class="div level2">
                       <h2 class="head">Début de juillet 1929</h2>
-                      <p class="p autofirst">« Écrivez donc une nouvelle allemande pleine de myosotis, de Gérard de Nerval, de victoria égarée dans la forêt, de chasseur à la redingote verte, de jeunes filles qui jouent du violon dans les champs de myrtille et d’impératrices qui prient dans des chapelles envahies par les sapins. » </p>
+                      <p class="p autofirst">
+                        <q class="quote">Écrivez donc une nouvelle allemande pleine de myosotis, de Gérard de Nerval, de victoria égarée dans la forêt, de chasseur à la redingote verte, de jeunes filles qui jouent du violon dans les champs de myrtille et d’impératrices qui prient dans des chapelles envahies par les sapins.</q>
+                      </p>
                       <p class="p">C’est dans une lettre de l’auteur de la <i class="i">Rose de Thuringe</i>. J’ai répondu :</p>
-                      <p class="p">« Je ne sais pas si vous avez connu ce contentement large de tout l’être devant un verre de vin allemand que l’on boit à petites gorgées, entre des bouffées de pipe, à l’auberge. Le charme se compose de voluptés du goût et de l’odorat, de lenteur et d’une certaine puissance de l’esprit qui se concentre dans un désir ou dans un rêve. Le vin de Souabe grise insensiblement, c’est plutôt qu’une fièvre une jubilation bonhomique qui commence par le cœur et se contente de ralentir doucement les idées. C’est un attendrissement 
+                      <p class="p">
+                        <q class="quote">Je ne sais pas si vous avez connu ce contentement large de tout l’être devant un verre de vin allemand que l’on boit à petites gorgées, entre des bouffées de pipe, à l’auberge. Le charme se compose de voluptés du goût et de l’odorat, de lenteur et d’une certaine puissance de l’esprit qui se concentre dans un désir ou dans un rêve. Le vin de Souabe grise insensiblement, c’est plutôt qu’une fièvre une jubilation bonhomique qui commence par le cœur et se contente de ralentir doucement les idées. C’est un attendrissement 
 <a class="pb" href="#p159" id="p159">[p. 159]</a>
-plein de force et de dignité. Alors si l’on est quelques-uns, on se met à chanter des choses déchirantes qui peuvent seules exprimer cette euphorie. Quelques larmes font briller les yeux souriants et généreux. On se sent très près de ce qu’il y a de plus pur dans la nature et toutes sortes de sensualités et de gourmandises qui s’éveillent, en sont comme sanctifiées. Mais c’est le moment d’entamer le jambon et les cornichons que dépose sur la table une servante respectueuse des plaisirs des hommes, et peut-être aussi de leurs familiarités. »</p>
+plein de force et de dignité. Alors si l’on est quelques-uns, on se met à chanter des choses déchirantes qui peuvent seules exprimer cette euphorie. Quelques larmes font briller les yeux souriants et généreux. On se sent très près de ce qu’il y a de plus pur dans la nature et toutes sortes de sensualités et de gourmandises qui s’éveillent, en sont comme sanctifiées. Mais c’est le moment d’entamer le jambon et les cornichons que dépose sur la table une servante respectueuse des plaisirs des hommes, et peut-être aussi de leurs familiarités.</q>
+                      </p>
                       <p class="p">J’étais attablé ce soir-là dans l’Auberge du Cerf, au premier, les pieds contre mon schnautzer enfin calmé (il avait harcelé la servante avec cette démesure qu’apportent dans leurs démonstrations les chiens de tous les pays). Au bout d’un certain temps, et sans doute à cause de ce que je venais d’écrire, la faim me prit et je demandai une paire de saucisses croquantes et de la moutarde douce. Le journal local m’avait apporté cette ration de bouleversements, locaux aussi à leur manière, et très éloignés, qui composent notre 
 <a class="pb" href="#p160" id="p160">[p. 160]</a>
 imagerie quotidienne du vaste monde. J’étais seul et tranquille, à manger et à soupeser des idées qui venaient se poser devant moi. La servante à l’autre coin de la pièce brodait, bâillait, se sentait seule aussi.</p>
@@ -1748,7 +1756,9 @@ vois encore en regardant devant moi. J’ai honte.</p>
                       <p class="p">Comme nous sommes incapables de nous libérer de barrières sociales ou de pudeurs qu’en pensée nous tenions pour nulles. Si j’étais vraiment libre, j’aurais fait place aux deux ouvrières laides, sans méfiance, — ou bien à la jeune fille, sans fausse honte. Si j’étais vraiment libre, je lui parlerais très doucement… La fumée des cigares lui fait peut-être mal au cœur, et aussi la curiosité sournoise des ouvriers, des deux femmes qui examinent ses vêtements. Elle a quitté le château endormi pour aller faire des courses en ville, probablement ; elle a dû prendre le train des ouvriers, — et c’est à elle que va ma sympathie ?… Les hommes parlent une langue brusque et de mauvaise humeur, les yeux mornes ou trop brillants ; ou lisent des feuilles communistes. Le « Bummelzug », interminablement crache sa fumée dans des gares de banlieue qui ne sont plus fleuries. Il règne dans ce wagon un malaise âcre et oppressant ; et cette fumée et cette fatigue mal lavée — et cette robe verte seule pure — et oh ! la pauvre interrogation des visages devant 
 <a class="pb" href="#p167" id="p167">[p. 167]</a>
 l’atrocité de notre vie sociale ! Je baisse les yeux sur mon livre.</p>
-                      <p class="p">« Et la foule menaçante se pressait autour du char de la princesse qu’on menait au bûcher. Alors vinrent d’un seul vol onze grands cygnes blancs. Ils se posèrent autour d’elle et battirent de leurs grandes ailes. Et le peuple effrayé recula. » Mais la princesse jette sur eux les cottes d’orties qu’elle tissait de ses mains, et voici onze princes qui se tiennent autour d’elle. « Elle est innocente ! » s’écrient-ils, et le peuple s’agenouille comme devant une sainte. « Et pendant que l’aîné des frères racontait tout ce qui était arrivé, un parfum de millions de roses se répandit dans les airs, tandis qu’au sommet du bûcher paraissait une blanche et lumineuse fleur qui resplendissait comme une étoile. »</p>
+                      <p class="p">
+                        <q class="quote">Et la foule menaçante se pressait autour du char de la princesse qu’on menait au bûcher. Alors vinrent d’un seul vol onze grands cygnes blancs. Ils se posèrent autour d’elle et battirent de leurs grandes ailes. Et le peuple effrayé recula. » Mais la princesse jette sur eux les cottes d’orties qu’elle tissait de ses mains, et voici onze princes qui se tiennent autour d’elle. « Elle est innocente ! » s’écrient-ils, et le peuple s’agenouille comme devant une sainte. « Et pendant que l’aîné des frères racontait tout ce qui était arrivé, un parfum de millions de roses se répandit dans les airs, tandis qu’au sommet du bûcher paraissait une blanche et lumineuse fleur qui resplendissait comme une étoile.</q>
+                      </p>
                       <p class="p">Mais pourquoi détourner la tête vers la vitre sale, retenir des larmes ? Un soudain excès de l’amour s’est libéré dans tout mon être et s’élance vers ces vies proches. Oh ! s’ils savaient, s’ils pouvaient seulement savoir ! Partager la consolation miraculeuse ! En cet instant du moins je 
 <a class="pb" href="#p168" id="p168">[p. 168]</a>
 les ai tous aimés. Et j’ai compris que la grandeur du cœur humain, c’est de donner sans mesure un amour dont notre vie, peut-être, n’a que faire.</p>
@@ -1786,7 +1796,7 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -1795,7 +1805,7 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -1805,17 +1815,17 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
                         <li class="here">
                           <a href="#">II.2. Petit journal de Souabe</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-4-2-1">22 avril 1929</a>
                             </li>
@@ -1882,7 +1892,7 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
                             <li class="collateral">
                               <a href="7#body-4-2-22">10 août 1929</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="8">II.3. Châteaux en Prusse</a>
@@ -1891,11 +1901,11 @@ relâche, où les orages n’ont pas d’odeur, terrains morts où l’on n’a 
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2043,7 +2053,7 @@ Tout jugement affectif s’évapore devant une évolution nécessaire.</p>
                       <p class="p">Race de colonisateurs, dominant sur ces marches de l’Europe depuis des siècles, mais séculairement menacés par l’Asie : ils lui résistent par leur pauvreté. Les magnats de Hongrie sont déjà des pachas, et l’Occident ne peut rien en attendre, qu’un corps de janissaires tout au plus.</p>
                       <p class="p">
 <a class="pb" href="#p188" id="p188">[p. 188]</a>
-Mais ces hommes durs, silencieux, et sains, servants des terres conquises par les chevaliers teutoniques, qui sait s’ils n’auront pas demain leur commandement dans cet <i class="i">Ordre du Sacrifice</i>auquel rêve l’Europe, qu’elle redoute encore, mais qui forge sa loi au secret de son désespoir…</p>
+Mais ces hommes durs, silencieux, et sains, servants des terres conquises par les chevaliers teutoniques, qui sait s’ils n’auront pas demain leur commandement dans cet <i class="i">Ordre du Sacrifice</i> auquel rêve l’Europe, qu’elle redoute encore, mais qui forge sa loi au secret de son désespoir…</p>
                       <p class="p">Bastions de l’Occident ? — Duquel ? Ou bien race liée au seul goût de sa puissance ? Il y a plus qu’un <i class="i">passé</i> d’héroïsme dans ces châteaux perdus, dans ce Waldburg gardien de quels secrets longuement, lentement fortifiés…</p>
                       <p class="p"> </p>
                       <p class="p autofirst">La nuit, les moustiques tissent une rumeur dans l’obscurité profonde. Des cris de chouettes se poursuivent, s’éloignent, reprennent tout proches. Les élans dorment agenouillés, aussi hauts que les jeunes arbres de la lande. Et la mer respire fort contre les grèves, soulagée de la pesante lumière. Mais dans cette chambre élevée du château, l’air demeure étouffant et parfois l’odeur des étangs vient se mêler à celle des vieilles boiseries. Enveloppé de gaze je sors sur mon balcon, je me penche sur le parc incertain. Palpitation lointaine 
@@ -2071,7 +2081,7 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -2080,7 +2090,7 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -2090,11 +2100,11 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -2103,7 +2113,7 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
                         </li>
                         <li class="here">
                           <a href="#">II.3. Châteaux en Prusse</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="8#body-4-3-1">II.3.a. Journées</a>
                             </li>
@@ -2113,17 +2123,17 @@ et animale du silence. Le long de la crête des forêts, une rougissante lueur a
                             <li class="collateral">
                               <a href="8#body-4-3-3">II.3.c. Je ne défendrai pas les Junkers…</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2198,7 +2208,7 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -2207,7 +2217,7 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -2217,11 +2227,11 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -2235,11 +2245,11 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
                           <a href="#">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="collateral">
-                          <a href="10">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="10">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2247,13 +2257,13 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1932paysan/10" name="II.5. Appendice . Les Soirées du Brambilla-Club , (1930)" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1932paysan/10" name="II.5. Appendice. Les Soirées du Brambilla-Club, (1930)" package="ddr1932paysan" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II.5. Appendice . Les Soirées du Brambilla-Club , (1930) (1932, Le Paysan du Danube)</value>
+          <value>II.5. Appendice. Les Soirées du Brambilla-Club, (1930) (1932, Le Paysan du Danube)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2279,7 +2289,7 @@ bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la par
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "II.5. Appendice . Les Soirées du Brambilla-Club , (1930)"
+    "name": "II.5. Appendice. Les Soirées du Brambilla-Club, (1930)"
   }]
 }
           </value>
@@ -2363,7 +2373,7 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note</a>
                     </li>
@@ -2372,7 +2382,7 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
                     </li>
                     <li class="collateral">
                       <div>I. Le Paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">I.1. Un soir à Vienne avec Gérard</a>
                         </li>
@@ -2382,11 +2392,11 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
                         <li class="collateral">
                           <a href="5">I.3. Voyage en Hongrie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6">II.1. La Tour de Hölderlin</a>
                         </li>
@@ -2400,11 +2410,11 @@ sa plus belle œuvre, sur le thème des pleurs de la vieille, et mourut comme il
                           <a href="9">II.4. Le balcon sur l’eau</a>
                         </li>
                         <li class="here">
-                          <a href="#">II.5. Appendice .  Les Soirées du Brambilla-Club ,  (1930)</a>
+                          <a href="#">II.5. Appendice.  Les Soirées du Brambilla-Club,  (1930)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

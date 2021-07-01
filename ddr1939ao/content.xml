@@ -75,7 +75,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
@@ -103,7 +103,7 @@
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -569,12 +569,12 @@ body-2-12	I.12. Une vieille et grave mélodie (1939, L'Amour et l'Occident)
                         </div>
                         <aside id="note7" role="note" class="note note">
                           <p class="noindent"><a class="noteback" href="2#note7_">7. </a>Vers 1412-1415 :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">A combien fu determinez</div>
                             <div class="l">Li lovendrincs, li vin herbez :</div>
                             <div class="l">La mère Iseut, qui le bollit,</div>
                             <div class="l">À trois anz d’amistié le fist.</div>
-                          </q>
+                          </blockquote>
                         </aside>
                       </div>
                       <div class="page">
@@ -595,9 +595,9 @@ body-2-12	I.12. Une vieille et grave mélodie (1939, L'Amour et l'Occident)
                         </div>
                         <aside id="note10" role="note" class="note note">
                           <p class="noindent"><a class="noteback" href="2#note10_">10. </a>Gottfried de Strasbourg insiste avec cynisme :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">« Ce fut ainsi chose manifeste — Et avérée devant tous — Que le très glorieux Christ — Se plie comme une étoffe dont on s’habille — Il se prête au gré de tous — Soit à la sincérité soit à la tromperie — Il est toujours ce qu’on veut qu’il soit… »</div>
-                          </q>
+                          </blockquote>
                         </aside>
                         <aside id="note11" role="note" class="note note"><a class="noteback" href="2#note11_">11. </a>Et qu’il avait conquise de plein droit <em>pour lui-même</em> en la délivrant du dragon — comme ne manque pas de le souligner Thomas.</aside>
                       </div>
@@ -648,13 +648,13 @@ body-2-12	I.12. Une vieille et grave mélodie (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
                       <a href="#">I. Le mythe de Tristan</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">I.1. Triomphe du roman, et ce qu’il cache</a>
                         </li>
@@ -691,7 +691,7 @@ body-2-12	I.12. Une vieille et grave mélodie (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="2#body-2-12">I.12. Une vieille et grave mélodie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">II. Les origines religieuses du mythe</a>
@@ -714,7 +714,7 @@ body-2-12	I.12. Une vieille et grave mélodie (1939, L'Amour et l'Occident)
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1695,7 +1695,7 @@ body-3-12	II.12. Premières conclusions (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1704,7 +1704,7 @@ body-3-12	II.12. Premières conclusions (1939, L'Amour et l'Occident)
                     </li>
                     <li class="here">
                       <a href="#">II. Les origines religieuses du mythe</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">II.1. L’« obstacle » naturel et sacré</a>
                         </li>
@@ -1741,7 +1741,7 @@ body-3-12	II.12. Premières conclusions (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="3#body-3-12">II.12. Premières conclusions</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">III. Passion et mystique</a>
@@ -1761,7 +1761,7 @@ body-3-12	II.12. Premières conclusions (1939, L'Amour et l'Occident)
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2270,7 +2270,7 @@ body-4-8	III.8. Crépuscule de l’amour-passion (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2282,7 +2282,7 @@ body-4-8	III.8. Crépuscule de l’amour-passion (1939, L'Amour et l'Occident)
                     </li>
                     <li class="here">
                       <a href="#">III. Passion et mystique</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">III.1. Position du problème</a>
                         </li>
@@ -2307,7 +2307,7 @@ body-4-8	III.8. Crépuscule de l’amour-passion (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="4#body-4-8">III.8. Crépuscule de l’amour-passion</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">IV. Le mythe dans la littérature</a>
@@ -2324,7 +2324,7 @@ body-4-8	III.8. Crépuscule de l’amour-passion (1939, L'Amour et l'Occident)
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3319,18 +3319,18 @@ body-5-21	IV.21. La passion dans tous les domaines (1939, L'Amour et l'Occident)
                         </div>
                         <aside id="note146" role="note" class="note note">
                           <p class="noindent"><a class="noteback" href="5#note146_">146. </a>Rappelons que l’amour fameux d’Abélard et Héloïse est <em>le premier exemple historique</em> de la passion dont nous parlons ici. Voici le <em>Chant funèbre</em> d’Héloïse composé (par elle-même ?) en vers latins (cité par <span class="sc">Rémusat</span> : <em>Abélard</em>, t. I). L’amante supplie :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">Soulage-moi de ma croix.</div>
                             <div class="l">Conduis vers la lumière</div>
                             <div class="l">Mon âme délivrée !</div>
-                          </q>
+                          </blockquote>
                           <p class="p autofirst">Et le chœur des religieuses reprend :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">Qu’ils se reposent de leur labeur</div>
                             <div class="l">Et de leur douloureux amour !</div>
                             <div class="l">Ils demandaient l’union des habitants des deux :</div>
                             <div class="l">Déjà ils sont entrés dans le sanctuaire du Sauveur.</div>
-                          </q>
+                          </blockquote>
                           <p class="p autofirst">Abélard répondit assez mal à cette passion. Mais sa théologie, fort hérétique, se rapproche sur des points essentiels de la doctrine spiritualiste des Cathares. Et dans ses <em>Lamentations</em>, il laisse échapper le grand cri du romantisme et de Tristan : « <em>Amoris impulsio culpae justificatio</em>. »</p>
                         </aside>
                       </div>
@@ -3435,7 +3435,7 @@ body-5-21	IV.21. La passion dans tous les domaines (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3450,7 +3450,7 @@ body-5-21	IV.21. La passion dans tous les domaines (1939, L'Amour et l'Occident)
                     </li>
                     <li class="here">
                       <a href="#">IV. Le mythe dans la littérature</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">IV.1. D’une influence précise de la littérature sur les mœurs</a>
                         </li>
@@ -3514,7 +3514,7 @@ body-5-21	IV.21. La passion dans tous les domaines (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="5#body-5-21">IV.21. La passion dans tous les domaines</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">V. Amour et guerre</a>
@@ -3528,7 +3528,7 @@ body-5-21	IV.21. La passion dans tous les domaines (1939, L'Amour et l'Occident)
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3768,7 +3768,7 @@ body-6-11	V.11. La passion transportée dans la politique (1939, L'Amour et l'Oc
                         <p class="p">Mais nous la voyons maintenant (1903) encore nationale, et cela pour conquérir des avantages commerciaux des traités de commerce avantageux.</p>
                         <p class="p">Après avoir été le moyen violent que les peuples employaient pour se faire une place dans le monde en tant que nations, elle devient le moyen qu’ils pratiquent encore pour s’enrichir.</p>
                       </blockquote>
-                      <p class="p autofirst"><i class="fr i" lang="fr">Trades follows the flag</i>, le commerce suit le drapeau, disent les Anglais. Ce fut la période coloniale, la dernière « paix » méritée par l’Europe. On a marqué plus haut (Livre IV, chap. 19) que cette période, du point de vue des mœurs et de leur littérature, se définit par une dernière tentative de mythification de la passion. Réaction que l’on n’oserait pas comparer à la chevalerie, bien qu’elle remplît la même fonction sociale, (mais à la mesure de notre société). Ce n’était plus, en effet, un principe spirituel qui inspirait les « formes » et les conventions, mais des calculs d’intérêts privés, incapables de fournir les bases d’une communauté solide. La Nation même que l’on invoquait avait perdu de son prestige romantique : le pavillon couvrait les intérêts de l’État,-non les passions ou l’honneur des élites. Et l’État ne jouait plus guère que le rôle honorifique d’un conseil d’administration, faisant la guerre pour des motifs bancaires (conquête de Madagascar). La guerre coloniale n’est en somme que 
+                      <p class="p autofirst"><i class="fr i" lang="fr">Trades follows the flag</i>, le commerce suit le drapeau, disent les Anglais. Ce fut la période coloniale, la dernière « paix » méritée par l’Europe. On a marqué plus haut (Livre IV, chap. 19) que cette période, du point de vue des mœurs et de leur littérature, se définit par une dernière tentative de mythification de la passion. Réaction que l’on n’oserait pas comparer à la chevalerie, bien qu’elle remplît la même fonction sociale, (mais à la mesure de notre société). Ce n’était plus, en effet, un principe spirituel qui inspirait les « formes » et les conventions, mais des calculs d’intérêts privés, incapables de fournir les bases d’une communauté solide. La Nation même que l’on invoquait avait perdu de son prestige romantique : le pavillon couvrait les intérêts de l’État, — non les passions ou l’honneur des élites. Et l’État ne jouait plus guère que le rôle honorifique d’un conseil d’administration, faisant la guerre pour des motifs bancaires (conquête de Madagascar). La guerre coloniale n’est en somme que 
 <a class="pb" href="#p265" id="p265">[p. 265]</a>
  la continuation de la concurrence capitaliste par des moyens plus onéreux pour le pays, sinon pour les grandes compagnies.</p>
                       <p class="p">Vers la fin du dix-neuvième siècle, l’amour<a class="noteref" href="6#note180" id="note180_"><sup>180</sup></a> était devenu, dans les classes bourgeoises, un bien bizarre mélange de sentimentalisme à fleur de nerfs et d’histoires de rentes et de dots : ce qu’il n’a pas cessé d’être aujourd’hui dans les annonces matrimoniales. La sexualité pure n’intervenait que pour « troubler » ces petits calculs et ces « beaux sentiments » de série. (Comme une goutte d’eau « trouble » l’absinthe, et c’est pourquoi Jarry dit que l’eau est impure). De même la guerre était un composé d’excitations de l’opinion publique — qu’est-ce que la « revanche », sinon un sentimentalisme national ? — et de plans commerciaux ou financiers. L’élément proprement guerrier n’y trouvait plus son compte qu’en contrebande. La guerre s’embourgeoisait. Le sang se commercialisait. Le type du militaire apparaissait déjà comme une anomalie, aux yeux des réalistes, ou comme une survivance flatteuse aux yeux des femmes et des badauds curieux. (C’est ainsi que les démocraties s’excitent sur les mariages princiers.)</p>
@@ -3947,7 +3947,7 @@ body-6-11	V.11. La passion transportée dans la politique (1939, L'Amour et l'Oc
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3965,7 +3965,7 @@ body-6-11	V.11. La passion transportée dans la politique (1939, L'Amour et l'Oc
                     </li>
                     <li class="here">
                       <a href="#">V. Amour et guerre</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">V.1. Parallélisme des formes</a>
                         </li>
@@ -3999,7 +3999,7 @@ body-6-11	V.11. La passion transportée dans la politique (1939, L'Amour et l'Oc
                         <li class="collateral">
                           <a href="6#body-6-11">V.11. La passion transportée dans la politique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">VI. Le mythe contre le mariage</a>
@@ -4010,7 +4010,7 @@ body-6-11	V.11. La passion transportée dans la politique (1939, L'Amour et l'Oc
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4281,7 +4281,7 @@ body-7-4	VI.4. De l’anarchie à l’eugénisme (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4302,7 +4302,7 @@ body-7-4	VI.4. De l’anarchie à l’eugénisme (1939, L'Amour et l'Occident)
                     </li>
                     <li class="here">
                       <a href="#">VI. Le mythe contre le mariage</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7#body-7-1">VI.1. Crise moderne du mariage</a>
                         </li>
@@ -4315,7 +4315,7 @@ body-7-4	VI.4. De l’anarchie à l’eugénisme (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="7#body-7-4">VI.4. De l’anarchie à l’eugénisme</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">VII. L’Amour action, ou de la fidélité</a>
@@ -4323,7 +4323,7 @@ body-7-4	VI.4. De l’anarchie à l’eugénisme (1939, L'Amour et l'Occident)
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4693,7 +4693,7 @@ body-8-7	VII.7. Au-delà de la tragédie (1939, L'Amour et l'Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4717,7 +4717,7 @@ body-8-7	VII.7. Au-delà de la tragédie (1939, L'Amour et l'Occident)
                     </li>
                     <li class="here">
                       <a href="#">VII. L’Amour action, ou de la fidélité</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8#body-8-1">VII.1. Nécessité d’un parti pris</a>
                         </li>
@@ -4739,12 +4739,12 @@ body-8-7	VII.7. Au-delà de la tragédie (1939, L'Amour et l'Occident)
                         <li class="collateral">
                           <a href="8#body-8-7">VII.7. Au-delà de la tragédie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="9">Appendices</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5248,7 +5248,7 @@ La conception chevaleresque constituait pour l’esprit superficiel de ces auteu
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -5275,7 +5275,7 @@ La conception chevaleresque constituait pour l’esprit superficiel de ces auteu
                     </li>
                     <li class="here">
                       <a href="#">Appendices</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9#body-9-1">1. – Caractère sacré de la légende</a>
                         </li>
@@ -5306,9 +5306,9 @@ La conception chevaleresque constituait pour l’esprit superficiel de ces auteu
                         <li class="collateral">
                           <a href="9#body-9-10">Notice bibliographique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

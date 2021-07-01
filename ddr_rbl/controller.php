@@ -2,12 +2,15 @@
 namespace Concrete\Package\Ddrrbl;
 
 use Package;
+use PageType;
+use PageTemplate;
+
 
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_rbl';
-  protected $pkgVersion = '20.09.17';
-  protected $title = 'Articles parus dans Revue de Belles-Lettres (1926–1968)';
+  protected $pkgVersion = '21.06.30';
+  protected $title = 'Revue de Belles-Lettres, articles (1926–1968)';
   protected $bookpath = '/articles/rbl';
 
   public function getPackageName()
@@ -25,15 +28,15 @@ class Controller extends Package
   {
     $bookPage = \Page::getByPath($this->bookpath);
     if($bookPage->isError()) {
-      \Log::addWarning("Livre créé automatiquement: ".$this->bookpath);
-      $parentPage = \Page::getByPath(dirname($this->bookpath));
-      $pageType = \PageType::getByHandle('livre');
-      $template = \PageTemplate::getByHandle('livre');
-      $bookPage = $parentPage->add($pageType, array(
-          'cName' => $this->title,
-          'cHandle' => basename($this->bookpath),
-        ), $template
-      );
+      $sectionPage = \Page::getByPath(dirname($this->bookpath));
+      $type = PageType::getByHandle('livre');
+      $template = PageTemplate::getByHandle('livre'); // ?? parfois bugue
+      $bookPage = $sectionPage->add($type, array(
+        'cName' => $this->title,
+        'cHandle' => basename($this->bookpath),
+      ), $template);
+      \Log::addWarning($this->bookpath. ", créé automatiquement pour installer les chapitres.");
+
     }
     $this->installXml();
     $pkg = parent::install();

@@ -5,7 +5,7 @@
   xmlns:tei="http://www.tei-c.org/ns/1.0"
   exclude-result-prefixes="tei" 
   >
-  <xsl:import href="../../Teinte/xsl/toc.xsl"/>
+  <xsl:import href="../../teinte/xsl/toc.xsl"/>
   <xsl:output indent="yes" encoding="UTF-8" method="xml" omit-xml-declaration="yes"/>
   <xsl:variable name="split" select="true()"/>
   <xsl:key name="split" match="

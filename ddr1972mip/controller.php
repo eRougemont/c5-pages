@@ -9,8 +9,8 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1972mip';
-  protected $pkgVersion = '20.10.05';
-  protected $title = 'Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits';
+  protected $pkgVersion = '21.01.28';
+  protected $title = 'Les Méfaits de l’instruction publique (1972)';
   protected $bookpath = '/livres/ddr1972mip';
 
   public function getPackageName()

@@ -90,7 +90,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -109,7 +109,7 @@
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -375,13 +375,13 @@ body-2-12	12. Le psychanalyste confondu (1942, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’Incognito et la Révélation</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">1. Le premier tour</a>
                         </li>
@@ -418,7 +418,7 @@ body-2-12	12. Le psychanalyste confondu (1942, La Part du Diable)
                         <li class="collateral">
                           <a href="2#body-2-12">12. Le psychanalyste confondu</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">II. Hitler ou l’alibi</a>
@@ -432,7 +432,7 @@ body-2-12	12. Le psychanalyste confondu (1942, La Part du Diable)
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -607,7 +607,7 @@ body-3-8	20. Le Faussaire (1942, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -616,7 +616,7 @@ body-3-8	20. Le Faussaire (1942, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">II. Hitler ou l’alibi</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">13. Où paraît la nécessité d’un alibi</a>
                         </li>
@@ -641,7 +641,7 @@ body-3-8	20. Le Faussaire (1942, La Part du Diable)
                         <li class="collateral">
                           <a href="3#body-3-8">20. Le Faussaire</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">III. Le Diable démocrate</a>
@@ -652,7 +652,7 @@ body-3-8	20. Le Faussaire (1942, La Part du Diable)
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -844,7 +844,7 @@ body-4-6	26. Une bonne adresse (1942, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -856,7 +856,7 @@ body-4-6	26. Une bonne adresse (1942, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">III. Le Diable démocrate</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">21. Erreur fatale des démocrates</a>
                         </li>
@@ -875,7 +875,7 @@ body-4-6	26. Une bonne adresse (1942, La Part du Diable)
                         <li class="collateral">
                           <a href="4#body-4-6">26. Une bonne adresse</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">IV. Le Diable dans nos dieux et dans nos maladies</a>
@@ -883,7 +883,7 @@ body-4-6	26. Une bonne adresse (1942, La Part du Diable)
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1350,7 +1350,7 @@ body-5-16	42. Ce livre est-il sans issue ? (1942, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -1365,7 +1365,7 @@ body-5-16	42. Ce livre est-il sans issue ? (1942, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">IV. Le Diable dans nos dieux et dans nos maladies</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">27. Le Diable dans nos dieux</a>
                         </li>
@@ -1414,12 +1414,12 @@ body-5-16	42. Ce livre est-il sans issue ? (1942, La Part du Diable)
                         <li class="collateral">
                           <a href="5#body-5-16">42. Ce livre est-il sans issue ?</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1616,7 +1616,7 @@ body-6-8	50. Le Bleu du Ciel (1942, La Part du Diable)
 <a class="pb" href="#pb174" id="pb174">[p. 174]</a>
  de ses semblables. Tout cela se tient. <i class="i">Sens du prochain, responsabilité</i>, et <i class="i">liberté</i> sont choses intimement liées ; elles s’engendrent mutuellement et ne peuvent subsister bien longtemps l’une sans l’autre. Et l’ordre naît de leur alliance.</p>
                       <p class="p">Ceux qui n’ont pas encore compris que la liberté est le fondement vivant de l’ordre ; qu’elle ne peut être donnée à personne, mais seulement conquise par chacun ; qu’elle est « incompatible avec la faiblesse », comme le disait Vauvenargues, c’est-à-dire incompatible avec l’égoïsme, l’insignifiance et l’esprit de combine, l’arrivisme, l’opportunisme et la fuite devant les responsabilités, la bêtise vaniteuse et la paresse de pensée, le respect de l’argent, le ton hâbleur, le bluff et le sentimentalisme qui font toute la démagogie, le culte du succès facile et hasardeux, la peur des coups, la peur des paroles claires, — bref : tout ce qui caractérise les mœurs politiciennes de nos pseudo-démocraties, et les goûts de leur « grand public » tels que les entretiennent et les exploitent le cinéma, les mauvais livres à gros tirage et la publicité ; ceux qui n’ont pas encore compris que la liberté est foncièrement incompatible avec tout cela ; ceux qui ne savent pas prouver qu’ils l’ont compris — ceux-là n’ont aucun droit de se dire démocrates, ils ne méritent rien de mieux qu’Hitler.</p>
-                      <p class="p"><a id="_GoBack">‌</a>
+                      <p class="p">
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  Ceux qui n’ont pas encore compris que liberté égale responsabilité, ceux-là n’ont aucun droit de revendiquer une liberté dont ils ne sauraient rien tirer s’ils la recevaient par impossible, et qui leur ferait plus peur qu’envie s’ils en savaient les conditions.</p>
                       <p class="p">Mais il serait insuffisant de démasquer l’hypocrisie, et Dieu sait si les mots démocratie et liberté en sont une, pitoyable ou scandaleuse, dans la bouche de milliers de nigauds ou de cyniques qui s’en prévalent. Ce serait insuffisant et même dangereux. Car cette hypocrisie est encore un hommage que la faiblesse des foules rend à quelque idéal très obscurément pressenti.</p>
@@ -1714,7 +1714,7 @@ body-6-8	50. Le Bleu du Ciel (1942, La Part du Diable)
                       <p class="p">On dit que le Démon aime l’heure de minuit. Ah ! tournons-nous, le visage levé, vers le symbole universel de la rigueur et de la paix profonde du pardon, et baignons un regard aux étendues de pureté ardente et dure du bleu du ciel au cœur du jour !</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb157">p. 157</a>
@@ -1785,7 +1785,7 @@ body-6-8	50. Le Bleu du Ciel (1942, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -1803,7 +1803,7 @@ body-6-8	50. Le Bleu du Ciel (1942, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">V. Le Bleu du Ciel</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">43. La lutte contre le Diable</a>
                         </li>
@@ -1828,9 +1828,9 @@ body-6-8	50. Le Bleu du Ciel (1942, La Part du Diable)
                         <li class="collateral">
                           <a href="6#body-6-8">50. Le Bleu du Ciel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

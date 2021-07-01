@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1982, La Part du Diable)</value>
+          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -100,7 +100,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -122,7 +122,7 @@
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -136,7 +136,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I. L’Incognito et la révélation (1982, La Part du Diable)</value>
+          <value>I. L’Incognito et la révélation (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -154,7 +154,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -171,20 +171,20 @@
           <value>1. Le premier tour – 2. L’incognito – 3. Pour ceux qui n’en voient que la queue – 4. Réalité du mythe – 5. L’Ange déchu – 6. Le Prince de ce monde – 7. Le Tentateur – 8. « Connaissant le Bien et le Mal » – 9. Le menteur – 10. L’accusateur – 11. Légion – 12. Le sophisme – 13. Diable et péché – 14. Le psychanalyste confondu</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-2-1	1. Le premier tour (1982, La Part du Diable)
-body-2-2	2. L’incognito (1982, La Part du Diable)
-body-2-3	3. Pour ceux qui n’en voient que la queue (1982, La Part du Diable)
-body-2-4	4. Réalité du mythe (1982, La Part du Diable)
-body-2-5	5. L’Ange déchu (1982, La Part du Diable)
-body-2-6	6. Le Prince de ce monde (1982, La Part du Diable)
-body-2-7	7. Le Tentateur (1982, La Part du Diable)
-body-2-8	8. « Connaissant le Bien et le Mal » (1982, La Part du Diable)
-body-2-9	9. Le menteur (1982, La Part du Diable)
-body-2-10	10. L’accusateur (1982, La Part du Diable)
-body-2-11	11. Légion (1982, La Part du Diable)
-body-2-12	12. Le sophisme (1982, La Part du Diable)
-body-2-13	13. Diable et péché (1982, La Part du Diable)
-body-2-14	14. Le psychanalyste confondu (1982, La Part du Diable)
+          <value>body-2-1	1. Le premier tour (1942, La Part du Diable (1982))
+body-2-2	2. L’incognito (1942, La Part du Diable (1982))
+body-2-3	3. Pour ceux qui n’en voient que la queue (1942, La Part du Diable (1982))
+body-2-4	4. Réalité du mythe (1942, La Part du Diable (1982))
+body-2-5	5. L’Ange déchu (1942, La Part du Diable (1982))
+body-2-6	6. Le Prince de ce monde (1942, La Part du Diable (1982))
+body-2-7	7. Le Tentateur (1942, La Part du Diable (1982))
+body-2-8	8. « Connaissant le Bien et le Mal » (1942, La Part du Diable (1982))
+body-2-9	9. Le menteur (1942, La Part du Diable (1982))
+body-2-10	10. L’accusateur (1942, La Part du Diable (1982))
+body-2-11	11. Légion (1942, La Part du Diable (1982))
+body-2-12	12. Le sophisme (1942, La Part du Diable (1982))
+body-2-13	13. Diable et péché (1942, La Part du Diable (1982))
+body-2-14	14. Le psychanalyste confondu (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -506,13 +506,13 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’Incognito et la révélation</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">1.  Le premier tour</a>
                         </li>
@@ -555,7 +555,7 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
                         <li class="collateral">
                           <a href="2#body-2-14">14.  Le psychanalyste confondu</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">II. Hitler ou l’alibi</a>
@@ -572,7 +572,7 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -586,7 +586,7 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II. Hitler ou l’alibi (1982, La Part du Diable)</value>
+          <value>II. Hitler ou l’alibi (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -604,7 +604,7 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -621,15 +621,15 @@ l’intelligence : elle prit de son fruit et en mangea.<a class="noteref" href=
           <value>15. Où paraît la nécessité d’un alibi – 16. Le deuxième tour – 17. Hitler est-il l’Antéchrist ? – 18. Le Diable en chemise brune – 19. Le Directeur d’inconscience – 20. Midas prolétarien – 21. Le Fléau de Dieu – 22. Le Faussaire – 23. Après Hitler</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-1	15. Où paraît la nécessité d’un alibi (1982, La Part du Diable)
-body-3-2	16. Le deuxième tour (1982, La Part du Diable)
-body-3-3	17. Hitler est-il l’Antéchrist ? (1982, La Part du Diable)
-body-3-4	18. Le Diable en chemise brune (1982, La Part du Diable)
-body-3-5	19. Le Directeur d’inconscience (1982, La Part du Diable)
-body-3-6	20. Midas prolétarien (1982, La Part du Diable)
-body-3-7	21. Le Fléau de Dieu (1982, La Part du Diable)
-body-3-8	22. Le Faussaire (1982, La Part du Diable)
-body-3-9	23. Après Hitler (1982, La Part du Diable)
+          <value>body-3-1	15. Où paraît la nécessité d’un alibi (1942, La Part du Diable (1982))
+body-3-2	16. Le deuxième tour (1942, La Part du Diable (1982))
+body-3-3	17. Hitler est-il l’Antéchrist ? (1942, La Part du Diable (1982))
+body-3-4	18. Le Diable en chemise brune (1942, La Part du Diable (1982))
+body-3-5	19. Le Directeur d’inconscience (1942, La Part du Diable (1982))
+body-3-6	20. Midas prolétarien (1942, La Part du Diable (1982))
+body-3-7	21. Le Fléau de Dieu (1942, La Part du Diable (1982))
+body-3-8	22. Le Faussaire (1942, La Part du Diable (1982))
+body-3-9	23. Après Hitler (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -822,7 +822,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -831,7 +831,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">II. Hitler ou l’alibi</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">15.  Où paraît la nécessité d’un alibi</a>
                         </li>
@@ -859,7 +859,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
                         <li class="collateral">
                           <a href="3#body-3-9">23.  Après Hitler</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">III. Le Diable démocrate</a>
@@ -873,7 +873,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -887,7 +887,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>III. Le Diable démocrate (1982, La Part du Diable)</value>
+          <value>III. Le Diable démocrate (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -905,7 +905,7 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -922,20 +922,20 @@ body-3-9	23. Après Hitler (1982, La Part du Diable)
           <value>24. Erreur fatale des démocrates – 25. Notre primitivisme – 26. « Nous sommes tous coupables » – 27. Signalement du Diable déguisé en démocrate – 28. L’Humour et la démocratie – 29. Le Démon de la Liberté – 30. Le Démon de la Police – 31. Le Démon de la Sécurité – 32. Le démon de l’insignifiance – 33. Brève histoire d’un couple correct – 34. Le démon de la popularité – 35. Paradoxe de la démocratie – 36. La cinquième colonne de tous les temps – 37. Une bonne adresse</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-4-1	24. Erreur fatale des démocrates (1982, La Part du Diable)
-body-4-2	25. Notre primitivisme (1982, La Part du Diable)
-body-4-3	26. « Nous sommes tous coupables » (1982, La Part du Diable)
-body-4-4	27. Signalement du Diable déguisé en démocrate (1982, La Part du Diable)
-body-4-5	28. L’Humour et la démocratie (1982, La Part du Diable)
-body-4-6	29. Le Démon de la Liberté (1982, La Part du Diable)
-body-4-7	30. Le Démon de la Police (1982, La Part du Diable)
-body-4-8	31. Le Démon de la Sécurité (1982, La Part du Diable)
-body-4-9	32. Le démon de l’insignifiance (1982, La Part du Diable)
-body-4-10	33. Brève histoire d’un couple correct (1982, La Part du Diable)
-body-4-11	34. Le démon de la popularité (1982, La Part du Diable)
-body-4-12	35. Paradoxe de la démocratie (1982, La Part du Diable)
-body-4-13	36. La cinquième colonne de tous les temps (1982, La Part du Diable)
-body-4-14	37. Une bonne adresse (1982, La Part du Diable)
+          <value>body-4-1	24. Erreur fatale des démocrates (1942, La Part du Diable (1982))
+body-4-2	25. Notre primitivisme (1942, La Part du Diable (1982))
+body-4-3	26. « Nous sommes tous coupables » (1942, La Part du Diable (1982))
+body-4-4	27. Signalement du Diable déguisé en démocrate (1942, La Part du Diable (1982))
+body-4-5	28. L’Humour et la démocratie (1942, La Part du Diable (1982))
+body-4-6	29. Le Démon de la Liberté (1942, La Part du Diable (1982))
+body-4-7	30. Le Démon de la Police (1942, La Part du Diable (1982))
+body-4-8	31. Le Démon de la Sécurité (1942, La Part du Diable (1982))
+body-4-9	32. Le démon de l’insignifiance (1942, La Part du Diable (1982))
+body-4-10	33. Brève histoire d’un couple correct (1942, La Part du Diable (1982))
+body-4-11	34. Le démon de la popularité (1942, La Part du Diable (1982))
+body-4-12	35. Paradoxe de la démocratie (1942, La Part du Diable (1982))
+body-4-13	36. La cinquième colonne de tous les temps (1942, La Part du Diable (1982))
+body-4-14	37. Une bonne adresse (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -1212,7 +1212,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -1224,7 +1224,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">III. Le Diable démocrate</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">24.  Erreur fatale des démocrates</a>
                         </li>
@@ -1267,7 +1267,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
                         <li class="collateral">
                           <a href="4#body-4-14">37.  Une bonne adresse</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">IV. Le Diable dans nos Dieux et dans nos maladies</a>
@@ -1278,7 +1278,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1292,7 +1292,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>IV. Le Diable dans nos Dieux et dans nos maladies (1982, La Part du Diable)</value>
+          <value>IV. Le Diable dans nos Dieux et dans nos maladies (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1310,7 +1310,7 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -1327,27 +1327,27 @@ body-4-14	37. Une bonne adresse (1982, La Part du Diable)
           <value>38. Le Diable dans nos dieux – 39. Le Diable dans l’Église – 40. Le Diable théologien – 41. Le Diable et le philanthrope – 42. Le Diable homme du monde – 43. Mr. Time, l’homme d’affaires pressé – 44. Le Diable auteur – 45. Le pacte avec le Diable – 46. Le Diable tire les cartes – 47. Le mal du siècle : la dépersonnalisation – 48. La Tour de Babel – 49. L’ennui, sentiment moderne – 50. « Vital » et autres sophismes – 51. Le Diable au cœur – 52. La passion – 53. Diable et sexe – 54. L’Éternel Féminin – 55. La bastonnade (dessin animé) – 56. Situations sans issue – 57. Le coup de pistolet – 58. Ce livre est-il sans issue ?</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-5-1	38. Le Diable dans nos dieux (1982, La Part du Diable)
-body-5-2	39. Le Diable dans l’Église (1982, La Part du Diable)
-body-5-3	40. Le Diable théologien (1982, La Part du Diable)
-body-5-4	41. Le Diable et le philanthrope (1982, La Part du Diable)
-body-5-5	42. Le Diable homme du monde (1982, La Part du Diable)
-body-5-6	43. Mr. Time, l’homme d’affaires pressé (1982, La Part du Diable)
-body-5-7	44. Le Diable auteur (1982, La Part du Diable)
-body-5-8	45. Le pacte avec le Diable (1982, La Part du Diable)
-body-5-9	46. Le Diable tire les cartes (1982, La Part du Diable)
-body-5-10	47. Le mal du siècle : la dépersonnalisation (1982, La Part du Diable)
-body-5-11	48. La Tour de Babel (1982, La Part du Diable)
-body-5-12	49. L’ennui, sentiment moderne (1982, La Part du Diable)
-body-5-13	50. « Vital » et autres sophismes (1982, La Part du Diable)
-body-5-14	51. Le Diable au cœur (1982, La Part du Diable)
-body-5-15	52. La passion (1982, La Part du Diable)
-body-5-16	53. Diable et sexe (1982, La Part du Diable)
-body-5-17	54. L’Éternel Féminin (1982, La Part du Diable)
-body-5-18	55. La bastonnade (dessin animé) (1982, La Part du Diable)
-body-5-19	56. Situations sans issue (1982, La Part du Diable)
-body-5-20	57. Le coup de pistolet (1982, La Part du Diable)
-body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
+          <value>body-5-1	38. Le Diable dans nos dieux (1942, La Part du Diable (1982))
+body-5-2	39. Le Diable dans l’Église (1942, La Part du Diable (1982))
+body-5-3	40. Le Diable théologien (1942, La Part du Diable (1982))
+body-5-4	41. Le Diable et le philanthrope (1942, La Part du Diable (1982))
+body-5-5	42. Le Diable homme du monde (1942, La Part du Diable (1982))
+body-5-6	43. Mr. Time, l’homme d’affaires pressé (1942, La Part du Diable (1982))
+body-5-7	44. Le Diable auteur (1942, La Part du Diable (1982))
+body-5-8	45. Le pacte avec le Diable (1942, La Part du Diable (1982))
+body-5-9	46. Le Diable tire les cartes (1942, La Part du Diable (1982))
+body-5-10	47. Le mal du siècle : la dépersonnalisation (1942, La Part du Diable (1982))
+body-5-11	48. La Tour de Babel (1942, La Part du Diable (1982))
+body-5-12	49. L’ennui, sentiment moderne (1942, La Part du Diable (1982))
+body-5-13	50. « Vital » et autres sophismes (1942, La Part du Diable (1982))
+body-5-14	51. Le Diable au cœur (1942, La Part du Diable (1982))
+body-5-15	52. La passion (1942, La Part du Diable (1982))
+body-5-16	53. Diable et sexe (1942, La Part du Diable (1982))
+body-5-17	54. L’Éternel Féminin (1942, La Part du Diable (1982))
+body-5-18	55. La bastonnade (dessin animé) (1942, La Part du Diable (1982))
+body-5-19	56. Situations sans issue (1942, La Part du Diable (1982))
+body-5-20	57. Le coup de pistolet (1942, La Part du Diable (1982))
+body-5-21	58. Ce livre est-il sans issue ? (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -1820,7 +1820,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -1835,7 +1835,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">IV. Le Diable dans nos Dieux et dans nos maladies</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">38.  Le Diable dans nos dieux</a>
                         </li>
@@ -1899,7 +1899,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
                         <li class="collateral">
                           <a href="5#body-5-21">58.  Ce livre est-il sans issue ?</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">V. Le Bleu du Ciel</a>
@@ -1907,7 +1907,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1921,7 +1921,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>V. Le Bleu du Ciel (1982, La Part du Diable)</value>
+          <value>V. Le Bleu du Ciel (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1939,7 +1939,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -1956,14 +1956,14 @@ body-5-21	58. Ce livre est-il sans issue ? (1982, La Part du Diable)
           <value>59. La lutte contre le Diable – 60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel – 61. L’exorcisme, ou l’ordre personnel – 62. L’ordre cosmique – 63. L’ordre social – 64. Le sens des mots – 65. Vertus – 66. Le Bleu du Ciel</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-6-1	59. La lutte contre le Diable (1982, La Part du Diable)
-body-6-2	60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel (1982, La Part du Diable)
-body-6-3	61. L’exorcisme, ou l’ordre personnel (1982, La Part du Diable)
-body-6-4	62. L’ordre cosmique (1982, La Part du Diable)
-body-6-5	63. L’ordre social (1982, La Part du Diable)
-body-6-6	64. Le sens des mots (1982, La Part du Diable)
-body-6-7	65. Vertus (1982, La Part du Diable)
-body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
+          <value>body-6-1	59. La lutte contre le Diable (1942, La Part du Diable (1982))
+body-6-2	60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel (1942, La Part du Diable (1982))
+body-6-3	61. L’exorcisme, ou l’ordre personnel (1942, La Part du Diable (1982))
+body-6-4	62. L’ordre cosmique (1942, La Part du Diable (1982))
+body-6-5	63. L’ordre social (1942, La Part du Diable (1982))
+body-6-6	64. Le sens des mots (1942, La Part du Diable (1982))
+body-6-7	65. Vertus (1942, La Part du Diable (1982))
+body-6-8	66. Le Bleu du Ciel (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -2203,7 +2203,7 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
                       </p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p189">p. 189</a>
@@ -2275,7 +2275,7 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -2293,7 +2293,7 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">V. Le Bleu du Ciel</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">59.  La lutte contre le Diable</a>
                         </li>
@@ -2318,12 +2318,12 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
                         <li class="collateral">
                           <a href="6#body-6-8">66.  Le Bleu du Ciel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">Postface après quarante ans</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2337,7 +2337,7 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Postface après quarante ans (1982, La Part du Diable)</value>
+          <value>Postface après quarante ans (1942, La Part du Diable (1982))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2355,7 +2355,7 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1982)",
+    "name": "La Part du Diable (1982) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
       "@type": "Book"
@@ -2372,27 +2372,27 @@ body-6-8	66. Le Bleu du Ciel (1982, La Part du Diable)
           <value>I – 5 West 16th Street, New York Fin décembre 1941 – Mercredi des Cendres, 18 février – 22 février – 26 février – 1er mars – 5 mars – 7 mars – 14 mars – 16 mars – 20 mars – 21 mars – 23 mars – 25 mars – II – Projection ? – Autocritique – III – La décréation – Le pacte avec le Diable – La néguentropie, c’est l’amour</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-7-1	I (1982, La Part du Diable)
-body-7-1-1	5 West 16th Street, New York Fin décembre 1941 (1982, La Part du Diable)
-body-7-1-2	Mercredi des Cendres, 18 février (1982, La Part du Diable)
-body-7-1-3	22 février (1982, La Part du Diable)
-body-7-1-4	26 février (1982, La Part du Diable)
-body-7-1-5	1er mars (1982, La Part du Diable)
-body-7-1-6	5 mars (1982, La Part du Diable)
-body-7-1-7	7 mars (1982, La Part du Diable)
-body-7-1-8	14 mars (1982, La Part du Diable)
-body-7-1-9	16 mars (1982, La Part du Diable)
-body-7-1-10	20 mars (1982, La Part du Diable)
-body-7-1-11	21 mars (1982, La Part du Diable)
-body-7-1-12	23 mars (1982, La Part du Diable)
-body-7-1-13	25 mars (1982, La Part du Diable)
-body-7-2	II (1982, La Part du Diable)
-body-7-2-1	Projection ? (1982, La Part du Diable)
-body-7-2-2	Autocritique (1982, La Part du Diable)
-body-7-3	III (1982, La Part du Diable)
-body-7-3-1	La décréation (1982, La Part du Diable)
-body-7-3-2	Le pacte avec le Diable (1982, La Part du Diable)
-body-7-3-3	La néguentropie, c’est l’amour (1982, La Part du Diable)
+          <value>body-7-1	I (1942, La Part du Diable (1982))
+body-7-1-1	5 West 16th Street, New York Fin décembre 1941 (1942, La Part du Diable (1982))
+body-7-1-2	Mercredi des Cendres, 18 février (1942, La Part du Diable (1982))
+body-7-1-3	22 février (1942, La Part du Diable (1982))
+body-7-1-4	26 février (1942, La Part du Diable (1982))
+body-7-1-5	1er mars (1942, La Part du Diable (1982))
+body-7-1-6	5 mars (1942, La Part du Diable (1982))
+body-7-1-7	7 mars (1942, La Part du Diable (1982))
+body-7-1-8	14 mars (1942, La Part du Diable (1982))
+body-7-1-9	16 mars (1942, La Part du Diable (1982))
+body-7-1-10	20 mars (1942, La Part du Diable (1982))
+body-7-1-11	21 mars (1942, La Part du Diable (1982))
+body-7-1-12	23 mars (1942, La Part du Diable (1982))
+body-7-1-13	25 mars (1942, La Part du Diable (1982))
+body-7-2	II (1942, La Part du Diable (1982))
+body-7-2-1	Projection ? (1942, La Part du Diable (1982))
+body-7-2-2	Autocritique (1942, La Part du Diable (1982))
+body-7-3	III (1942, La Part du Diable (1982))
+body-7-3-1	La décréation (1942, La Part du Diable (1982))
+body-7-3-2	Le pacte avec le Diable (1942, La Part du Diable (1982))
+body-7-3-3	La néguentropie, c’est l’amour (1942, La Part du Diable (1982))
 </value>
         </attributekey>
       </attributes>
@@ -2771,7 +2771,7 @@ body-7-3-3	La néguentropie, c’est l’amour (1982, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Que la connaissance du vrai danger nous guérit des fausses peurs</a>
                     </li>
@@ -2792,10 +2792,10 @@ body-7-3-3	La néguentropie, c’est l’amour (1982, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">Postface après quarante ans</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7#body-7-1">I</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-7-1-1">5 West 16th Street, New York Fin décembre 1941</a>
                             </li>
@@ -2835,22 +2835,22 @@ body-7-3-3	La néguentropie, c’est l’amour (1982, La Part du Diable)
                             <li class="collateral">
                               <a href="7#body-7-1-13">25 mars</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="7#body-7-2">II</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-7-2-1">Projection ?</a>
                             </li>
                             <li class="collateral">
                               <a href="7#body-7-2-2">Autocritique</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="7#body-7-3">III</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-7-3-1">La décréation</a>
                             </li>
@@ -2860,11 +2860,11 @@ body-7-3-3	La néguentropie, c’est l’amour (1982, La Part du Diable)
                             <li class="collateral">
                               <a href="7#body-7-3-3">La néguentropie, c’est l’amour</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

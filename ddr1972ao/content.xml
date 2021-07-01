@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Avertissement (1972, L’Amour et l’Occident)</value>
+          <value>Avertissement (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -79,7 +79,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
@@ -116,7 +116,7 @@
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -130,7 +130,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Préface à l’édition de 1956 (1972, L’Amour et l’Occident)</value>
+          <value>Préface à l’édition de 1956 (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -148,7 +148,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -204,7 +204,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -241,7 +241,7 @@
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -255,7 +255,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I. Le mythe de Tristan (1972, L’Amour et l’Occident)</value>
+          <value>I. Le mythe de Tristan (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -273,7 +273,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -290,18 +290,18 @@
           <value>I.1. Triomphe du roman, et ce qu’il cache – I.2. Le mythe – I.3. Actualité du mythe ; raisons de notre analyse – I.4. Le contenu manifeste du Roman de Tristan – I.5. Énigmes – I.6. Chevalerie contre Mariage – I.7. L’amour du roman – I.8. L’amour de l’amour – I.9. L’amour de la Mort – I.10. Le Philtre – I.11. L’amour réciproque malheureux – I.12. Une vieille et grave mélodie</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>I01	I.1. Triomphe du roman, et ce qu’il cache (1972, L’Amour et l’Occident)
-I02	I.2. Le mythe (1972, L’Amour et l’Occident)
-I03	I.3. Actualité du mythe ; raisons de notre analyse (1972, L’Amour et l’Occident)
-I04	I.4. Le contenu manifeste du Roman de Tristan (1972, L’Amour et l’Occident)
-I05	I.5. Énigmes (1972, L’Amour et l’Occident)
-I06	I.6. Chevalerie contre Mariage (1972, L’Amour et l’Occident)
-I07	I.7. L’amour du roman (1972, L’Amour et l’Occident)
-I08	I.8. L’amour de l’amour (1972, L’Amour et l’Occident)
-I09	I.9. L’amour de la Mort (1972, L’Amour et l’Occident)
-I10	I.10. Le Philtre (1972, L’Amour et l’Occident)
-I11	I.11. L’amour réciproque malheureux (1972, L’Amour et l’Occident)
-I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
+          <value>I01	I.1. Triomphe du roman, et ce qu’il cache (1939, L’Amour et l’Occident (1972))
+I02	I.2. Le mythe (1939, L’Amour et l’Occident (1972))
+I03	I.3. Actualité du mythe ; raisons de notre analyse (1939, L’Amour et l’Occident (1972))
+I04	I.4. Le contenu manifeste du Roman de Tristan (1939, L’Amour et l’Occident (1972))
+I05	I.5. Énigmes (1939, L’Amour et l’Occident (1972))
+I06	I.6. Chevalerie contre Mariage (1939, L’Amour et l’Occident (1972))
+I07	I.7. L’amour du roman (1939, L’Amour et l’Occident (1972))
+I08	I.8. L’amour de l’amour (1939, L’Amour et l’Occident (1972))
+I09	I.9. L’amour de la Mort (1939, L’Amour et l’Occident (1972))
+I10	I.10. Le Philtre (1939, L’Amour et l’Occident (1972))
+I11	I.11. L’amour réciproque malheureux (1939, L’Amour et l’Occident (1972))
+I12	I.12. Une vieille et grave mélodie (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -504,7 +504,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
                       <p class="p autofirst">Il faut avoir l’audace de poser la question : Tristan aime-t-il Iseut ? Est-il aimé par elle ? (Seules les questions « stupides » peuvent nous instruire, et tout ce qui passe 
 <a class="pb" href="#p40" id="p40">[p. 40]</a>
  pour évident cache quelque chose qui ne l’est point, comme l’a dit à peu près Valéry.)</p>
-                      <p class="p">Rien d<em>’humain</em> ne paraît rapprocher nos amants, bien au contraire. Lors de leur première rencontre, ils n’ont que des rapports de politesse conventionnelle. Et quand Tristan revient en quête d’Iseut, on se souvient que cette politesse fait place à la plus franche hostilité. Tout porte à croire que <em>librement</em> ils ne se fussent jamais choisis. Mais ils ont bu le philtre, et voici la passion. Une tendresse va-t-elle naître et les unir, à la faveur de ce destin magique ? Dans tout <em>le Roman</em>, dans ces milliers de vers, je n’en ai trouvé qu’une seule trace. C’est quand ils vivent dans la forêt de Morrois, après l’évasion de Tristan.</p>
+                      <p class="p">Rien d’<em>humain</em> ne paraît rapprocher nos amants, bien au contraire. Lors de leur première rencontre, ils n’ont que des rapports de politesse conventionnelle. Et quand Tristan revient en quête d’Iseut, on se souvient que cette politesse fait place à la plus franche hostilité. Tout porte à croire que <em>librement</em> ils ne se fussent jamais choisis. Mais ils ont bu le philtre, et voici la passion. Une tendresse va-t-elle naître et les unir, à la faveur de ce destin magique ? Dans tout <em>le Roman</em>, dans ces milliers de vers, je n’en ai trouvé qu’une seule trace. C’est quand ils vivent dans la forêt de Morrois, après l’évasion de Tristan.</p>
                       <blockquote class="quote">
                         <div class="l">Aspre vie meinent et dure :</div>
                         <div class="l">Tant s’entr’aiment de bonne amor</div>
@@ -557,7 +557,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
  C’est sur sa propre peine qu’il s’apitoie. Il n’a pas une pensée pour « s’amie ». Quant à elle, on sent bien qu’elle se trouve plus heureuse auprès du roi qu’auprès de son ami ; plus heureuse dans le malheur d’amour que dans leur vie commune du Morrois…</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">On sait d’ailleurs que par la suite, et bien que le philtre n’agisse plus, les amants seront repris par la passion, jusqu’au point qu’ils en perdront la vie, « lui par elle, elle par lui… »</p>
-                      <p class="p">L<em>’égoïsme</em> apparent d’un tel amour expliquerait à lui seul bien des « hasards », bien des malices opportunes du sort qui s’opposent au bonheur des amants. Mais comment l’expliquer lui-même, dans sa profonde ambiguïté ? Tout égoïsme, dit-on, mène à la mort, mais c’est par une ultime défaite. Celui-ci au contraire veut la mort comme son accomplissement parfait, comme son triomphe… Une seule réponse demeure ici digne du mythe.</p>
+                      <p class="p">L’<em>égoïsme</em> apparent d’un tel amour expliquerait à lui seul bien des « hasards », bien des malices opportunes du sort qui s’opposent au bonheur des amants. Mais comment l’expliquer lui-même, dans sa profonde ambiguïté ? Tout égoïsme, dit-on, mène à la mort, mais c’est par une ultime défaite. Celui-ci au contraire veut la mort comme son accomplissement parfait, comme son triomphe… Une seule réponse demeure ici digne du mythe.</p>
                       <p class="p">Tristan et Iseut ne s’aiment pas, ils l’ont dit et tout le confirme. <em>Ce qu’ils aiment, c’est l’amour, c’est le fait même d’aimer</em>. Et ils agissent comme s’ils avaient compris que tout ce qui s’oppose à l’amour le garantit et le consacre dans leur cœur, pour l’exalter à l’infini dans l’instant de l’obstacle absolu, qui est la mort.</p>
                       <p class="p">Tristan aime se sentir aimer, bien plus qu’il n’aime Iseut la Blonde. Et Iseut ne fait rien pour retenir Tristan près d’elle : il lui suffit d’un rêve passionné. Ils ont besoin l’un de l’autre pour brûler, mais non de l’autre tel qu’il est ; et non de la présence de l’autre, mais bien plutôt de son absence !</p>
                       <p class="p">La <em>séparation des amants résulte ainsi de leur passion même</em>, et de l’amour qu’ils portent à leur passion plutôt qu’à son contentement, plutôt qu’à son vivant objet. D’où les obstacles multipliés par <em>le Roman</em> ; d’où l’indifférence étonnante de ces complices d’un même 
@@ -580,7 +580,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
                       <p class="p">N’oublions pas que la hiérarchie des faits contés traduit exactement la hiérarchie des <em>préférences</em> du conteur et de son lecteur. L’obstacle le plus grave, c’est donc celui que l’on préfère par-dessus tout. C’est le plus propre à grandir la passion. Notons aussi qu’en cette extrémité, la volonté de se séparer revêt une valeur 
 <a class="pb" href="#p46" id="p46">[p. 46]</a>
  affective <em>plus forte que la passion même</em>. La mort, qui est le but de la passion, la tue.</p>
-                      <p class="p">Mais l’épée nue n’est pas encore l’expression décisive du désir sombre, de la <em>fin</em> même de la passion (au double sens du mot <em>fin</em>). L’admirable épisode des épées échangées le fait voir. Quand le roi vient surprendre les amants, l’on se rappelle qu’il substitue son arme à celle de son rival. Cela signifie qu’à l’obstacle désiré et librement créé par les amants, il substitue le signe de son pouvoir social, l’obstacle légal, objectif. Tristan relève ce défi : d’où le rebondissement de l<em>’action</em>. Et ici le mot prend un sens symbolique : l’action empêche la « passion » d’être totale, car la passion, c’est « ce que l’on subit » — à la limite, c’est la mort. En d’autres termes cette action est un nouveau délai de la passion, c’est-à-dire un retard de la Mort.</p>
+                      <p class="p">Mais l’épée nue n’est pas encore l’expression décisive du désir sombre, de la <em>fin</em> même de la passion (au double sens du mot <em>fin</em>). L’admirable épisode des épées échangées le fait voir. Quand le roi vient surprendre les amants, l’on se rappelle qu’il substitue son arme à celle de son rival. Cela signifie qu’à l’obstacle désiré et librement créé par les amants, il substitue le signe de son pouvoir social, l’obstacle légal, objectif. Tristan relève ce défi : d’où le rebondissement de l’<em>action</em>. Et ici le mot prend un sens symbolique : l’action empêche la « passion » d’être totale, car la passion, c’est « ce que l’on subit » — à la limite, c’est la mort. En d’autres termes cette action est un nouveau délai de la passion, c’est-à-dire un retard de la Mort.</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">On retrouvera la même dialectique entre les deux mariages du <em>Roman</em> : celui d’Iseut la Blonde avec le roi, et celui d’Iseut aux blanches mains avec Tristan.</p>
                       <p class="p">Le premier de ces mariages est l’obstacle de fait. Il est symbolisé par l’existence concrète du <em>mari</em>, méprisé par l’amour courtois. Occasion de prouesse classique et de rebondissements faciles. L’existence du mari, l’obstacle de l’adultère, c’est le premier prétexte venu, le plus naturellement imaginable, le plus conforme à l’expérience quotidienne. (Le romantisme en trouvera de plus fins.) Il faut voir comme Tristan le bouscule, et comme il s’en joue à plaisir ! Sans le mari, je ne donne pas plus de trois ans à l’amour de Tristan et Iseut. Et en effet, la grande sagesse du vieux Béroul, c’est d’avoir limité à cette durée l’action du philtre : « <em>La mère Iseut qui le bollit. — À trois anz d’amistié le fist</em>. »</p>
@@ -753,7 +753,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -762,7 +762,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">I. Le mythe de Tristan</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#I01">I.1. Triomphe du roman, et ce qu’il cache</a>
                         </li>
@@ -799,7 +799,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="3#I12">I.12. Une vieille et grave mélodie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">II. Les origines religieuses du mythe</a>
@@ -828,7 +828,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -842,7 +842,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II. Les origines religieuses du mythe (1972, L’Amour et l’Occident)</value>
+          <value>II. Les origines religieuses du mythe (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -860,7 +860,7 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -877,20 +877,20 @@ I12	I.12. Une vieille et grave mélodie (1972, L’Amour et l’Occident)
           <value>II.1. L’« obstacle » naturel et sacré – II.2. Éros, ou le Désir sans fin. Platonisme, druidisme, manichéisme. – II.3. Agapè ou l’amour chrétien – II.4. Orient et Occident – II.5. Contrecoup du christianisme dans les mœurs occidentales – II.6. L’amour courtois : Troubadours et Cathares – II.7. Hérésie et poésie – II.8. Objections – II.9. Les mystiques arabes – II.10. Vue d’ensemble du phénomène courtois – II.11. De l’Amour courtois au roman breton – II.12. Des mythes celtiques au roman breton – II.13. Du roman breton à Wagner, en passant par Gottfried – II.14. Premières conclusions</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>II01	II.1. L’« obstacle » naturel et sacré (1972, L’Amour et l’Occident)
-II02	II.2. Éros, ou le Désir sans fin. Platonisme, druidisme, manichéisme. (1972, L’Amour et l’Occident)
-II03	II.3. Agapè ou l’amour chrétien (1972, L’Amour et l’Occident)
-II04	II.4. Orient et Occident (1972, L’Amour et l’Occident)
-II05	II.5. Contrecoup du christianisme dans les mœurs occidentales (1972, L’Amour et l’Occident)
-II06	II.6. L’amour courtois : Troubadours et Cathares (1972, L’Amour et l’Occident)
-II07	II.7. Hérésie et poésie (1972, L’Amour et l’Occident)
-II08	II.8. Objections (1972, L’Amour et l’Occident)
-II09	II.9. Les mystiques arabes (1972, L’Amour et l’Occident)
-II10	II.10. Vue d’ensemble du phénomène courtois (1972, L’Amour et l’Occident)
-II11	II.11. De l’Amour courtois au roman breton (1972, L’Amour et l’Occident)
-II12	II.12. Des mythes celtiques au roman breton (1972, L’Amour et l’Occident)
-II13	II.13. Du roman breton à Wagner, en passant par Gottfried (1972, L’Amour et l’Occident)
-II14	II.14. Premières conclusions (1972, L’Amour et l’Occident)
+          <value>II01	II.1. L’« obstacle » naturel et sacré (1939, L’Amour et l’Occident (1972))
+II02	II.2. Éros, ou le Désir sans fin. Platonisme, druidisme, manichéisme. (1939, L’Amour et l’Occident (1972))
+II03	II.3. Agapè ou l’amour chrétien (1939, L’Amour et l’Occident (1972))
+II04	II.4. Orient et Occident (1939, L’Amour et l’Occident (1972))
+II05	II.5. Contrecoup du christianisme dans les mœurs occidentales (1939, L’Amour et l’Occident (1972))
+II06	II.6. L’amour courtois : Troubadours et Cathares (1939, L’Amour et l’Occident (1972))
+II07	II.7. Hérésie et poésie (1939, L’Amour et l’Occident (1972))
+II08	II.8. Objections (1939, L’Amour et l’Occident (1972))
+II09	II.9. Les mystiques arabes (1939, L’Amour et l’Occident (1972))
+II10	II.10. Vue d’ensemble du phénomène courtois (1939, L’Amour et l’Occident (1972))
+II11	II.11. De l’Amour courtois au roman breton (1939, L’Amour et l’Occident (1972))
+II12	II.12. Des mythes celtiques au roman breton (1939, L’Amour et l’Occident (1972))
+II13	II.13. Du roman breton à Wagner, en passant par Gottfried (1939, L’Amour et l’Occident (1972))
+II14	II.14. Premières conclusions (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -1562,7 +1562,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
 <a class="pb" href="#p138" id="p138">[p. 138]</a>
  Dans l’attente de recherches plus approfondies sur tous ces points, bornons-nous à remarquer que les romans bretons sont tantôt plus « chrétiens » et tantôt plus « barbares » que les poèmes des troubadours, dont ils sont cependant inspirés de la manière la plus incontestable.</p>
                       <p class="p">Nous ne savons si Chrétien de Troyes a bien compris les lois d’amour que lui enseignait Marie de Champagne. Nous ne savons dans quelle mesure il a <em>voulu</em> que ses romans fussent des chroniques secrètes de l’Église persécutée (thèse de Rahn, Péladan et Aroux) ou de simples allégories illustrant la morale et la mystique courtoise (comme j’inclinerais à le penser). Toutes les hypothèses sont permises en l’absence de documents dont on voit bien pourquoi ils font défaut : trop d’intérêts se trouvaient ligués contre la diffusion de l’hérésie, sans parler de sa volonté de demeurer ésotérique. Quoi qu’il en soit, Chrétien de Troyes a notablement déformé la signification des mythes qu’il conte.</p>
-                      <p class="p">La légende du Graal, par exemple : Suhtschek y voit un mythe manichéen venu de l’Iran ; Otto Rahn une chronique déguisée des Cathares. (<em>Parzival</em>, fils <em>d’Herzeloïde</em>, femme du <em>Castis</em>, chez Wolfram d’Eschenbach, serait le comte Ramon Roger <em>Trencavel</em>, fils d<em>’Adélaïde</em> de Carcassonne et d’Alphonse le <em>Chaste</em>, roi d’Aragon. — Trencavel signifie : « qui tranche bellement », et Wolfram traduit le nom de Parzival par « Schneid mitten durch » ; « perce bellement ».) Ces deux interprétations se contredisent bien moins qu’elles ne se complètent<a class="noteref" href="4#note81" id="note81_"><sup>81</sup></a>. Elles ont l’avantage décisif de rendre 
+                      <p class="p">La légende du Graal, par exemple : Suhtschek y voit un mythe manichéen venu de l’Iran ; Otto Rahn une chronique déguisée des Cathares. (<em>Parzival</em>, fils <em>d’Herzeloïde</em>, femme du <em>Castis</em>, chez Wolfram d’Eschenbach, serait le comte Ramon Roger <em>Trencavel</em>, fils d’<em>Adélaïde</em> de Carcassonne et d’Alphonse le <em>Chaste</em>, roi d’Aragon. — Trencavel signifie : « qui tranche bellement », et Wolfram traduit le nom de Parzival par « Schneid mitten durch » ; « perce bellement ».) Ces deux interprétations se contredisent bien moins qu’elles ne se complètent<a class="noteref" href="4#note81" id="note81_"><sup>81</sup></a>. Elles ont l’avantage décisif de rendre 
 <a class="pb" href="#p139" id="p139">[p. 139]</a>
  compte de bien des bizarreries de la légende et de son attirail symbolique. Faut-il penser, avec un transcripteur moderne, qu’« il est fort vraisemblable que Chrétien de Troyes n’était pas instruit du sens païen et secret de ces traits mystérieux qu’il rapportait »<a class="noteref" href="4#note82" id="note82_"><sup>82</sup></a> ? Ou bien se vit-il contraint de déguiser ce sens, en sorte que seuls les initiés pussent démêler la fantaisie et la doctrine, l’ornement romanesque et la
             chronique réelle ? Si ce fut le cas, il n’y réussit que trop bien, puisque Robert de Boron, son continuateur, n’hésite pas à christianiser les symboles jusqu’à faire du Graal le vase qui reçut le sang du Christ, et de la Table ronde une sorte d’autel pour la Sainte Cène. Cependant, même dans le grand roman de <em>Lancelot</em> (qui date de 1225 environ) le symbolisme et l’allégorie sont évidents, si saugrenues que puissent paraître les interprétations que donne l’auteur lui-même, après chaque épisode. Il est une de ces interprétations que je crois utile de citer, car l’origine cathare y transparaît nettement, malgré l’ignorance de l’auteur. Lancelot errant par la haute forêt parvient à un carrefour. Il hésite entre le chemin de gauche et celui de droite Il s’engage dans celui de gauche, malgré l’avertissement gravé sur une croix qui se dresse devant lui. Bientôt survient un chevalier à l’armure blanche qui le renverse de son cheval et le dépouille de sa couronne. Lancelot tout déconfit rencontre un prêtre et se confesse. « Je vous dirai la signifiance de ce qui vous est advenu, dit le prud’homme. La voie de droite que vous avez dédaignée au carrefour était celle de la chevalerie terrienne, où vous avez longtemps triomphé ; celle de gauche était la voie de la chevalerie célestielle, et il ne s’agit plus là de tuer des hommes et d’abattre des champions par force d’armes : il s’agit des choses spirituelles. Et vous y prîtes la couronne d’orgueil : c’est 
@@ -1656,7 +1656,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
                       <h2 class="head">Premières conclusions</h2>
                       <p class="p autofirst">Compte tenu du changement de registre qui s’opère dans les expressions poétiques de l’amour courtois lorsqu’on passe du Midi des troubadours au Nord plus barbare des trouvères, nous sommes en mesure de voir dorénavant dans le chef-d’œuvre de Béroul, Thomas et Gottfried de Strasbourg, l’aboutissement de toutes nos pérégrinations. Les religions antiques, certaines mystiques du Proche-Orient, l’hérésie qui les fit revivre en Languedoc, le contrecoup de cette hérésie dans la conscience occidentale et dans les coutumes féodales, tout cela vient sourdement retentir dans le mythe.</p>
                       <p class="p">Nous avons donc rejoint <em>le Roman de Tristan</em> et situé sa nécessité à telle date, à l’intersection de telles traditions hérétiques et de telles institutions qui les condamnaient farouchement, les obligeant par cette condamnation à s’exprimer en symboles équivoques et à revêtir la forme d’un mythe.</p>
-                      <p class="p"><em>De l’ensemble de ces convergences, il est temps de tirer la conclusion</em> : L’amour-passion glorifié par le mythe fut réellement au<i class="i"><span class="num">xii<sup class="sup">e</sup></span></i> siècle, date de son apparition, une<i class="i"><span class="sc">religion</span></i>dans toute la force de ce terme, et spécialement<i class="i"><span class="sc">une hérésie chrétienne historiquement</span></i>
+                      <p class="p"><em>De l’ensemble de ces convergences, il est temps de tirer la conclusion</em> : L’amour-passion glorifié par le mythe fut réellement au<i class="i"><span class="num">xii<sup class="sup">e</sup></span></i> siècle, date de son apparition, une <span class="sc">religion</span> dans toute la force de ce terme, et spécialement<i class="i"><span class="sc">une hérésie chrétienne historiquement</span></i>
             <span class="sc">déterminée</span>.</p>
                       <p class="p">D’où l’on pourra déduire :</p>
                       <p class="p">1° que la passion, vulgarisée de nos jours par les romans et par le film, n’est rien d’autre que <em>le reflux et l’invasion anarchique</em> dans nos vies d’une hérésie spiritualiste dont nous avons perdu la clef ;</p>
@@ -2070,7 +2070,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2082,7 +2082,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
                     </li>
                     <li class="here">
                       <a href="#">II. Les origines religieuses du mythe</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#II01">II.1. L’« obstacle » naturel et sacré</a>
                         </li>
@@ -2125,7 +2125,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
                         <li class="collateral">
                           <a href="4#II14">II.14. Premières conclusions</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">III. Passion et mystique</a>
@@ -2151,7 +2151,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2165,7 +2165,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>III. Passion et mystique (1972, L’Amour et l’Occident)</value>
+          <value>III. Passion et mystique (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2183,7 +2183,7 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -2200,14 +2200,14 @@ interdit, qui garde son amour secret, et qui meurt de son secret, celui-là meur
           <value>III.1. Position du problème – III.2. Tristan : une aventure mystique – III.3. Transpositions curieuses, mais inévitables – III.4. Les Mystiques orthodoxes et le langage de la passion – III.5. La Rhétorique courtoise chez les mystiques espagnols – III.6. Note sur la métaphore – III.7. Libération finale des mystiques – III.8. Crépuscule de l’amour-passion</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>III01	III.1. Position du problème (1972, L’Amour et l’Occident)
-III02	III.2. Tristan : une aventure mystique (1972, L’Amour et l’Occident)
-III03	III.3. Transpositions curieuses, mais inévitables (1972, L’Amour et l’Occident)
-III04	III.4. Les Mystiques orthodoxes et le langage de la passion (1972, L’Amour et l’Occident)
-III05	III.5. La Rhétorique courtoise chez les mystiques espagnols (1972, L’Amour et l’Occident)
-III06	III.6. Note sur la métaphore (1972, L’Amour et l’Occident)
-III07	III.7. Libération finale des mystiques (1972, L’Amour et l’Occident)
-III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
+          <value>III01	III.1. Position du problème (1939, L’Amour et l’Occident (1972))
+III02	III.2. Tristan : une aventure mystique (1939, L’Amour et l’Occident (1972))
+III03	III.3. Transpositions curieuses, mais inévitables (1939, L’Amour et l’Occident (1972))
+III04	III.4. Les Mystiques orthodoxes et le langage de la passion (1939, L’Amour et l’Occident (1972))
+III05	III.5. La Rhétorique courtoise chez les mystiques espagnols (1939, L’Amour et l’Occident (1972))
+III06	III.6. Note sur la métaphore (1939, L’Amour et l’Occident (1972))
+III07	III.7. Libération finale des mystiques (1939, L’Amour et l’Occident (1972))
+III08	III.8. Crépuscule de l’amour-passion (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -2407,7 +2407,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
  chevaleresque. La question a d’ailleurs été traitée, par un auteur qui offre toutes les garanties de sérieux et d’information<a class="noteref" href="5#note118" id="note118_"><sup>118</sup></a>, et en des termes qui me paraissent trop significatifs pour que j’hésite à les reproduire :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">Si l’on se borne à la conception de l’amour dans les romans de chevalerie et dans les traités spirituels du <span class="num">xvi<sup class="sup">e</sup></span> siècle, on observe d’intéressantes analogies de fond et de forme.</p>
-                        <p class="p"><em>a</em>) Le noble langage d<em>’Amadis</em>, ses métaphores érotiques, ses subtiles préciosités se retrouvent chez Francisco de Ossuna, Bernardino de Laredo et Malou de Chaide [maître de sainte Thérèse], aussi bien que dans les <em>Exclamations</em> et le <em>Château intérieur</em>.</p>
+                        <p class="p"><em>a</em>) Le noble langage d’<em>Amadis</em>, ses métaphores érotiques, ses subtiles préciosités se retrouvent chez Francisco de Ossuna, Bernardino de Laredo et Malou de Chaide [maître de sainte Thérèse], aussi bien que dans les <em>Exclamations</em> et le <em>Château intérieur</em>.</p>
                         <p class="p"><em>b</em>) En Espagne, les auteurs de romans de chevalerie comme ceux des traités mystiques se caractérisent par le même réalisme quand ils sacrifient le sentiment du merveilleux à celui d’une intimité plus familière et plus émouvante, comme ils tendent à mettre l’humain et le divin sur le même plan, <em>soit en contemplant le divin avec des yeux profanes, soit en considérant l’humain sous une interprétation divine</em>. [C’est moi qui souligne.]</p>
                         <p class="p"><em>c</em>) Surtout l’amour courtois et l’amour divin s’exaltent l’un et l’autre dans la même conception héroïque de l’obligation morale, de l’action et de la foi. La devise d’Amadis de Gaule et celle de sainte Thérèse pourraient être également « aimer pour agir ». [Ici, je ferai quelques réserves : l’amour courtois, dans sa pureté première, aime pour souffrir, pour « pâtir »…]</p>
                         <p class="p"><em>d</em>) Ce n’est pas dans les pauvres extravagances des romans de chevalerie mystique (la <em>Gallarda Espirituel, El divino Escarraman</em>) qu’il faut chercher la synthèse de l’amour divin et de l’amour courtois, mais chez les troubadours provençaux du <span class="num">xii<sup class="sup">e</sup></span> siècle. Les plus féconds éléments de leur doctrine, de leur symbolisme et de leur terminologie passent dans la mystique du <span class="num">xiii<sup class="sup">e</sup></span> siècle par l’intermédiaire de saint François d’Assise.</p>
@@ -2618,7 +2618,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2633,7 +2633,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">III. Passion et mystique</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#III01">III.1. Position du problème</a>
                         </li>
@@ -2658,7 +2658,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="5#III08">III.8. Crépuscule de l’amour-passion</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">IV. Le mythe dans la littérature</a>
@@ -2681,7 +2681,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2695,7 +2695,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>IV. Le mythe dans la littérature (1972, L’Amour et l’Occident)</value>
+          <value>IV. Le mythe dans la littérature (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2713,7 +2713,7 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -2730,27 +2730,27 @@ III08	III.8. Crépuscule de l’amour-passion (1972, L’Amour et l’Occident)
           <value>IV.1. D’une influence précise de la littérature sur les mœurs – IV.2. Les deux roses – IV.3. Sicile, Italie, Béatrice et Symbole – IV.4. Pétrarque, ou le rhéteur converti – IV.5. Un idéal à rebours : la gauloiserie – IV.6. Suite de la chevalerie, jusqu’à Cervantès – IV.7. Roméo et Juliette. — Milton – IV.8. L’Astrée : de la mystique à la psychologie – IV.9. Corneille, ou le mythe combattu – IV.10. Racine, ou le mythe déchaîné – IV.11. Phèdre, ou le mythe « puni » – IV.12. Éclipse du mythe – IV.13. Don Juan et Sade – IV.14. La Nouvelle Héloïse – IV.15. Le romantisme allemand – IV.16. Intériorisation du mythe – IV.17. Stendhal, ou le fiasco du sublime – IV.18. Wagner, ou l’achèvement – IV.19. Vulgarisation du mythe – IV.20. L’instinct glorifié – IV.21. La passion dans tous les domaines</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>IV01	IV.1. D’une influence précise de la littérature sur les mœurs (1972, L’Amour et l’Occident)
-IV02	IV.2. Les deux roses (1972, L’Amour et l’Occident)
-IV03	IV.3. Sicile, Italie, Béatrice et Symbole (1972, L’Amour et l’Occident)
-IV04	IV.4. Pétrarque, ou le rhéteur converti (1972, L’Amour et l’Occident)
-IV05	IV.5. Un idéal à rebours : la gauloiserie (1972, L’Amour et l’Occident)
-IV06	IV.6. Suite de la chevalerie, jusqu’à Cervantès (1972, L’Amour et l’Occident)
-IV07	IV.7. Roméo et Juliette. — Milton (1972, L’Amour et l’Occident)
-IV08	IV.8. L’Astrée : de la mystique à la psychologie (1972, L’Amour et l’Occident)
-IV09	IV.9. Corneille, ou le mythe combattu (1972, L’Amour et l’Occident)
-IV10	IV.10. Racine, ou le mythe déchaîné (1972, L’Amour et l’Occident)
-IV11	IV.11. Phèdre, ou le mythe « puni » (1972, L’Amour et l’Occident)
-IV12	IV.12. Éclipse du mythe (1972, L’Amour et l’Occident)
-IV13	IV.13. Don Juan et Sade (1972, L’Amour et l’Occident)
-IV14	IV.14. La Nouvelle Héloïse (1972, L’Amour et l’Occident)
-IV15	IV.15. Le romantisme allemand (1972, L’Amour et l’Occident)
-IV16	IV.16. Intériorisation du mythe (1972, L’Amour et l’Occident)
-IV17	IV.17. Stendhal, ou le fiasco du sublime (1972, L’Amour et l’Occident)
-IV18	IV.18. Wagner, ou l’achèvement (1972, L’Amour et l’Occident)
-IV19	IV.19. Vulgarisation du mythe (1972, L’Amour et l’Occident)
-IV20	IV.20. L’instinct glorifié (1972, L’Amour et l’Occident)
-IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
+          <value>IV01	IV.1. D’une influence précise de la littérature sur les mœurs (1939, L’Amour et l’Occident (1972))
+IV02	IV.2. Les deux roses (1939, L’Amour et l’Occident (1972))
+IV03	IV.3. Sicile, Italie, Béatrice et Symbole (1939, L’Amour et l’Occident (1972))
+IV04	IV.4. Pétrarque, ou le rhéteur converti (1939, L’Amour et l’Occident (1972))
+IV05	IV.5. Un idéal à rebours : la gauloiserie (1939, L’Amour et l’Occident (1972))
+IV06	IV.6. Suite de la chevalerie, jusqu’à Cervantès (1939, L’Amour et l’Occident (1972))
+IV07	IV.7. Roméo et Juliette. — Milton (1939, L’Amour et l’Occident (1972))
+IV08	IV.8. L’Astrée : de la mystique à la psychologie (1939, L’Amour et l’Occident (1972))
+IV09	IV.9. Corneille, ou le mythe combattu (1939, L’Amour et l’Occident (1972))
+IV10	IV.10. Racine, ou le mythe déchaîné (1939, L’Amour et l’Occident (1972))
+IV11	IV.11. Phèdre, ou le mythe « puni » (1939, L’Amour et l’Occident (1972))
+IV12	IV.12. Éclipse du mythe (1939, L’Amour et l’Occident (1972))
+IV13	IV.13. Don Juan et Sade (1939, L’Amour et l’Occident (1972))
+IV14	IV.14. La Nouvelle Héloïse (1939, L’Amour et l’Occident (1972))
+IV15	IV.15. Le romantisme allemand (1939, L’Amour et l’Occident (1972))
+IV16	IV.16. Intériorisation du mythe (1939, L’Amour et l’Occident (1972))
+IV17	IV.17. Stendhal, ou le fiasco du sublime (1939, L’Amour et l’Occident (1972))
+IV18	IV.18. Wagner, ou l’achèvement (1939, L’Amour et l’Occident (1972))
+IV19	IV.19. Vulgarisation du mythe (1939, L’Amour et l’Occident (1972))
+IV20	IV.20. L’instinct glorifié (1939, L’Amour et l’Occident (1972))
+IV21	IV.21. La passion dans tous les domaines (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -3256,7 +3256,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
 <a class="pb" href="#p229" id="p229">[p. 229]</a>
  joué par rapport à ce personnage le rôle exact de Lucifer par rapport à la Création, dans la doctrine manichéenne : c’est lui qui a donné sa figure au <em>Tenorio</em> de Molina, et qui lui a imprimé pour toujours ces deux traits si typiques de l’époque : la <em>noirceur</em> et la <em>scélératesse</em>. Antithèse vraiment parfaite des deux vertus de l’amour chevaleresque : la candeur et la courtoisie.</p>
                       <p class="p">Il me semble que la fascination qu’exerce sur le cœur des femmes et sur l’esprit de certains hommes le personnage mythique de Don Juan peut s’expliquer par sa nature <em>infiniment contradictoire</em>.</p>
-                      <p class="p">Don Juan, c’est à la fois l’espèce pure, la spontanéité de l’instinct, et l’esprit pur dans sa danse éperdue au-dessus de la mer des possibles. C’est l’infidélité perpétuelle, mais c’est aussi la perpétuelle recherche d’une femme unique, jamais rejointe par l’erreur inlassable du désir. C’est l’insolente avidité d’une jeunesse renouvelée à chaque rencontre, et c’est aussi la secrète faiblesse de celui qui ne peut pas posséder, parce qu’il n<em>’est</em> pas assez pour <em>avoir…</em></p>
+                      <p class="p">Don Juan, c’est à la fois l’espèce pure, la spontanéité de l’instinct, et l’esprit pur dans sa danse éperdue au-dessus de la mer des possibles. C’est l’infidélité perpétuelle, mais c’est aussi la perpétuelle recherche d’une femme unique, jamais rejointe par l’erreur inlassable du désir. C’est l’insolente avidité d’une jeunesse renouvelée à chaque rencontre, et c’est aussi la secrète faiblesse de celui qui ne peut pas posséder, parce qu’il n’<em>est</em> pas assez pour <em>avoir…</em></p>
                       <p class="p">Mais cela nous entraînerait à quelques développements qu’il vaut mieux réserver pour plus tard<a class="noteref" href="6#note147" id="note147_"><sup>147</sup></a>. Considérons ici le Don Juan du théâtre<a class="noteref" href="6#note148" id="note148_"><sup>148</sup></a> comme le reflet inversé de Tristan.</p>
                       <p class="p">Le contraste est d’abord dans l’allure extérieure des personnages, dans leur rythme. On imagine Don Juan toujours dressé sur ses ergots, prêt à bondir quand par hasard il vient de suspendre sa course. Au contraire, Tristan vient en scène avec l’espèce de lenteur somnambulique de celui qu’hypnotise un objet merveilleux, dont 
 <a class="pb" href="#p230" id="p230">[p. 230]</a>
@@ -3481,7 +3481,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
  animal, l’emprise totale du sexe sur l’esprit. Et la grande innocence bestiale nous guérira de votre goût du péché, cette maladie de l’instinct génésique. Ce que vous appelez morale, c’est ce qui nous rend méchants, tristes et honteux. Ce que vous appelez l’ordure, voilà ce qui peut nous purifier. Vos tabous sont des sacrilèges contre la vraie divinité, qui est la Vie. Et la vie, c’est l’instinct libéré de l’esprit, la grande puissance solaire qui broie et magnifie l’individu fécond, la belle brute déchaînée, etc. » L’un de ces prophètes est allé jusqu’à dire : « Je voudrais avoir autant de vitalité qu’une vache. »</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">Cette nouvelle mystique de la « Vie » a pu donner naissance à de belles œuvres littéraires. Mais je la retrouve, étrangement identique, aux origines profondes d’un mouvement que nous n’avons plus à étudier ni à convaincre : il nous menace à bout portant.</p>
-                      <p class="p">Perdre sa personnalité morale et se retremper dans le flux cosmique de l’instinct, c’est l<em>’idéal</em> de nos poètes du primitivisme solaire, mais la <em>pratique</em> de cette croyance n’est pas de nature à nous tromper un seul instant : il n’y a pas de « belles » brutes, il y a des brutes. L’idée de beauté qu’un Lawrence croit encore consistante, c’est l’héritage d’une époque en faillite — une dette que plus personne, <em>là-bas</em>, n’est disposé à reconnaître. On n’a plus de comptes à rendre à cet « esprit » platonicien. Il était cause de toute la confusion, et il l’a payé de sa vie, voilà qui est clair.</p>
+                      <p class="p">Perdre sa personnalité morale et se retremper dans le flux cosmique de l’instinct, c’est l’<em>idéal</em> de nos poètes du primitivisme solaire, mais la <em>pratique</em> de cette croyance n’est pas de nature à nous tromper un seul instant : il n’y a pas de « belles » brutes, il y a des brutes. L’idée de beauté qu’un Lawrence croit encore consistante, c’est l’héritage d’une époque en faillite — une dette que plus personne, <em>là-bas</em>, n’est disposé à reconnaître. On n’a plus de comptes à rendre à cet « esprit » platonicien. Il était cause de toute la confusion, et il l’a payé de sa vie, voilà qui est clair.</p>
                       <p class="p">Mais j’ajouterai ceci, qui est non moins clair : quand sous prétexte de détruire l’artificiel — rhétorique idéalisante, éthique et mystique du « parfait » — l’on prétend s’enfoncer dans le flot primitif de l’instinct, dans le larvaire, dans le non-fait, dans l’« infait », c’est-à-dire dans l’infect, l’on croit retrouver l’authentique de la vie, et l’on ne fait pourtant que s’abandonner au torrent des <em>déchets</em> de l’ancienne culture et de ses mythes désagrégés.</p>
                       <p class="p">
 <a class="pb" href="#p260" id="p260">[p. 260]</a>
@@ -3498,7 +3498,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
                       <h2 class="head">La passion dans tous les domaines</h2>
                       <p class="p autofirst">Le mythe sacré de l’amour courtois, au <span class="num">xii<sup class="sup">e</sup></span> siècle, avait eu pour <em>fonction sociale</em> d’ordonner et de purifier les puissances anarchiques de la passion. Une mystique transcendante orientait secrètement, polarisait vers l’au-delà les nostalgies de l’humanité souffrante. C’était sans doute une hérésie, mais pacifique, et par certains de ses aspects, très favorable à l’équilibre civilisateur. Cependant, du seul fait qu’elle s’opposait à la propagation de l’espèce et à la guerre, la société devait la persécuter. Ce fut Rome qui porta le fer et le feu dans les provinces gagnées à l’hérésie.</p>
                       <p class="p">En détruisant matériellement cette religion, l’Église romaine la condamnait à se propager sous la forme la plus ambiguë et peut-être la plus dangereuse. Traquée, refoulée et désorganisée, l’hérésie ne devait pas tarder à se dénaturer de mille manières. Les confusions qu’elle favorisait malgré elle, cette glorification de l’amour humain qui était l’envers de sa doctrine, ce langage d’une ambiguïté à la fois essentielle et opportune, qui permettait tous les abus, c’est cela qui allait échapper aux tribunaux de l’Inquisition, puis envahir la conscience européenne, même orthodoxe, et par une sorte d’ironie, donner sa rhétorique passionnelle au mysticisme des plus grands saints.</p>
-                      <p class="p">Lorsque les mythes perdent leur caractère ésotérique et leur fonction sacrée, ils se résolvent en littérature. Le mythe courtois, mieux que tout autre, se prêtait à ce processus, puisqu’il n’avait pu se traduire que dans les termes de l’amour humain, bien qu’entendus au sens mystique. Ce sens évanoui restait une rhétorique. Elle pouvait exprimer nos instincts naturels, mais non sans les dévier, tout insensiblement, vers quelque au-delà de plus en plus mystérieux, apte à séduire le besoin d<em>’idéal</em>
+                      <p class="p">Lorsque les mythes perdent leur caractère ésotérique et leur fonction sacrée, ils se résolvent en littérature. Le mythe courtois, mieux que tout autre, se prêtait à ce processus, puisqu’il n’avait pu se traduire que dans les termes de l’amour humain, bien qu’entendus au sens mystique. Ce sens évanoui restait une rhétorique. Elle pouvait exprimer nos instincts naturels, mais non sans les dévier, tout insensiblement, vers quelque au-delà de plus en plus mystérieux, apte à séduire le besoin d’<em>idéal</em>
             
 <a class="pb" href="#p262" id="p262">[p. 262]</a>
  qu’avait laissé dans la conscience une connaissance mystique réprouvée, puis perdue. Telle fut la chance de la littérature en Occident ; et cela seul peut expliquer l’empire, unique dans l’histoire des cultures, que la littérature a exercé jusqu’à nos jours sur l’élite et plus tard sur les masses.</p>
@@ -3657,18 +3657,18 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
                         </div>
                         <aside id="note152" role="note" class="note note">
                           <p class="noindent"><a class="noteback" href="6#note152_">152. </a>Rappelons que l’amour fameux d’Abélard et Héloïse est <em>le premier exemple historique</em> de la passion dont nous parlons ici. Voici le <em>Chant funèbre</em> d’Héloïse composé (par elle-même ?) en vers latins (cité par Rémusat : <em>Abélard</em>, t. I). L’amante supplie :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">Soulage-moi de ma croix,</div>
                             <div class="l">Conduis vers la lumière</div>
                             <div class="l">Mon âme délivrée !</div>
-                          </q>
+                          </blockquote>
                           <p class="p autofirst">Et le chœur des religieuses reprend :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">Qu’ils se reposent de leur labeur</div>
                             <div class="l">Et de leur douloureux amour !</div>
                             <div class="l">Ils demandaient l’union des habitants des cieux :</div>
                             <div class="l">Déjà ils sont entrés dans le sanctuaire du Sauveur.</div>
-                          </q>
+                          </blockquote>
                           <p class="p autofirst">Abélard répondit assez mal à cette passion. Mais sa théologie, fort hérétique, se rapproche sur des points essentiels de la doctrine spiritualiste des Cathares. Et dans ses <em>Lamentations</em>, il laisse échapper le grand cri du romantisme et de Tristan : « <em>Amoris impulsio, culpæ justificatio</em>. »</p>
                         </aside>
                       </div>
@@ -3769,7 +3769,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3787,7 +3787,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">IV. Le mythe dans la littérature</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#IV01">IV.1. D’une influence précise de la littérature sur les mœurs</a>
                         </li>
@@ -3851,7 +3851,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="6#IV21">IV.21. La passion dans tous les domaines</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">V. Amour et guerre</a>
@@ -3871,7 +3871,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3885,7 +3885,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>V. Amour et guerre (1972, L’Amour et l’Occident)</value>
+          <value>V. Amour et guerre (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3903,7 +3903,7 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -3920,17 +3920,17 @@ IV21	IV.21. La passion dans tous les domaines (1972, L’Amour et l’Occident)
           <value>V.1. Parallélisme des formes – V.2. Langage guerrier de l’amour – V.3. La chevalerie, loi de l’amour et de la guerre – V.4. Les tournois, ou le mythe en acte – V.5. Condottieri et canons – V.6. La guerre classique – V.7. La guerre en dentelles – V.8. La guerre révolutionnaire – V.9. La guerre nationale – V.10. La guerre totale – V.11. La passion transportée dans la politique</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>V01	V.1. Parallélisme des formes (1972, L’Amour et l’Occident)
-V02	V.2. Langage guerrier de l’amour (1972, L’Amour et l’Occident)
-V03	V.3. La chevalerie, loi de l’amour et de la guerre (1972, L’Amour et l’Occident)
-V04	V.4. Les tournois, ou le mythe en acte (1972, L’Amour et l’Occident)
-V05	V.5. Condottieri et canons (1972, L’Amour et l’Occident)
-V06	V.6. La guerre classique (1972, L’Amour et l’Occident)
-V07	V.7. La guerre en dentelles (1972, L’Amour et l’Occident)
-V08	V.8. La guerre révolutionnaire (1972, L’Amour et l’Occident)
-V09	V.9. La guerre nationale (1972, L’Amour et l’Occident)
-V10	V.10. La guerre totale (1972, L’Amour et l’Occident)
-V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occident)
+          <value>V01	V.1. Parallélisme des formes (1939, L’Amour et l’Occident (1972))
+V02	V.2. Langage guerrier de l’amour (1939, L’Amour et l’Occident (1972))
+V03	V.3. La chevalerie, loi de l’amour et de la guerre (1939, L’Amour et l’Occident (1972))
+V04	V.4. Les tournois, ou le mythe en acte (1939, L’Amour et l’Occident (1972))
+V05	V.5. Condottieri et canons (1939, L’Amour et l’Occident (1972))
+V06	V.6. La guerre classique (1939, L’Amour et l’Occident (1972))
+V07	V.7. La guerre en dentelles (1939, L’Amour et l’Occident (1972))
+V08	V.8. La guerre révolutionnaire (1939, L’Amour et l’Occident (1972))
+V09	V.9. La guerre nationale (1939, L’Amour et l’Occident (1972))
+V10	V.10. La guerre totale (1939, L’Amour et l’Occident (1972))
+V11	V.11. La passion transportée dans la politique (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -4127,7 +4127,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
                       <h2 class="head kicker">11.</h2>
                       <h2 class="head">La passion transportée dans la politique</h2>
                       <p class="p autofirst">Chassée du champ de la guerre chevaleresque, lorsque ce champ cesse d’être clos comme doit l’être un terrain de jeu, et qu’il n’est plus une lice décorée de symboles, mais un secteur de bombardement — la passion a cherché et trouvé d’autres modes d’expression en actes.</p>
-                      <p class="p">Elle y était d’ailleurs contrainte par la dépréciation des résistances morales et privées, non moins que par la dénaturation de la guerre. D’une part, dans les pays démocratiques, les mœurs se sont assouplies à tel point qu’elles tendent à n’offrir plus d<em>’obstacles</em> absolus, donc exaltants pour la passion ; d’autre part, dans les pays totalitaires, le dressage des jeunes par l’État tend à éliminer de la vie privée toute espèce de tragique intime et de problématique sentimentale. L’anarchie des mœurs et l’hygiène autoritaire agissent à peu près dans le même sens : elles déçoivent le besoin de passion, héréditaire ou acquis par la culture ; elles détendent ses ressorts intimes et personnels.</p>
+                      <p class="p">Elle y était d’ailleurs contrainte par la dépréciation des résistances morales et privées, non moins que par la dénaturation de la guerre. D’une part, dans les pays démocratiques, les mœurs se sont assouplies à tel point qu’elles tendent à n’offrir plus d’<em>obstacles</em> absolus, donc exaltants pour la passion ; d’autre part, dans les pays totalitaires, le dressage des jeunes par l’État tend à éliminer de la vie privée toute espèce de tragique intime et de problématique sentimentale. L’anarchie des mœurs et l’hygiène autoritaire agissent à peu près dans le même sens : elles déçoivent le besoin de passion, héréditaire ou acquis par la culture ; elles détendent ses ressorts intimes et personnels.</p>
                       <p class="p">L’amour, dans l’entre-deux-guerres, fut un curieux mélange d’intellectualisme angoissé (littérature de l’inquiétude et de l’anarchie bourgeoise) et de cynisme matérialiste (<em>Neue Sachlichkeit</em> des Allemands). L’on vit bien que la passion romantique ne trouvait plus de quoi se composer un mythe ; ne trouvait plus de résistances choisies au sein d’une atmosphère d’orageuse et secrète dévotion. La crainte morbide des entraînements « naïfs » et des « duperies du cœur », alliée à un désir fébrile d’aventure, voilà le climat des principaux romans de cette période. Et cela signifie sans équivoque que <em>les relations individuelles des sexes ont cessé d’être le lieu par excellence où se réalise la passion</em>. Celle-ci paraît se détacher de son support. Nous sommes entrés dans l’ère des <em>libidos</em> errantes, en quête d’un théâtre nouveau. Et le premier qui s’est offert, c’est le théâtre politique.</p>
                       <p class="p">La politique de masses, telle qu’on l’a pratiquée 
 <a class="pb" href="#p293" id="p293">[p. 293]</a>
@@ -4259,7 +4259,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4280,7 +4280,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
                     </li>
                     <li class="here">
                       <a href="#">V. Amour et guerre</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7#V01">V.1. Parallélisme des formes</a>
                         </li>
@@ -4314,7 +4314,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
                         <li class="collateral">
                           <a href="7#V11">V.11. La passion transportée dans la politique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">VI. Le mythe contre le mariage</a>
@@ -4331,7 +4331,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4345,7 +4345,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>VI. Le mythe contre le mariage (1972, L’Amour et l’Occident)</value>
+          <value>VI. Le mythe contre le mariage (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -4363,7 +4363,7 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -4380,12 +4380,12 @@ V11	V.11. La passion transportée dans la politique (1972, L’Amour et l’Occi
           <value>VI.1. Crise moderne du mariage – VI.2. Idée moderne du bonheur – VI.3. « Aimer, c’est vivre ! » – VI.4. Épouser Iseut ? – VI.5. De l’anarchie à l’eugénisme – VI.6. Sens de la crise</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>VI01	VI.1. Crise moderne du mariage (1972, L’Amour et l’Occident)
-VI02	VI.2. Idée moderne du bonheur (1972, L’Amour et l’Occident)
-VI03	VI.3. « Aimer, c’est vivre ! » (1972, L’Amour et l’Occident)
-VI04	VI.4. Épouser Iseut ? (1972, L’Amour et l’Occident)
-VI05	VI.5. De l’anarchie à l’eugénisme (1972, L’Amour et l’Occident)
-VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
+          <value>VI01	VI.1. Crise moderne du mariage (1939, L’Amour et l’Occident (1972))
+VI02	VI.2. Idée moderne du bonheur (1939, L’Amour et l’Occident (1972))
+VI03	VI.3. « Aimer, c’est vivre ! » (1939, L’Amour et l’Occident (1972))
+VI04	VI.4. Épouser Iseut ? (1939, L’Amour et l’Occident (1972))
+VI05	VI.5. De l’anarchie à l’eugénisme (1939, L’Amour et l’Occident (1972))
+VI06	VI.6. Sens de la crise (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -4474,7 +4474,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
 <a class="pb" href="#p308" id="p308">[p. 308]</a>
  plus que le retour sempiternel d’une ardeur constamment déçue.</p>
                       <p class="p">Le mythe décrivait une fatalité dont ses victimes ne pouvaient se délivrer qu’en échappant au monde fini. Mais la passion dite « fatale » — c’est l’alibi —, où se complaisent les modernes, ne sait plus même être <em>fidèle</em>, puisqu’elle n’a plus pour fin la transcendance. Elle épuise l’une après l’autre les illusions que lui proposent divers objets, trop faciles à saisir. Au lieu de mener à la mort, elle se dénoue en infidélité. Qui ne sent la dégradation d’un Tristan qui a <em>plusieurs</em> Iseut ? Pourtant ce n’est pas lui qu’il convient d’accuser, mais il est la victime d’un ordre social où les obstacles se sont dégradés. Ils cèdent trop vite, ils cèdent avant que l’expérience ait abouti. Sans cesse, il faut recommencer cette ascension de l’âme dressée contre le monde. Mais alors le Tristan moderne glisse vers le type contraire du Don Juan, de l’homme aux amours successives. Les catégories se détruisent, l’aventure n’est plus même exemplaire.</p>
-                      <p class="p">Seul, le Don Juan mythique échappait à cette consomption. Mais Don Juan ne connaît pas d’Iseut, ni de passion inaccessible, ni de passé ni d’avenir, ni de déchirements voluptueux. Il vit toujours dans l’immédiat, il n’a jamais le temps d’aimer — d’attendre et de se souvenir — et rien de ce qu’il désire ne lui résiste, puisqu’il n<em>’aime</em> pas ce qui lui résiste.</p>
+                      <p class="p">Seul, le Don Juan mythique échappait à cette consomption. Mais Don Juan ne connaît pas d’Iseut, ni de passion inaccessible, ni de passé ni d’avenir, ni de déchirements voluptueux. Il vit toujours dans l’immédiat, il n’a jamais le temps d’aimer — d’attendre et de se souvenir — et rien de ce qu’il désire ne lui résiste, puisqu’il n’<em>aime</em> pas ce qui lui résiste.</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">Aimer, au sens de la passion, c’est alors le contraire de vivre ! C’est un appauvrissement de l’être, une ascèse sans au-delà, une impuissance à aimer le présent sans l’imaginer comme absent, une fuite sans fin devant la possession.</p>
                       <p class="p">Aimer d’amour-passion signifiait « vivre » pour Tristan, car la vraie vie qu’il appelait, c’était la mort transfigurante. Mais nous avons perdu la transcendance. La mort n’est plus qu’une lente consomption.</p>
@@ -4622,7 +4622,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4646,7 +4646,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">VI. Le mythe contre le mariage</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8#VI01">VI.1. Crise moderne du mariage</a>
                         </li>
@@ -4665,7 +4665,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="8#VI06">VI.6. Sens de la crise</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="9">VII. L’amour action, ou de la fidélité</a>
@@ -4679,7 +4679,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4693,7 +4693,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>VII. L’amour action, ou de la fidélité (1972, L’Amour et l’Occident)</value>
+          <value>VII. L’amour action, ou de la fidélité (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -4711,7 +4711,7 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -4728,13 +4728,13 @@ VI06	VI.6. Sens de la crise (1972, L’Amour et l’Occident)
           <value>VII.1. Nécessité d’un parti pris – VII.2. Critique du mariage – VII.3. Le mariage comme décision – VII.4. Sur la fidélité – VII.5. Éros sauvé par Agapè – VII.6. Les paradoxes de l’Occident – VII.7. Au-delà de la tragédie</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>VII01	VII.1. Nécessité d’un parti pris (1972, L’Amour et l’Occident)
-VII02	VII.2. Critique du mariage (1972, L’Amour et l’Occident)
-VII03	VII.3. Le mariage comme décision (1972, L’Amour et l’Occident)
-VII04	VII.4. Sur la fidélité (1972, L’Amour et l’Occident)
-VII05	VII.5. Éros sauvé par Agapè (1972, L’Amour et l’Occident)
-VII06	VII.6. Les paradoxes de l’Occident (1972, L’Amour et l’Occident)
-VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
+          <value>VII01	VII.1. Nécessité d’un parti pris (1939, L’Amour et l’Occident (1972))
+VII02	VII.2. Critique du mariage (1939, L’Amour et l’Occident (1972))
+VII03	VII.3. Le mariage comme décision (1939, L’Amour et l’Occident (1972))
+VII04	VII.4. Sur la fidélité (1939, L’Amour et l’Occident (1972))
+VII05	VII.5. Éros sauvé par Agapè (1939, L’Amour et l’Occident (1972))
+VII06	VII.6. Les paradoxes de l’Occident (1939, L’Amour et l’Occident (1972))
+VII07	VII.7. Au-delà de la tragédie (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -4841,7 +4841,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
                       <p class="p">Mais l’amour du mariage est la fin de l’angoisse, l’acceptation de l’être limité, aimé parce qu’il m’appelle à le créer, et qu’il se tourne avec moi vers le jour afin d’attester notre alliance.</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">Une vie qui m’est <em>alliée</em> — pour toute la vie, voilà le miracle du mariage. Une vie qui veut mon bien autant que le sien, parce qu’il est confondu avec le sien : et si ce n’était pour toute la vie, ce serait encore une menace. (Il y a toujours une telle menace dans l’échange de plaisir d’une « liaison »). Mais combien d’hommes savent-ils la différence entre une obsession que l’on subit et un destin que l’on assume ? Il faut donc la marquer par un exemple simple.</p>
-                      <p class="p"><em>Être amoureux</em> n’est pas nécessairement <em>aimer</em>. Être amoureux est un état ; aimer, un acte. On subit un état, mais on décide un acte. Or, l<em>’engagement</em> que signifie le mariage ne saurait honnêtement s’appliquer à l’avenir 
+                      <p class="p"><em>Être amoureux</em> n’est pas nécessairement <em>aimer</em>. Être amoureux est un état ; aimer, un acte. On subit un état, mais on décide un acte. Or, l’<em>engagement</em> que signifie le mariage ne saurait honnêtement s’appliquer à l’avenir 
 <a class="pb" href="#p336" id="p336">[p. 336]</a>
  d’un état où l’on se trouve aujourd’hui ; mais il peut et il doit impliquer l’avenir d’actes conscients que l’on assume : aimer, rester fidèle, éduquer ses enfants. On voit ici combien sont différents les sens du mot aimer dans le monde de l’Éros et dans le monde de l’Agapè. On le voit mieux encore si l’on constate que le Dieu de l’Écriture nous <em>ordonne</em> d’aimer. Le premier commandant du Décalogue : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée » ne saurait concerner que des actes. Il serait totalement absurde d’exiger de l’homme un état de sentiment. L’impératif : « Aime Dieu et ton prochain comme toi-même » crée des structures de relations actives. L’impératif : « Sois amoureux ! » serait vide de sens ; ou s’il était réalisable, priverait l’homme de sa liberté.</p>
                     </section>
@@ -5030,7 +5030,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -5057,7 +5057,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">VII. L’amour action, ou de la fidélité</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9#VII01">VII.1. Nécessité d’un parti pris</a>
                         </li>
@@ -5079,7 +5079,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="9#VII07">VII.7. Au-delà de la tragédie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="10">Appendices</a>
@@ -5090,7 +5090,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5104,7 +5104,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Appendices (1972, L’Amour et l’Occident)</value>
+          <value>Appendices (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -5122,7 +5122,7 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -5139,19 +5139,19 @@ VII07	VII.7. Au-delà de la tragédie (1972, L’Amour et l’Occident)
           <value>i. Caractère sacré de la légende – ii. Chevalerie sacrée – iii. Chansons de geste et romans courtois – iv. Conceptions orientales de l’amour – v. Mystique et amour courtois – vi. Freud et les surréalistes – vii. Avènement de la Dame au jeu d’échecs – viii. Dante hérétique – ix. « Coup de foudre » et conversion – x. Passion et Ascèse – xi. Saint François d’Assise et les Cathares – xii. Les Béguines : du catharisme à la mystique chrétienne par la poétique courtoise – xiii. Sur le sadisme</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>app1	i. Caractère sacré de la légende (1972, L’Amour et l’Occident)
-app2	ii. Chevalerie sacrée (1972, L’Amour et l’Occident)
-app3	iii. Chansons de geste et romans courtois (1972, L’Amour et l’Occident)
-app4	iv. Conceptions orientales de l’amour (1972, L’Amour et l’Occident)
-app5	v. Mystique et amour courtois (1972, L’Amour et l’Occident)
-app6	vi. Freud et les surréalistes (1972, L’Amour et l’Occident)
-app7	vii. Avènement de la Dame au jeu d’échecs (1972, L’Amour et l’Occident)
-app8	viii. Dante hérétique (1972, L’Amour et l’Occident)
-app9	ix. « Coup de foudre » et conversion (1972, L’Amour et l’Occident)
-app10	x. Passion et Ascèse (1972, L’Amour et l’Occident)
-app11	xi. Saint François d’Assise et les Cathares (1972, L’Amour et l’Occident)
-app12	xii. Les Béguines : du catharisme à la mystique chrétienne par la poétique courtoise (1972, L’Amour et l’Occident)
-app13	xiii. Sur le sadisme (1972, L’Amour et l’Occident)
+          <value>app1	i. Caractère sacré de la légende (1939, L’Amour et l’Occident (1972))
+app2	ii. Chevalerie sacrée (1939, L’Amour et l’Occident (1972))
+app3	iii. Chansons de geste et romans courtois (1939, L’Amour et l’Occident (1972))
+app4	iv. Conceptions orientales de l’amour (1939, L’Amour et l’Occident (1972))
+app5	v. Mystique et amour courtois (1939, L’Amour et l’Occident (1972))
+app6	vi. Freud et les surréalistes (1939, L’Amour et l’Occident (1972))
+app7	vii. Avènement de la Dame au jeu d’échecs (1939, L’Amour et l’Occident (1972))
+app8	viii. Dante hérétique (1939, L’Amour et l’Occident (1972))
+app9	ix. « Coup de foudre » et conversion (1939, L’Amour et l’Occident (1972))
+app10	x. Passion et Ascèse (1939, L’Amour et l’Occident (1972))
+app11	xi. Saint François d’Assise et les Cathares (1939, L’Amour et l’Occident (1972))
+app12	xii. Les Béguines : du catharisme à la mystique chrétienne par la poétique courtoise (1939, L’Amour et l’Occident (1972))
+app13	xiii. Sur le sadisme (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -5380,7 +5380,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -5410,7 +5410,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
                     </li>
                     <li class="here">
                       <a href="#">Appendices</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="10#app1">i. Caractère sacré de la légende</a>
                         </li>
@@ -5450,7 +5450,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
                         <li class="collateral">
                           <a href="10#app13">xiii. Sur le sadisme</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="11">Post-scriptum</a>
@@ -5458,7 +5458,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5472,7 +5472,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Post-scriptum (1972, L’Amour et l’Occident)</value>
+          <value>Post-scriptum (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -5490,7 +5490,7 @@ C’onques Tristans, qui en fist son pouvoir</div>
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -5507,20 +5507,20 @@ C’onques Tristans, qui en fist son pouvoir</div>
           <value>Ambiguïté des influences – La renaissance cathare au xxe siècle – Réplique à mes censeurs – Un troubadour mystique : Henri Suso – Origines iraniennes du Graal – Troubadours et Cathares – Tantrisme et courtoisie – Sur l’invention de l’amour au xiie siècle – Imprécation finale – Malentendus sur la morale – Passion et inceste – Passion et allergie – Passion et drogue – Passion et mariage</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-11-1	Ambiguïté des influences (1972, L’Amour et l’Occident)
-body-11-2	La renaissance cathare au xxe siècle (1972, L’Amour et l’Occident)
-body-11-3	Réplique à mes censeurs (1972, L’Amour et l’Occident)
-body-11-4	Un troubadour mystique : Henri Suso (1972, L’Amour et l’Occident)
-body-11-5	Origines iraniennes du Graal (1972, L’Amour et l’Occident)
-body-11-6	Troubadours et Cathares (1972, L’Amour et l’Occident)
-body-11-7	Tantrisme et courtoisie (1972, L’Amour et l’Occident)
-body-11-8	Sur l’invention de l’amour au xiie siècle (1972, L’Amour et l’Occident)
-body-11-9	Imprécation finale (1972, L’Amour et l’Occident)
-body-11-10	Malentendus sur la morale (1972, L’Amour et l’Occident)
-body-11-11	Passion et inceste (1972, L’Amour et l’Occident)
-body-11-12	Passion et allergie (1972, L’Amour et l’Occident)
-body-11-13	Passion et drogue (1972, L’Amour et l’Occident)
-body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
+          <value>body-11-1	Ambiguïté des influences (1939, L’Amour et l’Occident (1972))
+body-11-2	La renaissance cathare au xxe siècle (1939, L’Amour et l’Occident (1972))
+body-11-3	Réplique à mes censeurs (1939, L’Amour et l’Occident (1972))
+body-11-4	Un troubadour mystique : Henri Suso (1939, L’Amour et l’Occident (1972))
+body-11-5	Origines iraniennes du Graal (1939, L’Amour et l’Occident (1972))
+body-11-6	Troubadours et Cathares (1939, L’Amour et l’Occident (1972))
+body-11-7	Tantrisme et courtoisie (1939, L’Amour et l’Occident (1972))
+body-11-8	Sur l’invention de l’amour au xiie siècle (1939, L’Amour et l’Occident (1972))
+body-11-9	Imprécation finale (1939, L’Amour et l’Occident (1972))
+body-11-10	Malentendus sur la morale (1939, L’Amour et l’Occident (1972))
+body-11-11	Passion et inceste (1939, L’Amour et l’Occident (1972))
+body-11-12	Passion et allergie (1939, L’Amour et l’Occident (1972))
+body-11-13	Passion et drogue (1939, L’Amour et l’Occident (1972))
+body-11-14	Passion et mariage (1939, L’Amour et l’Occident (1972))
 </value>
         </attributekey>
       </attributes>
@@ -5585,7 +5585,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       </blockquote>
                       <p class="p autofirst">À quoi, dans <em>Les Celtes et la civilisation celtique</em>, Jean Markale semblera faire écho :</p>
                       <blockquote class="quote">
-                        <p class="p autofirst">On a l’impression que les Celtes ont une affection particulière pour les histoires qui se terminent mal… La Queste du Graal se termine par la mort des découvreurs Galaad et Perceval… L’aventure de la Table Ronde finit aussi par un échec complet… <em>(p. 89)</em>. L’instinct de mort et de sexualité se trouve illustré dans la poésie gaélique bien avant Freud et son école… <em>(p. 192)</em>D’autre 
+                        <p class="p autofirst">On a l’impression que les Celtes ont une affection particulière pour les histoires qui se terminent mal… La Queste du Graal se termine par la mort des découvreurs Galaad et Perceval… L’aventure de la Table Ronde finit aussi par un échec complet… <em>(p. 89)</em>. L’instinct de mort et de sexualité se trouve illustré dans la poésie gaélique bien avant Freud et son école… <em>(p. 192)</em> D’autre 
 <a class="pb" href="#p375" id="p375">[p. 375]</a>
  part, l’affabulation, la <em>mythification</em> étant le propre de l’esprit celtique, il s’est produit une sorte de transfert : tout ce qui était défaite s’est transformé en une aventure merveilleuse, où l’écroulement de la société celtique ne peut être dû qu’à des circonstances plus ou moins magiques <em>(p. 253)</em></p>
                       </blockquote>
@@ -5657,7 +5657,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                     <section id="body-11-4" class="div level2">
                       <h2 class="head">Un troubadour mystique : Henri Suso</h2>
                       <p class="p autofirst">Ici, l’exemple du grand mystique souabe Henri Suso illustrera mieux que tout autre la possibilité de mes hypothèses sur la série d’analogies, voire d’assimilations, entre Sagesse éternelle — Marie — <em>Vera Vergena</em> — Sophia — Église d’Amour — Dame des pensées ; et sur la rhétorique courtoise comme langage congénial de ce culte unique.</p>
-                      <p class="p">Dans son excellent petit livre sur <em>Suso et le Minnesang</em><a class="noteref" href="11#note220" id="note220_"><sup>220</sup></a> J. A. Bizet rappelle d’abord comment « l’Éternelle Sagesse » devint pour le jeune Suso (à la suite d’une extase) « une manière de théophanie substituée à la pure notion de la divinité ». Dès lors Suso, dans ses ouvrages, notamment la <em>Vita</em>et l’<em>Horologium sapientae</em>, va célébrer le culte de la Sagesse, sa Dame. « Sa mystique courtoise… serait bien la réplique en terre germanique de la « piété fleurie » que les derniers troubadours du Languedoc avaient vouée à la Vierge, ou à cette Clémence qui, croit-on, sous le masque de Clémence Isaure, ne serait qu’une autre personnification dévote » (p. 139). Et l’on retrouvera dans ses œuvres de prose poétique non seulement toutes les épithètes et images spécifiques, mais tous les lieux communs obligés de la <em>cortezia</em> :</p>
+                      <p class="p">Dans son excellent petit livre sur <em>Suso et le Minnesang</em><a class="noteref" href="11#note220" id="note220_"><sup>220</sup></a> J. A. Bizet rappelle d’abord comment « l’Éternelle Sagesse » devint pour le jeune Suso (à la suite d’une extase) « une manière de théophanie substituée à la pure notion de la divinité ». Dès lors Suso, dans ses ouvrages, notamment la <em>Vita</em> et l’<em>Horologium sapientae</em>, va célébrer le culte de la Sagesse, sa Dame. « Sa mystique courtoise… serait bien la réplique en terre germanique de la « piété fleurie » que les derniers troubadours du Languedoc avaient vouée à la Vierge, ou à cette Clémence qui, croit-on, sous le masque de Clémence Isaure, ne serait qu’une autre personnification dévote » (p. 139). Et l’on retrouvera dans ses œuvres de prose poétique non seulement toutes les épithètes et images spécifiques, mais tous les lieux communs obligés de la <em>cortezia</em> :</p>
                       <p class="p">— la quête de l’aimée (<em>inquisicio amoris</em>) où se reconnaît le thème de la <em>princesse lointaine</em>.</p>
                       <p class="p">— le désir pour une <em>Dame</em> jamais vue, qu’on ne connaît pas encore : « Mon Dieu, quand pourrai-je seulement voir la bien-aimée, entendre le son de sa voix ? Quelle est donc la figure de l’aimée, qui recèle tant de trésors charmants ? » (<em>Vita</em> .)</p>
                       <p class="p">— <em>le doute sur la véritable identité ou essence de la Dame</em> :</p>
@@ -5816,7 +5816,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       <blockquote class="quote">
                         <div class="l">Le plaisir de cet amour se détruit quand le désir trouve son rassasiement.</div>
                       </blockquote>
-                      <p class="p autofirst">En revanche, René Nelli, au lieu de faire de l’indignation morale, cherche à comprendre la nature et la fonction de l’<em>asag</em>dans la conduite courtoise, et il se voit amené à en deviner le secret dans la « Joie d’amour » elle-même. Suivons le trajet de cette recherche dans <em>L’Érotique des troubadours</em>.</p>
+                      <p class="p autofirst">En revanche, René Nelli, au lieu de faire de l’indignation morale, cherche à comprendre la nature et la fonction de l’<em>asag</em> dans la conduite courtoise, et il se voit amené à en deviner le secret dans la « Joie d’amour » elle-même. Suivons le trajet de cette recherche dans <em>L’Érotique des troubadours</em>.</p>
                       <p class="p">La <em>Joie</em> d’amour, ou <em>Joy d’amors</em> en occitan, est un mot masculin dont le sens varie non seulement selon les époques — de Guillaume IX à Montanhagol —, mais chez un même auteur selon la tonalité du poème. C’est d’abord et généralement : <em>l’exaltation qui a pour cause la femme aimée et pour objet l’amour lui-même</em>. C’est parfois tout simplement la joie de vivre en aimant, ou c’est un <em>jeu</em> — flirt ou « petting ». Mais déjà chez Guillaume IX, le <em>joy</em> est donné par l’Amour « à celui qui observe ses lois » ; et cette joie est dite « pure » parce qu’elle dépend d’un bien que l’on désire sans l’avoir (encore) obtenu : <em>joie de désirer</em>. Le sens de <em>joy</em> oscille donc entre <em>plaisir d’être amoureux</em> et <em>vœu d’éterniser le désir</em>, comme chez les Arabes.</p>
                       <p class="p">Chez Guillaume IX, le <em>joy</em> devient aussi un influx mystérieux qui émane de la présence et des yeux de la dame :</p>
                       <blockquote class="quote">
@@ -5887,7 +5887,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       <p class="p">Nouveauté inouïe et qui surpasse encore celle de donner à l’abbesse le pouvoir supérieur non seulement sur les religieuses (comme Héloïse l’avait au Paraclet dans le même temps) mais sur les hommes de la communauté.</p>
                       <p class="p">Très vite, le magnétisme qui émane de son fondateur attire à Fontevrault « les plus célèbres beautés de l’époque », parmi lesquelles la reine Bertrade de France, et l’on ne peut imaginer conversion plus retentissante. Car cette Bertrade a provoqué le plus grand scandale de l’époque en obligeant son amant, Philippe I<sup class="sup">er</sup>, à répudier sa femme pour l’épouser, et en attirant ainsi sur le nouveau couple une excommunication telle que « toutes les cloches cessaient de sonner lorsque le roi et la « reine » entraient dans une ville ou dans un château ». Mais voilà le plus beau ; en 1112, Ermengarde de Bretagne, première femme de Guillaume IX, puis en 1115 Philippa de Toulouse, sa seconde femme, accompagnée de leur fille Audéoude, passent dans le camp du moine, renient Guillaume, et prennent le voile à Fontevrault.</p>
                       <blockquote class="quote">
-                        <p class="p autofirst">Guillaume IX ne semble pas avoir pris au sérieux l’œuvre de réformateur qui s’attachait, paraît-il, à sauver de l’enfer des filles débauchées… S’il est exact que Robert d’Arbrissel préconisait entre religieux et religieuse une sorte d’<i class="i"><em>assays</em></i>mystique, destiné à mettre à l’épreuve dans un même lit leurs vertus chrétiennes et leur capacité de continence, on conçoit que Guillaume IX, peu religieux de tempérament, n’ait vu dans ces manœuvres qu’une aimable et hypocrite dépravation.</p>
+                        <p class="p autofirst">Guillaume IX ne semble pas avoir pris au sérieux l’œuvre de réformateur qui s’attachait, paraît-il, à sauver de l’enfer des filles débauchées… S’il est exact que Robert d’Arbrissel préconisait entre religieux et religieuse une sorte d’<span class="foreign en foreignnokey" lang="en" data-key="foreignnokey" id="foreign1">assays</span> mystique, destiné à mettre à l’épreuve dans un même lit leurs vertus chrétiennes et leur capacité de continence, on conçoit que Guillaume IX, peu religieux de tempérament, n’ait vu dans ces manœuvres qu’une aimable et hypocrite dépravation.</p>
                       </blockquote>
                       <p class="p autofirst">
 <a class="pb" href="#p402" id="p402">[p. 402]</a>
@@ -5897,7 +5897,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       </blockquote>
                       <p class="p autofirst">Première réaction de Guillaume au défi que lui portent ces « succès éclatants » : le sarcasme et l’énorme plaisanterie. Pour parodier l’abbaye des filles perdues mais « relevées » par d’Arbrissel, il fonde à Niort une colonie de petites maisons, <em>habitacula quaedam quasi monasteriola</em>, imitant les « cabanes » des débuts de Fontevrault, et il y loge des courtisanes aussi peu « relevées » que possible, instituant pour « abbesse » la plus experte.</p>
                       <p class="p">Seconde réaction, selon Bezzola : une sourde crise morale, qui l’amène à remettre en question « ce que l’homme désire le plus », comme il le dit dans l’une de ses chansons. « Ne serait-ce pas dans cet état de malaise intérieur que naquit en lui le désir d’opposer au mysticisme ascétique de l’époque un mysticisme mondain, une élévation spirituelle de l’amour du chevalier, rivalisant avec l’attraction qu’exerçait sur les âmes l’amour mystique et la soumission à la <em>domina</em> que propageait Fontevrault ? »</p>
-                      <p class="p">Tout d’un coup, c’est l’efflorescence lyrique, dans les formes du <em>conductus</em> ecclésiastique, puis du <em>zadjal</em> arabe, et les grands thèmes de l’amour courtois : la <em>soumission</em> du chevalier par allégeance d’amour pur à la dame, l’<em>assai imposé par la dame</em>comme épreuve de l’amour vrai, tout cela « <em>pour le bien de nos âmes</em> », disait Robert ; « <em>pour rafraîchir ma chair et renouveler mon corps</em> », traduit Guillaume ; pour <em>notre salut par l’amour</em>, diront les troubadours classiques…</p>
+                      <p class="p">Tout d’un coup, c’est l’efflorescence lyrique, dans les formes du <em>conductus</em> ecclésiastique, puis du <em>zadjal</em> arabe, et les grands thèmes de l’amour courtois : la <em>soumission</em> du chevalier par allégeance d’amour pur à la dame, l’<em>assai imposé par la dame</em> comme épreuve de l’amour vrai, tout cela « <em>pour le bien de nos âmes</em> », disait Robert ; « <em>pour rafraîchir ma chair et renouveler mon corps</em> », traduit Guillaume ; pour <em>notre salut par l’amour</em>, diront les troubadours classiques…</p>
                       <blockquote class="quote">
                         <div class="l">Je me rends, je me livre à Elle !</div>
                       </blockquote>
@@ -5956,13 +5956,13 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                     <section id="body-11-9" class="div level2">
                       <h2 class="head">Imprécation finale</h2>
                       <p class="p autofirst">À la cohorte de mes adversaires, je répondrai maintenant d’une manière collective cherchant à dégager certaines formules d’erreur qui me paraissent affecter leurs critiques.</p>
-                      <p class="p">— Ils croient encore aux relations de cause à effet, chères à nos érudits qui se veulent « scientifiques », mais abandonnées depuis longtemps par les physiciens nucléaires. De ces relations, je ne faisais pas grand-chose dans ma première version, et me les suis interdites dans la deuxième. Seules me paraissent signifiantes certaines grappes de relations, structures d’interaction, gerbes de forces, bref, certains champs, tels que peuvent en définir les tensions entre Guillaume IX et Robert d’Arbrissel, ou Al Hallaj et Ibn Dawûd, où il s’agit bien moins de savoir qui se donne pour champion de quoi, que de<a id="_GoBack">‌</a> saisir l’homologie du phénomène avec celui des relations entre troubadours et cathares, et ses implications morales et religieuses.</p>
+                      <p class="p">— Ils croient encore aux relations de cause à effet, chères à nos érudits qui se veulent « scientifiques », mais abandonnées depuis longtemps par les physiciens nucléaires. De ces relations, je ne faisais pas grand-chose dans ma première version, et me les suis interdites dans la deuxième. Seules me paraissent signifiantes certaines grappes de relations, structures d’interaction, gerbes de forces, bref, certains champs, tels que peuvent en définir les tensions entre Guillaume IX et Robert d’Arbrissel, ou Al Hallaj et Ibn Dawûd, où il s’agit bien moins de savoir qui se donne pour champion de quoi, que de saisir l’homologie du phénomène avec celui des relations entre troubadours et cathares, et ses implications morales et religieuses.</p>
                       <p class="p">— Ils veulent des preuves de type juridique (les preuves scientifiques ou expérimentales étant exclues par la nature du phénomène en cause). Vous avez beau rappeler à leur attention les coïncidences spatiales et temporelles de l’hérésie et de la 
 <a class="pb" href="#p409" id="p409">[p. 409]</a>
  courtoisie, dans les mêmes consciences et les mêmes situations conflictuelles, ils ne sont pas impressionnés. Ils me rappellent ces juges américains dont je lis ces jours-ci qu’ils ont cassé un jugement rendu contre cinq assassins convaincus d’avoir tué douze personnes : certains détails de l’instruction semblent donner matière à quelque doute, c’est-à-dire à renvoi indéfini. Si les Apôtres s’étaient présentés devant nos historiens nécessiteux de preuves au soir même de la Pentecôte, ces tabellions eussent exigé un reçu notarié du Saint-Esprit.</p>
                       <p class="p">C’est, osons le dire, que la plupart d’entre eux ignorent tout de la genèse poétique et de la psychologie de l’œuvre que l’on crée. <em>Ils ne croient qu’à ce qui est</em> « <em>attesté</em> ». <em>Or la poésie ne l’est jamais.</em> Ils ne veulent croire qu’aux sources alléguées expressément par un auteur. Or les vraies sources en général sont inconscientes, ou refoulées, ou délibérément dissimulées.</p>
                       <p class="p">— Ils n’ignorent pas seulement les jeux et les ruses de l’amour et de la création, mais <em>a fortiori</em> la spécificité des problèmes poétiques, mystiques et religieux. Ils croient que tout a toujours existé, et partout de la même manière. « L’amour, avec des nuances, est le même sous toutes les latitudes et à toutes les époques, surtout pour les poètes lyriques », écrit Belperron. Or, pas une seule des grandes tragédies grecques — je veux dire des trente qui nous restent — n’a l’amour pour sujet. Pas une. Est-ce que vraiment cela ne veut rien dire ?</p>
-                      <p class="p">— Ils sont victimes d’une psychologie au moins désuète, linéaire et rationaliste, n’admettant que des motifs univoques, qui les condamnent presque automatiquement à la crédulité ou à l’incrédulité à contretemps. Quand ils disent : tel troubadour a écrit exactement le contraire de ce qu’un Parfait devait professer, tel gnostique a déclaré son aversion pour l’amour et ses suites, tel éloge de la chasteté est conforme à la morale catholique puisqu’il tend à réfréner la concupiscence, ou lui est diamétralement opposé puisqu’il tend à exalter le désir, je constate qu’ils n’ont pas compris la nature de l’objet dont ils traitent et sa dialectique intrinsèque. Ils n’ont pas compris l’essentiel, qui est l’union complémentaire indivisible de <em>certaines</em> réalités antinomiques — celles-là, justement, qui m’occupent ici. Non seulement, ils croient que tout homme qui se <em>dit</em>catholique, ou cathare, ou de gauche, l’<em>est</em> de ce fait et l’est en tous ses actes et ses dires ; non seulement ils croient à ce qui est allégué, étiqueté, plutôt qu’à ce qui est vécu, expérimenté, mais encore ils paraissent tout ignorer des complicités de l’amour et de la haine, de la chasteté et de l’érotisme, du désir et de 
+                      <p class="p">— Ils sont victimes d’une psychologie au moins désuète, linéaire et rationaliste, n’admettant que des motifs univoques, qui les condamnent presque automatiquement à la crédulité ou à l’incrédulité à contretemps. Quand ils disent : tel troubadour a écrit exactement le contraire de ce qu’un Parfait devait professer, tel gnostique a déclaré son aversion pour l’amour et ses suites, tel éloge de la chasteté est conforme à la morale catholique puisqu’il tend à réfréner la concupiscence, ou lui est diamétralement opposé puisqu’il tend à exalter le désir, je constate qu’ils n’ont pas compris la nature de l’objet dont ils traitent et sa dialectique intrinsèque. Ils n’ont pas compris l’essentiel, qui est l’union complémentaire indivisible de <em>certaines</em> réalités antinomiques — celles-là, justement, qui m’occupent ici. Non seulement, ils croient que tout homme qui se <em>dit</em> catholique, ou cathare, ou de gauche, l’<em>est</em> de ce fait et l’est en tous ses actes et ses dires ; non seulement ils croient à ce qui est allégué, étiqueté, plutôt qu’à ce qui est vécu, expérimenté, mais encore ils paraissent tout ignorer des complicités de l’amour et de la haine, de la chasteté et de l’érotisme, du désir et de 
 <a class="pb" href="#p410" id="p410">[p. 410]</a>
  l’angoisse, de l’attraction et de la répulsion, de l’indifférence affectée et de l’affectivité refoulée. Ils n’ont pas vu que l’opposition réelle n’est pas entre ceux qui exaltent et ceux qui condamnent tel ou tel élément constitutif de la <em>cortezia</em>, mais entre ceux qui la créent ou la souffrent et ceux qui en font l’objet de leurs dissertations. Ceux-là seuls croient que l’on peut en tel domaine « établir » une explication, comme on fait triompher la doctrine d’un parti à la simple majorité.</p>
                       <p class="p">Mais seul pourra séduire la vérité celui qui aura conçu le plus haut sens.</p>
@@ -6028,7 +6028,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       <h2 class="head">Passion et allergie</h2>
                       <p class="p autofirst">Ce qui se déclenche chez les victimes angoissées, mais émerveillées d’un coup de foudre, est caractérisé par les réactions hyperboliques de tout l’être à une incitation des plus banales, qui serait chez tout autre <em>normale</em>, autrement dit facile à compenser, neutraliser, par la réponse que chacun sait. Mais voici tout d’un coup qu’à cette incitation tout l’être des amants se met à réagir, dans un branle-bas général, par une fièvre, une rougeur, des arythmies du cœur, ou au contraire par une espèce de catalepsie hiératique, les yeux rivés dans une mutuelle hypnose. Or ils disent tous qu’ils aiment être saisis par une telle fièvre, par ce bouleversement des sens et de l’âme. La passion est ce trouble effrayant mais délicieux que provoque la présence de certains êtres, pour des raisons qu’eux-mêmes, comme ceux qui réagissent à leur présence, disent ignorer absolument. Et je les crois. (Plus tard, ils essayeront de rationaliser, poétiser, moraliser, et là, je cesserai de les croire.)</p>
                       <p class="p">Cherchant des analogues de ce phénomène à un niveau physiologique, je ne trouve guère que le mécanisme de l’<em>allergie</em> : réaction excessive à un agent externe qui est d’ordinaire inoffensif, mais qui soudain, pour des raisons que nul ne connaît, provoque chez celui qui s’est trouvé <em>sensibilisé</em> par un premier contact, une surcompensation violente, par exemple une surabondante production d’antihistaminiques suite à une simple piqûre de moustique.</p>
-                      <p class="p">Ce premier contact, c’est, dans la légende, la première rencontre en Irlande, la scène du bain. Mais c’est la poésie courtoise et le roman breton qui, désormais, vont <em>sensibiliser</em>hommes et femmes et provoquer chez eux cette « réponse altérée de l’organisme à des substances normalement tolérées » qui caractérise l’allergie.</p>
+                      <p class="p">Ce premier contact, c’est, dans la légende, la première rencontre en Irlande, la scène du bain. Mais c’est la poésie courtoise et le roman breton qui, désormais, vont <em>sensibiliser</em> hommes et femmes et provoquer chez eux cette « réponse altérée de l’organisme à des substances normalement tolérées » qui caractérise l’allergie.</p>
                       <p class="p">Les deux phénomènes, passion et allergie, évoquent aussi la mobilisation de toute la nation pour un incident de frontière non vérifié, ou une guerre qui tuera des millions d’hommes pour venger un assassinat, qui d’ailleurs arrangeait tout le monde.</p>
                       <p class="p">À l’incitation du désir, la réaction passionnelle, tout d’un coup, déborde immensément. Et que le désir soit ou non satisfait n’y change rien dans les cas graves (au surplus compliqués de drogue) comme celui de Tristan et d’Iseut. La passion une fois déclarée exige beaucoup plus que cette 
 <a class="pb" href="#p418" id="p418">[p. 418]</a>
@@ -6104,12 +6104,12 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                         <aside id="note211" role="note" class="note note"><a class="noteback" href="11#note211_">211. </a>Urgent ? C’était déjà trop tard. Le livre de Charles de Gaulle parut quelques mois plus tard, en juin 1938 : il n’était plus temps de construire l’armée blindée qu’il demandait.</aside>
                         <aside id="note212" role="note" class="note note">
                           <a class="noteback" href="11#note212_">212. </a>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l"> Prenez garde ! Prenez garde !</div>
                             <div class="l">Voici que la Nuit cède au Jour !</div>
-                          </q>
+                          </blockquote>
                           <p class="p autofirst">On connaît le thème de l’aube chez les troubadours :</p>
-                          <q class="quote">
+                          <blockquote class="quote">
                             <div class="l">Gardez-vous, cher guetteur de la tour</div>
                             <div class="l">Du jaloux, votre méchant seigneur</div>
                             <div class="l">Ennuyeux plus que l’aube</div>
@@ -6117,7 +6117,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                             <div class="l">Grande peur</div>
                             <div class="l">Nous fait l’aube, l’aube, oui l’aube.</div>
                             <div class="bibl">(Raimbaut de Vacqueyras, <em>Alba</em>.)</div>
-                          </q>
+                          </blockquote>
                         </aside>
                       </div>
                       <div class="page">
@@ -6321,7 +6321,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -6354,7 +6354,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">Post-scriptum</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11#body-11-1">Ambiguïté des influences</a>
                         </li>
@@ -6397,12 +6397,12 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="11#body-11-14">Passion et mariage</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="12">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -6416,7 +6416,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Bibliographie (1972, L’Amour et l’Occident)</value>
+          <value>Bibliographie (1939, L’Amour et l’Occident (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -6434,7 +6434,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1972)",
+    "name": "L’Amour et l’Occident (1972) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972ao",
       "@type": "Book"
@@ -6669,7 +6669,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                       <div class="bibl">— <cite class="title">Antwort auf Hiob</cite>, Zurich, 1953.</div>
                       <div class="bibl"><span class="sc">Lavaud</span> (R. P.). <cite class="title">Le Monde moderne et le mariage chrétien</cite>, 1934.</div>
                       <div class="bibl">— <cite class="title">L’Idée divine du mariage (Etudes carmélitaines)</cite>, avril 1936.</div>
-                      <div class="bibl"><span class="sc">Kierkegaard</span>. <cite class="title">L’Alternative</cite>, <cite class="title">Stades sur le chemin de la vie</cite>, <span class="foreign la foreignnokey" lang="la" data-key="foreignnokey" id="foreign">etc.</span></div>
+                      <div class="bibl"><span class="sc">Kierkegaard</span>. <cite class="title">L’Alternative</cite>, <cite class="title">Stades sur le chemin de la vie</cite>, <span class="foreign la foreignnokey" lang="la" data-key="foreignnokey" id="foreign2">etc.</span></div>
                       <div class="bibl"><span class="sc">Nygren (A.)</span>. <cite class="title">Éros und Agapè</cite>, 2 vol., Gütersloh, 1937.</div>
                       <div class="bibl"><span class="sc">Pie X.</span> Encyclique <cite class="title">Casti Connubii</cite>, Bruges, 1931.</div>
                       <div class="bibl"><span class="sc">Pury (R. de).</span> « Eros et Agapè » (in <cite class="title">Problèmes de la sexualité</cite>, 1937).</div>
@@ -6736,6 +6736,9 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                         <div class="bibl"><cite class="title">Traduction hongroise</cite>, et quelques autres, en cours.</div>
                       </div>
                     </div>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                    </section>
                   </article>
                 ]]></content>
               </record>
@@ -6749,7 +6752,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -6786,7 +6789,7 @@ body-11-14	Passion et mariage (1972, L’Amour et l’Occident)
                     <li class="here">
                       <a href="#">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

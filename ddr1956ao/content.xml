@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Avertissement (1956, L’Amour et l’Occident)</value>
+          <value>Avertissement (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -74,7 +74,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
@@ -108,7 +108,7 @@
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -122,7 +122,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Préface à l’édition de 1956 (1956, L’Amour et l’Occident)</value>
+          <value>Préface à l’édition de 1956 (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -140,7 +140,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -186,7 +186,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -220,7 +220,7 @@
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -234,7 +234,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I. Le mythe de Tristan (1956, L’Amour et l’Occident)</value>
+          <value>I. Le mythe de Tristan (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -252,7 +252,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -269,18 +269,18 @@
           <value>I.1. Triomphe du roman, et ce qu’il cache – I.2. Le mythe – I.3. Actualité du mythe ; raisons de notre analyse – I.4. Le contenu manifeste du Roman de Tristan – I.5. Énigmes – I.6. Chevalerie contre Mariage – I.7. L’amour du roman – I.8. L’amour de l’amour – I.9. L’amour de la Mort – I.10. Le Philtre – I.11. L’amour réciproque malheureux – I.12. Une vieille et grave mélodie</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-1-1	I.1. Triomphe du roman, et ce qu’il cache (1956, L’Amour et l’Occident)
-body-1-2	I.2. Le mythe (1956, L’Amour et l’Occident)
-body-1-3	I.3. Actualité du mythe ; raisons de notre analyse (1956, L’Amour et l’Occident)
-body-1-4	I.4. Le contenu manifeste du Roman de Tristan (1956, L’Amour et l’Occident)
-body-1-5	I.5. Énigmes (1956, L’Amour et l’Occident)
-body-1-6	I.6. Chevalerie contre Mariage (1956, L’Amour et l’Occident)
-body-1-7	I.7. L’amour du roman (1956, L’Amour et l’Occident)
-body-1-8	I.8. L’amour de l’amour (1956, L’Amour et l’Occident)
-body-1-9	I.9. L’amour de la Mort (1956, L’Amour et l’Occident)
-body-1-10	I.10. Le Philtre (1956, L’Amour et l’Occident)
-body-1-11	I.11. L’amour réciproque malheureux (1956, L’Amour et l’Occident)
-body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
+          <value>body-1-1	I.1. Triomphe du roman, et ce qu’il cache (1939, L’Amour et l’Occident (1956))
+body-1-2	I.2. Le mythe (1939, L’Amour et l’Occident (1956))
+body-1-3	I.3. Actualité du mythe ; raisons de notre analyse (1939, L’Amour et l’Occident (1956))
+body-1-4	I.4. Le contenu manifeste du Roman de Tristan (1939, L’Amour et l’Occident (1956))
+body-1-5	I.5. Énigmes (1939, L’Amour et l’Occident (1956))
+body-1-6	I.6. Chevalerie contre Mariage (1939, L’Amour et l’Occident (1956))
+body-1-7	I.7. L’amour du roman (1939, L’Amour et l’Occident (1956))
+body-1-8	I.8. L’amour de l’amour (1939, L’Amour et l’Occident (1956))
+body-1-9	I.9. L’amour de la Mort (1939, L’Amour et l’Occident (1956))
+body-1-10	I.10. Le Philtre (1939, L’Amour et l’Occident (1956))
+body-1-11	I.11. L’amour réciproque malheureux (1939, L’Amour et l’Occident (1956))
+body-1-12	I.12. Une vieille et grave mélodie (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -567,12 +567,12 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
                       <aside id="note7" role="note" class="note note"><a class="noteback" href="3#note7_">7. </a>Je résumerai les principaux événements du Roman en m’appuyant sauf exceptions, sur la <em>concordance</em> établie par M. Joseph Bédier (dans son étude sur le poème de Thomas) entre les cinq versions du douzième siècle : Béroul, Thomas, Eilhart, <em>la Folie Tristan</em> et le Roman en prose. Les versions ultérieures de Gottfried de Strasbourg et de tous les imitateurs allemands, italiens, danois, russes, tchèques, etc., se rapportent à ces cinq versions. Je tiens compte également des travaux critiques plus récents de MM. E. Muret et E. Vinaver.</aside>
                       <aside id="note8" role="note" class="note note">
                         <p class="noindent"><a class="noteback" href="3#note8_">8. </a>Vers 1412-1415 :</p>
-                        <q class="quote">
+                        <blockquote class="quote">
                           <div class="l">À combien fit déterminez</div>
                           <div class="l">Li lovendrincs, li vin herbez :</div>
                           <div class="l">La mère Iseut, qui le bollit</div>
                           <div class="l">À trois anz d’amistié le fist.</div>
-                        </q>
+                        </blockquote>
                       </aside>
                       <aside id="note9" role="note" class="note note"><a class="noteback" href="3#note9_">9. </a>Pur belté e pur nun d’Isolt <span class="bibl">(Thomas)</span>.</aside>
                       <aside id="note10" role="note" class="note note"><a class="noteback" href="3#note10_">10. </a>Toutefois, dans l’édition Bédier du poème de Thomas (t. I, p. 240), nous lisons que le veneur du roi, pénétrant dans la retraite des amants « <em>vit Tristan couché, et de l’autre côté de la grotte, Isolt. Les amants s’étaient couchés pour se reposer à cause de la forte chaleur, et dormaient ainsi séparés l’un de l’autre parce que…</em> » Ici le texte est interrompu ! Et Bédier dit en note : « Passage inintelligible. » Quelle puissance maléfique est donc intervenue pour brouiller le seul texte qui pût éclaircir le mystère ?</aside>
@@ -603,7 +603,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -612,7 +612,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">I. Le mythe de Tristan</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-1-1">I.1. Triomphe du roman, et ce qu’il cache</a>
                         </li>
@@ -649,7 +649,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="3#body-1-12">I.12. Une vieille et grave mélodie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">II. Les origines religieuses du mythe</a>
@@ -675,7 +675,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -689,7 +689,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II. Les origines religieuses du mythe (1956, L’Amour et l’Occident)</value>
+          <value>II. Les origines religieuses du mythe (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -707,7 +707,7 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -724,20 +724,20 @@ body-1-12	I.12. Une vieille et grave mélodie (1956, L’Amour et l’Occident)
           <value>II.1. L’« obstacle » naturel et sacré – II.2. Éros, ou le Désir sans fin. (Platonisme, druidisme, manichéisme.) – II.3. Agapè ou l’amour chrétien – II.4. Orient et Occident – II.5. Contre-coup du christianisme dans les mœurs occidentales – II.6. L’amour courtois : Troubadours et Cathares – II.7. Hérésie et Poésie – II.8. Objections – II.9. Les mystiques arabes – II.10. Vue d’ensemble du phénomène courtois – II.11. De l’Amour courtois au roman breton – II.12. Des mythes celtiques au roman breton – II.13. Du roman breton à Wagner, en passant par Gottfried – II.14. Premières conclusions</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-2-1	II.1. L’« obstacle » naturel et sacré (1956, L’Amour et l’Occident)
-body-2-2	II.2. Éros, ou le Désir sans fin. (Platonisme, druidisme, manichéisme.) (1956, L’Amour et l’Occident)
-body-2-3	II.3. Agapè ou l’amour chrétien (1956, L’Amour et l’Occident)
-body-2-4	II.4. Orient et Occident (1956, L’Amour et l’Occident)
-body-2-5	II.5. Contre-coup du christianisme dans les mœurs occidentales (1956, L’Amour et l’Occident)
-body-2-6	II.6. L’amour courtois : Troubadours et Cathares (1956, L’Amour et l’Occident)
-body-2-7	II.7. Hérésie et Poésie (1956, L’Amour et l’Occident)
-body-2-8	II.8. Objections (1956, L’Amour et l’Occident)
-body-2-9	II.9. Les mystiques arabes (1956, L’Amour et l’Occident)
-body-2-10	II.10. Vue d’ensemble du phénomène courtois (1956, L’Amour et l’Occident)
-body-2-11	II.11. De l’Amour courtois au roman breton (1956, L’Amour et l’Occident)
-body-2-12	II.12. Des mythes celtiques au roman breton (1956, L’Amour et l’Occident)
-body-2-13	II.13. Du roman breton à Wagner, en passant par Gottfried (1956, L’Amour et l’Occident)
-body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
+          <value>body-2-1	II.1. L’« obstacle » naturel et sacré (1939, L’Amour et l’Occident (1956))
+body-2-2	II.2. Éros, ou le Désir sans fin. (Platonisme, druidisme, manichéisme.) (1939, L’Amour et l’Occident (1956))
+body-2-3	II.3. Agapè ou l’amour chrétien (1939, L’Amour et l’Occident (1956))
+body-2-4	II.4. Orient et Occident (1939, L’Amour et l’Occident (1956))
+body-2-5	II.5. Contre-coup du christianisme dans les mœurs occidentales (1939, L’Amour et l’Occident (1956))
+body-2-6	II.6. L’amour courtois : Troubadours et Cathares (1939, L’Amour et l’Occident (1956))
+body-2-7	II.7. Hérésie et Poésie (1939, L’Amour et l’Occident (1956))
+body-2-8	II.8. Objections (1939, L’Amour et l’Occident (1956))
+body-2-9	II.9. Les mystiques arabes (1939, L’Amour et l’Occident (1956))
+body-2-10	II.10. Vue d’ensemble du phénomène courtois (1939, L’Amour et l’Occident (1956))
+body-2-11	II.11. De l’Amour courtois au roman breton (1939, L’Amour et l’Occident (1956))
+body-2-12	II.12. Des mythes celtiques au roman breton (1939, L’Amour et l’Occident (1956))
+body-2-13	II.13. Du roman breton à Wagner, en passant par Gottfried (1939, L’Amour et l’Occident (1956))
+body-2-14	II.14. Premières conclusions (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -1100,8 +1100,8 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
                       <p class="p">Il est bien émouvant de constater que tous les termes d’une pareille polémique s’appliquent au cas des troubadours, et plus tard, nous le verrons, <em>mutatis</em>, <em>mutandis</em>, au cas des grands mystiques occidentaux, de Maître Eckhardt à Jean de la Croix.</p>
                       <div class="ab ornament">⁂</div>
                       <p class="p autofirst">Une brève revue des thèmes « courtois » de la mystique arabe fera sentir à quelles profondeurs le parallélisme trouve ses origines, et jusque dans quels détails il se poursuit.</p>
-                      <p class="p"><em>a) </em>Sohrawardi nomme les amants des <em>Frères de la Vérité</em>, « appellation s’adressant à des amants mystiques qui s’entendent dans une idéalisation commune<a class="noteref" href="4#note66" id="note66_"><sup>66</sup></a> » et fondent ainsi une communauté — comparable à l’Église d’Amour des Cathares.</p>
-                      <p class="p"><em>b) </em>selon le manichéisme iranien, dont s’inspiraient les mystiques de l’école illuminative de Sohrawardi une jeune fille éblouissante attend le fidèle à la sortie du pont Cinvat et lui déclare : « Je suis toi-même ! » Or selon certains interprètes de la mystique des troubadours, la Dame des pensées ne serait autre que la part spirituelle et angélique de l’homme, son vrai <em>moi</em>. Ce qui pourrait nous orienter vers une compréhension nouvelle de ce que nous appelions le « narcissisme de la passion » (à propos de Tristan, chap. <span class="num">viii</span> du Livre I<sup class="sup">er</sup>).</p>
+                      <p class="p">a) Sohrawardi nomme les amants des <em>Frères de la Vérité</em>, « appellation s’adressant à des amants mystiques qui s’entendent dans une idéalisation commune<a class="noteref" href="4#note66" id="note66_"><sup>66</sup></a> » et fondent ainsi une communauté — comparable à l’Église d’Amour des Cathares.</p>
+                      <p class="p">b) selon le manichéisme iranien, dont s’inspiraient les mystiques de l’école illuminative de Sohrawardi une jeune fille éblouissante attend le fidèle à la sortie du pont Cinvat et lui déclare : « Je suis toi-même ! » Or selon certains interprètes de la mystique des troubadours, la Dame des pensées ne serait autre que la part spirituelle et angélique de l’homme, son vrai <em>moi</em>. Ce qui pourrait nous orienter vers une compréhension nouvelle de ce que nous appelions le « narcissisme de la passion » (à propos de Tristan, chap. <span class="num">viii</span> du Livre I<sup class="sup">er</sup>).</p>
                       <p class="p"><em>c</em>) Le <em>Familier des Amants</em> est construit sur l’allégorie du « Château de l’Âme » et de ses différents étages et loges. Dans l’une de ces loges habite un personnage qui se nomme l’Idée voilée. Elle « connaît les secrets qui guérissent et c’est d’elle que l’on apprend la magie ». (L’Iseut celtique était aussi une magicienne, « objet de contemplation, spectacle mystérieux ».) Dans le Château de l’Âme habitent d’autres personnages allégoriques, tels que Beauté, Désir et Angoisse, le Renseigné, le Probateur, le Bien connu : comment ne pas songer au Roman de la Rose ? Et le symbolisme chevaleresque se retrouve dans l’ouvrage de Nizam de Ganja : <em>le Roman des Sept Beautés</em>, qui conte les aventures de sept jeunes filles vêtues aux couleurs des planètes et que visite un roi-chevalier.</p>
                       <p class="p">Nous retrouverons le Château de l’Âme parmi les symboles préférés d’un Ruysbroek et d’une sainte Thérèse…</p>
                       <p class="p"><em>d</em>) Dans un poème du « sultan des amoureux », Omar Ibn al Faridh — pour prendre un exemple entre cent — l’auteur décrit la passion terrible qui l’envoûte :</p>
@@ -1405,7 +1405,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1417,7 +1417,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">II. Les origines religieuses du mythe</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-2-1">II.1. L’« obstacle » naturel et sacré</a>
                         </li>
@@ -1460,7 +1460,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="4#body-2-14">II.14. Premières conclusions</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">III. Passion et mystique</a>
@@ -1483,7 +1483,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1497,7 +1497,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>III. Passion et mystique (1956, L’Amour et l’Occident)</value>
+          <value>III. Passion et mystique (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1515,7 +1515,7 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -1532,14 +1532,14 @@ body-2-14	II.14. Premières conclusions (1956, L’Amour et l’Occident)
           <value>III.1. Position du problème – III.2. Tristan : une aventure mystique – III.3. Transpositions curieuses, mais inévitables – III.4. Les Mystiques orthodoxes et le langage de la passion – III.5. La Rhétorique courtoise chez les mystiques espagnols – III.6. Note sur la métaphore – III.7. Libération finale des mystiques – III.8. Crépuscule de l’amour-passion</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-1	III.1. Position du problème (1956, L’Amour et l’Occident)
-body-3-2	III.2. Tristan : une aventure mystique (1956, L’Amour et l’Occident)
-body-3-3	III.3. Transpositions curieuses, mais inévitables (1956, L’Amour et l’Occident)
-body-3-4	III.4. Les Mystiques orthodoxes et le langage de la passion (1956, L’Amour et l’Occident)
-body-3-5	III.5. La Rhétorique courtoise chez les mystiques espagnols (1956, L’Amour et l’Occident)
-body-3-6	III.6. Note sur la métaphore (1956, L’Amour et l’Occident)
-body-3-7	III.7. Libération finale des mystiques (1956, L’Amour et l’Occident)
-body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occident)
+          <value>body-3-1	III.1. Position du problème (1939, L’Amour et l’Occident (1956))
+body-3-2	III.2. Tristan : une aventure mystique (1939, L’Amour et l’Occident (1956))
+body-3-3	III.3. Transpositions curieuses, mais inévitables (1939, L’Amour et l’Occident (1956))
+body-3-4	III.4. Les Mystiques orthodoxes et le langage de la passion (1939, L’Amour et l’Occident (1956))
+body-3-5	III.5. La Rhétorique courtoise chez les mystiques espagnols (1939, L’Amour et l’Occident (1956))
+body-3-6	III.6. Note sur la métaphore (1939, L’Amour et l’Occident (1956))
+body-3-7	III.7. Libération finale des mystiques (1939, L’Amour et l’Occident (1956))
+body-3-8	III.8. Crépuscule de l’amour-passion (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -1796,7 +1796,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1811,7 +1811,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
                     </li>
                     <li class="here">
                       <a href="#">III. Passion et mystique</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-3-1">III.1. Position du problème</a>
                         </li>
@@ -1836,7 +1836,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
                         <li class="collateral">
                           <a href="5#body-3-8">III.8. Crépuscule de l’amour-passion</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">IV. Le mythe dans la littérature</a>
@@ -1856,7 +1856,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1870,7 +1870,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>IV. Le mythe dans la littérature (1956, L’Amour et l’Occident)</value>
+          <value>IV. Le mythe dans la littérature (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1888,7 +1888,7 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -1905,27 +1905,27 @@ body-3-8	III.8. Crépuscule de l’amour-passion (1956, L’Amour et l’Occiden
           <value>IV.1. D’une influence précise de la littérature sur les mœurs – IV.2. Les deux Roses – IV.3. Sicile, Italie, Béatrice et Symbole – IV.4. Pétrarque, ou le rhéteur converti – IV.5. Un idéal à rebours : la gauloiserie – IV.6. Suite de la chevalerie, jusqu’à Cervantès – IV.7. Roméo et Juliette. — Milton – IV.8. L’Astrée : de la mystique à la psychologie – IV.9. Corneille, ou le mythe combattu – IV.10. Racine, ou le mythe déchaîné – IV.11. Phèdre, ou le mythe « puni » – IV.12. Éclipse du mythe – IV.13. Don Juan et Sade – IV.14. La Nouvelle Héloïse – IV.15. Le romantisme allemand – IV.16. Intériorisation du mythe – IV.17. Stendhal, ou le fiasco du sublime – IV.18. Wagner, ou l’achèvement – IV.19. Vulgarisation du mythe – IV.20. L’instinct glorifié – IV.21. La passion dans tous les domaines</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-4-1	IV.1. D’une influence précise de la littérature sur les mœurs (1956, L’Amour et l’Occident)
-body-4-2	IV.2. Les deux Roses (1956, L’Amour et l’Occident)
-body-4-3	IV.3. Sicile, Italie, Béatrice et Symbole (1956, L’Amour et l’Occident)
-body-4-4	IV.4. Pétrarque, ou le rhéteur converti (1956, L’Amour et l’Occident)
-body-4-5	IV.5. Un idéal à rebours : la gauloiserie (1956, L’Amour et l’Occident)
-body-4-6	IV.6. Suite de la chevalerie, jusqu’à Cervantès (1956, L’Amour et l’Occident)
-body-4-7	IV.7. Roméo et Juliette. — Milton (1956, L’Amour et l’Occident)
-body-4-8	IV.8. L’Astrée : de la mystique à la psychologie (1956, L’Amour et l’Occident)
-body-4-9	IV.9. Corneille, ou le mythe combattu (1956, L’Amour et l’Occident)
-body-4-10	IV.10. Racine, ou le mythe déchaîné (1956, L’Amour et l’Occident)
-body-4-11	IV.11. Phèdre, ou le mythe « puni » (1956, L’Amour et l’Occident)
-body-4-12	IV.12. Éclipse du mythe (1956, L’Amour et l’Occident)
-body-4-13	IV.13. Don Juan et Sade (1956, L’Amour et l’Occident)
-body-4-14	IV.14. La Nouvelle Héloïse (1956, L’Amour et l’Occident)
-body-4-15	IV.15. Le romantisme allemand (1956, L’Amour et l’Occident)
-body-4-16	IV.16. Intériorisation du mythe (1956, L’Amour et l’Occident)
-body-4-17	IV.17. Stendhal, ou le fiasco du sublime (1956, L’Amour et l’Occident)
-body-4-18	IV.18. Wagner, ou l’achèvement (1956, L’Amour et l’Occident)
-body-4-19	IV.19. Vulgarisation du mythe (1956, L’Amour et l’Occident)
-body-4-20	IV.20. L’instinct glorifié (1956, L’Amour et l’Occident)
-body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occident)
+          <value>body-4-1	IV.1. D’une influence précise de la littérature sur les mœurs (1939, L’Amour et l’Occident (1956))
+body-4-2	IV.2. Les deux Roses (1939, L’Amour et l’Occident (1956))
+body-4-3	IV.3. Sicile, Italie, Béatrice et Symbole (1939, L’Amour et l’Occident (1956))
+body-4-4	IV.4. Pétrarque, ou le rhéteur converti (1939, L’Amour et l’Occident (1956))
+body-4-5	IV.5. Un idéal à rebours : la gauloiserie (1939, L’Amour et l’Occident (1956))
+body-4-6	IV.6. Suite de la chevalerie, jusqu’à Cervantès (1939, L’Amour et l’Occident (1956))
+body-4-7	IV.7. Roméo et Juliette. — Milton (1939, L’Amour et l’Occident (1956))
+body-4-8	IV.8. L’Astrée : de la mystique à la psychologie (1939, L’Amour et l’Occident (1956))
+body-4-9	IV.9. Corneille, ou le mythe combattu (1939, L’Amour et l’Occident (1956))
+body-4-10	IV.10. Racine, ou le mythe déchaîné (1939, L’Amour et l’Occident (1956))
+body-4-11	IV.11. Phèdre, ou le mythe « puni » (1939, L’Amour et l’Occident (1956))
+body-4-12	IV.12. Éclipse du mythe (1939, L’Amour et l’Occident (1956))
+body-4-13	IV.13. Don Juan et Sade (1939, L’Amour et l’Occident (1956))
+body-4-14	IV.14. La Nouvelle Héloïse (1939, L’Amour et l’Occident (1956))
+body-4-15	IV.15. Le romantisme allemand (1939, L’Amour et l’Occident (1956))
+body-4-16	IV.16. Intériorisation du mythe (1939, L’Amour et l’Occident (1956))
+body-4-17	IV.17. Stendhal, ou le fiasco du sublime (1939, L’Amour et l’Occident (1956))
+body-4-18	IV.18. Wagner, ou l’achèvement (1939, L’Amour et l’Occident (1956))
+body-4-19	IV.19. Vulgarisation du mythe (1939, L’Amour et l’Occident (1956))
+body-4-20	IV.20. L’instinct glorifié (1939, L’Amour et l’Occident (1956))
+body-4-21	IV.21. La passion dans tous les domaines (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -2203,7 +2203,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                     </section>
                     <section id="body-4-8" class="div level2">
                       <h2 class="head kicker">8.</h2>
-                      <h2 class="head"><em>L’Astré</em>e : de la mystique à la psychologie</h2>
+                      <h2 class="head"><em>L’Astrée</em> : de la mystique à la psychologie</h2>
                       <p class="p autofirst">L’histoire du mythe dans le Roman, au dix-septième siècle français, peut se réduire, hélas, en une formule : la mystique se dégrade en pure psychologie. Le Roman devient l’objet d’une littérature raffinée. D’Urfé, La Calprenède, Gomberville et les Scudéry n’ont plus la moindre idée du sens ésotérique de la chevalerie légendaire. La nature symbolique des sujets qu’ils reprennent les induit simplement à composer d’interminables romans à clef. Polexandre est Louis <span class="num">XIII</span>, Cyrus est le Grand Condé, Diane est Marie de Médicis, etc.</p>
                       <p class="p">Le sujet du roman demeure les « contrariétés » de l’amour mais l’obstacle n’est plus la volonté de mort, si secrète et métaphysique dans <em>Tristan</em> : c’est simplement le point d’honneur, manie sociale. C’est l’héroïne, ici, qui est la plus astucieuse lorsqu’il s’agit d’imaginer des prétextes de séparation. Elle terrorise avec délices son chevaleresque soupirant, et l’on voit Polexandre, dans le roman de Gomberville, parcourir comme un fou les cinq parties du monde pour apaiser un regard irrité de sa maîtresse. Au dénouement, il est encore à se demander si cette « reine de l’Île inaccessible » ne va pas lui faire couper le cou. Mais tout finit, en général, par un mariage, prévu dès la première page et retardé jusqu’à la dix-millième lorsque l’auteur est un champion du genre. C’est le roman allégorique du dix-septième siècle qui inventa le <em>happy ending</em>. Le vrai roman courtois débouchait dans la mort, s’évanouissait dans une exaltation au-delà du monde… Maintenant, l’on veut que tout rentre dans l’ordre, c’est la société qui l’emporte, et dès lors la fin du roman ne saurait être qu’un retour à ce qui n’est plus le roman : au bonheur.</p>
                       <p class="p">Les grands thèmes tragiques du mythe n’éveillent guère dans l’<em>Astrée</em> que des échos mélancoliques. Il y a bien les douze lois d’Amour, les séparations ingénieuses, l’éloge de la chasteté, voire les défis à une mort libératrice. Mais la dialectique sauvage de Tristan n’est plus ici que coquetterie, et le combat du Jour et de la Nuit se ramène à des jeux de pénombre. Entre le corps des deux amants plus d’épée nue, mais la houlette dorée de Céladon ornée d’une faveur de la bergère.</p>
@@ -2554,18 +2554,18 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                       <aside id="note162" role="note" class="note note"><a class="noteback" href="6#note162_">162. </a>Voir Appendice 11.</aside>
                       <aside id="note163" role="note" class="note note">
                         <p class="noindent"><a class="noteback" href="6#note163_">163. </a>Rappelons que l’amour fameux d’Abélard et Héloïse est <em>le premier exemple historique</em> de la passion dont nous parlons ici. Voici le <em>Chant funèbre</em> d’Héloïse composé (par elle-même ?) en vers latins (cité par Rémusat : <em>Abélard</em>, t. I). L’amante supplie :</p>
-                        <q class="quote">
+                        <blockquote class="quote">
                           <div class="l">Soulage-moi de ma croix,</div>
                           <div class="l">Conduis vers la lumière</div>
                           <div class="l">Mon âme délivrée !</div>
-                        </q>
+                        </blockquote>
                         <p class="p autofirst">Et le chœur des religieuses reprend :</p>
-                        <q class="quote">
+                        <blockquote class="quote">
                           <div class="l">Qu’ils se reposent de leur labeur</div>
                           <div class="l">Et de leur douloureux amour !</div>
                           <div class="l">Ils demandaient l’union des habitants des cieux :</div>
                           <div class="l">Déjà ils sont entrés dans le sanctuaire du Sauveur.</div>
-                        </q>
+                        </blockquote>
                         <p class="p autofirst">Abélard répondit assez mal à cette passion. Mais sa théologie, fort hérétique, se rapproche sur des points essentiels de la doctrine spiritualiste des Cathares. Et dans ses <em>Lamentations</em>, il laisse échapper le grand cri du romantisme et de Tristan : « <em>Amoris impulsio, culpæ justificatio</em>. »</p>
                       </aside>
                       <aside id="note164" role="note" class="note note"><a class="noteback" href="6#note164_">164. </a>Est-ce la faute à Rousseau ? Ou plutôt au symbolisme ? Beaucoup de dames d’aujourd’hui croient que « mystique » signifie sentimental. Vitraux, pénombre bleue, arpèges, somnolence de l’esprit, rêverie des sens…</aside>
@@ -2602,7 +2602,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2620,7 +2620,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                     </li>
                     <li class="here">
                       <a href="#">IV. Le mythe dans la littérature</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-4-1">IV.1. D’une influence précise de la littérature sur les mœurs</a>
                         </li>
@@ -2643,7 +2643,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                           <a href="6#body-4-7">IV.7. <em>Roméo et Juliette</em>. — Milton</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-4-8">IV.8. <em>L’Astré</em>e : de la mystique à la psychologie</a>
+                          <a href="6#body-4-8">IV.8. <em>L’Astrée</em> : de la mystique à la psychologie</a>
                         </li>
                         <li class="collateral">
                           <a href="6#body-4-9">IV.9. Corneille, ou le mythe combattu</a>
@@ -2684,7 +2684,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                         <li class="collateral">
                           <a href="6#body-4-21">IV.21. La passion dans tous les domaines</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">V. Amour et guerre</a>
@@ -2701,7 +2701,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2715,7 +2715,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>V. Amour et guerre (1956, L’Amour et l’Occident)</value>
+          <value>V. Amour et guerre (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2733,7 +2733,7 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -2750,17 +2750,17 @@ body-4-21	IV.21. La passion dans tous les domaines (1956, L’Amour et l’Occid
           <value>V.1. Parallélisme des formes – V.2. Langage guerrier de l’amour – V.3. La chevalerie, loi de l’amour et de la guerre – V.4. Les tournois, ou le mythe en acte – V.5. Condottieri et canons – V.6. La guerre classique – V.7. La guerre en dentelles – V.8. La guerre révolutionnaire – V.9. La guerre nationale – V.10. La guerre totale – V.11. La passion transportée dans la politique</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-5-1	V.1. Parallélisme des formes (1956, L’Amour et l’Occident)
-body-5-2	V.2. Langage guerrier de l’amour (1956, L’Amour et l’Occident)
-body-5-3	V.3. La chevalerie, loi de l’amour et de la guerre (1956, L’Amour et l’Occident)
-body-5-4	V.4. Les tournois, ou le mythe en acte (1956, L’Amour et l’Occident)
-body-5-5	V.5. Condottieri et canons (1956, L’Amour et l’Occident)
-body-5-6	V.6. La guerre classique (1956, L’Amour et l’Occident)
-body-5-7	V.7. La guerre en dentelles (1956, L’Amour et l’Occident)
-body-5-8	V.8. La guerre révolutionnaire (1956, L’Amour et l’Occident)
-body-5-9	V.9. La guerre nationale (1956, L’Amour et l’Occident)
-body-5-10	V.10. La guerre totale (1956, L’Amour et l’Occident)
-body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l’Occident)
+          <value>body-5-1	V.1. Parallélisme des formes (1939, L’Amour et l’Occident (1956))
+body-5-2	V.2. Langage guerrier de l’amour (1939, L’Amour et l’Occident (1956))
+body-5-3	V.3. La chevalerie, loi de l’amour et de la guerre (1939, L’Amour et l’Occident (1956))
+body-5-4	V.4. Les tournois, ou le mythe en acte (1939, L’Amour et l’Occident (1956))
+body-5-5	V.5. Condottieri et canons (1939, L’Amour et l’Occident (1956))
+body-5-6	V.6. La guerre classique (1939, L’Amour et l’Occident (1956))
+body-5-7	V.7. La guerre en dentelles (1939, L’Amour et l’Occident (1956))
+body-5-8	V.8. La guerre révolutionnaire (1939, L’Amour et l’Occident (1956))
+body-5-9	V.9. La guerre nationale (1939, L’Amour et l’Occident (1956))
+body-5-10	V.10. La guerre totale (1939, L’Amour et l’Occident (1956))
+body-5-11	V.11. La passion transportée dans la politique (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -2963,7 +2963,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2984,7 +2984,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
                     </li>
                     <li class="here">
                       <a href="#">V. Amour et guerre</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7#body-5-1">V.1. Parallélisme des formes</a>
                         </li>
@@ -3018,7 +3018,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
                         <li class="collateral">
                           <a href="7#body-5-11">V.11. La passion transportée dans la politique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">VI. Le mythe contre le mariage</a>
@@ -3032,7 +3032,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3046,7 +3046,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>VI. Le mythe contre le mariage (1956, L’Amour et l’Occident)</value>
+          <value>VI. Le mythe contre le mariage (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3064,7 +3064,7 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -3081,12 +3081,12 @@ body-5-11	V.11. La passion transportée dans la politique (1956, L’Amour et l�
           <value>VI.1. Crise moderne du mariage – VI.2. Idée moderne du bonheur – VI.3. « Aimer, c’est vivre ! » – VI.4. Épouser Iseut ? – VI.5. De l’anarchie à l’eugénisme – VI.6. Sens de la crise</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-6-1	VI.1. Crise moderne du mariage (1956, L’Amour et l’Occident)
-body-6-2	VI.2. Idée moderne du bonheur (1956, L’Amour et l’Occident)
-body-6-3	VI.3. « Aimer, c’est vivre ! » (1956, L’Amour et l’Occident)
-body-6-4	VI.4. Épouser Iseut ? (1956, L’Amour et l’Occident)
-body-6-5	VI.5. De l’anarchie à l’eugénisme (1956, L’Amour et l’Occident)
-body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
+          <value>body-6-1	VI.1. Crise moderne du mariage (1939, L’Amour et l’Occident (1956))
+body-6-2	VI.2. Idée moderne du bonheur (1939, L’Amour et l’Occident (1956))
+body-6-3	VI.3. « Aimer, c’est vivre ! » (1939, L’Amour et l’Occident (1956))
+body-6-4	VI.4. Épouser Iseut ? (1939, L’Amour et l’Occident (1956))
+body-6-5	VI.5. De l’anarchie à l’eugénisme (1939, L’Amour et l’Occident (1956))
+body-6-6	VI.6. Sens de la crise (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -3144,7 +3144,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
                         <div class="l">J’ai déjà vue, et dont je me souviens…</div>
                       </blockquote>
                       <p class="p autofirst">Image de la mère, sans nul doute, et la psychanalyse nous apprend quels empêchements tragiques cela peut signifier. Mais l’exemple d’un poète ne vaut rien ou vaut trop. J’entends décrire une illusion <em>apprise</em> par la majorité des hommes du vingtième siècle : or plus encore que l’image de la Mère, ce qui les tyrannise, c’est la « beauté standard ».</p>
-                      <p class="p">De nos jours — et ce n’est qu’un début — un homme qui se prend de passion pour une femme qu’il est <em>seul</em> à voir belle, est présumé neurasthénique. (Dans <em>x </em>années, on le fera soigner.) Certes, la standardisation des types de femmes admis pour « beaux » se produit normalement dans chaque génération, de même que chaque époque de la mode préfère soit la tête, soit le buste, soit la croupe, soit la ligne sportive. Mais le panurgisme esthétique atteint de nos jours une puissance inconnue, développée par tous les moyens techniques, et parfois politiques, en sorte que le choix d’un type de femme échappe de plus en plus au mystère personnel, et se trouve déterminé par Hollywood — ou par l’État. Double influence de la beauté-standard : elle définit d’avance l’objet de la passion — dépersonnalisé dans cette mesure — et disqualifie le mariage, si l’épouse ne ressemble pas à la star la plus obsédante. Ainsi la « liberté » de la passion relève des statistiques publicitaires. L’homme qui croit désirer « son » type de femme se trouve intimement déterminé par des facteurs de mode ou de commerce, c’est-à-dire par la nouveauté.</p>
+                      <p class="p">De nos jours — et ce n’est qu’un début — un homme qui se prend de passion pour une femme qu’il est <em>seul</em> à voir belle, est présumé neurasthénique. (Dans x années, on le fera soigner.) Certes, la standardisation des types de femmes admis pour « beaux » se produit normalement dans chaque génération, de même que chaque époque de la mode préfère soit la tête, soit le buste, soit la croupe, soit la ligne sportive. Mais le panurgisme esthétique atteint de nos jours une puissance inconnue, développée par tous les moyens techniques, et parfois politiques, en sorte que le choix d’un type de femme échappe de plus en plus au mystère personnel, et se trouve déterminé par Hollywood — ou par l’État. Double influence de la beauté-standard : elle définit d’avance l’objet de la passion — dépersonnalisé dans cette mesure — et disqualifie le mariage, si l’épouse ne ressemble pas à la star la plus obsédante. Ainsi la « liberté » de la passion relève des statistiques publicitaires. L’homme qui croit désirer « son » type de femme se trouve intimement déterminé par des facteurs de mode ou de commerce, c’est-à-dire par la nouveauté.</p>
                     </section>
                     <section id="body-6-4" class="div level2">
                       <h2 class="head kicker">4.</h2>
@@ -3230,7 +3230,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3254,7 +3254,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">VI. Le mythe contre le mariage</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8#body-6-1">VI.1. Crise moderne du mariage</a>
                         </li>
@@ -3273,7 +3273,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="8#body-6-6">VI.6. Sens de la crise</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="9">VII. L’amour action, ou de la fidélité</a>
@@ -3284,7 +3284,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3298,7 +3298,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>VII. L’amour action, ou de la fidélité (1956, L’Amour et l’Occident)</value>
+          <value>VII. L’amour action, ou de la fidélité (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3316,7 +3316,7 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -3333,13 +3333,13 @@ body-6-6	VI.6. Sens de la crise (1956, L’Amour et l’Occident)
           <value>VII.1. Nécessité d’un parti pris – VII.2. Critique du mariage – VII.3. Le mariage comme décision – VII.4. Sur la fidélité – VII.5. Éros sauvé par Agapè – VII.6. Les paradoxes de l’Occident – VII.7. Au-delà de la tragédie</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-7-1	VII.1. Nécessité d’un parti pris (1956, L’Amour et l’Occident)
-body-7-2	VII.2. Critique du mariage (1956, L’Amour et l’Occident)
-body-7-3	VII.3. Le mariage comme décision (1956, L’Amour et l’Occident)
-body-7-4	VII.4. Sur la fidélité (1956, L’Amour et l’Occident)
-body-7-5	VII.5. Éros sauvé par Agapè (1956, L’Amour et l’Occident)
-body-7-6	VII.6. Les paradoxes de l’Occident (1956, L’Amour et l’Occident)
-body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
+          <value>body-7-1	VII.1. Nécessité d’un parti pris (1939, L’Amour et l’Occident (1956))
+body-7-2	VII.2. Critique du mariage (1939, L’Amour et l’Occident (1956))
+body-7-3	VII.3. Le mariage comme décision (1939, L’Amour et l’Occident (1956))
+body-7-4	VII.4. Sur la fidélité (1939, L’Amour et l’Occident (1956))
+body-7-5	VII.5. Éros sauvé par Agapè (1939, L’Amour et l’Occident (1956))
+body-7-6	VII.6. Les paradoxes de l’Occident (1939, L’Amour et l’Occident (1956))
+body-7-7	VII.7. Au-delà de la tragédie (1939, L’Amour et l’Occident (1956))
 </value>
         </attributekey>
       </attributes>
@@ -3523,7 +3523,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3550,7 +3550,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                     </li>
                     <li class="here">
                       <a href="#">VII. L’amour action, ou de la fidélité</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9#body-7-1">VII.1. Nécessité d’un parti pris</a>
                         </li>
@@ -3572,7 +3572,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                         <li class="collateral">
                           <a href="9#body-7-7">VII.7. Au-delà de la tragédie</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="10">Appendices</a>
@@ -3580,7 +3580,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3594,7 +3594,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Appendices (1956, L’Amour et l’Occident)</value>
+          <value>Appendices (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3612,7 +3612,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -3767,7 +3767,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3801,7 +3801,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                     <li class="collateral">
                       <a href="11">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3815,7 +3815,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Bibliographie (1956, L’Amour et l’Occident)</value>
+          <value>Bibliographie (1939, L’Amour et l’Occident (1956))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3833,7 +3833,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "L’Amour et l’Occident (1956)",
+    "name": "L’Amour et l’Occident (1956) (1939)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1956ao",
       "@type": "Book"
@@ -4040,7 +4040,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                       <div class="bibl"><span class="sc">Lavaud</span> (R. P.). <cite class="title">Le Monde moderne et le mariage chrétien</cite>, 1934.</div>
                       <div class="bibl">– <cite class="title">L’Idée divine du mariage</cite> (Études carmélitaines), avril 1936.</div>
                       <div class="bibl"><span class="sc">Kierkegaard</span>. <cite class="title">L’Alternative, Stades sur le chemin de la vie</cite>, etc.</div>
-                      <div class="bibl"><span class="sc">Nygren</span> (A.). <cite class="title">Éros und Agap</cite>è, 2 vol., Gütersloh, 1937.</div>
+                      <div class="bibl"><span class="sc">Nygren</span> (A.). <cite class="title">Éros und Agapè</cite>, 2 vol., Gütersloh, 1937.</div>
                       <div class="bibl"><span class="sc">Pie</span> XI. <cite class="title">Encyclique Casti Connubi</cite>, Bruges, 1931.</div>
                       <div class="bibl"><span class="sc">Pury</span> (R. DE). <cite class="title">Éros et Agapè</cite> (in <cite class="title">Problèmes de la sexualité</cite>, 1937).</div>
                       <div class="bibl"><span class="sc">Westermarck</span> (E.). <cite class="title en" lang="en">A short history of marriage</cite>, Londres, 1926.</div>
@@ -4074,7 +4074,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4108,7 +4108,7 @@ body-7-7	VII.7. Au-delà de la tragédie (1956, L’Amour et l’Occident)
                     <li class="here">
                       <a href="#">Bibliographie</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

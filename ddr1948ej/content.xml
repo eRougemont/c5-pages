@@ -285,19 +285,19 @@ body-1-2	1.b. Choisir l’Europe (1948, L’Europe en jeu. Trois discours suivis
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">
                         <span class="num">I</span>
                       </a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="1#body-1-1">1.a. Les maladies de l’Europe</a>
                         </li>
                         <li class="collateral">
                           <a href="1#body-1-2">1.b. Choisir l’Europe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="2">
@@ -314,7 +314,7 @@ body-1-2	1.b. Choisir l’Europe (1948, L’Europe en jeu. Trois discours suivis
                         <span class="num">IV</span>
                       </a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -577,7 +577,7 @@ body-2-3	2.c. L’Europe nécessaire (1948, L’Europe en jeu. Trois discours su
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
@@ -587,7 +587,7 @@ body-2-3	2.c. L’Europe nécessaire (1948, L’Europe en jeu. Trois discours su
                       <a href="#">
                         <span class="num">II</span>
                       </a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">2.a. L’attitude fédéraliste</a>
                         </li>
@@ -597,7 +597,7 @@ body-2-3	2.c. L’Europe nécessaire (1948, L’Europe en jeu. Trois discours su
                         <li class="collateral">
                           <a href="2#body-2-3">2.c. L’Europe nécessaire</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">
@@ -609,7 +609,7 @@ body-2-3	2.c. L’Europe nécessaire (1948, L’Europe en jeu. Trois discours su
                         <span class="num">IV</span>
                       </a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -969,7 +969,7 @@ body-3-2	3.b. Le Congrès de La Haye ou la voix de l’Europe (1948, L’Europe 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
@@ -984,21 +984,21 @@ body-3-2	3.b. Le Congrès de La Haye ou la voix de l’Europe (1948, L’Europe 
                       <a href="#">
                         <span class="num">III</span>
                       </a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">3.a. L’aventure du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
                         <li class="collateral">
                           <a href="3#body-3-2">3.b. Le Congrès de La Haye ou la voix de l’Europe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">
                         <span class="num">IV</span>
                       </a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1241,9 +1241,7 @@ body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis 
                       <a class="pb" href="#p170" id="p170">[p. 170]</a>
                       <h2 class="head">Quelques chiffres</h2>
                       <p class="p autofirst">Je disais plus haut que l’Europe d’aujourd’hui, entre les deux empires, « nous paraît plus petite que nature ». En effet, si l’on se borne aux seules données physiques, l’Europe ne représente que 4 % de la superficie mondiale. Mais voici d’autres chiffres notables.</p>
-                      <p class="p center">
-                        <b class="b">Population de l’Europe</b>
-                      </p>
+                      <p class="p center b">Population de l’Europe</p>
                       <table class="table">
                         <tr>
                           <td>occidentale</td>
@@ -1262,9 +1260,7 @@ body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis 
                         </tr>
                       </table>
                       <p class="p"> </p>
-                      <p class="p autofirst center">
-                        <b class="b">Population des « deux Grands »</b>
-                      </p>
+                      <p class="p autofirst center b">Population des « deux Grands »</p>
                       <table class="table">
                         <tr>
                           <td>USA</td>
@@ -1299,7 +1295,7 @@ body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">
                         <span class="num">I</span>
@@ -1319,7 +1315,7 @@ body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis 
                       <a href="#">
                         <span class="num">IV</span>
                       </a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">4.a. Pour un Centre européen de la culture (documents de La Haye)</a>
                         </li>
@@ -1335,9 +1331,9 @@ body-4-5	4.e. Quelques chiffres (1948, L’Europe en jeu. Trois discours suivis 
                         <li class="collateral">
                           <a href="4#body-4-5">4.e. Quelques chiffres</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

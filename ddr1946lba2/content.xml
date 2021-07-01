@@ -89,7 +89,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">1. La nouvelle</a>
                     </li>
@@ -156,7 +156,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -247,7 +247,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -314,7 +314,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -407,7 +407,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -474,7 +474,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -554,7 +554,7 @@
                     <p class="p">Si mes arguments, jusqu’ici, n’ont pas suffi à vous convaincre des possibilités illimitées qui s’ouvrent pour l’âge atomique, je copie à votre intention quelques petites nouvelles pittoresques : « Alamogordo (New Mexico). La population est très excitée par l’annonce que les vaches rouges de la contrée sont devenues blanches à la suite de la première expérience d’explosion atomique au mois de juillet. » — « Carrizozo (New Mexico). Un chat noir est devenu à moitié blanc. Un cowboy du village de Brigham accuse l’atome d’avoir fait grisonner sa barbe. » — « Boston (Mass). Un savant prévoit qu’en jouant du piano, il pourra faire sauter une ville. » — « Washington, D.C. Plus de cinq mille produits et procédés industriels ont été inventés au cours des travaux sur la bombe atomique dans l’usine de Oak Ridge, Tenn. » — « San Francisco (Californie). Parmi les rescapés d’Hiroshima, plusieurs femmes naguère réputées stériles sont aujourd’hui enceintes. Les médecins américains estiment 
 <a class="pb" href="#p31" id="p31">[p. 31]</a>
  que le fait est dû à la fin des hostilités, plutôt qu’à la Bombe. » — « Alamogordo (New Mexico). Des poules qui n’avaient pas pondu depuis des mois se sont remises à pondre après l’expérience de juillet. »</p>
-                    <p class="p">Mais ce ne sont là que des « faits », comme disent la science et les politiciens cyniques. Les faits sont les déchets de l’imagination. Et ceux que nous voyons aujourd’hui, et que nous étudions et mesurons, sont en réalité déterminés par l<i class="fr i" lang="fr">’angle</i> obtus sous lequel nous approchons le réel. Changeons d’angle et le monde changera. Nous verrons d’autres « faits », nous trouverons d’autres « lois ».</p>
+                    <p class="p">Mais ce ne sont là que des « faits », comme disent la science et les politiciens cyniques. Les faits sont les déchets de l’imagination. Et ceux que nous voyons aujourd’hui, et que nous étudions et mesurons, sont en réalité déterminés par l’<em>angle</em> obtus sous lequel nous approchons le réel. Changeons d’angle et le monde changera. Nous verrons d’autres « faits », nous trouverons d’autres « lois ».</p>
                     <p class="p">À ce sujet, je vous envoie une petite parabole que je viens d’écrire pour un livre en préparation.</p>
                     <p class="label">Le Moteur à fées</p>
                     <p class="p autofirst">Tout cela est très joli ! disait le Docteur, mais quoi, la science reste la science, la seule méthode honnête, rigoureuse, éprouvée, d’analyse ou de construction. La seule 
@@ -585,7 +585,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -652,7 +652,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -743,7 +743,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -810,7 +810,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -903,7 +903,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -970,7 +970,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1032,7 +1032,7 @@
                     <p class="p autofirst">Vos objections à ma thèse sur l’armée et la mort de la guerre militaire m’obligent à vous demander de relire mes lettres. J’avais tout réfuté d’avance. Mais je m’aperçois que votre attitude est plus sentimentale que réaliste, et qu’en vertu de cette disposition, c’est le ton de ma correspondance qui a seul agi sur vous, et non mes arguments.</p>
                     <p class="p">Vous me reprochez d’exagérer, et de porter « à la légère » des jugements fort graves, en vérité. Je crains que nous n’ayons plus la même notion du sérieux et de la gravité. Vous êtes encore pré-atomique. Ce n’est pas seulement un océan, mais toute une ère qui nous sépare. Non, c’en est trop ! Écoutez-moi, 
 <a class="pb" href="#p47" id="p47">[p. 47]</a>
- venez ici et regard<a id="_GoBack">‌</a>ez avec moi.</p>
+ venez ici et regardez avec moi.</p>
                     <p class="p">Quand je vois que tout est changé dans notre monde depuis Hiroshima, et que cependant les responsables du sort commun agissent exactement comme d’habitude, c’est-à-dire peu ou pas du tout ; quand je vois que le ciel bleu ne promet plus que la mort instantanée pour des millions, et que cependant le sous-comité judiciaire du Congrès américain discute encore la question de savoir si la guerre a pris fin légalement le 14 août ou le 2 septembre ; quand je vois les savants unanimes déclarer qu’il n’existe pas de défense imaginable contre un raid atomique, et que cependant les généraux réclament au nom de la patrie la conscription obligatoire ; quand je vois les ruines de l’Europe, et que cependant on y fabrique des armes et on y coud des uniformes, au lieu de rebâtir des maisons et de vêtir ceux qui sont nus ; quand je vois la guerre et que chacun s’y prépare ; quand je vois que tout le monde voit cela comme moi, et que personne ne hurle : aux fous ! hommes d’État, généraux, parlementaires, économistes, radoteurs 
 <a class="pb" href="#p48" id="p48">[p. 48]</a>
  à gages, ils sont tous fous, ne les écoutez plus ! — quand je vois que si je dis tout cela, les gens sourient et trouvent que j’exagère, eh bien, chère amie, je souris. C’est ma manière nouvelle d’être sérieux.</p>
@@ -1060,7 +1060,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1127,7 +1127,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1219,7 +1219,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1286,7 +1286,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1379,7 +1379,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1446,7 +1446,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1542,7 +1542,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1609,7 +1609,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1702,7 +1702,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1769,7 +1769,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1864,7 +1864,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -1931,7 +1931,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2024,7 +2024,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2091,7 +2091,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2193,7 +2193,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2260,7 +2260,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2357,7 +2357,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2424,7 +2424,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2531,7 +2531,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2598,7 +2598,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2687,7 +2687,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2754,7 +2754,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2853,7 +2853,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -2920,7 +2920,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3003,7 +3003,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -3070,7 +3070,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3149,7 +3149,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -3216,7 +3216,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3292,7 +3292,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -3359,7 +3359,7 @@
                     <li class="collateral">
                       <a href="22">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3434,7 +3434,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">1. La nouvelle</a>
                     </li>
@@ -3501,7 +3501,7 @@
                     <li class="here">
                       <a href="#">iv. La vérité n’est plus du côté des canons</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

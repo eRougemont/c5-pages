@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Note de l’éditeur (1944, La Part du Diable)</value>
+          <value>Note de l’éditeur (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -90,7 +90,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Note de l’éditeur</a>
                     </li>
@@ -112,7 +112,7 @@
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -126,7 +126,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1944, La Part du Diable)</value>
+          <value>Introduction. Que la connaissance du vrai danger nous guérit des fausses peurs (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -144,7 +144,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -207,7 +207,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -229,7 +229,7 @@
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -243,7 +243,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I. L’Incognito et la Révélation (1944, La Part du Diable)</value>
+          <value>I. L’Incognito et la Révélation (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -261,7 +261,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -278,20 +278,20 @@
           <value>1. Le premier tour – 2. L’Incognito – 3. Pour ceux qui n’en voient que la queue – 4. Réalité du mythe – 5. L’Ange déchu – 6. Le Prince de ce monde – 7. Le Tentateur – 8. « Connaissant le Bien et le Mal » – 9. Le Menteur – 10. L’Accusateur – 11. Légion – 12. Le sophisme – 13. Diable et péché – 14. Le psychanalyste confondu</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-2-1	1. Le premier tour (1944, La Part du Diable)
-body-2-2	2. L’Incognito (1944, La Part du Diable)
-body-2-3	3. Pour ceux qui n’en voient que la queue (1944, La Part du Diable)
-body-2-4	4. Réalité du mythe (1944, La Part du Diable)
-body-2-5	5. L’Ange déchu (1944, La Part du Diable)
-body-2-6	6. Le Prince de ce monde (1944, La Part du Diable)
-body-2-7	7. Le Tentateur (1944, La Part du Diable)
-body-2-8	8. « Connaissant le Bien et le Mal » (1944, La Part du Diable)
-body-2-9	9. Le Menteur (1944, La Part du Diable)
-body-2-10	10. L’Accusateur (1944, La Part du Diable)
-body-2-11	11. Légion (1944, La Part du Diable)
-body-2-12	12. Le sophisme (1944, La Part du Diable)
-body-2-13	13. Diable et péché (1944, La Part du Diable)
-body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
+          <value>body-2-1	1. Le premier tour (1942, La Part du Diable (1944))
+body-2-2	2. L’Incognito (1942, La Part du Diable (1944))
+body-2-3	3. Pour ceux qui n’en voient que la queue (1942, La Part du Diable (1944))
+body-2-4	4. Réalité du mythe (1942, La Part du Diable (1944))
+body-2-5	5. L’Ange déchu (1942, La Part du Diable (1944))
+body-2-6	6. Le Prince de ce monde (1942, La Part du Diable (1944))
+body-2-7	7. Le Tentateur (1942, La Part du Diable (1944))
+body-2-8	8. « Connaissant le Bien et le Mal » (1942, La Part du Diable (1944))
+body-2-9	9. Le Menteur (1942, La Part du Diable (1944))
+body-2-10	10. L’Accusateur (1942, La Part du Diable (1944))
+body-2-11	11. Légion (1942, La Part du Diable (1944))
+body-2-12	12. Le sophisme (1942, La Part du Diable (1944))
+body-2-13	13. Diable et péché (1942, La Part du Diable (1944))
+body-2-14	14. Le psychanalyste confondu (1942, La Part du Diable (1944))
 </value>
         </attributekey>
       </attributes>
@@ -590,7 +590,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -599,7 +599,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">I. L’Incognito et la Révélation</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-2-1"><span class="num">1.</span>  Le premier tour</a>
                         </li>
@@ -642,7 +642,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
                         <li class="collateral">
                           <a href="3#body-2-14"><span class="num">14.</span>  Le psychanalyste confondu</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">II. Hitler ou l’alibi</a>
@@ -656,7 +656,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -670,7 +670,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II. Hitler ou l’alibi (1944, La Part du Diable)</value>
+          <value>II. Hitler ou l’alibi (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -688,7 +688,7 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -705,15 +705,15 @@ body-2-14	14. Le psychanalyste confondu (1944, La Part du Diable)
           <value>15. Où paraît la nécessité d’un alibi – 16. Le deuxième tour – 17. Hitler est-il l’Antéchrist ? – 18. Le Diable en chemise brune – 19. Le directeur d’inconscience – 20. Midas prolétarien – 21. Le Fléau de Dieu – 22. Le Faussaire – 23. Après Hitler</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-1	15. Où paraît la nécessité d’un alibi (1944, La Part du Diable)
-body-3-2	16. Le deuxième tour (1944, La Part du Diable)
-body-3-3	17. Hitler est-il l’Antéchrist ? (1944, La Part du Diable)
-body-3-4	18. Le Diable en chemise brune (1944, La Part du Diable)
-body-3-5	19. Le directeur d’inconscience (1944, La Part du Diable)
-body-3-6	20. Midas prolétarien (1944, La Part du Diable)
-body-3-7	21. Le Fléau de Dieu (1944, La Part du Diable)
-body-3-8	22. Le Faussaire (1944, La Part du Diable)
-body-3-9	23. Après Hitler (1944, La Part du Diable)
+          <value>body-3-1	15. Où paraît la nécessité d’un alibi (1942, La Part du Diable (1944))
+body-3-2	16. Le deuxième tour (1942, La Part du Diable (1944))
+body-3-3	17. Hitler est-il l’Antéchrist ? (1942, La Part du Diable (1944))
+body-3-4	18. Le Diable en chemise brune (1942, La Part du Diable (1944))
+body-3-5	19. Le directeur d’inconscience (1942, La Part du Diable (1944))
+body-3-6	20. Midas prolétarien (1942, La Part du Diable (1944))
+body-3-7	21. Le Fléau de Dieu (1942, La Part du Diable (1944))
+body-3-8	22. Le Faussaire (1942, La Part du Diable (1944))
+body-3-9	23. Après Hitler (1942, La Part du Diable (1944))
 </value>
         </attributekey>
       </attributes>
@@ -887,7 +887,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -899,7 +899,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">II. Hitler ou l’alibi</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-3-1"><span class="num">15.</span>  Où paraît la nécessité d’un alibi</a>
                         </li>
@@ -927,7 +927,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
                         <li class="collateral">
                           <a href="4#body-3-9"><span class="num">23.</span>  Après Hitler</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">III. Le Diable démocrate</a>
@@ -938,7 +938,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -952,7 +952,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>III. Le Diable démocrate (1944, La Part du Diable)</value>
+          <value>III. Le Diable démocrate (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -970,7 +970,7 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -987,20 +987,20 @@ body-3-9	23. Après Hitler (1944, La Part du Diable)
           <value>24. Erreur fatale des démocraties – 25. Notre primitivisme – 26. « Nous sommes tous coupables » – 27. Signalement du Diable déguisé en démocrate – 28. L’Humour et la démocratie – 29. Le Démon de la Liberté – 30. Le Démon de la Police – 31. Le Démon de la Sécurité – 32. Le Démon de l’Insignifiance – 33. Brève histoire d’un couple correct – 34. Le démon de la popularité – 35. Paradoxe de la démocratie – 36. La cinquième colonne de tous les temps – 37. Une bonne adresse</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-4-1	24. Erreur fatale des démocraties (1944, La Part du Diable)
-body-4-2	25. Notre primitivisme (1944, La Part du Diable)
-body-4-3	26. « Nous sommes tous coupables » (1944, La Part du Diable)
-body-4-4	27. Signalement du Diable déguisé en démocrate (1944, La Part du Diable)
-body-4-5	28. L’Humour et la démocratie (1944, La Part du Diable)
-body-4-6	29. Le Démon de la Liberté (1944, La Part du Diable)
-body-4-7	30. Le Démon de la Police (1944, La Part du Diable)
-body-4-8	31. Le Démon de la Sécurité (1944, La Part du Diable)
-body-4-9	32. Le Démon de l’Insignifiance (1944, La Part du Diable)
-body-4-10	33. Brève histoire d’un couple correct (1944, La Part du Diable)
-body-4-11	34. Le démon de la popularité (1944, La Part du Diable)
-body-4-12	35. Paradoxe de la démocratie (1944, La Part du Diable)
-body-4-13	36. La cinquième colonne de tous les temps (1944, La Part du Diable)
-body-4-14	37. Une bonne adresse (1944, La Part du Diable)
+          <value>body-4-1	24. Erreur fatale des démocraties (1942, La Part du Diable (1944))
+body-4-2	25. Notre primitivisme (1942, La Part du Diable (1944))
+body-4-3	26. « Nous sommes tous coupables » (1942, La Part du Diable (1944))
+body-4-4	27. Signalement du Diable déguisé en démocrate (1942, La Part du Diable (1944))
+body-4-5	28. L’Humour et la démocratie (1942, La Part du Diable (1944))
+body-4-6	29. Le Démon de la Liberté (1942, La Part du Diable (1944))
+body-4-7	30. Le Démon de la Police (1942, La Part du Diable (1944))
+body-4-8	31. Le Démon de la Sécurité (1942, La Part du Diable (1944))
+body-4-9	32. Le Démon de l’Insignifiance (1942, La Part du Diable (1944))
+body-4-10	33. Brève histoire d’un couple correct (1942, La Part du Diable (1944))
+body-4-11	34. Le démon de la popularité (1942, La Part du Diable (1944))
+body-4-12	35. Paradoxe de la démocratie (1942, La Part du Diable (1944))
+body-4-13	36. La cinquième colonne de tous les temps (1942, La Part du Diable (1944))
+body-4-14	37. Une bonne adresse (1942, La Part du Diable (1944))
 </value>
         </attributekey>
       </attributes>
@@ -1253,7 +1253,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -1268,7 +1268,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">III. Le Diable démocrate</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-4-1"><span class="num">24.</span>  Erreur fatale des démocraties</a>
                         </li>
@@ -1311,7 +1311,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
                         <li class="collateral">
                           <a href="5#body-4-14"><span class="num">37.</span>  Une bonne adresse</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">IV. Le Diable dans nos dieux et dans nos maladies</a>
@@ -1319,7 +1319,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1333,7 +1333,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>IV. Le Diable dans nos dieux et dans nos maladies (1944, La Part du Diable)</value>
+          <value>IV. Le Diable dans nos dieux et dans nos maladies (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1351,7 +1351,7 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -1368,27 +1368,27 @@ body-4-14	37. Une bonne adresse (1944, La Part du Diable)
           <value>38. Le diable dans nos dieux – 39. Le Diable dans l’Église – 40. Le Diable théologien – 41. Le Diable et le philanthrope – 42. Le Diable homme du monde – 43. Mr. Time, l’homme d’affaires pressé – 44. Le Diable auteur – 45. Le pacte avec le Diable – 46. Le Diable tire les cartes – 47. Le mal du siècle : la dépersonnalisation – 48. La Tour de Babel – 49. L’Ennui, sentiment moderne – 50. « Vital » et autres sophismes – 51. Le Diable au cœur – 52. La Passion – 53. Diable et sexe – 54. L’Éternel Féminin – 55. La bastonnade (dessin animé) – 56. Situations sans issue – 57. Le coup de pistolet – 58. Ce livre est-il sans issue ?</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-5-1	38. Le diable dans nos dieux (1944, La Part du Diable)
-body-5-2	39. Le Diable dans l’Église (1944, La Part du Diable)
-body-5-3	40. Le Diable théologien (1944, La Part du Diable)
-body-5-4	41. Le Diable et le philanthrope (1944, La Part du Diable)
-body-5-5	42. Le Diable homme du monde (1944, La Part du Diable)
-body-5-6	43. Mr. Time, l’homme d’affaires pressé (1944, La Part du Diable)
-body-5-7	44. Le Diable auteur (1944, La Part du Diable)
-body-5-8	45. Le pacte avec le Diable (1944, La Part du Diable)
-body-5-9	46. Le Diable tire les cartes (1944, La Part du Diable)
-body-5-10	47. Le mal du siècle : la dépersonnalisation (1944, La Part du Diable)
-body-5-11	48. La Tour de Babel (1944, La Part du Diable)
-body-5-12	49. L’Ennui, sentiment moderne (1944, La Part du Diable)
-body-5-13	50. « Vital » et autres sophismes (1944, La Part du Diable)
-body-5-14	51. Le Diable au cœur (1944, La Part du Diable)
-body-5-15	52. La Passion (1944, La Part du Diable)
-body-5-16	53. Diable et sexe (1944, La Part du Diable)
-body-5-17	54. L’Éternel Féminin (1944, La Part du Diable)
-body-5-18	55. La bastonnade (dessin animé) (1944, La Part du Diable)
-body-5-19	56. Situations sans issue (1944, La Part du Diable)
-body-5-20	57. Le coup de pistolet (1944, La Part du Diable)
-body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
+          <value>body-5-1	38. Le diable dans nos dieux (1942, La Part du Diable (1944))
+body-5-2	39. Le Diable dans l’Église (1942, La Part du Diable (1944))
+body-5-3	40. Le Diable théologien (1942, La Part du Diable (1944))
+body-5-4	41. Le Diable et le philanthrope (1942, La Part du Diable (1944))
+body-5-5	42. Le Diable homme du monde (1942, La Part du Diable (1944))
+body-5-6	43. Mr. Time, l’homme d’affaires pressé (1942, La Part du Diable (1944))
+body-5-7	44. Le Diable auteur (1942, La Part du Diable (1944))
+body-5-8	45. Le pacte avec le Diable (1942, La Part du Diable (1944))
+body-5-9	46. Le Diable tire les cartes (1942, La Part du Diable (1944))
+body-5-10	47. Le mal du siècle : la dépersonnalisation (1942, La Part du Diable (1944))
+body-5-11	48. La Tour de Babel (1942, La Part du Diable (1944))
+body-5-12	49. L’Ennui, sentiment moderne (1942, La Part du Diable (1944))
+body-5-13	50. « Vital » et autres sophismes (1942, La Part du Diable (1944))
+body-5-14	51. Le Diable au cœur (1942, La Part du Diable (1944))
+body-5-15	52. La Passion (1942, La Part du Diable (1944))
+body-5-16	53. Diable et sexe (1942, La Part du Diable (1944))
+body-5-17	54. L’Éternel Féminin (1942, La Part du Diable (1944))
+body-5-18	55. La bastonnade (dessin animé) (1942, La Part du Diable (1944))
+body-5-19	56. Situations sans issue (1942, La Part du Diable (1944))
+body-5-20	57. Le coup de pistolet (1942, La Part du Diable (1944))
+body-5-21	58. Ce livre est-il sans issue ? (1942, La Part du Diable (1944))
 </value>
         </attributekey>
       </attributes>
@@ -1825,7 +1825,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -1843,7 +1843,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">IV. Le Diable dans nos dieux et dans nos maladies</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-5-1"><span class="num">38.</span>  Le diable dans nos dieux</a>
                         </li>
@@ -1907,12 +1907,12 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
                         <li class="collateral">
                           <a href="6#body-5-21"><span class="num">58.</span>  Ce livre est-il sans issue ?</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">V. Le Bleu du Ciel</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1926,7 +1926,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>V. Le Bleu du Ciel (1944, La Part du Diable)</value>
+          <value>V. Le Bleu du Ciel (1942, La Part du Diable (1944))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1944,7 +1944,7 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "La Part du Diable (1944)",
+    "name": "La Part du Diable (1944) (1942)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1944partdia",
       "@type": "Book"
@@ -1961,14 +1961,14 @@ body-5-21	58. Ce livre est-il sans issue ? (1944, La Part du Diable)
           <value>59. La lutte contre le Diable – 60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel – 61. L’exorcisme, ou l’ordre personnel – 62. L’ordre cosmique – 63. L’ordre social – 64. Le sens des mots – 65. Vertus – 66. Le Bleu du Ciel</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-6-1	59. La lutte contre le Diable (1944, La Part du Diable)
-body-6-2	60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel (1944, La Part du Diable)
-body-6-3	61. L’exorcisme, ou l’ordre personnel (1944, La Part du Diable)
-body-6-4	62. L’ordre cosmique (1944, La Part du Diable)
-body-6-5	63. L’ordre social (1944, La Part du Diable)
-body-6-6	64. Le sens des mots (1944, La Part du Diable)
-body-6-7	65. Vertus (1944, La Part du Diable)
-body-6-8	66. Le Bleu du Ciel (1944, La Part du Diable)
+          <value>body-6-1	59. La lutte contre le Diable (1942, La Part du Diable (1944))
+body-6-2	60. Saint Michel, ou l’ordre céleste, aussi nommé spirituel (1942, La Part du Diable (1944))
+body-6-3	61. L’exorcisme, ou l’ordre personnel (1942, La Part du Diable (1944))
+body-6-4	62. L’ordre cosmique (1942, La Part du Diable (1944))
+body-6-5	63. L’ordre social (1942, La Part du Diable (1944))
+body-6-6	64. Le sens des mots (1942, La Part du Diable (1944))
+body-6-7	65. Vertus (1942, La Part du Diable (1944))
+body-6-8	66. Le Bleu du Ciel (1942, La Part du Diable (1944))
 </value>
         </attributekey>
       </attributes>
@@ -2204,7 +2204,7 @@ body-6-8	66. Le Bleu du Ciel (1944, La Part du Diable)
                         <div class="b note-page">
                           <a href="7#pb184">p. 184</a>
                         </div>
-                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="7#note27_">27. </a>Daniel Defoe<a id="_GoBack">‌</a>.</aside>
+                        <aside id="note27" role="note" class="note bottomnote"><a class="noteback" href="7#note27_">27. </a>Daniel Defoe.</aside>
                         <aside id="note28" role="note" class="note bottomnote"><a class="noteback" href="7#note28_">28. </a>Je prends le mot prochain au sens que lui donne la parabole du Bon Samaritain. — Qui est mon prochain ? — Celui qui a besoin de ton aide, ou celui qui t’en donne. Ce peut être n’importe quel homme, — celui qui passe sur ton chemin et qui s’arrête…</aside>
                       </div>
                       <div class="page">
@@ -2259,7 +2259,7 @@ body-6-8	66. Le Bleu du Ciel (1944, La Part du Diable)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’éditeur</a>
                     </li>
@@ -2280,7 +2280,7 @@ body-6-8	66. Le Bleu du Ciel (1944, La Part du Diable)
                     </li>
                     <li class="here">
                       <a href="#">V. Le Bleu du Ciel</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7#body-6-1"><span class="num">59.</span>  La lutte contre le Diable</a>
                         </li>
@@ -2305,9 +2305,9 @@ body-6-8	66. Le Bleu du Ciel (1944, La Part du Diable)
                         <li class="collateral">
                           <a href="7#body-6-8"><span class="num">66.</span>  Le Bleu du Ciel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

@@ -91,7 +91,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -116,7 +116,7 @@
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -191,7 +191,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -216,7 +216,7 @@
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -504,7 +504,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -529,7 +529,7 @@
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -830,7 +830,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -842,7 +842,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
                     </li>
                     <li class="here">
                       <a href="#">2. Les institutions politiques</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">2.a. La Commune</a>
                         </li>
@@ -858,7 +858,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
                         <li class="collateral">
                           <a href="4#body-4-5">2.e. Les partis et la vie politique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">3. Institutions et aspirations économiques</a>
@@ -872,7 +872,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -943,7 +943,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
                     <p class="p">Mais la qualité du travail, si elle pouvait assurer la supériorité de la production suisse dans certaines branches de l’industrie et pour un certain temps, ne devait pas suffire à la longue pour soutenir la concurrence des grands voisins européens, ou de l’Amérique, qui ne cessaient de perfectionner la production de série. Au goût méticuleux de la belle ouvrage, à la conscience dans le travail et à la précision héréditaire du coup de main, les Suisses se virent contraints d’ajouter une qualité nouvelle, un nouveau moyen 
 <a class="pb" href="#pb95" id="pb95">[p. 95]</a>
  de compenser la quantité : l’ingéniosité technique, l’invention. Ce fut dès lors à leurs traditions scientifiques qu’ils firent appel.</p>
-                    <p class="p">Nous découvrons ici l’un des traits permanents du caractère des Suisses (Romands aussi bien qu’Alémaniques) : le besoin d’appliquer les résultats de leurs spéculations philosophiques ou scientifiques, de les concrétiser en techniques utiles ; et cela bien moins pour en tirer profit que par l’effet d’une conviction morale, souvent même religieuse, renforcée par un goût naturel de l’authenticité et de sa vérification méfiante. Les noms de Paracelse et de C. G. Jung illustrent cette disposition : ces deux<samp class="space note tab"> </samp>  « <samp class="space note tab"> </samp> voyants » adonnés à l’étude des mystères et des mythes, en tirent tous les deux des techniques de guérison. De même, le grand mathématicien bâlois Léonard Euler, par ailleurs connu pour sa piété fervente, se passionne pour la technique, et prolongeant ses découvertes sur le calcul différentiel et intégral, trace les plans détaillés de la première turbine. À la même époque (<span class="num">xviii<sup class="sup">e</sup></span> siècle), les trois Bernouilli, de Bâle également, élaborent les lois fondamentales de la mécanique. Aujourd’hui même, comme le note André Siegfried,</p>
+                    <p class="p">Nous découvrons ici l’un des traits permanents du caractère des Suisses (Romands aussi bien qu’Alémaniques) : le besoin d’appliquer les résultats de leurs spéculations philosophiques ou scientifiques, de les concrétiser en techniques utiles ; et cela bien moins pour en tirer profit que par l’effet d’une conviction morale, souvent même religieuse, renforcée par un goût naturel de l’authenticité et de sa vérification méfiante. Les noms de Paracelse et de C. G. Jung illustrent cette disposition : ces deux « voyants » adonnés à l’étude des mystères et des mythes, en tirent tous les deux des techniques de guérison. De même, le grand mathématicien bâlois Léonard Euler, par ailleurs connu pour sa piété fervente, se passionne pour la technique, et prolongeant ses découvertes sur le calcul différentiel et intégral, trace les plans détaillés de la première turbine. À la même époque (<span class="num">xviii<sup class="sup">e</sup></span> siècle), les trois Bernouilli, de Bâle également, élaborent les lois fondamentales de la mécanique. Aujourd’hui même, comme le note André Siegfried,</p>
                     <blockquote class="quote">
                       <p class="p autofirst">l’industrie travaille d’après les formules et les découvertes de ces mathématiciens, qui sont également à la base du régime des assurances, par l’utilisation rationnelle des méthodes statistiques. On ne dira jamais assez que la supériorité technique suisse est à base de culture : le fameux Polytechnicum de Zurich, dont la réputation est mondiale, plonge ses racines dans un terroir de haute science, qui ne doit 
 <a class="pb" href="#pb96" id="pb96">[p. 96]</a>
@@ -1107,7 +1107,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
 <a class="pb" href="#pb116" id="pb116">[p. 116]</a>
  intelligence quotidienne des exigences contradictoires de la libre initiative et du marché élargi. La multiplicité des cellules de base — communes et entreprises, cantons et cartels régionaux — tend à ralentir l’évolution vers l’étatisme, d’une part, et vers certains progrès sociaux ou rationnels d’autre part. Par ailleurs, elle freine utilement les courants qui parcourent l’Europe, elle les filtre et les divise par tout un jeu d’écluses. Et il apparaît, au total, que la lenteur à s’adapter, qu’on peut reprocher aux Suisses, est une nécessité profonde de leur économie, si dangereusement liée, nous l’avons dit, à la conjoncture mondiale.</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb92">p. 92</a>
@@ -1164,7 +1164,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -1189,7 +1189,7 @@ body-4-5	2.e. Les partis et la vie politique (1953, La Confédération helvétiq
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1508,7 +1508,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -1526,7 +1526,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     </li>
                     <li class="here">
                       <a href="#">4. La famille et l’éducation</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">4.a. La famille</a>
                         </li>
@@ -1536,7 +1536,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                         <li class="collateral">
                           <a href="6#body-6-3">4.c. L’armée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">5. La vie religieuse</a>
@@ -1544,7 +1544,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1618,7 +1618,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Lors du dernier recensement (1941), la population de la Suisse, résidents étrangers compris, offrait la composition confessionnelle que voici :</p>
                     <p class="p">
-                      <i class="i">Nombres absolus pour 1000 <samp class="space note tab"> </samp> habitants</i>
+                      <i class="i">Nombres absolus pour 1000 habitants</i>
                     </p>
                     <table class="table left">
                       <colgroup>
@@ -1748,7 +1748,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -1773,7 +1773,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     <li class="collateral">
                       <a href="8">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1920,7 +1920,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     <p class="p autofirst">Dans la communauté des nations, le rôle de la Suisse est donc de maintenir conjointement les deux principes de neutralité et de solidarité, que l’évolution générale, depuis un siècle et demi, tendait à dissocier ou même à opposer, mais dont on vient de voir qu’une longue pratique du fédéralisme intégral illustre l’interdépendance.</p>
                     <p class="p">Certes, la volonté de se maintenir à l’écart des conflits armés, fussent-ils nationalistes ou idéologiques dans leurs motifs allégués, a souvent fait taxer la Suisse d’égoïsme, d’isolationnisme, et de propension à 
 <a class="pb" href="#pb174" id="pb174">[p. 174]</a>
- juger de haut, tout en bénéficiant des victoires sur les tyrans, dont d’autres pays firent les frais. C’est oublier que la volonté de neutralité s’accorde en Suisse avec une <i class="i">obligation</i> à la fois constitutionnelle et i<a id="_GoBack">‌</a>nternationale. Au total, il s’agit moins d’un choix que d’une nécessité, et d’une fidélité contractuelle.</p>
+ juger de haut, tout en bénéficiant des victoires sur les tyrans, dont d’autres pays firent les frais. C’est oublier que la volonté de neutralité s’accorde en Suisse avec une <i class="i">obligation</i> à la fois constitutionnelle et internationale. Au total, il s’agit moins d’un choix que d’une nécessité, et d’une fidélité contractuelle.</p>
                     <p class="p">De plus, à ces reproches d’ordre moral, la Suisse a répondu en actes, mieux qu’en paroles. Durant la dernière guerre, elle a accueilli sur son petit territoire des centaines de milliers de réfugiés, de soldats refoulés, d’enfants des pays éprouvés par les bombardements ou la famine. En 1945, l’œuvre du « Don suisse » en faveur des victimes de la guerre ou « Aide à l’Europe » s’est vue dotée de 100 millions de francs par les Chambres fédérales<a class="noteref" href="8#note50" id="note50_"><sup>50</sup></a>, soit 1 % du revenu national, à quoi sont venus s’ajouter 50 millions collectés dans la population ou souscrits par les cantons. De 1939 à 1947, l’Agence des prisonniers de guerre, installée à Genève par les soins du Comité international de la Croix-Rouge, et qui a compté jusqu’à 3400 collaborateurs, en grande majorité bénévoles, assistés par 25 sections auxiliaires dispersées dans d’autres cantons, a transmis aux prisonniers et à leurs familles près de 120 millions de messages. En même temps, le CICR entretenait 31 délégations permanentes en 60 pays, visitant 3000 camps militaires et civils et s’employant à y faire respecter les conventions de la Croix-Rouge. Il est significatif que cette dernière œuvre fondée 
 <a class="pb" href="#pb175" id="pb175">[p. 175]</a>
  par le Genevois Henry Dunant en 1863, ait adopté pour pavillon celui de la Suisse, en intervertissant simplement ses couleurs. On sait que le Comité international de la Croix-Rouge, qui siège à Genève, est constitué uniquement par des Suisses : son autorité, si peu contestée pendant les deux dernières guerres, procède en grande partie du fait de l’impartialité que lui assure sa composition.</p>
@@ -2005,7 +2005,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction (par Lucien Febvre)</a>
                     </li>
@@ -2030,7 +2030,7 @@ body-6-3	4.c. L’armée (1953, La Confédération helvétique)
                     <li class="here">
                       <a href="#">6. Le peuple suisse et le monde</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

@@ -292,7 +292,7 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Lettre ouverte</a>
                     </li>
@@ -311,7 +311,7 @@ Je vois que la formule sacrée, quoique moderne, de la nation étatisée qui se 
                     <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1047,13 +1047,13 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
                     <li class="here">
                       <a href="#">I. L’unité de culture</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">1. L’Europe est-elle jamais née ?</a>
                         </li>
@@ -1129,7 +1129,7 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
                         <li class="collateral">
                           <a href="2#body-2-25">25. Le péril blanc</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">II. L’union fédérale</a>
@@ -1143,7 +1143,7 @@ au virus du matérialisme, cette forme d’asthénie du spirituel.</p>
                     <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1381,7 +1381,7 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
@@ -1390,7 +1390,7 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
                     </li>
                     <li class="here">
                       <a href="#">II. L’union fédérale</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">26. Traduire l’unité en union</a>
                         </li>
@@ -1415,7 +1415,7 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
                         <li class="collateral">
                           <a href="3#body-3-8">33. Le fédéralisme commence</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">III. La puissance ou la liberté</a>
@@ -1426,7 +1426,7 @@ est autre chose qu’une simple recette juridique ou politique : il est un des 
                     <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1604,7 +1604,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                       <p class="p">Mais créer du pouvoir, ou créer <i class="i">le</i> pouvoir dans la société qu’il faut faire, c’est d’abord créer les régions, seul échelon où le pouvoir puisse à la fois servir et être contrôlé, seul échelon de participation, de responsabilité, et donc de liberté.</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="4#pb130">p. 130</a>
@@ -1637,7 +1637,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
@@ -1649,7 +1649,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                     </li>
                     <li class="here">
                       <a href="#">III. La puissance ou la liberté</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">34. L’obstacle à toute union possible</a>
                         </li>
@@ -1665,7 +1665,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                         <li class="collateral">
                           <a href="4#body-4-5">38. Défaire et dépasser l’État-nation</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">IV. Vers une fédération des régions</a>
@@ -1673,7 +1673,7 @@ au niveau des États-nations. La seule question serait d’en créer un, au nive
                     <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1988,7 +1988,7 @@ vide économique et culturel qui a résulté partout de la colonisation.</p>
                     </section>
                     <section id="body-5-14" class="div level2">
                       <h2 class="head">52. Objections courantes</h2>
-                      <p class="p autofirst">Depuis 1963, date du premier essai quelque peu développé dans lequel (revenant d’ailleurs aux positions de <i class="i">L’Ordre nouveau</i> trente ans plus tôt<a class="noteref" href="5#note43" id="note43_"><sup>43</sup></a>) je préconisais une organisation fédérale de l’Europe basée sur les régions et non sur les États-nations<a class="noteref" href="5#note44" id="note44_"><sup>44</sup></a>, j’ai été amené à relever et à classer les objections les plus fréquentes à l’entreprise q<a id="_GoBack">‌</a>ui fait l’objet de ma lettre.</p>
+                      <p class="p autofirst">Depuis 1963, date du premier essai quelque peu développé dans lequel (revenant d’ailleurs aux positions de <i class="i">L’Ordre nouveau</i> trente ans plus tôt<a class="noteref" href="5#note43" id="note43_"><sup>43</sup></a>) je préconisais une organisation fédérale de l’Europe basée sur les régions et non sur les États-nations<a class="noteref" href="5#note44" id="note44_"><sup>44</sup></a>, j’ai été amené à relever et à classer les objections les plus fréquentes à l’entreprise qui fait l’objet de ma lettre.</p>
                       <p class="p">Je note d’abord que le terme de <i class="i">difficulté</i> est souvent plus exact que celui d’objection. Dans la plupart des cas, la résistance ne provient pas d’un refus motivé des positions régionalistes, mais d’un ensemble 
 <a class="pb" href="#pb177" id="pb177">[p. 177]</a>
 de réflexes conditionnés par un siècle et demi d’éducation stato-nationaliste gratuite et obligatoire : uniformisation et mise au pas des corps par la discipline militaire, des esprits par les manuels scolaires, des curiosités par la presse à grand tirage et ses agences officieuses, des émotions par l’éloquence patriotique, enfin du sentiment religieux par le culte du Soldat inconnu et la sacralisation des bornes-frontières.</p>
@@ -2291,7 +2291,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
@@ -2306,7 +2306,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                     </li>
                     <li class="here">
                       <a href="#">IV. Vers une fédération des régions</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">39. Le siècle des nations ?</a>
                         </li>
@@ -2348,7 +2348,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                         </li>
                         <li class="collateral">
                           <a href="5#body-5-14">52. Objections courantes</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="5#body-5-14-1">52.a. Objections mythologiques ou prospectives</a>
                             </li>
@@ -2361,7 +2361,7 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                             <li class="collateral">
                               <a href="5#body-5-14-4">52.d. Résistances conditionnées par nos habitudes visuelles et les atlas scolaires (une couleur par pays)</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="5#body-5-15">53. La région n’est pas un État-nation en réduction</a>
@@ -2375,12 +2375,12 @@ réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à 
                         <li class="collateral">
                           <a href="5#body-5-18">56. Passage de l’Europe des mythes nationaux à l’Europe des réalités</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2532,7 +2532,7 @@ Si l’on me dit maintenant que c’est une utopie que de vouloir dépasser l’
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Lettre ouverte</a>
                     </li>
@@ -2551,7 +2551,7 @@ Si l’on me dit maintenant que c’est une utopie que de vouloir dépasser l’
                     <li class="here">
                       <a href="#">Lettre ouverte, suite et fin</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

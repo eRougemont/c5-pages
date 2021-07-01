@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Avant-propos (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>Avant-propos (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -108,7 +108,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avant-propos</a>
                     </li>
@@ -137,9 +137,9 @@
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -153,7 +153,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>1. Mes prisons (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>1. Mes prisons (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -171,7 +171,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -240,7 +240,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -269,9 +269,9 @@
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -285,7 +285,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>2. Description du monstre (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>2. Description du monstre (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -303,7 +303,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -355,7 +355,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -384,9 +384,9 @@
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -400,7 +400,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>3. Anatomie du monstre (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>3. Anatomie du monstre (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -418,7 +418,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -435,14 +435,14 @@
           <value>3.a. Le programme – 3.b. Les examens – 3.c. L’égalitarisme des connaissances – 3.d. Le gavage – 3.e. La discipline – 3.f. La préparation civique – 3.g. L’idéal du bon élève – 3.h. Le dilemme</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-4-1	3.a. Le programme (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-2	3.b. Les examens (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-3	3.c. L’égalitarisme des connaissances (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-4	3.d. Le gavage (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-5	3.e. La discipline (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-6	3.f. La préparation civique (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-7	3.g. L’idéal du bon élève (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
-body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)
+          <value>body-4-1	3.a. Le programme (1929, Les Méfaits de l’instruction publique (1972))
+body-4-2	3.b. Les examens (1929, Les Méfaits de l’instruction publique (1972))
+body-4-3	3.c. L’égalitarisme des connaissances (1929, Les Méfaits de l’instruction publique (1972))
+body-4-4	3.d. Le gavage (1929, Les Méfaits de l’instruction publique (1972))
+body-4-5	3.e. La discipline (1929, Les Méfaits de l’instruction publique (1972))
+body-4-6	3.f. La préparation civique (1929, Les Méfaits de l’instruction publique (1972))
+body-4-7	3.g. L’idéal du bon élève (1929, Les Méfaits de l’instruction publique (1972))
+body-4-8	3.h. Le dilemme (1929, Les Méfaits de l’instruction publique (1972))
 </value>
         </attributekey>
       </attributes>
@@ -578,7 +578,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -590,7 +590,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                     </li>
                     <li class="here">
                       <a href="#">3. Anatomie du monstre</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="4#body-4-1">3.a. Le programme</a>
                         </li>
@@ -615,7 +615,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                         <li class="collateral">
                           <a href="4#body-4-8">3.h. Le dilemme</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="5">4. L’illusion réformiste</a>
@@ -633,9 +633,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -649,7 +649,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>4. L’illusion réformiste (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>4. L’illusion réformiste (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -667,7 +667,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -739,7 +739,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -768,9 +768,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -784,7 +784,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>5. La machine à fabriquer des électeurs (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>5. La machine à fabriquer des électeurs (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -802,7 +802,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -848,7 +848,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
 <a class="pb" href="#p45" id="p45">[p. 45]</a>
  nervosité, de petites douleurs de jeune bourgeois. Essayez de venir me dire ça chez moi, n’est-ce pas, mes agneaux. C’est justement dans la mesure où je participais de l’écoeurant optimisme bourgeois que je m’accommodais d’un régime nocif pour tout ce qu’il y a d’authentiquement noble en chaque homme. Si les fils du peuple souffrent moins d’un tel régime, c’est qu’ils n’ont pas d’eux-mêmes une connaissance aussi sensible. Mais attendez, si quelques-uns allaient se réveiller… Il suffit d’un peu de chaleur d’âme pour amorcer le dégel de ces principes, et ce peut être le signal de la grande débâcle printanière. Il n’y a pas de révolution véritable que de la sensibilité. (Le jour où l’on culbutera ces Messieurs de leurs sièges, ils comprendront le sens des images.)</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#p41">p. 41</a>
@@ -881,7 +881,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -910,9 +910,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -926,7 +926,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>6. La trahison de l’instruction publique (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>6. La trahison de l’instruction publique (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -944,7 +944,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -999,7 +999,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -1028,9 +1028,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1044,7 +1044,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>7. L’instruction publique contre le progrès (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>7. L’instruction publique contre le progrès (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1062,7 +1062,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -1137,7 +1137,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -1166,9 +1166,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1182,7 +1182,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Appendice. Utopie (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>Appendice. Utopie (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1200,7 +1200,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -1283,7 +1283,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                         <div class="b note-page">
                           <a href="9#p57">p. 57</a>
                         </div>
-                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="9#note13_">13. </a>Économistes et philosophes : ces Messieurs n’apparaissent ici que pour impressionner le public. Je n’ai pas besoin de leurs <i class="i">attendu</i>s pour juger.</aside>
+                        <aside id="note13" role="note" class="note bottomnote"><a class="noteback" href="9#note13_">13. </a>Économistes et philosophes : ces Messieurs n’apparaissent ici que pour impressionner le public. Je n’ai pas besoin de leurs <i class="i">attendus</i> pour juger.</aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
@@ -1317,7 +1317,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -1346,9 +1346,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="#">Appendice.  Utopie</a>
                     </li>
                     <li class="collateral">
-                      <a href="10">SUITE DES MÉFAITS (1972)</a>
+                      <a href="10">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1356,13 +1356,13 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1972mip/10" name="SUITE DES MÉFAITS (1972)" package="ddr1972mip" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1972mip/10" name="Suite des Méfaits (1972)" package="ddr1972mip" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>SUITE DES MÉFAITS (1972) (1972, Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits)</value>
+          <value>Suite des Méfaits (1972) (1929, Les Méfaits de l’instruction publique (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1380,7 +1380,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Les Méfaits de l’instruction publique (1929), aggravés d’une Suite des méfaits (1972)",
+    "name": "Les Méfaits de l’instruction publique (1972) (1929)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972mip",
       "@type": "Book"
@@ -1388,7 +1388,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "SUITE DES MÉFAITS (1972)"
+    "name": "Suite des Méfaits (1972)"
   }]
 }
           </value>
@@ -1402,7 +1402,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p69" id="p69">[p. 69]</a>
-                    <h1 class="head chapter">SUITE DES MÉFAITS (1972)</h1>
+                    <h1 class="head chapter">Suite des <cite class="title">Méfaits</cite> (1972)</h1>
                     <p class="p autofirst">Écrit d’un jeune homme en colère, aussi injuste qu’un pamphlet doit l’être, j’ai le triste plaisir de constater que mon texte n’a pas vieilli, parce que l’École n’a pas changé. C’est du moins ce que m’incitent à croire les descriptions récentes qu’on en publie, et les jugements portés sur elle par ses critiques les plus sérieux et par ses usagers, élèves et maîtres.</p>
                     <p class="p">Je la traitais de simple « machine à fabriquer des électeurs », de « rêve rationnellement organisé » à la mesure des « piliers du régime » et à seule fin de conditionner les jeunes esprits dans le sens requis par l’État. Pierre Emmanuel écrit aujourd’hui ceci :</p>
                     <blockquote class="quote">
@@ -1610,7 +1610,7 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avant-propos</a>
                     </li>
@@ -1639,9 +1639,9 @@ body-4-8	3.h. Le dilemme (1972, Les Méfaits de l’instruction publique (1929),
                       <a href="9">Appendice.  Utopie</a>
                     </li>
                     <li class="here">
-                      <a href="#">SUITE DES MÉFAITS (1972)</a>
+                      <a href="#">Suite des <em class="title">Méfaits</em> (1972)</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

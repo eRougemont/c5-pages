@@ -170,10 +170,10 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Introduction.  Le sentiment de l’Europe centrale</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="1#body-1-1">a. Un accord sans résolution</a>
                         </li>
@@ -186,11 +186,11 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="1#body-1-4">d. L’intelligence est sentimentale</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -200,11 +200,11 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -214,14 +214,14 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -246,9 +246,9 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -366,13 +366,13 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -382,11 +382,11 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -396,14 +396,14 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -428,9 +428,9 @@ body-1-4	d. L’intelligence est sentimentale (1982, Le Paysan du Danube et autr
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -764,19 +764,19 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
                         <li class="here">
                           <a href="#">I.2. Voyage en Hongrie</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="3#body-2-2-1">I.2.a. Le dormeur au fil de l’eau</a>
                             </li>
@@ -825,16 +825,16 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                             <li class="collateral">
                               <a href="3#body-2-2-16">I.2.p. Les clefs perdues</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -844,14 +844,14 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -876,9 +876,9 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -951,13 +951,13 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -967,11 +967,11 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                         <li class="here">
                           <a href="#">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -981,14 +981,14 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -1013,9 +1013,9 @@ body-2-2-16	I.2.p. Les clefs perdues (1982, Le Paysan du Danube et autres textes
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1193,13 +1193,13 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -1209,14 +1209,14 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">II.1. Châteaux en Prusse</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="5#body-3-1-1">II.1.a. Journées</a>
                             </li>
@@ -1226,7 +1226,7 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                             <li class="collateral">
                               <a href="5#body-3-1-3">II.1.c. Je ne défendrai pas les Junkers…</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="6">II.2. La tour de Hölderlin</a>
@@ -1234,14 +1234,14 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -1266,9 +1266,9 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1357,7 +1357,7 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
  de ces eaux, ces âmes indulgentes à leur banalités ? Est-ce qu’ils ne soupçonnent jamais rien ? Ou bien, peut-être, seulement, quand l’amour leur donne une petite fièvre, — cette semaine de leur jeunesse où ils ont cru pressentir de grandes choses généreuses autour d’eux… Cela s’oublie. Et l’amour, tout justement, nous fait comprendre, dans le temps même qu’il nous entr’ouvre le ciel, qu’il est bon qu’il y ait la terre… Mais que cette musique vulgaire, par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leur échappe — je t’échappe ô douceur de vivre ! Tout redevient autour de moi insuffisant, transitoire, allusif. Tout se remet à signifier l’absence.</p>
                     <div class="dateline">1929.</div>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="6#pb77">p. 77</a>
@@ -1384,13 +1384,13 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -1400,11 +1400,11 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -1414,14 +1414,14 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -1446,9 +1446,9 @@ body-3-1-3	II.1.c. Je ne défendrai pas les Junkers… (1982, Le Paysan du Danub
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1768,13 +1768,13 @@ body-3-3-23	10 août 1929 (1982, Le Paysan du Danube et autres textes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -1784,11 +1784,11 @@ body-3-3-23	10 août 1929 (1982, Le Paysan du Danube et autres textes)
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -1797,7 +1797,7 @@ body-3-3-23	10 août 1929 (1982, Le Paysan du Danube et autres textes)
                         </li>
                         <li class="here">
                           <a href="#">II.3. Petit journal de Souabe</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-3-3-1">22 avril 1929</a>
                             </li>
@@ -1867,16 +1867,16 @@ body-3-3-23	10 août 1929 (1982, Le Paysan du Danube et autres textes)
                             <li class="collateral">
                               <a href="7#body-3-3-23">10 août 1929</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -1901,9 +1901,9 @@ body-3-3-23	10 août 1929 (1982, Le Paysan du Danube et autres textes)
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2160,7 +2160,7 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                       <a class="pb" href="#pb131" id="pb131">[p. 131]</a>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#pb111">p. 111</a>
@@ -2181,13 +2181,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -2197,11 +2197,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -2211,11 +2211,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="here">
                       <a href="#">III. Quand je me souviens — C’est l’Europe</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8#body-4-1">III.1. Le bon vieux temps présent,  19 mars 1939</a>
                         </li>
@@ -2255,11 +2255,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="8#body-4-13">III.13. Le mauvais temps qui vient.  Neuchâtel-Paris, décembre 1946</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -2284,9 +2284,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2376,13 +2376,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -2392,11 +2392,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -2406,14 +2406,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">IV.1. I</a>
                         </li>
@@ -2438,9 +2438,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2523,13 +2523,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -2539,11 +2539,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -2553,14 +2553,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -2585,9 +2585,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2664,10 +2664,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
  extrême douceur », et les peines sont appliquées aux différents délits avec une telle précision « qu’il ne reste rien à la détermination des Juges… En un mot, et pour m’exprimer sur l’esprit de cette législation dans les termes qui l’honorent le plus, je vous dirai que la liberté des individus est protégée par les lois de ce pays avec autant de sollicitude et d’efficacité que par celles de notre inestimable constitution. »</p>
                     <p class="p">Qu’attendre de plus d’un Anglais ?</p>
                     <p class="p">N’oublions pas que les Trois États, le Conseil d’État, le Grand Conseil, le Petit Conseil, les Quatre-Ministraux, les Maîtres-Bourgeois, le Banneret, le Chancelier, le Procureur Général et le Gouverneur, « conjointement considérés » avec les Trois États et les députés de Valangin, les vingt et une Cours de justice locales, les Châtelains et les Maires de districts, et cent autres emplois ou dignités, exerçaient leurs pouvoirs, infiniment enchevêtrés mais jalousement distincts, dans une capitale de trois mille habitants, un pays de quarante mille bons et fidèles sujets…</p>
-                    <p class="p">« En 1818 déjà — écrit M. Arthur Piaget dans sa remarquable <i class="i">Histoire de la Révolution Neuchâteloise</i> — le Procureur général de Rougemont… considérait la monarchie comme fatalement condamnée » (II. 242). « Il jugeait ridicule et dangereux l’esprit de caste et de famille qui régnait à Neuchâtel. <i class="i">Dieu nous préserve</i>, écrivait-il, <i class="i">des parvenus par droit de naissance et de fortune qui clabaudent contre ceux qui parviennent par droits de talents et de vertus. Il estimait ces prétentions déplacées dans un pays où la plus ancienne noblesse n’est pas chapitrale, où les trois quarts de la noblesse trouvent des paysans aux quatrième et cinquième échelons en remontan</i>t » (II. 63). Et il avait été, en 1814, l’un des principaux artisans du « cantonnement » de Neuchâtel, c’est-à-dire 
+                    <p class="p">« En 1818 déjà — écrit M. Arthur Piaget dans sa remarquable <i class="i">Histoire de la Révolution Neuchâteloise</i> — le Procureur général de Rougemont… considérait la monarchie comme fatalement condamnée » (II. 242). « Il jugeait ridicule et dangereux l’esprit de caste et de famille qui régnait à Neuchâtel. <i class="i">Dieu nous préserve</i>, écrivait-il, <i class="i">des parvenus par droit de naissance et de fortune qui clabaudent contre ceux qui parviennent par droits de talents et de vertus. Il estimait ces prétentions déplacées dans un pays où la plus ancienne noblesse n’est pas chapitrale, où les trois quarts de la noblesse trouvent des paysans aux quatrième et cinquième échelons en remontant</i> » (II. 63). Et il avait été, en 1814, l’un des principaux artisans du « cantonnement » de Neuchâtel, c’est-à-dire 
 <a class="pb" href="#pb142" id="pb142">[p. 142]</a>
  de son inclusion, mais sans changer de régime, dans le Corps helvétique.</p>
                     <p class="p">Dès la chute de Napoléon, et malgré la Restauration, l’on s’aperçut que ce beau mouvement d’horlogerie fine retardait sans espoir sur l’heure du siècle, avancée pour le reste de l’Europe par la Révolution, puis par l’Empire, dans le sens des droits individuels et de la tyrannie collective. La population s’accroissait, le commerce prospérait, l’industrie naissait, les radicaux triomphaient partout. Il était temps d’adopter l’heure de Berne. Et ce fut 1848.</p>
+                    <section class="footnotes">
+                      <div class="page"> </div>
+                    </section>
                   </article>
                 ]]></content>
               </record>
@@ -2681,13 +2684,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -2697,11 +2700,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -2711,14 +2714,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -2743,9 +2746,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2845,13 +2848,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -2861,11 +2864,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -2875,14 +2878,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -2907,9 +2910,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2998,13 +3001,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -3014,11 +3017,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -3028,14 +3031,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -3060,9 +3063,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3145,13 +3148,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -3161,11 +3164,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -3175,14 +3178,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -3207,9 +3210,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3304,13 +3307,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -3320,11 +3323,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -3334,14 +3337,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -3366,9 +3369,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="16">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3466,13 +3469,13 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Introduction.  Le sentiment de l’Europe centrale</a>
                     </li>
                     <li class="collateral">
                       <div>I. Première partie.  Le paysan du Danube</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Une « tasse de thé » au palais C…</a>
                         </li>
@@ -3482,11 +3485,11 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="4">I.3. Le balcon sur l’eau</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Deuxième partie.  La lenteur des choses</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5">II.1. Châteaux en Prusse</a>
                         </li>
@@ -3496,14 +3499,14 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="collateral">
                           <a href="7">II.3. Petit journal de Souabe</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="8">III. Quand je me souviens — C’est l’Europe</a>
                     </li>
                     <li class="ancestor">
                       <div>IV. Suite neuchâteloise</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9">IV.1. I</a>
                         </li>
@@ -3528,9 +3531,9 @@ body-4-13	III.13. Le mauvais temps qui vient. Neuchâtel-Paris, décembre 1946 (
                         <li class="here">
                           <a href="#">IV.8. VIII</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

@@ -47,7 +47,9 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p7" id="p7">[p. 7]</a>
-                    <h1 class="head chapter">Avertissement</h1>
+                    <h1 class="head chapter">
+                      <a href="#1">Avertissement</a>
+                    </h1>
                     <p class="p autofirst">Ceci n’est pas un livre, mais un recueil de conférences et d’essais sur des sujets variés en apparence : protestantisme, culture, neutralité, fédéralisme et défense de la Suisse.</p>
                     <p class="p">Si je me décide à réunir ces textes — les uns « parlés », les autres écrits — c’est qu’ils ne sont pas dépourvus d’une certaine unité d’intention : ils sont tous nés d’un même souci de la personne et de son rôle dans la communauté ; et tous, ils s’adressent à la Suisse, ou pour mieux dire, ils s’adressent à des Suisses. Par une série de cercles concentriques, ils s’efforcent de <i class="i">situer</i> notre mission dans l’Europe d’aujourd’hui.</p>
                     <p class="p">On trouvera tout d’abord une conférence sur <i class="i">le Protestantisme créateur de personnes</i>. C’est qu’avant de rien proposer, il convient de dire qui l’on est, de préciser au nom de quoi l’on parle ; et ce ne peut être, sérieusement, qu’au nom d’une foi. Je prends ce mot dans son sens le plus fort, et je veux bien qu’il doit compromettant. Une foi réelle est une raison de vivre et non point d’échapper à la vie. Ceci dit, je ne 
@@ -60,7 +62,7 @@
                     <p class="p">Que cette heure ait sonné pour la Suisse, qu’il soit temps de voir grand et d’oser, au sein d’un grand péril et d’un beau risque, c’est la pensée qui anime tous ces essais.</p>
                     <p class="p">L’épreuve des armes nous attend peut-être ; mais nous courons déjà l’épreuve des âmes. Or le courage qu’il y faut n’est pas seulement celui de résister : il est d’abord celui de se risquer.</p>
                     <blockquote class="quote">
-                      <div class="l">Je demandai à l’homme qui se tenait à la porte de l’année : « Donne-moi une lumière afin que je puisse aller avec sécurité dans l’inconnu. » Il répondit : « Va dans l’obscurité et mets tes mains dans les mains de Dieu. Ce sera plus sûr pour toi qu’une lumière et qu’un chemin que tu connaisses. »<a class="noteref" href="1#note1" id="note1_"><sup>1</sup></a></div>
+                      <div class="l">Je demandai à l’homme qui se tenait à la porte de l’année : « Donne-moi une lumière afin que je puisse aller avec sécurité dans l’inconnu. » Il répondit : « Va dans l’obscurité et mets tes mains dans les mains de Dieu. Ce sera plus sûr pour toi qu’une lumière et qu’un chemin que tu connaisses. »<a class="noteref" href="1#note1" id="note1_">1</a></div>
                     </blockquote>
                     <p class="p autofirst right">D. R.</p>
                     <p class="p right">Berne, 1<sup class="sup">er</sup> mars 1940.</p>
@@ -85,29 +87,29 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -115,13 +117,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/2" name="1. Le protestantisme créateur de personnes" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/2" name="Le protestantisme créateur de personnes" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>1. Le protestantisme créateur de personnes (1940, Mission ou démission de la Suisse)</value>
+          <value>Le protestantisme créateur de personnes (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -147,7 +149,7 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "1. Le protestantisme créateur de personnes"
+    "name": "Le protestantisme créateur de personnes"
   }]
 }
           </value>
@@ -161,7 +163,9 @@
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p11" id="p11">[p. 11]</a>
-                    <h1 class="head chapter">Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_"><sup>2</sup></a></h1>
+                    <h1 class="head chapter">
+                      <a href="#2">Le protestantisme créateur de personnes<a class="noteref" href="2#note2" id="note2_">2</a></a>
+                    </h1>
                     <p class="p autofirst">Je souhaite que beaucoup d’entre vous, apercevant le titre de cette conférence, aient ressenti quelque méfiance. Je souhaite que beaucoup aient tenu le petit raisonnement que voici : Pour les Réformateurs, l’homme devant Dieu égale zéro. Pour les modernes, un protestant égale une personnalité. Que peut bien signifier cette contradiction affligeante ?</p>
                     <p class="p">Je serais heureux que la question vous ait paru curieuse, ou peut-être grave, ou en tout cas digne de réflexion, car c’est à elle précisément que je me propose de répondre ici.</p>
                     <p class="p">Comment passer du zéro de l’homme devant 
@@ -170,11 +174,11 @@
                     <p class="p">Le problème est, je crois, d’autant plus actuel que les menaces qui pèsent aujourd’hui sur l’Église, et sur la civilisation dite chrétienne, incitent beaucoup de nos contemporains à se tourner vers le passé pour y trouver le réconfort d’anciennes victoires, d’exemples édifiants. Déconcertés par l’ampleur de l’attaque qui se prépare contre le monde chrétien, beaucoup, jusque parmi les incroyants, sentent le besoin de reprendre pied sur les vieilles bases spirituelles, rudes et monumentales, posées par les Pères de l’Église, des Apôtres jusqu’à Luther. Devant le danger, ils serrent les rangs. Ils se mettent à compter leurs forces, à recenser tous leurs appuis. Et c’est sans doute à ce désir de certitude renouvelée, à ce désir de retrouver confiance en soi, que je devais répondre en exaltant ici le protestantisme créateur de personnalités, ou défenseur d’une certaine dignité humaine.</p>
                     <p class="p">
 <a class="pb" href="#p13" id="p13">[p. 13]</a>
- Eh bien, je ne vois aucune raison de décevoir une telle attente. Mais attention ! Cette interrogation pressante, il ne s’agit pas de lui offrir n’importe quelle réponse flatteuse ou approximative. Et ce besoin de certitude, il s’agit de le combler <i class="i">en vérité</i>. La menace est sérieuse, les événements de septembre et toute la suite l’ont fait voir aux plus optimistes<a class="noteref" href="2#note3" id="note3_"><sup>3</sup></a>. En Russie, en Allemagne, en Italie, l’attaque est déjà déclenchée. Elle nous atteint déjà par contrecoup, et il est sage de s’attendre à bien pire. C’est donc le moment ou jamais de se montrer très rigoureux dans le choix des moyens de défense.</p>
+ Eh bien, je ne vois aucune raison de décevoir une telle attente. Mais attention ! Cette interrogation pressante, il ne s’agit pas de lui offrir n’importe quelle réponse flatteuse ou approximative. Et ce besoin de certitude, il s’agit de le combler <i class="i">en vérité</i>. La menace est sérieuse, les événements de septembre et toute la suite l’ont fait voir aux plus optimistes<a class="noteref" href="2#note3" id="note3_">3</a>. En Russie, en Allemagne, en Italie, l’attaque est déjà déclenchée. Elle nous atteint déjà par contrecoup, et il est sage de s’attendre à bien pire. C’est donc le moment ou jamais de se montrer très rigoureux dans le choix des moyens de défense.</p>
                     <p class="p">Et, par exemple, si beaucoup sont prêts à louer la Réforme d’être une école de personnalités, donc un rempart contre la barbarie, c’est le moment pour nous de préciser comment, pourquoi, <i class="i">dans quel esprit</i> surtout le protestantisme est effectivement cela.</p>
                     <p class="p">Depuis une dizaine d’années, une discussion générale s’est instituée sur les notions de personne, d’individu et de personnalité. Il existe un mouvement personnaliste qui a pris pour tâche de 
 <a class="pb" href="#p14" id="p14">[p. 14]</a>
- démêler ces notions et de fonder sur elles un ordre social renouvelé. Des philosophes tels que Maritain du côté catholique, Berdiaef du côté orthodoxe, un certain nombre de jeunes protestants, beaucoup d’agnostiques aussi, se sont efforcés de montrer l’importance concrète d’une définition de la personne pour toute action dans la cité<a class="noteref" href="2#note4" id="note4_"><sup>4</sup></a>. Ces discussions, souvent encombrées de jargon philosophique, peuvent apparaître byzantines au grand public. Il n’en reste pas moins que le mot d’ordre « Défense de la personne humaine » est devenu le slogan par excellence des hommes d’État démocratiques. Tout cela ne va pas sans équivoques. Les dissiper me paraît une tâche d’une importance particulière pour notre pensée réformée. Car il se trouve que nous passons, nous protestants, tantôt pour les fermes soutiens de la personnalité, tantôt pour de dangereux individualistes. C’est donc vraiment de nos affaires qu’il s’agit dans cette discussion. Nous y avons notre mot à dire, peut-être même avant quiconque, si l’on veut éviter les pires malentendus.</p>
+ démêler ces notions et de fonder sur elles un ordre social renouvelé. Des philosophes tels que Maritain du côté catholique, Berdiaef du côté orthodoxe, un certain nombre de jeunes protestants, beaucoup d’agnostiques aussi, se sont efforcés de montrer l’importance concrète d’une définition de la personne pour toute action dans la cité<a class="noteref" href="2#note4" id="note4_">4</a>. Ces discussions, souvent encombrées de jargon philosophique, peuvent apparaître byzantines au grand public. Il n’en reste pas moins que le mot d’ordre « Défense de la personne humaine » est devenu le slogan par excellence des hommes d’État démocratiques. Tout cela ne va pas sans équivoques. Les dissiper me paraît une tâche d’une importance particulière pour notre pensée réformée. Car il se trouve que nous passons, nous protestants, tantôt pour les fermes soutiens de la personnalité, tantôt pour de dangereux individualistes. C’est donc vraiment de nos affaires qu’il s’agit dans cette discussion. Nous y avons notre mot à dire, peut-être même avant quiconque, si l’on veut éviter les pires malentendus.</p>
                     <p class="p">
 <a class="pb" href="#p15" id="p15">[p. 15]</a>
  Je ne reprendrai pas ici les distinctions <i class="i">théoriques</i> que l’on a proposées entre individu, personne et personnalité. Je préfère illustrer ces notions par des exemples historiques susceptibles de faire image. Si nous remontons aux origines, si nous cherchons comment sont apparues dans l’Histoire les notions d’individu et de personne, et les systèmes qui s’y opposent, nous verrons mieux comment se situe la Réforme dans l’évolution de l’Europe, et quel principe central elle doit y incarner, de nos jours sans doute plus que jamais.</p>
@@ -226,7 +230,7 @@
                     <p class="p">Elle apparaît d’abord en Italie, un siècle au moins avant la Réforme. Et l’on peut la caractériser par quelques traits qui rappelleront ma description de la Grèce individualiste. L’individu de la Renaissance est d’abord un révolté qui oppose ses besoins propres aux dogmes sacrés de la collectivité. Il revendique le droit de discuter, c’est-à-dire le libre examen de toutes choses. Il est assoiffé de gloire et de richesse, de sa propre gloire, et de sa propre richesse, fussent-elles acquises aux dépens de sa famille et de sa cité, aux dépens même de la vie d’autrui. Un grand 
 <a class="pb" href="#p28" id="p28">[p. 28]</a>
  nombre de crimes furent commis dans l’Italie du <span class="num">xv<sup class="sup">e</sup></span> siècle à seule fin d’acquérir de la renommée. Et les pirates siciliens, fondateurs du capitalisme commercial, sont souvent cités comme les premiers types d’individus au sens moderne. Nous retrouvons ici cette liaison mystérieuse entre la naissance de l’individu et le crime social. Enfin l’individu de la Renaissance se livre à une activité toute nouvelle : l’expérimentation scientifique libre. Tout cela relève d’une seule et même volonté : celle de <i class="i">profaner</i> le sacré collectif et ses tabous, afin de s’affirmer libre et sans responsabilité par rapport à la société. Qu’il s’agisse de libre examen, de crimes, de soif de gloire et de richesses, ou d’expériences telles que la dissection du corps humain, c’est toujours une <i class="i">profanation</i> que l’on opère. Du moins ces gestes sont-ils ressentis comme tels à cette époque.</p>
-                    <p class="p">Or il est évident que cet individualisme est un retour du paganisme <i class="i">grec</i>. Mais il est non moins évident qu’il représente une réaction inévitable à la déviation <i class="i">romaine</i> de la communauté catholique<a class="noteref" href="2#note5" id="note5_"><sup>5</sup></a>. Entre ces deux déviations, contre 
+                    <p class="p">Or il est évident que cet individualisme est un retour du paganisme <i class="i">grec</i>. Mais il est non moins évident qu’il représente une réaction inévitable à la déviation <i class="i">romaine</i> de la communauté catholique<a class="noteref" href="2#note5" id="note5_">5</a>. Entre ces deux déviations, contre 
 <a class="pb" href="#p29" id="p29">[p. 29]</a>
  l’oppression collective et contre la révolte de l’individu, ce qui va se dresser pour proclamer les droits et les devoirs de la personne chrétienne — c’est la Réforme.</p>
                     <p class="p">Nous touchons au cœur même du sujet.</p>
@@ -268,8 +272,8 @@
  doivent être obéies comme telles. Une fois cependant il marque une préférence, mais de l’ordre le plus général. C’est lorsqu’il écrit : « <i class="i">Le meilleur état de gouvernement est celui-là où il y a une liberté bien tempérée et pour durer longuement.</i> » Il me semble que le spectacle de l’Europe contemporaine donne raison au Réformateur. Et je ne crois pas être infidèle à sa pensée en y ajoutant cette précision : ce n’est pas la forme d’un État qui compte, mais bien la condition qu’il ménage à l’Église, et l’idée de l’homme qu’il suppose.</p>
                     <p class="p">C’est en nous plaçant à ce double point de vue : condition de l’Église et conception de l’homme, que nous pourrons le mieux départager les deux groupes de régimes qui s’affrontent aujourd’hui. Le premier groupe est celui des nations qui respectent l’Église et la personne. Nous y trouvons des formes de gouvernement aussi disparates que possible : d’abord les cinq monarchies protestantes du Nord : Scandinavie, Pays-Bas, Angleterre ; puis l’unique monarchie catholique, celle des Belges ; les quatre monarchies orthodoxes des Balkans ; trois républiques démocratiques seulement, la Suisse, la Finlande et la France ; et enfin trois semi-dictatures : Pologne, Hongrie et 
 <a class="pb" href="#p39" id="p39">[p. 39]</a>
- Portugal. (On ose à peine parler des Tchèques, déjà plus qu’à moitié colonisés<a class="noteref" href="2#note6" id="note6_"><sup>6</sup></a>.)</p>
-                    <p class="p">En face de ce groupement hétérogène quant à la forme, sinon quant à l’esprit, se dresse le bloc des trois états totalitaires — que menace de rejoindre l’Espagne. Laissons de côté les différences politiques que l’on pourrait marquer entre ces trois États : d’abord parce que ce n’est pas notre sujet, ensuite parce que ces différences, qui ne le voit, s’atténuent d’année en année<a class="noteref" href="2#note7" id="note7_"><sup>7</sup></a>. Ce qu’il nous importe de souligner ici, ce sont deux traits évidemment communs à ces régimes : leur opposition brutale au christianisme <i class="i">dès qu’ils sont assez forts pour lever le masque</i>, et leur mépris de la personne. Voici, à mon avis, les causes de ces deux phénomènes.</p>
+ Portugal. (On ose à peine parler des Tchèques, déjà plus qu’à moitié colonisés<a class="noteref" href="2#note6" id="note6_">6</a>.)</p>
+                    <p class="p">En face de ce groupement hétérogène quant à la forme, sinon quant à l’esprit, se dresse le bloc des trois états totalitaires — que menace de rejoindre l’Espagne. Laissons de côté les différences politiques que l’on pourrait marquer entre ces trois États : d’abord parce que ce n’est pas notre sujet, ensuite parce que ces différences, qui ne le voit, s’atténuent d’année en année<a class="noteref" href="2#note7" id="note7_">7</a>. Ce qu’il nous importe de souligner ici, ce sont deux traits évidemment communs à ces régimes : leur opposition brutale au christianisme <i class="i">dès qu’ils sont assez forts pour lever le masque</i>, et leur mépris de la personne. Voici, à mon avis, les causes de ces deux phénomènes.</p>
                     <p class="p">En Russie, en Allemagne, à Rome et en Espagne, la distinction entre l’Église et l’État n’avait jamais été établie d’une manière satisfaisante. Le tzar par exemple, était à la fois chef de 
 <a class="pb" href="#p40" id="p40">[p. 40]</a>
  l’État et chef de l’Église : c’est ce qu’on nomme le césaro-papisme. D’autre part, ses décisions politiques étaient fortement influencées par le clergé : c’est ce qu’on nomme la théocratie. Les trois autres pays que je viens de nommer souffraient, eux aussi, à des degrés divers, et pour mille raisons très complexes, de l’un ou de l’autre de ces maux. La coupure entre le spirituel et le temporel n’y était pas faite au bon endroit, ou mal faite, ou pas faite du tout. <i class="i">Il en résultait, dans le peuple, le sentiment que l’État et l’Église formaient un tout et constituaient à eux deux le Pouvoir</i>. Renverser l’un, c’était donc fatalement s’attaquer à l’autre. Et le chef de la révolution triomphante dans chacun de ces pays, se trouvait comme contraint par le sentiment général de reprendre à son compte <i class="i">à la fois</i> l’autorité d’un chef d’Église et le pouvoir d’un chef d’État. Chacun sait qu’une Révolution copie toujours inconsciemment la structure du pouvoir qu’elle vient de renverser. Ainsi les Jacobins se firent centralistes comme les rois. Ainsi encore Staline et Hitler se firent césaro-papistes comme les régimes qu’ils venaient d’abattre, et même beaucoup plus rigoureusement, car la religion dont ils étaient les chefs était 
@@ -278,13 +282,13 @@
                     <p class="p">D’autre part, l’instauration de ces régimes tyranniques fut largement facilitée, et même appelée, par l’absence dans tous ces pays <i class="i">d’élites civiques</i> conscientes de leur mission. Dans un essai publié en 1928, et intitulé l’<i class="i">Espagne invertébrée</i>, le grand écrivain espagnol Ortega y Gasset n’hésite pas à comparer sous ce rapport l’Espagne et la Russie. « <i class="i">Fort différentes sur beaucoup de points, écrit-il, elles offrent ceci de commun qu’elles souffrent toutes les deux d’un manque évident et permanent d’individualités marquantes, … de personnalités autonomes</i>. » Et de la sorte, Ortega laisse entendre que le destin de ces pays, du fait de ce qu’il nomme « l’absence des meilleurs », ne saurait être que l’absolutisme.</p>
                     <p class="p">Or, si nous nous rappelons que le calvinisme a toujours maintenu avec rigueur la distinction entre l’Église et l’État, et que d’autre part il a toujours favorisé le développement de la personne et donc la formation d’élites civiques actives, on comprendra sans peine le fait suivant qui, à ma connaissance, n’a jamais été signalé : c’est qu’il existe une forme de totalitarisme correspondant 
 <a class="pb" href="#p42" id="p42">[p. 42]</a>
- à la Russie orthodoxe, une autre correspondant à l’Allemagne luthérienne, et deux autres correspondant à l’Italie et à l’Espagne catholiques, <i class="i">alors qu’il n’en existe point qui se doit développée en pays « calvinistes »</i> ou simplement influencés par des éléments calvinistes, même laïcisés, comme c’est le cas de la France sous la Troisième République<a class="noteref" href="2#note8" id="note8_"><sup>8</sup></a>.</p>
+ à la Russie orthodoxe, une autre correspondant à l’Allemagne luthérienne, et deux autres correspondant à l’Italie et à l’Espagne catholiques, <i class="i">alors qu’il n’en existe point qui se doit développée en pays « calvinistes »</i> ou simplement influencés par des éléments calvinistes, même laïcisés, comme c’est le cas de la France sous la Troisième République<a class="noteref" href="2#note8" id="note8_">8</a>.</p>
                     <p class="p">Cela ne signifie pas, bien entendu, que le calvinisme ne puisse dévier lui aussi, et soit sans défauts. Mais cela signifie que ses défauts et déviations n’entraînent pas <i class="i">cette</i> conséquence-là. Lorsque la religion orthodoxe grecque, par exemple, disparaît en tant qu’Église vivante, il reste dans le pays une empreinte césaro-papiste, d’où l’État totalitaire. Mais lorsque le calvinisme cesse d’être une foi vivante, il laisse derrière lui une empreinte tout à fait différente : une forme d’individualisme. Nous aurons l’occasion d’y revenir tout à l’heure.</p>
                     <p class="p">Car, en effet, une opposition aussi radicale et aussi exacte entre la mentalité totalitaire et la mentalité calviniste, va nous permettre une confrontation utile des deux doctrines. Je dis bien utile, et non pas simplement intéressante. Je ne fais pas ici, vous le sentez bien, une description désintéressée et académique de divers régimes également soutenables dans l’abstrait. Je considère l’esprit totalitaire comme une menace terrible pour notre civilisation et plus encore pour nos Églises. Je considère que nous n’avons plus le droit de l’étudier en curieux, en théoriciens ou en opportunistes, comme certains qui se demandent encore, par exemple, s’il est de gauche ou de droite, alors qu’il est du diable, et que c’est en chrétiens que nous avons maintenant à nous défendre, dans cette guerre qui nous est déclarée. Or le meilleur, le seul moyen de se défendre — surtout quand il s’agit des choses de l’esprit — c’est de <i class="i">connaître l’adversaire afin de reconnaître et de tuer les plus secrètes complicités qu’il a su ménager dans nos cœurs</i>.</p>
                     <p class="p">Connaître la religion totalitaire, c’est la première condition pour éviter chez nous, pendant qu’il en est temps, des déviations qui feraient le 
 <a class="pb" href="#p44" id="p44">[p. 44]</a>
  jeu de l’ennemi. Connaître la doctrine de l’homme fasciste, c’est définir du même coup certains dangers qui menacent en permanence <i class="i">notre</i> morale de la personne. Je vais le montrer par deux exemples dont j’essaierai de tirer des conclusions pratiques.</p>
-                    <p class="p">Quelle est la condition faite à l’Église dans les pays totalitaires ? Cette première question est capitale. Car la politique d’un régime est toujours étroitement dépendante de l’attitude qu’il prend vis-à-vis de l’Église et du fait religieux en général. Un régime est totalitaire lorsqu’il prétend centraliser radicalement tous les <i class="i">pouvoirs</i> temporels et toute <i class="i">l’autorité</i> spirituelle<a class="noteref" href="2#note9" id="note9_"><sup>9</sup></a>. Il se transforme alors en une religion politique, ou encore en une politique d’allure religieuse. Et cela d’autant plus que la religion qu’il adopte est, comme dans le cas des fascismes et du communisme, une religion de l’ici-bas sans transcendance, une religion dont les buts purement terrestres ne divergent plus du tout des buts de la politique, se confondent même avec ceux-ci.</p>
+                    <p class="p">Quelle est la condition faite à l’Église dans les pays totalitaires ? Cette première question est capitale. Car la politique d’un régime est toujours étroitement dépendante de l’attitude qu’il prend vis-à-vis de l’Église et du fait religieux en général. Un régime est totalitaire lorsqu’il prétend centraliser radicalement tous les <i class="i">pouvoirs</i> temporels et toute <i class="i">l’autorité</i> spirituelle<a class="noteref" href="2#note9" id="note9_">9</a>. Il se transforme alors en une religion politique, ou encore en une politique d’allure religieuse. Et cela d’autant plus que la religion qu’il adopte est, comme dans le cas des fascismes et du communisme, une religion de l’ici-bas sans transcendance, une religion dont les buts purement terrestres ne divergent plus du tout des buts de la politique, se confondent même avec ceux-ci.</p>
                     <p class="p">
 <a class="pb" href="#p45" id="p45">[p. 45]</a>
  Alors il n’y a plus de recours, plus de pardon à espérer : la communauté spirituelle ne peut pas en appeler à une instance supérieure à l’État, puisque c’est lui qui l’a créée pour ses seules fins, et qu’il n’existe rien au-delà.</p>
@@ -299,30 +303,30 @@
  pas seulement <i class="i">tous pour un</i> — qui serait individualiste — c’est l’équilibre vivant des deux termes. Ceux qui disent : « Centralisons tout » et ceux qui disent : « chacun pour soi », prouvent ainsi les uns et les autres, qu’ils n’ont encore rien compris au paradoxe vivant que représente en chacun de nous, la personne : l’homme qui sait ce qu’il doit engager tout en gardant sa liberté, l’homme autonome mais aussi solidaire.</p>
                     <p class="p">Ceci nous amène au second point : quelle est la condition faite à la personne dans les pays totalitaires ? C’est très simple. On a détruit l’un des deux pôles de la personne : celui de la liberté ou de l’autonomie, et l’on a tout réduit à l’autre pôle : celui de l’engagement social. L’homme étant totalement engagé, corps et esprit, dans les rouages de l’État, et cet État ne reconnaissant plus aucune autorité qui transcende et limite son pouvoir, il n’y a plus aucun recours de l’individu à l’absolu divin, il n’y a donc plus aucune liberté. Tous les abus de pouvoir deviennent possibles. Certes, l’on crée des <i class="i">ersatz</i> de personnes, ou plutôt de personnalités — des milliers de petits <i class="i">Führer</i> — mais c’est l’État et sa « mystique » qui les créent. On ne leur laisse d’initiative que 
 <a class="pb" href="#p49" id="p49">[p. 49]</a>
- dans les cadres qu’on leur a prescrits. Elles ne valent rien hors de là, elles ne valent rien par elles-mêmes. Cette manière de créer des personnalités s’appelle au vrai : caporalisation. Et la personne ainsi comprise n’est plus qu’à peine une <i class="i">persona</i> au sens romain, un rôle, un masque, une fonction extérieure, c’est-à-dire un individu embrigadé, et non pas une vocation. Milliers de masques durs, volontairement durcis, de ces jeunes soldats politiques dressés à l’héroïsme en masse, à l’héroïsme collectif — le plus facile, si c’en est encore un ! — mais qui n’ont plus de <i class="i">courage</i> civique. Militarisation d’un peuple ! C’est le contraire, le mot l’indique, d’une véritable <i class="i">civil</i>isation.</p>
+ dans les cadres qu’on leur a prescrits. Elles ne valent rien hors de là, elles ne valent rien par elles-mêmes. Cette manière de créer des personnalités s’appelle au vrai : caporalisation. Et la personne ainsi comprise n’est plus qu’à peine une <i class="i">persona</i> au sens romain, un rôle, un masque, une fonction extérieure, c’est-à-dire un individu embrigadé, et non pas une vocation. Milliers de masques durs, volontairement durcis, de ces jeunes soldats politiques dressés à l’héroïsme en masse, à l’héroïsme collectif — le plus facile, si c’en est encore un ! — mais qui n’ont plus de <i class="i">courage</i> civique. Militarisation d’un peuple ! C’est le contraire, le mot l’indique, d’une véritable civilisation.</p>
                     <p class="p">Qu’allons-nous opposer à cela ? Tout simplement, la force préventive, inattaquable tant qu’elle reste pure, des personnes librement solidaires, telles qu’en forme l’éthique protestante. Seulement il faut que cette force reste pure ! Car de même que le culte de la terre et des morts, pour peu qu’il vienne à s’accentuer, <i class="i">risque</i> de nous conduire un jour par une voie directe au fascisme, une certaine déviation de notre morale, un certain culte de la « personnalité » en soi, un 
 <a class="pb" href="#p50" id="p50">[p. 50]</a>
  certain individualisme, risquent aussi de nous y conduire, cette fois-ci d’une manière indirecte, du simple fait qu’ils affaiblissent nos résistances spirituelles et nous font perdre le sens de l’Église.</p>
                     <p class="p">C’est ici de nos vertus mêmes qu’il importe de nous méfier. Méfions-nous d’une certaine manière trop humaine de prôner ou de laisser prôner le protestantisme créateur de personnalités. Notre danger intime et permanent, c’est le moralisme, le culte de nos vertus utilisées pour des fins purement humaines. À force de louer la Réforme d’avoir été, comme on dit, « une pépinière d’individualités et de caractères bien trempés », nous courons le risque d’oublier que la Réforme n’est pas faite pour l’homme d’abord. À force de louer ses effets humains, nous risquons de trahir sa cause divine. N’oublions pas que la personnalité n’est bien souvent que le résidu, l’empreinte d’une personne sur un <i class="i">individu</i> qui ne croit plus à sa vocation, et qui a simplement été formé par une éducation et une ambiance protestante. Nous n’en avons que trop, de ces gloires « protestantes », laborieusement annexées et recensées par une sorte de nationalisme huguenot, de ces hommes qui ne sont en fait que « sortis » du protestantisme…</p>
                     <p class="p">
 <a class="pb" href="#p51" id="p51">[p. 51]</a>
- Certes, nous pouvons nous réjouir de ce que la foi réformée, même quand elle cesse d’être vivante, laisse en se retirant beaucoup de personnalités. Cela constitue dans la cité des <i class="i">tissus sains</i>, et c’est une sauvegarde appréciable contre la contamination totalitaire. Mais du point de vue chrétien, il faut alors rappeler que la personnalité, si grande soit-elle, devant Dieu c’est zéro. Et si l’on se borne au point de vue social, il faut prévoir que ces personnalités, ces caractères bien trempés, se feront de plus en plus rares si nous laissons tarir les sources vives de la Réforme. Et puis, une personnalité en soi, sans vocation, ce n’est rien de plus, après tout, qu’un <i class="i">individu</i> aux caractères accusés. Ainsi l’on glisse du calvinisme à l’individualisme, dès que l’on perd la foi de la Réforme pour ne garder que ses vertus humaines et activistes. Et c’est pourquoi l’on a pu dire que le calvinisme était à l’origine du capitalisme moderne, avec sa concurrence sans frein, phénomène de piraterie sociale, de mépris du bien commun, phénomène typiquement individualiste<a class="noteref" href="2#note10" id="note10_"><sup>10</sup></a>.</p>
+ Certes, nous pouvons nous réjouir de ce que la foi réformée, même quand elle cesse d’être vivante, laisse en se retirant beaucoup de personnalités. Cela constitue dans la cité des <i class="i">tissus sains</i>, et c’est une sauvegarde appréciable contre la contamination totalitaire. Mais du point de vue chrétien, il faut alors rappeler que la personnalité, si grande soit-elle, devant Dieu c’est zéro. Et si l’on se borne au point de vue social, il faut prévoir que ces personnalités, ces caractères bien trempés, se feront de plus en plus rares si nous laissons tarir les sources vives de la Réforme. Et puis, une personnalité en soi, sans vocation, ce n’est rien de plus, après tout, qu’un <i class="i">individu</i> aux caractères accusés. Ainsi l’on glisse du calvinisme à l’individualisme, dès que l’on perd la foi de la Réforme pour ne garder que ses vertus humaines et activistes. Et c’est pourquoi l’on a pu dire que le calvinisme était à l’origine du capitalisme moderne, avec sa concurrence sans frein, phénomène de piraterie sociale, de mépris du bien commun, phénomène typiquement individualiste<a class="noteref" href="2#note10" id="note10_">10</a>.</p>
                     <p class="p">
 <a class="pb" href="#p52" id="p52">[p. 52]</a>
  Un dernier exemple vous fera sentir, je crois, toute l’importance pratique de cette distinction entre personne et personnalité. Hitler peut former, lui aussi, des personnalités énergiques, mais ce qu’il ne peut ni surtout <i class="i">ne veut</i> former, ce sont justement des personnes, des vocations irréductibles aux ambitions spirituelles de l’État. Ces personnes-là, ce sont ses véritables adversaires, les seuls sérieux, et il le sait ! Si Niemöller est dans un camp de concentration, prisonnier personnel du <i class="i">Führer</i>, ce n’est point parce qu’on lui reproche son énergie ou ses talents, ses traits de caractère, son héroïsme durant la dernière guerre, bref, sa personnalité, car bien d’autres en ont autant qui ne sont pas pour cela en prison. Ce qu’on lui reproche, ce que l’on ne peut pas tolérer, c’est précisément sa personne, c’est-à-dire sa vocation particulière, qui est de prêcher l’Évangile. — Vous voyez que le Führer sait parfaitement opérer, dans le concret, la distinction entre 
 <a class="pb" href="#p53" id="p53">[p. 53]</a>
  personne et personnalité. Je ne vois aucune raison de lui laisser le bénéfice exclusif d’une telle clairvoyance.</p>
                     <p class="p">Il est temps de tirer, en deux mots, la conclusion de cette série de mises au point.</p>
-                    <p class="p">J’ai tenté de situer la Réforme dans l’évolution de l’Europe, puis dans les conflits actuels. J’ai essayé de vous montrer que sa doctrine représente, en sa pureté, le centre et l’axe même de la notion chrétienne de la personne, à la fois libre et engagée. Il en résulte que la Réforme, et spécialement sa tendance calviniste, est appelée à figurer, dans notre siècle, <i class="i">le type même de la sûre doctrine de résistance au paganisme politique</i><a class="noteref" href="2#note11" id="note11_"><sup>11</sup></a>.</p>
+                    <p class="p">J’ai tenté de situer la Réforme dans l’évolution de l’Europe, puis dans les conflits actuels. J’ai essayé de vous montrer que sa doctrine représente, en sa pureté, le centre et l’axe même de la notion chrétienne de la personne, à la fois libre et engagée. Il en résulte que la Réforme, et spécialement sa tendance calviniste, est appelée à figurer, dans notre siècle, <i class="i">le type même de la sûre doctrine de résistance au paganisme politique</i><a class="noteref" href="2#note11" id="note11_">11</a>.</p>
                     <p class="p">Ceci nous charge d’une responsabilité devant l’Histoire. Que devons-nous faire pour nous montrer à peu près dignes de cette mission ? Simplement, mais aussi rigoureusement, et dans 
 <a class="pb" href="#p54" id="p54">[p. 54]</a>
  la pleine virulence du terme, redevenir de <i class="i">véritables protestants</i>. Un véritable protestant, les faits le prouvent, sera toujours l’adversaire le plus efficace de l’esprit totalitaire. Déjà, beaucoup d’entre nous ont repris au sérieux la <i class="i">théologie</i> réformée. Il nous reste à prendre au sérieux <i class="i">la doctrine réformée de l’homme et de l’État</i>. Ceci ne signifie pas que l’Église ait à proposer un programme comme tant d’autres, mais bien qu’elle doit marquer en toute clarté certaines <i class="i">limites</i>, et, d’autre part, qu’elle ne doit pas hésiter à appuyer certaines <i class="i">revendications</i> conformes au Décalogue et à l’esprit de l’Évangile. Tout cela doit rester « occasionnel », mais dans le sens du <i class="i">hic et nunc</i> chrétien. Or il se trouve qu’ici et maintenant, notre situation ressemble fort à celle qu’eut à résoudre la Réforme. Calvin combattait sur deux fronts, au nom d’une position non point centriste, mais centrale. Nous de même, reprenons le combat contre l’esprit collectiviste, mais aussi et d’abord contre les déviations humanistes de la personne : transformons nos démocraties individualistes en démocraties vraiment personnalistes.</p>
                     <p class="p">Et surtout, n’oublions jamais que l’ennemi qui 
 <a class="pb" href="#p55" id="p55">[p. 55]</a>
  se dresse devant nous, c’est en nous tout d’abord que nous devons le vaincre, chez nous, par une espèce de croisade intérieure. Le chrétien est celui qui n’a pas d’autre ennemi à craindre que l’ennemi qu’il porte en lui-même. Car un ennemi visible et extérieur, ce n’est jamais que l’incarnation d’une possibilité secrète, d’une tentation que chacun souffre dans son cœur.</p>
-                    <p class="p">Alors seulement, purifiés et lucides, quand nous aurons repris conscience de notre force véritable, celle qui ne vient pas de nous, de nos « personnalités », mais de nos vocations, de nos personnes, alors seulement nous pourrons répéter la fière devise des vieux huguenots : « <i class="i">Tant plus à me frapper l’on s’amuse, tant plus de marteaux l’on y use</i>.<a class="noteref" href="2#note12" id="note12_"><sup>12</sup></a> »</p>
+                    <p class="p">Alors seulement, purifiés et lucides, quand nous aurons repris conscience de notre force véritable, celle qui ne vient pas de nous, de nos « personnalités », mais de nos vocations, de nos personnes, alors seulement nous pourrons répéter la fière devise des vieux huguenots : « <i class="i">Tant plus à me frapper l’on s’amuse, tant plus de marteaux l’on y use</i>.<a class="noteref" href="2#note12" id="note12_">12</a> »</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p11">p. 11</a>
@@ -398,29 +402,29 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
-                      <a href="#">1. Le protestantisme créateur de personnes</a>
+                      <a href="#">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -428,13 +432,13 @@
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/3" name="2. La bataille de la culture" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/3" name="La bataille de la culture" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>2. La bataille de la culture (1940, Mission ou démission de la Suisse)</value>
+          <value>La bataille de la culture (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -460,23 +464,23 @@
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "2. La bataille de la culture"
+    "name": "La bataille de la culture"
   }]
 }
           </value>
         </attributekey>
         <attributekey handle="meta_description">
-          <value>2.a. L’adversaire est en nous – 2.b. Disharmonie de nos activités et impuissance de l’esprit – 2.c. L’esprit de Ponce-Pilate – 2.d. Décadence de la communauté – 2.e. L’appel au dictateur – 2.f. À la recherche de l’homme réel – 2.g. Raisons d’espérer : la culture et les groupes – 2.h. La solution fédéraliste</value>
+          <value>L’adversaire est en nous – Disharmonie de nos activités et impuissance de l’esprit – L’esprit de Ponce-Pilate – Décadence de la communauté – L’appel au dictateur – À la recherche de l’homme réel – Raisons d’espérer : la culture et les groupes – La solution fédéraliste</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-1	2.a. L’adversaire est en nous (1940, Mission ou démission de la Suisse)
-body-3-2	2.b. Disharmonie de nos activités et impuissance de l’esprit (1940, Mission ou démission de la Suisse)
-body-3-3	2.c. L’esprit de Ponce-Pilate (1940, Mission ou démission de la Suisse)
-body-3-4	2.d. Décadence de la communauté (1940, Mission ou démission de la Suisse)
-body-3-5	2.e. L’appel au dictateur (1940, Mission ou démission de la Suisse)
-body-3-6	2.f. À la recherche de l’homme réel (1940, Mission ou démission de la Suisse)
-body-3-7	2.g. Raisons d’espérer : la culture et les groupes (1940, Mission ou démission de la Suisse)
-body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suisse)
+          <value>body-3-1	L’adversaire est en nous (1940, Mission ou démission de la Suisse)
+body-3-2	Disharmonie de nos activités et impuissance de l’esprit (1940, Mission ou démission de la Suisse)
+body-3-3	L’esprit de Ponce-Pilate (1940, Mission ou démission de la Suisse)
+body-3-4	Décadence de la communauté (1940, Mission ou démission de la Suisse)
+body-3-5	L’appel au dictateur (1940, Mission ou démission de la Suisse)
+body-3-6	À la recherche de l’homme réel (1940, Mission ou démission de la Suisse)
+body-3-7	Raisons d’espérer : la culture et les groupes (1940, Mission ou démission de la Suisse)
+body-3-8	La solution fédéraliste (1940, Mission ou démission de la Suisse)
 </value>
         </attributekey>
       </attributes>
@@ -488,7 +492,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p57" id="p57">[p. 57]</a>
-                    <h1 class="head chapter">La bataille de la culture<a class="noteref" href="3#note13" id="note13_"><sup>13</sup></a></h1>
+                    <h1 class="head chapter">
+                      <a href="#3">La bataille de la culture<a class="noteref" href="3#note13" id="note13_">13</a></a>
+                    </h1>
                     <p class="p autofirst">Lorsque je me mis à réfléchir à ce que je vous dirais ce soir, je me trouvais quelque part en Suisse, dans une ferme montagnarde, au fond d’une chambre assez sombre et glaciale. Sur les parois boisées, je distinguais vaguement quelques versets bibliques en lettres lumineuses, et sur la table, devant moi, mon casque et la blancheur d’un carré de papier. Je serrais un crayon dans mes doigts engourdis, et j’essayais de me rendre compte… Au dehors, la neige et la brume. Plus loin, la frontière, des tranchées, des hommes en train de tuer et en train de mourir… Et puis, flottant dans d’autres brumes, dernier îlot d’un autre monde, une salle éclairée, un public dont j’ignorais et le visage et les soucis, et devant lequel je m’étais engagé à disserter de la culture…</p>
                     <p class="p">Un sentiment d’absurdité et d’impuissance m’envahit. Quel rapport pouvait-il y avoir entre ces 
 <a class="pb" href="#p58" id="p58">[p. 58]</a>
@@ -504,19 +510,23 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                     <p class="p">Je voudrais vous montrer ce soir que cette crise n’est pas théorique ; qu’elle a des conséquences pratiques ; qu’elle est l’une des origines de la présente guerre ; et que cette guerre n’est, en fin de compte, malgré tous ses prétextes matériels, qu’un épisode tragique d’une bataille bien plus vaste, la millénaire bataille de la culture.</p>
                     <section id="body-3-1" class="div level2">
                       <a class="pb" href="#p60" id="p60">[p. 60]</a>
-                      <h2 class="head">L’adversaire est en nous</h2>
+                      <h2 class="head">
+                        <a href="#body-3-1">L’adversaire est en nous</a>
+                      </h2>
                       <p class="p autofirst">S’il y a bataille, c’est donc qu’il y a deux adversaires. Quels sont-ils ?</p>
                       <p class="p">Mais d’abord, essayons d’écarter un malentendu menaçant. La bataille dont je vais vous parler n’est pas une bataille politique. Les adversaires ne sont nullement les actuels belligérants, et il n’est pas question, ici, de confondre l’un des partis avec la cause de la culture, l’autre étant le parti de l’anti-culture. Ce genre d’opposition est très tentant, je l’avoue, et aujourd’hui plus que jamais… C’est malgré tout un procédé de propagande de guerre. Un fameux général autrichien, Conrad von Hötzendorf, avait coutume de dire : « <i class="i">Tout ce qui n’est pas aussi simple qu’une gifle ne vaut rien pour la guerre.</i> » Grâce à Dieu, nous sommes encore neutres, et nous avons encore le droit de ne pas nous livrer à ce genre de simplifications brutales. Notre premier devoir me paraît, au contraire, de défendre l’intelligence contre un certain primitivisme qui se réveille toujours en temps de guerre.</p>
                       <p class="p">
 <a class="pb" href="#p61" id="p61">[p. 61]</a>
  Les primitifs ont l’habitude de personnifier les forces mauvaises qui les menacent. S’ils sont malades, ils pensent que c’est la faute d’un objet maléfique, ou d’un sorcier, ou d’un esprit qui rôde autour de leur maison. Toujours, la cause du mal, c’est-à-dire l’adversaire, est <i class="i">devant</i> eux, <i class="i">à l’extérieur</i>. Or, notre civilisation, sous l’influence du christianisme, s’est efforcée de nous faire comprendre que la vraie cause de nos malheurs est presque toujours <i class="i">en nous-même</i>. Il faut reconnaître, hélas, que cette éducation n’a pas merveilleusement réussi. Nous persistons tous, plus ou moins, dans la manie des primitifs : nous rendons responsables de nos maux — <i class="i">les autres</i>, uniquement les autres, ceux d’un autre parti, ceux d’une autre nation… Nous faisons tous comme les petits enfants qui battent la table à laquelle ils se sont heurtés. Il est facile et rassurant de noircir le voisin pour mieux se blanchir soi-même. Mais en réalité, nos adversaires ne diffèrent pas essentiellement de nous. Tout homme porte en soi les microbes de presque toutes les maladies imaginables. Et cet ennemi qui nous menace, il ne serait nullement suffisant de l’anéantir pour nous en délivrer. Car la tendance qu’il personnifie à nos 
 <a class="pb" href="#p62" id="p62">[p. 62]</a>
- yeux, elle existe en nous aussi, et elle pourrait fort bien s’y développer un jour. Pour la combattre sérieusement, pour nous défendre, c’est en nous qu’il s’agit de l’attaquer, et avant tout, de la reconnaître<a class="noteref" href="3#note14" id="note14_"><sup>14</sup></a>.</p>
+ yeux, elle existe en nous aussi, et elle pourrait fort bien s’y développer un jour. Pour la combattre sérieusement, pour nous défendre, c’est en nous qu’il s’agit de l’attaquer, et avant tout, de la reconnaître<a class="noteref" href="3#note14" id="note14_">14</a>.</p>
                       <p class="p">Défendre la culture contre elle-même et contre nous ; attaquer ses ennemis en nous ; voilà la vraie bataille dont j’entends vous parler.</p>
                       <p class="p">Or cet adversaire intérieur, je ne voudrais pas le définir théoriquement avant de l’avoir montré à l’œuvre <i class="i">dans les faits</i>, et dans des faits très simples, bien connus, qu’il suffira de rassembler pour qu’une leçon claire s’en dégage.</p>
                     </section>
                     <section id="body-3-2" class="div level2">
-                      <h2 class="head">Disharmonie de nos activités et impuissance de l’esprit</h2>
+                      <h2 class="head">
+                        <a href="#body-3-2">Disharmonie de nos activités et impuissance de l’esprit</a>
+                      </h2>
                       <p class="p autofirst">Songeant à notre civilisation moderne, je suis de plus en plus frappé par ces deux traits : d’une part, une étonnante <i class="i">disharmonie</i> entre les divers 
 <a class="pb" href="#p63" id="p63">[p. 63]</a>
  ordres de nos activités — d’autre part, une angoissante <i class="i">impuissance de l’esprit</i> devant ce monde comme il va. Prenons des exemples concrets.</p>
@@ -543,7 +553,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
  et où ce manque n’est même plus ressenti comme un scandale, je la vois condamnée à glisser, comme la nôtre, dans un désordre dont la guerre sera toujours le seul aboutissement.</p>
                     </section>
                     <section id="body-3-3" class="div level2">
-                      <h2 class="head">L’esprit de Ponce-Pilate</h2>
+                      <h2 class="head">
+                        <a href="#body-3-3">L’esprit de Ponce-Pilate</a>
+                      </h2>
                       <p class="p autofirst">Mais alors, qui est responsable de ce divorce entre la main et le cerveau ? Nous voyons bien où il nous a menés. Essayons de voir d’où il vient.</p>
                       <p class="p">Il y a des causes matérielles, d’abord, qui peuvent dans une certaine mesure, nous excuser. Les plus marquantes se situent au début du siècle passé.</p>
                       <p class="p">Le phénomène le plus remarquable des débuts du <span class="num">xix<sup class="sup">e</sup></span> siècle a été, en effet, et dans tous les domaines, <i class="i">l’agrandissement très brusque des possibilités humaines</i>. L’invention des machines a brusquement accru nos possibilités d’action sur la matière. L’industrie et le commerce ont provoqué la brusque création de villes énormes, dix ou cent fois plus grandes que celles qu’on connaissait 
@@ -567,7 +579,7 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                       <p class="p">Tous les grands systèmes en <i class="i">isme</i> du siècle dernier, même les plus contradictoires, ont en commun ce postulat : l’esprit ne peut rien sur l’action, et par suite, il n’a plus à s’en occuper. Le <i class="i">libéralisme</i>, par exemple, exalte une liberté qui n’est que du laisser-aller ; on connait sa devise : laisser passer, laisser faire ! Que chacun pense ou travaille pour soi, sans se préoccuper de l’ensemble : le Progrès, automatiquement, se chargera du reste, et tout finira bien. Le <i class="i">marxisme</i>, au contraire, décrit avec une sombre joie notre absence de liberté, toutes les fatalités économiques qui, selon lui, dominent nos croyances intimes. Mais cela revient au même : car si tout est déterminé par les lois économiques, donc par la matière, là encore l’esprit ne peut rien. Aussi bien, Marx prétend-il que l’esprit n’est qu’un reflet, un sous-produit des processus matériels. Vous voyez que tout le monde est d’accord pour déclarer que la pensée n’a rien à voir avec l’action. Soit qu’elle plane, orgueilleuse et pure au-dessus de la matière et de ses lois — selon les 
 <a class="pb" href="#p74" id="p74">[p. 74]</a>
  libéraux — soit qu’au contraire, humble et servile, elle se borne à refléter ces lois — selon Marx. Trop haute pour les uns, trop basse pour les autres, elle n’est jamais au niveau de notre action.</p>
-                      <p class="p">S’il fallait résumer rapidement les caractères généraux par lesquels se trahit la démission de l’esprit, je dirais :<samp class="space note tab"> </samp>  goût des automatismes, croyance aux fatalités de l’Histoire et de l’Économie, manie des organisations trop vastes et uniformes, optimisme trop confortable, enfin, manque d’imagination. Or la plupart de ces choses ont paru magnifiques et sérieuses aux penseurs du <span class="num">xix<sup class="sup">e</sup></span> siècle ! Il n’y eut que Kierkegaard et Nietzsche pour protester du fond de leur solitude<a class="noteref" href="3#note15" id="note15_"><sup>15</sup></a>. Kierkegaard qui osa écrire ce blasphème contre les préjugés du siècle : « Le plus grand adversaire de l’esprit, c’est la presse quotidienne. On ne peut plus prêcher le christianisme dans un monde où règne la presse. » Et Nietzsche, de son côté, dénonçait la manie d’organiser 
+                      <p class="p">S’il fallait résumer rapidement les caractères généraux par lesquels se trahit la démission de l’esprit, je dirais :<br class="space "/>  goût des automatismes, croyance aux fatalités de l’Histoire et de l’Économie, manie des organisations trop vastes et uniformes, optimisme trop confortable, enfin, manque d’imagination. Or la plupart de ces choses ont paru magnifiques et sérieuses aux penseurs du <span class="num">xix<sup class="sup">e</sup></span> siècle ! Il n’y eut que Kierkegaard et Nietzsche pour protester du fond de leur solitude<a class="noteref" href="3#note15" id="note15_">15</a>. Kierkegaard qui osa écrire ce blasphème contre les préjugés du siècle : « Le plus grand adversaire de l’esprit, c’est la presse quotidienne. On ne peut plus prêcher le christianisme dans un monde où règne la presse. » Et Nietzsche, de son côté, dénonçait la manie d’organiser 
 <a class="pb" href="#p75" id="p75">[p. 75]</a>
  et de centraliser en écrivant : « L’État est le plus froid parmi les monstres froids. » Mais à part ces deux solitaires, personne ne sut ou n’osa voir à quoi devait conduire le Progrès, abandonné à son mouvement fatal.</p>
                       <p class="p">Le développement de l’industrie a produit évidemment beaucoup d’automobiles, de téléphones et de frigidaires, mais il a aussi produit beaucoup de canons et de masques à gaz. Il a produit beaucoup de confort, mais il a également produit la lutte des classes et le chômage, et la grande ville, cette catastrophe humaine, l’un des désastres moraux de l’Histoire. Tout cela, faute d’harmonie et de mesure humaine, faute d’un grand principe directeur, spirituel ou culturel. Tout cela parce qu’on pensait que le Progrès était sain, juste et infaillible, et que la seule tâche sérieuse était de gagner de l’argent en attendant que les choses s’arrangent d’elles-mêmes. Or, en réalité, rien ne s’est arrangé.</p>
@@ -576,7 +588,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
  plus l’action, c’est l’action qui domine la culture, mais une action qui ne sait pas où elle va ! Et la société à son tour ne tarde pas à se défaire. Dès que la pensée se sépare de l’action, les hommes se trouvent séparés les uns des autres. Chacun, dans sa spécialité, suit des voies totalement divergentes, tracées par des principes contradictoires et privées de commune mesure.</p>
                     </section>
                     <section id="body-3-4" class="div level2">
-                      <h2 class="head">Décadence de la communauté</h2>
+                      <h2 class="head">
+                        <a href="#body-3-4">Décadence de la communauté</a>
+                      </h2>
                       <p class="p autofirst">Je préciserai ce que j’appelle ici la <i class="i">commune mesure</i> d’une civilisation : c’est le principe qui doit harmoniser toutes les activités d’une société donnée. Dans la cité grecque, par exemple, tout était rapporté à la mesure de l’individu raisonnable. Dans l’Empire romain, tout était réglé par le droit d’État. Chez les Juifs, c’était la Loi de Moïse qui ordonnait toute l’existence dans ses plus minutieux détails. Au Moyen âge, la théologie. Dans toutes ces civilisations, l’action obéissait <i class="i">spontanément</i> aux mêmes lois que la pensée. Mais aujourd’hui que la Loi des Juifs, le droit et la théologie sont méprisés ou ignorés, 
 <a class="pb" href="#p77" id="p77">[p. 77]</a>
  maintenant que tout, dans le monde, échappe aux prises de l’esprit humain, il ne reste qu’un seul principe pour mesurer la valeur de nos actes : c’est l’Argent. Et quand il n’y a plus d’argent : c’est la misère. Et quand la misère est trop grande, alors c’est l’État-providence qui se charge de tout mettre au pas. Le malheur, c’est que l’Argent et l’État sont des principes qui ne valent rien dans le monde de l’esprit. Et dès lors, la culture en chômage se corrompt rapidement, s’asservit.</p>
@@ -590,7 +604,7 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                       <p class="p">Et <i class="i">l’ordre</i> enfin signifiera tantôt le statu quo social, si absurde qu’il soit, tantôt l’établissement d’une hiérarchie nouvelle au prix d’une révolution, tantôt la suppression physique de tous ceux qui critiquent le désordre établi, tantôt le fait qu’on n’assassine plus dans la rue mais seulement dans les prisons d’État.</p>
                       <p class="p">Je n’hésite pas à le dire : l’une des causes principales de la mésentente des peuples réside dans ce désordre du langage, et dans l’absence de toute autorité morale capable d’y porter remède. Car qui peut fixer aujourd’hui le <i class="i">véritable</i> sens des mots ? En d’autres temps, c’étaient l’Église et la théologie qui s’en chargeaient. Puis ce furent les écrivains. Mais que peuvent-ils dans notre monde démesuré ? Un Valéry, un Gide ou un Claudel ont quelques milliers de lecteurs, tandis que la presse du soir 
 <a class="pb" href="#p80" id="p80">[p. 80]</a>
- et la radio atteignent chaque jour des millions d’hommes, et c’est tout un domaine du langage que l’écrivain ne contrôle pas, ne forme pas, n’atteint même pas. Ainsi se créent d’énormes zones d’échanges verbaux incontrôlés. Et plus on y échange de mots, plus ils perdent leur force et leur sens, et leur délicatesse d’appel. Alors les écrivains qui n’ont pas d’autres armes que les mots se voient privés de tout moyen d’agir. Leurs conseils, leurs appels ne portent plus. Les hommes échangent des paroles en plus grand nombre que jamais, et ne se disent rien qui compte. Or quand la parole se détruit, quand elle n’est plus le don qu’un homme fait à un homme, et qui engage quelque chose de son être, c’est l’amitié humaine qui se détruit, le fondement même de toute communauté<a class="noteref" href="3#note16" id="note16_"><sup>16</sup></a>. Alors paraît le règne de la force ! Si nulle autorité spirituelle ne peut fixer le sens des mots, la propagande brutale s’en chargera. À la place des grands lieux-communs chargés de sens traditionnel, nous aurons des <i class="i">slogans</i>, des <i class="i">mots d’ordre</i> simplistes. Et l’on pourra changer 
+ et la radio atteignent chaque jour des millions d’hommes, et c’est tout un domaine du langage que l’écrivain ne contrôle pas, ne forme pas, n’atteint même pas. Ainsi se créent d’énormes zones d’échanges verbaux incontrôlés. Et plus on y échange de mots, plus ils perdent leur force et leur sens, et leur délicatesse d’appel. Alors les écrivains qui n’ont pas d’autres armes que les mots se voient privés de tout moyen d’agir. Leurs conseils, leurs appels ne portent plus. Les hommes échangent des paroles en plus grand nombre que jamais, et ne se disent rien qui compte. Or quand la parole se détruit, quand elle n’est plus le don qu’un homme fait à un homme, et qui engage quelque chose de son être, c’est l’amitié humaine qui se détruit, le fondement même de toute communauté<a class="noteref" href="3#note16" id="note16_">16</a>. Alors paraît le règne de la force ! Si nulle autorité spirituelle ne peut fixer le sens des mots, la propagande brutale s’en chargera. À la place des grands lieux-communs chargés de sens traditionnel, nous aurons des <i class="i">slogans</i>, des <i class="i">mots d’ordre</i> simplistes. Et l’on pourra changer 
 <a class="pb" href="#p81" id="p81">[p. 81]</a>
  le sens des mots sept fois par an, selon les besoins de la cause. C’est ainsi que tout récemment, le ministre d’une grande puissance, le camarade Molotov, déclarait que le mot d’<i class="i">agression</i>
             avait changé de sens depuis ce printemps, « les événements lui ayant donné un contenu historique nouveau », exactement inverse de l’ancien… Cela me fit songer irrésistiblement à un dialogue d’<i class="i">Alice au pays des Merveilles</i> (qui est un de mes livres préférés), dialogue dont voici trois répliques : « Quand je me sers d’un mot, dit Humpty-Dumpty d’un ton méprisant, il signifie exactement ce que je veux qu’il signifie… ni plus ni moins. — La question est de savoir, dit Alice, si vous pouvez faire que les mêmes mots signifient des choses différentes ? — La question est de savoir, dit Humpty-Dumpty, qui est le plus fort… et c’est tout. » Nous en sommes exactement là : c’est le plus fort qui définit le sens des mots et qui l’impose à son caprice.</p>
@@ -600,7 +614,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                       <p class="p">Or maintenant, de cette angoisse monte un appel, le formidable et inconscient appel des masses vers une communauté humaine rénovée dans son esprit et dans ses signes extérieurs, l’appel de toute l’Europe du <span class="num">xx<sup class="sup">e</sup></span> siècle vers une commune mesure restaurée et vivante.</p>
                     </section>
                     <section id="body-3-5" class="div level2">
-                      <h2 class="head">L’appel au dictateur</h2>
+                      <h2 class="head">
+                        <a href="#body-3-5">L’appel au dictateur</a>
+                      </h2>
                       <p class="p autofirst">Et c’est à cet appel qu’ont répondu les chefs des grands mouvements collectivistes. Tout leur génie, s’il faut leur en reconnaître, a consisté à deviner — avant les intellectuels ! — la vraie nature de l’angoisse des foules, pour lui donner une réponse à la fois frappante et concrète. « Tout est en désordre ? ont-ils dit. C’est bien simple. Nous allons proclamer que l’intérêt de l’État dont nous sommes devenus les maîtres est la seule règle de toute activité, culturelle, politique, ou même religieuse. » C’était un coup de 
 <a class="pb" href="#p83" id="p83">[p. 83]</a>
  génie, si le génie consiste à deviner et à prévenir les inconscients désirs de la nation. Mais on peut avoir du génie et faire de grosses fautes de calcul. Surtout quand on est très pressé. Or il est certain que ces chefs étaient horriblement pressés, à cause de la misère que subissaient leurs peuples. Et voici la faute de calcul qu’ils me paraissent avoir commise : ils ont voulu imposer à l’ensemble des principes qui étaient partiels. La discipline d’État, ou le sang, ou la Classe, ce sont certes des réalités. Mais des réalités <i class="i">partielles</i>. Si la loi qu’on impose à tous est calculée seulement pour certains types, soit physiques, soit sociologiques, cette loi est pratiquement une odieuse tyrannie pour tous ceux qui débordent le cadre, c’est autant dire pour tous les hommes vraiment humains. C’était très bien d’essayer de répondre au grand appel des peuples vers une communauté. Mais on a répondu trop vite, et surtout d’une manière incomplète.</p>
@@ -610,7 +626,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
  L’appel des peuples reste insatisfait. Il continue à nous poser la plus sérieuse question humaine. Et s’il n’est pas encore aussi tragique dans des pays moins menacés par la misère, comme par exemple nos petits états neutres, ne nous faisons pas d’illusions : tôt ou tard, <i class="i">là aussi</i>, cet appel exigera une réponse. Reste à savoir si nous saurons la lui donner. Reste à savoir si nous saurons utiliser le délai qui nous est accordé, <i class="i">à nous les neutres</i>, pour découvrir les vraies causes du mal, et par suite, les vrais remèdes, et non seulement pour décrire ces remèdes, mais surtout pour les essayer <i class="i">sur nous</i> d’abord. Car nous aussi, je le répète, nous sommes atteints !</p>
                     </section>
                     <section id="body-3-6" class="div level2">
-                      <h2 class="head">À la recherche de l’homme réel</h2>
+                      <h2 class="head">
+                        <a href="#body-3-6">À la recherche de l’homme réel</a>
+                      </h2>
                       <p class="p autofirst">J’aime employer les mots dans leur sens étymologique. L’étymologie, vous le savez, est une science très incertaine, mais c’est un art très significatif. Lorsque j’employais tout à l’heure l’adjectif <i class="i">énorme</i>, pour caractériser certains aspects du monde moderne, ce n’était pas sans intention. Car <i class="i">énorme</i> ne signifie pas seulement grand, immense, mais aussi : qui sort de la norme — de 
 <a class="pb" href="#p85" id="p85">[p. 85]</a>
  la mesure. Un monde énorme est un monde sans mesure, un monde démesuré par rapport à l’homme seul et aux pouvoirs de son esprit. Et de là vient notre désordre mais aussi, notre impuissance à en sortir, malgré toutes nos bonnes intentions.</p>
@@ -636,7 +654,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                     </section>
                     <section id="body-3-7" class="div level2">
                       <a class="pb" href="#p90" id="p90">[p. 90]</a>
-                      <h2 class="head">Raisons d’espérer : la culture et les groupes</h2>
+                      <h2 class="head">
+                        <a href="#body-3-7">Raisons d’espérer : la culture et les groupes</a>
+                      </h2>
                       <p class="p autofirst">Je voudrais vous dire, maintenant, les raisons que j’ai d’espérer, après avoir tant critiqué. Je voudrais vous énumérer les premiers succès remportés, dans la bataille de la culture moderne, par l’esprit créateur sur l’esprit fataliste.</p>
                       <p class="p">Ce qui paralysait les intellectuels qui sentaient le besoin d’agir sur les destinées de la cité, c’était depuis Hegel, Auguste Comte, et Marx, l’idée que l’Histoire obéit à des lois contre lesquelles l’homme ne peut rien. Conception très lugubre, mais commode, car elle justifiait l’inaction ou la retraite dans les bibliothèques. Or cette idée de lois fatales avait été empruntée à la science et transportée abusivement dans les domaines plus humains de l’histoire, de la sociologie et même de la psychologie. Et voici que cette idée paralysante est en train de subir certains coups décisifs : ce sont précisément les hommes de science qui, les premiers, cessent d’y croire. Ils ont reconnu, depuis quelques années, que la 
 <a class="pb" href="#p91" id="p91">[p. 91]</a>
@@ -666,7 +686,9 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                     </section>
                     <section id="body-3-8" class="div level2">
                       <a class="pb" href="#p97" id="p97">[p. 97]</a>
-                      <h2 class="head">La solution fédéraliste</h2>
+                      <h2 class="head">
+                        <a href="#body-3-8">La solution fédéraliste</a>
+                      </h2>
                       <p class="p autofirst">Par quelle voie ?</p>
                       <p class="p">Je n’aime pas beaucoup la tolérance, vertu qui naît en somme d’un scepticisme, car elle suppose que la pensée de <i class="i">l’autre</i>, qu’on tolère, ne passera jamais dans les actes. Je n’aime pas non plus l’intolérance qui veut tout uniformiser, et qui est donc une mort de l’esprit.</p>
                       <p class="p">La tolérance était la pâle vertu des libéraux individualistes. L’intolérance est la sombre vertu des partisans collectivistes. De leur lutte est sortie la guerre. Le seul moyen de dépasser cette mauvaise position du problème, c’est de prévoir pour la cité et la culture une structure <i class="i">fédéraliste</i>.</p>
@@ -691,7 +713,7 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                       <p class="p">Pendant que les autres font la guerre, ils n’ont pas le temps de préparer un monde humain. Mais nous qui avons encore su conserver une cité à la mesure de la personne, nous qui sommes encore épargnés, ne perdons pas notre délai de grâce ! C’est à nous de gagner la vraie paix, c’est à nous d’engager sans illusion le vrai combat qui nous maintienne humains. Tout cela, un jeune poète de génie, Arthur Rimbaud, l’a dit d’un seul trait prophétique : « Le combat spirituel est aussi brutal que la bataille d’hommes, mais la vision de la justice est le plaisir de Dieu seul. »</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p57">p. 57</a>
@@ -730,55 +752,55 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="here">
-                      <a href="#">2. La bataille de la culture</a>
-                      <ul>
+                      <a href="#">La bataille de la culture</a>
+                      <ol>
                         <li class="collateral">
-                          <a href="3#body-3-1">2.a. L’adversaire est en nous</a>
+                          <a href="3#body-3-1">L’adversaire est en nous</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-2">2.b. Disharmonie de nos activités et impuissance de l’esprit</a>
+                          <a href="3#body-3-2">Disharmonie de nos activités et impuissance de l’esprit</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-3">2.c. L’esprit de Ponce-Pilate</a>
+                          <a href="3#body-3-3">L’esprit de Ponce-Pilate</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-4">2.d. Décadence de la communauté</a>
+                          <a href="3#body-3-4">Décadence de la communauté</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-5">2.e. L’appel au dictateur</a>
+                          <a href="3#body-3-5">L’appel au dictateur</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-6">2.f. À la recherche de l’homme réel</a>
+                          <a href="3#body-3-6">À la recherche de l’homme réel</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-7">2.g. Raisons d’espérer : la culture et les groupes</a>
+                          <a href="3#body-3-7">Raisons d’espérer : la culture et les groupes</a>
                         </li>
                         <li class="collateral">
-                          <a href="3#body-3-8">2.h. La solution fédéraliste</a>
+                          <a href="3#body-3-8">La solution fédéraliste</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -786,13 +808,13 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/4" name="3. Neutralité oblige , (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/4" name="Neutralité oblige, (1937)" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>3. Neutralité oblige , (1937) (1940, Mission ou démission de la Suisse)</value>
+          <value>Neutralité oblige, (1937) (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -818,7 +840,7 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "3. Neutralité oblige , (1937)"
+    "name": "Neutralité oblige, (1937)"
   }]
 }
           </value>
@@ -832,8 +854,10 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p103" id="p103">[p. 103]</a>
-                    <h1 class="head chapter">Neutralité oblige <br class="lb"/>(1937)</h1>
-                    <p class="p autofirst">C’est un redoutable questionneur que C.-F. Ramuz<a class="noteref" href="4#note17" id="note17_"><sup>17</sup></a>. Vous croyez tout d’abord qu’il interroge simplement par curiosité, ou par une sorte de prudence, pour voir venir, et puis vous vous apercevez que ce sont vos réponses elles-mêmes, celles que déjà vous étiez prêt à lui donner, qui se trouvent mises en question par sa méfiance paysanne. Cela n’est pas sans irriter certains. Pour moi, je ne sais rien de plus salutaire, parfois de plus libérateur, que <i class="i">cette manière</i> de poser des questions, et de jouer le scepticisme, dans un pays où tant de choses vont de soi. Il nous faut un homme comme Ramuz pour nous tirer de l’optimisme épais où s’endorment les jeunes Suisses, 
+                    <h1 class="head chapter">
+                      <a href="#4">Neutralité oblige <br class="lb"/>(1937)</a>
+                    </h1>
+                    <p class="p autofirst">C’est un redoutable questionneur que C.-F. Ramuz<a class="noteref" href="4#note17" id="note17_">17</a>. Vous croyez tout d’abord qu’il interroge simplement par curiosité, ou par une sorte de prudence, pour voir venir, et puis vous vous apercevez que ce sont vos réponses elles-mêmes, celles que déjà vous étiez prêt à lui donner, qui se trouvent mises en question par sa méfiance paysanne. Cela n’est pas sans irriter certains. Pour moi, je ne sais rien de plus salutaire, parfois de plus libérateur, que <i class="i">cette manière</i> de poser des questions, et de jouer le scepticisme, dans un pays où tant de choses vont de soi. Il nous faut un homme comme Ramuz pour nous tirer de l’optimisme épais où s’endorment les jeunes Suisses, 
 <a class="pb" href="#p104" id="p104">[p. 104]</a>
  trop assurés, comme le dit Cingria, de trouver chaque matin sur leur table un gros bol de café au lait. Qu’on m’entende bien : nous avons eu Amiel, et nous ne manquons pas de douteurs, de tourmentés, de refoulés et d’hésitants fort distingués. Mais ces inquiétudes se limitent au « plan moral », comme nous aimons à dire. Elles sont d’usage interne, individuel. Les doutes que Ramuz nous propose touchent au contraire les fondements mêmes de notre vie dans la cité, de notre existence comme « Suisses ». Ils affectent nos tabous les plus inébranlés, nos sécurités matérielles, ou sociales, ou nationales. Ce que personne n’a jamais eu l’idée de mettre en question parmi nous. Par exemple, demande Ramuz : Avons-nous autre chose à dire que propreté, confort et instruction ? Avons-nous d’autre but commun que la sécurité et le profit ? Pourquoi sommes-nous confédérés ? Et pourquoi, enfin, sommes-nous neutres ?</p>
                     <p class="p">Je voudrais souligner ceci : que c’est aux Suisses, finalement, que Ramuz pose ces questions ; mais que s’il garde en même temps le souci d’expliquer qui nous sommes à nos voisins, c’est peut-être que notre lot, en tant que Suisses, et 
@@ -853,23 +877,23 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
  qui soit efficace, c’est l’exercice réel de la charge dont ce droit représente à la fois la condition et la contrepartie. Le droit de propriété, par exemple, est à la fois la condition d’une entreprise personnelle, et la juste contrepartie des risques qu’on y court, du travail qu’on y donne. Si le propriétaire laisse ses terres en friche, et s’enrichit sans rien créer, tout simplement parce qu’il possède des coupons de papier dans une banque, ses droits sont ressentis comme des abus. Ils cessent dès lors d’être assurés <i class="i">en fait</i> ; comme le démontre l’histoire récente du capitalisme anonyme et des révolutions qu’il a fait naître. Or c’est une crise fort analogue qui menace la neutralité, dès l’instant où ceux qui en jouissent oublient pourquoi ils ont reçu ce droit.</p>
                     <p class="p">Je ne dirai pas que les Suisses l’aient déjà oublié. Mais la conscience qu’ils en gardent paraît souvent bien somnolente. Trop assurés dans un statut dont les commodités sont surtout matérielles, et les obligations surtout spirituelles, ils se persuadent petit à petit qu’on pourrait jouir des premières sans se soucier trop des secondes. Sous prétexte de réalisme, et de défense des intérêts économiques, c’est la réalité européenne 
 <a class="pb" href="#p109" id="p109">[p. 109]</a>
- de la Suisse que l’on perd de vue. On l’a senti à l’occasion des sanctions contre l’Italie : premier avertissement que nous donnaient les faits d’avoir à repenser notre neutralité dans le cadre nouveau de l’Europe. Il est fatal que ces dilemmes se multiplient à l’avenir. Le fameux équilibre stratégique de l’Europe qu’on a coutume d’invoquer pour justifier l’espèce d’exterritorialité dont jouit la Suisse sur le continent, nous le voyons, lui aussi, se transformer d’année en année. Et nous voyons que lui aussi dépend d’un équilibre spirituel<a class="noteref" href="4#note18" id="note18_"><sup>18</sup></a> totalement bouleversé et réorganisé, au sein duquel il est urgent que nous trouvions une place nettement redéfinie.</p>
+ de la Suisse que l’on perd de vue. On l’a senti à l’occasion des sanctions contre l’Italie : premier avertissement que nous donnaient les faits d’avoir à repenser notre neutralité dans le cadre nouveau de l’Europe. Il est fatal que ces dilemmes se multiplient à l’avenir. Le fameux équilibre stratégique de l’Europe qu’on a coutume d’invoquer pour justifier l’espèce d’exterritorialité dont jouit la Suisse sur le continent, nous le voyons, lui aussi, se transformer d’année en année. Et nous voyons que lui aussi dépend d’un équilibre spirituel<a class="noteref" href="4#note18" id="note18_">18</a> totalement bouleversé et réorganisé, au sein duquel il est urgent que nous trouvions une place nettement redéfinie.</p>
                     <p class="p">Bref, tout nous pousse à un réveil de notre conscience <i class="i">fédérale</i>. Tout nous met au défi d’agrandir cette conscience aux proportions nouvelles des « mystiques » qui régissent l’Europe d’aujourd’hui. Notre chance et nos risques sont là.</p>
                     <p class="p">La mission essentielle de la Suisse est une mission personnaliste au premier chef : sauvegarder une <i class="i">Weltanschauung</i> où les droits du particulier 
 <a class="pb" href="#p110" id="p110">[p. 110]</a>
- et les devoirs envers l’ensemble se fécondent mutuellement<a class="noteref" href="4#note19" id="note19_"><sup>19</sup></a>. Cette conception du monde n’est pas nouvelle : elle constitue l’apport spécifique de l’Europe à l’humanité. C’est autour d’elle et grâce à elle que l’Occident s’est édifié, et qu’il a dominé le monde. Elle n’est nullement, comme certains voudraient le croire, une espèce de juste milieu entre les excès déplorables de l’individualisme bourgeois et du collectivisme dictatorial. Elle est la <i class="i">position centrale</i>, à la fois naturelle et spirituelle, dont l’individualisme et les collectivismes figurent les déviations morbides. Et dès lors, la mission de la Suisse peut être définie à l’échelle de l’Europe : la Suisse doit être la gardienne de ce principe central, fédératif ; et elle ne peut être autre chose, de par sa nature même, physique et historique.</p>
+ et les devoirs envers l’ensemble se fécondent mutuellement<a class="noteref" href="4#note19" id="note19_">19</a>. Cette conception du monde n’est pas nouvelle : elle constitue l’apport spécifique de l’Europe à l’humanité. C’est autour d’elle et grâce à elle que l’Occident s’est édifié, et qu’il a dominé le monde. Elle n’est nullement, comme certains voudraient le croire, une espèce de juste milieu entre les excès déplorables de l’individualisme bourgeois et du collectivisme dictatorial. Elle est la <i class="i">position centrale</i>, à la fois naturelle et spirituelle, dont l’individualisme et les collectivismes figurent les déviations morbides. Et dès lors, la mission de la Suisse peut être définie à l’échelle de l’Europe : la Suisse doit être la gardienne de ce principe central, fédératif ; et elle ne peut être autre chose, de par sa nature même, physique et historique.</p>
                     <p class="p">Gardiens des cols, gardiens du siège de la SDN et de celui de la Croix-Rouge, gardiens de ce qui est européen et commun à toutes les 
 <a class="pb" href="#p111" id="p111">[p. 111]</a>
- nations<a class="noteref" href="4#note20" id="note20_"><sup>20</sup></a> étant eux-mêmes dans la mesure où ils sont cela, dans la mesure où ils existent pour l’ensemble — voilà les Suisses, grands Portiers de l’Europe, et mainteneurs de ses communes mesures.</p>
+ nations<a class="noteref" href="4#note20" id="note20_">20</a> étant eux-mêmes dans la mesure où ils sont cela, dans la mesure où ils existent pour l’ensemble — voilà les Suisses, grands Portiers de l’Europe, et mainteneurs de ses communes mesures.</p>
                     <p class="p">Qu’on ne voie pas là je ne sais quelle manière d’idéaliser ce qui est mesquin. Car ce qui est mesquin chez nous, n’est en fait qu’une dégradation de l’idéal qui devrait nous unir. La devise des Suisses : « Un pour tous, tous pour un », c’est la formule la plus frappante et la plus juste de l’esprit fédéral de l’Occident — en même temps que du personnalisme. (N’en faisons pas : « Chacun pour soi, l’État pour tous ! »)</p>
                     <p class="p">Oui, c’est au nom de cette mission de gardienne du principe commun que la Suisse peut et doit maintenant revendiquer face à l’Europe son droit à la neutralité. Elle n’est réellement intangible que parce qu’elle est l’expérience témoin, l’annonciatrice 
 <a class="pb" href="#p112" id="p112">[p. 112]</a>
- d’une Europe fédérée dont elle prouve la réalité en assemblant dans un État ces trois grandes civilisations : la germanique, la latine et la française<a class="noteref" href="4#note21" id="note21_"><sup>21</sup></a>.</p>
+ d’une Europe fédérée dont elle prouve la réalité en assemblant dans un État ces trois grandes civilisations : la germanique, la latine et la française<a class="noteref" href="4#note21" id="note21_">21</a>.</p>
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">De cette mission qui justifie en même temps notre statut européen de neutralité et notre statut intérieur de confédération de cantons, découlent des conséquences précises dans les ordres les plus divers. Je voudrais en marquer quelques-unes en les groupant sous trois chefs principaux : opinions, culture et armée.</p>
                     <p class="p">1. <i class="i">L’opinion</i> suisse, telle que la traduisent nos journaux est en contradiction fréquente avec notre neutralité, et ce qui est pire, avec la mission même qui justifie cette neutralité. Elle se permet de prendre parti, dans les questions de politique étrangère, ou de politique <i class="i">intérieure</i> du voisin, avec d’autant plus de violence qu’elle y court moins de risques immédiats. Rien n’est plus agaçant 
 <a class="pb" href="#p113" id="p113">[p. 113]</a>
- pour l’étranger que cette espèce de suffisance moralisante, que ces conseils de fermeté ou ces protestations intempestives que nous prodiguons chaque jour aux « nationaux » de tel pays ou aux « rouges » du monde entier. D’autant plus que ce magistère ne paraît nullement s’exercer au nom d’une vocation bien définie et de portée européenne. Quand nos journaux font la leçon à Léon Blum<a class="noteref" href="4#note22" id="note22_"><sup>22</sup></a>, ce n’est pas — comme ce pourrait l’être — au nom de la démocratie réelle, communale et fédéraliste, mais au nom d’intérêts de classe qui ne sont ni démocratiques ni nationaux. La même critique peut d’ailleurs s’adresser à notre presse d’extrême-gauche lorsqu’elle défend le même Léon Blum pour des raisons symétriquement inverses, et par suite non moins étrangères à notre ligne fédérale. Quand nous verrons nos grands journaux se préoccuper de juger ce qui se passe chez nos voisins non plus au nom de la droite française ou de la gauche allemande émigrée, mais au nom du principe fédéral que nous avons à incarner, on pourra dire que la Suisse a retrouvé sa raison d’être, et d’être neutre.</p>
+ pour l’étranger que cette espèce de suffisance moralisante, que ces conseils de fermeté ou ces protestations intempestives que nous prodiguons chaque jour aux « nationaux » de tel pays ou aux « rouges » du monde entier. D’autant plus que ce magistère ne paraît nullement s’exercer au nom d’une vocation bien définie et de portée européenne. Quand nos journaux font la leçon à Léon Blum<a class="noteref" href="4#note22" id="note22_">22</a>, ce n’est pas — comme ce pourrait l’être — au nom de la démocratie réelle, communale et fédéraliste, mais au nom d’intérêts de classe qui ne sont ni démocratiques ni nationaux. La même critique peut d’ailleurs s’adresser à notre presse d’extrême-gauche lorsqu’elle défend le même Léon Blum pour des raisons symétriquement inverses, et par suite non moins étrangères à notre ligne fédérale. Quand nous verrons nos grands journaux se préoccuper de juger ce qui se passe chez nos voisins non plus au nom de la droite française ou de la gauche allemande émigrée, mais au nom du principe fédéral que nous avons à incarner, on pourra dire que la Suisse a retrouvé sa raison d’être, et d’être neutre.</p>
                     <p class="p">
 <a class="pb" href="#p114" id="p114">[p. 114]</a>
  Quoi de plus comique et de plus irritant que d’admirer les fascismes étrangers alors qu’ils sont les formes politiques les plus violemment centralistes, les plus contraires à nos statuts ! Nous ne pourrions en tirer qu’une seule leçon : les fascismes se donnent pour but d’exalter leur mission nationale. Quelles que soient les réserves de fond qu’il y ait à faire, et je les fais, sur l’authenticité de ces missions qu’ils proclament à son de trompe, il est clair que leur force est là, et qu’en les admirant, en les enviant, nous sommes précisément en train de perdre ce qu’ils ont retrouvé : le sens de la réalité irremplaçable d’une nation.</p>
@@ -880,39 +904,39 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
                     <p class="p">2. <i class="i">La culture</i>. Je ne l’envisagerai ici que sous l’angle particulier de nos responsabilités comme neutres.</p>
                     <p class="p">Ramuz insiste avec raison sur le fait que nous n’avons pas une culture nationale unifiée, mais des cultures diversifiées, régionales ou étrangères. Une fois de plus, c’est là notre chance. Mais savons-nous l’utiliser ? Il y faudrait une conscience très forte de la réalité fédéraliste et de ce qu’elle implique à la fois de diversités reconnues, totalement exprimées comme telles, et d’échanges multipliés, d’apports mutuels, de synthèse vivante. Dès que la conscience fédéraliste vient à faiblir, quand par exemple on se met chez nous à l’école de la droite française et de sa politique particulière conditionnée par le nationalisme unitaire et anti-allemand, l’on voit une méfiance hostile poindre chez les intellectuels à l’endroit de ce qui est « germanique » dans notre vie confédérale. Réaction de faiblesse, et néfaste à un double titre. Car d’une part nous y perdons ce qui fait notre valeur propre dans la culture de 
 <a class="pb" href="#p116" id="p116">[p. 116]</a>
- langue française ; et d’autre part, en nous refusant aux contacts et aux échanges, nous perdons la meilleure occasion de prendre conscience de nous-mêmes, et de nos singularités sinon latines, du moins romanes. On se découvre en s’opposant, mais en s’opposant réellement, c’est-à-dire de près, corps à corps. Croit-on que Ramuz eût écrit ce <i class="i">Chant de notre Rhône</i>, si « roman », sans le voisinage germanique qui l’a contraint à formuler sa différence spécifique ? En France même, quoi de plus français — jusqu’à l’excès, voire jusqu’à la grimace — qu’un Barrès, constamment tenté et enrichi par le génie du Rhin ? Pour nous qui n’avons pas les mêmes raisons de construire des Bastions de l’Est<a class="noteref" href="4#note23" id="note23_"><sup>23</sup></a>, la situation est bien plus favorable. Mais il faudrait savoir l’envisager dans sa grandeur, sans crispation de méfiance ou de timidité ; dans une volonté de synthèse, et non point dans la crainte perpétuelle de n’aboutir qu’à des mélanges
+ langue française ; et d’autre part, en nous refusant aux contacts et aux échanges, nous perdons la meilleure occasion de prendre conscience de nous-mêmes, et de nos singularités sinon latines, du moins romanes. On se découvre en s’opposant, mais en s’opposant réellement, c’est-à-dire de près, corps à corps. Croit-on que Ramuz eût écrit ce <i class="i">Chant de notre Rhône</i>, si « roman », sans le voisinage germanique qui l’a contraint à formuler sa différence spécifique ? En France même, quoi de plus français — jusqu’à l’excès, voire jusqu’à la grimace — qu’un Barrès, constamment tenté et enrichi par le génie du Rhin ? Pour nous qui n’avons pas les mêmes raisons de construire des Bastions de l’Est<a class="noteref" href="4#note23" id="note23_">23</a>, la situation est bien plus favorable. Mais il faudrait savoir l’envisager dans sa grandeur, sans crispation de méfiance ou de timidité ; dans une volonté de synthèse, et non point dans la crainte perpétuelle de n’aboutir qu’à des mélanges
           bâtards.</p>
                     <p class="p">Notre unité existe, mais sur un plan à la fois plus élevé et plus vaste que celui de « l’unification » à la mode jacobine ou classique. C’est 
 <a class="pb" href="#p117" id="p117">[p. 117]</a>
- l’unité originelle, et peut-être future et finale, des diversités de l’Europe, symbolisées par nos quatre langues, nos deux religions, nos vingt-cinq républiques. Et surtout qu’on ne déplore pas le fait que les cultures des Suisses ne forment pas une culture homogène. Elles forment quelque chose de moins grandiose, mais peut-être de plus conforme à l’essence même de la culture : un microcosme des valeurs que les nations qui nous entourent ont illustrées l’une après l’autre, mais n’ont pas pu synthétiser et relier. Toutes ces nations ont été grandes tour à tour, dans la musique ou la peinture, la poésie ou la philosophie. Et peut-être ne serons-nous jamais aussi grands qu’aucune d’entre elles dans aucun de ces domaines particuliers<a class="noteref" href="4#note24" id="note24_"><sup>24</sup></a>. Mais notre grandeur est ailleurs : elle est dans l’harmonie intime, ou dans l’opposition tragique à l’intérieur d’une même « personne », des vocations spéciales d’autres nations. Et c’est là <i class="i">notre</i> vocation.</p>
+ l’unité originelle, et peut-être future et finale, des diversités de l’Europe, symbolisées par nos quatre langues, nos deux religions, nos vingt-cinq républiques. Et surtout qu’on ne déplore pas le fait que les cultures des Suisses ne forment pas une culture homogène. Elles forment quelque chose de moins grandiose, mais peut-être de plus conforme à l’essence même de la culture : un microcosme des valeurs que les nations qui nous entourent ont illustrées l’une après l’autre, mais n’ont pas pu synthétiser et relier. Toutes ces nations ont été grandes tour à tour, dans la musique ou la peinture, la poésie ou la philosophie. Et peut-être ne serons-nous jamais aussi grands qu’aucune d’entre elles dans aucun de ces domaines particuliers<a class="noteref" href="4#note24" id="note24_">24</a>. Mais notre grandeur est ailleurs : elle est dans l’harmonie intime, ou dans l’opposition tragique à l’intérieur d’une même « personne », des vocations spéciales d’autres nations. Et c’est là <i class="i">notre</i> vocation.</p>
                     <p class="p">
 <a class="pb" href="#p118" id="p118">[p. 118]</a>
  Neutralité, sur le plan culturel, ce n’est pas mélange, ni accommodation et encore moins imitation médiocre. Ce n’est pas <i class="i">forcément</i> cela. C’est au contraire (ou plutôt ce doit être) un combat perpétuel, exaltant, le battement du cœur de l’Europe. Vouloir créer une « culture suisse », ce serait trahir notre mission, ce serait le péché même d’idolâtrie qui consiste dans son principe à adorer les instruments d’un culte, oubliant le dieu qu’il célèbre. Et pourquoi n’irais-je pas jusqu’à dire que notre grandeur culturelle est de n’avoir pas de culture suisse, mais seulement une culture européenne ? On nous a donné par-dessus un Jérémie Gotthelf et un Ramuz. Ceux-là ne sont Européens que parce qu’ils sont d’abord, et génialement, pasteur bernois et Vaudois rhodanien. Mais deux poètes « enracinés » ne font pas une culture suisse. Ce sont deux vocations isolées, et la culture suppose une suite, un progrès, un milieu, un écho. Je me représenterais plutôt une Suisse culturelle pluraliste, avec ses centres successifs ou parfois même simultanés, offrant un asile provisoire aux grands errants de l’esprit et des passions occidentales : Bâle et Genève au temps de la Réforme, Érasme, 
 <a class="pb" href="#p119" id="p119">[p. 119]</a>
  Holbein, Calvin et d’Aubigné, et le fameux docteur Paracelse, entraînant sa suite turbulente de disciples d’auberge en auberge. C’était la Suisse spirituelle de la Renaissance, le microcosme de toutes ses grandeurs. Aux <span class="num">xvii<sup class="sup">e</sup></span> et <span class="num">xviii<sup class="sup">e</sup></span>, l’horizon se resserre un peu, et pourtant voici Berne et le « grand Haller », après ce premier cosmopolite : Béat de Murait. Puis Zurich et l’hégémonie passagère de l’École suisse sur la littérature allemande. Et le Lausanne des beaux esprits cosmopolites, tel que nous l’ont décrit Gibbon et le marquis de Boufflers. Avec le <span class="num">xix<sup class="sup">e</sup></span>, la Suisse réapparaît sur la grande scène de l’Europe. De Genève,
-          c’est une autre « école suisse » qui domine les lettres françaises ; après Rousseau : Constant et Staël, et toute la petite cour de Coppet. Ce foyer s’éteint pour un temps. Il en renaît un autre à Bâle : Jacob Burckhardt, Overbeck, Bachofen, le jeune Nietzsche, ami de Wagner… Et tout cela fait, par le <i class="i">moyen</i> de la Suisse, une assez belle culture européenne<a class="noteref" href="4#note25" id="note25_"><sup>25</sup></a>. Je 
+          c’est une autre « école suisse » qui domine les lettres françaises ; après Rousseau : Constant et Staël, et toute la petite cour de Coppet. Ce foyer s’éteint pour un temps. Il en renaît un autre à Bâle : Jacob Burckhardt, Overbeck, Bachofen, le jeune Nietzsche, ami de Wagner… Et tout cela fait, par le <i class="i">moyen</i> de la Suisse, une assez belle culture européenne<a class="noteref" href="4#note25" id="note25_">25</a>. Je 
 <a class="pb" href="#p120" id="p120">[p. 120]</a>
  ne vois pas pourquoi nous douterions d’une tradition que tout nous pousse à continuer, et qui, je le crois, n’a pas encore réalisé ses possibilités extrêmes.</p>
                     <p class="p">Nous avons le goût du moyen, c’est entendu, et je l’accorde à Ramuz, et je m’en irrite au moins autant que lui. Mais je pense qu’on n’atteint la grandeur qu’en utilisant ses défauts, en s’élevant au point où ils deviennent les conditions d’une création unique. Au niveau de l’instruction publique, nous étouffons dans le moyen ; mais au niveau de la vraie culture, nous pouvons être les moyens de la grandeur future de l’Europe. (Il y a là plus qu’un calembour, soit dit pour essayer de rassurer ces gens sérieux que sont les Suisses moyens — et même les autres.)</p>
                     <p class="p">3. Avec <i class="i">l’armée</i>, je reviens au concret, ou du moins à ce qu’on tient pour tel dans un pays où les valeurs intellectuelles passent plus qu’ailleurs pour un luxe. (Nulle part, je crois, les écrivains n’ont moins d’action sur la vie politique.)</p>
                     <p class="p">
 <a class="pb" href="#p121" id="p121">[p. 121]</a>
- Il est clair, et on le dit assez pour que je n’aie pas à insister, que l’armée d’un petit pays neutre est très facilement justifiable, aux yeux du pacifiste le plus ardent. Elle ne peut livrer qu’une « guerre juste », puisqu’elle est incapable d’attaquer. Elle ne joue que le rôle d’une garde, et par là même, elle est conforme à notre vocation profonde. Garde montée autour des cols, dirait Liehburg ; milice au service du principe constituant de la fédération — et c’est pourquoi elle appartient à l’État et non pas aux cantons. De plus, les mesures toutes récentes organisant la couverture des frontières par les habitants de la région sont absolument dans la ligne du fédéralisme réel<a class="noteref" href="4#note26" id="note26_"><sup>26</sup></a>.</p>
+ Il est clair, et on le dit assez pour que je n’aie pas à insister, que l’armée d’un petit pays neutre est très facilement justifiable, aux yeux du pacifiste le plus ardent. Elle ne peut livrer qu’une « guerre juste », puisqu’elle est incapable d’attaquer. Elle ne joue que le rôle d’une garde, et par là même, elle est conforme à notre vocation profonde. Garde montée autour des cols, dirait Liehburg ; milice au service du principe constituant de la fédération — et c’est pourquoi elle appartient à l’État et non pas aux cantons. De plus, les mesures toutes récentes organisant la couverture des frontières par les habitants de la région sont absolument dans la ligne du fédéralisme réel<a class="noteref" href="4#note26" id="note26_">26</a>.</p>
                     <p class="p">Armée démocratique, dit-on, milice populaire, dépourvue de l’esprit de caste que forment ailleurs les écoles militaires. Oui, c’est bien là ce que doit être une armée consciente de son rôle de garde neutre. Il s’agit que cette conscience reste vivace. Que l’armée soit proche du peuple, cela doit avoir pour effet idéal de « civiliser » la 
 <a class="pb" href="#p122" id="p122">[p. 122]</a>
  milice et non de militariser l’esprit public. Il est important de rappeler que l’armée d’une fédération ne conserve sa raison d’être que si l’on croit à cette fédération et à la tâche qui lui incombe au milieu de voisins redoutables. Il est important de rappeler que l’armée étant chose fédérale, ne peut être l’armée d’une classe, de ses intérêts, de son ordre. Il n’y aurait aucun avantage à combattre l’esprit de caste si c’était pour le remplacer par un esprit de classe bourgeois d’une valeur militaire bien moindre. Enfin l’enthousiasme entretenu autour de ce que l’on nomme chez nous « le militaire », ne saurait être légitime qu’à proportion du sens profond des raisons d’être de la Suisse dont nous témoignons par ailleurs. N’allons pas croire que pour être un bon Suisse, il faut et il suffit que l’on soit un bon soldat ! Car on ne peut être un bon soldat, chez nous, que si d’abord on prouve que l’on est un bon Suisse.</p>
                     <p class="p">Après tout, notre armée n’est qu’<i class="i">un</i> aspect de notre défense fédérale. Et un aspect subordonné. Si l’on néglige à son profit « le reste », on fait œuvre de mauvais Suisse, car c’est ce « reste » justement qui donne un sens à la fédération, donc 
 <a class="pb" href="#p123" id="p123">[p. 123]</a>
- à l’armée qui la défend. Je ne crois pas d’ailleurs que les armes matérielles soient pour nous une défense suffisante<a class="noteref" href="4#note27" id="note27_"><sup>27</sup></a>. Je vois bien qu’elles sont nécessaires. Mais je vois aussi qu’avec la cinquantième partie de l’argent consacré à leur acquisition, on pourrait apporter à nos institutions de haute culture, à nos savants, artistes ou écrivains, les moyens d’assurer au pays un prestige international qui nous donnerait peut-être davantage qu’une garantie d’autonomie : une <i class="i">existence</i> vraiment autonome. Le budget de la défense nationale dans un pays dont la vraie raison d’être est en fin de compte spirituelle, devrait comporter normalement à côté du budget militaire, un important budget de la culture. Je ne dis pas de l’instruction, mais de la culture. Et je l’appellerais volontiers le budget de la conscience fédérale. Car le jour où il existera, l’on pourra dire que nos hommes politiques, si réellement représentatifs, dans ce pays, de l’opinion moyenne des citoyens, ont 
+ à l’armée qui la défend. Je ne crois pas d’ailleurs que les armes matérielles soient pour nous une défense suffisante<a class="noteref" href="4#note27" id="note27_">27</a>. Je vois bien qu’elles sont nécessaires. Mais je vois aussi qu’avec la cinquantième partie de l’argent consacré à leur acquisition, on pourrait apporter à nos institutions de haute culture, à nos savants, artistes ou écrivains, les moyens d’assurer au pays un prestige international qui nous donnerait peut-être davantage qu’une garantie d’autonomie : une <i class="i">existence</i> vraiment autonome. Le budget de la défense nationale dans un pays dont la vraie raison d’être est en fin de compte spirituelle, devrait comporter normalement à côté du budget militaire, un important budget de la culture. Je ne dis pas de l’instruction, mais de la culture. Et je l’appellerais volontiers le budget de la conscience fédérale. Car le jour où il existera, l’on pourra dire que nos hommes politiques, si réellement représentatifs, dans ce pays, de l’opinion moyenne des citoyens, ont 
 <a class="pb" href="#p124" id="p124">[p. 124]</a>
- retrouvé le sens de notre destinée, et notre chance unique de grandeur<a class="noteref" href="4#note28" id="note28_"><sup>28</sup></a>.</p>
+ retrouvé le sens de notre destinée, et notre chance unique de grandeur<a class="noteref" href="4#note28" id="note28_">28</a>.</p>
                     <div class="ab ornament">⁂</div>
-                    <p class="p autofirst">Je vois ce que l’on peut m’objecter : « Vous attribuez des justifications parfois mythiques à des réalités qui se sont constituées par le jeu d’intérêts et de routines médiocres. Vous donnez par exemple une valeur positive à un principe fédéraliste qui ne traduit historiquement — de même que la neutralité — qu’une crainte, un resserrement des rangs devant la menace extérieure<a class="noteref" href="4#note29" id="note29_"><sup>29</sup></a> ». Rien n’est plus vrai, et c’est très consciemment que nous opérons ce redressement urgent ! Qu’est-ce donc qu’une révolution, sinon justement un 
+                    <p class="p autofirst">Je vois ce que l’on peut m’objecter : « Vous attribuez des justifications parfois mythiques à des réalités qui se sont constituées par le jeu d’intérêts et de routines médiocres. Vous donnez par exemple une valeur positive à un principe fédéraliste qui ne traduit historiquement — de même que la neutralité — qu’une crainte, un resserrement des rangs devant la menace extérieure<a class="noteref" href="4#note29" id="note29_">29</a> ». Rien n’est plus vrai, et c’est très consciemment que nous opérons ce redressement urgent ! Qu’est-ce donc qu’une révolution, sinon justement un 
 <a class="pb" href="#p125" id="p125">[p. 125]</a>
  effort pour restaurer l’<i class="i">actualité</i> perdue d’une tradition ou d’une institution ? Pour réveiller leurs pouvoirs créateurs, leur perpétuelle nouveauté ? Ou encore pour créer tout cela à partir des formes existantes ?</p>
                     <p class="p">Il ne s’agit pas pour nous de « révolutionner », au sens que le bourgeois craintif prête à ce terme. Nous partons, dans ce pays, d’un certain nombre de structures politiques et morales, et d’une tradition fédéraliste, qui se trouvent réaliser, en théorie, parfois en fait, les « utopies » personnalistes. Nous n’avons donc pas à renverser l’ordre politique existant mais à donner ou à rendre à cet ordre une signification qui le maintienne vivant et pur contre les ennemis du dedans, afin d’être fort au dehors. L’esprit bourgeois, l’économie capitaliste, une paresse spirituelle entretenue par nos écoles, la tentation de copier nos voisins dans les mœurs politiques et dans la presse, tout cela menace et compromet non seulement nos chances à venir, mais les bases politiques et morales sur lesquelles nous pouvions compter, et la mission même de la Suisse. Tout cela tend à nous réduire à nos proportions matérielles, qui sont petites, qui sont médiocres. J’ai cité le cas de la 
 <a class="pb" href="#p126" id="p126">[p. 126]</a>
- presse, se réduisant elle-même au rôle de presse locale. Il faut bien dire aussi que notre fédéralisme tend souvent à se réduire à l’esprit de clocher, à une limitation des horizons, bien plutôt qu’il ne favorise de fécondes oppositions. Notre neutralité, conçue comme une prudence, devient la pire des imprudences au milieu de l’Europe fasciste. Notre instruction publique très développée à tous les degrés, mais fondée sur une conception de l’homme incroyablement étriquée, devient une espèce d’<i class="i">asepsie</i> qui tue les germes de toute création. (La culture suppose plus de folie, suppose des contaminations multipliées, des inégalités favorisées et protégées)<a class="noteref" href="4#note30" id="note30_"><sup>30</sup></a>. Seule notre économie cherche à se mettre au pas des grandes économies européennes, mais de la manière la plus fatale à ce fédéralisme tant vanté. Autant de constatations qui dictent à notre action des objectifs immédiats. Mais
+ presse, se réduisant elle-même au rôle de presse locale. Il faut bien dire aussi que notre fédéralisme tend souvent à se réduire à l’esprit de clocher, à une limitation des horizons, bien plutôt qu’il ne favorise de fécondes oppositions. Notre neutralité, conçue comme une prudence, devient la pire des imprudences au milieu de l’Europe fasciste. Notre instruction publique très développée à tous les degrés, mais fondée sur une conception de l’homme incroyablement étriquée, devient une espèce d’<i class="i">asepsie</i> qui tue les germes de toute création. (La culture suppose plus de folie, suppose des contaminations multipliées, des inégalités favorisées et protégées)<a class="noteref" href="4#note30" id="note30_">30</a>. Seule notre économie cherche à se mettre au pas des grandes économies européennes, mais de la manière la plus fatale à ce fédéralisme tant vanté. Autant de constatations qui dictent à notre action des objectifs immédiats. Mais
             <i class="i">avant</i> toute action précise, il importe de rendre à notre peuple le sens d’un destin qui le dépasse. <i class="i">Petit peuple chargé d’une grande mission</i> ; s’il l’oublie, il étouffe bientôt dans le confort et l’asepsie morale. Mais qu’il reprenne conscience 
 <a class="pb" href="#p127" id="p127">[p. 127]</a>
  de cette mission, et le grand air de l’Europe et du monde reviendra vivifier nos pays. Il y aura de nouveau du jeu, de la passion, des communications fécondes entre les êtres, une circulation des cultures, une respiration des âmes. Et ceci qui est le plus important : des possibilités d’<i class="i">imaginer</i>, donc d’innover et de voir grand.</p>
@@ -1010,29 +1034,29 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="here">
-                      <a href="#">3. Neutralité oblige ,  (1937)</a>
+                      <a href="#">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1040,13 +1064,13 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/5" name="4. La Suisse que nous devons défendre" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/5" name="La Suisse que nous devons défendre" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>4. La Suisse que nous devons défendre (1940, Mission ou démission de la Suisse)</value>
+          <value>La Suisse que nous devons défendre (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1072,21 +1096,21 @@ body-3-8	2.h. La solution fédéraliste (1940, Mission ou démission de la Suiss
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "4. La Suisse que nous devons défendre"
+    "name": "La Suisse que nous devons défendre"
   }]
 }
           </value>
         </attributekey>
         <attributekey handle="meta_description">
-          <value>4.a. Les voix que rien n’arrête – 4.b. Nos privilèges – 4.c. Sommes-nous « à la hauteur » de notre nature ? – 4.d. Sommes-nous vraiment libres ? – 4.e. Devons-nous rester neutres ? – 4.f. Vocation de la Suisse</value>
+          <value>Les voix que rien n’arrête – Nos privilèges – Sommes-nous « à la hauteur » de notre nature ? – Sommes-nous vraiment libres ? – Devons-nous rester neutres ? – Vocation de la Suisse</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-5-1	4.a. Les voix que rien n’arrête (1940, Mission ou démission de la Suisse)
-body-5-2	4.b. Nos privilèges (1940, Mission ou démission de la Suisse)
-body-5-3	4.c. Sommes-nous « à la hauteur » de notre nature ? (1940, Mission ou démission de la Suisse)
-body-5-4	4.d. Sommes-nous vraiment libres ? (1940, Mission ou démission de la Suisse)
-body-5-5	4.e. Devons-nous rester neutres ? (1940, Mission ou démission de la Suisse)
-body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
+          <value>body-5-1	Les voix que rien n’arrête (1940, Mission ou démission de la Suisse)
+body-5-2	Nos privilèges (1940, Mission ou démission de la Suisse)
+body-5-3	Sommes-nous « à la hauteur » de notre nature ? (1940, Mission ou démission de la Suisse)
+body-5-4	Sommes-nous vraiment libres ? (1940, Mission ou démission de la Suisse)
+body-5-5	Devons-nous rester neutres ? (1940, Mission ou démission de la Suisse)
+body-5-6	Vocation de la Suisse (1940, Mission ou démission de la Suisse)
 </value>
         </attributekey>
       </attributes>
@@ -1098,9 +1122,13 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p129" id="p129">[p. 129]</a>
-                    <h1 class="head chapter">La Suisse que nous devons défendre<a class="noteref" href="5#note31" id="note31_"><sup>31</sup></a></h1>
+                    <h1 class="head chapter">
+                      <a href="#5">La Suisse que nous devons défendre<a class="noteref" href="5#note31" id="note31_">31</a></a>
+                    </h1>
                     <section id="body-5-1" class="div level2">
-                      <h2 class="head">Les voix que rien n’arrête</h2>
+                      <h2 class="head">
+                        <a href="#body-5-1">Les voix que rien n’arrête</a>
+                      </h2>
                       <p class="p autofirst">Nous sommes là, nous sommes prêts. Nous avons élevé autour de ce pays une barrière. Nous avons creusé un fossé. Nous avons hermétiquement fermé toutes les fissures, et plus rien ne passe. Murailles naturelles, Alpes, fleuves, Jura ; larges haies barbelées, ceinture fortifiée, pièces chargées, et derrière tout cela, l’armée qui guette et qui travaille encore dans les forêts, dans les ravins et dans les champs neigeux ; et derrière l’armée, un peuple entier qui guette, et qui travaille lui aussi jour et nuit, dans les bureaux et les usines — pour que rien ne passe. Frontières 
 <a class="pb" href="#p130" id="p130">[p. 130]</a>
  closes, pays forclos, reclus dans ses sécurités. Et rien ne passe…</p>
@@ -1123,7 +1151,9 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
                     </section>
                     <section id="body-5-2" class="div level2">
                       <a class="pb" href="#p135" id="p135">[p. 135]</a>
-                      <h2 class="head">Nos privilèges</h2>
+                      <h2 class="head">
+                        <a href="#body-5-2">Nos privilèges</a>
+                      </h2>
                       <p class="p autofirst">Si nous voulons prendre une conscience sérieuse de nos vraies raisons d’être et de persévérer, il nous faut tout d’abord écarter un certain nombre de fausses raisons et d’illusions, de phrases toutes faites et de clichés patriotiques. Vous ne vous étonnerez donc pas trop si je consacre la première partie de cette étude à la critique, pour ne pas dire au dégonflage de ces clichés. Notre assemblée, et ce discours, seraient inutiles, si nous ne cherchions pas ensemble, et si nous ne trouvions pas ensemble, par dessous les grandes phrases habituelles, certaines réalités solides qui valent la peine d’être affirmées sans rhétorique.</p>
                       <p class="p">Nous entendons dire, très souvent, que la Suisse mérite d’être défendue parce qu’elle détient d’immenses <i class="i">privilèges</i>. Admettons ce point de vue, pour l’instant.</p>
                       <p class="p">Quels sont donc ces grands privilèges ? J’en citerai trois, qui sont sans contredit les plus illustres : d’abord notre <i class="i">nature</i> incomparable, ensuite 
@@ -1131,7 +1161,9 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
  nos <i class="i">libertés</i> traditionnelles, enfin notre <i class="i">neutralité</i>, solennellement garantie depuis 1815 par toutes les grandes puissances européennes. Voilà, n’est-ce pas, trois belles et bonnes raisons de nous montrer fiers de notre Suisse ? Certes. Mais il convient de se demander ce que valent ces fameux privilèges dans l’Europe toute nouvelle où nous vivons en ce début de 1940. Il convient de se demander s’ils sont de purs et simples privilèges, ou s’ils ne comporteraient pas aussi des devoirs ; ensuite, s’il y a lieu de s’en vanter ; enfin, s’ils représentent pratiquement des garanties pour notre indépendance, ou, au contraire, s’ils ne peuvent pas fournir certains prétextes à la violer.</p>
                     </section>
                     <section id="body-5-3" class="div level2">
-                      <h2 class="head">Sommes-nous « à la hauteur » de notre nature ?</h2>
+                      <h2 class="head">
+                        <a href="#body-5-3">Sommes-nous « à la hauteur » de notre nature ?</a>
+                      </h2>
                       <p class="p autofirst">La Suisse est belle, c’est entendu, c’est connu dans le monde entier. On a fait avec cela beaucoup de littérature de manuels — et en même temps, pas mal d’argent, je crois. Tant pis pour les manuels, et tant mieux pour l’argent. Mais le fait est qu’on a coutume de parler de nos Alpes soit d’un point de vue purement sentimental, soit 
 <a class="pb" href="#p137" id="p137">[p. 137]</a>
  d’un point de vue purement utilitaire ou touristique, en style de Männerchor ou en style d’hôteliers. C’est-à-dire trop haut ou trop bas. Qu’on y prenne garde cependant : si nos Alpes sont belles et nos glaciers « sublimes », il n’y a pas là de quoi nous vanter ! D’abord ce n’est pas notre faute, car nous ne sommes pour rien dans notre géographie. Ensuite, si nous bénéficions d’un privilège aussi considérable, il s’agirait de nous en rendre dignes, avant même que de le défendre. Le seul moyen de conserver un privilège, après tout, c’est de le mériter. Or nous chantons nos lacs d’azur, nous chantons nos glaciers qui touchent aux cieux, et nous en retirons d’importants bénéfices, mais nous oublions trop souvent que tout cela, précisément, peut tenter certains de nos voisins… Ne seraient-ils pas aussi capables que nous de chanter et de gagner de l’argent, si nous étions contraints de leur céder la place ? Sommes-nous vraiment plus dignes et plus conscients que d’autres des <i class="i">charges</i> que supposent de pareils avantages ?</p>
@@ -1154,7 +1186,9 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
                       <p class="p autofirst">Oui, Rambert nous le dit fort bien : ce premier de nos privilèges, une belle nature, doit être considéré par nous, avant toute autre chose, comme un <i class="i">appel</i>, comme une <i class="i">responsabilité</i>.</p>
                     </section>
                     <section id="body-5-4" class="div level2">
-                      <h2 class="head">Sommes-nous vraiment libres ?</h2>
+                      <h2 class="head">
+                        <a href="#body-5-4">Sommes-nous vraiment libres ?</a>
+                      </h2>
                       <p class="p autofirst">Il faut donc que les Suisses deviennent et restent « à la hauteur » de leur géographie. Mais il faut aussi qu’ils deviennent et qu’ils restent <i class="i">à la hauteur de leur histoire</i>. Et à ce propos, voici quelques remarques sur nos fameuses <i class="i">libertés</i>, non moins fameuses et non moins célébrées que nos grandioses panoramas. « Nous défendrons nos libertés — répétons-nous dans nos discours patriotiques — ces libertés que nos pères nous ont acquises au prix de leur héroïsme civique et militaire, et qui sont un modèle pour l’Europe ». Oui certes, mais ici encore, n’ayons pas peur d’y regarder de près. Que sont devenues en fait ces libertés antiques qu’on nous envie ? Avons-nous 
 <a class="pb" href="#p141" id="p141">[p. 141]</a>
  bien le droit de nous en vanter encore, et suffit-il de les vanter pour qu’elles subsistent ?</p>
@@ -1186,7 +1220,9 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
  la liberté, ou alors ils n’aimeront pas une vraie liberté. Oui, nous pouvons le proclamer : il n’y a de liberté <i class="i">réelle</i> dans notre monde que grâce à la foi des chrétiens, et à leur action politique. Et vous voyez qu’au bout du compte, et « pratiquement » (comme nous aimons à dire en Suisse), le meilleur fondement de notre indépendance nationale, c’est encore notre foi personnelle. Car c’est elle qui reste la source de notre amour de la <i class="i">vraie</i> liberté, et cet amour est le fondement solide de toutes nos libertés civiques, comme aussi de notre résistance intime aux tentations de la propagande totalitaire.</p>
                     </section>
                     <section id="body-5-5" class="div level2">
-                      <h2 class="head">Devons-nous rester neutres ?</h2>
+                      <h2 class="head">
+                        <a href="#body-5-5">Devons-nous rester neutres ?</a>
+                      </h2>
                       <p class="p autofirst">Liberté, totalitarisme… Ceci nous amène à poser la question de notre troisième grand privilège : la neutralité. Notre neutralité, en effet, n’impose-t-elle pas, dès maintenant, certaines limites pénibles à la <i class="i">libre</i> expression de nos convictions, même lorsque celles-ci sont basées sur notre foi non point politique, mais chrétienne ?</p>
                       <p class="p">Oui, comment justifier encore, dans cette guerre-ci, 
 <a class="pb" href="#p149" id="p149">[p. 149]</a>
@@ -1210,14 +1246,16 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
                       <p class="p">Non, la neutralité de la Suisse ne saurait être un privilège : c’est une charge ! Et ce serait bien mal la défendre que de la défendre au nom de nos seuls intérêts helvétiques, car elle ne peut et ne doit subsister qu’au nom de l’intérêt de l’Europe entière.</p>
                       <p class="p">Seule, la mission positive de la Suisse rend un sens et un poids aux arguments que nous jugions tout à l’heure insuffisants. Notre position géographique, par exemple, est un péril certain si l’on ne s’attache qu’à l’aspect matériel des choses. Mais elle devient un avantage dès qu’on la considère dans la perspective de notre mission médiatrice. De même, la garantie légale de notre neutralité n’est qu’un chiffon de papier, si l’on veut y voir simplement une garantie de nos privilèges. Mais elle devient notre meilleure sûreté dès qu’on la considère comme une mesure d’intérêt 
 <a class="pb" href="#p153" id="p153">[p. 153]</a>
- général en Europe. Rester neutres au nom d’un traité signé à Vienne il y a plus de cent ans, soit ! Mais il ne faudrait pas retenir de ce traité uniquement ce qui nous semblerait y garantir notre sécurité ; car le texte dit autre chose, dit beaucoup plus : « Les Puissances signataires de la déclaration du 20 mars 1815 reconnaissent authentiquement par le présent Acte que la neutralité et l’inviolabilité de la Suisse, et son indépendance de toute influence étrangère, <i class="i">sont dans les vrais intérêts de la politique de L’Europe entière</i>.<a class="noteref" href="5#note32" id="note32_"><sup>32</sup></a> »</p>
+ général en Europe. Rester neutres au nom d’un traité signé à Vienne il y a plus de cent ans, soit ! Mais il ne faudrait pas retenir de ce traité uniquement ce qui nous semblerait y garantir notre sécurité ; car le texte dit autre chose, dit beaucoup plus : « Les Puissances signataires de la déclaration du 20 mars 1815 reconnaissent authentiquement par le présent Acte que la neutralité et l’inviolabilité de la Suisse, et son indépendance de toute influence étrangère, <i class="i">sont dans les vrais intérêts de la politique de L’Europe entière</i>.<a class="noteref" href="5#note32" id="note32_">32</a> »</p>
                       <p class="p">Et j’en arrive, ici, au centre même de tout ce que je voulais vous dire aujourd’hui : <i class="i">le seul moyen réel et réaliste de conserver nos privilèges, c’est de les considérer comme les charges, dont nous sommes responsables vis-à-vis de la communauté européenne.</i></p>
                       <p class="p">Je voudrais marquer d’une devise ce point central. Au Moyen âge la noblesse représentait une charge autant qu’un privilège, et même le 
 <a class="pb" href="#p154" id="p154">[p. 154]</a>
  privilège était subordonné à la charge, il n’avait d’autre but que d’en faciliter l’exercice. C’est pourquoi l’on disait : Noblesse oblige. Disons-nous pareillement que tous nos privilèges, même naturels, n’ont d’autre sens et d’autre raison d’être que de nous permettre d’accomplir notre <i class="i">mission spéciale</i> de Suisses. Disons-nous donc : beauté du sol oblige, liberté oblige, neutralité oblige !</p>
                     </section>
                     <section id="body-5-6" class="div level2">
-                      <h2 class="head">Vocation de la Suisse</h2>
+                      <h2 class="head">
+                        <a href="#body-5-6">Vocation de la Suisse</a>
+                      </h2>
                       <p class="p autofirst">Mais il est temps que je définisse ce que j’appelle la mission de la Suisse, ou mieux, d’un terme plus chrétien, sa <i class="i">vocation</i>. C’est très facile à dire en quelques mots. <i class="i">La vocation actuelle et historique de la Suisse, c’est de défendre et d’illustrer aux yeux de l’Europe le principe du fédéralisme</i> ; principe, notons-le bien, radicalement contraire à tout système totalitaire, et seule base possible et solide de la paix que nous espérons.</p>
                       <p class="p">C’est très facile à dire, et ce n’est pas très neuf, en apparences. Mais dès qu’on veut prendre au sérieux cette vocation, l’on s’aperçoit que ce n’est pas si simple. On s’aperçoit aussi que ces 
 <a class="pb" href="#p155" id="p155">[p. 155]</a>
@@ -1246,7 +1284,7 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
                       <p class="p">Mais il est temps que j’apporte une correction ou plus exactement un complément à ma précédente définition de la vocation. Je viens de vous dire qu’il serait prématuré de préciser dès maintenant 
 <a class="pb" href="#p161" id="p161">[p. 161]</a>
  le plan d’une entreprise fédéraliste européenne, sur l’initiative de la Suisse. Or on pourrait me faire remarquer qu’une vocation est toujours un appel <i class="i">précis</i>. Le type même de la vocation, c’est l’appel aux Prophètes dans l’Ancien Testament. Dieu leur donne toujours une tâche déterminée et immédiate : Lève-toi, et va dire telle chose à tel peuple. Nous n’avons entendu, jusqu’ici, aucun appel aussi déterminé. Nous n’en sommes pas encore là : mais je dis que nous devons nous attendre à pareille éventualité. Nous devons d’ores et déjà nous habituer à voir plus grand sans décoller de la réalité, à voir plus grand pour rester dans le réel ; nous habituer à l’idée de faire un jour quelque chose de grand pour l’Europe.</p>
-                      <p class="p">Peut-être est-il encore trop tôt pour <i class="i">mobiliser</i> l’opinion en faveur d’une action de la Suisse auprès de ses voisins en guerre. Peut-être n’y a-t-il rien à faire hors de chez nous tant qu’un certain régime subsiste, vous savez où<a class="noteref" href="5#note33" id="note33_"><sup>33</sup></a>. Ce n’est pas encore une mobilisation spirituelle que je réclame, c’est plutôt une <i class="i">mise de piquet</i>. Soyons 
+                      <p class="p">Peut-être est-il encore trop tôt pour <i class="i">mobiliser</i> l’opinion en faveur d’une action de la Suisse auprès de ses voisins en guerre. Peut-être n’y a-t-il rien à faire hors de chez nous tant qu’un certain régime subsiste, vous savez où<a class="noteref" href="5#note33" id="note33_">33</a>. Ce n’est pas encore une mobilisation spirituelle que je réclame, c’est plutôt une <i class="i">mise de piquet</i>. Soyons 
 <a class="pb" href="#p162" id="p162">[p. 162]</a>
  prêts à répondre à tout appel, même balbutiant, qui se ferait entendre. Préparons-nous à dire très haut, dès que l’occasion s’en montrera, ce que nous aurons à dire à nos voisins, forts que nous sommes d’une expérience fédéraliste de six siècles. Et surtout, ne dénigrons pas les tentatives qui se feraient jour dans ce sens comme nous avons trop souvent dénigré l’essai de Société des Nations. Essayons au contraire de les améliorer, si nous les jugeons maladroites ou mal fondées.</p>
                       <p class="p">Travaillons aussi, c’est le deuxième point, à <i class="i">illustrer</i> notre fédéralisme, c’est-à-dire à le <i class="i">réaliser</i> d’une manière qui le rende <i class="i">exemplaire</i> au sens littéral de ce mot. Profitons de notre paix matérielle pour le parfaire et pour l’approfondir jusque dans le détail de nos vies, en sorte que cette réduction d’Europe fédérée, qu’est la Suisse, soit au moins de l’ouvrage bien faite, digne d’être exposée, et en bonne place, comme un modèle valable pour l’Europe de demain. Voilà un travail immédiat. Nul besoin, cette fois-ci, d’attendre que la paix s’approche pour s’y mettre. Notre vocation <i class="i">intérieure</i> est pour le moment plus précise que notre 
@@ -1303,49 +1341,49 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="here">
-                      <a href="#">4. La Suisse que nous devons défendre</a>
-                      <ul>
+                      <a href="#">La Suisse que nous devons défendre</a>
+                      <ol>
                         <li class="collateral">
-                          <a href="5#body-5-1">4.a. Les voix que rien n’arrête</a>
+                          <a href="5#body-5-1">Les voix que rien n’arrête</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-2">4.b. Nos privilèges</a>
+                          <a href="5#body-5-2">Nos privilèges</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-3">4.c. Sommes-nous « à la hauteur » de notre nature ?</a>
+                          <a href="5#body-5-3">Sommes-nous « à la hauteur » de notre nature ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-4">4.d. Sommes-nous vraiment libres ?</a>
+                          <a href="5#body-5-4">Sommes-nous vraiment libres ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-5">4.e. Devons-nous rester neutres ?</a>
+                          <a href="5#body-5-5">Devons-nous rester neutres ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-6">4.f. Vocation de la Suisse</a>
+                          <a href="5#body-5-6">Vocation de la Suisse</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1353,13 +1391,13 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/6" name="5. Esquisses d’une politique fédéraliste" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/6" name="Esquisses d’une politique fédéraliste" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>5. Esquisses d’une politique fédéraliste (1940, Mission ou démission de la Suisse)</value>
+          <value>Esquisses d’une politique fédéraliste (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1385,17 +1423,17 @@ body-5-6	4.f. Vocation de la Suisse (1940, Mission ou démission de la Suisse)
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "5. Esquisses d’une politique fédéraliste"
+    "name": "Esquisses d’une politique fédéraliste"
   }]
 }
           </value>
         </attributekey>
         <attributekey handle="meta_description">
-          <value>5.a. D’où vient le fédéralisme ? – 5.b. Où va le fédéralisme ?</value>
+          <value>D’où vient le fédéralisme ? – Où va le fédéralisme ?</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-6-1	5.a. D’où vient le fédéralisme ? (1940, Mission ou démission de la Suisse)
-body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suisse)
+          <value>body-6-1	D’où vient le fédéralisme ? (1940, Mission ou démission de la Suisse)
+body-6-2	Où va le fédéralisme ? (1940, Mission ou démission de la Suisse)
 </value>
         </attributekey>
       </attributes>
@@ -1407,7 +1445,9 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p169" id="p169">[p. 169]</a>
-                    <h1 class="head chapter">Esquisses d’une politique fédéraliste</h1>
+                    <h1 class="head chapter">
+                      <a href="#6">Esquisses d’une politique fédéraliste</a>
+                    </h1>
                     <p class="p autofirst">Il se peut que le fédéralisme n’ait été à son origine qu’une nécessité naturelle. Il se peut que durant des siècles, il soit demeuré une pratique terre à terre, et n’en ait que mieux fonctionné. Ce qui est certain, c’est qu’une <i class="i">praxis</i> ne peut rayonner et créer qu’avec l’appui d’une <i class="i">theoria</i>, à partir d’un certain moment.</p>
                     <p class="p">Ce moment est venu. Nous y sommes. Dans la révolution du <span class="num">xx<sup class="sup">e</sup></span> siècle, ceux qui se taisent n’ont peut-être pas tort, mais ils sont certainement battus. L’« arme secrète » dont on parle souvent, c’est simplement la propagande. <i class="i">Toute propagande est efficace</i>, voilà le principe tactique fondamental de notre siècle. Si aucune contre-propagande n’entre en action pour la neutraliser, toute propagande obtient un certain rendement, qui varie entre 5 % (dans les pays d’opinion « libre ») et 98 ½ % (dans d’autres pays).</p>
                     <p class="p">
@@ -1416,8 +1456,12 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                     <p class="p">Mais afin de nous mettre en mesure de « prêcher » le fédéralisme, il nous faut savoir d’où il vient ; savoir aussi à quoi il tend ; et prouver la réalité de ce savoir par une existence exemplaire.</p>
                     <p class="p">Je ne puis <i class="i">parler</i> ici que des deux premiers points. Du troisième, que dirais-je ? Il faut le vivre.</p>
                     <section id="body-6-1" class="div level2">
-                      <h2 class="head kicker">I</h2>
-                      <h2 class="head">D’où vient le fédéralisme ?</h2>
+                      <h2 class="head kicker">
+                        <a href="#body-6-1">I</a>
+                      </h2>
+                      <h2 class="head">
+                        <a href="#body-6-1">D’où vient le fédéralisme ?</a>
+                      </h2>
                       <p class="p autofirst">Dans le temps, dans le monde du péché, tout commence par la nécessité, et tend à nous y enfermer. Dans le monde de l’esprit, tout s’ouvre et se libère, devient grâce et devient nouveauté. L’action réelle, c’est de passer du monde de la nécessité à celui de la liberté. Cet acte seul 
 <a class="pb" href="#p171" id="p171">[p. 171]</a>
  nous rend humains et nous maintient à hauteur d’homme. (Pas question de monter jusqu’à l’ange ; nous avons bien assez à faire à ne point retomber à la bête.)</p>
@@ -1426,7 +1470,7 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
  réponse à l’idéalisme déficient ne doit pas être le matérialisme, mais l’idéalisme efficient : la foi qui œuvre. On a tant et si bien méconnu ces vérités élémentaires que je ne m’excuserai pas de les rappeler ici. Quand abandonnerons-nous cette manie suisse de dénoncer comme « utopistes », « rêveurs abstraits », « idéologues brumeux », ceux parmi nous qui se souviennent d’être hommes, créatures de l’esprit autant que de la terre, chargés d’une vocation et non seulement d’hérédités problématiques !</p>
                       <p class="p">Il reste que la position géographique de la Suisse semble l’avoir prédestinée à un statut fédéraliste. C’est tout ce qu’on peut dire <i class="i">après coup</i>. Le compartimentage des régions montagneuses appelle une forme politique tout opposée à celle qui règne normalement dans les landes de la Prusse ou les steppes de l’Asie. Le fait géographique que le Gothard est le seul point où un seul col permette de traverser les Alpes suffit à expliquer ce grand fait historique : l’immédiateté impériale accordée aux trois Waldstätten, et fondant la liberté suisse. Mais dès cet instant-là, les facteurs <i class="i">historiques</i> apparaissent beaucoup plus déterminants que la Nature, qui se borne à leur 
 <a class="pb" href="#p173" id="p173">[p. 173]</a>
- fournir un point de fixation. C’est l’esprit des Communes italiennes qui donne l’impulsion décisive lors de la fondation des premières ligues, dans les Grisons et au Tessin, dès la fin du <span class="num">xii<sup class="sup">e</sup></span> siècle ; puis sur l’autre versant du Gothard, aux environs de 1291<a class="noteref" href="6#note34" id="note34_"><sup>34</sup></a>. En vérité, dès ce début, c’est la <i class="i">mission spéciale</i> confiée aux Waldstätten — j’entends la garde du Gothard — qui définit l’existence de la Suisse et assure son indépendance. La nécessité de s’entr’aider et le besoin d’indépendance des montagnards existaient aussi bien dans le reste des Alpes : ce qui leur a permis de se réaliser en ce point très précis de l’espace et du temps, ce n’est pas seulement le fait physique de l’ouverture du col du St-Gothard, mais c’est aussi le fait sociologique des idées qui passèrent le col. Le premier fait conditionne le second, mais c’est le second qui détermine des actes. Et surtout, dominant l’un et l’autre, il y a l’<i class="i">idée</i> et l’<i class="i">idéal</i> du Saint-Empire,
+ fournir un point de fixation. C’est l’esprit des Communes italiennes qui donne l’impulsion décisive lors de la fondation des premières ligues, dans les Grisons et au Tessin, dès la fin du <span class="num">xii<sup class="sup">e</sup></span> siècle ; puis sur l’autre versant du Gothard, aux environs de 1291<a class="noteref" href="6#note34" id="note34_">34</a>. En vérité, dès ce début, c’est la <i class="i">mission spéciale</i> confiée aux Waldstätten — j’entends la garde du Gothard — qui définit l’existence de la Suisse et assure son indépendance. La nécessité de s’entr’aider et le besoin d’indépendance des montagnards existaient aussi bien dans le reste des Alpes : ce qui leur a permis de se réaliser en ce point très précis de l’espace et du temps, ce n’est pas seulement le fait physique de l’ouverture du col du St-Gothard, mais c’est aussi le fait sociologique des idées qui passèrent le col. Le premier fait conditionne le second, mais c’est le second qui détermine des actes. Et surtout, dominant l’un et l’autre, il y a l’<i class="i">idée</i> et l’<i class="i">idéal</i> du Saint-Empire,
             c’est-à-dire de l’Europe unie, dont il faut protéger le cœur.</p>
                       <p class="p">
 <a class="pb" href="#p174" id="p174">[p. 174]</a>
@@ -1444,8 +1488,12 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                     </section>
                     <section id="body-6-2" class="div level2">
                       <a class="pb" href="#p177" id="p177">[p. 177]</a>
-                      <h2 class="head kicker">II</h2>
-                      <h2 class="head">Où va le fédéralisme ?</h2>
+                      <h2 class="head kicker">
+                        <a href="#body-6-2">II</a>
+                      </h2>
+                      <h2 class="head">
+                        <a href="#body-6-2">Où va le fédéralisme ?</a>
+                      </h2>
                       <p class="p autofirst">C’est ici qu’apparaît au concret le problème, ou la nécessité, d’une <i class="i">philosophie fédéraliste</i>. Car lorsqu’il s’agit de prévoir, l’empirisme ne suffit plus. La vue doit s’élargir ; et le seul horizon qu’il nous soit permis d’embrasser, c’est celui de l’Europe entière, non tel groupe de puissances voisines. Or l’Europe est un idéal, une civilisation et un esprit, bien plus qu’une entité géographique. (« Cap de l’Asie » dit Valéry…)</p>
                       <p class="p">Aussi bien, les notes qui vont suivre ont-elles l’ambition de poser le problème du fédéralisme sur le seul plan où nos conflits internes aient quelque chance de se résoudre : le plan de l’Europe. Notre fédéralisme ne peut durer que si nous lui donnons pour <i class="i">fin</i> la Fédération de l’Occident.</p>
                       <p class="p">1. Tout d’abord une définition. Fédération veut dire : <i class="i">union dans la diversité</i>.</p>
@@ -1468,21 +1516,21 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                       <p class="p">Plusieurs cantons se trouvent appartenir à deux ou trois réseaux d’alliances, lesquelles ne sont pas toujours réciproques dans toutes leurs obligations. (Comme si de nos jours deux pays concluaient un pacte qui pour l’un serait d’assistance obligatoire, pour l’autre seulement de non-agression.)</p>
                       <p class="p">D’où vient que cette fédération ait triomphé de toutes les crises d’une histoire violente et complexe ? Le secret de sa force est à peine formulable : il est de l’ordre du sentiment. Oui, 
 <a class="pb" href="#p182" id="p182">[p. 182]</a>
- ce n’est guère qu’un sentiment communautaire informulé — je dirais même : soigneusement informulé — qui tient ensemble ces pays<a class="noteref" href="6#note35" id="note35_"><sup>35</sup></a>.</p>
+ ce n’est guère qu’un sentiment communautaire informulé — je dirais même : soigneusement informulé — qui tient ensemble ces pays<a class="noteref" href="6#note35" id="note35_">35</a>.</p>
                       <p class="p">La crise réelle ne commencera qu’au jour où ce sentiment sera <i class="i">dit</i>, traduit en lois, et par là-même soumis au risque de se voir discuté.</p>
                       <p class="p">5. La force des choses — qui n’est qu’une traduction automatique de la faiblesse des hommes — fait aujourd’hui de la <i class="i">pratique traditionnelle</i> du fédéralisme helvétique une sorte de <i class="i">programme</i>, et même de manifeste.</p>
                       <p class="p">Par la force des choses, l’union paisible de deux religions, de quatre langues, de 22 républiques, et de je ne sais combien de « races » en un État qui les respecte, cette union prend l’allure à la fois d’un anti-racisme déclaré et d’un anti-nationalisme.</p>
                       <p class="p">Par la force des choses, la pratique séculaire et instructive d’une méthode d’arrangements empiriques, c’est-à-dire non rationalistes, prend l’allure d’un anti-jacobinisme, ou d’un antimarxisme.</p>
                       <p class="p">
 <a class="pb" href="#p183" id="p183">[p. 183]</a>
- Par la force des choses enfin, la préférence accordée par les Suisses à la coutume sur la loi ; leur goût d’utiliser ce qui existe plutôt que de décréter sur table rase ; leur refus d’opposer pathétiquement la tradition et le progrès, tout cela prend l’allure d’une réaction contre les « mystiques » et les mythes, apparemment contradictoires, de la révolution européenne<a class="noteref" href="6#note36" id="note36_"><sup>36</sup></a>.</p>
+ Par la force des choses enfin, la préférence accordée par les Suisses à la coutume sur la loi ; leur goût d’utiliser ce qui existe plutôt que de décréter sur table rase ; leur refus d’opposer pathétiquement la tradition et le progrès, tout cela prend l’allure d’une réaction contre les « mystiques » et les mythes, apparemment contradictoires, de la révolution européenne<a class="noteref" href="6#note36" id="note36_">36</a>.</p>
                       <p class="p">L’instinct contrecarré devient conscience ; la coutume attaquée devient programme ; la pratique remise en question par une propagande agressive se voit contrainte de développer pour sa défense une théorie.</p>
                       <p class="p">Nous vivons ce moment de l’histoire où le fédéralisme, s’il veut durer, doit devenir à son tour missionnaire.</p>
                       <p class="p">Telle est sa crise : ou se nier, ou triompher mais sur le plan de l’Europe entière.</p>
                       <p class="p">6. Le grand danger de l’heure présente, pour la Suisse, je le vois dans ce fait qu’elle <i class="i">doit</i> se 
 <a class="pb" href="#p184" id="p184">[p. 184]</a>
  formuler. Elle doit dire ce qui allait sans dire et qui alors n’en allait que mieux. Elle s’expose à son risque maximum : celui de décoller de ses bases concrètes, perdant ainsi en force originelle ce qu’elle pourrait gagner en conscience de ses fins.</p>
-                      <p class="p">De même pour le fédéralisme européen. Un sentiment commun se formait peu à peu, depuis la guerre de 1914-18. La SDN fut l’un de ses symptômes, bien faible encore. L’idée d’un réseau de pactes bilatéraux, ou à trois, ou à quatre, en fut un autre. Dans les deux cas, le sentiment fédéraliste fut promptement détourné au profit de politiques d’hégémonie. Toutefois ce sentiment ne cessait pas de croître et de se renforcer dans la plupart des peuples. La guerre actuelle est venue le fouetter. Brusquement, la question se pose de fédérer l’Europe dès la paix rétablie. Mais parce qu’elle se pose brusquement, elle risque d’être mal posée. J’entends qu’elle risque de ne susciter que des plans rationnels et d<a id="_GoBack">‌</a>es systèmes.</p>
+                      <p class="p">De même pour le fédéralisme européen. Un sentiment commun se formait peu à peu, depuis la guerre de 1914-18. La SDN fut l’un de ses symptômes, bien faible encore. L’idée d’un réseau de pactes bilatéraux, ou à trois, ou à quatre, en fut un autre. Dans les deux cas, le sentiment fédéraliste fut promptement détourné au profit de politiques d’hégémonie. Toutefois ce sentiment ne cessait pas de croître et de se renforcer dans la plupart des peuples. La guerre actuelle est venue le fouetter. Brusquement, la question se pose de fédérer l’Europe dès la paix rétablie. Mais parce qu’elle se pose brusquement, elle risque d’être mal posée. J’entends qu’elle risque de ne susciter que des plans rationnels et des systèmes.</p>
                       <p class="p">Or tout système, fût-il nommé fédéraliste, est unitaire par essence, et donc anti-fédéraliste. Il l’est dans son esprit, il le sera donc aussi, et fatalement, 
 <a class="pb" href="#p185" id="p185">[p. 185]</a>
  dans son application. Le fédéralisme réel est le contraire absolu d’un système, toujours conçu par un cerveau et, à partir d’une seule idée, d’un centre abstrait. <i class="i">Je définirais même le fédéralisme comme un refus constant et instinctif de recourir aux solutions systématiques.</i></p>
@@ -1501,13 +1549,13 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                       <p class="p">Le personnalisme n’est pas une moyenne, un « parti du centre », un juste milieu entre l’individualisme 
 <a class="pb" href="#p188" id="p188">[p. 188]</a>
  atomisant et le collectivisme agglutinant. Au contraire ! Le personnalisme est la <i class="i">position centrale</i>, dont l’individualisme et le collectivisme ne sont que des déviations morbides.</p>
-                      <p class="p">« Quand l’homme oublie qu’il est responsable de sa vocation devant la communauté, il devient individualiste. Quand il oublie qu’il est responsable de sa vocation devant Dieu et devant lui-même, il devient collectiviste<a class="noteref" href="6#note37" id="note37_"><sup>37</sup></a> ».</p>
+                      <p class="p">« Quand l’homme oublie qu’il est responsable de sa vocation devant la communauté, il devient individualiste. Quand il oublie qu’il est responsable de sa vocation devant Dieu et devant lui-même, il devient collectiviste<a class="noteref" href="6#note37" id="note37_">37</a> ».</p>
                       <p class="p">Or l’individualisme et le collectivisme aboutissent identiquement à l’étatisme centralisateur, aux <i class="i">systèmes</i> gigantesques et abstraits, sur lesquels l’homme n’a plus de prises, et qui n’ont plus d’autre moteur que l’inhumaine « force des choses ».</p>
                       <p class="p">11. La méthode, ou mieux : l’<i class="i">attitude</i> personnaliste, peut seule résoudre le conflit permanent au sein de toute fédération : celui qui oppose le pouvoir central et l’autonomie des régions fédérées.</p>
                       <p class="p">Car une personne, au sens où je l’ai définie, sait qu’elle doit normalement sacrifier à l’ensemble 
 <a class="pb" href="#p189" id="p189">[p. 189]</a>
  une part de ses prérogatives, si elle veut rester en mesure d’exercer concrètement sa vocation. Mais d’autre part, elle sait aussi que l’ensemble — ou le pouvoir central — n’a d’autre fin que de sauvegarder les libertés individuelles, par où j’entends l’exercice libre des vocations. Pour la personne, point de contradiction de principe entre ces deux nécessités vitales : centralisation et autonomie. Reste à résoudre la difficulté pratique de leur dosage dans les institutions.</p>
-                      <p class="p">À cet égard, le mouvement personnaliste français (surtout le groupe de l’<i class="i">Ordre nouveau</i>) me paraît avoir indiqué la seule méthode praticable. Il s’agit selon lui de reconnaître par une enquête technique, en tous domaines, quelles sont les activités créatrices et quelles sont les activités mécaniques. Dans le domaine industriel, cette enquête n’est plus à faire : n’importe quel chef d’entreprise connaît exactement la différence entre un ouvrier qualifié et un manœuvre. La solution fédéraliste en économie est alors celle-ci : centraliser tout ce qui est de l’ordre du travail « indifférencié » ou parcellaire, afin de permettre une plus grande autonomie des entreprises qualifiées<a class="noteref" href="6#note38" id="note38_"><sup>38</sup></a>. 
+                      <p class="p">À cet égard, le mouvement personnaliste français (surtout le groupe de l’<i class="i">Ordre nouveau</i>) me paraît avoir indiqué la seule méthode praticable. Il s’agit selon lui de reconnaître par une enquête technique, en tous domaines, quelles sont les activités créatrices et quelles sont les activités mécaniques. Dans le domaine industriel, cette enquête n’est plus à faire : n’importe quel chef d’entreprise connaît exactement la différence entre un ouvrier qualifié et un manœuvre. La solution fédéraliste en économie est alors celle-ci : centraliser tout ce qui est de l’ordre du travail « indifférencié » ou parcellaire, afin de permettre une plus grande autonomie des entreprises qualifiées<a class="noteref" href="6#note38" id="note38_">38</a>. 
 <a class="pb" href="#p190" id="p190">[p. 190]</a>
  Je ne puis indiquer ici que le <i class="i">principe</i> de cette solution. Mais cela suffit à faire voir comment cette attitude personnaliste se traduit normalement dans tous les plans — et jusque dans le détail de la « pratique » — par un <i class="i">dépassement</i> des vieux conflits. Au lieu de la lutte stérile dont nous souffrons en Suisse, entre le parti des centralisateurs et le parti des régionalistes, le personnaliste envisage la recherche en commun d’un arrangement technique, orienté par une conscience vigilante des <i class="i">buts derniers</i> de toute fédération.</p>
                       <p class="p">12. Le troisième enseignement négatif que nous devons tirer de l’expérience suisse est d’un ordre plus quotidien et intime. Le morcellement d’un pays — ou demain de l’Europe — en régions autonomes et de faible étendue, a pour avantage d’écarter toute possibilité d’impérialisme, tout gigantisme inhumain, tout délire de puissance. 
@@ -1528,7 +1576,7 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
  par des <i class="i">troupes</i>, au sens politicien du terme.</p>
                       <p class="p">Les troupes, les masses, portent automatiquement au pouvoir des systèmes totalitaires. Les personnes, telles que je les définis, ne peuvent vouloir qu’un organisme fédéral.</p>
                       <p class="p">Or il existe en Suisse un « personnel » plus apte qu’aucun autre à préparer les bases de la Fédération européenne. (Un « personnel » : il faut sauver ce mot de sa déchéance bureaucratique. Normalement, il devrait désigner non pas une troupe d’employés anonymes, mais une équipe de personnes responsables.)</p>
-                      <p class="p">C’est le charisme de la Suisse que de produire des hommes dont la fonction est avant tout de connaître l’Europe : juges et négociateurs d’accords internationaux, cosmopolites ou « Suisses de l’étranger »<a class="noteref" href="6#note39" id="note39_"><sup>39</sup></a>, directeurs d’unions universelles, secrétaires d’alliances œcuméniques, membres du Comité international de la Croix-Rouge, etc., etc. Le « Suisse international » est un homme qui peut et doit connaître l’Europe, 
+                      <p class="p">C’est le charisme de la Suisse que de produire des hommes dont la fonction est avant tout de connaître l’Europe : juges et négociateurs d’accords internationaux, cosmopolites ou « Suisses de l’étranger »<a class="noteref" href="6#note39" id="note39_">39</a>, directeurs d’unions universelles, secrétaires d’alliances œcuméniques, membres du Comité international de la Croix-Rouge, etc., etc. Le « Suisse international » est un homme qui peut et doit connaître l’Europe, 
 <a class="pb" href="#p195" id="p195">[p. 195]</a>
  par tradition, par goût et par nécessité. Et la connaître non pour l’utiliser au bénéfice de quelque impérialisme, mais la connaître pour la <i class="i">faire</i>. Pour la servir, et non pour s’en servir.</p>
                       <p class="p">14. La mission historique de la Suisse fut, à partir du <span class="num">xiii<sup class="sup">e</sup></span> siècle, de garder libres pour les peuples et les princes les cols du centre de l’Europe. Mission pratique, devenue symbolique. Désormais, il nous appartient d’en proclamer la signification moderne : c’est la défense du cœur spirituel de l’Europe, la garde montée autour du drapeau rouge à la croix blanche, où le rouge est couleur d’Empire, c’est-à-dire d’union des nations, et la croix signe de salut.</p>
@@ -1589,37 +1637,37 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="here">
-                      <a href="#">5. Esquisses d’une politique fédéraliste</a>
-                      <ul>
+                      <a href="#">Esquisses d’une politique fédéraliste</a>
+                      <ol>
                         <li class="collateral">
-                          <a href="6#body-6-1">5.a. D’où vient le fédéralisme ?</a>
+                          <a href="6#body-6-1">D’où vient le fédéralisme ?</a>
                         </li>
                         <li class="collateral">
-                          <a href="6#body-6-2">5.b. Où va le fédéralisme ?</a>
+                          <a href="6#body-6-2">Où va le fédéralisme ?</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
-                      <a href="7">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="7">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1627,13 +1675,13 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1940mds/7" name="Appendice , ou « in cauda venenum » Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1940mds/7" name="Appendice, ou « in cauda venenum » Auto-critique de la Suisse" package="ddr1940mds" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Appendice , ou « in cauda venenum » Auto-critique de la Suisse (1940, Mission ou démission de la Suisse)</value>
+          <value>Appendice, ou « in cauda venenum » Auto-critique de la Suisse (1940, Mission ou démission de la Suisse)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1659,7 +1707,7 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "Appendice , ou « in cauda venenum » Auto-critique de la Suisse"
+    "name": "Appendice, ou « in cauda venenum » Auto-critique de la Suisse"
   }]
 }
           </value>
@@ -1673,18 +1721,20 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                 <content><![CDATA[
                   <article role="article">
                     <a class="pb" href="#p197" id="p197">[p. 197]</a>
-                    <h1 class="head chapter">Appendice <br class="lb"/>ou « in cauda venenum » <br class="lb"/>Auto-critique de la Suisse</h1>
+                    <h1 class="head chapter">
+                      <a href="#7">Appendice <br class="lb"/>ou « in cauda venenum » <br class="lb"/>Auto-critique de la Suisse</a>
+                    </h1>
                     <p class="p autofirst">Nul pays, à ma connaissance, n’a été plus souvent expliqué à lui-même et au monde que la Suisse. C’est qu’il en a besoin plus que nul autre. Sa devise est un paradoxe qu’il n’a pas toujours bien compris. Elle exclut en principe toute doctrine unitaire, et suppose donc la connaissance très vivante d’une autre espèce d’union, sans cesse à recréer. Or l’inertie des masses et l’à peu près intellectuel s’opposent sans cesse à cette reprise de conscience. D’où la nécessité d’une vigilante auto-critique, si l’on ne veut pas déchoir ou se laisser dissoudre, si l’on veut durer et surtout, si l’on prétend se donner en exemple.</p>
                     <p class="p">
 <a class="pb" href="#p198" id="p198">[p. 198]</a>
- 1. <i class="i">Clarifions notre langage</i> ! — Puisque le fédéralisme est une forme politique qui suppose l’équilibre vivant entre les droits de chaque région et ses devoirs envers l’ensemble, il est absurde de nommer « fédéraliste » un parti qui n’a d’autre programme que la défense des intérêts locaux contre le centre. Ceux qui se disent, chez nous, « fédéralistes », ne sont souvent, je le crains, que des nationalistes cantonaux. Ceux qui insistent sur la nécessité de l’union centrale auraient peut-être plus de droits à revendiquer le nom de fédéralistes, dans son sens étymologique. (<i class="i">Fœdus</i> = traité, serment, union.) Par une inconséquence très bizarre, ces pseudo-fédéralistes, ou régionalistes, nomment « fédéral » ce qui procède de Berne. Il en résulte que leur fédéralisme se résume à combattre tout ce qui est dit fédéral. Comprenne qui pourrai</p>
+ 1. <i class="i">Clarifions notre langage</i> ! — Puisque le fédéralisme est une forme politique qui suppose l’équilibre vivant entre les droits de chaque région et ses devoirs envers l’ensemble, il est absurde de nommer « fédéraliste » un parti qui n’a d’autre programme que la défense des intérêts locaux contre le centre. Ceux qui se disent, chez nous, « fédéralistes », ne sont souvent, je le crains, que des nationalistes cantonaux. Ceux qui insistent sur la nécessité de l’union centrale auraient peut-être plus de droits à revendiquer le nom de fédéralistes, dans son sens étymologique. (<i class="i">Fœdus</i> = traité, serment, union.) Par une inconséquence très bizarre, ces pseudo-fédéralistes, ou régionalistes, nomment « fédéral » ce qui procède de Berne. Il en résulte que leur fédéralisme se résume à combattre tout ce qui est dit fédéral. Comprenne qui pourra !</p>
                     <p class="p">Cette confusion verbale, symbolique de tant d’autres, est à la base de la plupart de nos conflits politiques, économiques, parlementaires.</p>
                     <p class="p">2. <i class="i">Ni gauche ni droite</i>. — Les centralisateurs et les régionalistes ont également tort, c’est évident, 
 <a class="pb" href="#p199" id="p199">[p. 199]</a>
  puisque le fédéralisme véritable ne commence qu’au-delà de leur opposition. Ils se font un programme de ce qui ne saurait être que la maladie individualiste ou la maladie collectiviste de notre État. À quand le parti de la santé fédéraliste ?</p>
                     <p class="p">Il ne sera ni de gauche ni de droite. Car sous l’opposition, indéfendable en théorie, des centralistes et des régionalistes, ce qui se cache en réalité, c’est l’opposition gauche-droite. Les radicaux centralisateurs ne sont que des socialistes qui s’ignorent ; ceux-ci à leur tour ne sont que des totalitaires timorés, c’est-à-dire quelque chose d’absolument inviable s’ils en restent là, ou de radicalement anti-suisse s’ils progressent. Les « libéraux » et les conservateurs « fédéralistes » ne sont que des réactionnaires inconséquents : tant que je ne les aurai pas vu refuser l’argent de l’État, je ne pourrai pas prendre au sérieux leurs convictions « fédéralistes » (ce mot étant pris dans leur sens). (Et ce ne sont pas seulement les particuliers, propriétaires ou industriels, qui mendient la « manne fédérale », les subsides et les allocations ; mais les cantons les plus conservateurs sont souvent 
 <a class="pb" href="#p200" id="p200">[p. 200]</a>
- ceux qui, me dit-on, se gênent le moins…<a class="noteref" href="7#note40" id="note40_"><sup>40</sup></a>)</p>
+ ceux qui, me dit-on, se gênent le moins…<a class="noteref" href="7#note40" id="note40_">40</a>)</p>
                     <p class="p">Or l’opposition gauche-droite est étrangère au génie de la Suisse. Son origine parlementaire le prouve : rien de moins suisse que notre Parlement, importé d’Amérique à une époque récente, et plus ou moins contaminé par les mœurs politiques françaises.</p>
                     <p class="p">L’idée même de <i class="i">parti</i>, d’ailleurs, est anti-suisse, dans ce sens qu’elle est anti-fédéraliste. Tout parti politique est en puissance un petit État totalitaire et unifié, qui voudrait bien tout régler à sa guise, et qui se condamne, ridiculement, à avoir des idées sur tout. Les seuls partis qu’une Fédération puisse tolérer sont les partis à programme restreint, représentant une région, ou un groupe d’activités apparentées, ou une tendance religieuse, ou des intérêts corporatifs. Sur la base de programmes restreints, <i class="i">bien définis</i>, l’on peut discuter entre experts, se compléter, collaborer. Mais les partis unitaires actuels représentent des tendances trop vagues : ils ne pourront jamais s’entendre, ou n’obtiendront que des compromis informes. Chacun veut tout assimiler, 
 <a class="pb" href="#p201" id="p201">[p. 201]</a>
@@ -1714,7 +1764,7 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
  que la minorité dans une vie fédérale saine : elle a droit à de <i class="i">plus grande égards</i>, relativement, que la majorité. C’est ainsi que l’équilibre s’établit entre les grands et les petits, entre le nombre et les groupements restreints.</p>
                     <p class="p">Les petits cantons, chez nous, ont voix égale avec les grands ; les catholiques avec les protestants ; les Romands, Tessinois ou Ladins avec les Suisses-alémaniques.</p>
                     <p class="p">Nier ce principe ou l’appliquer sans loyauté, dans n’importe quel domaine de notre vie, même « privée », c’est nier le fédéralisme et ruiner les bases de la Suisse. Que nos moralistes s’en souviennent, et que nos conformistes ne l’oublient pas !</p>
-                    <p class="p">8. <i class="i">Intolérance</i>. — À mon avis, un fédéralisme sain doit se montrer radicalement intolérant envers toute influence totalitaire ou unitaire. Exemple : ceux qui, chez nous, font profession d’admirer la méthode d’un dictateur qui a pu écrire : « L’État, c’est l’âme de l’âme », voilà des drôles de fédéralistes, des drôles de Suisses<a class="noteref" href="7#note41" id="note41_"><sup>41</sup></a>. 
+                    <p class="p">8. <i class="i">Intolérance</i>. — À mon avis, un fédéralisme sain doit se montrer radicalement intolérant envers toute influence totalitaire ou unitaire. Exemple : ceux qui, chez nous, font profession d’admirer la méthode d’un dictateur qui a pu écrire : « L’État, c’est l’âme de l’âme », voilà des drôles de fédéralistes, des drôles de Suisses<a class="noteref" href="7#note41" id="note41_">41</a>. 
 <a class="pb" href="#p206" id="p206">[p. 206]</a>
  Je les estime intolérables, s’ils parlent en connaissance de cause. (Le plus souvent, d’ailleurs, ils se contentent de ne pas remarquer la ressemblance entre ce qu’ils détestent en Suisse et ce qu’ils admirent au dehors…)</p>
                     <p class="p">9. <i class="i">Notre naïveté</i>. — Elle éclate dans certaines mesures « de prudence » prises à l’égard de la presse — par qui de droit — et qui consistent à ménager non seulement la chèvre et le chou, ce qui est humain, mais encore l’agneau… et le loup, ce qui est moins impartial qu’il ne semble.</p>
@@ -1750,7 +1800,7 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
 <a class="pb" href="#p212" id="p212">[p. 212]</a>
  « neutraliser » de cette manière notre opinion. En tant que citoyen suisse respectueux des décisions de nos autorités suprêmes, j’ai donc le droit de condamner <i class="i">ouvertement</i> des régimes étrangers qui attaquent <i class="i">ouvertement</i> le nôtre. Et qu’on ne vienne pas me dire qu’une pareille attitude peut compromettre notre indépendance : elle l’affirme au contraire !</p>
                     <p class="p">Le devoir de l’armée est de garantir par la force <i class="i">l’intégrité</i> de notre indépendance, et non pas seulement sa matérialité (le territoire).</p>
-                    <p class="p">Le vrai patriote suisse ne dit pas : « Plutôt renoncer à ma liberté d’opinion que de risquer des ennuis avec une légation. » Il dit au contraire — il disait autrefois — : « Plutôt la mort que l’esclavage.<a class="noteref" href="7#note42" id="note42_"><sup>42</sup></a> »</p>
+                    <p class="p">Le vrai patriote suisse ne dit pas : « Plutôt renoncer à ma liberté d’opinion que de risquer des ennuis avec une légation. » Il dit au contraire — il disait autrefois — : « Plutôt la mort que l’esclavage.<a class="noteref" href="7#note42" id="note42_">42</a> »</p>
                     <p class="p">
 <a class="pb" href="#p213" id="p213">[p. 213]</a>
  15. <i class="i">Diplomatie</i>. — Ne cédons pas à la tentation des basses époques : confondre le réalisme avec la médiocrité des vues politiques. Les petits pays ne sont pas dispensés d’imaginer et de voir grand. Bien au contraire : ils sont contraints de compenser leur petitesse physique par leur prestige moral. C’est la première condition de leur indépendance, même matérielle.</p>
@@ -1758,9 +1808,9 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
                     <p class="p">Rien de plus dangereusement utopique que le réalisme d’avant-hier.</p>
                     <p class="p">Notre époque n’est plus celle du grand commerce ; ni même de la grande industrie (réalisme d’hier). Notre époque est celle des religions politiques, sociales, nationales. Le commerce, l’industrie, l’économie en général, ont cessé d’imposer leurs « lois fatales ». Ce sont les Chefs qui dictent les prix, les cours des changes, la consommation. Ces Chefs montrent la plus parfaite indifférence à l’égard des fameuses « nécessités 
 <a class="pb" href="#p214" id="p214">[p. 214]</a>
- techniques », superstition des experts d’hier et d’avant-hier. Ils ont pensé, et prouvé par le fait, que la Technique ne saurait inspirer une politique, mais qu’elle peut au contraire servir à tout <i class="i">lorsqu’on l’y force</i> — et en particulier à dominer les masses<a class="noteref" href="7#note43" id="note43_"><sup>43</sup></a>.</p>
+ techniques », superstition des experts d’hier et d’avant-hier. Ils ont pensé, et prouvé par le fait, que la Technique ne saurait inspirer une politique, mais qu’elle peut au contraire servir à tout <i class="i">lorsqu’on l’y force</i> — et en particulier à dominer les masses<a class="noteref" href="7#note43" id="note43_">43</a>.</p>
                     <p class="p">Il est temps que la Suisse comprenne que le souci de son économie ne saurait plus servir d’excuse à l’absence de vues <i class="i">politiques</i>.</p>
-                    <p class="p">On demande à un gouvernement de « gouverner<a class="noteref" href="7#note44" id="note44_"><sup>44</sup></a> », de piloter l’État et d’orienter sa marche ; le reste, le fonctionnement technique de la machine, étant l’affaire des fonctionnaires — leur nom l’indique — et des conseillers commerciaux.</p>
+                    <p class="p">On demande à un gouvernement de « gouverner<a class="noteref" href="7#note44" id="note44_">44</a> », de piloter l’État et d’orienter sa marche ; le reste, le fonctionnement technique de la machine, étant l’affaire des fonctionnaires — leur nom l’indique — et des conseillers commerciaux.</p>
                     <p class="p">On demande des diplomates qui fassent une politique, et qui aient plus d’idées générales que 
 <a class="pb" href="#p215" id="p215">[p. 215]</a>
  de compétences économiques. Je connais tel professeur d’Université, tel écrivain, tel philanthrope, tel connaisseur et praticien des choses de la SDN et de la chose européenne, qui nous représenteraient à l’étranger — officiellement ou non — avec combien plus d’efficacité que les meilleurs spécialistes formés par les bureaux de Berne, et rompus à toutes les prudences « fédérales ».</p>
@@ -1808,29 +1858,29 @@ body-6-2	5.b. Où va le fédéralisme ? (1940, Mission ou démission de la Suis
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="collateral">
-                      <a href="2">1. Le protestantisme créateur de personnes</a>
+                      <a href="2">Le protestantisme créateur de personnes</a>
                     </li>
                     <li class="collateral">
-                      <a href="3">2. La bataille de la culture</a>
+                      <a href="3">La bataille de la culture</a>
                     </li>
                     <li class="collateral">
-                      <a href="4">3. Neutralité oblige ,  (1937)</a>
+                      <a href="4">Neutralité oblige,  (1937)</a>
                     </li>
                     <li class="collateral">
-                      <a href="5">4. La Suisse que nous devons défendre</a>
+                      <a href="5">La Suisse que nous devons défendre</a>
                     </li>
                     <li class="collateral">
-                      <a href="6">5. Esquisses d’une politique fédéraliste</a>
+                      <a href="6">Esquisses d’une politique fédéraliste</a>
                     </li>
                     <li class="here">
-                      <a href="#">Appendice ,  ou « in cauda venenum »   Auto-critique de la Suisse</a>
+                      <a href="#">Appendice,  ou « in cauda venenum »  Auto-critique de la Suisse</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

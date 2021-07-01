@@ -65,7 +65,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Avertissement</a>
                     </li>
@@ -109,7 +109,7 @@
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -120,7 +120,7 @@
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -210,17 +210,17 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
                     <li class="here">
                       <a href="#">1. Le bon vieux temps présent</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2#body-2-1">17 mars 1939</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="3">2. Journal d’attente</a>
@@ -259,7 +259,7 @@
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -270,7 +270,7 @@
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -525,7 +525,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -534,7 +534,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                     </li>
                     <li class="here">
                       <a href="#">2. Journal d’attente</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3#body-3-1">Pardigon, Côte des Maures, avril 1939</a>
                         </li>
@@ -598,7 +598,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                         <li class="collateral">
                           <a href="3#body-3-21">21 juin 1939</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="4">3. Intermède</a>
@@ -634,7 +634,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -645,7 +645,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -724,7 +724,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -768,7 +768,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -779,7 +779,7 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -825,12 +825,12 @@ Ortega spirituel et sérieux, parlant sur le même ton du grand panda, le nouvel
           </value>
         </attributekey>
         <attributekey handle="meta_description">
-          <value>En cantonnement, quelque part à la frontière suisse, fin septembre 1939 – 10 octobre 1939 – 11octobre 1939 – 31 octobre 1939 – Berne, fin novembre 1939. (Au retour d’un voyage en Hollande.) – Janvier 1940 – Février 1940 – Fin février 1940 – Début de mars 1940 – 9 mars 1940 – Mars 1940</value>
+          <value>En cantonnement, quelque part à la frontière suisse, fin septembre 1939 – 10 octobre 1939 – 11 octobre 1939 – 31 octobre 1939 – Berne, fin novembre 1939. (Au retour d’un voyage en Hollande.) – Janvier 1940 – Février 1940 – Fin février 1940 – Début de mars 1940 – 9 mars 1940 – Mars 1940</value>
         </attributekey>
         <attributekey handle="subheads">
           <value>body-5-1	En cantonnement, quelque part à la frontière suisse, fin septembre 1939 (1946, Journal des deux Mondes)
 body-5-2	10 octobre 1939 (1946, Journal des deux Mondes)
-body-5-3	11octobre 1939 (1946, Journal des deux Mondes)
+body-5-3	11 octobre 1939 (1946, Journal des deux Mondes)
 body-5-4	31 octobre 1939 (1946, Journal des deux Mondes)
 body-5-5	Berne, fin novembre 1939. (Au retour d’un voyage en Hollande.) (1946, Journal des deux Mondes)
 body-5-6	Janvier 1940 (1946, Journal des deux Mondes)
@@ -882,8 +882,8 @@ body-5-11	Mars 1940 (1946, Journal des deux Mondes)
                       </blockquote>
                     </section>
                     <section id="body-5-3" class="div level2">
-                      <h2 class="head"><i class="i"><i class="i">11</i></i>octobre 1939</h2>
-                      <p class="p autofirst">Six semaines déjà. La Pologne envahie. Il est clair qu’il ne se passera rien, avant longtemps, dans ces champs et forêts où nous marchons <b class="b"><i class="i">sans suivre les chemins</i>.</b> (À ce petit signe nous sentons la différence d’avec la vie civile, dans le pays des règlements.)</p>
+                      <h2 class="head">11 octobre 1939</h2>
+                      <p class="p autofirst">Six semaines déjà. La Pologne envahie. Il est clair qu’il ne se passera rien, avant longtemps, dans ces champs et forêts où nous marchons <i class="i">sans suivre les chemins</i>. (À ce petit signe nous sentons la différence d’avec la vie civile, dans le pays des règlements.)</p>
                       <p class="p">
 <a class="pb" href="#p38" id="p38">[p. 38]</a>
 Nous vivons à côté de la population, mêlés à elle, et cependant hors de sa vie. Mis en marge pour autre chose, qui ne vient pas.</p>
@@ -899,7 +899,7 @@ Nous vivons à côté de la population, mêlés à elle, et cependant hors de sa
                       <p class="p">À quelques kilomètres d’ici commencent les tranchées de la guerre, et des hommes meurent. Pourquoi cette guerre, pourquoi ces morts ? D’abord, et techniquement pourrait-on dire, parce que les États de l’Europe n’ont pas pu résoudre <i class="i">autrement</i> le problème des minorités, allemandes, tchèques, slovaques ou ukrainiennes. Et pourquoi ne l’ont-ils pas pu ? Parce que tous ils s’imaginent — ou croient devoir s’imaginer ! — que le bonheur et la force d’un peuple dépendent de sa grandeur physique, de sa mise au pas militaire, de son arrogance étatique. Nous sommes ici à patauger parce que nos voisins se font la guerre, et s’ils la font, c’est parce qu’ils n’ont pas su se fédérer progressivement, au lieu de s’unifier brutalement. Oui, cette guerre n’a pas d’autre sens : elle marque la faillite retentissante des systèmes centralisateurs et du nationalisme étatisé. C’est la guerre la plus anti-Suisse de toute l’histoire. C’est donc pour nous la pire menace. Mais en même temps, la plus belle promesse ! Maintenant, la preuve est faite, attestée par le sang, que la solution suisse et fédérale est seule capable de fonder la paix, puisque l’autre aboutit à la guerre. Ce n’est pas notre orgueil qui l’imagine, ce sont les faits qui nous obligent à le reconnaître avec une tragique évidence. Et c’est cela que nous avons à défendre : <i class="i">le seul avenir possible de l’Europe.</i> Le seul lieu où cet avenir soit, d’ores et déjà, un présent.</p>
                       <p class="p">
 <a class="pb" href="#p40" id="p40">[p. 40]</a>
- Il ne s’agit pas de grands mots, de lyrisme ou d’idéalisme. Il s’agit de voir <b class="b"><i class="i">qu’en fait</i></b>, si nous sommes là, ce n’est pas pour défendre des fromages, des conseils d’administration, notre confort et nos hôtels. Les fascistes feraient marcher cela aussi bien que nous, peut-être mieux ! Ce n’est pas non plus pour protéger nos « lacs d’azur » et nos « glaciers sublimes ». (Certain ministre de la propagande se chargerait très volontiers de ce travail de <b class="b"><i class="i">Heimatschutz</i>.)</b> Si nous sommes là, c’est pour exécuter la mission dont nous sommes responsables, depuis des siècles, devant l’Europe. D’autres se sont chargés d’arrêter les brigands qui voulaient profiter de sa faiblesse. Nous sommes chargés de la défendre contre elle-même, de garder son trésor, d’affirmer sa santé, et de sauver son avenir. Tel est le sens de la mission spéciale qui justifie notre neutralité. Si nous trahissons cette mission, si nous n’en gardons pas conscience, je ne donne pas lourd de notre indépendance.</p>
+ Il ne s’agit pas de grands mots, de lyrisme ou d’idéalisme. Il s’agit de voir <i class="i">qu’en fait</i>, si nous sommes là, ce n’est pas pour défendre des fromages, des conseils d’administration, notre confort et nos hôtels. Les fascistes feraient marcher cela aussi bien que nous, peut-être mieux ! Ce n’est pas non plus pour protéger nos « lacs d’azur » et nos « glaciers sublimes ». (Certain ministre de la propagande se chargerait très volontiers de ce travail de <i class="i">Heimatschutz</i>.) Si nous sommes là, c’est pour exécuter la mission dont nous sommes responsables, depuis des siècles, devant l’Europe. D’autres se sont chargés d’arrêter les brigands qui voulaient profiter de sa faiblesse. Nous sommes chargés de la défendre contre elle-même, de garder son trésor, d’affirmer sa santé, et de sauver son avenir. Tel est le sens de la mission spéciale qui justifie notre neutralité. Si nous trahissons cette mission, si nous n’en gardons pas conscience, je ne donne pas lourd de notre indépendance.</p>
                     </section>
                     <section id="body-5-5" class="div level2">
                       <h2 class="head">Berne, fin novembre 1939.
@@ -923,14 +923,14 @@ Nous vivons à côté de la population, mêlés à elle, et cependant hors de sa
 <a class="pb" href="#p44" id="p44">[p. 44]</a>
 Les petits peuples protestants de l’Europe ont réalisé ce miracle de l’équilibre entre l’un et le divers. Ils ont la charge de créer les seules bases vivantes de la paix.</p>
                       <div class="ab ornament">⁂</div>
-                      <p class="p autofirst">Autre chose est la Suisse vue de loin, dans sa vérité séculaire, autre chose les bureaux où se décide son évolution actuelle. La déprimante architecture de notre Palais Fédéral — où je corrige ces notes de voyage, ayant fini le travail de la journée — me décourage un peu, ce soir. C’est le contraire de ce qui fonde nos vraies valeurs et notre raison d’être. Cette école primaire démesurée, c’est l’image même, en pierre verdâtre, de l’esprit qu’il nous faut combattre si nous voulons mériter notre paix.</p>
+                      <p class="p autofirst">Autre chose est la Suisse vue de loin, dans sa vérité séculaire, autre chose les bureaux où se décide son évolution actuelle. La déprimante architecture de notre Palais fédéral — où je corrige ces notes de voyage, ayant fini le travail de la journée — me décourage un peu, ce soir. C’est le contraire de ce qui fonde nos vraies valeurs et notre raison d’être. Cette école primaire démesurée, c’est l’image même, en pierre verdâtre, de l’esprit qu’il nous faut combattre si nous voulons mériter notre paix.</p>
                     </section>
                     <section id="body-5-6" class="div level2">
                       <h2 class="head">Janvier 1940</h2>
                       <p class="p autofirst">La Section Armée et Foyer de l’État-Major m’a chargé de composer un « bréviaire civique » à l’intention des troupes. Je passe des heures à la <i class="i">Landesbibliothek</i>, lisant Vinet, Benjamin Constant, Jacob Burckhardt, Rousseau, Gottfried Keller, et beaucoup d’autres de moindre envergure. (Frappé de constater qu’au sujet de la Suisse, de ses institutions, de sa neutralité, radicaux et conservateurs ou catholiques et protestants en viennent à louer les mêmes traits. Je m’amuse à juxtaposer Numa Droz et Gonzague de Reynold, quitte à glisser ensuite entre les deux une remarque de Napoléon sur la nature fédérative de notre État, et tous les trois disent la même chose.)</p>
                       <p class="p">
 <a class="pb" href="#p45" id="p45">[p. 45]</a>
- Drôle d’occupation pour un militaire ? Pas si drôle si l’on songe que cette guerre a précisément pour enjeu non point la possession de quelque territoire, mais la défense de « <b class="b"><i class="i">nos libertés</i> »</b> — dont je vais faire le titre du bréviaire. Il faut que chacun se batte à sa place. Et dans l’attente d’un combat qui tarde encore, il faut que chacun travaille à renforcer les positions de défense de ce pays. Ainsi les uns creusent le sol aux frontières, et moi je fouille et pioche dans une bibliothèque…</p>
+ Drôle d’occupation pour un militaire ? Pas si drôle si l’on songe que cette guerre a précisément pour enjeu non point la possession de quelque territoire, mais la défense de « <i class="i">nos libertés</i> » — dont je vais faire le titre du bréviaire. Il faut que chacun se batte à sa place. Et dans l’attente d’un combat qui tarde encore, il faut que chacun travaille à renforcer les positions de défense de ce pays. Ainsi les uns creusent le sol aux frontières, et moi je fouille et pioche dans une bibliothèque…</p>
                       <p class="p">C’est du moins ce que je me répète pour justifier ma mutation de la troupe à l’État-Major. Elle a d’ailleurs coïncidé avec un accident au genou qui m’interdit encore tout exercice physique violent et toute marche prolongée.</p>
                     </section>
                     <section id="body-5-7" class="div level2">
@@ -947,13 +947,13 @@ Les petits peuples protestants de l’Europe ont réalisé ce miracle de l’éq
                       <a class="pb" href="#p47" id="p47">[p. 47]</a>
                       <h2 class="head">Fin février 1940</h2>
                       <p class="p autofirst">Terminé ma prospection de textes pour le « Bréviaire du Citoyen ». Des lectures que j’ai faites, je retiens surtout quelques phrases admirables d’Alexandre Vinet (« <i class="i">La tyrannie est le souverain désordre</i> » par exemple), la brochure de Benjamin Constant sur l’<i class="i">Esprit de Conquête</i>, dont chaque mot pourrait être écrit d’Hitler avec plus de pertinence encore que de Napoléon, et les <i class="i">Lettres</i> de Jacob Burckhardt. En 1871, il écrit à l’un de ses amis : « <i class="i">Le sort des ouvriers sera le plus étrange… L’État militaire va devenir le grand fabricant. Ces masses humaines ne peuvent pas supporter éternellement leur misère et leur envie. Un certain degré de misère avec de l’avancement et des uniformes, des journées commencées et terminées par un roulement de tambour, voilà ce qui doit logiquement se produire.</i> » Et encore, en 1889 : « <i class="i">Les chefs futurs seront de</i> terribles simplificateurs<i class="i">. Au surplus, ils ne seront pas toujours les individus isolés, mais une majorité, une corporation militaire.</i> »</p>
-                      <p class="p">Je lis aussi, du même auteur, les <b class="b"><i class="i">Considérations sur l’Histoire du monde</i>.</b> C’est l’un des livres, combien rares, qui « tiennent le coup » pendant cette guerre. Je ne pense pas qu’il soit normal de l’aimer, mais j’y trouve un moyen de dominer l’événement. Son détachement serait étrange, voire haïssable, si nous vivions dans un monde acceptable ou simplement à la mesure de notre action. Je vais à lui pour me défendre contre l’écœurement qui me guette. Et dans sa volonté presque cynique de sagesse et de réalisme, je sens aussi une force subversive. 
+                      <p class="p">Je lis aussi, du même auteur, les <i class="i">Considérations sur l’Histoire du monde</i>. C’est l’un des livres, combien rares, qui « tiennent le coup » pendant cette guerre. Je ne pense pas qu’il soit normal de l’aimer, mais j’y trouve un moyen de dominer l’événement. Son détachement serait étrange, voire haïssable, si nous vivions dans un monde acceptable ou simplement à la mesure de notre action. Je vais à lui pour me défendre contre l’écœurement qui me guette. Et dans sa volonté presque cynique de sagesse et de réalisme, je sens aussi une force subversive. 
 <a class="pb" href="#p48" id="p48">[p. 48]</a>
  C’est le meilleur antidote dont je dispose contre les illusions bourgeoises et la naïveté politique qui trop souvent caractérisent notre opinion.</p>
                     </section>
                     <section id="body-5-9" class="div level2">
                       <h2 class="head">Début de mars 1940</h2>
-                      <p class="p autofirst"><b class="b"><i class="i">L’homme au poignard enguirlandé.</i></b> — Découvert un autre antidote : l’exposition des chefs-d’œuvre de la peinture suisse du <span class="num">xvi<sup class="sup">e</sup></span> siècle, repliés de Bâle à Berne, avant d’être cachés en lieu sûr, à l’abri des bombardements. Nicolas Manuel Deutsch, Urs Graf, Hans Baldung et Conrad Witz, personne n’a mieux traduit et illustré les vertus qui devraient nourrir, aujourd’hui, notre esprit de résistance. Ce réalisme libertaire, cette liberté d’allure et de jugement qui tient compte des puissances de l’instinct, reconnaît leurs excès mortels — au lieu de les ignorer, nier et refouler, — rien n’est plus tonifiant dans ce pays des Assis, où l’on ne sait plus dévisager les vraies menaces.</p>
+                      <p class="p autofirst"><i class="i">L’homme au poignard enguirlandé.</i> — Découvert un autre antidote : l’exposition des chefs-d’œuvre de la peinture suisse du <span class="num">xvi<sup class="sup">e</sup></span> siècle, repliés de Bâle à Berne, avant d’être cachés en lieu sûr, à l’abri des bombardements. Nicolas Manuel Deutsch, Urs Graf, Hans Baldung et Conrad Witz, personne n’a mieux traduit et illustré les vertus qui devraient nourrir, aujourd’hui, notre esprit de résistance. Ce réalisme libertaire, cette liberté d’allure et de jugement qui tient compte des puissances de l’instinct, reconnaît leurs excès mortels — au lieu de les ignorer, nier et refouler, — rien n’est plus tonifiant dans ce pays des Assis, où l’on ne sait plus dévisager les vraies menaces.</p>
                       <p class="p">Oui, je veux opposer la Suisse de Manuel à l’Helvétie des manuels ! Et qu’importe le calembour, s’il fait hésiter les corrects dans un pays trop ajusté.</p>
                       <p class="p">Ah ! Nicolas Manuel Deutsch, on ne s’embêtait pas de ton temps ! On allait faire la guerre en Italie pour le plaisir d’un sang violent, et quand les lansquenets trichaient au jeu mortel, quand les canons détruisaient l’art des armes, on rentrait écœuré mais libre, et l’on exhalait sa colère dans un chant débordant d’injures : « Tu mens plus largement que ta gueule n’est fendue !… Tu t’es creusé un trou en terre comme un cochon dans 
 <a class="pb" href="#p49" id="p49">[p. 49]</a>
@@ -1020,7 +1020,6 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
               <br class="lb"/>je suis
               <br class="lb"/>aux champs</span>
                       </p>
-                      <p class="p center"> </p>
                       <p class="p"> </p>
                       <p class="p autofirst">Paix du village, silence des rues vides, ouvertes sur le ciel et sur les blés. J’étais là fasciné comme par la découverte d’un secret de pudeur naïvement dévoilé. Secret de ce village aux volets clos. Imaginant une idylle muette. Celui qui revient au pays après une longue absence et des déboires : il entre, il ne trouve personne. Mais ses outils sont là, contre le mur. Il reprend le chemin de son champ. En passant au carrefour il s’est dit : Peut-être est-elle à Mandres, c’est donc jour de marché. Il a écrit ces mots. Elle saura bien. Il a rejoint l’<i class="i">usage</i> du pays, l’intimité des choses de toujours. Et le moindre signe suffit.</p>
                       <p class="p">Nous sommes redescendus vers la vallée de l’Yerres, qui coule entre des saules et des peupliers blancs. Il faisait lourd et doux, le goudron de la route sentait plus fort que les champs de roses, et des nuages noirs traînaient sur les vergers.</p>
@@ -1058,7 +1057,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1073,7 +1072,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                     </li>
                     <li class="here">
                       <a href="#">4. Puisque je suis un militaire…</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="5#body-5-1">En cantonnement, quelque part à la frontière suisse, fin septembre 1939</a>
                         </li>
@@ -1081,13 +1080,13 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                           <a href="5#body-5-2">10 octobre 1939</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-3"><i><i>11</i></i>octobre 1939</a>
+                          <a href="5#body-5-3">11 octobre 1939</a>
                         </li>
                         <li class="collateral">
                           <a href="5#body-5-4">31 octobre 1939</a>
                         </li>
                         <li class="collateral">
-                          <a href="5#body-5-5">Berne, fin novembre 1939.   (Au retour d’un voyage en Hollande.)</a>
+                          <a href="5#body-5-5">Berne, fin novembre 1939.  (Au retour d’un voyage en Hollande.)</a>
                         </li>
                         <li class="collateral">
                           <a href="5#body-5-6">Janvier 1940</a>
@@ -1107,7 +1106,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                         <li class="collateral">
                           <a href="5#body-5-11">Mars 1940</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="6">5. Anecdotes et aphorismes</a>
@@ -1137,7 +1136,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -1148,7 +1147,7 @@ la messe, on vante à Berne la modération de ses discours lors des débats de r
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1434,7 +1433,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1452,7 +1451,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                     </li>
                     <li class="here">
                       <a href="#">5. Anecdotes et aphorismes</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="6#body-6-1">Fin mars 1940</a>
                         </li>
@@ -1498,7 +1497,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                         <li class="collateral">
                           <a href="6#body-6-15">Mi-juillet 1940</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="7">6. Intermède</a>
@@ -1525,7 +1524,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -1536,7 +1535,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1623,7 +1622,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1667,7 +1666,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -1678,7 +1677,7 @@ Au milieu de la nuit dernière, réveillé par deux détonations qui semblaient 
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1852,13 +1851,13 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
                     </section>
                     <section id="body-8-12" class="div level2">
                       <h2 class="head">19 septembre 1940</h2>
-                      <p class="p autofirst">Un journaliste américain, qui revient de Paris, s’appuie au bastingage, près de moi, et me dit en crachant dans l’eau entre chaque phrase : — « Il y a des gens, des Parisiens, qui trouvent que les Boches sont corrects… Well… Quand un gangster de Chicago vous prend votre portefeuille, il vous donne quelquefois cinq sous pour rentrer en métro… Il est correct, <i class="i">isn’t he ? »</i> À mon tour, j’ai craché dans l’eau, pour marquer mon approbation.</p>
+                      <p class="p autofirst">Un journaliste américain, qui revient de Paris, s’appuie au bastingage, près de moi, et me dit en crachant dans l’eau entre chaque phrase : — « Il y a des gens, des Parisiens, qui trouvent que les Boches sont corrects… <i class="i">Well</i>… Quand un gangster de Chicago vous prend votre portefeuille, il vous donne quelquefois cinq sous pour rentrer en métro… Il est correct, <i class="i">isn’t he ? »</i> À mon tour, j’ai craché dans l’eau, pour marquer mon approbation.</p>
                     </section>
                     <section id="body-8-13" class="div level2">
                       <a class="pb" href="#p96" id="p96">[p. 96]</a>
                       <h2 class="head">20 septembre 1940, en rade de New York</h2>
                       <p class="p autofirst">Je me suis éveillé dans ma cabine moite avec le sentiment que tout était changé autour de moi. Eh oui ! des verdures proches défilaient au hublot !</p>
-                      <p class="p">Couru sur le pont. Nous sommes dans les passes de T Hudson. Une brume de chaleur tropicale bleuit les rives. Je ne m’attendais pas à la nature américaine, à la voir la première et de si près, avant les gratte-ciel, la statue… Je n’ai jamais eu la sensation d’un paysage plus étranger, mais plus étrangement accueillant. Tous ces arbres si riches, touffus et un peu fous ! Et ces maisons coloniales espacées, si intimes semble-t-il derrière leurs grands portiques. Et comme on aime une terre qui s’approche, avec l’immense sécurité du continent qu’on imagine au-delà de ces falaises orangées, frangées de forêts d’un vert sombre de luxueuse tapisserie…</p>
+                      <p class="p">Couru sur le pont. Nous sommes dans les passes de l’Hudson. Une brume de chaleur tropicale bleuit les rives. Je ne m’attendais pas à la nature américaine, à la voir la première et de si près, avant les gratte-ciel, la statue… Je n’ai jamais eu la sensation d’un paysage plus étranger, mais plus étrangement accueillant. Tous ces arbres si riches, touffus et un peu fous ! Et ces maisons coloniales espacées, si intimes semble-t-il derrière leurs grands portiques. Et comme on aime une terre qui s’approche, avec l’immense sécurité du continent qu’on imagine au-delà de ces falaises orangées, frangées de forêts d’un vert sombre de luxueuse tapisserie…</p>
                       <p class="p">La rivière s’élargit et se peuple de mâts. Au sommet d’une falaise qui fuit obliquement éclate une longue façade claire et neuve : la première rue américaine ! Nous approchons.</p>
                       <p class="p">Tournant la tête vers l’avant, un peu au-dessus de la poupe, je viens de voir un groupe de tours serrées, presque diaphanes dans la brume — Manhattan, comme une prémonition qui serait vérifiée à l’instant même !</p>
                     </section>
@@ -1887,7 +1886,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -1911,7 +1910,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">7. La route de Lisbonne</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8#body-8-1">Quinta da Fonte (Portugal), 28 août 1940</a>
                         </li>
@@ -1954,7 +1953,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="8#body-8-14">New York, fin septembre 1940</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="9">8. Premiers contacts avec le nouveau monde</a>
@@ -1975,7 +1974,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -1986,7 +1985,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2032,7 +2031,7 @@ body-8-14	New York, fin septembre 1940 (1946, Journal des deux Mondes)
           </value>
         </attributekey>
         <attributekey handle="meta_description">
-          <value>New York, octobre 1940 – Princeton (New Jersey), mi-octobre 1940 – Princeton, fin d’octobre 1940 – Washington, 30 octobre 1940 – Princeton, 1er novembre 1940 – New York, 3 novembre – New York, 6 novembre – Princeton, 10 novembre – 12 novembre 1940 – 13 novembre 1940 – 14novembre 1940 – 15 novembre 1940 – Forest Hills, 30 novembre 1940 – Décembre 1940 – Décembre 1940 – 23 décembre 1940 – 26 décembre 1940 – Début de janvier 1941 – 16 janvier 1941 – 20 janvier 1941 – 21 janvier 1941 – 24 janvier 1941 – 25 janvier 1941 – 27 janvier 1941 – 5 février 1941 – 13 février 1941 – 16 février 1941 – Cambridge (Mass.), 18 avril 1941 – New York, 8 mai 1941, nuit – 15 mai 1941 – 9 mai 1941 – 15 mai 1941 – 28 mai 1941 – 17 juillet 1941</value>
+          <value>New York, octobre 1940 – Princeton (New Jersey), mi-octobre 1940 – Princeton, fin d’octobre 1940 – Washington, 30 octobre 1940 – Princeton, 1er novembre 1940 – New York, 3 novembre – New York, 6 novembre – Princeton, 10 novembre – 12 novembre 1940 – 13 novembre 1940 – 14 novembre 1940 – 15 novembre 1940 – Forest Hills, 30 novembre 1940 – Décembre 1940 – Décembre 1940 – 23 décembre 1940 – 26 décembre 1940 – Début de janvier 1941 – 16 janvier 1941 – 20 janvier 1941 – 21 janvier 1941 – 24 janvier 1941 – 25 janvier 1941 – 27 janvier 1941 – 5 février 1941 – 13 février 1941 – 16 février 1941 – Cambridge (Mass.), 18 avril 1941 – New York, 8 mai 1941, nuit – 15 mai 1941 – 9 mai 1941 – 15 mai 1941 – 28 mai 1941 – 17 juillet 1941</value>
         </attributekey>
         <attributekey handle="subheads">
           <value>body-9-1	New York, octobre 1940 (1946, Journal des deux Mondes)
@@ -2045,7 +2044,7 @@ body-9-7	New York, 6 novembre (1946, Journal des deux Mondes)
 body-9-8	Princeton, 10 novembre (1946, Journal des deux Mondes)
 body-9-9	12 novembre 1940 (1946, Journal des deux Mondes)
 body-9-10	13 novembre 1940 (1946, Journal des deux Mondes)
-body-9-11	14novembre 1940 (1946, Journal des deux Mondes)
+body-9-11	14 novembre 1940 (1946, Journal des deux Mondes)
 body-9-12	15 novembre 1940 (1946, Journal des deux Mondes)
 body-9-13	Forest Hills, 30 novembre 1940 (1946, Journal des deux Mondes)
 body-9-14	Décembre 1940 (1946, Journal des deux Mondes)
@@ -2162,7 +2161,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                     </section>
                     <section id="body-9-11" class="div level2">
                       <a class="pb" href="#p109" id="p109">[p. 109]</a>
-                      <h2 class="head"><i class="i"><i class="i"> 14</i></i>novembre 1940</h2>
+                      <h2 class="head">14 novembre 1940</h2>
                       <p class="p autofirst">Réaction d’Européen : je déteste qu’on m’offre, dans un magasin de tabac, une pipe neuve mais « déjà culottée », au fourneau tapissé d’une couche de charbon lisse.</p>
                       <p class="p">Cela me rappelle le vieux débat sur les livres qu’il faut couper et ceux que l’on vous vend rognés à la machine, dans tous les pays non latins. Nous autres vieux maniaques tenons au coupe-papier.</p>
                     </section>
@@ -2273,7 +2272,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                     </section>
                     <section id="body-9-26" class="div level2">
                       <h2 class="head">13 février 1941</h2>
-                      <p class="p autofirst"><i class="i">Faisons</i><b class="b"><i class="i">le</i></b><i class="i">point.</i> — Essayer encore d’écrire pour eux et de m’adapter, malgré tout ? Si seulement j’étais romancier ! Car les catégories d’un « moraliste français » sont les moins traduisibles dans leur langue, à moins 
+                      <p class="p autofirst"><em>Faisons le point.</em> — Essayer encore d’écrire pour eux et de m’adapter, malgré tout ? Si seulement j’étais romancier ! Car les catégories d’un « moraliste français » sont les moins traduisibles dans leur langue, à moins 
 <a class="pb" href="#p122" id="p122">[p. 122]</a>
  qu’on ne les illustre abondamment… Écrire ce livre sur la Suisse, ma première tentative de vulgarisation ? Mais il y faudra quelques mois, et comment tenir tout ce temps-là ? Cercle vicieux.</p>
                       <p class="p">L’oratorio tiré de mon <a class="i">Nicolas de Flue</a> ne peut être joué avant avril ou mai. Et l’on m’écrit de Suisse pour me presser de rentrer. Mais là-bas, que pourrai-je bien faire ? La censure ne s’est pas relâchée, et d’excellents amis la disent justifiée par notre situation précaire au cœur de l’Axe. S’ils ont raison, je leur serais une cause d’ennuis plus qu’un appui. Ou bien me taire ? Mettre une sourdine ? À quoi serais-je utile, si je ne suis pas moi ? D’autre part, nos chances de nous battre paraissent très faibles, sinon nulles…</p>
@@ -2344,7 +2343,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                     </section>
                     <section id="body-9-33" class="div level2">
                       <h2 class="head">28 mai 1941</h2>
-                      <p class="p autofirst">Prendre une décision pour sa vie. Imaginer une solution quand il n’en est point de visible. La créer. C’est dur, me semble-t-il, et chaque fois davantage. Et cependant ? N’est-ce pas le même genre de décisions entre deux mots, deux titres ou deux plans, et d’imagination d’une situation ou d’un angle de vue inédit, et de création d’une réalité neuve qui s’imposera comme la plus naturelle, ainsi l’œuf de Christophe Colomb ; n’est-ce pas enfin le même genre d’opérations auxquelles je suis rompu par métier d’écrivain ?<a id="_GoBack">‌</a></p>
+                      <p class="p autofirst">Prendre une décision pour sa vie. Imaginer une solution quand il n’en est point de visible. La créer. C’est dur, me semble-t-il, et chaque fois davantage. Et cependant ? N’est-ce pas le même genre de décisions entre deux mots, deux titres ou deux plans, et d’imagination d’une situation ou d’un angle de vue inédit, et de création d’une réalité neuve qui s’imposera comme la plus naturelle, ainsi l’œuf de Christophe Colomb ; n’est-ce pas enfin le même genre d’opérations auxquelles je suis rompu par métier d’écrivain ?</p>
                       <p class="p">Il y a cependant une différence de quantité dans l’énergie qu’il s’agit de mettre en jeu. Mais comme on les sent bien, en pareil cas, comme on les sent physiquement, sans recours, les liens secrets entre le style que l’on écrit et celui que l’on imprime à sa vie ! Dans ces pages et dans mes circonstances, apparaît la nécessité urgente d’une péripétie.</p>
                       <p class="p">Envoyé un long câble à V. O., à Buenos Aires.</p>
                     </section>
@@ -2380,7 +2379,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2407,7 +2406,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">8. Premiers contacts avec le nouveau monde</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="9#body-9-1">New York, octobre 1940</a>
                         </li>
@@ -2439,7 +2438,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                           <a href="9#body-9-10">13 novembre 1940</a>
                         </li>
                         <li class="collateral">
-                          <a href="9#body-9-11"><i><i> 14</i></i>novembre 1940</a>
+                          <a href="9#body-9-11">14 novembre 1940</a>
                         </li>
                         <li class="collateral">
                           <a href="9#body-9-12">15 novembre 1940</a>
@@ -2510,7 +2509,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="9#body-9-34">17 juillet 1941</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="10">9. Voyage en Argentine</a>
@@ -2528,7 +2527,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -2539,7 +2538,7 @@ body-9-34	17 juillet 1941 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2808,7 +2807,7 @@ body-10-14	Intermède douanier (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -2838,7 +2837,7 @@ body-10-14	Intermède douanier (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">9. Voyage en Argentine</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="10#body-10-1">À bord de l’Argentina, 18 juillet 1941</a>
                         </li>
@@ -2881,7 +2880,7 @@ body-10-14	Intermède douanier (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="10#body-10-14">Intermède douanier</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="11">10. Solitudes et amitiés</a>
@@ -2896,7 +2895,7 @@ body-10-14	Intermède douanier (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -2907,7 +2906,7 @@ body-10-14	Intermède douanier (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3022,7 +3021,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                       <p class="p">Une fois de plus, la vie qui change, un autre avenir qui s’ouvre et qui bée sur la nuit. Je connais la cérémonie.</p>
                       <p class="p">
 <a class="pb" href="#p156" id="p156">[p. 156]</a>
- Mes amis s’étonnaient de mon calme. Que voulez-vous, je me sens tellement plus vieux que vous, étant un jeune Européen. Le « premier jour de guerre » pour nous, c’est déjà presque une routine… <b class="b">1<sup class="sup">er</sup></b> août 1914, 2 septembre 1939. L’alerte de Munich, aussi.</p>
+ Mes amis s’étonnaient de mon calme. Que voulez-vous, je me sens tellement plus vieux que vous, étant un jeune Européen. Le « premier jour de guerre » pour nous, c’est déjà presque une routine… 1<sup class="sup">er</sup> août 1914, 2 septembre 1939. L’alerte de Munich, aussi.</p>
                       <p class="p">Et quel jour sommes-nous, aujourd’hui ? Eh bien ce sera le 7 décembre 1941. Si vous voulez savoir comment les choses se passent, allons ce soir, en rentrant à New York, à la gare de Pennsylvanie.</p>
                       <p class="p">Nous y fûmes. La bannière étoilée pendait immensément du dôme perdu dans l’ombre, deux orchestres alternaient des marches nostalgiques, et des centaines de soldats tenaient chacun une femme et la regardaient longtemps. C’étaient ceux qu’on voyait, parce qu’on s’attend à les voir en pareille occasion. Mais il y en avait beaucoup d’autres, solitaires, au regard lointain. Et je pensais en les regardant à tous les drames intimes et sans issue que la guerre vient suspendre et annuler.</p>
                       <p class="p">À tous ceux pour lesquels ce coup de gong du destin ouvre le champ d’une course nouvelle, rend une espèce de liberté qu’ils ne pouvaient pas même imaginer la veille… Qui sait si la guerre n’arrange pas autant de situation sans espoir qu’elle n’en crée ?</p>
@@ -3214,7 +3213,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                         <div class="b note-page">
                           <a href="11#p166">p. 166</a>
                         </div>
-                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="11#note12_">12. </a>Pseudonyme d’Alexis Léger, Secrétaire général des Affaires étrangères jusqu’en mai 1940, auteur d<i class="i">’Éloges, d’Anabase</i> et de l’<i class="i">Exil.</i></aside>
+                        <aside id="note12" role="note" class="note bottomnote"><a class="noteback" href="11#note12_">12. </a>Pseudonyme d’Alexis Léger, Secrétaire général des Affaires étrangères jusqu’en mai 1940, auteur d’<i class="i">Éloges, d’Anabase</i> et de l’<i class="i">Exil.</i></aside>
                       </div>
                       <div class="page">
                         <div class="b note-page">
@@ -3236,7 +3235,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3269,7 +3268,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">10. Solitudes et amitiés</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11#body-11-1">New York, 22 novembre 1941</a>
                         </li>
@@ -3345,7 +3344,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="11#body-11-25">Bevin House, fin octobre 1942</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="12">11. Intermède</a>
@@ -3357,7 +3356,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -3368,7 +3367,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3444,7 +3443,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3488,7 +3487,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -3499,7 +3498,7 @@ body-11-25	Bevin House, fin octobre 1942 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3625,7 +3624,7 @@ body-13-8	Août 1943 (1946, Journal des deux Mondes)
                       <p class="p">
 <a class="pb" href="#p185" id="p185">[p. 185]</a>
 <i class="i"> Femmes du monde à l’usine.</i> — La nouvelle mode : une jolie femme, jeune et riche, s’engage dans une usine d’armements. On en a tant parlé que celles qui le font maintenant, si l’on vous cite seulement leur nom, vous pensez aussitôt qu’elles doivent être jolies, jeunes et riches. Je croyais à un bluff, mais non : je viens d’en voir une de mes yeux.</p>
-                      <p class="p">Une amie, fort connue pour sa beauté, ayant disparu de New York depuis plusieurs semaines, je téléphone chez elle un samedi soir. — Que devenez-vous ? — C’est bien par chance que vous me trouvez chez moi, j’ai mon premier soir de congé… Well, je suis riveteuse dans une usine de Long Island. Dix heures par jour, point de repos hebdomadaire, mais je suis en train de faire fortune !</p>
+                      <p class="p">Une amie, fort connue pour sa beauté, ayant disparu de New York depuis plusieurs semaines, je téléphone chez elle un samedi soir. — Que devenez-vous ? — C’est bien par chance que vous me trouvez chez moi, j’ai mon premier soir de congé… <i class="i">Well</i>, je suis riveteuse dans une usine de Long Island. Dix heures par jour, point de repos hebdomadaire, mais je suis en train de faire fortune !</p>
                       <p class="p">J’essaye de me la représenter avec ses lunettes noires, sa visière verte, et le chalumeau à la main, mais je ne vois encore que du <i class="i">glamour</i><a class="noteref" href="13#note15" id="note15_"><sup>15</sup></a>.</p>
                       <p class="p"><i class="i">Mobilisable.</i> —Je reçois ma nouvelle fiche de classification militaire. J’ai commencé par être un IV B. Puis j’ai gravi depuis un an divers degrés, et me voici I A, c’est-à-dire susceptible d’être mobilisé d’un jour à l’autre, quoique étranger, père de deux enfants, et ressortissant d’un pays neutre. (L’Amérique est le seul pays qui mobilise les étrangers, si je ne me trompe.)</p>
                       <p class="p">
@@ -3708,7 +3707,7 @@ body-13-8	Août 1943 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -3747,7 +3746,7 @@ body-13-8	Août 1943 (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">12. L’Amérique en guerre</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="13#body-13-1">New York, 31 janvier 1943</a>
                         </li>
@@ -3772,13 +3771,13 @@ body-13-8	Août 1943 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="13#body-13-8">Août 1943</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -3789,7 +3788,7 @@ body-13-8	Août 1943 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3927,7 +3926,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
  sais pas plus que vous. Ils sont dans la maison depuis deux ou trois jours et se disent les amis de Jim. — Mais où est Jim ? —Je ne sais pas. Il est parti. »</p>
                       <p class="p">Jim était l’intendant, une sorte de géant toujours en bottes, qu’elle emmenait partout avec elle. Je pense au regard d’acier du jeune homme silencieux de tout à l’heure. Des chiens se glissent entre les meubles, humides et tremblants. « Mais je ne sais pas recevoir ! dit-elle moqueuse. Voulez-vous que je vous joue du piano ? Pour faire croire que je n’ai pas peur… »</p>
                       <p class="p">— Eh bien ? m’ont demandé mes amis dans la voiture qui nous emporte sous la pluie, qu’en pensez-vous ?</p>
-                      <p class="p">— Well… pour la première fois de ma vie, je me sens tenté d’écrire la suite du roman.</p>
+                      <p class="p">— <i class="i">Well</i>… pour la première fois de ma vie, je me sens tenté d’écrire la suite du roman.</p>
                       <hr class="dots"/>
                     </section>
                     <section id="body-14-9" class="div level2">
@@ -3980,7 +3979,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4022,7 +4021,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
                     </li>
                     <li class="here">
                       <a href="#">13. Virginie</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="14#body-14-1">Septembre 1943</a>
                         </li>
@@ -4053,10 +4052,10 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="14#body-14-10">Janvier 1944</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -4067,7 +4066,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4075,13 +4074,13 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
         </blocks>
       </area>
     </page>
-    <page path="/livres/ddr1946jdm/15" name="14. Intermède . Mémoire de l’Europe" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
+    <page path="/livres/ddr1946jdm/15" name="14. Intermède. Mémoire de l’Europe" package="ddr1946jdm" template="liseuse" pagetype="liseuse">
       <attributes>
         <attributekey handle="doctype">
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>14. Intermède . Mémoire de l’Europe (1946, Journal des deux Mondes)</value>
+          <value>14. Intermède. Mémoire de l’Europe (1946, Journal des deux Mondes)</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -4107,7 +4106,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
   },{
     "@type": "ListItem",
     "position": 3,
-    "name": "14. Intermède . Mémoire de l’Europe"
+    "name": "14. Intermède. Mémoire de l’Europe"
   }]
 }
           </value>
@@ -4144,7 +4143,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4188,7 +4187,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="here">
-                      <a href="#">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="#">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -4199,7 +4198,7 @@ body-14-10	Janvier 1944 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4475,7 +4474,7 @@ body-16-14	Fin décembre 1945 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4519,11 +4518,11 @@ body-16-14	Fin décembre 1945 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="here">
                       <a href="#">15. Le choc de la paix</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16#body-16-1">Avril 1945</a>
                         </li>
@@ -4566,7 +4565,7 @@ body-16-14	Fin décembre 1945 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="16#body-16-14">Fin décembre 1945</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="17">16. Journal d’un retour</a>
@@ -4574,7 +4573,7 @@ body-16-14	Fin décembre 1945 (1946, Journal des deux Mondes)
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4734,7 +4733,7 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4778,14 +4777,14 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
                     </li>
                     <li class="here">
                       <a href="#">16. Journal d’un retour</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="17#body-17-1">Janvier 1946</a>
                         </li>
@@ -4807,12 +4806,12 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
                         <li class="collateral">
                           <a href="17#body-17-7">12 avril 1946</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="18">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4896,7 +4895,7 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Avertissement</a>
                     </li>
@@ -4940,7 +4939,7 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
                       <a href="14">13. Virginie</a>
                     </li>
                     <li class="collateral">
-                      <a href="15">14. Intermède .  Mémoire de l’Europe</a>
+                      <a href="15">14. Intermède.  Mémoire de l’Europe</a>
                     </li>
                     <li class="collateral">
                       <a href="16">15. Le choc de la paix</a>
@@ -4951,7 +4950,7 @@ body-17-7	12 avril 1946 (1946, Journal des deux Mondes)
                     <li class="here">
                       <a href="#">17. Le mauvais temps qui vient</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

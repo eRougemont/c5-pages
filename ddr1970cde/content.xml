@@ -77,13 +77,13 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -99,11 +99,11 @@
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -119,11 +119,11 @@
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -160,12 +160,12 @@
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -309,9 +309,7 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
                       <p class="p autofirst">Il n’est point d’ordre économique possible sans une volonté préalable de mise en ordre politique. Il n’est point d’ordre politique qui serve l’homme, s’il n’est orienté dès le départ par une <i class="i">vision</i> libératrice et fascinante. L’Europe se fera, en dépit des experts (qui savent toujours que c’est Dewey qui sera élu), parce qu’une équipe de véritables Résistants — ceux qui résistent à la fatalité — l’auront vue et marchent vers elle. Il se peut que la vision qui les guide, éclairant le chemin sous leurs pas, cache une réalité finale qui les surprenne. Christophe Colomb voyait les Indes, ou nommait ainsi sa vision. Contre vents et marées, contre tous les experts de son époque, il se mit en route pour la joindre. Mais nous, quel continent nouveau, tout imprévu, risquons-nous d’aborder ? Et quel bonheur, auquel il suffirait peut-être d’oser croire ? Se peut-il que ce soit tout simplement l’Europe, redécouverte à la faveur de son union ? Une Europe rajeunie qui deviendrait soudain, pour nos yeux étonnés, la Terre Promise.</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page">
-                        <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Article paru dans la <i class="i">Revue de Paris</i> d’avril 1949.</aside>
-                      </div>
+                      <div class="page"> <aside id="note1" role="note" class="note bottomnote"><a class="noteback" href="2#note1_">1. </a>Article paru dans la <i class="i">Revue de Paris</i> d’avril 1949.</aside></div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="2#p4">p. 4</a>
@@ -332,16 +330,16 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">I.1. Le mouvement européen</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="2#body-2-1-1">I.1.a. Nécessité et urgence de l’union</a>
                             </li>
@@ -354,7 +352,7 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
                             <li class="collateral">
                               <a href="2#body-2-1-4">I.1.d. Objectifs immédiats</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
@@ -368,11 +366,11 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -388,11 +386,11 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -429,12 +427,12 @@ body-2-1-4	I.1.d. Objectifs immédiats (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -675,19 +673,19 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
                         <li class="here">
                           <a href="#">I.2. Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="3#body-2-2-1">I.2.a. Première section.  Les conditions matérielles et morales de la vie de l’esprit en Europe</a>
                             </li>
@@ -697,7 +695,7 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                             <li class="collateral">
                               <a href="3#body-2-2-3">I.2.c. Conclusions</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="4">I.3. Naissance du Centre</a>
@@ -708,11 +706,11 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -728,11 +726,11 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -769,12 +767,12 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -873,13 +871,13 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -895,11 +893,11 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -915,11 +913,11 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -956,12 +954,12 @@ body-2-2-3	I.2.c. Conclusions (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1106,13 +1104,13 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -1124,7 +1122,7 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         </li>
                         <li class="here">
                           <a href="#">I.4. Naissance d’une Fondation</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="5#body-2-4-1">I.4.a. Situation de l’homme au <span class="num">xx<sup>e</sup></span> siècle</a>
                             </li>
@@ -1140,16 +1138,16 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                             <li class="collateral">
                               <a href="5#body-2-4-5">I.4.e. Nécessité de réveiller un sentiment commun des Européens</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -1165,11 +1163,11 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -1206,12 +1204,12 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1330,9 +1328,7 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                       <p class="p">Le problème des Régions, à lui seul, peut suffire à polariser les principales activités du CEC pendant la prochaine décennie.</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page">
-                        <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="6#note9_">9. </a><i class="i">Introduction à la brochure intitulée</i> Dix ans d’activité du CEC<i class="i">, 1960.</i></aside>
-                      </div>
+                      <div class="page"> <aside id="note9" role="note" class="note bottomnote"><a class="noteback" href="6#note9_">9. </a><i class="i">Introduction à la brochure intitulée</i> Dix ans d’activité du CEC<i class="i">, 1960.</i></aside></div>
                     </section>
                   </article>
                 ]]></content>
@@ -1347,13 +1343,13 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="ancestor">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -1368,17 +1364,17 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         </li>
                         <li class="here">
                           <a href="#">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="6#body-2-5-1">I.5.a. Post-scriptum 1970</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -1394,11 +1390,11 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -1435,12 +1431,12 @@ body-2-4-5	I.4.e. Nécessité de réveiller un sentiment commun des Européens (
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1631,13 +1627,13 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -1653,14 +1649,14 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">II.1. L’Europe contestée par elle-même</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-3-1-1">II.1.a. La maladie de l’esprit européen</a>
                             </li>
@@ -1676,7 +1672,7 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                             <li class="collateral">
                               <a href="7#body-3-1-5">II.1.e. Ce que cela signifie pour l’Amérique</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="8">II.2. Préface à « L’Œuvre du <span class="num">xx<sup>e</sup></span> siècle »</a>
@@ -1690,11 +1686,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -1731,12 +1727,12 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1841,13 +1837,13 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -1863,11 +1859,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -1883,11 +1879,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -1924,12 +1920,12 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2016,7 +2012,7 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
  commun, et à sa propagande une propagande au moins aussi brutale ou insinuante ! »</p>
                     <p class="p">Au contraire, je suis convaincu que nous approuvons tous ici cette excellente définition de la propagande que donnait l’autre jour Wystan Auden : l’emploi de la magie par ceux qui n’y croient plus contre ceux qui y croient encore.</p>
                     <p class="p">Comment donc allons-nous répondre au défi des totalitaires si nous nous privons de leurs armes ? Si nous refusons la fausse communion fomentée par la propagande et maintenue par la police et la terreur, si nous refusons la calomnie, si nous refusons tous les insignes et tous les signes extérieurs de communion, si nous allons même jusqu’à éviter d’en parler, parce que — disons-le bien franchement — il est gênant de parler de cela quand on y croit, dans un tel lieu, et sous le feu des projecteurs ?</p>
-                    <p class="p">Je répondrai à côté de la question apparente par une sorte de parabole, sans transition, en visant le cœur du problème. Que nous soyons ici chrétiens ou non, nous sommes tous tenus de constater le fait historique que voici : la plus vaste communion jamais instituée dans le monde, la plus profonde, et la plus libre par les modes d’adhésion qu’elle implique, s’est faite autour, non pas d’une idée, d’une doctrine, ou d’un système de valeurs, ni même autour d’une cause, mais bien d’un sacrifice individuel, autour <i class="i">d’un seul</i>, autour d’un homme qui est mort dans <i class="i">l’isolemen</i>t total, dans la <i class="i">révolte</i> la plus intransigeante contre le mal et l’injustice du monde, abandonné des hommes — et ce serait peu -— abandonné de Dieu lui-même.</p>
+                    <p class="p">Je répondrai à côté de la question apparente par une sorte de parabole, sans transition, en visant le cœur du problème. Que nous soyons ici chrétiens ou non, nous sommes tous tenus de constater le fait historique que voici : la plus vaste communion jamais instituée dans le monde, la plus profonde, et la plus libre par les modes d’adhésion qu’elle implique, s’est faite autour, non pas d’une idée, d’une doctrine, ou d’un système de valeurs, ni même autour d’une cause, mais bien d’un sacrifice individuel, autour <i class="i">d’un seul</i>, autour d’un homme qui est mort dans <i class="i">l’isolement</i> total, dans la <i class="i">révolte</i> la plus intransigeante contre le mal et l’injustice du monde, abandonné des hommes — et ce serait peu -— abandonné de Dieu lui-même.</p>
                     <p class="p">N’oublions pas que là, et là seulement, le mot de communion a pris son sens, et qu’il tend à le perdre à mesure qu’il s’éloigne du sacrifice individuel.</p>
                     <p class="p">Pour terminer, une simple citation. Elle est d’un Espagnol, c’est dire qu’elle frappe une de ces notes d’éloquence à la fois sèche, dure et profonde qui manque trop souvent aujourd’hui, et par la faute d’une dictature encore, à notre grand concert européen. C’est une phrase de Miguel de Unamuno dans son <i class="i">Commentaire à Don Quichotte</i> : « Mets-toi en marche tout seul, tous les autres solitaires se joindront à toi, à tes côtés sans que tu les voies, et chacun pensera qu’il va seul ; mais vous formerez un bataillon sacré, celui de la sainte, de l’inachevable croisade. »</p>
                     <section class="footnotes">
@@ -2040,13 +2036,13 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -2062,11 +2058,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -2082,11 +2078,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -2123,12 +2119,12 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2237,13 +2233,13 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -2259,11 +2255,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -2279,11 +2275,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -2320,12 +2316,12 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2452,13 +2448,13 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -2474,11 +2470,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -2494,11 +2490,11 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="here">
                           <a href="#">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -2535,12 +2531,12 @@ body-3-1-5	II.1.e. Ce que cela signifie pour l’Amérique (1970, Le Cheminement
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2707,13 +2703,13 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -2729,11 +2725,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -2749,14 +2745,14 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">III.1. Éducation, civisme et culture</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="12#body-4-1-1">III.1.a. Tradition et Innovation dans les arts en Europe</a>
                             </li>
@@ -2769,7 +2765,7 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                             <li class="collateral">
                               <a href="12#body-4-1-4">III.1.d. Thème conclusif</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="13">III.2. Le civisme commence au respect des forêts</a>
@@ -2804,12 +2800,12 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2947,13 +2943,13 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -2969,11 +2965,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -2989,11 +2985,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -3030,12 +3026,12 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3141,13 +3137,13 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -3163,11 +3159,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -3183,11 +3179,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -3224,12 +3220,12 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3297,7 +3293,7 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                     <p class="p">Nous assistons, au <span class="num">xx<sup class="sup">e</sup></span> siècle, à deux mouvements de sens contraire, qui affectent les facteurs traditionnels de division du genre humain.</p>
                     <p class="p">Mouvement de <i class="i">convergence</i> à grande échelle, d’une part. Les distances sont presque annulées par la vitesse des communications. Les 
 <a class="pb" href="#p105" id="p105">[p. 105]</a>
- nations tendent à se regrouper et à s’organiser en de vastes ensembles, par continents, et d’abord en Europe. Les <i class="i">race</i>s, qui s’ignoraient jadis au point qu’un homme de couleur différente ne semblait pas vraiment humain, se reconnaissent et s’admettent. Déjà l’intégration est le mot d’ordre. Demain ce sera le métissage universel, après un certain nombre de conflits peut-être atroces, mais dont l’issue n’est pas douteuse. Les <i class="i">culture</i>s entrent en dialogue, sur un pied théorique d’égalité, au lendemain de l’ère coloniale. Pour le moment et pour des décennies encore, c’est la culture occidentale qui domine tout, unifie tout, uniformise les apparences de la vie quotidienne sur toute la Terre. Les <i class="i">langues</i> elles-mêmes, ce plus ancien symbole des divisions de l’humanité, s’interpénètrent, et certaines s’universalisent. On n’a jamais autant appris de deuxièmes et de troisièmes langues. On n’a jamais autant traduit et déchiffré. Et des machines électroniques vont faire le reste.</p>
+ nations tendent à se regrouper et à s’organiser en de vastes ensembles, par continents, et d’abord en Europe. Les <i class="i">races</i>, qui s’ignoraient jadis au point qu’un homme de couleur différente ne semblait pas vraiment humain, se reconnaissent et s’admettent. Déjà l’intégration est le mot d’ordre. Demain ce sera le métissage universel, après un certain nombre de conflits peut-être atroces, mais dont l’issue n’est pas douteuse. Les <i class="i">cultures</i> entrent en dialogue, sur un pied théorique d’égalité, au lendemain de l’ère coloniale. Pour le moment et pour des décennies encore, c’est la culture occidentale qui domine tout, unifie tout, uniformise les apparences de la vie quotidienne sur toute la Terre. Les <i class="i">langues</i> elles-mêmes, ce plus ancien symbole des divisions de l’humanité, s’interpénètrent, et certaines s’universalisent. On n’a jamais autant appris de deuxièmes et de troisièmes langues. On n’a jamais autant traduit et déchiffré. Et des machines électroniques vont faire le reste.</p>
                     <p class="p">Contiguïté. Coexistence. Fédérations. Information et communication en progression géométrique. Dialogue, union, uniformisation… Voilà le premier mouvement, mondial. Tout se rapproche, tout interfère, tout coopère ou tout se mêle, pour le meilleur et pour le pire.</p>
                     <p class="p">Or c’est l’Europe, elle seule, qui a déclenché cette évolution planétaire. L’Europe a découvert la Terre entière, et personne n’est jamais venu la découvrir. L’Europe gréco-romaine et judéo-chrétienne a conçu la notion de genre humain, si longtemps étrangère, voire répugnante, à l’Asie brahmanique ou chinoise, et qui devait aboutir à la condamnation puis à la suppression — mais après combien de siècles ! — de l’esclavage. Le Droit des gens valable pour toute race, est une création de l’Europe, durant l’époque colonialiste et tout d’abord en réaction à ses outrages : Las Casas, Victoria et Suarez, Grotius, Leibniz, Vattel et Kant en sont les pères, et je ne leur vois guère de répondants dans les élites d’Asie, d’Arabie et d’Afrique, à part Gandhi. Enfin l’Europe, par sa technique, a mis en relations toutes les parties du monde, devenu désormais unité théorique et système de relations pratiques.</p>
                     <p class="p">L’Europe, et l’Europe seule a fait tout cela, par sa religion, par ses grands philosophes et par ses sciences, par sa technique enfin, résultante moderne de cet ensemble de principes fondamentaux, de tensions, de contestations, de créations et de formes de vie — disons d’un mot : par sa culture, qui a fait littéralement le tour du monde.</p>
@@ -3309,7 +3305,7 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                     <p class="p">Ainsi les dimensions physiques de l’Université tendent à devenir impraticables, cependant que les distances intellectuelles, non seulement entre les facultés mais entre les spécialités qui prolifèrent dans une même faculté, tendent à devenir infranchissables. Dans l’univers du savoir humain, facultés et spécialités sont en train de s’éloigner les unes des autres avec une vitesse croissante, comme autant de galaxies dans le cosmos en expansion vertigineuse que nous décrivent les astronomes contemporains.</p>
                     <p class="p">D’où résultent les deux conséquences qui définissent le phénomène de Babel : la disparition rapide de toute <i class="i">langue commune</i>, remplacée par une multiplicité de langages spéciaux de moins en moins traduisibles ; et l’évanouissement progressif de la conscience du but commun, des <i class="i">fins dernières</i> de l’entreprise, qui se perdent dans les nuées de l’inconcevable.</p>
                     <p class="p">Mais dire que tout langage commun se perd, entre les branches sans cesse multipliées du savoir, c’est dire que la <i class="i">commune mesure</i> d’une civilisation est en train de s’évanouir — j’entends par là, sa conception de l’homme universel, cet idéal capable d’inspirer et d’orienter la pensée, le sentiment et l’action non seulement des esprits créateurs, et de la jeunesse européenne, mais aussi des hommes d’outre-mer qui viennent chez nous en pèlerinage aux sources vives de la nouvelle culture mondiale.</p>
-                    <p class="p">Or, qu’il n’y ait plus, ou presque plus, de langage commun, et que les buts finaux s’obscurcissent, voilà qui signifie, très concrètement, qu’il n’y a plus d’Université, aux deux sens primitifs de l’<i class="i">universita</i>s, qui sont le sens corporatif, communautaire, et le sens synthétique ou universaliste. Nos universités ne sont plus guère, en fait, que des agglomérats ou juxtapositions quasi fortuites d’écoles professionnelles et d’instituts de recherches n’ayant plus d’autres liens réels que ceux d’une administration 
+                    <p class="p">Or, qu’il n’y ait plus, ou presque plus, de langage commun, et que les buts finaux s’obscurcissent, voilà qui signifie, très concrètement, qu’il n’y a plus d’Université, aux deux sens primitifs de l’<i class="i">universitas</i>, qui sont le sens corporatif, communautaire, et le sens synthétique ou universaliste. Nos universités ne sont plus guère, en fait, que des agglomérats ou juxtapositions quasi fortuites d’écoles professionnelles et d’instituts de recherches n’ayant plus d’autres liens réels que ceux d’une administration 
 <a class="pb" href="#p107" id="p107">[p. 107]</a>
  par ailleurs accablée de soucis matériels et qui a d’autres chats à fouetter que de méditer sur la synthèse des facultés de l’esprit humain. La juxtaposition de facultés étanches ne fait pas plus une université qu’une addition d’organes ne fait un corps vivant.</p>
                     <p class="p">Sur l’explosion des effectifs, nous disposons d’une grande richesse de statistiques. Un seul exemple peut suffire ici : le nombre des étudiants en France était de 42 000 en 1924, il est d’environ 280 000 en 1964, et l’on prévoit qu’il sera de 500 000 dans une dizaine d’années.</p>
@@ -3416,13 +3412,13 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -3438,11 +3434,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -3458,11 +3454,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -3499,12 +3495,12 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3614,13 +3610,13 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -3636,11 +3632,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -3656,11 +3652,11 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -3697,12 +3693,12 @@ body-4-1-4	III.1.d. Thème conclusif (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3939,13 +3935,13 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -3961,11 +3957,11 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -3981,11 +3977,11 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -4003,7 +3999,7 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
                         </li>
                         <li class="here">
                           <a href="#">III.6. Culture et technique en Europe et dans le monde</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="17#body-4-6-1">III.6.a. Dialogue occidental de la culture et de la technique</a>
                             </li>
@@ -4034,7 +4030,7 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
                             <li class="collateral">
                               <a href="17#body-4-6-10">III.6.j. Le moyen de nos passions et de nos rêves</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="18">III.7. Pour une politique de la recherche</a>
@@ -4054,12 +4050,12 @@ body-4-6-10	III.6.j. Le moyen de nos passions et de nos rêves (1970, Le Chemine
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4167,7 +4163,7 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                       <p class="p">Mais pour qu’une politique de ce genre porte effet, il faut absolument que les responsables de notre vie économique et politique saisissent la réalité du <span class="num">xx<sup class="sup">e</sup></span> siècle : <i class="i">c’est le pool des cerveaux qui fera marcher les autres</i>, et l’Europe gagnera la maîtrise de la paix si elle se décide enfin à soutenir puissamment la culture, son meilleur atout.</p>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="18#p142">p. 142</a>
@@ -4188,13 +4184,13 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -4210,11 +4206,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -4230,11 +4226,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -4255,7 +4251,7 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         </li>
                         <li class="here">
                           <a href="#">III.7. Pour une politique de la recherche</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="18#body-4-7-1">III.7.a. Le Musée et le laboratoire</a>
                             </li>
@@ -4268,7 +4264,7 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                             <li class="collateral">
                               <a href="18#body-4-7-4">III.7.d. Idée d’un Conseil européen de la recherche</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="19">III.8. Il n’y a pas de « musique moderne »</a>
@@ -4285,12 +4281,12 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4388,13 +4384,13 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -4410,11 +4406,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -4430,11 +4426,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -4471,12 +4467,12 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4540,7 +4536,7 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Depuis un siècle et demi, les nations se sont multipliées et elles se sont bardées de frontières sourcilleuses, dans notre Europe jadis ouverte à tous vents de l’esprit et tous échanges humains. Lors du Congrès de Vienne, en 1815, les hommes d’État de la Sainte-Alliance annoncèrent l’ouverture d’un « concert des nations ». En fait, on n’entendit qu’une cacophonie en crescendo perpétuel, et le bruit des canons devait en marquer l’inévitable conclusion.</p>
                     <p class="p">Deux cataclysme de dimensions mondiales, au <span class="num">xx<sup class="sup">e</sup></span> siècle, ont montré ce que « l’Europe des Nations » savait faire.</p>
-                    <p class="p">Au lendemain de la seconde guerre mondiale, tandis <a id="_GoBack">‌</a>que le continent ruiné et disloqué essayait de reconstruire ses villes et une économie de paix, on vit aussi renaître dans tous nos pays, d’une part, des initiatives locales animées par des amateurs de théâtre et de musique, d’autre part, le goût des voyages. La rencontre de ces initiatives et de cet essor touristique sans précédent allait donner naissance à un nombre sans cesse croissant de festivals s’efforçant d’imiter à leur échelle, voire de renouveler les formules glorieuses du vieux Bayreuth de Wagner, ou du bien plus récent Salzbourg de Hofmannsthal et Max Reinhart. Voués à l’art de l’harmonie, ces festivals allaient-ils s’accorder et faire entendre enfin le vrai « concert européen » ?</p>
+                    <p class="p">Au lendemain de la seconde guerre mondiale, tandis que le continent ruiné et disloqué essayait de reconstruire ses villes et une économie de paix, on vit aussi renaître dans tous nos pays, d’une part, des initiatives locales animées par des amateurs de théâtre et de musique, d’autre part, le goût des voyages. La rencontre de ces initiatives et de cet essor touristique sans précédent allait donner naissance à un nombre sans cesse croissant de festivals s’efforçant d’imiter à leur échelle, voire de renouveler les formules glorieuses du vieux Bayreuth de Wagner, ou du bien plus récent Salzbourg de Hofmannsthal et Max Reinhart. Voués à l’art de l’harmonie, ces festivals allaient-ils s’accorder et faire entendre enfin le vrai « concert européen » ?</p>
                     <p class="p">
 <a class="pb" href="#p153" id="p153">[p. 153]</a>
  En fait, chacun tentait de vivre pour son compte. Quelques-uns cherchaient les moyens de sortir de leur isolement, mais ils ne trouvaient pas de formule efficace.</p>
@@ -4597,13 +4593,13 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -4619,11 +4615,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -4639,11 +4635,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -4680,12 +4676,12 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -4799,7 +4795,7 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                     <div class="ab ornament">⁂</div>
                     <p class="p autofirst">Il faudrait maintenant que chacune des autres régions culturelles expose d’une manière analogue ses propres motifs et ses propres difficultés.</p>
                     <p class="p">Les difficultés ont des chances d’être assez semblables (quoique à des degrés variables) pour chaque région.</p>
-                    <p class="p">Quant aux motifs, ils sont sans doute très différents. La culture de l’Inde, par exemple, est plus homogène, mieux harmonisée que celle de l’Europe, donc moins « dialogique » par sa nature même. Mais son problème majeur, qui est celui de l’intégration de la civilisation technicienne à son grand héritage spirituel, appelle le dialogue avec l’Europe, et le partage des expériences déjà faites ou en cours avec d’autres régions en situation analogue. Autre exemple : la culture renaissante de l’Afrique noire doit faire face à des problèmes d’éducation qui nécessitent évidemment les échanges, mais elle doit résoudre d’abord un problème de prise de conscience d’elle-même et de son unité : le dialogue non seulement avec l’Europe, que les élites noires connaissent bien, mais avec l’Inde, avec le Brésil, et avec le Monde arabe, peut l’aider à l’élucider. Si l’Inde doit sauver son passé, l’Afrique noire doit le découvrir. (« Nous allons être obligés de trouver son Histoire ! » disait récemment un jeune Sénégalais.) Et je me rappelle à ce propos qu’au <span class="num">xii<sup class="sup">e</sup></span> siècle, pour les troubadours et les trouvères, <i class="i">trouve</i>r signifiait inventer…</p>
+                    <p class="p">Quant aux motifs, ils sont sans doute très différents. La culture de l’Inde, par exemple, est plus homogène, mieux harmonisée que celle de l’Europe, donc moins « dialogique » par sa nature même. Mais son problème majeur, qui est celui de l’intégration de la civilisation technicienne à son grand héritage spirituel, appelle le dialogue avec l’Europe, et le partage des expériences déjà faites ou en cours avec d’autres régions en situation analogue. Autre exemple : la culture renaissante de l’Afrique noire doit faire face à des problèmes d’éducation qui nécessitent évidemment les échanges, mais elle doit résoudre d’abord un problème de prise de conscience d’elle-même et de son unité : le dialogue non seulement avec l’Europe, que les élites noires connaissent bien, mais avec l’Inde, avec le Brésil, et avec le Monde arabe, peut l’aider à l’élucider. Si l’Inde doit sauver son passé, l’Afrique noire doit le découvrir. (« Nous allons être obligés de trouver son Histoire ! » disait récemment un jeune Sénégalais.) Et je me rappelle à ce propos qu’au <span class="num">xii<sup class="sup">e</sup></span> siècle, pour les troubadours et les trouvères, <i class="i">trouver</i> signifiait inventer…</p>
                     <p class="p">Une des premières conditions du dialogue, tel que je l’espère et que je l’appelle, ce serait d’inciter chaque région culturelle à formuler, en 
 <a class="pb" href="#p167" id="p167">[p. 167]</a>
  perspective mondiale, non point ses revendications, ses complexes psychologiques et ses rancunes, si justifiées soient-elles, mais ses besoins réels, ses motifs propres de poursuivre le dialogue, les bénéfices qu’elle en attend, en enfin les apports qu’elle peut y faire.</p>
@@ -4892,13 +4888,13 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -4914,11 +4910,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -4934,11 +4930,11 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -4975,12 +4971,12 @@ body-4-7-4	III.7.d. Idée d’un Conseil européen de la recherche (1970, Le Che
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5142,13 +5138,13 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -5164,11 +5160,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -5184,11 +5180,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -5221,7 +5217,7 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         </li>
                         <li class="here">
                           <a href="#">III.11. L’Europe des régions</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="22#body-4-11-1">III.11.a. Les États-nations en crise</a>
                             </li>
@@ -5237,17 +5233,17 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                             <li class="collateral">
                               <a href="22#body-4-11-5">III.11.e. Le facteur temps</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5341,13 +5337,13 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -5363,11 +5359,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -5383,11 +5379,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -5424,12 +5420,12 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="here">
                           <a href="#">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <a href="24">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -5525,13 +5521,13 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface.  Cheminements</a>
                     </li>
                     <li class="collateral">
                       <div>I. Historique</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le mouvement européen</a>
                         </li>
@@ -5547,11 +5543,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="6">I.5. Trois initiales, ou raison d’être et objectifs du CEC</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Diagnostics de la culture</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">II.1. L’Europe contestée par elle-même</a>
                         </li>
@@ -5567,11 +5563,11 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="11">II.5. Pronostics 1969 (une interview)</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Champs d’activité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="12">III.1. Éducation, civisme et culture</a>
                         </li>
@@ -5608,12 +5604,12 @@ body-4-11-5	III.11.e. Le facteur temps (1970, Le Cheminement des esprits)
                         <li class="collateral">
                           <a href="23">III.12. Fécondité des études régionales</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="here">
                       <a href="#">Postface.  L’écrivain et l’événement</a>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

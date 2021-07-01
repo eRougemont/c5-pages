@@ -7,7 +7,7 @@
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Préface 1972 (1972, Penser avec les mains)</value>
+          <value>Préface 1972 (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -25,7 +25,7 @@
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -42,12 +42,12 @@
           <value>a. Situer au centre de l’homme le centre de la société – b. Problème de l’État-nation, peu changé – c. La Révolution : une conversion des finalités – d. Au-delà des États-nations – e. Un traité de la pensée engagée – f. Pour une écologie politique</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-1-1	a. Situer au centre de l’homme le centre de la société (1972, Penser avec les mains)
-body-1-2	b. Problème de l’État-nation, peu changé (1972, Penser avec les mains)
-body-1-3	c. La Révolution : une conversion des finalités (1972, Penser avec les mains)
-body-1-4	d. Au-delà des États-nations (1972, Penser avec les mains)
-body-1-5	e. Un traité de la pensée engagée (1972, Penser avec les mains)
-body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
+          <value>body-1-1	a. Situer au centre de l’homme le centre de la société (1936, Penser avec les mains (1972))
+body-1-2	b. Problème de l’État-nation, peu changé (1936, Penser avec les mains (1972))
+body-1-3	c. La Révolution : une conversion des finalités (1936, Penser avec les mains (1972))
+body-1-4	d. Au-delà des États-nations (1936, Penser avec les mains (1972))
+body-1-5	e. Un traité de la pensée engagée (1936, Penser avec les mains (1972))
+body-1-6	f. Pour une écologie politique (1936, Penser avec les mains (1972))
 </value>
         </attributekey>
       </attributes>
@@ -197,10 +197,10 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Préface 1972</a>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="1#body-1-1">a. Situer au centre de l’homme le centre de la société</a>
                         </li>
@@ -219,11 +219,11 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
                         <li class="collateral">
                           <a href="1#body-1-6">f. Pour une écologie politique</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -266,11 +266,11 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -280,9 +280,9 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -296,7 +296,7 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.1. Le problème de la culture (1972, Penser avec les mains)</value>
+          <value>I.1. Le problème de la culture (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -314,7 +314,7 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -331,14 +331,14 @@ body-1-6	f. Pour une écologie politique (1972, Penser avec les mains)
           <value>I.1.a. Qu’est-ce qu’un problème ? – I.1.b. Multitude des problèmes – I.1.c. Moment de la révolution – I.1.d. Insuffisance de nos refus – I.1.e. Parti pris de ce livre – I.1.f. Décadence ou abaissement ? – I.1.g. D’un symptôme de décadence – I.1.h. Importance des « questions de mots »</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-2-1-1	I.1.a. Qu’est-ce qu’un problème ? (1972, Penser avec les mains)
-body-2-1-2	I.1.b. Multitude des problèmes (1972, Penser avec les mains)
-body-2-1-3	I.1.c. Moment de la révolution (1972, Penser avec les mains)
-body-2-1-4	I.1.d. Insuffisance de nos refus (1972, Penser avec les mains)
-body-2-1-5	I.1.e. Parti pris de ce livre (1972, Penser avec les mains)
-body-2-1-6	I.1.f. Décadence ou abaissement ? (1972, Penser avec les mains)
-body-2-1-7	I.1.g. D’un symptôme de décadence (1972, Penser avec les mains)
-body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec les mains)
+          <value>body-2-1-1	I.1.a. Qu’est-ce qu’un problème ? (1936, Penser avec les mains (1972))
+body-2-1-2	I.1.b. Multitude des problèmes (1936, Penser avec les mains (1972))
+body-2-1-3	I.1.c. Moment de la révolution (1936, Penser avec les mains (1972))
+body-2-1-4	I.1.d. Insuffisance de nos refus (1936, Penser avec les mains (1972))
+body-2-1-5	I.1.e. Parti pris de ce livre (1936, Penser avec les mains (1972))
+body-2-1-6	I.1.f. Décadence ou abaissement ? (1936, Penser avec les mains (1972))
+body-2-1-7	I.1.g. D’un symptôme de décadence (1936, Penser avec les mains (1972))
+body-2-1-8	I.1.h. Importance des « questions de mots » (1936, Penser avec les mains (1972))
 </value>
         </attributekey>
       </attributes>
@@ -392,7 +392,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                       <p class="p autofirst">Cette mise au point me paraît nécessaire pour situer la critique qui va suivre et qui procède d’un parti pris de création dont j’espère bien que le lecteur éprouvera 
 <a class="pb" href="#p26" id="p26">[p. 26]</a>
  çà et là la poussée, le coup de pouce simplificateur. Méfions-nous des critiques « impartiales », des « je vous parle en toute sincérité » : l’homme n’est pas un point de vue abstrait, mais un animal créateur ; et ce n’est pas ce qu’il pense de sa sincérité qui m’intéresse, mais ce qu’il veut, et pourquoi il le veut.</p>
-                      <p class="p">Ce que je veux faire, en écrivant ce livre, c’est chercher les moyens d<i class="i">’action</i> dont l’esprit de l’homme dispose ; c’est montrer que l’esprit n’est réel et ne mérite que l’on s’inquiète à son sujet que lorsqu’il s’abaisse au niveau des hommes concrets, des ouvriers au sens premier du mot : ceux qui ont prise sur les choses et qui « étreignent la réalité rugueuse », comme dit Rimbaud ; ceux qui œuvrent ; et ceux qui ouvrent. L’esprit n’est vrai que lorsqu’il <i class="i">manifeste</i> sa présence, et dans le mot manifester il y a <i class="i">main.</i> L’esprit n’est vrai que dans son acte, que nos clercs qualifient d’abaissement. C’est en effet un abaissement pour l’esprit pur que de descendre à la portée des hommes, mais c’est là qu’il cesse d’être un mensonge. L’amour est le comble de l’esprit, et l’amour du prochain est un acte, c’est-à-dire une main tendue, non pas un sentiment drapé, non pas un <i class="i">idéal</i> qui passe sur le chemin de Jéricho, devant l’homme dépouillé par les brigands.</p>
+                      <p class="p">Ce que je veux faire, en écrivant ce livre, c’est chercher les moyens d’<i class="i">action</i> dont l’esprit de l’homme dispose ; c’est montrer que l’esprit n’est réel et ne mérite que l’on s’inquiète à son sujet que lorsqu’il s’abaisse au niveau des hommes concrets, des ouvriers au sens premier du mot : ceux qui ont prise sur les choses et qui « étreignent la réalité rugueuse », comme dit Rimbaud ; ceux qui œuvrent ; et ceux qui ouvrent. L’esprit n’est vrai que lorsqu’il <i class="i">manifeste</i> sa présence, et dans le mot manifester il y a <i class="i">main.</i> L’esprit n’est vrai que dans son acte, que nos clercs qualifient d’abaissement. C’est en effet un abaissement pour l’esprit pur que de descendre à la portée des hommes, mais c’est là qu’il cesse d’être un mensonge. L’amour est le comble de l’esprit, et l’amour du prochain est un acte, c’est-à-dire une main tendue, non pas un sentiment drapé, non pas un <i class="i">idéal</i> qui passe sur le chemin de Jéricho, devant l’homme dépouillé par les brigands.</p>
                     </section>
                     <section id="body-2-1-6" class="div level2">
                       <h2 class="head">Décadence ou abaissement ?</h2>
@@ -444,16 +444,16 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">I.1. Le problème de la culture</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="2#body-2-1-1">I.1.a. Qu’est-ce qu’un problème ?</a>
                             </li>
@@ -478,7 +478,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                             <li class="collateral">
                               <a href="2#body-2-1-8">I.1.h. Importance des « questions de mots »</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="3">I.2. D’une culture qui parle dans le vide</a>
@@ -519,11 +519,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -533,9 +533,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -549,7 +549,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.2. D’une culture qui parle dans le vide (1972, Penser avec les mains)</value>
+          <value>I.2. D’une culture qui parle dans le vide (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -567,7 +567,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -613,7 +613,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
 <a class="pb" href="#p36" id="p36">[p. 36]</a>
  “Chacun doit travailler pour être honoré en ce monde et être sauvé dans l’autre” » (page 137).</p>
                     <p class="p">Ce principe nous est devenu familier. Mais au déclin du Moyen Âge il apparaît comme une révolution radicale. Alors que le travail du paysan asservi était pour lui « un destin qu’il subissait », le travail du bourgeois devient « une réalisation voulue par lui-même ». Le travail du paysan asservissait, le travail du bourgeois libérait. Le bourgeois désormais possède l’arme morale qui lui permettra de construire. À ce moment, la culture est travail, revendication constructive ; elle mesure à la fois la pensée et l’action. Elle est comme la <i class="i">mesure vivante</i> de la société rénovée.</p>
-                    <p class="p">Mais la situation se renverse au siècle suivant, c’est-à-dire dès l’instant où la bourgeoisie s<i class="i">’établit</i>, triomphante, dans le domaine conquis. La charnière doit être située aux confins du <span class="num">xiii<sup class="sup">e</sup></span> et du <span class="num">xiv<sup class="sup">e</sup></span> siècle, pendant la brève suprématie de la classe révolutionnaire. Je cite encore de Man, un peu longuement, la page en vaut la peine :</p>
+                    <p class="p">Mais la situation se renverse au siècle suivant, c’est-à-dire dès l’instant où la bourgeoisie s’<i class="i">établit</i>, triomphante, dans le domaine conquis. La charnière doit être située aux confins du <span class="num">xiii<sup class="sup">e</sup></span> et du <span class="num">xiv<sup class="sup">e</sup></span> siècle, pendant la brève suprématie de la classe révolutionnaire. Je cite encore de Man, un peu longuement, la page en vaut la peine :</p>
                     <blockquote class="quote">
                       <p class="p autofirst">Tant que cette classe (bourgeoise) fut au pouvoir, elle fit de la séparation entre la propriété et le travail le fondement de ses prétentions à la suprématie. Elle se servit à cette fin du moyen toujours utilisé par les parvenus qui, ayant réussi à émerger de leur milieu originel de travailleurs, ont acquis la possibilité de mener une existence oisive de consommateurs : elle s’adapta au style de vie du milieu non producteur, antérieurement accédé au pouvoir, c’est-à-dire dans ce cas-là, au style de vie de la noblesse.</p>
                       <p class="p">Les « grandes familles » bourgeoises, surtout pendant les deux dernières générations qui précédèrent leur chute, se mirent en majeure partie à placer leurs fortunes en biens-fonds, et à tirer leurs ressources de charges politiques, de prébendes, de l’affermage des impôts et des douanes, ou d’affaires de prêts, le tout 
@@ -635,7 +635,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
  des grands clercs du <span class="num">xix<sup class="sup">e</sup></span> et des débuts du <span class="num">xx<sup class="sup">e</sup></span> siècle vont-ils sans doute nous révéler plus aisément la nature <i class="i">spirituelle</i> de l’erreur qui, peut-être, affecta dès le principe l’éthique et la culture bourgeoises.</p>
                     <p class="p">Quelques remarques préliminaires nous aideront à interpréter les illustrations qui vont suivre.</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="3#p31">p. 31</a>
@@ -671,13 +671,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -720,11 +720,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -734,9 +734,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -750,7 +750,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.3. Fatalités du rationalisme bourgeois (1972, Penser avec les mains)</value>
+          <value>I.3. Fatalités du rationalisme bourgeois (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -768,7 +768,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -793,7 +793,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                     <h1 class="head kicker chapter">III</h1>
                     <h1 class="head chapter">Fatalités du rationalisme bourgeois</h1>
                     <p class="p autofirst">Si l’on se demande quel est le principe central de notre société bourgeoise, son lieu commun fondamental, son arme défensive et offensive, enfin sa norme de vérité et d’action, il me semble qu’on ne peut éviter un mot qui rend compte de tout cela avec plus ou moins de bonheur selon les définitions qu’on en donne, mais avec une espèce d’évidence jaillie de toutes les images historiques et polémiques qu’il évoque : c’est le mot de <i class="i">rationalisme.</i></p>
-                    <p class="p">De même que le principe central, la vertu décisive et première de la société féodale fut l’honneur, vérité de la force et de la confiance jurée, de même le fondement du régime et de la mentalité bourgeoise, c’est la raison, vérité « générale » hostile à toute foi incontrôlable. Je pense que tous les historiens (de gauche, de droite ou de Moscou) s’accorderont à reconnaître que l’arme de la bourgeoisie, dans ses luttes sociales et morales, scientifiques et religieuses, ce fut toujours la raison raisonnante, méfiante et organisatrice. Et non pas cette raison que les Grecs savaient mystérieuse, mais au contraire une raison ennemie de tout ce que le <span class="num">xviii<sup class="sup">e</sup></span> siècle devait flétrir du nom d’obscurantisme. La « philosophie des lumières<a id="_GoBack">‌</a> » en est l’illustration fameuse. Or c’est elle qui est à l’origine de la Révolution 
+                    <p class="p">De même que le principe central, la vertu décisive et première de la société féodale fut l’honneur, vérité de la force et de la confiance jurée, de même le fondement du régime et de la mentalité bourgeoise, c’est la raison, vérité « générale » hostile à toute foi incontrôlable. Je pense que tous les historiens (de gauche, de droite ou de Moscou) s’accorderont à reconnaître que l’arme de la bourgeoisie, dans ses luttes sociales et morales, scientifiques et religieuses, ce fut toujours la raison raisonnante, méfiante et organisatrice. Et non pas cette raison que les Grecs savaient mystérieuse, mais au contraire une raison ennemie de tout ce que le <span class="num">xviii<sup class="sup">e</sup></span> siècle devait flétrir du nom d’obscurantisme. La « philosophie des lumières » en est l’illustration fameuse. Or c’est elle qui est à l’origine de la Révolution 
 <a class="pb" href="#p42" id="p42">[p. 42]</a>
  française, qui devait par ailleurs rendre un culte à la Raison déifiée.</p>
                     <p class="p">Mais cette raison ennemie du singulier, et définie par son hostilité à tout ce qui se fonde sur le mystère (créateur, humain ou cosmique), cette raison du rationalisme, qui n’est pas celle de Platon, ni d’Aristote, ni de Thomas d’Aquin, et encore moins de Spinoza, <i class="i">cette raison-là</i> se voit soumise à une double fatalité que l’histoire de la bourgeoisie a révélée au dernier siècle.</p>
@@ -808,10 +808,10 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                     <p class="p autofirst">Mais la raison n’est pas seulement cet instrument de notre domination sur les choses. Elle est aussi une défense nécessaire contre la tyrannie des mythes. C’est peut-être elle qui nous a délivrés de l’empire des magies primitives<a class="noteref" href="4#note10" id="note10_"><sup>10</sup></a>. Il y a une santé authentique dans sa révolte et dans son scepticisme, tant qu’elle les met au service de l’homme, tant qu’elle combat pour un idéal supérieur d’autonomie personnelle, d’invention. Raison contre superstition : le schéma est peut-être primaire, il n’en traduit pas moins dans ses grandes lignes l’histoire d’une libération du genre humain. Aux yeux du moins de ceux qui croient, comme je le crois, que la liberté de l’homme implique son effort pour surmonter les illusions de la panique primitive, et les fantasmes cruellement utilisés par tous les prêtres des faux dieux et même du Vrai. Cette raison sceptique et purificatrice soutient la bourgeoisie moyen-âgeuse dans sa lutte contre les tabous d’une féodalité qui se survit. Là encore, 
 <a class="pb" href="#p45" id="p45">[p. 45]</a>
  elle est légitime dans la mesure où elle s’ordonne à un idéal plus « humain », j’entends plus favorable au développement normal de la personne<a class="noteref" href="4#note11" id="note11_"><sup>11</sup></a>. La lutte des hommes contre certains mystères despotiques peut être un moment héroïque de notre lutte contre la mort. Imposer l’ordre et la mesure humaine à l’anarchie des forces naturelles, voilà l’affirmation, ou pour mieux dire l’agressivité originelle de la raison.</p>
-                    <p class="p">Mais encore, de cette origine, la raison tire un penchant pernicieux dont les effets commencent d’être visibles dès que l’ordre nouveau s<i class="i">’établit.</i> Si la fatalité de la raison pratique est cette lourdeur matérialiste qui finit par soumettre l’homme lui-même aux lois du nombre, qui sont les lois des choses, la fatalité parallèle d’une raison ennemie des mythes, c’est la <i class="i">rationalisation</i>, la manie de tout unifier, l’esprit de géométrie, qui est l’esprit de la dictature et qui conduit à l’étatisme. Dès que l’idéal humaniste qui animait le scepticisme rationnel paraît avoir atteint ses objectifs au gré des ambitions du siècle ; quand le combat s’apaise et quand retombent les passions, l’agressivité primitive se retourne soudain contre l’homme. La raison, qui n’est plus soutenue par un enthousiasme vital pour des fins qui lui soient transcendantes, usurpe les pouvoirs des royautés obscures qu’elle nous avait permis de vaincre. Elle se met à régner à leur place, et sa tyrannie se révèle plus inhumaine encore que n’étaient leurs caprices. Le savant et le technicien tuent mieux que le mage et le sorcier. L’étatisme dictatorial stérilise bien plus d’entreprises que l’anarchie n’en menaçait.</p>
+                    <p class="p">Mais encore, de cette origine, la raison tire un penchant pernicieux dont les effets commencent d’être visibles dès que l’ordre nouveau s’<i class="i">établit.</i> Si la fatalité de la raison pratique est cette lourdeur matérialiste qui finit par soumettre l’homme lui-même aux lois du nombre, qui sont les lois des choses, la fatalité parallèle d’une raison ennemie des mythes, c’est la <i class="i">rationalisation</i>, la manie de tout unifier, l’esprit de géométrie, qui est l’esprit de la dictature et qui conduit à l’étatisme. Dès que l’idéal humaniste qui animait le scepticisme rationnel paraît avoir atteint ses objectifs au gré des ambitions du siècle ; quand le combat s’apaise et quand retombent les passions, l’agressivité primitive se retourne soudain contre l’homme. La raison, qui n’est plus soutenue par un enthousiasme vital pour des fins qui lui soient transcendantes, usurpe les pouvoirs des royautés obscures qu’elle nous avait permis de vaincre. Elle se met à régner à leur place, et sa tyrannie se révèle plus inhumaine encore que n’étaient leurs caprices. Le savant et le technicien tuent mieux que le mage et le sorcier. L’étatisme dictatorial stérilise bien plus d’entreprises que l’anarchie n’en menaçait.</p>
                     <p class="p">L’histoire de cette fatalité est celle du monde contemporain. Son mécanisme est simple, et son rythme constant. 
 <a class="pb" href="#p46" id="p46">[p. 46]</a>
- La raison joue le rôle d’une force d<i class="i">’émancipation</i> tant qu’elle met au service d’un idéal à conquérir ses puissances conjuguées de critique et de mise en ordre ; mais une fois l’idéal conquis, et le combat rompu, elle se dissocie fatalement, et l’ordre abstrait prenant le pas sur les facultés d’invention, il en résulte une <i class="i">tyrannie</i>, qui s’appellera selon les cas rationalisation, rationalisme, raison d’État ou dictature.</p>
+ La raison joue le rôle d’une force d’<i class="i">émancipation</i> tant qu’elle met au service d’un idéal à conquérir ses puissances conjuguées de critique et de mise en ordre ; mais une fois l’idéal conquis, et le combat rompu, elle se dissocie fatalement, et l’ordre abstrait prenant le pas sur les facultés d’invention, il en résulte une <i class="i">tyrannie</i>, qui s’appellera selon les cas rationalisation, rationalisme, raison d’État ou dictature.</p>
                     <p class="p">L’examen des doctrines les plus puissantes du dernier siècle nous fournira l’illustration de cette thèse.</p>
                     <section class="footnotes">
                       <div class="page">
@@ -841,13 +841,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -890,11 +890,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -904,9 +904,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -920,7 +920,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.4. Hegel, Comte, Marx, ou la rationalisation (1972, Penser avec les mains)</value>
+          <value>I.4. Hegel, Comte, Marx, ou la rationalisation (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -938,7 +938,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -985,7 +985,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
 <a class="pb" href="#p52" id="p52">[p. 52]</a>
  Considérons maintenant le sort que le déterminisme social réserve à la culture, dans un monde régi par des <i class="i">lois</i> calquées sur la nature des <i class="i">choses.</i></p>
                     <p class="p">Si le principe du mouvement, du Progrès, si le dynamisme de l’histoire réside dans la Force des Choses, la culture ne peut plus prétendre qu’à <i class="i">refléter</i> fidèlement « ce qui <i class="i">se</i> fait ». Elle cesse donc d’être « ce qui fait ». Elle se réduit à décrire sans juger. À moins qu’elle ne vise au contraire à masquer cette tyrannie des faits aux yeux des délicats qui s’en offusqueraient, aux yeux des libertaires qui devraient la combattre, mais dont la débile passion se satisfait à moindre risque dans l’illusion d’une liberté tout « intérieure ».</p>
-                    <p class="p">Nous aurons donc deux espèces de clercs : les conformistes et les rêveurs. Les uns et les autres, bien sûr, refuseront de se reconnaître dans ces épithètes sommaires. Les premiers préféreraient qu’on les nomme des savants impartiaux et modestes ; les seconds, des idéalistes, ou des poètes, ou des sages résignés. Ils ont tous en commun ceci : qu’ils paraissent accepter en fait de n’avoir plus aucune action réelle sur le cours des choses humaines. Ils paraissent avoir pris à cœur de justifier le jugement de Marx sur la culture de son temps, qualifiée de superstructure. <i class="i">Mais ils y voient leur supériorité.</i> Eux aussi croient à la nécessaire précédence des facteurs matériels dans l’histoire. Mais ils y voient la garantie d’une distinction qui les honore aux yeux de la nouvelle société. En effet, cette nouvelle société est celle des bourgeois établis dans une richesse acquise par leurs ancêtres. Et l’honneur d’une classe établie réside toujours dans ses loisirs. L<i class="i">’inactualité</i> de la culture qui était pour Marx une vérité de fait, — fait qu’il avait tout d’abord dénoncé, puis qu’il avait démontré nécessaire, faisant ainsi de nécessité vertu… — devient aux yeux des clercs bourgeois une espèce d’idéal à sauvegarder. D’autre part, le capitalisme, qui prend son essor 
+                    <p class="p">Nous aurons donc deux espèces de clercs : les conformistes et les rêveurs. Les uns et les autres, bien sûr, refuseront de se reconnaître dans ces épithètes sommaires. Les premiers préféreraient qu’on les nomme des savants impartiaux et modestes ; les seconds, des idéalistes, ou des poètes, ou des sages résignés. Ils ont tous en commun ceci : qu’ils paraissent accepter en fait de n’avoir plus aucune action réelle sur le cours des choses humaines. Ils paraissent avoir pris à cœur de justifier le jugement de Marx sur la culture de son temps, qualifiée de superstructure. <i class="i">Mais ils y voient leur supériorité.</i> Eux aussi croient à la nécessaire précédence des facteurs matériels dans l’histoire. Mais ils y voient la garantie d’une distinction qui les honore aux yeux de la nouvelle société. En effet, cette nouvelle société est celle des bourgeois établis dans une richesse acquise par leurs ancêtres. Et l’honneur d’une classe établie réside toujours dans ses loisirs. L’<i class="i">inactualité</i> de la culture qui était pour Marx une vérité de fait, — fait qu’il avait tout d’abord dénoncé, puis qu’il avait démontré nécessaire, faisant ainsi de nécessité vertu… — devient aux yeux des clercs bourgeois une espèce d’idéal à sauvegarder. D’autre part, le capitalisme, qui prend son essor 
 <a class="pb" href="#p53" id="p53">[p. 53]</a>
  dans le même temps, permet aux hommes les plus grossiers de saisir les leviers de la puissance matérielle : ces gros et ces petits brasseurs d’affaires ne connaissent, eux aussi, que la « force des choses » et ne sont guère retenus dans leur élan vers le profit par la vision des fins dernières de toute action… Là encore, le désistement de la culture empêchera le scandale d’éclater : il libérera, s’il est besoin, de tout scrupule la conscience du capitaliste — auquel personne ne posera plus de question gênante — et il privera le grand public de tout critère intellectuel de jugement touchant l’activité des « hommes d’action ». On déléguera au
             technicien, et à lui seul, le droit de juger l’état présent des prétendues nécessités économiques.</p>
@@ -1035,13 +1035,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -1084,11 +1084,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -1098,9 +1098,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1114,7 +1114,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.5. Importance de la notion de commune mesure (1972, Penser avec les mains)</value>
+          <value>I.5. Importance de la notion de commune mesure (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1132,7 +1132,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -1184,13 +1184,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -1233,11 +1233,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -1247,9 +1247,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1263,7 +1263,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.6. L’Arche de l’Alliance (1972, Penser avec les mains)</value>
+          <value>I.6. L’Arche de l’Alliance (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1281,7 +1281,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -1393,13 +1393,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -1442,11 +1442,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -1456,9 +1456,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1472,7 +1472,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.7. Sur le déclin du Moyen Âge (1972, Penser avec les mains)</value>
+          <value>I.7. Sur le déclin du Moyen Âge (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1490,7 +1490,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -1551,7 +1551,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
 <a class="pb" href="#p74" id="p74">[p. 74]</a>
  latiniste de l’époque n’aboutissent qu’à orner un discours dont l’ornement paraît enfin tout le sujet. Mais de la réponse de Calvin, de cette <i class="i">Épître à Sadolet</i> dont chaque phrase est tendue comme un arc par la passion de servir l’Éternel, Luther dira, d’un tour proverbial : « Voilà un écrit qui a des pieds et des mains !<a class="noteref" href="8#note34" id="note34_"><sup>34</sup></a> »</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="8#p68">p. 68</a>
@@ -1612,13 +1612,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -1661,11 +1661,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -1675,9 +1675,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1691,7 +1691,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.8. Décadence des lieux communs (1972, Penser avec les mains)</value>
+          <value>I.8. Décadence des lieux communs (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1709,7 +1709,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -1778,7 +1778,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
 <a class="pb" href="#p83" id="p83">[p. 83]</a>
  donnera donc de nouveaux fabriqués à notre mesure, — et quelle misérable mesure ! « Slogans » publicitaires, mots d’ordre politiques, tels sont les ersatz pitoyables que nous proposent l’Argent et l’État. <i class="i">Giovinezza ! Tod den Juden</i> ! Nous ferons mieux que l’Amérique ! Achetez français ! Passez vos vacances à la mer ! C’est avec ça qu’on fait les bons fascistes, les bons nazis, les vertueux komsomols, les petits bourgeois disciplinés. C’est ce conformisme enthousiaste qui tient lieu de conscience commune aux grandes masses européennes, quel que soit leur régime politique. Ainsi la mesure n’est plus cette loi qui vit en l’homme réel et personnel, cette alliance du peuple avec sa vocation, qui faisait la grandeur des cultures authentiques. Elle est devenue la loi inexorable et mécanique qui plie l’individu à des calculs de masses, à des disciplines extérieures, à des ambitions inhumaines. Nous vivons à l’âge des mots d’ordre. On peut penser que c’est une espèce de progrès sur l’âge des clichés bourgeois. Mais si les mots d’ordre sont faux ? Si l’ordre qu’ils imposent est arbitraire, ou s’il ne mise que sur l’indignité humaine ? Et si la <i class="i">propagande</i> et la <i class="i">publicité</i> qui ont pris la place des lieux communs spirituels et affectifs ne nous ordonnent qu’à des fins provisoires ou dégradantes : l’état totalitaire et la richesse matérielle ? Que vaut alors cette communauté de réflexes et d’obsessions ? N’est-elle pas une somme de nos défaites intimes, de nos dénis d’humanité, — le contraire absolu de la culture, si la culture est justement la part active que prend l’homme à tout ce qui est création dans la nature, dans l’histoire, dans la vie de l’esprit ?</p>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="9#p76">p. 76</a>
@@ -1806,13 +1806,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -1855,11 +1855,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -1869,9 +1869,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1885,7 +1885,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.9. Tentatives de restauration d’une commune mesure (1972, Penser avec les mains)</value>
+          <value>I.9. Tentatives de restauration d’une commune mesure (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -1903,7 +1903,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -1956,13 +1956,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -2005,11 +2005,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -2019,9 +2019,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2035,7 +2035,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.10. La mesure soviétique (1972, Penser avec les mains)</value>
+          <value>I.10. La mesure soviétique (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2053,7 +2053,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -2194,13 +2194,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -2243,11 +2243,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -2257,9 +2257,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2273,7 +2273,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.11. La mesure nationale-socialiste (1972, Penser avec les mains)</value>
+          <value>I.11. La mesure nationale-socialiste (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2291,7 +2291,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -2416,13 +2416,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -2465,11 +2465,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -2479,9 +2479,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2495,7 +2495,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.12. Leçon des dictatures (1972, Penser avec les mains)</value>
+          <value>I.12. Leçon des dictatures (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2513,7 +2513,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -2585,13 +2585,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -2634,11 +2634,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -2648,9 +2648,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2664,7 +2664,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.13 Commune mesure et acte de foi (1972, Penser avec les mains)</value>
+          <value>I.13 Commune mesure et acte de foi (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2682,7 +2682,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -2716,7 +2716,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                     <p class="p">Mais alors, où trouver la vérité totale, la seule qui ait le droit d’être totalitaire ? La fin des fins, le terme universel en quoi l’homme puisse mettre sa foi, certain 
 <a class="pb" href="#p123" id="p123">[p. 123]</a>
  qu’il y engage tout ? Où trouver ce « fondement final » de toute communauté réelle et actuelle, ce <i class="i">telos</i> qui anime tout, qui exige tout, et qui impose à tout la mesure de son espérance ?</p>
-                    <p class="p">Car il ne s’agit de rien d’autre, à chaque instant, que de cette fin des fins. La grandeur, l’importance de chacune de nos vies, la dignité que nous attribuons à nos actions, si minuscules qu’elles soient au regard de l’histoire, la passion même dont nous les chargeons, tout cela vient uniquement de la <span class="sc">fin</span> à laquelle nous les dédions. Or, c’est là ce que le très grand nombre ignore ou préfère ignorer. Comment jugeons-nous, par exemple, au nom de quoi refusons-nous ce qui paraît vrai au voisin ? Nous nous payons sans cesse de prétextes « pratiques » ou d’arguments appris à droite et à gauche ; nous prétendons juger objectivement, rationnellement, etc., et nous nous embrouillons dans une foule de raisons qui dissimulent bien plus qu’elles ne traduisent notre passion fondamentale, la fin dernière vers quoi tend notre vie, et qui seule donne un sens à cette vie. Nous croyons que nous jugeons au nom de certaines raisons, et nous jugeons en vérité au nom de la religion que nous suivons, plus ou moins consciemment d’ailleurs. Il importe avant tout de tirer cela au clair. C’est pourquoi je dirai que juger<span class="phr ls">, <i class="i">c</i></span><i class="i">’est en toute chose considérer la fin ; ensuite la qualifier de vraie ou de fausse ; et finalement choisir « en connaissance de fin », c’est-à-dire s’engager pour ou contre, en vertu d’un acte de foi.</i></p>
+                    <p class="p">Car il ne s’agit de rien d’autre, à chaque instant, que de cette fin des fins. La grandeur, l’importance de chacune de nos vies, la dignité que nous attribuons à nos actions, si minuscules qu’elles soient au regard de l’histoire, la passion même dont nous les chargeons, tout cela vient uniquement de la <span class="sc">fin</span> à laquelle nous les dédions. Or, c’est là ce que le très grand nombre ignore ou préfère ignorer. Comment jugeons-nous, par exemple, au nom de quoi refusons-nous ce qui paraît vrai au voisin ? Nous nous payons sans cesse de prétextes « pratiques » ou d’arguments appris à droite et à gauche ; nous prétendons juger objectivement, rationnellement, etc., et nous nous embrouillons dans une foule de raisons qui dissimulent bien plus qu’elles ne traduisent notre passion fondamentale, la fin dernière vers quoi tend notre vie, et qui seule donne un sens à cette vie. Nous croyons que nous jugeons au nom de certaines raisons, et nous jugeons en vérité au nom de la religion que nous suivons, plus ou moins consciemment d’ailleurs. Il importe avant tout de tirer cela au clair. C’est pourquoi je dirai que juger, <i class="i">c’est en toute chose considérer la fin ; ensuite la qualifier de vraie ou de fausse ; et finalement choisir « en connaissance de fin », c’est-à-dire s’engager pour ou contre, en vertu d’un acte de foi.</i></p>
                     <p class="p">J’illustrerai ceci d’un seul exemple.</p>
                     <p class="p"><i class="i">Juger</i> le système soviétique, ou la mesure soviétique, ce n’est pas discuter telle ou telle modalité de son application ; ce n’est pas prédire (à la manière des journalistes) son échec ou sa réussite ; ce n’est pas protester contre les conditions accidentelles qu’impose sa réalisation, et qui lèsent beaucoup d’intérêts, dont certains sont honnêtes et d’autres moins. Car, quand bien même 
 <a class="pb" href="#p124" id="p124">[p. 124]</a>
@@ -2727,7 +2727,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
 <a class="pb" href="#p125" id="p125">[p. 125]</a>
  bien assez de notre sort pour en être aujourd’hui responsables.</p>
                     <p class="p">À la question que je posais tout à l’heure : où trouver le fondement final de toute communauté réelle et actuelle ? je suis donc amené à répondre premièrement : c’est par un acte de foi que nous pouvons le trouver.</p>
-                    <p class="p">Mais il s’agit de prendre cette expression dans son sens le plus littéral. Par acte de foi, je n’entends pas, comme on l’entend peut-être trop souvent, la croyance plus ou moins enthousiaste en une vision plus ou moins définie de l’avenir, que l’on décore du nom d<i class="i">’idéal</i> et auquel on accorde blanc-seing. Je me méfie profondément de toute espèce d’idéal. Je me méfie en particulier de cet idéal « dynamique » que l’on baptise l’Homme nouveau. D’abord pour la simple raison qu’un idéal est toujours dans l’avenir, et notre action toujours dans le présent. Ensuite parce que tout idéal comporte une part d’indétermination, d’incertitude, qui le rend impropre à unifier vraiment nos vies. Je vois bien dix définitions de l’Homme nouveau : cet idéal m’apparaît divisé par le fait même qu’il prend sa source dans les désirs de nos cœurs actuels. Or, ce n’est pas une image flatteuse conçue comme un négatif du désordre, qui pourra nous sauver de ce désordre. Car, ou bien elle nous reste extérieure, ou bien elle est complice de nos faiblesses. Elle n’est pas vraie en soi. Elle n’est pas plus vraie que nous, tels que nous sommes, dans le désordre établi.</p>
+                    <p class="p">Mais il s’agit de prendre cette expression dans son sens le plus littéral. Par acte de foi, je n’entends pas, comme on l’entend peut-être trop souvent, la croyance plus ou moins enthousiaste en une vision plus ou moins définie de l’avenir, que l’on décore du nom d’<i class="i">idéal</i> et auquel on accorde blanc-seing. Je me méfie profondément de toute espèce d’idéal. Je me méfie en particulier de cet idéal « dynamique » que l’on baptise l’Homme nouveau. D’abord pour la simple raison qu’un idéal est toujours dans l’avenir, et notre action toujours dans le présent. Ensuite parce que tout idéal comporte une part d’indétermination, d’incertitude, qui le rend impropre à unifier vraiment nos vies. Je vois bien dix définitions de l’Homme nouveau : cet idéal m’apparaît divisé par le fait même qu’il prend sa source dans les désirs de nos cœurs actuels. Or, ce n’est pas une image flatteuse conçue comme un négatif du désordre, qui pourra nous sauver de ce désordre. Car, ou bien elle nous reste extérieure, ou bien elle est complice de nos faiblesses. Elle n’est pas vraie en soi. Elle n’est pas plus vraie que nous, tels que nous sommes, dans le désordre établi.</p>
                     <p class="p">Par acte de foi, j’entends précisément <i class="i">l’acte qui obéit non pas à un peut-être, mais à une vérité certaine, affirmée par cet acte même.</i> Il n’est de fin vraiment unique — et par conséquent unifiante — que dans la vérité dernière de l’homme. Mais, d’autre part, cette vérité dernière n’existe vraiment qu’au lieu et à l’instant précis où je lui obéis en fait. L’acte de foi n’est donc pas un désir, une nostalgie confiante, un leurre consolant, un 
 <a class="pb" href="#p126" id="p126">[p. 126]</a>
  saut dans le vide les yeux fermés. C’est un <i class="i">acte</i>, c’est un témoignage matériel en faveur de la <i class="i">vérité</i>, et non pas en faveur d’un idéal rêvé ou désirable.</p>
@@ -2766,13 +2766,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -2815,11 +2815,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -2829,9 +2829,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2845,7 +2845,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>I.14. L’appel à la commune mesure, ou l’Europe du xxe siècle (1972, Penser avec les mains)</value>
+          <value>I.14. L’appel à la commune mesure, ou l’Europe du xxe siècle (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -2863,7 +2863,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -2986,13 +2986,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="ancestor">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -3035,11 +3035,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="here">
                           <a href="#">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -3049,9 +3049,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3065,7 +3065,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>Préambule (1972, Penser avec les mains)</value>
+          <value>Préambule (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3083,7 +3083,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -3146,13 +3146,13 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="collateral">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -3195,11 +3195,11 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">Préambule</a>
                         </li>
@@ -3209,9 +3209,9 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3225,7 +3225,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II.1. La pensée prolétarisée (1972, Penser avec les mains)</value>
+          <value>II.1. La pensée prolétarisée (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3243,7 +3243,7 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -3260,21 +3260,21 @@ body-2-1-8	I.1.h. Importance des « questions de mots » (1972, Penser avec le
           <value>II.1.a. L’exigence fondamentale – II.1.b. L’esprit s’est « distingué » – II.1.c. Les mains – II.1.d. D’où vient l’initiative ? – II.1.e. Deux sens du mot penser – II.1.f. Définition d’un esprit « moderne » – II.1.g. « Réciter l’homme », ou le former ? – II.1.h. L’appareil intellectuel – II.1.i. Machines à penser – II.1.j. La pensée prolétarisée – II.1.k. Psychologie du clerc prolétarisé – II.1.l. La pensée sans douleur – II.1.m. Les disciplines de la pensée prolétarisée – II.1.n. Pensée bourgeoise et doctrines étatistes – II.1.o. Petit panorama d’une grande démission</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-2-1	II.1.a. L’exigence fondamentale (1972, Penser avec les mains)
-body-3-2-2	II.1.b. L’esprit s’est « distingué » (1972, Penser avec les mains)
-body-3-2-3	II.1.c. Les mains (1972, Penser avec les mains)
-body-3-2-4	II.1.d. D’où vient l’initiative ? (1972, Penser avec les mains)
-body-3-2-5	II.1.e. Deux sens du mot penser (1972, Penser avec les mains)
-body-3-2-6	II.1.f. Définition d’un esprit « moderne » (1972, Penser avec les mains)
-body-3-2-7	II.1.g. « Réciter l’homme », ou le former ? (1972, Penser avec les mains)
-body-3-2-8	II.1.h. L’appareil intellectuel (1972, Penser avec les mains)
-body-3-2-9	II.1.i. Machines à penser (1972, Penser avec les mains)
-body-3-2-10	II.1.j. La pensée prolétarisée (1972, Penser avec les mains)
-body-3-2-11	II.1.k. Psychologie du clerc prolétarisé (1972, Penser avec les mains)
-body-3-2-12	II.1.l. La pensée sans douleur (1972, Penser avec les mains)
-body-3-2-13	II.1.m. Les disciplines de la pensée prolétarisée (1972, Penser avec les mains)
-body-3-2-14	II.1.n. Pensée bourgeoise et doctrines étatistes (1972, Penser avec les mains)
-body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec les mains)
+          <value>body-3-2-1	II.1.a. L’exigence fondamentale (1936, Penser avec les mains (1972))
+body-3-2-2	II.1.b. L’esprit s’est « distingué » (1936, Penser avec les mains (1972))
+body-3-2-3	II.1.c. Les mains (1936, Penser avec les mains (1972))
+body-3-2-4	II.1.d. D’où vient l’initiative ? (1936, Penser avec les mains (1972))
+body-3-2-5	II.1.e. Deux sens du mot penser (1936, Penser avec les mains (1972))
+body-3-2-6	II.1.f. Définition d’un esprit « moderne » (1936, Penser avec les mains (1972))
+body-3-2-7	II.1.g. « Réciter l’homme », ou le former ? (1936, Penser avec les mains (1972))
+body-3-2-8	II.1.h. L’appareil intellectuel (1936, Penser avec les mains (1972))
+body-3-2-9	II.1.i. Machines à penser (1936, Penser avec les mains (1972))
+body-3-2-10	II.1.j. La pensée prolétarisée (1936, Penser avec les mains (1972))
+body-3-2-11	II.1.k. Psychologie du clerc prolétarisé (1936, Penser avec les mains (1972))
+body-3-2-12	II.1.l. La pensée sans douleur (1936, Penser avec les mains (1972))
+body-3-2-13	II.1.m. Les disciplines de la pensée prolétarisée (1936, Penser avec les mains (1972))
+body-3-2-14	II.1.n. Pensée bourgeoise et doctrines étatistes (1936, Penser avec les mains (1972))
+body-3-2-15	II.1.o. Petit panorama d’une grande démission (1936, Penser avec les mains (1972))
 </value>
         </attributekey>
       </attributes>
@@ -3669,13 +3669,13 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="collateral">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -3718,17 +3718,17 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
                         <li class="here">
                           <a href="#">II.1. La pensée prolétarisée</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="17#body-3-2-1">II.1.a. L’exigence fondamentale</a>
                             </li>
@@ -3774,14 +3774,14 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
                             <li class="collateral">
                               <a href="17#body-3-2-15">II.1.o. Petit panorama d’une grande démission</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="18">II.2. Éléments d’une morale de la pensée</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3795,7 +3795,7 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
           <value>Chapter</value>
         </attributekey>
         <attributekey handle="meta_title">
-          <value>II.2. Éléments d’une morale de la pensée (1972, Penser avec les mains)</value>
+          <value>II.2. Éléments d’une morale de la pensée (1936, Penser avec les mains (1972))</value>
         </attributekey>
         <attributekey handle="meta_ld">
           <value>
@@ -3813,7 +3813,7 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
   },{
     "@type": "ListItem",
     "position": 2,
-    "name": "Penser avec les mains (1972)",
+    "name": "Penser avec les mains (1972) (1936)",
     "item": {
       "@id": "https://www.unige.ch/rougemont/livres/ddr1972pm",
       "@type": "Book"
@@ -3830,23 +3830,23 @@ body-3-2-15	II.1.o. Petit panorama d’une grande démission (1972, Penser avec 
           <value>II.2.a. Révolution culturelle – II.2.b. Mission de la culture – II.2.c. Qu’est-ce que l’acte ? – II.2.d. Première vertu : le réalisme – II.2.e. Deuxième vertu : la violence – II.2.f. Troisième vertu : l’autorité – II.2.g. Quatrième vertu : le goût du risque – II.2.h. Cinquième vertu : l’originalité – II.2.i. Sixième vertu : d’un certain ascétisme de l’expression – II.2.j. Dialectique de l’incarnation – II.2.k. Septième vertu : l’imagination – II.2.l. Huitième vertu : le style – II.2.m. La mesure occidentale – II.2.n. Incarnation de la mesure occidentale : la personne – II.2.o. De l’héroïsme – II.2.p. Enchaînement des valeurs – II.2.q. Sens de la liberté, ou la conquête de la personne</value>
         </attributekey>
         <attributekey handle="subheads">
-          <value>body-3-3-1	II.2.a. Révolution culturelle (1972, Penser avec les mains)
-body-3-3-2	II.2.b. Mission de la culture (1972, Penser avec les mains)
-body-3-3-3	II.2.c. Qu’est-ce que l’acte ? (1972, Penser avec les mains)
-body-3-3-4	II.2.d. Première vertu : le réalisme (1972, Penser avec les mains)
-body-3-3-5	II.2.e. Deuxième vertu : la violence (1972, Penser avec les mains)
-body-3-3-6	II.2.f. Troisième vertu : l’autorité (1972, Penser avec les mains)
-body-3-3-7	II.2.g. Quatrième vertu : le goût du risque (1972, Penser avec les mains)
-body-3-3-8	II.2.h. Cinquième vertu : l’originalité (1972, Penser avec les mains)
-body-3-3-9	II.2.i. Sixième vertu : d’un certain ascétisme de l’expression (1972, Penser avec les mains)
-body-3-3-10	II.2.j. Dialectique de l’incarnation (1972, Penser avec les mains)
-body-3-3-11	II.2.k. Septième vertu : l’imagination (1972, Penser avec les mains)
-body-3-3-12	II.2.l. Huitième vertu : le style (1972, Penser avec les mains)
-body-3-3-13	II.2.m. La mesure occidentale (1972, Penser avec les mains)
-body-3-3-14	II.2.n. Incarnation de la mesure occidentale : la personne (1972, Penser avec les mains)
-body-3-3-15	II.2.o. De l’héroïsme (1972, Penser avec les mains)
-body-3-3-16	II.2.p. Enchaînement des valeurs (1972, Penser avec les mains)
-body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1972, Penser avec les mains)
+          <value>body-3-3-1	II.2.a. Révolution culturelle (1936, Penser avec les mains (1972))
+body-3-3-2	II.2.b. Mission de la culture (1936, Penser avec les mains (1972))
+body-3-3-3	II.2.c. Qu’est-ce que l’acte ? (1936, Penser avec les mains (1972))
+body-3-3-4	II.2.d. Première vertu : le réalisme (1936, Penser avec les mains (1972))
+body-3-3-5	II.2.e. Deuxième vertu : la violence (1936, Penser avec les mains (1972))
+body-3-3-6	II.2.f. Troisième vertu : l’autorité (1936, Penser avec les mains (1972))
+body-3-3-7	II.2.g. Quatrième vertu : le goût du risque (1936, Penser avec les mains (1972))
+body-3-3-8	II.2.h. Cinquième vertu : l’originalité (1936, Penser avec les mains (1972))
+body-3-3-9	II.2.i. Sixième vertu : d’un certain ascétisme de l’expression (1936, Penser avec les mains (1972))
+body-3-3-10	II.2.j. Dialectique de l’incarnation (1936, Penser avec les mains (1972))
+body-3-3-11	II.2.k. Septième vertu : l’imagination (1936, Penser avec les mains (1972))
+body-3-3-12	II.2.l. Huitième vertu : le style (1936, Penser avec les mains (1972))
+body-3-3-13	II.2.m. La mesure occidentale (1936, Penser avec les mains (1972))
+body-3-3-14	II.2.n. Incarnation de la mesure occidentale : la personne (1936, Penser avec les mains (1972))
+body-3-3-15	II.2.o. De l’héroïsme (1936, Penser avec les mains (1972))
+body-3-3-16	II.2.p. Enchaînement des valeurs (1936, Penser avec les mains (1972))
+body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1936, Penser avec les mains (1972))
 </value>
         </attributekey>
       </attributes>
@@ -4297,13 +4297,13 @@ body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1972, P
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Préface 1972</a>
                     </li>
                     <li class="collateral">
                       <div>I. La commune mesure</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="2">I.1. Le problème de la culture</a>
                         </li>
@@ -4346,11 +4346,11 @@ body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1972, P
                         <li class="collateral">
                           <a href="15">I.14. L’appel à la commune mesure, ou l’Europe du <span class="num">xx<sup>e</sup></span> siècle</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Penser avec les mains</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="16">Préambule</a>
                         </li>
@@ -4359,7 +4359,7 @@ body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1972, P
                         </li>
                         <li class="here">
                           <a href="#">II.2. Éléments d’une morale de la pensée</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="18#body-3-3-1">II.2.a. Révolution culturelle</a>
                             </li>
@@ -4411,11 +4411,11 @@ body-3-3-17	II.2.q. Sens de la liberté, ou la conquête de la personne (1972, P
                             <li class="collateral">
                               <a href="18#body-3-3-17">II.2.q. Sens de la liberté, ou la conquête de la personne</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

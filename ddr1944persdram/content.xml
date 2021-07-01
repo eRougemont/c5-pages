@@ -64,7 +64,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="here">
                       <a href="#">Note de l’auteur</a>
                     </li>
@@ -73,7 +73,7 @@
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -86,19 +86,19 @@
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -108,17 +108,17 @@
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -240,7 +240,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -249,7 +249,7 @@
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -262,19 +262,19 @@
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -284,17 +284,17 @@
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -509,7 +509,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -518,7 +518,7 @@
                     </li>
                     <li class="ancestor">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">1. Le silence de Goethe</a>
                         </li>
@@ -531,19 +531,19 @@
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -553,17 +553,17 @@
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -690,7 +690,7 @@
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -699,7 +699,7 @@
                     </li>
                     <li class="ancestor">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -712,19 +712,19 @@
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -734,17 +734,17 @@
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -938,7 +938,7 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                   
 <a class="pb" href="#pb69" id="pb69">[p. 69]</a>
 
-                  <i class="i">force d’idées ne trouve plus le temps ni la patience de penser une idée</i><a class="noteref" href="5#note25" id="note25_"><sup>25</sup></a> ». Mais le croyant connaît cette « <i class="i">impériale volupté de ne jamais sortir des voies d’</i>une<i class="i"> pensée, de ne jamais non plus s’en effrayer</i><a class="noteref" href="5#note26" id="note26_"><sup>26</sup></a> ». Et comment pourrait-il avoir peur de l’idée, puisqu’il <i class="i">est</i> cette idée, et cet ordre de Dieu ? Puisqu’il ne se craint plus ? Puisque sa mort est derrière lui.</p>
+                  <i class="i">force d’idées ne trouve plus le temps ni la patience de penser une idée</i><a class="noteref" href="5#note25" id="note25_"><sup>25</sup></a> ». Mais le croyant connaît cette « <em>impériale volupté de ne jamais sortir des voies d’<em>une</em> pensée, de ne jamais non plus s’en effrayer</em><a class="noteref" href="5#note26" id="note26_"><sup>26</sup></a> ». Et comment pourrait-il avoir peur de l’idée, puisqu’il <i class="i">est</i> cette idée, et cet ordre de Dieu ? Puisqu’il ne se craint plus ? Puisque sa mort est derrière lui.</p>
                         <p class="p"><i class="i">Un seul</i> donc peut être héroïque : c’est celui que la foi conduit dans la pureté immédiate. Tout le reste n’est que défi, intempérance et désespoir. « <i class="i">Oser à fond être soi-même, oser réaliser un individu, non tel ou tel, mais celui-ci, isolé devant Dieu, seul dans l’immensité de son effort et de sa responsabilité : c’est là l’héroïsme chrétien…</i> » Kierkegaard ajoute aussitôt : « <i class="i">… et avouons-le, sa rareté probable.</i> » Car tout cela va au martyre. Les églises le savent bien. Elles insistent plutôt sur autre chose. On dirait qu’elles préfèrent <i class="i">conserver</i> leurs fidèles… Mais la question se pose : qu’est-ce alors qu’un fidèle ?</p>
                         <p class="p">« Nous ne pouvons pourtant pas être tous des martyrs ! » — Réponse de Kierkegaard : « <i class="i">Ne vaudrait-il pas mieux que chacun dise pour soi-même : je ne le puis pas. Si c’est folie que tous croient devoir l’être, — c’est une folie aussi que nul ne veuille l’être.</i> »</p>
                       </section>
@@ -1181,7 +1181,7 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                       </section>
                     </section>
                     <section class="footnotes">
-                      <div class="page"/>
+                      <div class="page"> </div>
                       <div class="page">
                         <div class="b note-page">
                           <a href="5#pb56">p. 56</a>
@@ -1371,7 +1371,7 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -1380,7 +1380,7 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                     </li>
                     <li class="ancestor">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -1389,13 +1389,13 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                         </li>
                         <li class="here">
                           <a href="#">3. Kierkegaard</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="5#body-3-3-1">3.a Introduction</a>
                             </li>
                             <li class="collateral">
                               <a href="5#body-3-3-2">3.1. La pureté de Kierkegaard</a>
-                              <ul>
+                              <ol>
                                 <li class="collateral">
                                   <a href="5#body-3-3-2-1">3.1.1. Kierkegaard est difficile parce qu’il est simple</a>
                                 </li>
@@ -1417,11 +1417,11 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                                 <li class="collateral">
                                   <a href="5#body-3-3-2-7">3.1.7. « <i>Sancta simplicitas</i> »</a>
                                 </li>
-                              </ul>
+                              </ol>
                             </li>
                             <li class="collateral">
                               <a href="5#body-3-3-3">3.2. L’acte selon Kierkegaard</a>
-                              <ul>
+                              <ol>
                                 <li class="collateral">
                                   <a href="5#body-3-3-3-1">3.2.1. La vérité est le chemin</a>
                                 </li>
@@ -1443,11 +1443,11 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                                 <li class="collateral">
                                   <a href="5#body-3-3-3-7">3.2.7. Toute vocation est sans précédent</a>
                                 </li>
-                              </ul>
+                              </ol>
                             </li>
                             <li class="collateral">
                               <a href="5#body-3-3-4">3.3. Nécessité du solitaire</a>
-                              <ul>
+                              <ol>
                                 <li class="collateral">
                                   <a href="5#body-3-3-4-1">3.3.1. On appelle l’esprit…</a>
                                 </li>
@@ -1469,26 +1469,26 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                                 <li class="collateral">
                                   <a href="5#body-3-3-4-7">3.3.7. Un seul utile à tous</a>
                                 </li>
-                              </ul>
+                              </ol>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -1498,17 +1498,17 @@ body-3-3-4-7	3.3.7. Un seul utile à tous (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1731,7 +1731,7 @@ body-3-4-3	4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -1740,7 +1740,7 @@ body-3-4-3	4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe
                     </li>
                     <li class="ancestor">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -1752,7 +1752,7 @@ body-3-4-3	4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe
                         </li>
                         <li class="here">
                           <a href="#">4. Franz Kafka,  ou l’aveu de la réalité</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="6#body-3-4-1">4.a. <i>Le Procès</i>, ou la loi qui conduit à la mort</a>
                             </li>
@@ -1762,21 +1762,21 @@ body-3-4-3	4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe
                             <li class="collateral">
                               <a href="6#body-3-4-3">4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -1786,17 +1786,17 @@ body-3-4-3	4.c. « K. » Entre la folie de Kierkegaard et la sagesse de Goethe
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -1983,7 +1983,7 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -1992,7 +1992,7 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -2005,14 +2005,14 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">5. Luther et la liberté de la personne</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="7#body-4-1-1">5.a. <i>Traité du Serf-arbitre</i></a>
                             </li>
@@ -2022,13 +2022,13 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                             <li class="collateral">
                               <a href="7#body-4-1-3">5.c. Réalité radicale du problème</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -2038,17 +2038,17 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2194,7 +2194,7 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -2203,7 +2203,7 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -2216,19 +2216,19 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -2238,17 +2238,17 @@ body-4-1-3	5.c. Réalité radicale du problème (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2542,7 +2542,7 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -2551,7 +2551,7 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -2564,25 +2564,25 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
                         <li class="here">
                           <a href="#">7. Vues sur Ramuz</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="9#body-5-2-1">7.a. Ramuz mythologue</a>
                             </li>
@@ -2595,22 +2595,22 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                             <li class="collateral">
                               <a href="9#body-5-2-4">7.d. Formule d’une personne</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -2670,7 +2670,7 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                       <div class="bibl"><span class="sc">Hamann</span> (<cite class="title">Paraphrase du Psaume 19.</cite>)</div>
                     </blockquote>
                     <p class="p autofirst">De l’<i class="i">Art poétique</i> de Claudel, qui domine toute son œuvre ultérieure, je retiendrai d’abord deux mots : « poétique » dans le titre, et « connaissance » qui s’inscrit à chaque page.</p>
-                    <p class="p">La rumeur quotidienne tend à faire de « poète » une circonstance atténuante, au bénéfice du maladroit s’il est aimable. Ou bien c’est l’ornement de nos loisirs. Mais Claudel dit : l’art poétique est art de faire.<a id="_GoBack">‌</a></p>
+                    <p class="p">La rumeur quotidienne tend à faire de « poète » une circonstance atténuante, au bénéfice du maladroit s’il est aimable. Ou bien c’est l’ornement de nos loisirs. Mais Claudel dit : l’art poétique est art de faire.</p>
                     <p class="p">Un gémissement célèbre, chez les clercs, déplore l’antipathie tragique de la Vie et de la connaissance. Ceci tuerait cela. Et de cette dialectique, on a tiré quelques rayons d’in-octavos. Mais Claudel : « Vivre c’est connaître », « Se connaître, c’est faire naître avec soi. »…</p>
                     <p class="p">Il ne s’agit évidemment, ici et là, ni de la même poésie ni de la même connaissance.</p>
                     <a class="pb" href="#pb192" id="pb192">[p. 192]</a>
@@ -2739,7 +2739,7 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -2748,7 +2748,7 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -2761,19 +2761,19 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -2783,17 +2783,17 @@ body-5-2-4	7.d. Formule d’une personne (1944, Les Personnes du drame)
                         <li class="here">
                           <a href="#">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="11">8. Le Romantisme allemand</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>
@@ -3002,7 +3002,7 @@ body-6-1-4	8.d. Répercussions collectives du romantisme anti-personnaliste (194
             <data table="btContentLocal">
               <record>
                 <content><![CDATA[
-                  <ul>
+                  <ol>
                     <li class="collateral">
                       <a href="1">Note de l’auteur</a>
                     </li>
@@ -3011,7 +3011,7 @@ body-6-1-4	8.d. Répercussions collectives du romantisme anti-personnaliste (194
                     </li>
                     <li class="collateral">
                       <div>I. Sagesse et folie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="3">1. Le silence de Goethe</a>
                         </li>
@@ -3024,19 +3024,19 @@ body-6-1-4	8.d. Répercussions collectives du romantisme anti-personnaliste (194
                         <li class="collateral">
                           <a href="6">4. Franz Kafka,  ou l’aveu de la réalité</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>II. Liberté et fatum</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="7">5. Luther et la liberté de la personne</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="collateral">
                       <div>III. Sincérité et authenticité</div>
-                      <ul>
+                      <ol>
                         <li class="collateral">
                           <a href="8">6.. Le <i>Journal</i> d’André Gide</a>
                         </li>
@@ -3046,14 +3046,14 @@ body-6-1-4	8.d. Répercussions collectives du romantisme anti-personnaliste (194
                         <li class="collateral">
                           <a href="10">III.3. L’Art poétique de Claudel</a>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
                     <li class="ancestor">
                       <div>IV. Une maladie de la personne</div>
-                      <ul>
+                      <ol>
                         <li class="here">
                           <a href="#">8. Le Romantisme allemand</a>
-                          <ul>
+                          <ol>
                             <li class="collateral">
                               <a href="11#body-6-1-1">8.a. Le Rêve et la mystique</a>
                             </li>
@@ -3066,11 +3066,11 @@ body-6-1-4	8.d. Répercussions collectives du romantisme anti-personnaliste (194
                             <li class="collateral">
                               <a href="11#body-6-1-4">8.d. Répercussions collectives du romantisme anti-personnaliste</a>
                             </li>
-                          </ul>
+                          </ol>
                         </li>
-                      </ul>
+                      </ol>
                     </li>
-                  </ul>
+                  </ol>
                 ]]></content>
               </record>
             </data>

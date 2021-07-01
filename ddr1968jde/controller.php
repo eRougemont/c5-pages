@@ -9,8 +9,8 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1968jde';
-  protected $pkgVersion = '20.10.27';
-  protected $title = 'Journal d’une Époque (1926-1946)';
+  protected $pkgVersion = '21.01.28';
+  protected $title = 'Journal d’une Époque — 1926-1946 (1968)';
   protected $bookpath = '/livres/ddr1968jde';
 
   public function getPackageName()

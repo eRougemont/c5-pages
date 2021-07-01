@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1982paysan';
-  protected $pkgVersion = '20.10.05';
+  protected $pkgVersion = '21.01.28';
   protected $title = 'Le Paysan du Danube et autres textes';
   protected $bookpath = '/livres/ddr1982paysan';
 
