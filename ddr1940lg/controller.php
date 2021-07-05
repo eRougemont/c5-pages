@@ -1,5 +1,5 @@
 <?php
-namespace Concrete\Package\Ddr1957aoh;
+namespace Concrete\Package\Ddr1940lg;
 
 use Package;
 use PageType;
@@ -8,10 +8,10 @@ use PageTemplate;
 
 class Controller extends Package
 {
-  protected $pkgHandle = 'ddr1957aoh';
+  protected $pkgHandle = 'ddr1940lg';
   protected $pkgVersion = '21.07.03';
-  protected $title = 'L’Aventure occidentale de l’homme';
-  protected $bookpath = '/livres/ddr1957aoh';
+  protected $title = 'Qu’est-ce que la Ligue du Gothard ?';
+  protected $bookpath = '/livres/ddr1940lg';
 
   public function getPackageName()
   {

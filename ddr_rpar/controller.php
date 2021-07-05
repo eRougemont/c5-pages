@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_rpar';
-  protected $pkgVersion = '21.06.30';
+  protected $pkgVersion = '21.07.03';
   protected $title = 'La Revue de Paris, articles (1937–1969)';
   protected $bookpath = '/articles/rpar';
 

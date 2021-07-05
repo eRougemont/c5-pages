@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_bgl';
-  protected $pkgVersion = '21.06.30';
+  protected $pkgVersion = '21.07.03';
   protected $title = 'Bulletin de la Guilde du Livre, articles (1937–1948)';
   protected $bookpath = '/articles/bgl';
 

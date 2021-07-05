@@ -350,11 +350,11 @@
                       <a href="#193909">Puisque je suis un militaire… (septembre 1939)<a class="noteref" href="193909#note8" id="note8_">a</a></a>
                     </h1>
                     <blockquote class="epigraph">
-                      <p class="p autofirst">Puisque je suis un militaire,
-            <br class="lb"/>Il faut bien faire mon état.</p>
+                      <div class="l">Puisque je suis un militaire,</div>
+                      <div class="l">Il faut bien faire mon état.</div>
+                      <div class="bibl">Chanson du <span class="num">xviii<sup class="sup">e</sup></span> siècle.</div>
                     </blockquote>
-                    <div class="bibl">Chanson du <span class="num">xviii<sup class="sup">e</sup></span> siècle.</div>
-                    <p class="p">— Tu te rends compte ? dit un camarade. — Pas trop. Mais pour sûr on y est !</p>
+                    <p class="p autofirst">— Tu te rends compte ? dit un camarade. — Pas trop. Mais pour sûr on y est !</p>
                     <p class="p">L’impression générale, c’est qu’on nous a « mis dedans ». (Je dis <em>on</em>, je ne sais pas qui c’est. Comme le brave paysan vaudois, après la grêle, qui désignait d’un doigt le ciel coupable : « Je n’accuse personne, mais c’est dégoûtant ! ») Nous voilà faits, refaits par l’événement, plongés d’un coup dans le détail technique de ces grandes choses terribles qu’on imaginait, qu’on redoutait, qu’on croyait préparer, et qui nous trouvent sans peur et sans préparation dès l’instant qu’elles deviennent présentes, cessent d’être imaginées, ou même imaginables.</p>
                     <p class="p">Tout de même, après huit jours, les choses commencent à se situer. Les grandes masses de l’Europe, les grandes lignes de la guerre, et çà et là, dans nos frontières, des secteurs minuscules, comme au hasard, qu’on voit d’un coup avec une précision quasi absurde. Cette chambre paysanne ou j’écris maintenant, sur un bon papier quadrillé, tandis qu’Albert Mermoud, en travers de son lit, les hottes pendantes, dépouille le courrier de la Guilde… Je ne puis pas vous dire où cela se trouve sans contrevenir aux ordres les plus stricts, mais c’est très bien ainsi, Denis de Rougemont et le directeur de la Guilde « en campagne », car nous sommes <em>n’importe où</em>, sans raison raisonnable ou prévisible.</p>
                     <p class="p">J’aime beaucoup les adresses militaires. Deux ou trois chiffres pour les initiés, et cette mention si belle, quand on y pense, dans son élémentaire grandeur : <em>En campagne</em>. Entendez : 
@@ -659,7 +659,7 @@
                     <p class="p">Paraît dans la porte du fond un homme en veste de chasse qui tient des verres de whisky à la main. Deux femmes blondes entrent et vont s’asseoir un peu à l’écart de notre groupe. Un autre homme apporte un plateau. On le renvoie chercher des verres et des bouteilles. Qui sont ces gens ? Elle dit : « Je ne le sais pas plus que vous. Ils sont dans la maison depuis deux ou trois jours et se disent les amis de Jim. — Mais où est Jim ? — Je ne sais pas ? Il est parti. »</p>
                     <p class="p">Jim était l’intendant, une sorte de géant toujours en bottes, qu’elle emmenait partout avec elle. Je pense au regard d’acier du jeune homme silencieux de tout à l’heure. Des chiens se glissent entre les meubles, humides et tremblants. « Mais je ne sais pas recevoir ! dit-elle moqueuse. Voulez-vous que je vous joue du piano ? Pour faire croire que je n’ai pas peur… »</p>
                     <br class="space line1"/>
-                    <p class="p">— Eh bien ? m’ont demandé mes amis dans la voiture qui nous emporte sous la pluie, qu’en pensez-vous ?</p>
+                    <p class="p autofirst">— Eh bien ? m’ont demandé mes amis dans la voiture qui nous emporte sous la pluie, qu’en pensez-vous ?</p>
                     <p class="p">— J’ai pensé que, pour la première fois de ma vie, je me sens tenté d’écrire la suite du roman.</p>
                     <section class="footnotes">
                       <div class="page">
@@ -939,17 +939,21 @@
             <br class="lb"/>Et les tristes discours…
             <br class="lb"/>… Est-ce quelque dédale où ta raison perdue
             <br class="lb"/>Ne se retrouve pas ?</p>
+                      <div class="bibl">
+                        <span class="surname surnamenokey" data-key="surnamenokey" id="surname1">Malherbe</span>
+                      </div>
                     </blockquote>
-                    <div class="bibl">MALHERBE</div>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Différence entre les Accusations et les Calomnies.</p>
                       <p class="p">On ne peut donner aux gardiens de la liberté d’un État un droit plus utile et plus nécessaire que celui de pouvoir accuser, soit devant le peuple, soit devant un magistrat ou tribunal quelconque, les citoyens qui auraient commis un délit contre cette liberté… Mais autant ces accusations sont utiles dans une république, autant les calomnies sont dangereuses et sans but… On accuse les citoyens devant les magistrats, on les calomnie sur les places publiques, dans les assemblées particulières.</p>
+                      <div class="bibl"><span class="surname surnamenokey" data-key="surnamenokey" id="surname2">Machiavel</span> : <em>Discours sur la Première Décade de Tite-Live</em>, chap. VII.</div>
                     </blockquote>
-                    <div class="bibl">MACHIAVEL : <em>Discours sur la Première Décade de Tite-Live</em>, chap. VII.</div>
                     <section id="body-10-1" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-1">Une accusation</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-1">Une accusation</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Le 13 novembre 1947, on pouvait lire dans notre presse de copieux comptes rendus de la plaidoirie prononcée par M<sup class="sup">e</sup> Duperrier lors du procès de son client Georges Oltramare. Ainsi dans la <a href="https://www.unige.ch/rougemont/articles/glaus"><em>Gazette de Lausanne</em></a> :</p>
                       <blockquote class="quote">
                         <p class="p autofirst">
@@ -967,31 +971,39 @@
                       </blockquote>
                     </section>
                     <section id="body-10-2" class="div level2">
-                      <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bgl/ddr194712bgl_02.jpg/full/full/0/default.jpg" id="p.327">[p. 327]</a>
-                      <h2 class="head">
-                        <a href="#body-10-2">Une calomnie</a>
-                      </h2>
+                      <header>
+                        <a class="pb facs" href="https://iiif.unige.ch/iiif/2/rougemont/ddr-articles/ddr-articles-bgl/ddr194712bgl_02.jpg/full/full/0/default.jpg" id="p.327">[p. 327]</a>
+                        <h3 class="head">
+                          <a href="#body-10-2">Une calomnie</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Peu de temps auparavant, les Éditions Fontaine, à Paris, avaient publié le recueil des conférences prononcées l’hiver dernier en Sorbonne sous les auspices de l’Unesco. À la page 100 de ce recueil, M. Aragon déclare que je n’ai « jamais cessé au temps de Vichy d’être publié en France », et il insinue que si j’attaque aujourd’hui le nationalisme, c’est pour mieux « passer sous silence l’hitlérisme ».</p>
                     </section>
                     <section id="body-10-3" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-3">Qui croire ?</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-3">Qui croire ?</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Ainsi donc, selon M<sup class="sup">e</sup> Duperrier, j’ai passé le temps de la guerre à « mettre en danger la sécurité de mon pays », et cela par mon activité antinazie, tandis que, d’après Aragon, j’aurais passé le même temps à « passer sous silence » le nazisme et l’antisémitisme, et cela pour publier mes livres sous Vichy, c’est-à-dire du côté d’Oltramare.</p>
                       <p class="p">Ces deux griefs s’accordant mal, qui devons-nous croire ?</p>
                       <p class="p">Remarquez que M<sup class="sup">e</sup> Duperrier, en me dénonçant devant un tribunal, a brandi ses preuves : mon <em>Journal</em> dans l’édition reliée de la Guilde. Tandis que M. Aragon, devant une « assemblée particulière », n’a rien brandi du tout, ni rien prouvé, et il en eût été bien empêché, car si quelqu’un n’a pas cessé d’être publié sous Vichy, c’est lui et non pas moi ; et si quelqu’un a vu ses livres censurés en Suisse, c’est moi et non pas lui.</p>
                       <p class="p">Avec Tite-Live et son commentateur, je suis pour les accusations mais contre les calomnies, parce que je suis pour la liberté qui est du courage mais contre la licence qui est du fanatisme, ou de la lâcheté, ou simplement (restons courtois) de l’étourderie.</p>
                     </section>
                     <section id="body-10-4" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-4">Où je me vois sommé de répondre</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-4">Où je me vois sommé de répondre</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Lorsque j’ai lu de quoi l’on accusait Georges Oltramare, quelques jours avant son procès, je me suis dit, songeant à ma propre action pendant la guerre : « Quel curieux parallèle et quel joli contraste ! Se trouvera-t-il quelqu’un pour les relever ? » Et puis les circonstances de ma vie ne m’ont plus laissé le loisir d’y penser, ni même de bien lire les journaux. Mais voici ce matin sur mon bureau une de ces lettres-éclair de notre directeur : « Les journalistes, dit-il, m’accablent de téléphones et dérangent mon travail pour me demander mon opinion sur cette affaire… » Il joint l’extrait de la <em>Gazette</em> qu’on vient de lire et m’enjoint de « saisir l’occasion d’un papier ». Si je comprends bien, il veut sa paix, et me laisse le soin de répondre aux téléphones. OK ! disent les Américains. Pendant qu’il administre, amusons-nous.</p>
                     </section>
                     <section id="body-10-5" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-5">Où je réponds</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-5">Où je réponds</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Voici le raisonnement qu’a tenu devant la cour le bouillant M<sup class="sup">e</sup> Duperrier : — Rougemont s’est mis au service d’une propagande étrangère, comme Oltramare ; il a parlé à la radio, comme Oltramare ; et hors de Suisse, comme Oltramare encore. Les deux cas étant identiques, il faut donc condamner Rougemont, mais il faut acquitter Oltramare.</p>
                       <p class="p">Vous n’y comprenez rien ? Ni moi non plus. C’est que ce raisonnement n’en est pas un, mais combine deux absurdités.</p>
                       <p class="p">1. Si l’on admet avec cet avocat que j’ai vraiment agi comme son client, l’alternative est la suivante : ou bien je suis coupable, mais alors Oltramare l’est aussi, la plaidoirie devient un réquisitoire, et l’avocat fait une drôle de figure. Ou bien il faut acquitter Oltramare, mais alors il n’y avait pas lieu de me dénoncer, tout ce discours retombe à plat, et notre avocat perd la face.</p>
@@ -1003,15 +1015,19 @@
                       <p class="p">Si M<sup class="sup">e</sup> Duperrier ne sent pas la différence, essayons de l’éclairer par une fable.</p>
                     </section>
                     <section id="body-10-6" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-6">Fable</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-6">Fable</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">J’ai tant et si bien parlé à la radio américaine, qu’à la fin les nazis ont occupé la Suisse. Voilà ce que c’est ! On m’y ramène sous bonne escorte. Le Gauleiter, un nommé Oltramare, me fait emprisonner, puis juger sommairement, et M<sup class="sup">e</sup> Duperrier se voit chargé d’office de ma défense. Que va-t-il dire ? Il n’hésite pas : il dit que j’ai fait comme Oltramare, notre infaillible führer suisse. On lui répond que ça ne prend pas, que j’ai fait exactement le contraire. On me fusille et on le pend d’office. Fin de la douleur de Duperrier.</p>
                     </section>
                     <section id="body-10-7" class="div level2">
-                      <h2 class="head">
-                        <a href="#body-10-7">Mais voilà…</a>
-                      </h2>
+                      <header>
+                        <h3 class="head">
+                          <a href="#body-10-7">Mais voilà…</a>
+                        </h3>
+                      </header>
                       <p class="p autofirst">Les Américains ont gagné la guerre. La Suisse subsiste, intacte et libre. On n’a pas fusillé Oltramare, on s’est borné à le punir un peu. Son avocat garde le droit de me dénoncer pour avoir combattu l’hitlérisme, et Aragon le droit de me calomnier sous un prétexte exactement inverse. Je garde le droit de répondre, et même de rire. Et vous, lecteurs, vous gardez le droit de juger toute cette affaire, mon livre en main, selon votre conscience de citoyens de la plus vieille démocratie du monde.</p>
                       <p class="p">Jugez donc ! et dites avec moi que nous l’avons échappé belle ! Et que le désordre tolérable et tolérant où nous voici tout de même encore <em>vivants et libres</em>, vaut mieux que leur « ordre » où nous serions des morts, ou je ne sais quels esclaves honteux de vivre.</p>
                       <div class="dateline">À Ferney-Voltaire, le 20 novembre 1947.</div>
@@ -1124,10 +1140,8 @@
                     </h1>
                     <blockquote class="epigraph">
                       <p class="p autofirst">Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre, et filtrent entre les roseaux.</p>
+                      <div class="bibl"><cite class="title">L’Immoraliste</cite>.</div>
                     </blockquote>
-                    <div class="bibl">
-                      <em>L’Immoraliste</em>
-                    </div>
                     <p class="p autofirst">Près de ces eaux, ma vie sentimentale est née. Et depuis lors elle est restée lacustre. « Odeur de l’eau pour toute la vie », écrivait un <a href="https://www.unige.ch/rougemont/livres/ddr1932paysan/9"><em>Paysan du Danube</em></a>, et vingt ans ne l’ont pas démenti.</p>
                     <p class="p">Je dénombre mes lacs et ne puis retrouver que du bonheur à ces souvenirs. Non qu’ils me parlent tous de jours heureux, mais la mémoire des plus amers ou des plus seuls a gardé le charme des eaux. Faut-il penser que la souffrance au bord d’un lac n’est jamais sans quelque douceur ?</p>
                     <p class="p">Cherchant d’où vient cet agrément, et pourquoi dans le monde lacustre on ressent la vie mieux qu’ailleurs, plus savoureuse et plus présente, je me dis : c’est qu’un vrai lac est un univers clos, si grands soient les miroirs qu’il offre aux ciels changeants, et si profonds ses lointains de lumière. La pente derrière moi, l’horizon des collines, sont le cadre qui donne au tableau sa signification privilégiée. Ici le cœur et l’âme ont leur théâtre pur, où tout est sens, écho, dialogue à l’infini. Ici la joie trouve un espace où se déployer sans se perdre, la méditation des ciels bas, la passion des orages complets, et la peine une baie secrète, où les cris des oiseaux dans la brume s’occupent d’une vie bien différente… Enfin la variété des objets, des lumières, des premiers plans et des éloignements qu’un peu de vent déplace, illumine ou éteint, voilà qui satisfait comme nul autre paysage ce goût profond de composer, de contraster, de voiler puis de découvrir, de plonger à l’abandonnée, de s’écarter, de revenir, de boire des yeux, de comparer, de contempler sans fin, où l’on a reconnu l’amour, comme il aime à s’y retrouver.</p>

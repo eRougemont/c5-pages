@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr_nlit';
-  protected $pkgVersion = '21.06.30';
+  protected $pkgVersion = '21.07.03';
   protected $title = 'Les Nouvelles littéraires, articles (1933–1972)';
   protected $bookpath = '/articles/nlit';
 

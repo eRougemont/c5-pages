@@ -158,10 +158,12 @@
               <record>
                 <content>
                   <article role="article">
-                    <xsl:apply-templates>
+                    <xsl:call-template name="div-header">
                       <xsl:with-param name="level" select="1"/>
-                    </xsl:apply-templates>
-                    <xsl:call-template name="footnotes"/>
+                    </xsl:call-template>
+                    <footer>
+                      <xsl:call-template name="footnotes"/>
+                    </footer>
                   </article>
                 </content>
               </record>

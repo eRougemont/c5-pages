@@ -9,7 +9,7 @@ use PageTemplate;
 class Controller extends Package
 {
   protected $pkgHandle = 'ddr1977aena';
-  protected $pkgVersion = '21.07.01';
+  protected $pkgVersion = '21.07.03';
   protected $title = 'L’Avenir est notre affaire';
   protected $bookpath = '/livres/ddr1977aena';
 
